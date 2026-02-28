@@ -1,1 +1,99 @@
 
+[
+  {
+    "class_id": 1,
+    "label": "Class 1",
+    "tag": "class_1",
+    "color_hex": "#FF6B6B",
+    "subject_count": 3,
+    "is_board": false
+  },
+  {
+    "class_id": 2,
+    "label": "Class 2",
+    "tag": "class_2",
+    "color_hex": "#FF8E53",
+    "subject_count": 3,
+    "is_board": false
+  },
+  {
+    "class_id": 3,
+    "label": "Class 3",
+    "tag": "class_3",
+    "color_hex": "#FFCA28",
+    "subject_count": 4,
+    "is_board": false
+  },
+  {
+    "class_id": 4,
+    "label": "Class 4",
+    "tag": "class_4",
+    "color_hex": "#66BB6A",
+    "subject_count": 4,
+    "is_board": false
+  },
+  {
+    "class_id": 5,
+    "label": "Class 5",
+    "tag": "class_5",
+    "color_hex": "#26C6DA",
+    "subject_count": 4,
+    "is_board": false
+  },
+  {
+    "class_id": 6,
+    "label": "Class 6",
+    "tag": "class_6",
+    "color_hex": "#42A5F5",
+    "subject_count": 6,
+    "is_board": false
+  },
+  {
+    "class_id": 7,
+    "label": "Class 7",
+    "tag": "class_7",
+    "color_hex": "#5C6BC0",
+    "subject_count": 6,
+    "is_board": false
+  },
+  {
+    "class_id": 8,
+    "label": "Class 8",
+    "tag": "class_8",
+    "color_hex": "#AB47BC",
+    "subject_count": 6,
+    "is_board": false
+  },
+  {
+    "class_id": 9,
+    "label": "Class 9",
+    "tag": "class_9",
+    "color_hex": "#EC407A",
+    "subject_count": 7,
+    "is_board": false
+  },
+  {
+    "class_id": 10,
+    "label": "Class 10",
+    "tag": "class_10",
+    "color_hex": "#EF5350",
+    "subject_count": 7,
+    "is_board": true
+  },
+  {
+    "class_id": 11,
+    "label": "Class 11",
+    "tag": "class_11",
+    "color_hex": "#26A69A",
+    "subject_count": 8,
+    "is_board": false
+  },
+  {
+    "class_id": 12,
+    "label": "Class 12",
+    "tag": "class_12",
+    "color_hex": "#667EEA",
+    "subject_count": 8,
+    "is_board": true
+  }
+]
