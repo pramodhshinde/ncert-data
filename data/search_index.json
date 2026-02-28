@@ -1,0 +1,218 @@
+[
+  {
+    "id": "book_class6_science",
+    "type": "book",
+    "title": "Science",
+    "class_id": 6,
+    "subject": "Science",
+    "book_id": "class6_science_en",
+    "chapter_id": null
+  },
+  {
+    "id": "book_class6_math",
+    "type": "book",
+    "title": "Mathematics",
+    "class_id": 6,
+    "subject": "Mathematics",
+    "book_id": "class6_math_en",
+    "chapter_id": null
+  },
+  {
+    "id": "ch_c6s01",
+    "type": "chapter",
+    "title": "Food: Where Does It Come From?",
+    "class_id": 6,
+    "subject": "Science",
+    "book_id": "class6_science_en",
+    "chapter_id": "c6s_ch01"
+  },
+  {
+    "id": "ch_c6s02",
+    "type": "chapter",
+    "title": "Components of Food",
+    "class_id": 6,
+    "subject": "Science",
+    "book_id": "class6_science_en",
+    "chapter_id": "c6s_ch02"
+  },
+  {
+    "id": "ch_c6s03",
+    "type": "chapter",
+    "title": "Fibre to Fabric",
+    "class_id": 6,
+    "subject": "Science",
+    "book_id": "class6_science_en",
+    "chapter_id": "c6s_ch03"
+  },
+  {
+    "id": "ch_c6m01",
+    "type": "chapter",
+    "title": "Knowing Our Numbers",
+    "class_id": 6,
+    "subject": "Mathematics",
+    "book_id": "class6_math_en",
+    "chapter_id": "c6m_ch01"
+  },
+  {
+    "id": "ch_c6m02",
+    "type": "chapter",
+    "title": "Whole Numbers",
+    "class_id": 6,
+    "subject": "Mathematics",
+    "book_id": "class6_math_en",
+    "chapter_id": "c6m_ch02"
+  },
+  {
+    "id": "ch_c6m03",
+    "type": "chapter",
+    "title": "Playing with Numbers",
+    "class_id": 6,
+    "subject": "Mathematics",
+    "book_id": "class6_math_en",
+    "chapter_id": "c6m_ch03"
+  },
+  {
+    "id": "book_class9_science",
+    "type": "book",
+    "title": "Science",
+    "class_id": 9,
+    "subject": "Science",
+    "book_id": "class9_science_en",
+    "chapter_id": null
+  },
+  {
+    "id": "book_class9_math",
+    "type": "book",
+    "title": "Mathematics",
+    "class_id": 9,
+    "subject": "Mathematics",
+    "book_id": "class9_math_en",
+    "chapter_id": null
+  },
+  {
+    "id": "ch_c9s01",
+    "type": "chapter",
+    "title": "Matter in Our Surroundings",
+    "class_id": 9,
+    "subject": "Science",
+    "book_id": "class9_science_en",
+    "chapter_id": "c9s_ch01"
+  },
+  {
+    "id": "ch_c9s02",
+    "type": "chapter",
+    "title": "Is Matter Around Us Pure",
+    "class_id": 9,
+    "subject": "Science",
+    "book_id": "class9_science_en",
+    "chapter_id": "c9s_ch02"
+  },
+  {
+    "id": "ch_c9s03",
+    "type": "chapter",
+    "title": "Atoms and Molecules",
+    "class_id": 9,
+    "subject": "Science",
+    "book_id": "class9_science_en",
+    "chapter_id": "c9s_ch03"
+  },
+  {
+    "id": "ch_c9m01",
+    "type": "chapter",
+    "title": "Number Systems",
+    "class_id": 9,
+    "subject": "Mathematics",
+    "book_id": "class9_math_en",
+    "chapter_id": "c9m_ch01"
+  },
+  {
+    "id": "ch_c9m02",
+    "type": "chapter",
+    "title": "Polynomials",
+    "class_id": 9,
+    "subject": "Mathematics",
+    "book_id": "class9_math_en",
+    "chapter_id": "c9m_ch02"
+  },
+  {
+    "id": "ch_c9m03",
+    "type": "chapter",
+    "title": "Coordinate Geometry",
+    "class_id": 9,
+    "subject": "Mathematics",
+    "book_id": "class9_math_en",
+    "chapter_id": "c9m_ch03"
+  },
+  {
+    "id": "book_class12_physics",
+    "type": "book",
+    "title": "Physics Part I",
+    "class_id": 12,
+    "subject": "Physics",
+    "book_id": "class12_physics_en",
+    "chapter_id": null
+  },
+  {
+    "id": "book_class12_chemistry",
+    "type": "book",
+    "title": "Chemistry Part I",
+    "class_id": 12,
+    "subject": "Chemistry",
+    "book_id": "class12_chemistry_en",
+    "chapter_id": null
+  },
+  {
+    "id": "ch_c12p01",
+    "type": "chapter",
+    "title": "Electric Charges and Fields",
+    "class_id": 12,
+    "subject": "Physics",
+    "book_id": "class12_physics_en",
+    "chapter_id": "c12p_ch01"
+  },
+  {
+    "id": "ch_c12p02",
+    "type": "chapter",
+    "title": "Electrostatic Potential and Capacitance",
+    "class_id": 12,
+    "subject": "Physics",
+    "book_id": "class12_physics_en",
+    "chapter_id": "c12p_ch02"
+  },
+  {
+    "id": "ch_c12p03",
+    "type": "chapter",
+    "title": "Current Electricity",
+    "class_id": 12,
+    "subject": "Physics",
+    "book_id": "class12_physics_en",
+    "chapter_id": "c12p_ch03"
+  },
+  {
+    "id": "ch_c12c01",
+    "type": "chapter",
+    "title": "The Solid State",
+    "class_id": 12,
+    "subject": "Chemistry",
+    "book_id": "class12_chemistry_en",
+    "chapter_id": "c12c_ch01"
+  },
+  {
+    "id": "ch_c12c02",
+    "type": "chapter",
+    "title": "Solutions",
+    "class_id": 12,
+    "subject": "Chemistry",
+    "book_id": "class12_chemistry_en",
+    "chapter_id": "c12c_ch02"
+  },
+  {
+    "id": "ch_c12c03",
+    "type": "chapter",
+    "title": "Electrochemistry",
+    "class_id": 12,
+    "subject": "Chemistry",
+    "book_id": "class12_chemistry_en",
+    "chapter_id": "c12c_ch03"
+  }
+]
