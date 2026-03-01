@@ -1,0 +1,72 @@
+[
+  {
+    "mcq_id": "c12p_ch03_q01",
+    "chapter_id": "c12p_ch03",
+    "question": "Ohm's Law states that ___.",
+    "options": [
+      "Current is directly proportional to resistance",
+      "Voltage is inversely proportional to current",
+      "Current is directly proportional to voltage at constant temperature",
+      "Resistance increases with voltage"
+    ],
+    "correct_index": 2,
+    "explanation": "Ohm's Law: V = IR. At constant temperature, the current (I) through a conductor is directly proportional to the voltage (V) across it. The proportionality constant is resistance (R). Materials obeying Ohm's law are called ohmic conductors.",
+    "ncert_page": 94,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch03_q02",
+    "chapter_id": "c12p_ch03",
+    "question": "The SI unit of resistivity is ___.",
+    "options": ["Ohm (Ω)", "Ohm-metre (Ω·m)", "Siemens (S)", "Ampere (A)"],
+    "correct_index": 1,
+    "explanation": "Resistivity (ρ) has SI unit of Ohm-metre (Ω·m). It is defined as R = ρL/A, where R is resistance, L is length, and A is cross-sectional area. Resistivity is a property of the material, not the shape.",
+    "ncert_page": 100,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch03_q03",
+    "chapter_id": "c12p_ch03",
+    "question": "Kirchhoff's Current Law (KCL) states that ___.",
+    "options": [
+      "Sum of currents at a junction equals sum of voltages",
+      "Algebraic sum of currents meeting at a junction is zero",
+      "Current increases at every junction",
+      "Current decreases at every junction"
+    ],
+    "correct_index": 1,
+    "explanation": "Kirchhoff's Current Law: The algebraic sum of all currents at any junction (node) in a circuit is zero (ΣI = 0). This is based on conservation of charge — charge cannot accumulate at a junction.",
+    "ncert_page": 112,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch03_q04",
+    "chapter_id": "c12p_ch03",
+    "question": "The device used to measure the internal resistance of a cell is ___.",
+    "options": ["Ammeter", "Voltmeter", "Potentiometer", "Galvanometer"],
+    "correct_index": 2,
+    "explanation": "A potentiometer is used to measure the internal resistance of a cell accurately. It measures EMF without drawing any current from the cell (null method), making it more accurate than using voltmeter-ammeter method.",
+    "ncert_page": 126,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch03_q05",
+    "chapter_id": "c12p_ch03",
+    "question": "Wheatstone bridge is used to ___.",
+    "options": [
+      "Measure very high resistance",
+      "Measure resistance accurately by a null method",
+      "Convert AC to DC",
+      "Amplify electric current"
+    ],
+    "correct_index": 1,
+    "explanation": "Wheatstone bridge accurately measures an unknown resistance using a null method (no current through galvanometer). Balanced condition: P/Q = R/S, where P, Q, R are known resistances and S is unknown. High accuracy is achieved because it does not depend on meter readings.",
+    "ncert_page": 118,
+    "difficulty": "medium",
+    "subject": "Physics"
+  }
+]

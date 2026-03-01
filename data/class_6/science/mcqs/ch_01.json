@@ -1,0 +1,57 @@
+[
+  {
+    "mcq_id": "c6s_ch01_q01",
+    "chapter_id": "c6s_ch01",
+    "question": "Which of the following is a plant-based food source?",
+    "options": ["Milk", "Egg", "Rice", "Meat"],
+    "correct_index": 2,
+    "explanation": "Rice is obtained from the paddy plant, making it a plant-based food source. Milk comes from animals (cows/buffaloes), eggs from hens, and meat from animals.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q02",
+    "chapter_id": "c6s_ch01",
+    "question": "Bees produce honey from ___.",
+    "options": ["Flowers (nectar)", "Fruits", "Leaves", "Roots"],
+    "correct_index": 0,
+    "explanation": "Honeybees collect nectar from flowers and convert it into honey inside the hive. Nectar is the sweet liquid produced by flowers.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q03",
+    "chapter_id": "c6s_ch01",
+    "question": "Animals that eat only plants are called ___.",
+    "options": ["Carnivores", "Omnivores", "Herbivores", "Scavengers"],
+    "correct_index": 2,
+    "explanation": "Herbivores are animals that feed only on plants. Examples include cows, goats, horses, and deer. Carnivores eat only animals, and omnivores eat both.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q04",
+    "chapter_id": "c6s_ch01",
+    "question": "Which part of the mustard plant is used as food?",
+    "options": ["Root", "Stem", "Seeds", "Bark"],
+    "correct_index": 2,
+    "explanation": "Seeds of the mustard plant are used to extract mustard oil, which is widely used in cooking. The seeds are also used as a spice.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q05",
+    "chapter_id": "c6s_ch01",
+    "question": "Lion is a ___.",
+    "options": ["Herbivore", "Omnivore", "Carnivore", "Decomposer"],
+    "correct_index": 2,
+    "explanation": "Lions are carnivores because they eat only the flesh of other animals. They hunt prey like deer, zebra, and buffalo for food.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Science"
+  }
+]

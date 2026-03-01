@@ -1,0 +1,72 @@
+[
+  {
+    "mcq_id": "c12c_ch03_q01",
+    "chapter_id": "c12c_ch03",
+    "question": "The specific conductance of a solution depends on ___.",
+    "options": [
+      "Nature of electrolyte only",
+      "Temperature only",
+      "Concentration only",
+      "Nature, temperature, and concentration of electrolyte"
+    ],
+    "correct_index": 3,
+    "explanation": "Specific conductance (conductivity) depends on the nature of electrolyte, its concentration, and temperature. κ = 1/ρ = G × (l/A). Strong electrolytes have higher conductance than weak electrolytes.",
+    "ncert_page": 76,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch03_q02",
+    "chapter_id": "c12c_ch03",
+    "question": "In a galvanic cell, oxidation takes place at the ___.",
+    "options": ["Cathode", "Anode", "Salt bridge", "Both electrodes"],
+    "correct_index": 1,
+    "explanation": "In a galvanic (voltaic) cell: Oxidation occurs at the anode (negative electrode). Reduction occurs at the cathode (positive electrode). Electrons flow from anode to cathode through the external circuit. Mnemonic: An-Ox, Red-Cat (Anode=Oxidation, Cathode=Reduction).",
+    "ncert_page": 75,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch03_q03",
+    "chapter_id": "c12c_ch03",
+    "question": "Faraday's First Law of Electrolysis states that ___.",
+    "options": [
+      "The amount of substance liberated is inversely proportional to charge passed",
+      "The amount of substance liberated is directly proportional to the quantity of electricity (charge) passed",
+      "The amount of substance depends on the nature of electrode only",
+      "Equal amounts of all substances are deposited by the same charge"
+    ],
+    "correct_index": 1,
+    "explanation": "Faraday's First Law: m ∝ Q, or m = ZQ = ZIt, where m = mass deposited, Q = charge, I = current, t = time, Z = electrochemical equivalent. The more charge passed, the more substance is deposited.",
+    "ncert_page": 88,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch03_q04",
+    "chapter_id": "c12c_ch03",
+    "question": "The standard electrode potential of Standard Hydrogen Electrode (SHE) is ___.",
+    "options": ["−1.0 V", "+1.0 V", "0.00 V", "0.5 V"],
+    "correct_index": 2,
+    "explanation": "The Standard Hydrogen Electrode (SHE) is the reference electrode with an assigned standard electrode potential of exactly 0.00 V. All other standard electrode potentials are measured relative to SHE. Conditions: H⁺ concentration = 1 M, H₂ pressure = 1 atm, Temperature = 298 K.",
+    "ncert_page": 78,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch03_q05",
+    "chapter_id": "c12c_ch03",
+    "question": "The Nernst equation gives the relationship between ___.",
+    "options": [
+      "EMF and temperature",
+      "EMF and concentration of ions at non-standard conditions",
+      "EMF and resistance",
+      "EMF and current"
+    ],
+    "correct_index": 1,
+    "explanation": "Nernst Equation: E = E° − (RT/nF) ln Q = E° − (0.0592/n) log Q at 298 K. It relates the cell EMF (E) to the standard EMF (E°) and concentrations (Q = reaction quotient) under non-standard conditions.",
+    "ncert_page": 84,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  }
+]

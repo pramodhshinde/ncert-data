@@ -1,0 +1,57 @@
+[
+  {
+    "mcq_id": "c6s_ch02_q01",
+    "chapter_id": "c6s_ch02",
+    "question": "Which nutrient is the main source of energy for our body?",
+    "options": ["Vitamins", "Carbohydrates", "Minerals", "Water"],
+    "correct_index": 1,
+    "explanation": "Carbohydrates are the primary source of energy for the body. Foods like rice, wheat, sugar, and potatoes are rich in carbohydrates.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch02_q02",
+    "chapter_id": "c6s_ch02",
+    "question": "Deficiency of Vitamin C causes which disease?",
+    "options": ["Rickets", "Scurvy", "Anaemia", "Night blindness"],
+    "correct_index": 1,
+    "explanation": "Scurvy is caused by deficiency of Vitamin C (ascorbic acid). Symptoms include bleeding gums, weakness, and slow healing of wounds. Citrus fruits are rich in Vitamin C.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch02_q03",
+    "chapter_id": "c6s_ch02",
+    "question": "Which test is used to detect the presence of starch in food?",
+    "options": ["Iodine solution", "Copper sulphate", "Litmus paper", "Benedict's solution"],
+    "correct_index": 0,
+    "explanation": "Iodine solution turns blue-black when it comes in contact with starch. This is a standard test to detect starch in food items.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch02_q04",
+    "chapter_id": "c6s_ch02",
+    "question": "Proteins are needed by our body for ___.",
+    "options": ["Giving energy", "Growth and repair", "Keeping bones strong", "Regulating body functions"],
+    "correct_index": 1,
+    "explanation": "Proteins are the building blocks of the body. They are needed for growth, repair of body tissues, and building muscles. Milk, eggs, pulses, and meat are rich in protein.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch02_q05",
+    "chapter_id": "c6s_ch02",
+    "question": "Deficiency of iron in diet leads to ___.",
+    "options": ["Rickets", "Goitre", "Anaemia", "Scurvy"],
+    "correct_index": 2,
+    "explanation": "Anaemia is caused by deficiency of iron in the diet. Iron is needed to make haemoglobin in red blood cells, which carries oxygen throughout the body.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Science"
+  }
+]

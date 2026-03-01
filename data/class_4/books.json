@@ -1,0 +1,54 @@
+[
+  {
+    "book_id": "class4_math_en",
+    "title": "Math Magic",
+    "class_id": 4,
+    "subject": "Mathematics",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class4_math.png",
+    "chapter_count": 14,
+    "total_pages": 152,
+    "size_mb": 12.2,
+    "rating": 4.3,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_4/math/chapters.json"
+  },
+  {
+    "book_id": "class4_english_en",
+    "title": "Marigold (English)",
+    "class_id": 4,
+    "subject": "English",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class4_english.png",
+    "chapter_count": 10,
+    "total_pages": 102,
+    "size_mb": 8.6,
+    "rating": 4.0,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_4/english/chapters.json"
+  },
+  {
+    "book_id": "class4_hindi_hi",
+    "title": "Rimjhim (Hindi)",
+    "class_id": 4,
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class4_hindi.png",
+    "chapter_count": 18,
+    "total_pages": 108,
+    "size_mb": 9.2,
+    "rating": 4.1,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_4/hindi/chapters.json"
+  },
+  {
+    "book_id": "class4_evs_en",
+    "title": "Looking Around (EVS)",
+    "class_id": 4,
+    "subject": "EVS",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class4_evs.png",
+    "chapter_count": 27,
+    "total_pages": 184,
+    "size_mb": 14.8,
+    "rating": 4.2,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_4/evs/chapters.json"
+  }
+]

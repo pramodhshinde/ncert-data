@@ -1,0 +1,93 @@
+[
+  {
+    "book_id": "class9_science_en",
+    "title": "Science",
+    "class_id": 9,
+    "subject": "Science",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class9_science.png",
+    "chapter_count": 15,
+    "total_pages": 316,
+    "size_mb": 28.5,
+    "rating": 4.6,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_9/science/chapters.json"
+  },
+  {
+    "book_id": "class9_math_en",
+    "title": "Mathematics",
+    "class_id": 9,
+    "subject": "Mathematics",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class9_math.png",
+    "chapter_count": 15,
+    "total_pages": 354,
+    "size_mb": 31.2,
+    "rating": 4.4,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_9/math/chapters.json"
+  },
+  {
+    "book_id": "class9_english_en",
+    "title": "Beehive (English)",
+    "class_id": 9,
+    "subject": "English",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class9_english.png",
+    "chapter_count": 11,
+    "total_pages": 192,
+    "size_mb": 16.8,
+    "rating": 4.1,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_9/english/chapters.json"
+  },
+  {
+    "book_id": "class9_hindi_hi",
+    "title": "Kshitij (Hindi)",
+    "class_id": 9,
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class9_hindi.png",
+    "chapter_count": 17,
+    "total_pages": 206,
+    "size_mb": 18.1,
+    "rating": 4.0,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_9/hindi/chapters.json"
+  },
+  {
+    "book_id": "class9_history_en",
+    "title": "India and the Contemporary World I (History)",
+    "class_id": 9,
+    "subject": "History",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class9_history.png",
+    "chapter_count": 5,
+    "total_pages": 126,
+    "size_mb": 13.4,
+    "rating": 4.2,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_9/history/chapters.json"
+  },
+  {
+    "book_id": "class9_geography_en",
+    "title": "Contemporary India I (Geography)",
+    "class_id": 9,
+    "subject": "Geography",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class9_geography.png",
+    "chapter_count": 6,
+    "total_pages": 108,
+    "size_mb": 12.6,
+    "rating": 4.1,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_9/geography/chapters.json"
+  },
+  {
+    "book_id": "class9_economics_en",
+    "title": "Economics",
+    "class_id": 9,
+    "subject": "Economics",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class9_economics.png",
+    "chapter_count": 4,
+    "total_pages": 84,
+    "size_mb": 9.8,
+    "rating": 4.0,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_9/economics/chapters.json"
+  }
+]

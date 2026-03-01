@@ -1,0 +1,57 @@
+[
+  {
+    "mcq_id": "c6s_ch03_q01",
+    "chapter_id": "c6s_ch03",
+    "question": "Cotton fibres are obtained from ___.",
+    "options": ["Leaves of the cotton plant", "Seeds of the cotton plant", "Stem of the cotton plant", "Roots of the cotton plant"],
+    "correct_index": 1,
+    "explanation": "Cotton fibres are fine, soft fibres that grow around the seeds of the cotton plant inside the cotton boll (fruit). After harvesting, the fibres are separated from seeds.",
+    "ncert_page": 26,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch03_q02",
+    "chapter_id": "c6s_ch03",
+    "question": "Jute plant is mainly grown in ___.",
+    "options": ["Rajasthan", "West Bengal and Assam", "Kerala", "Gujarat"],
+    "correct_index": 1,
+    "explanation": "Jute is mainly cultivated in the states of West Bengal, Assam, and Bihar in India. It requires a warm and humid climate with heavy rainfall.",
+    "ncert_page": 28,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch03_q03",
+    "chapter_id": "c6s_ch03",
+    "question": "The process of making yarn from fibres is called ___.",
+    "options": ["Weaving", "Knitting", "Spinning", "Ginning"],
+    "correct_index": 2,
+    "explanation": "Spinning is the process of twisting fibres together to make yarn (thread). It can be done by hand using a spinning wheel (charkha) or by machines in factories.",
+    "ncert_page": 30,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch03_q04",
+    "chapter_id": "c6s_ch03",
+    "question": "Silk fibres are obtained from ___.",
+    "options": ["Sheep", "Silkworm cocoon", "Cotton plant", "Jute plant"],
+    "correct_index": 1,
+    "explanation": "Silk is a natural fibre obtained from the cocoon of the silkworm (Bombyx mori). The cocoon is made of a single long silk thread that the silkworm wraps around itself.",
+    "ncert_page": 32,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch03_q05",
+    "chapter_id": "c6s_ch03",
+    "question": "The process of separating cotton fibres from seeds is called ___.",
+    "options": ["Spinning", "Weaving", "Ginning", "Retting"],
+    "correct_index": 2,
+    "explanation": "Ginning is the process of separating cotton fibres from the seeds. It was traditionally done by hand, but cotton gin machines are now widely used.",
+    "ncert_page": 30,
+    "difficulty": "medium",
+    "subject": "Science"
+  }
+]

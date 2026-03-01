@@ -1,0 +1,72 @@
+[
+  {
+    "mcq_id": "c12c_ch02_q01",
+    "chapter_id": "c12c_ch02",
+    "question": "Molality (m) of a solution is defined as ___.",
+    "options": [
+      "Moles of solute per litre of solution",
+      "Moles of solute per kg of solvent",
+      "Mass of solute per litre of solution",
+      "Moles of solute per mole of solution"
+    ],
+    "correct_index": 1,
+    "explanation": "Molality (m) = (moles of solute) / (mass of solvent in kg). Unlike molarity, molality does not change with temperature because it is based on mass (not volume). It is used in colligative property calculations.",
+    "ncert_page": 39,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch02_q02",
+    "chapter_id": "c12c_ch02",
+    "question": "Henry's Law states that ___.",
+    "options": [
+      "Solubility of a gas is inversely proportional to pressure",
+      "Solubility of a gas is directly proportional to partial pressure of the gas",
+      "Vapour pressure is inversely proportional to mole fraction",
+      "Boiling point elevation depends on the nature of solute"
+    ],
+    "correct_index": 1,
+    "explanation": "Henry's Law: The solubility (mole fraction) of a gas in a liquid is directly proportional to the partial pressure of the gas above the solution. KH = p/x, where KH is Henry's Law constant, p is partial pressure, x is mole fraction.",
+    "ncert_page": 46,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch02_q03",
+    "chapter_id": "c12c_ch02",
+    "question": "Raoult's Law states that the partial vapour pressure of a component is ___.",
+    "options": [
+      "Equal to vapour pressure of pure component",
+      "Directly proportional to its mole fraction in solution",
+      "Inversely proportional to its mole fraction in solution",
+      "Independent of its concentration"
+    ],
+    "correct_index": 1,
+    "explanation": "Raoult's Law: pA = pA° × xA. The partial vapour pressure of a component (pA) is directly proportional to its mole fraction (xA) in the solution. pA° is the vapour pressure of the pure component.",
+    "ncert_page": 49,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch02_q04",
+    "chapter_id": "c12c_ch02",
+    "question": "Osmotic pressure (π) is given by ___.",
+    "options": ["π = nRT/V", "π = CRT", "π = MRT", "All of the above (equivalent forms)"],
+    "correct_index": 3,
+    "explanation": "Osmotic pressure π = CRT = nRT/V = MRT, where C = M = molarity (moles per litre), R = gas constant, T = absolute temperature, n = moles of solute, V = volume in litres. All three forms are equivalent.",
+    "ncert_page": 61,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch02_q05",
+    "chapter_id": "c12c_ch02",
+    "question": "Which of the following is a colligative property?",
+    "options": ["Colour of solution", "Viscosity", "Elevation of boiling point", "Refractive index"],
+    "correct_index": 2,
+    "explanation": "Colligative properties depend only on the number of solute particles (not their nature): (1) Relative lowering of vapour pressure, (2) Elevation of boiling point, (3) Depression of freezing point, (4) Osmotic pressure. Elevation of boiling point is a colligative property.",
+    "ncert_page": 56,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "mcq_id": "c9m_ch03_q01",
+    "chapter_id": "c9m_ch03",
+    "question": "The point (3, −4) lies in which quadrant?",
+    "options": ["Quadrant I", "Quadrant II", "Quadrant III", "Quadrant IV"],
+    "correct_index": 3,
+    "explanation": "In Quadrant IV, x is positive and y is negative. The point (3, −4) has x = 3 (positive) and y = −4 (negative), so it lies in Quadrant IV.",
+    "ncert_page": 72,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q02",
+    "chapter_id": "c9m_ch03",
+    "question": "The x-coordinate of any point on the y-axis is ___.",
+    "options": ["1", "−1", "0", "Cannot be determined"],
+    "correct_index": 2,
+    "explanation": "Any point on the y-axis has its x-coordinate equal to 0. Points on the y-axis are of the form (0, y). For example, (0, 3), (0, −2), (0, 0) all lie on the y-axis.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q03",
+    "chapter_id": "c9m_ch03",
+    "question": "The coordinates of the origin are ___.",
+    "options": ["(1, 0)", "(0, 1)", "(0, 0)", "(1, 1)"],
+    "correct_index": 2,
+    "explanation": "The origin is the point where the x-axis and y-axis intersect. Its coordinates are (0, 0). It is the reference point in the Cartesian coordinate system.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q04",
+    "chapter_id": "c9m_ch03",
+    "question": "The point (−3, −5) lies in which quadrant?",
+    "options": ["Quadrant I", "Quadrant II", "Quadrant III", "Quadrant IV"],
+    "correct_index": 2,
+    "explanation": "In Quadrant III, both x and y are negative. The point (−3, −5) has x = −3 (negative) and y = −5 (negative), so it lies in Quadrant III.",
+    "ncert_page": 72,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q05",
+    "chapter_id": "c9m_ch03",
+    "question": "Which axis divides the coordinate plane into left and right halves?",
+    "options": ["X-axis", "Y-axis", "Origin", "Both axes equally"],
+    "correct_index": 1,
+    "explanation": "The y-axis is a vertical line that divides the coordinate plane into left (negative x) and right (positive x) halves. The x-axis is horizontal and divides the plane into upper and lower halves.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

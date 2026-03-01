@@ -1,0 +1,62 @@
+[
+  {
+    "mcq_id": "c6m_ch03_q01",
+    "chapter_id": "c6m_ch03",
+    "question": "The factors of 12 are ___.",
+    "options": ["1, 2, 3, 4", "1, 2, 3, 4, 6, 12", "2, 3, 4, 6", "1, 12 only"],
+    "correct_index": 1,
+    "explanation": "Factors of 12 are all numbers that divide 12 exactly without remainder: 1, 2, 3, 4, 6, 12. (12÷1=12, 12÷2=6, 12÷3=4, 12÷4=3, 12÷6=2, 12÷12=1)",
+    "ncert_page": 49,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch03_q02",
+    "chapter_id": "c6m_ch03",
+    "question": "Which of the following is a prime number?",
+    "options": ["9", "15", "17", "21"],
+    "correct_index": 2,
+    "explanation": "17 is a prime number because it has exactly two factors: 1 and 17 itself. 9 = 3×3, 15 = 3×5, and 21 = 3×7, so they are composite numbers.",
+    "ncert_page": 53,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch03_q03",
+    "chapter_id": "c6m_ch03",
+    "question": "HCF of 36 and 48 is ___.",
+    "options": ["6", "12", "18", "24"],
+    "correct_index": 1,
+    "explanation": "Factors of 36: 1,2,3,4,6,9,12,18,36. Factors of 48: 1,2,3,4,6,8,12,16,24,48. Common factors: 1,2,3,4,6,12. Highest Common Factor (HCF) = 12.",
+    "ncert_page": 59,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch03_q04",
+    "chapter_id": "c6m_ch03",
+    "question": "LCM of 4 and 6 is ___.",
+    "options": ["2", "12", "24", "4"],
+    "correct_index": 1,
+    "explanation": "Multiples of 4: 4, 8, 12, 16... Multiples of 6: 6, 12, 18... The Least Common Multiple (LCM) is the smallest common multiple = 12.",
+    "ncert_page": 62,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch03_q05",
+    "chapter_id": "c6m_ch03",
+    "question": "A number is divisible by 9 if ___.",
+    "options": [
+      "Its last digit is 9",
+      "Its last two digits are divisible by 9",
+      "The sum of its digits is divisible by 9",
+      "It ends in 0 or 9"
+    ],
+    "correct_index": 2,
+    "explanation": "Divisibility rule for 9: A number is divisible by 9 if the sum of all its digits is divisible by 9. Example: 729 → 7+2+9 = 18, and 18 is divisible by 9.",
+    "ncert_page": 56,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "mcq_id": "c12p_ch02_q01",
+    "chapter_id": "c12p_ch02",
+    "question": "The SI unit of electric potential is ___.",
+    "options": ["Joule", "Coulomb", "Volt", "Farad"],
+    "correct_index": 2,
+    "explanation": "The SI unit of electric potential is Volt (V), named after Alessandro Volta. 1 Volt = 1 Joule per Coulomb (J/C). Electric potential at a point is the work done per unit positive charge in bringing the charge from infinity to that point.",
+    "ncert_page": 47,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q02",
+    "chapter_id": "c12p_ch02",
+    "question": "The capacitance of a capacitor is defined as ___.",
+    "options": ["Q/V", "V/Q", "Q × V", "Q + V"],
+    "correct_index": 0,
+    "explanation": "Capacitance C = Q/V, where Q is the charge stored on the capacitor and V is the potential difference across its plates. SI unit of capacitance is Farad (F). 1 F = 1 C/V.",
+    "ncert_page": 68,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q03",
+    "chapter_id": "c12p_ch02",
+    "question": "Two capacitors C₁ and C₂ connected in series have equivalent capacitance ___.",
+    "options": [
+      "C₁ + C₂",
+      "C₁ × C₂",
+      "(C₁ × C₂) / (C₁ + C₂)",
+      "(C₁ + C₂) / (C₁ × C₂)"
+    ],
+    "correct_index": 2,
+    "explanation": "For capacitors in series: 1/C = 1/C₁ + 1/C₂, which gives C = (C₁C₂)/(C₁+C₂). In series, equivalent capacitance is always less than the smallest individual capacitance.",
+    "ncert_page": 78,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q04",
+    "chapter_id": "c12p_ch02",
+    "question": "The energy stored in a capacitor of capacitance C charged to voltage V is ___.",
+    "options": ["CV", "CV²", "½CV²", "2CV²"],
+    "correct_index": 2,
+    "explanation": "Energy stored in a capacitor: U = ½CV² = ½QV = Q²/2C. The factor ½ appears because the average potential during charging is V/2. This energy is stored in the electric field between the plates.",
+    "ncert_page": 80,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q05",
+    "chapter_id": "c12p_ch02",
+    "question": "When a dielectric is inserted between the plates of a capacitor (with constant charge), the electric field ___.",
+    "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+    "correct_index": 1,
+    "explanation": "When a dielectric (insulating material) is inserted with constant charge Q, it becomes polarised and creates an opposing electric field. The net electric field E = E₀/K decreases, where K is the dielectric constant (K > 1).",
+    "ncert_page": 83,
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]

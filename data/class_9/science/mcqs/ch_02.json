@@ -1,0 +1,67 @@
+[
+  {
+    "mcq_id": "c9s_ch02_q01",
+    "chapter_id": "c9s_ch02",
+    "question": "A mixture of salt and water is an example of a ___.",
+    "options": ["Element", "Compound", "Homogeneous mixture", "Heterogeneous mixture"],
+    "correct_index": 2,
+    "explanation": "Salt dissolved in water is a homogeneous mixture (solution) because it has a uniform composition throughout. You cannot see individual components and they cannot be separated by filtration.",
+    "ncert_page": 22,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch02_q02",
+    "chapter_id": "c9s_ch02",
+    "question": "Which of the following is a pure substance?",
+    "options": ["Air", "Sea water", "Steel", "Distilled water"],
+    "correct_index": 3,
+    "explanation": "Distilled water (H₂O) is a pure substance because it consists of only one type of molecule. Air is a mixture of gases, sea water is a solution, and steel is an alloy (mixture of metals).",
+    "ncert_page": 24,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch02_q03",
+    "chapter_id": "c9s_ch02",
+    "question": "The technique used to separate butter from cream is ___.",
+    "options": ["Filtration", "Distillation", "Centrifugation", "Crystallisation"],
+    "correct_index": 2,
+    "explanation": "Centrifugation is used to separate butter from cream. When cream is churned at high speed in a centrifuge, the denser fat particles separate out to form butter.",
+    "ncert_page": 30,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch02_q04",
+    "chapter_id": "c9s_ch02",
+    "question": "An element has ___.",
+    "options": [
+      "Only one type of atom",
+      "Two different types of atoms",
+      "Atoms and molecules mixed",
+      "Molecules only"
+    ],
+    "correct_index": 0,
+    "explanation": "An element consists of only one type of atom. It cannot be broken down into simpler substances by chemical means. Examples: Gold (Au), Oxygen (O), Iron (Fe), Carbon (C).",
+    "ncert_page": 35,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch02_q05",
+    "chapter_id": "c9s_ch02",
+    "question": "Water is a compound because ___.",
+    "options": [
+      "It is a liquid",
+      "It contains hydrogen and oxygen in a fixed ratio by mass",
+      "It can be found in nature",
+      "It has no colour"
+    ],
+    "correct_index": 1,
+    "explanation": "Water (H₂O) is a compound because it is composed of hydrogen and oxygen combined in a fixed ratio by mass (1:8 by mass, or 2:1 by atoms). Its properties are different from the individual elements.",
+    "ncert_page": 37,
+    "difficulty": "medium",
+    "subject": "Science"
+  }
+]

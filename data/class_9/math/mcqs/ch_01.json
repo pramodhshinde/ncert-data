@@ -1,0 +1,57 @@
+[
+  {
+    "mcq_id": "c9m_ch01_q01",
+    "chapter_id": "c9m_ch01",
+    "question": "Every rational number is also ___.",
+    "options": ["A natural number", "A whole number", "An integer", "A real number"],
+    "correct_index": 3,
+    "explanation": "Every rational number is a real number. The hierarchy is: Natural ⊂ Whole ⊂ Integer ⊂ Rational ⊂ Real. Not all rationals are natural numbers, whole numbers, or integers.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch01_q02",
+    "chapter_id": "c9m_ch01",
+    "question": "√2 is ___.",
+    "options": ["A rational number", "An irrational number", "A natural number", "An integer"],
+    "correct_index": 1,
+    "explanation": "√2 is an irrational number because it cannot be expressed as p/q where p and q are integers and q ≠ 0. Its decimal expansion is non-terminating and non-repeating: 1.41421356...",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch01_q03",
+    "chapter_id": "c9m_ch01",
+    "question": "The decimal expansion of 1/7 is ___.",
+    "options": ["Terminating", "Non-terminating repeating", "Non-terminating non-repeating", "Cannot be determined"],
+    "correct_index": 1,
+    "explanation": "1/7 = 0.142857142857... It is non-terminating (never ends) but repeating (142857 repeats). Any rational number p/q has either a terminating or non-terminating repeating decimal expansion.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch01_q04",
+    "chapter_id": "c9m_ch01",
+    "question": "The value of (√3 + √2)(√3 − √2) is ___.",
+    "options": ["1", "5", "√5", "2√3"],
+    "correct_index": 0,
+    "explanation": "Using the identity (a+b)(a-b) = a² - b²: (√3 + √2)(√3 − √2) = (√3)² − (√2)² = 3 − 2 = 1.",
+    "ncert_page": 22,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch01_q05",
+    "chapter_id": "c9m_ch01",
+    "question": "If x = 2 + √3, then the value of x + 1/x is ___.",
+    "options": ["4", "2√3", "4 + 2√3", "2 + √3"],
+    "correct_index": 0,
+    "explanation": "x = 2 + √3, so 1/x = 1/(2+√3) = (2-√3)/((2+√3)(2-√3)) = (2-√3)/(4-3) = 2-√3. Therefore x + 1/x = (2+√3) + (2-√3) = 4.",
+    "ncert_page": 24,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

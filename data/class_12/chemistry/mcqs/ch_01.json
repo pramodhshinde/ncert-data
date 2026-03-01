@@ -1,0 +1,62 @@
+[
+  {
+    "mcq_id": "c12c_ch01_q01",
+    "chapter_id": "c12c_ch01",
+    "question": "Crystalline solids are ___.",
+    "options": [
+      "Isotropic and have indefinite melting point",
+      "Anisotropic and have definite melting point",
+      "Isotropic and have definite melting point",
+      "Amorphous and have definite melting point"
+    ],
+    "correct_index": 1,
+    "explanation": "Crystalline solids are anisotropic (properties differ in different directions) and have a definite (sharp) melting point. They have a regular, ordered arrangement of constituent particles. Examples: NaCl, diamond, quartz.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch01_q02",
+    "chapter_id": "c12c_ch01",
+    "question": "Glass is an example of ___.",
+    "options": ["Ionic solid", "Covalent solid", "Amorphous solid", "Metallic solid"],
+    "correct_index": 2,
+    "explanation": "Glass is an amorphous solid (pseudo-solid or supercooled liquid). It has a disordered arrangement of particles, no definite melting point (softens over a range of temperatures), and is isotropic (same properties in all directions).",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch01_q03",
+    "chapter_id": "c12c_ch01",
+    "question": "In a face-centred cubic (FCC) unit cell, the number of atoms per unit cell is ___.",
+    "options": ["1", "2", "4", "8"],
+    "correct_index": 2,
+    "explanation": "In FCC: 8 corner atoms × (1/8) + 6 face atoms × (1/2) = 1 + 3 = 4 atoms per unit cell. Each corner atom is shared by 8 unit cells, and each face atom is shared by 2 unit cells.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch01_q04",
+    "chapter_id": "c12c_ch01",
+    "question": "Point defects in crystals that do not change the density of the crystal are called ___.",
+    "options": ["Frenkel defects", "Schottky defects", "Interstitial defects", "F-centre defects"],
+    "correct_index": 0,
+    "explanation": "Frenkel defects occur when an ion leaves its lattice site and occupies an interstitial position. Since no atoms are added or removed, the density remains unchanged. They are common in ionic compounds with large difference in ionic sizes (e.g., AgCl).",
+    "ncert_page": 24,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c12c_ch01_q05",
+    "chapter_id": "c12c_ch01",
+    "question": "Which type of solid has the highest melting point?",
+    "options": ["Ionic solid", "Metallic solid", "Covalent network solid", "Molecular solid"],
+    "correct_index": 2,
+    "explanation": "Covalent network solids (like diamond, SiO₂, SiC) have the highest melting points because all atoms are covalently bonded in a continuous network. Breaking these strong covalent bonds requires enormous energy. Diamond melts above 3500°C.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  }
+]

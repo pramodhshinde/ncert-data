@@ -1,0 +1,80 @@
+[
+  {
+    "book_id": "class7_science_en",
+    "title": "Science",
+    "class_id": 7,
+    "subject": "Science",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class7_science.png",
+    "chapter_count": 18,
+    "total_pages": 224,
+    "size_mb": 20.6,
+    "rating": 4.4,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_7/science/chapters.json"
+  },
+  {
+    "book_id": "class7_math_en",
+    "title": "Mathematics",
+    "class_id": 7,
+    "subject": "Mathematics",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class7_math.png",
+    "chapter_count": 15,
+    "total_pages": 296,
+    "size_mb": 26.2,
+    "rating": 4.3,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_7/math/chapters.json"
+  },
+  {
+    "book_id": "class7_english_en",
+    "title": "Honeycomb (English)",
+    "class_id": 7,
+    "subject": "English",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class7_english.png",
+    "chapter_count": 10,
+    "total_pages": 152,
+    "size_mb": 13.2,
+    "rating": 4.0,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_7/english/chapters.json"
+  },
+  {
+    "book_id": "class7_hindi_hi",
+    "title": "Vasant (Hindi)",
+    "class_id": 7,
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class7_hindi.png",
+    "chapter_count": 20,
+    "total_pages": 168,
+    "size_mb": 14.8,
+    "rating": 4.0,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_7/hindi/chapters.json"
+  },
+  {
+    "book_id": "class7_history_en",
+    "title": "Our Pasts II (History)",
+    "class_id": 7,
+    "subject": "History",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class7_history.png",
+    "chapter_count": 10,
+    "total_pages": 144,
+    "size_mb": 14.0,
+    "rating": 4.2,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_7/history/chapters.json"
+  },
+  {
+    "book_id": "class7_geography_en",
+    "title": "Our Environment (Geography)",
+    "class_id": 7,
+    "subject": "Geography",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class7_geography.png",
+    "chapter_count": 9,
+    "total_pages": 112,
+    "size_mb": 11.6,
+    "rating": 4.1,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_7/geography/chapters.json"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "book_id": "class10_science_en",
+    "title": "Science",
+    "class_id": 10,
+    "subject": "Science",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class10_science.png",
+    "chapter_count": 16,
+    "total_pages": 340,
+    "size_mb": 30.8,
+    "rating": 4.7,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_10/science/chapters.json"
+  },
+  {
+    "book_id": "class10_math_en",
+    "title": "Mathematics",
+    "class_id": 10,
+    "subject": "Mathematics",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class10_math.png",
+    "chapter_count": 15,
+    "total_pages": 362,
+    "size_mb": 32.4,
+    "rating": 4.6,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_10/math/chapters.json"
+  },
+  {
+    "book_id": "class10_english_en",
+    "title": "First Flight (English)",
+    "class_id": 10,
+    "subject": "English",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class10_english.png",
+    "chapter_count": 11,
+    "total_pages": 192,
+    "size_mb": 16.8,
+    "rating": 4.2,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_10/english/chapters.json"
+  },
+  {
+    "book_id": "class10_hindi_hi",
+    "title": "Kshitij (Hindi)",
+    "class_id": 10,
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class10_hindi.png",
+    "chapter_count": 17,
+    "total_pages": 228,
+    "size_mb": 20.2,
+    "rating": 4.1,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_10/hindi/chapters.json"
+  },
+  {
+    "book_id": "class10_history_en",
+    "title": "India and the Contemporary World II (History)",
+    "class_id": 10,
+    "subject": "History",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class10_history.png",
+    "chapter_count": 5,
+    "total_pages": 136,
+    "size_mb": 13.8,
+    "rating": 4.3,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_10/history/chapters.json"
+  },
+  {
+    "book_id": "class10_geography_en",
+    "title": "Contemporary India II (Geography)",
+    "class_id": 10,
+    "subject": "Geography",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class10_geography.png",
+    "chapter_count": 7,
+    "total_pages": 132,
+    "size_mb": 13.2,
+    "rating": 4.2,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_10/geography/chapters.json"
+  },
+  {
+    "book_id": "class10_economics_en",
+    "title": "Understanding Economic Development",
+    "class_id": 10,
+    "subject": "Economics",
+    "medium": "English",
+    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class10_economics.png",
+    "chapter_count": 5,
+    "total_pages": 96,
+    "size_mb": 10.2,
+    "rating": 4.1,
+    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_10/economics/chapters.json"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "mcq_id": "c9s_ch03_q01",
+    "chapter_id": "c9s_ch03",
+    "question": "Who proposed the 'Law of Conservation of Mass'?",
+    "options": ["John Dalton", "Antoine Lavoisier", "J.J. Thomson", "Ernest Rutherford"],
+    "correct_index": 1,
+    "explanation": "The Law of Conservation of Mass was proposed by Antoine Lavoisier in 1789. It states that mass is neither created nor destroyed in a chemical reaction — the total mass of reactants equals total mass of products.",
+    "ncert_page": 46,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch03_q02",
+    "chapter_id": "c9s_ch03",
+    "question": "The symbol of the element Sodium is ___.",
+    "options": ["So", "Na", "S", "Sd"],
+    "correct_index": 1,
+    "explanation": "The symbol of Sodium is Na, derived from its Latin name 'Natrium'. Chemical symbols are internationally agreed upon and based on the element's name in English or Latin.",
+    "ncert_page": 52,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch03_q03",
+    "chapter_id": "c9s_ch03",
+    "question": "The molecular mass of water (H₂O) is ___.",
+    "options": ["10 u", "16 u", "18 u", "20 u"],
+    "correct_index": 2,
+    "explanation": "Molecular mass of H₂O = 2(mass of H) + mass of O = 2(1) + 16 = 18 u. Hydrogen has atomic mass 1 u and Oxygen has atomic mass 16 u.",
+    "ncert_page": 57,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch03_q04",
+    "chapter_id": "c9s_ch03",
+    "question": "One mole of any substance contains ___ particles.",
+    "options": ["6.022 × 10²¹", "6.022 × 10²³", "6.022 × 10²⁵", "6.022 × 10²²"],
+    "correct_index": 1,
+    "explanation": "One mole of any substance contains 6.022 × 10²³ particles (atoms, molecules, or ions). This number is called Avogadro's number (Nₐ). It is one of the most important constants in chemistry.",
+    "ncert_page": 61,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch03_q05",
+    "chapter_id": "c9s_ch03",
+    "question": "The formula of carbon dioxide is ___.",
+    "options": ["CO", "CO₂", "C₂O", "C₂O₃"],
+    "correct_index": 1,
+    "explanation": "Carbon dioxide has the formula CO₂. It consists of one carbon atom (valency 4) and two oxygen atoms (valency 2 each). It is formed by the complete combustion of carbon-containing compounds.",
+    "ncert_page": 54,
+    "difficulty": "easy",
+    "subject": "Science"
+  }
+]

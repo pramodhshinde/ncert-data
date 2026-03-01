@@ -1,0 +1,72 @@
+[
+  {
+    "mcq_id": "c12p_ch01_q01",
+    "chapter_id": "c12p_ch01",
+    "question": "The SI unit of electric charge is ___.",
+    "options": ["Ampere", "Coulomb", "Volt", "Farad"],
+    "correct_index": 1,
+    "explanation": "The SI unit of electric charge is Coulomb (C), named after Charles-Augustin de Coulomb. 1 Coulomb = charge of approximately 6.24 × 10¹⁸ electrons. The charge of one electron is −1.6 × 10⁻¹⁹ C.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q02",
+    "chapter_id": "c12p_ch01",
+    "question": "According to Coulomb's Law, the force between two charges is ___.",
+    "options": [
+      "Directly proportional to the distance between them",
+      "Inversely proportional to the square of distance between them",
+      "Directly proportional to the square of distance between them",
+      "Independent of the distance"
+    ],
+    "correct_index": 1,
+    "explanation": "Coulomb's Law: F = kq₁q₂/r². The force is directly proportional to the product of charges (q₁q₂) and inversely proportional to the square of the distance (r²) between them.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q03",
+    "chapter_id": "c12p_ch01",
+    "question": "The electric field lines of a positive point charge are ___.",
+    "options": [
+      "Directed towards the charge",
+      "Directed away from the charge",
+      "Circular around the charge",
+      "Parallel straight lines"
+    ],
+    "correct_index": 1,
+    "explanation": "Electric field lines of a positive charge radiate outward (away) from the charge in all directions. For a negative charge, field lines point inward (toward the charge). Field lines never intersect.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q04",
+    "chapter_id": "c12p_ch01",
+    "question": "The value of Coulomb's constant (k) in vacuum is approximately ___.",
+    "options": ["9 × 10⁶ N m² C⁻²", "9 × 10⁹ N m² C⁻²", "9 × 10¹² N m² C⁻²", "9 × 10³ N m² C⁻²"],
+    "correct_index": 1,
+    "explanation": "Coulomb's constant k = 1/(4πε₀) ≈ 9 × 10⁹ N m² C⁻². Here ε₀ is the permittivity of free space = 8.854 × 10⁻¹² C² N⁻¹ m⁻².",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q05",
+    "chapter_id": "c12p_ch01",
+    "question": "The principle of superposition of electric forces states that ___.",
+    "options": [
+      "Forces between two charges depend on other nearby charges",
+      "The total force on a charge is the vector sum of forces due to all other charges acting independently",
+      "Forces between charges cancel each other out",
+      "Only the nearest charge affects the force on a given charge"
+    ],
+    "correct_index": 1,
+    "explanation": "The principle of superposition states that the total electric force on a charge due to a group of charges is the vector sum of individual forces that each charge exerts on it, as if the other charges were not present.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Physics"
+  }
+]

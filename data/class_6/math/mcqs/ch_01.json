@@ -1,0 +1,57 @@
+[
+  {
+    "mcq_id": "c6m_ch01_q01",
+    "chapter_id": "c6m_ch01",
+    "question": "What is the place value of 5 in the number 52,341?",
+    "options": ["5", "500", "5,000", "50,000"],
+    "correct_index": 3,
+    "explanation": "In 52,341, the digit 5 is in the ten-thousands place. Therefore, its place value is 5 × 10,000 = 50,000.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch01_q02",
+    "chapter_id": "c6m_ch01",
+    "question": "The greatest 6-digit number is ___.",
+    "options": ["9,00,000", "9,99,999", "10,00,000", "9,00,999"],
+    "correct_index": 1,
+    "explanation": "The greatest 6-digit number is 9,99,999 (nine lakh ninety-nine thousand nine hundred and ninety-nine). The next number 10,00,000 is a 7-digit number.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch01_q03",
+    "chapter_id": "c6m_ch01",
+    "question": "1 million = ___ lakhs.",
+    "options": ["1", "10", "100", "1,000"],
+    "correct_index": 1,
+    "explanation": "1 million = 10 lakhs. In the Indian number system, 1 lakh = 1,00,000 and 1 million = 10,00,000. So 1 million = 10 lakhs.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch01_q04",
+    "chapter_id": "c6m_ch01",
+    "question": "Which of the following numbers is written correctly using Indian system of numeration?",
+    "options": ["5,25,638", "52,5638", "525,638", "5256,38"],
+    "correct_index": 0,
+    "explanation": "In the Indian system, digits are grouped as: ones, tens, hundreds (3 digits), then thousands and ten-thousands (2 digits), then lakhs, ten-lakhs (2 digits), etc. So 5,25,638 is correct.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch01_q05",
+    "chapter_id": "c6m_ch01",
+    "question": "Round off 4,783 to the nearest hundreds.",
+    "options": ["4,700", "4,800", "4,000", "5,000"],
+    "correct_index": 1,
+    "explanation": "To round 4,783 to the nearest hundreds, look at the tens digit (8). Since 8 ≥ 5, round up. So 4,783 rounded to nearest hundreds = 4,800.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  }
+]
