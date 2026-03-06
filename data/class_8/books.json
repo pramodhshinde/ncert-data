@@ -1,80 +1,10 @@
 [
-  {
-    "book_id": "class8_science_en",
-    "title": "Science",
-    "class_id": 8,
-    "subject": "Science",
-    "medium": "English",
-    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class8_science.png",
-    "chapter_count": 18,
-    "total_pages": 274,
-    "size_mb": 24.8,
-    "rating": 4.5,
-    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_8/science/chapters.json"
-  },
-  {
-    "book_id": "class8_math_en",
-    "title": "Mathematics",
-    "class_id": 8,
-    "subject": "Mathematics",
-    "medium": "English",
-    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class8_math.png",
-    "chapter_count": 16,
-    "total_pages": 312,
-    "size_mb": 27.4,
-    "rating": 4.4,
-    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_8/math/chapters.json"
-  },
-  {
-    "book_id": "class8_english_en",
-    "title": "Honeydew (English)",
-    "class_id": 8,
-    "subject": "English",
-    "medium": "English",
-    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class8_english.png",
-    "chapter_count": 10,
-    "total_pages": 158,
-    "size_mb": 13.8,
-    "rating": 4.1,
-    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_8/english/chapters.json"
-  },
-  {
-    "book_id": "class8_hindi_hi",
-    "title": "Vasant (Hindi)",
-    "class_id": 8,
-    "subject": "Hindi",
-    "medium": "Hindi",
-    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class8_hindi.png",
-    "chapter_count": 18,
-    "total_pages": 176,
-    "size_mb": 15.6,
-    "rating": 4.0,
-    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_8/hindi/chapters.json"
-  },
-  {
-    "book_id": "class8_history_en",
-    "title": "Our Pasts III (History)",
-    "class_id": 8,
-    "subject": "History",
-    "medium": "English",
-    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class8_history.png",
-    "chapter_count": 12,
-    "total_pages": 176,
-    "size_mb": 16.8,
-    "rating": 4.3,
-    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_8/history/chapters.json"
-  },
-  {
-    "book_id": "class8_geography_en",
-    "title": "Resources and Development (Geography)",
-    "class_id": 8,
-    "subject": "Geography",
-    "medium": "English",
-    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class8_geography.png",
-    "chapter_count": 6,
-    "total_pages": 88,
-    "size_mb": 9.6,
-    "rating": 4.1,
-    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_8/geography/chapters.json"
-  }
+  {"book_id":"class8_math_en","title":"Mathematics","class_id":8,"subject":"Mathematics","medium":"English","cover_url":"","chapter_count":16,"total_pages":312,"size_mb":14.4,"rating":4.6,"chapters_url":"data/class_8/math/chapters.json"},
+  {"book_id":"class8_science_en","title":"Science","class_id":8,"subject":"Science","medium":"English","cover_url":"","chapter_count":18,"total_pages":328,"size_mb":16.2,"rating":4.7,"chapters_url":"data/class_8/science/chapters.json"},
+  {"book_id":"class8_history_en","title":"Our Pasts – III","class_id":8,"subject":"History","medium":"English","cover_url":"","chapter_count":12,"total_pages":172,"size_mb":9.1,"rating":4.4,"chapters_url":"data/class_8/history/chapters.json"},
+  {"book_id":"class8_geography_en","title":"Resources and Development","class_id":8,"subject":"Geography","medium":"English","cover_url":"","chapter_count":6,"total_pages":96,"size_mb":6.0,"rating":4.3,"chapters_url":"data/class_8/geography/chapters.json"},
+  {"book_id":"class8_civics_en","title":"Social and Political Life – III","class_id":8,"subject":"Civics","medium":"English","cover_url":"","chapter_count":10,"total_pages":128,"size_mb":7.1,"rating":4.3,"chapters_url":"data/class_8/civics/chapters.json"},
+  {"book_id":"class8_english_en","title":"Honeydew","class_id":8,"subject":"English","medium":"English","cover_url":"","chapter_count":10,"total_pages":148,"size_mb":7.4,"rating":4.5,"chapters_url":"data/class_8/english/chapters.json"},
+  {"book_id":"class8_hindi_hi","title":"Vasant – III","class_id":8,"subject":"Hindi","medium":"Hindi","cover_url":"","chapter_count":18,"total_pages":160,"size_mb":7.9,"rating":4.3,"chapters_url":"data/class_8/hindi/chapters.json"},
+  {"book_id":"class8_sanskrit_sa","title":"Ruchira – III","class_id":8,"subject":"Sanskrit","medium":"Sanskrit","cover_url":"","chapter_count":15,"total_pages":136,"size_mb":6.7,"rating":4.2,"chapters_url":"data/class_8/sanskrit/chapters.json"}
 ]
