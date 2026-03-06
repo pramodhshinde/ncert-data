@@ -1,41 +1,5 @@
 [
-  {
-    "book_id": "class2_math_en",
-    "title": "Math Magic",
-    "class_id": 2,
-    "subject": "Mathematics",
-    "medium": "English",
-    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class2_math.png",
-    "chapter_count": 15,
-    "total_pages": 116,
-    "size_mb": 9.4,
-    "rating": 4.2,
-    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_2/math/chapters.json"
-  },
-  {
-    "book_id": "class2_english_en",
-    "title": "Marigold (English)",
-    "class_id": 2,
-    "subject": "English",
-    "medium": "English",
-    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class2_english.png",
-    "chapter_count": 10,
-    "total_pages": 92,
-    "size_mb": 7.8,
-    "rating": 4.0,
-    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_2/english/chapters.json"
-  },
-  {
-    "book_id": "class2_hindi_hi",
-    "title": "Rimjhim (Hindi)",
-    "class_id": 2,
-    "subject": "Hindi",
-    "medium": "Hindi",
-    "cover_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class2_hindi.png",
-    "chapter_count": 15,
-    "total_pages": 88,
-    "size_mb": 7.6,
-    "rating": 4.0,
-    "chapters_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_2/hindi/chapters.json"
-  }
+  {"book_id":"class2_math_en","title":"Math Magic - Part 2","class_id":2,"subject":"Mathematics","medium":"English","cover_url":"","chapter_count":15,"total_pages":148,"size_mb":6.8,"rating":4.3,"chapters_url":"data/class_2/math/chapters.json"},
+  {"book_id":"class2_english_en","title":"Marigold - II","class_id":2,"subject":"English","medium":"English","cover_url":"","chapter_count":10,"total_pages":100,"size_mb":5.2,"rating":4.2,"chapters_url":"data/class_2/english/chapters.json"},
+  {"book_id":"class2_hindi_hi","title":"Rimjhim - 2","class_id":2,"subject":"Hindi","medium":"Hindi","cover_url":"","chapter_count":15,"total_pages":112,"size_mb":5.6,"rating":4.1,"chapters_url":"data/class_2/hindi/chapters.json"}
 ]
