@@ -1,5 +1,5 @@
 [
-  {"book_id":"class1_math_en","title":"Math Magic - Part 1","class_id":1,"subject":"Mathematics","medium":"English","cover_url":"","chapter_count":13,"total_pages":130,"size_mb":6.2,"rating":4.3,"chapters_url":"data/class_1/math/chapters.json"},
-  {"book_id":"class1_english_en","title":"Marigold","class_id":1,"subject":"English","medium":"English","cover_url":"","chapter_count":8,"total_pages":96,"size_mb":5.1,"rating":4.2,"chapters_url":"data/class_1/english/chapters.json"},
-  {"book_id":"class1_hindi_hi","title":"Rimjhim - 1","class_id":1,"subject":"Hindi","medium":"Hindi","cover_url":"","chapter_count":23,"total_pages":110,"size_mb":5.8,"rating":4.1,"chapters_url":"data/class_1/hindi/chapters.json"}
+  {"book_id":"class1_math_en","title":"Math Magic - Part 1","class_id":1,"subject":"Mathematics","medium":"English","cover_url":"https://ncert.nic.in/textbook/pdf/kehs1cc.jpg","chapter_count":13,"total_pages":130,"size_mb":6.2,"rating":4.3,"chapters_url":"data/class_1/math/chapters.json"},
+  {"book_id":"class1_english_en","title":"Marigold","class_id":1,"subject":"English","medium":"English","cover_url":"https://ncert.nic.in/textbook/pdf/kehs1cc.jpg","chapter_count":8,"total_pages":96,"size_mb":5.1,"rating":4.2,"chapters_url":"data/class_1/english/chapters.json"},
+  {"book_id":"class1_hindi_hi","title":"Rimjhim - 1","class_id":1,"subject":"Hindi","medium":"Hindi","cover_url":"https://ncert.nic.in/textbook/pdf/kehs1cc.jpg","chapter_count":23,"total_pages":110,"size_mb":5.8,"rating":4.1,"chapters_url":"data/class_1/hindi/chapters.json"}
 ]
