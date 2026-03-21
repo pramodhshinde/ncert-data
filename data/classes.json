@@ -14,5 +14,13 @@
     "label": "ncert",
     "subject_count": 14,
     "tag": "class_2"
+  },
+  {
+    "class_id": 12,
+    "color_hex": "#888888",
+    "is_board": true,
+    "label": "class 12",
+    "subject_count": 14,
+    "tag": "class_12"
   }
 ]
