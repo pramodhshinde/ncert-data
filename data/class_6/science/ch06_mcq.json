@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch06_q01",
+    "chapter_id": "c6s_ch06",
+    "question": "Which of the following is a reversible change?",
+    "options": [
+      "Burning of wood",
+      "Rusting of iron",
+      "Melting of ice",
+      "Cooking of food"
+    ],
+    "correct_index": 2,
+    "explanation": "Melting of ice is reversible because water can be frozen again to form ice. Burning of wood, rusting of iron, and cooking of food are irreversible — they cannot be undone.",
+    "ncert_page": 76,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch06_q02",
+    "chapter_id": "c6s_ch06",
+    "question": "Which of the following is an irreversible change?",
+    "options": [
+      "Dissolving sugar in water",
+      "Melting of wax",
+      "Stretching a rubber band",
+      "Burning of paper"
+    ],
+    "correct_index": 3,
+    "explanation": "Burning of paper is irreversible — once paper burns to ash, we cannot get back the original paper. The other changes can be reversed (sugar can be separated by evaporation, wax can re-solidify, rubber band returns to original shape).",
+    "ncert_page": 77,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch06_q03",
+    "chapter_id": "c6s_ch06",
+    "question": "Cutting of trees is an example of:",
+    "options": [
+      "Reversible change",
+      "Irreversible change",
+      "Physical change only",
+      "Natural change"
+    ],
+    "correct_index": 1,
+    "explanation": "Cutting trees is an irreversible change because once a tree is cut, it cannot be put back together in its original form. New trees can be grown but the cut tree cannot be restored.",
+    "ncert_page": 78,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch06_q04",
+    "chapter_id": "c6s_ch06",
+    "question": "Which type of change usually results in formation of a new substance?",
+    "options": [
+      "Physical change",
+      "Reversible change",
+      "Chemical change",
+      "Natural change"
+    ],
+    "correct_index": 2,
+    "explanation": "A chemical change (also called irreversible change) results in the formation of new substances with different properties. Examples: burning, rusting, cooking, souring of milk.",
+    "ncert_page": 79,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch06_q05",
+    "chapter_id": "c6s_ch06",
+    "question": "Souring of milk is an example of:",
+    "options": [
+      "Reversible change",
+      "Physical change",
+      "Irreversible change",
+      "Man-made change"
+    ],
+    "correct_index": 2,
+    "explanation": "Souring of milk is an irreversible chemical change. Once milk has soured (due to bacterial action), it cannot be converted back to fresh milk.",
+    "ncert_page": 78,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch06_q06",
+    "chapter_id": "c6s_ch06",
+    "question": "Blowing a balloon is an example of which type of change?",
+    "options": [
+      "Irreversible change",
+      "Chemical change",
+      "Reversible change",
+      "None of the above"
+    ],
+    "correct_index": 2,
+    "explanation": "Blowing a balloon is reversible — the air can be let out and the balloon returns to its original deflated state. No new substance is formed.",
+    "ncert_page": 76,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch06_q07",
+    "chapter_id": "c6s_ch06",
+    "question": "Which of these is an example of a change caused by heat?",
+    "options": [
+      "Rusting of iron",
+      "Melting of butter",
+      "Spinning of a top",
+      "Cutting of cloth"
+    ],
+    "correct_index": 1,
+    "explanation": "Melting of butter is caused by heat (thermal energy). Rusting is caused by water and oxygen, spinning a top is caused by mechanical energy, and cutting cloth is mechanical.",
+    "ncert_page": 80,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch06_q08",
+    "chapter_id": "c6s_ch06",
+    "question": "A blacksmith heats iron and then shapes it. The heating is which type of change?",
+    "options": [
+      "Irreversible only",
+      "Reversible — iron can be melted and re-shaped",
+      "Chemical change",
+      "Natural change"
+    ],
+    "correct_index": 1,
+    "explanation": "Heating iron is a reversible (physical) change — the iron changes shape when heated and beaten but it can be melted and reshaped repeatedly. No new substance is formed.",
+    "ncert_page": 81,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch06_q09",
+    "chapter_id": "c6s_ch06",
+    "question": "Which of the following is a natural change?",
+    "options": [
+      "Cooking food",
+      "Earthen pot making",
+      "Occurrence of night and day",
+      "Lighting a bulb"
+    ],
+    "correct_index": 2,
+    "explanation": "The occurrence of night and day is a natural change caused by the rotation of the Earth. It happens on its own without human intervention.",
+    "ncert_page": 75,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch06_q10",
+    "chapter_id": "c6s_ch06",
+    "question": "Mixing cement, sand, and water to make concrete that hardens is:",
+    "options": [
+      "Reversible and physical",
+      "Reversible and chemical",
+      "Irreversible — hardened concrete cannot be converted back",
+      "Natural and reversible"
+    ],
+    "correct_index": 2,
+    "explanation": "Hardening of cement concrete is an irreversible chemical change. Once the concrete sets and hardens due to chemical reactions, it cannot be converted back to the original cement, sand, and water mixture.",
+    "ncert_page": 79,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

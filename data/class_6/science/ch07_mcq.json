@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch07_q01",
+    "chapter_id": "c6s_ch07",
+    "question": "A plant with a soft, green stem is called a:",
+    "options": [
+      "Tree",
+      "Shrub",
+      "Herb",
+      "Climber"
+    ],
+    "correct_index": 2,
+    "explanation": "Herbs are plants with soft, green stems that are not woody. They are usually small in size. Examples include wheat, grass, mint, and coriander.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch07_q02",
+    "chapter_id": "c6s_ch07",
+    "question": "Which type of root spreads out in many thin branches near the surface of the soil?",
+    "options": [
+      "Taproot",
+      "Fibrous root",
+      "Prop root",
+      "Adventitious root"
+    ],
+    "correct_index": 1,
+    "explanation": "Fibrous roots are thin, hair-like roots that spread near the soil surface. They are found in monocot plants like grass, wheat, and maize.",
+    "ncert_page": 95,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch07_q03",
+    "chapter_id": "c6s_ch07",
+    "question": "The main root that grows straight down into the soil is called:",
+    "options": [
+      "Fibrous root",
+      "Lateral root",
+      "Taproot",
+      "Root hair"
+    ],
+    "correct_index": 2,
+    "explanation": "A taproot is the primary root that grows straight down into the soil, with smaller lateral roots branching from it. Found in dicot plants like mustard, carrot, and radish.",
+    "ncert_page": 95,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch07_q04",
+    "chapter_id": "c6s_ch07",
+    "question": "The pattern of veins in a leaf is called:",
+    "options": [
+      "Leaf blade",
+      "Venation",
+      "Petiole",
+      "Lamina"
+    ],
+    "correct_index": 1,
+    "explanation": "Venation is the arrangement of veins in a leaf. There are two types: reticulate venation (network pattern, in dicots) and parallel venation (parallel lines, in monocots).",
+    "ncert_page": 92,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch07_q05",
+    "chapter_id": "c6s_ch07",
+    "question": "Leaves make food for the plant through a process called:",
+    "options": [
+      "Respiration",
+      "Transpiration",
+      "Photosynthesis",
+      "Germination"
+    ],
+    "correct_index": 2,
+    "explanation": "Photosynthesis is the process by which green leaves use sunlight, water, and carbon dioxide to make food (glucose). Leaves are called the 'kitchen of the plant'.",
+    "ncert_page": 94,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch07_q06",
+    "chapter_id": "c6s_ch07",
+    "question": "A plant with a hard, woody stem and many branches near the base is called a:",
+    "options": [
+      "Herb",
+      "Shrub",
+      "Tree",
+      "Creeper"
+    ],
+    "correct_index": 1,
+    "explanation": "Shrubs have hard woody stems but are shorter than trees. They branch near the base of the stem. Examples: rose, lemon, hibiscus, and jasmine.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch07_q07",
+    "chapter_id": "c6s_ch07",
+    "question": "Which part of the plant absorbs water and minerals from the soil?",
+    "options": [
+      "Stem",
+      "Leaves",
+      "Flower",
+      "Roots"
+    ],
+    "correct_index": 3,
+    "explanation": "Roots absorb water and dissolved minerals from the soil and anchor the plant firmly in the ground. Root hairs increase the surface area for absorption.",
+    "ncert_page": 95,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch07_q08",
+    "chapter_id": "c6s_ch07",
+    "question": "The stalk that connects the leaf blade to the stem is called:",
+    "options": [
+      "Midrib",
+      "Petiole",
+      "Lamina",
+      "Stipule"
+    ],
+    "correct_index": 1,
+    "explanation": "The petiole is the stalk (stem-like structure) that connects the leaf blade (lamina) to the stem or branch. Some leaves without a petiole are called sessile leaves.",
+    "ncert_page": 92,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch07_q09",
+    "chapter_id": "c6s_ch07",
+    "question": "Grass leaves show parallel venation. What type of root system does grass have?",
+    "options": [
+      "Taproot",
+      "Fibrous root",
+      "Prop root",
+      "No roots"
+    ],
+    "correct_index": 1,
+    "explanation": "There is a correlation: plants with parallel venation (monocots like grass) always have fibrous root systems. Plants with reticulate venation (dicots) have taproot systems.",
+    "ncert_page": 96,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch07_q10",
+    "chapter_id": "c6s_ch07",
+    "question": "Which function do roots NOT perform?",
+    "options": [
+      "Absorbing water from soil",
+      "Anchoring the plant to soil",
+      "Making food by photosynthesis",
+      "Storing food (in some plants like carrot)"
+    ],
+    "correct_index": 2,
+    "explanation": "Roots do not perform photosynthesis — this is the function of leaves (which contain chlorophyll). Roots absorb water and minerals, anchor the plant, and may store food.",
+    "ncert_page": 95,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch04_q01",
+    "chapter_id": "c6s_ch04",
+    "question": "Which property of a material describes whether you can see through it clearly?",
+    "options": [
+      "Lustre",
+      "Hardness",
+      "Transparency",
+      "Solubility"
+    ],
+    "correct_index": 2,
+    "explanation": "Transparency is the property that allows light to pass through a material so objects can be seen clearly through it. Glass and water are transparent materials.",
+    "ncert_page": 48,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch04_q02",
+    "chapter_id": "c6s_ch04",
+    "question": "Which of the following materials is transparent?",
+    "options": [
+      "Wood",
+      "Glass",
+      "Cardboard",
+      "Rubber"
+    ],
+    "correct_index": 1,
+    "explanation": "Glass is transparent because light passes through it clearly, allowing objects on the other side to be seen. Wood, cardboard, and rubber are opaque.",
+    "ncert_page": 49,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch04_q03",
+    "chapter_id": "c6s_ch04",
+    "question": "A material that allows some light to pass through but objects cannot be seen clearly through it is called:",
+    "options": [
+      "Transparent",
+      "Opaque",
+      "Translucent",
+      "Lustrous"
+    ],
+    "correct_index": 2,
+    "explanation": "A translucent material (like oiled paper or frosted glass) allows some light to pass through but scatters it, so objects cannot be seen clearly through it.",
+    "ncert_page": 49,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch04_q04",
+    "chapter_id": "c6s_ch04",
+    "question": "Sugar dissolves in water. This property is called:",
+    "options": [
+      "Lustre",
+      "Solubility",
+      "Transparency",
+      "Hardness"
+    ],
+    "correct_index": 1,
+    "explanation": "Solubility is the ability of a substance to dissolve in a liquid (solvent). Sugar is soluble in water while sand is insoluble.",
+    "ncert_page": 52,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch04_q05",
+    "chapter_id": "c6s_ch04",
+    "question": "The shiny appearance of metals like gold and silver is called:",
+    "options": [
+      "Transparency",
+      "Translucency",
+      "Lustre",
+      "Roughness"
+    ],
+    "correct_index": 2,
+    "explanation": "Lustre is the shiny appearance of a material, especially metals. Gold, silver, and copper have high lustre. Non-metals like coal or wood generally lack lustre.",
+    "ncert_page": 51,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch04_q06",
+    "chapter_id": "c6s_ch04",
+    "question": "Which of the following sinks in water?",
+    "options": [
+      "Dry leaf",
+      "Plastic bottle cap",
+      "Wooden cork",
+      "Stone"
+    ],
+    "correct_index": 3,
+    "explanation": "A stone is denser than water and sinks. Dry leaf, plastic bottle cap, and wooden cork have lower density than water, so they float.",
+    "ncert_page": 53,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch04_q07",
+    "chapter_id": "c6s_ch04",
+    "question": "Materials that do not allow light to pass through them are called:",
+    "options": [
+      "Transparent",
+      "Translucent",
+      "Opaque",
+      "Lustrous"
+    ],
+    "correct_index": 2,
+    "explanation": "Opaque materials do not allow any light to pass through them. Examples include wood, metals, and cardboard. You cannot see through opaque objects.",
+    "ncert_page": 49,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch04_q08",
+    "chapter_id": "c6s_ch04",
+    "question": "Which of the following is a rough material?",
+    "options": [
+      "Silk cloth",
+      "Glass surface",
+      "Sandpaper",
+      "Polished marble"
+    ],
+    "correct_index": 2,
+    "explanation": "Sandpaper has a rough texture due to abrasive particles on its surface. Silk, glass, and polished marble are smooth materials.",
+    "ncert_page": 50,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch04_q09",
+    "chapter_id": "c6s_ch04",
+    "question": "When chalk is mixed with water and left undisturbed, chalk settles at the bottom. This shows chalk is:",
+    "options": [
+      "Soluble in water",
+      "Insoluble in water",
+      "Transparent",
+      "Lighter than water"
+    ],
+    "correct_index": 1,
+    "explanation": "When chalk settles at the bottom rather than dissolving, it shows that chalk is insoluble in water. If it were soluble, it would dissolve and the water would appear clear.",
+    "ncert_page": 52,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch04_q10",
+    "chapter_id": "c6s_ch04",
+    "question": "Why are different materials used for different purposes?",
+    "options": [
+      "Because all materials look different",
+      "Because each material has specific properties suitable for a particular use",
+      "Because some materials are cheaper",
+      "Because of colour differences only"
+    ],
+    "correct_index": 1,
+    "explanation": "Materials are sorted and chosen based on their properties. For example, metals are used for tools because they are hard and strong; cotton is used for clothing because it is soft and absorbs sweat.",
+    "ncert_page": 47,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

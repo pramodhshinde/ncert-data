@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch02_q01",
+    "chapter_id": "c6m_ch02",
+    "question": "The smallest whole number is:",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "None of these"
+    ],
+    "correct_index": 0,
+    "explanation": "0 is the smallest whole number. Natural numbers start from 1 but whole numbers include 0.",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch02_q02",
+    "chapter_id": "c6m_ch02",
+    "question": "The natural number that has no predecessor is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "None"
+    ],
+    "correct_index": 1,
+    "explanation": "1 is the first natural number and has no predecessor in the natural numbers.",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch02_q03",
+    "chapter_id": "c6m_ch02",
+    "question": "Which property does 5 × (3 + 4) = 5 × 3 + 5 × 4 show?",
+    "options": [
+      "Commutative",
+      "Associative",
+      "Distributive",
+      "Closure"
+    ],
+    "correct_index": 2,
+    "explanation": "This is the distributive property of multiplication over addition.",
+    "ncert_page": 36,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch02_q04",
+    "chapter_id": "c6m_ch02",
+    "question": "Is there a whole number between 5 and 6?",
+    "options": [
+      "Yes, 5.5",
+      "No",
+      "Yes, 5.1",
+      "Yes, 5.9"
+    ],
+    "correct_index": 1,
+    "explanation": "There is no whole number between 5 and 6. Whole numbers are 0, 1, 2, 3, ...",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch02_q05",
+    "chapter_id": "c6m_ch02",
+    "question": "What is 46 × 99 + 46?",
+    "options": [
+      "4554",
+      "4600",
+      "4646",
+      "4560"
+    ],
+    "correct_index": 1,
+    "explanation": "46 × 99 + 46 = 46 × (99+1) = 46 × 100 = 4600",
+    "ncert_page": 36,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch02_q06",
+    "chapter_id": "c6m_ch02",
+    "question": "On the number line, which whole number is 3 steps to the right of 7?",
+    "options": [
+      "4",
+      "10",
+      "11",
+      "3"
+    ],
+    "correct_index": 1,
+    "explanation": "Starting at 7, moving 3 steps right: 7+3 = 10",
+    "ncert_page": 30,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch02_q07",
+    "chapter_id": "c6m_ch02",
+    "question": "The product of any whole number with 0 is:",
+    "options": [
+      "That number",
+      "0",
+      "1",
+      "Undefined"
+    ],
+    "correct_index": 1,
+    "explanation": "Any number multiplied by 0 equals 0. This is the property of multiplication by zero.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch02_q08",
+    "chapter_id": "c6m_ch02",
+    "question": "Which of these is a whole number but not a natural number?",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "correct_index": 2,
+    "explanation": "0 is a whole number but not a natural number. Natural numbers are 1,2,3...",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch02_q09",
+    "chapter_id": "c6m_ch02",
+    "question": "The sum of any two whole numbers is always a:",
+    "options": [
+      "Natural number",
+      "Whole number",
+      "Integer",
+      "Fraction"
+    ],
+    "correct_index": 1,
+    "explanation": "The set of whole numbers is closed under addition. The sum of any two whole numbers is a whole number.",
+    "ncert_page": 32,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch02_q10",
+    "chapter_id": "c6m_ch02",
+    "question": "On a number line, to subtract 4 from 9, you move:",
+    "options": [
+      "4 steps right from 9",
+      "4 steps left from 9",
+      "9 steps right from 4",
+      "9 steps left from 4"
+    ],
+    "correct_index": 1,
+    "explanation": "Subtraction on a number line means moving to the left. 9-4: start at 9, move 4 steps left = 5",
+    "ncert_page": 30,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

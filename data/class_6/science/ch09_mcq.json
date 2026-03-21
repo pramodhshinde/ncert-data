@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch09_q01",
+    "chapter_id": "c6s_ch09",
+    "question": "The place where an organism naturally lives and grows is called its:",
+    "options": [
+      "Niche",
+      "Habitat",
+      "Ecosystem",
+      "Environment"
+    ],
+    "correct_index": 1,
+    "explanation": "A habitat is the natural environment where an organism lives, finds its food, and reproduces. Examples include forests, ponds, deserts, and oceans.",
+    "ncert_page": 124,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch09_q02",
+    "chapter_id": "c6s_ch09",
+    "question": "Which of the following is an abiotic component of a habitat?",
+    "options": [
+      "Grass",
+      "Fishes",
+      "Rocks and water",
+      "Insects"
+    ],
+    "correct_index": 2,
+    "explanation": "Abiotic components are the non-living parts of a habitat — like water, air, soil, sunlight, and rocks. Biotic components are living things like plants, animals, and microorganisms.",
+    "ncert_page": 125,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch09_q03",
+    "chapter_id": "c6s_ch09",
+    "question": "A camel can survive in the desert because:",
+    "options": [
+      "It drinks very little water",
+      "It stores water in its hump and can tolerate water loss",
+      "It lives underground during hot days",
+      "It eats sand for moisture"
+    ],
+    "correct_index": 1,
+    "explanation": "Camels are adapted to deserts: they store fat (not water) in their hump for energy, can tolerate large water loss, have long legs to stay away from hot sand, and have wide feet for walking on sand.",
+    "ncert_page": 128,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch09_q04",
+    "chapter_id": "c6s_ch09",
+    "question": "Fish have gills because:",
+    "options": [
+      "They need to breathe air",
+      "Gills allow them to breathe oxygen dissolved in water",
+      "They are colourful like gills",
+      "Gills help them swim faster"
+    ],
+    "correct_index": 1,
+    "explanation": "Gills are an adaptation for aquatic life — they extract dissolved oxygen from water. Fish cannot breathe air directly (unlike lungs which extract oxygen from air).",
+    "ncert_page": 130,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch09_q05",
+    "chapter_id": "c6s_ch09",
+    "question": "Which of the following is a characteristic common to all living organisms?",
+    "options": [
+      "They all can fly",
+      "They all need food, produce young ones, and respond to surroundings",
+      "They all live on land",
+      "They all have bones"
+    ],
+    "correct_index": 1,
+    "explanation": "All living organisms share common characteristics: they need food/nutrition, breathe (respire), grow, reproduce (produce young ones), respond to stimuli, and excrete waste products.",
+    "ncert_page": 123,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch09_q06",
+    "chapter_id": "c6s_ch09",
+    "question": "Special features that help an organism survive in its habitat are called:",
+    "options": [
+      "Habitats",
+      "Ecosystems",
+      "Adaptations",
+      "Biomes"
+    ],
+    "correct_index": 2,
+    "explanation": "Adaptations are special features or behaviours that help organisms survive and thrive in their specific habitat. Example: thick fur in polar bears for cold climates, webbed feet in ducks for swimming.",
+    "ncert_page": 127,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch09_q07",
+    "chapter_id": "c6s_ch09",
+    "question": "Which adaptation helps polar bears survive in extremely cold conditions?",
+    "options": [
+      "Thin skin and no fur",
+      "White colour, thick fur, and a layer of fat under skin",
+      "Long ears to hear predators",
+      "Ability to hibernate in summer"
+    ],
+    "correct_index": 1,
+    "explanation": "Polar bears have: white fur for camouflage in snow, thick fur for insulation, and a thick layer of fat (blubber) under their skin to retain body heat in Arctic temperatures.",
+    "ncert_page": 129,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch09_q08",
+    "chapter_id": "c6s_ch09",
+    "question": "Aquatic plants like lotus have stems that are:",
+    "options": [
+      "Very hard and woody",
+      "Long and hollow to allow air to reach roots underwater",
+      "Short and thick",
+      "Full of thorns"
+    ],
+    "correct_index": 1,
+    "explanation": "Aquatic plants like lotus have long hollow or spongy stems that allow air to pass down to the roots submerged in mud at the bottom of the water body.",
+    "ncert_page": 131,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch09_q09",
+    "chapter_id": "c6s_ch09",
+    "question": "Desert plants like cactus have leaves modified into spines. What is the main benefit of this adaptation?",
+    "options": [
+      "Spines help in photosynthesis",
+      "Spines reduce water loss and protect from animals",
+      "Spines help attract insects",
+      "Spines increase the plant's height"
+    ],
+    "correct_index": 1,
+    "explanation": "Cactus spines are modified leaves that reduce surface area to minimize water loss by transpiration. They also protect the plant from being eaten by animals in the desert.",
+    "ncert_page": 128,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch09_q10",
+    "chapter_id": "c6s_ch09",
+    "question": "A terrarium can be used to study which type of habitat?",
+    "options": [
+      "Deep ocean",
+      "Aquatic habitat",
+      "Terrestrial (land) habitat",
+      "Polar habitat"
+    ],
+    "correct_index": 2,
+    "explanation": "A terrarium is a small enclosed container with soil, rocks, and plants used to create and observe a miniature terrestrial (land-based) habitat. An aquarium is used to study aquatic habitats.",
+    "ncert_page": 132,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

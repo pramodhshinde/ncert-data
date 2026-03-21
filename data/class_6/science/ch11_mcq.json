@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch11_q01",
+    "chapter_id": "c6s_ch11",
+    "question": "A material that allows light to pass through it so that objects can be seen clearly through it is called:",
+    "options": [
+      "Opaque",
+      "Translucent",
+      "Transparent",
+      "Reflective"
+    ],
+    "correct_index": 2,
+    "explanation": "Transparent materials allow light to pass through clearly. Objects can be seen distinctly through them. Examples: clear glass, clean water, and air.",
+    "ncert_page": 154,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch11_q02",
+    "chapter_id": "c6s_ch11",
+    "question": "A shadow is formed when:",
+    "options": [
+      "Light passes through an object",
+      "An opaque object blocks light",
+      "A transparent object is placed in sunlight",
+      "Light bends around an object"
+    ],
+    "correct_index": 1,
+    "explanation": "Shadows are formed when an opaque object blocks the path of light. The region behind the opaque object where light does not reach appears as a shadow.",
+    "ncert_page": 156,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch11_q03",
+    "chapter_id": "c6s_ch11",
+    "question": "Which of the following does NOT form a shadow?",
+    "options": [
+      "A book",
+      "A metal plate",
+      "A glass pane (transparent)",
+      "A wooden plank"
+    ],
+    "correct_index": 2,
+    "explanation": "A transparent glass pane allows light to pass through, so it does not form a shadow. Opaque objects like books, metal plates, and wooden planks form shadows.",
+    "ncert_page": 157,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch11_q04",
+    "chapter_id": "c6s_ch11",
+    "question": "A pinhole camera forms an image that is:",
+    "options": [
+      "Upright and large",
+      "Inverted and the same size",
+      "Inverted and smaller",
+      "Upright and smaller"
+    ],
+    "correct_index": 2,
+    "explanation": "A pinhole camera (camera obscura) forms an inverted (upside down) and smaller image of the object. This is because light travels in a straight line through the pinhole.",
+    "ncert_page": 162,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch11_q05",
+    "chapter_id": "c6s_ch11",
+    "question": "Light travels in a:",
+    "options": [
+      "Curved path",
+      "Zigzag path",
+      "Straight line",
+      "Spiral path"
+    ],
+    "correct_index": 2,
+    "explanation": "Light always travels in a straight line (rectilinear propagation of light). This is why we get sharp shadows and why a pinhole camera forms an inverted image.",
+    "ncert_page": 155,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch11_q06",
+    "chapter_id": "c6s_ch11",
+    "question": "When you look at your reflection in a mirror, you see a:",
+    "options": [
+      "Real image",
+      "Inverted image",
+      "Laterally inverted image",
+      "Diminished image"
+    ],
+    "correct_index": 2,
+    "explanation": "A plane mirror forms a laterally inverted image — your left side appears as the right side in the mirror. The image is virtual, erect, and the same size as the object.",
+    "ncert_page": 160,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch11_q07",
+    "chapter_id": "c6s_ch11",
+    "question": "The shadow of an object is always which colour?",
+    "options": [
+      "The same colour as the object",
+      "White",
+      "Black (or dark)",
+      "The colour of the light source"
+    ],
+    "correct_index": 2,
+    "explanation": "A shadow is always black or dark because it is the region where light does not reach. The colour of the object or light source does not affect the colour of the shadow.",
+    "ncert_page": 158,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch11_q08",
+    "chapter_id": "c6s_ch11",
+    "question": "As you move an opaque object closer to a light source, its shadow:",
+    "options": [
+      "Becomes smaller",
+      "Becomes larger",
+      "Stays the same",
+      "Disappears"
+    ],
+    "correct_index": 1,
+    "explanation": "When an opaque object is moved closer to a light source, its shadow becomes larger. The further the object from the screen (and closer to the source), the larger the shadow.",
+    "ncert_page": 159,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch11_q09",
+    "chapter_id": "c6s_ch11",
+    "question": "Frosted glass is an example of a _________ material.",
+    "options": [
+      "Transparent",
+      "Opaque",
+      "Translucent",
+      "Reflective"
+    ],
+    "correct_index": 2,
+    "explanation": "Frosted glass is translucent — it allows some light to pass through but scatters it, making objects appear blurry. You cannot see clearly through frosted glass.",
+    "ncert_page": 154,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch11_q10",
+    "chapter_id": "c6s_ch11",
+    "question": "Why does a pinhole camera use a very tiny hole?",
+    "options": [
+      "To save material",
+      "A large hole would let in too much light and create an overlapping, blurry image instead of a sharp inverted one",
+      "To make the image larger",
+      "So that only UV light enters"
+    ],
+    "correct_index": 1,
+    "explanation": "A large hole allows light rays from many different angles to enter, causing overlapping images that appear blurry. A tiny pinhole allows only a narrow beam to pass, forming a sharp, clear inverted image.",
+    "ncert_page": 163,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

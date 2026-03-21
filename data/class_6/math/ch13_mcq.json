@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch13_q01",
+    "chapter_id": "c6m_ch13",
+    "question": "What is a line of symmetry?",
+    "options": [
+      "A line that divides a shape into two unequal parts",
+      "A line that divides a shape into two equal mirror-image halves",
+      "A line drawn at the centre of a circle",
+      "A diagonal of a rectangle"
+    ],
+    "correct_index": 1,
+    "explanation": "A line of symmetry (axis of symmetry) divides a figure into two identical halves that are mirror images of each other when folded along that line.",
+    "ncert_page": 266,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch13_q02",
+    "chapter_id": "c6m_ch13",
+    "question": "How many lines of symmetry does an equilateral triangle have?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_index": 3,
+    "explanation": "An equilateral triangle has 3 lines of symmetry — one from each vertex to the midpoint of the opposite side. This is because all three sides and angles are equal.",
+    "ncert_page": 269,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch13_q03",
+    "chapter_id": "c6m_ch13",
+    "question": "How many lines of symmetry does a circle have?",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "Infinite"
+    ],
+    "correct_index": 3,
+    "explanation": "A circle has infinitely many lines of symmetry because any diameter (a line through the centre) divides it into two equal semicircles.",
+    "ncert_page": 271,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch13_q04",
+    "chapter_id": "c6m_ch13",
+    "question": "Which letter of the English alphabet has a vertical line of symmetry?",
+    "options": [
+      "F",
+      "G",
+      "A",
+      "Z"
+    ],
+    "correct_index": 2,
+    "explanation": "The letter 'A' has a vertical line of symmetry — fold it vertically through the middle and both halves match. F, G and Z have no lines of symmetry.",
+    "ncert_page": 267,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch13_q05",
+    "chapter_id": "c6m_ch13",
+    "question": "How many lines of symmetry does a square have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "A square has 4 lines of symmetry: 2 along the diagonals and 2 through the midpoints of opposite sides.",
+    "ncert_page": 270,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch13_q06",
+    "chapter_id": "c6m_ch13",
+    "question": "A rectangle (non-square) has how many lines of symmetry?",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "Infinite"
+    ],
+    "correct_index": 1,
+    "explanation": "A rectangle has 2 lines of symmetry — one horizontal (through midpoints of longer sides) and one vertical (through midpoints of shorter sides). Its diagonals are NOT lines of symmetry.",
+    "ncert_page": 270,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch13_q07",
+    "chapter_id": "c6m_ch13",
+    "question": "Which of the following figures has NO line of symmetry?",
+    "options": [
+      "Equilateral triangle",
+      "Square",
+      "Scalene triangle",
+      "Regular hexagon"
+    ],
+    "correct_index": 2,
+    "explanation": "A scalene triangle has all sides of different lengths and all angles of different measures, so it has no line of symmetry. All other figures listed have at least one.",
+    "ncert_page": 269,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch13_q08",
+    "chapter_id": "c6m_ch13",
+    "question": "When you look at your reflection in a mirror, your right hand appears as your left hand. This is an example of:",
+    "options": [
+      "Rotational symmetry",
+      "Mirror symmetry (reflection)",
+      "Translational symmetry",
+      "Line symmetry"
+    ],
+    "correct_index": 1,
+    "explanation": "A mirror reflection creates a mirror image where left and right are interchanged. This is mirror symmetry or reflection symmetry — the mirror acts as the line of symmetry.",
+    "ncert_page": 266,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch13_q09",
+    "chapter_id": "c6m_ch13",
+    "question": "A regular hexagon has how many lines of symmetry?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "A regular hexagon has 6 lines of symmetry — 3 connecting opposite vertices and 3 connecting midpoints of opposite sides. A regular polygon with n sides has n lines of symmetry.",
+    "ncert_page": 271,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch13_q10",
+    "chapter_id": "c6m_ch13",
+    "question": "An isosceles triangle has how many lines of symmetry?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_index": 1,
+    "explanation": "An isosceles triangle has exactly 1 line of symmetry — the perpendicular bisector of the base (the line from the apex vertex to the midpoint of the unequal side).",
+    "ncert_page": 269,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch08_q01",
+    "chapter_id": "c6s_ch08",
+    "question": "Which type of joint allows movement in all directions?",
+    "options": [
+      "Hinge joint",
+      "Fixed joint",
+      "Ball and socket joint",
+      "Pivot joint"
+    ],
+    "correct_index": 2,
+    "explanation": "The ball and socket joint (like the shoulder and hip) allows movement in all directions. One bone has a ball-shaped end that fits into a socket of the other bone.",
+    "ncert_page": 108,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch08_q02",
+    "chapter_id": "c6s_ch08",
+    "question": "The knee is an example of which type of joint?",
+    "options": [
+      "Ball and socket joint",
+      "Hinge joint",
+      "Fixed joint",
+      "Pivot joint"
+    ],
+    "correct_index": 1,
+    "explanation": "The knee is a hinge joint that allows movement in only one plane (like a door hinge) — it can bend and straighten but not rotate. The elbow is also a hinge joint.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch08_q03",
+    "chapter_id": "c6s_ch08",
+    "question": "Joints in the skull are:",
+    "options": [
+      "Hinge joints",
+      "Ball and socket joints",
+      "Fixed (immovable) joints",
+      "Pivot joints"
+    ],
+    "correct_index": 2,
+    "explanation": "The joints in the skull are fixed (immovable) joints. The bones are fused together and cannot move, which protects the brain.",
+    "ncert_page": 110,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch08_q04",
+    "chapter_id": "c6s_ch08",
+    "question": "How does an earthworm move?",
+    "options": [
+      "By using legs",
+      "By using fins",
+      "By contracting and extending its body using muscles",
+      "By rolling"
+    ],
+    "correct_index": 2,
+    "explanation": "An earthworm has no legs or bones. It moves by alternately contracting and extending its body using longitudinal and circular muscles, aided by tiny bristles called setae.",
+    "ncert_page": 114,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch08_q05",
+    "chapter_id": "c6s_ch08",
+    "question": "The flexible connective tissue that cushions joints and provides shape to nose and ears is:",
+    "options": [
+      "Bone",
+      "Muscle",
+      "Cartilage",
+      "Tendon"
+    ],
+    "correct_index": 2,
+    "explanation": "Cartilage is a flexible connective tissue, softer than bone. It is found at joints to reduce friction, and gives shape to the nose, ears, and parts of the trachea.",
+    "ncert_page": 108,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch08_q06",
+    "chapter_id": "c6s_ch08",
+    "question": "Which part of a bird is specially adapted for flying?",
+    "options": [
+      "Its feathers only",
+      "Its streamlined body, hollow bones, and wings",
+      "Its beak shape",
+      "Its claws"
+    ],
+    "correct_index": 1,
+    "explanation": "Birds are adapted for flight with a streamlined body (reduces air resistance), hollow and lightweight bones, strong chest muscles, and wings. All these features work together for flight.",
+    "ncert_page": 116,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch08_q07",
+    "chapter_id": "c6s_ch08",
+    "question": "The joint that allows the head to move from side to side (like saying 'no') is:",
+    "options": [
+      "Hinge joint",
+      "Ball and socket joint",
+      "Pivot joint",
+      "Fixed joint"
+    ],
+    "correct_index": 2,
+    "explanation": "The pivot joint at the top of the spine (between the atlas and axis vertebrae) allows the head to rotate from side to side. It allows only rotational movement.",
+    "ncert_page": 110,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch08_q08",
+    "chapter_id": "c6s_ch08",
+    "question": "How do muscles help in movement?",
+    "options": [
+      "By pushing bones",
+      "By pulling bones (muscles can only contract, not push)",
+      "By rotating on their own",
+      "By secreting lubricant"
+    ],
+    "correct_index": 1,
+    "explanation": "Muscles work by contracting (shortening). When they contract, they pull the bone they are attached to, causing movement. Muscles cannot push — they always work in pairs (one contracts while the other relaxes).",
+    "ncert_page": 112,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch08_q09",
+    "chapter_id": "c6s_ch08",
+    "question": "Snakes move by:",
+    "options": [
+      "Using their tail only",
+      "Lateral undulation — a side-to-side S-shaped motion",
+      "Using dozens of tiny legs",
+      "Jumping from place to place"
+    ],
+    "correct_index": 1,
+    "explanation": "Snakes move by lateral undulation — they form S-shaped curves using their flexible backbone and ribs, pushing against the ground surface to propel forward. They have no legs.",
+    "ncert_page": 117,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch08_q10",
+    "chapter_id": "c6s_ch08",
+    "question": "Fish swim using a side-to-side motion. What body parts help fish move through water efficiently?",
+    "options": [
+      "Only their tail",
+      "Their streamlined body shape, fins, and tail",
+      "Their gills",
+      "Their scales only"
+    ],
+    "correct_index": 1,
+    "explanation": "Fish use their streamlined body (reduces water resistance), fins (for balance and steering), and tail (for propulsion by sweeping side to side) to move efficiently through water.",
+    "ncert_page": 115,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

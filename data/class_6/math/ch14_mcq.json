@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch14_q01",
+    "chapter_id": "c6m_ch14",
+    "question": "Which instrument is used to draw a circle of a specific radius?",
+    "options": [
+      "Ruler",
+      "Protractor",
+      "Compass",
+      "Set square"
+    ],
+    "correct_index": 2,
+    "explanation": "A compass is used to draw circles and arcs. You set the distance between the needle point and pencil to the required radius and rotate it around the centre point.",
+    "ncert_page": 278,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch14_q02",
+    "chapter_id": "c6m_ch14",
+    "question": "To construct the perpendicular bisector of a line segment, we need:",
+    "options": [
+      "Only a ruler",
+      "Only a compass",
+      "A compass and a ruler",
+      "A protractor and ruler"
+    ],
+    "correct_index": 2,
+    "explanation": "Constructing a perpendicular bisector requires a compass (to draw arcs from both endpoints) and a ruler (to draw the bisecting line through the intersection points of arcs).",
+    "ncert_page": 279,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch14_q03",
+    "chapter_id": "c6m_ch14",
+    "question": "What does 'bisect' mean?",
+    "options": [
+      "To trisect into three equal parts",
+      "To divide into two equal parts",
+      "To extend a line segment",
+      "To draw parallel lines"
+    ],
+    "correct_index": 1,
+    "explanation": "To bisect means to divide something into two equal parts. A perpendicular bisector divides a line segment into two equal halves at 90°.",
+    "ncert_page": 279,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch14_q04",
+    "chapter_id": "c6m_ch14",
+    "question": "To construct an angle of 60°, we use the property that:",
+    "options": [
+      "It equals half of 120°",
+      "An equilateral triangle has all angles of 60°",
+      "It is twice 30°",
+      "A semicircle subtends 60°"
+    ],
+    "correct_index": 1,
+    "explanation": "An equilateral triangle has all three angles equal to 60°. By constructing an equilateral triangle (using a compass), we automatically create a 60° angle.",
+    "ncert_page": 281,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch14_q05",
+    "chapter_id": "c6m_ch14",
+    "question": "Which of the following can be constructed with a compass and ruler without a protractor?",
+    "options": [
+      "45° angle",
+      "37° angle",
+      "55° angle",
+      "70° angle"
+    ],
+    "correct_index": 0,
+    "explanation": "45° can be constructed by bisecting a 90° angle (which itself is constructed by bisecting a straight line or using perpendicular bisector method). Arbitrary angles like 37° or 55° require a protractor.",
+    "ncert_page": 282,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch14_q06",
+    "chapter_id": "c6m_ch14",
+    "question": "When constructing a copy of a given line segment AB, the first step is:",
+    "options": [
+      "Draw a ray longer than AB",
+      "Measure AB with a ruler",
+      "Open the compass to length AB",
+      "Draw a circle with radius AB"
+    ],
+    "correct_index": 0,
+    "explanation": "The first step is to draw a ray (starting line) that is longer than the segment to be copied. Then open the compass to the length of AB and mark the same length on the new ray.",
+    "ncert_page": 278,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch14_q07",
+    "chapter_id": "c6m_ch14",
+    "question": "To construct a 90° angle, which of the following methods can be used?",
+    "options": [
+      "Bisect a 180° straight angle",
+      "Trisect a 270° angle",
+      "Use the 30°-60°-90° triangle",
+      "Bisect a 60° angle"
+    ],
+    "correct_index": 0,
+    "explanation": "A 90° angle can be constructed by bisecting a 180° straight angle (a straight line) using the perpendicular bisector construction.",
+    "ncert_page": 280,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch14_q08",
+    "chapter_id": "c6m_ch14",
+    "question": "The bisector of an angle of 90° creates two angles each measuring:",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correct_index": 1,
+    "explanation": "Bisecting means dividing into two equal parts. Half of 90° = 90° ÷ 2 = 45°. So the angle bisector of a right angle creates two 45° angles.",
+    "ncert_page": 282,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch14_q09",
+    "chapter_id": "c6m_ch14",
+    "question": "A protractor is used to:",
+    "options": [
+      "Draw straight lines",
+      "Measure and construct angles",
+      "Draw circles",
+      "Measure lengths"
+    ],
+    "correct_index": 1,
+    "explanation": "A protractor is a semi-circular measuring tool used to measure angles in degrees and to draw angles of specific measurements.",
+    "ncert_page": 278,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch14_q10",
+    "chapter_id": "c6m_ch14",
+    "question": "To construct a triangle when all three sides are given (SSS), which condition must be satisfied?",
+    "options": [
+      "All sides must be equal",
+      "The sum of any two sides must be greater than the third side",
+      "One side must be double another",
+      "The sides must be in ratio 3:4:5"
+    ],
+    "correct_index": 1,
+    "explanation": "The triangle inequality states: the sum of any two sides of a triangle must be greater than the third side. If this condition is not met, a valid triangle cannot be constructed.",
+    "ncert_page": 283,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

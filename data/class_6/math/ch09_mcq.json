@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch09_q01",
+    "chapter_id": "c6m_ch09",
+    "question": "What is used to represent data visually using pictures or symbols?",
+    "options": [
+      "Bar graph",
+      "Tally marks",
+      "Pictograph",
+      "Number line"
+    ],
+    "correct_index": 2,
+    "explanation": "A pictograph uses pictures or symbols to represent data, where each symbol stands for a certain number of units. It makes data easy to read and compare visually.",
+    "ncert_page": 191,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch09_q02",
+    "chapter_id": "c6m_ch09",
+    "question": "Tally marks are grouped in bunches of:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correct_index": 2,
+    "explanation": "Tally marks are made in groups of 5. The fifth tally mark crosses the previous four diagonally, making counting in fives easy.",
+    "ncert_page": 190,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch09_q03",
+    "chapter_id": "c6m_ch09",
+    "question": "In a bar graph, what do the bars represent?",
+    "options": [
+      "The title of the data",
+      "The scale",
+      "The quantity of each category",
+      "The legend"
+    ],
+    "correct_index": 2,
+    "explanation": "In a bar graph, each bar represents a category, and its height (or length) indicates the quantity or value for that category.",
+    "ncert_page": 196,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch09_q04",
+    "chapter_id": "c6m_ch09",
+    "question": "The most common value in a data set is called its:",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "correct_index": 2,
+    "explanation": "The mode is the value that appears most frequently in a data set. A data set can have more than one mode or no mode at all.",
+    "ncert_page": 194,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch09_q05",
+    "chapter_id": "c6m_ch09",
+    "question": "Which axis of a bar graph typically shows the categories?",
+    "options": [
+      "Horizontal axis (x-axis)",
+      "Vertical axis (y-axis)",
+      "Both axes",
+      "Neither axis"
+    ],
+    "correct_index": 0,
+    "explanation": "In a standard vertical bar graph, categories are shown along the horizontal (x) axis and the quantities/values are shown along the vertical (y) axis.",
+    "ncert_page": 197,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch09_q06",
+    "chapter_id": "c6m_ch09",
+    "question": "If the scale on a pictograph is 1 symbol = 5 students, how many students does 4 symbols represent?",
+    "options": [
+      "4",
+      "9",
+      "20",
+      "25"
+    ],
+    "correct_index": 2,
+    "explanation": "If 1 symbol = 5 students, then 4 symbols = 4 × 5 = 20 students.",
+    "ncert_page": 192,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch09_q07",
+    "chapter_id": "c6m_ch09",
+    "question": "What is the range of the data set: 3, 7, 1, 9, 4?",
+    "options": [
+      "3",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct_index": 2,
+    "explanation": "Range = Maximum value - Minimum value = 9 - 1 = 8. The range tells us how spread out the data is.",
+    "ncert_page": 195,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch09_q08",
+    "chapter_id": "c6m_ch09",
+    "question": "In a class of 30 students, 12 like cricket, 10 like football, and 8 like tennis. On a bar graph with scale 1 unit = 2 students, how tall is the bar for cricket?",
+    "options": [
+      "6 units",
+      "10 units",
+      "12 units",
+      "24 units"
+    ],
+    "correct_index": 0,
+    "explanation": "Scale: 1 unit = 2 students. Cricket has 12 students. Bar height = 12 ÷ 2 = 6 units.",
+    "ncert_page": 199,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch09_q09",
+    "chapter_id": "c6m_ch09",
+    "question": "What is the first step in collecting and organising data?",
+    "options": [
+      "Drawing a bar graph",
+      "Making a tally chart",
+      "Finding the mode",
+      "Choosing the scale"
+    ],
+    "correct_index": 1,
+    "explanation": "The first step in organising data is making a tally chart, where you record each observation with a tally mark. This helps count frequencies systematically.",
+    "ncert_page": 190,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch09_q10",
+    "chapter_id": "c6m_ch09",
+    "question": "In a pictograph, 1 symbol = 10 books. If the library section shows 3.5 symbols for magazines, how many magazines are there?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "3.5"
+    ],
+    "correct_index": 1,
+    "explanation": "3.5 symbols × 10 books per symbol = 35. Half a symbol represents half the value (10 ÷ 2 = 5), so 3 symbols + half = 30 + 5 = 35 magazines.",
+    "ncert_page": 193,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

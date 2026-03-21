@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch14_q01",
+    "chapter_id": "c6s_ch14",
+    "question": "Water exists in how many states (forms) in nature?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_index": 2,
+    "explanation": "Water exists in three states in nature: solid (ice), liquid (water), and gas (water vapour/steam). It can change between these states by absorbing or releasing heat.",
+    "ncert_page": 198,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch14_q02",
+    "chapter_id": "c6s_ch14",
+    "question": "The process by which water from rivers, lakes, and oceans turns into water vapour is called:",
+    "options": [
+      "Condensation",
+      "Precipitation",
+      "Evaporation",
+      "Transpiration"
+    ],
+    "correct_index": 2,
+    "explanation": "Evaporation is the process where liquid water is converted into water vapour (gas) by gaining heat energy. It is a key step in the water cycle.",
+    "ncert_page": 200,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch14_q03",
+    "chapter_id": "c6s_ch14",
+    "question": "When water vapour in the atmosphere cools and changes back to liquid water forming clouds, this process is called:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Transpiration"
+    ],
+    "correct_index": 1,
+    "explanation": "Condensation is the process where water vapour cools down and converts back into liquid water droplets, forming clouds and mist.",
+    "ncert_page": 201,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch14_q04",
+    "chapter_id": "c6s_ch14",
+    "question": "Rain, snow, sleet, and hail are all forms of:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Transpiration"
+    ],
+    "correct_index": 2,
+    "explanation": "Precipitation is any form of water that falls from clouds to the Earth's surface. It includes rain, snow, sleet, and hail, depending on temperature conditions.",
+    "ncert_page": 202,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch14_q05",
+    "chapter_id": "c6s_ch14",
+    "question": "Groundwater comes from:",
+    "options": [
+      "Water transported by tankers",
+      "Rainwater seeping through soil and rocks",
+      "Sea water",
+      "Water produced inside Earth"
+    ],
+    "correct_index": 1,
+    "explanation": "Groundwater is rainwater that seeps through the soil and porous rocks and accumulates underground. It can be accessed through wells and borewells.",
+    "ncert_page": 203,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch14_q06",
+    "chapter_id": "c6s_ch14",
+    "question": "Which of the following is a method of water conservation?",
+    "options": [
+      "Leaving taps running",
+      "Rainwater harvesting",
+      "Draining lakes",
+      "Cutting forests"
+    ],
+    "correct_index": 1,
+    "explanation": "Rainwater harvesting collects and stores rainwater for later use, reducing dependence on groundwater. Leaving taps running, draining lakes, and cutting forests all waste or reduce water.",
+    "ncert_page": 206,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch14_q07",
+    "chapter_id": "c6s_ch14",
+    "question": "A drought occurs when:",
+    "options": [
+      "There is too much rainfall",
+      "There is very little or no rainfall for a long period",
+      "Rivers flood",
+      "Groundwater level rises"
+    ],
+    "correct_index": 1,
+    "explanation": "A drought is a period of abnormally low rainfall over a long time, leading to water shortage, crop failure, and food scarcity in the affected region.",
+    "ncert_page": 205,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch14_q08",
+    "chapter_id": "c6s_ch14",
+    "question": "The continuous cycling of water between the Earth's surface and the atmosphere is called:",
+    "options": [
+      "Condensation cycle",
+      "The water cycle (hydrological cycle)",
+      "Transpiration cycle",
+      "Precipitation cycle"
+    ],
+    "correct_index": 1,
+    "explanation": "The water cycle (hydrological cycle) describes the continuous movement of water: evaporation from surfaces → condensation to form clouds → precipitation as rain/snow → flow back to oceans/rivers.",
+    "ncert_page": 199,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch14_q09",
+    "chapter_id": "c6s_ch14",
+    "question": "Why is it important to keep sources of water clean?",
+    "options": [
+      "Clean water looks better",
+      "Dirty water causes diseases and is unsafe for drinking and other uses",
+      "Water cleanses itself automatically",
+      "Only bathing water needs to be clean"
+    ],
+    "correct_index": 1,
+    "explanation": "Water contaminated with germs, sewage, or chemicals causes diseases like cholera, typhoid, and dysentery. Clean water is essential for safe drinking, cooking, and sanitation.",
+    "ncert_page": 207,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch14_q10",
+    "chapter_id": "c6s_ch14",
+    "question": "Forests help conserve water because:",
+    "options": [
+      "Tree leaves collect rain and prevent it from reaching the ground",
+      "Tree roots absorb rainwater, reduce runoff, and help replenish groundwater",
+      "Forests produce water from photosynthesis",
+      "Forests block wind that carries water vapour"
+    ],
+    "correct_index": 1,
+    "explanation": "Forests play a vital role in the water cycle: tree roots help water percolate into the ground (replenishing groundwater), reduce surface runoff, and prevent soil erosion. Deforestation leads to reduced groundwater and more floods.",
+    "ncert_page": 204,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch12_q01",
+    "chapter_id": "c6m_ch12",
+    "question": "What is the ratio of 6 to 9?",
+    "options": [
+      "6:9",
+      "2:3",
+      "3:2",
+      "1:3"
+    ],
+    "correct_index": 1,
+    "explanation": "To simplify ratio 6:9, find HCF of 6 and 9 which is 3. Divide both by 3: 6÷3 : 9÷3 = 2:3.",
+    "ncert_page": 250,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch12_q02",
+    "chapter_id": "c6m_ch12",
+    "question": "If 3:5 = x:15, what is x?",
+    "options": [
+      "5",
+      "9",
+      "7",
+      "45"
+    ],
+    "correct_index": 1,
+    "explanation": "3:5 = x:15 means 3/5 = x/15. Cross multiply: x = (3 × 15) ÷ 5 = 45 ÷ 5 = 9.",
+    "ncert_page": 255,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch12_q03",
+    "chapter_id": "c6m_ch12",
+    "question": "Which of the following pairs are in proportion?",
+    "options": [
+      "2, 3, 8, 12",
+      "4, 6, 8, 10",
+      "1, 2, 3, 6",
+      "3, 4, 5, 6"
+    ],
+    "correct_index": 0,
+    "explanation": "For proportion, the product of extremes = product of means. For 2, 3, 8, 12: 2×12=24 and 3×8=24. Since they are equal, 2:3::8:12 is a proportion.",
+    "ncert_page": 256,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch12_q04",
+    "chapter_id": "c6m_ch12",
+    "question": "In a class of 40 students, 25 are girls. What is the ratio of boys to girls?",
+    "options": [
+      "25:15",
+      "15:25",
+      "3:5",
+      "5:3"
+    ],
+    "correct_index": 2,
+    "explanation": "Boys = 40 - 25 = 15. Ratio of boys to girls = 15:25. Simplify by dividing by 5: 3:5.",
+    "ncert_page": 251,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch12_q05",
+    "chapter_id": "c6m_ch12",
+    "question": "If 5 pens cost Rs. 30, what is the cost of 8 pens using unitary method?",
+    "options": [
+      "Rs. 40",
+      "Rs. 42",
+      "Rs. 48",
+      "Rs. 35"
+    ],
+    "correct_index": 2,
+    "explanation": "Cost of 1 pen = 30 ÷ 5 = Rs. 6. Cost of 8 pens = 8 × 6 = Rs. 48.",
+    "ncert_page": 260,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch12_q06",
+    "chapter_id": "c6m_ch12",
+    "question": "The ratio 15:20 in its simplest form is:",
+    "options": [
+      "15:20",
+      "3:4",
+      "4:3",
+      "5:4"
+    ],
+    "correct_index": 1,
+    "explanation": "HCF of 15 and 20 is 5. Simplify: 15÷5 : 20÷5 = 3:4.",
+    "ncert_page": 250,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch12_q07",
+    "chapter_id": "c6m_ch12",
+    "question": "If 8 workers can finish a job in 6 days, how many days will 4 workers take?",
+    "options": [
+      "3 days",
+      "12 days",
+      "24 days",
+      "48 days"
+    ],
+    "correct_index": 1,
+    "explanation": "This is an inverse proportion problem. More workers → fewer days. 8×6 = 4×d. d = 48/4 = 12 days.",
+    "ncert_page": 258,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch12_q08",
+    "chapter_id": "c6m_ch12",
+    "question": "The ratio of the length to breadth of a rectangle is 5:3. If the breadth is 12 cm, what is the length?",
+    "options": [
+      "15 cm",
+      "20 cm",
+      "4 cm",
+      "36 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Length:Breadth = 5:3. If breadth = 12 cm, then 5/3 = Length/12. Length = (5 × 12) ÷ 3 = 60 ÷ 3 = 20 cm.",
+    "ncert_page": 253,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch12_q09",
+    "chapter_id": "c6m_ch12",
+    "question": "A car travels 180 km in 3 hours. How far will it travel in 5 hours at the same speed?",
+    "options": [
+      "60 km",
+      "270 km",
+      "300 km",
+      "360 km"
+    ],
+    "correct_index": 2,
+    "explanation": "Speed (distance per hour) = 180 ÷ 3 = 60 km/h. In 5 hours = 60 × 5 = 300 km.",
+    "ncert_page": 261,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch12_q10",
+    "chapter_id": "c6m_ch12",
+    "question": "Divide Rs. 120 between Anu and Binu in the ratio 3:5. How much does Binu get?",
+    "options": [
+      "Rs. 30",
+      "Rs. 45",
+      "Rs. 75",
+      "Rs. 80"
+    ],
+    "correct_index": 2,
+    "explanation": "Total parts = 3+5=8. Binu's share = (5/8) × 120 = 600/8 = Rs. 75.",
+    "ncert_page": 254,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

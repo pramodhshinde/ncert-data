@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch11_q01",
+    "chapter_id": "c6m_ch11",
+    "question": "In algebra, a letter used to represent an unknown number is called a:",
+    "options": [
+      "Constant",
+      "Variable",
+      "Coefficient",
+      "Equation"
+    ],
+    "correct_index": 1,
+    "explanation": "A variable is a symbol (usually a letter like x, y, n) that represents an unknown or changing quantity. A constant is a fixed value.",
+    "ncert_page": 232,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch11_q02",
+    "chapter_id": "c6m_ch11",
+    "question": "If n represents a number, what is 'n increased by 7' written algebraically?",
+    "options": [
+      "n - 7",
+      "7n",
+      "n + 7",
+      "n × 7"
+    ],
+    "correct_index": 2,
+    "explanation": "'Increased by 7' means adding 7 to the number. So 'n increased by 7' is written as n + 7.",
+    "ncert_page": 233,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch11_q03",
+    "chapter_id": "c6m_ch11",
+    "question": "What is the value of 3x + 2 when x = 4?",
+    "options": [
+      "9",
+      "12",
+      "14",
+      "20"
+    ],
+    "correct_index": 2,
+    "explanation": "Substitute x = 4: 3(4) + 2 = 12 + 2 = 14.",
+    "ncert_page": 237,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch11_q04",
+    "chapter_id": "c6m_ch11",
+    "question": "Which of the following is an equation?",
+    "options": [
+      "2x + 3",
+      "5y",
+      "x + 4 = 9",
+      "3a - 1"
+    ],
+    "correct_index": 2,
+    "explanation": "An equation is a statement that two expressions are equal (contains an '=' sign). x + 4 = 9 is an equation. The others are expressions without an equals sign.",
+    "ncert_page": 240,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch11_q05",
+    "chapter_id": "c6m_ch11",
+    "question": "What does '2n' mean in algebra?",
+    "options": [
+      "2 plus n",
+      "2 minus n",
+      "2 times n",
+      "n divided by 2"
+    ],
+    "correct_index": 2,
+    "explanation": "In algebra, a number written next to a variable (like 2n) means multiplication. So 2n means 2 × n (two times n).",
+    "ncert_page": 234,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch11_q06",
+    "chapter_id": "c6m_ch11",
+    "question": "The perimeter of a regular pentagon with side 'a' is:",
+    "options": [
+      "4a",
+      "5a",
+      "a + 5",
+      "a/5"
+    ],
+    "correct_index": 1,
+    "explanation": "A regular pentagon has 5 equal sides each of length 'a'. Perimeter = 5 × a = 5a.",
+    "ncert_page": 235,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch11_q07",
+    "chapter_id": "c6m_ch11",
+    "question": "If x + 5 = 12, what is the value of x?",
+    "options": [
+      "5",
+      "7",
+      "17",
+      "60"
+    ],
+    "correct_index": 1,
+    "explanation": "x + 5 = 12. Subtract 5 from both sides: x = 12 - 5 = 7.",
+    "ncert_page": 241,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch11_q08",
+    "chapter_id": "c6m_ch11",
+    "question": "'Three times a number decreased by 4' is written as:",
+    "options": [
+      "3 - 4n",
+      "4n - 3",
+      "3n - 4",
+      "3(n-4)"
+    ],
+    "correct_index": 2,
+    "explanation": "'Three times a number' = 3n. 'Decreased by 4' means subtracting 4. So the expression is 3n - 4.",
+    "ncert_page": 233,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch11_q09",
+    "chapter_id": "c6m_ch11",
+    "question": "What is the value of 5a - 2b when a = 3 and b = 4?",
+    "options": [
+      "7",
+      "15",
+      "23",
+      "22"
+    ],
+    "correct_index": 0,
+    "explanation": "Substitute a=3, b=4: 5(3) - 2(4) = 15 - 8 = 7.",
+    "ncert_page": 238,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch11_q10",
+    "chapter_id": "c6m_ch11",
+    "question": "Meena is 5 years younger than Ravi. If Ravi's age is 'r' years, what is Meena's age?",
+    "options": [
+      "r + 5",
+      "r - 5",
+      "5r",
+      "r/5"
+    ],
+    "correct_index": 1,
+    "explanation": "If Meena is 5 years younger than Ravi, then Meena's age = Ravi's age - 5 = r - 5.",
+    "ncert_page": 234,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch05_q01",
+    "chapter_id": "c6s_ch05",
+    "question": "Which method of separation is used to separate grain from stalks after harvesting?",
+    "options": [
+      "Sieving",
+      "Threshing",
+      "Winnowing",
+      "Sedimentation"
+    ],
+    "correct_index": 1,
+    "explanation": "Threshing is the process of separating grain from stalks/chaff by beating the harvested crop against a hard surface or using a machine.",
+    "ncert_page": 62,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch05_q02",
+    "chapter_id": "c6s_ch05",
+    "question": "Winnowing separates substances based on which property?",
+    "options": [
+      "Size",
+      "Weight/density differences (using wind)",
+      "Solubility",
+      "Colour"
+    ],
+    "correct_index": 1,
+    "explanation": "Winnowing uses wind to separate lighter components (like chaff) from heavier ones (like grain). The mixture is poured from a height and the lighter particles blow away.",
+    "ncert_page": 63,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch05_q03",
+    "chapter_id": "c6s_ch05",
+    "question": "Which method would you use to separate a mixture of sand and water?",
+    "options": [
+      "Evaporation",
+      "Winnowing",
+      "Filtration",
+      "Threshing"
+    ],
+    "correct_index": 2,
+    "explanation": "Filtration is used to separate an insoluble solid (like sand) from a liquid (water). The mixture is passed through a filter paper which retains the solid particles.",
+    "ncert_page": 66,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch05_q04",
+    "chapter_id": "c6s_ch05",
+    "question": "To separate salt from salt water (brine), which method is most appropriate?",
+    "options": [
+      "Filtration",
+      "Sieving",
+      "Evaporation",
+      "Sedimentation"
+    ],
+    "correct_index": 2,
+    "explanation": "Evaporation is used to separate dissolved solids (like salt) from a solution. When the solution is heated, water evaporates and the dissolved salt remains behind.",
+    "ncert_page": 67,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch05_q05",
+    "chapter_id": "c6s_ch05",
+    "question": "Sieving separates substances based on:",
+    "options": [
+      "Weight",
+      "Colour",
+      "Size of particles",
+      "Solubility"
+    ],
+    "correct_index": 2,
+    "explanation": "Sieving uses a mesh or perforated surface to separate particles of different sizes. Smaller particles pass through the holes while larger ones are retained.",
+    "ncert_page": 64,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch05_q06",
+    "chapter_id": "c6s_ch05",
+    "question": "When muddy water is allowed to stand undisturbed, mud settles at the bottom. This process is called:",
+    "options": [
+      "Filtration",
+      "Evaporation",
+      "Sedimentation",
+      "Decantation"
+    ],
+    "correct_index": 2,
+    "explanation": "Sedimentation is the process where heavier insoluble particles (like mud) settle to the bottom of a liquid when allowed to stand undisturbed.",
+    "ncert_page": 65,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch05_q07",
+    "chapter_id": "c6s_ch05",
+    "question": "Picking out stones and insects from rice by hand is an example of:",
+    "options": [
+      "Sieving",
+      "Winnowing",
+      "Hand-picking",
+      "Threshing"
+    ],
+    "correct_index": 2,
+    "explanation": "Hand-picking is the simplest method of separation — picking out unwanted materials by hand. It is used when the components to be separated are large and few in number.",
+    "ncert_page": 62,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch05_q08",
+    "chapter_id": "c6s_ch05",
+    "question": "After sedimentation, the clear water on top is carefully poured into another container without disturbing the sediment. This is called:",
+    "options": [
+      "Filtration",
+      "Decantation",
+      "Evaporation",
+      "Winnowing"
+    ],
+    "correct_index": 1,
+    "explanation": "Decantation is the process of carefully pouring the clear liquid (supernatant) from a container while leaving the settled sediment behind, without disturbing the bottom layer.",
+    "ncert_page": 66,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch05_q09",
+    "chapter_id": "c6s_ch05",
+    "question": "A mixture of flour and broken wheat can be separated by:",
+    "options": [
+      "Sedimentation",
+      "Hand-picking",
+      "Sieving",
+      "Evaporation"
+    ],
+    "correct_index": 2,
+    "explanation": "Flour has finer particles and broken wheat has coarser particles. Sieving through an appropriate mesh size will allow flour to pass through while retaining the coarser broken wheat.",
+    "ncert_page": 64,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch05_q10",
+    "chapter_id": "c6s_ch05",
+    "question": "A mixture of oil and water can be separated because:",
+    "options": [
+      "Oil is transparent",
+      "Oil and water are immiscible and have different densities",
+      "Oil is soluble in water",
+      "Water evaporates faster than oil"
+    ],
+    "correct_index": 1,
+    "explanation": "Oil and water are immiscible (do not mix) and have different densities, so they form separate layers. Oil floats on top due to lower density and can be separated using a separating funnel or by skimming.",
+    "ncert_page": 68,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch08_q01",
+    "chapter_id": "c6m_ch08",
+    "question": "In the decimal 45.63, which digit is in the tenths place?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correct_index": 2,
+    "explanation": "In 45.63, the digit 4 is in tens place, 5 is in ones place, 6 is in tenths place, and 3 is in hundredths place.",
+    "ncert_page": 168,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch08_q02",
+    "chapter_id": "c6m_ch08",
+    "question": "Which of the following decimals is the greatest?",
+    "options": [
+      "0.8",
+      "0.08",
+      "0.80",
+      "0.008"
+    ],
+    "correct_index": 0,
+    "explanation": "0.8 = 0.800, 0.08 = 0.080, 0.80 = 0.800, 0.008. Since 0.800 > 0.080 > 0.008, both 0.8 and 0.80 are equal and greatest.",
+    "ncert_page": 171,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch08_q03",
+    "chapter_id": "c6m_ch08",
+    "question": "What is 2.5 + 1.3?",
+    "options": [
+      "3.2",
+      "3.8",
+      "4.2",
+      "3.15"
+    ],
+    "correct_index": 1,
+    "explanation": "Add decimals by aligning the decimal points: 2.5 + 1.3 = 3.8. Add tenths: 5+3=8, and ones: 2+1=3.",
+    "ncert_page": 179,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch08_q04",
+    "chapter_id": "c6m_ch08",
+    "question": "What fraction is equivalent to 0.5?",
+    "options": [
+      "5/100",
+      "1/5",
+      "1/2",
+      "5/10 only"
+    ],
+    "correct_index": 2,
+    "explanation": "0.5 means 5 tenths = 5/10 = 1/2. So 0.5 is equivalent to 1/2.",
+    "ncert_page": 169,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch08_q05",
+    "chapter_id": "c6m_ch08",
+    "question": "Rs. 7 and 50 paise written as a decimal is:",
+    "options": [
+      "7.5",
+      "7.50",
+      "75.0",
+      "0.750"
+    ],
+    "correct_index": 1,
+    "explanation": "Since 100 paise = Rs. 1, 50 paise = Rs. 0.50. So Rs. 7 and 50 paise = Rs. 7.50.",
+    "ncert_page": 174,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch08_q06",
+    "chapter_id": "c6m_ch08",
+    "question": "What is 5.7 - 2.3?",
+    "options": [
+      "3.3",
+      "3.4",
+      "3.7",
+      "2.4"
+    ],
+    "correct_index": 1,
+    "explanation": "Align decimal points and subtract: 5.7 - 2.3. Tenths: 7-3=4, Ones: 5-2=3. Answer is 3.4.",
+    "ncert_page": 181,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch08_q07",
+    "chapter_id": "c6m_ch08",
+    "question": "1 km 350 m written in km as a decimal is:",
+    "options": [
+      "1.35 km",
+      "13.50 km",
+      "1.350 km",
+      "1350 km"
+    ],
+    "correct_index": 0,
+    "explanation": "1000 m = 1 km, so 350 m = 0.35 km (350/1000 = 0.350 = 0.35). Therefore 1 km 350 m = 1.35 km.",
+    "ncert_page": 176,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch08_q08",
+    "chapter_id": "c6m_ch08",
+    "question": "Which of these correctly compares the decimals: 0.345 and 0.354?",
+    "options": [
+      "0.345 > 0.354",
+      "0.345 = 0.354",
+      "0.345 < 0.354",
+      "Cannot be compared"
+    ],
+    "correct_index": 2,
+    "explanation": "Compare digit by digit: tenths place both have 3. Hundredths: 4 vs 5. Since 4 < 5, we have 0.345 < 0.354.",
+    "ncert_page": 172,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch08_q09",
+    "chapter_id": "c6m_ch08",
+    "question": "What is 10.05 - 3.72?",
+    "options": [
+      "6.33",
+      "7.33",
+      "6.23",
+      "7.23"
+    ],
+    "correct_index": 0,
+    "explanation": "10.05 - 3.72: Hundredths: 5-2=3. Tenths: 0-7 requires borrowing; borrow from ones, 10-7=3. Ones: 9-3=6 (after borrowing). Answer: 6.33.",
+    "ncert_page": 182,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch08_q10",
+    "chapter_id": "c6m_ch08",
+    "question": "A ribbon is 3.75 m long. Another ribbon is 2.50 m long. What is the total length?",
+    "options": [
+      "5.25 m",
+      "6.25 m",
+      "6.75 m",
+      "5.75 m"
+    ],
+    "correct_index": 1,
+    "explanation": "3.75 + 2.50: Hundredths: 5+0=5. Tenths: 7+5=12, write 2 carry 1. Ones: 3+2+1=6. Total = 6.25 m.",
+    "ncert_page": 180,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

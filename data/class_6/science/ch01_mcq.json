@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch01_q01",
+    "chapter_id": "c6s_ch01",
+    "question": "Which of the following is NOT a plant source of food?",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Egg",
+      "Maize"
+    ],
+    "correct_index": 2,
+    "explanation": "Eggs come from hens (an animal source). Wheat, rice, and maize are all plant sources of food.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q02",
+    "chapter_id": "c6s_ch01",
+    "question": "Organisms that eat both plants and animals are called:",
+    "options": [
+      "Herbivores",
+      "Carnivores",
+      "Omnivores",
+      "Decomposers"
+    ],
+    "correct_index": 2,
+    "explanation": "Omnivores eat both plants and animals. Examples include humans, bears, and crows.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q03",
+    "chapter_id": "c6s_ch01",
+    "question": "Photosynthesis in plants occurs in the:",
+    "options": [
+      "Roots",
+      "Stems",
+      "Leaves (chlorophyll)",
+      "Flowers"
+    ],
+    "correct_index": 2,
+    "explanation": "Photosynthesis occurs in leaves (and green parts), specifically in chloroplasts containing chlorophyll, using sunlight, water, and CO₂ to make food.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q04",
+    "chapter_id": "c6s_ch01",
+    "question": "Which of the following organisms is a scavenger?",
+    "options": [
+      "Lion",
+      "Deer",
+      "Vulture",
+      "Cow"
+    ],
+    "correct_index": 2,
+    "explanation": "Scavengers feed on dead animals. Vultures are common scavengers. Lions are predators, deer and cows are herbivores.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q05",
+    "chapter_id": "c6s_ch01",
+    "question": "Honey is produced by bees from:",
+    "options": [
+      "Tree bark",
+      "Flower nectar",
+      "Soil",
+      "Leaves"
+    ],
+    "correct_index": 1,
+    "explanation": "Bees collect nectar from flowers and convert it into honey by enzymatic action and evaporation of water.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q06",
+    "chapter_id": "c6s_ch01",
+    "question": "Which vitamin is produced by our skin on exposure to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 3,
+    "explanation": "Vitamin D is synthesised in the skin when exposed to sunlight (ultraviolet rays). It helps in calcium absorption and bone health.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q07",
+    "chapter_id": "c6s_ch01",
+    "question": "Silk comes from which animal source?",
+    "options": [
+      "Sheep",
+      "Silkworm",
+      "Cow",
+      "Fish"
+    ],
+    "correct_index": 1,
+    "explanation": "Silk is obtained from the cocoons of the silkworm (Bombyx mori). It is a natural protein fibre.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q08",
+    "chapter_id": "c6s_ch01",
+    "question": "Fungi like mushrooms obtain their nutrition by:",
+    "options": [
+      "Photosynthesis",
+      "Decomposing dead matter",
+      "Hunting prey",
+      "Making their own food"
+    ],
+    "correct_index": 1,
+    "explanation": "Fungi are heterotrophs that obtain nutrition by decomposing dead and decaying organic matter (saprophytic nutrition).",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q09",
+    "chapter_id": "c6s_ch01",
+    "question": "The process by which green plants make their own food is:",
+    "options": [
+      "Digestion",
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation"
+    ],
+    "correct_index": 2,
+    "explanation": "Photosynthesis: 6CO₂ + 6H₂O + sunlight → C₆H₁₂O₆ + 6O₂. Green plants use chlorophyll to trap sunlight energy.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch01_q10",
+    "chapter_id": "c6s_ch01",
+    "question": "Parasites are organisms that:",
+    "options": [
+      "Make their own food",
+      "Feed on dead matter",
+      "Live on or inside a host and harm it",
+      "Hunt and kill their food"
+    ],
+    "correct_index": 2,
+    "explanation": "Parasites live on or inside another organism (host) and obtain nourishment at the host's expense, often causing harm. E.g., tapeworm, mistletoe.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Science"
+  }
+]

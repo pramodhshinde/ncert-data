@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch05_q01",
+    "chapter_id": "c6m_ch05",
+    "question": "A right angle measures:",
+    "options": [
+      "45°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "correct_index": 1,
+    "explanation": "A right angle is exactly 90°. An angle less than 90° is acute, between 90° and 180° is obtuse, and exactly 180° is a straight angle.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch05_q02",
+    "chapter_id": "c6m_ch05",
+    "question": "An angle greater than 90° but less than 180° is called:",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle",
+      "Reflex angle"
+    ],
+    "correct_index": 2,
+    "explanation": "An obtuse angle measures more than 90° but less than 180°. An acute angle is less than 90°, and a reflex angle is between 180° and 360°.",
+    "ncert_page": 91,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch05_q03",
+    "chapter_id": "c6m_ch05",
+    "question": "How many sides does a triangle have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_index": 1,
+    "explanation": "A triangle is a polygon with exactly 3 sides and 3 angles. The word 'triangle' itself means three angles.",
+    "ncert_page": 97,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch05_q04",
+    "chapter_id": "c6m_ch05",
+    "question": "A quadrilateral has how many sides?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_index": 1,
+    "explanation": "A quadrilateral is a polygon with exactly 4 sides and 4 angles. Examples include squares, rectangles, and parallelograms.",
+    "ncert_page": 99,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch05_q05",
+    "chapter_id": "c6m_ch05",
+    "question": "Which of the following 3D shapes has no vertex?",
+    "options": [
+      "Cube",
+      "Cone",
+      "Sphere",
+      "Pyramid"
+    ],
+    "correct_index": 2,
+    "explanation": "A sphere has no flat faces, no edges, and no vertices. It is a perfectly round 3D shape with only a curved surface.",
+    "ncert_page": 107,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch05_q06",
+    "chapter_id": "c6m_ch05",
+    "question": "A straight angle measures:",
+    "options": [
+      "90°",
+      "120°",
+      "180°",
+      "360°"
+    ],
+    "correct_index": 2,
+    "explanation": "A straight angle is exactly 180°. It looks like a straight line. Two right angles together form one straight angle.",
+    "ncert_page": 91,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch05_q07",
+    "chapter_id": "c6m_ch05",
+    "question": "How many faces does a cuboid have?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct_index": 1,
+    "explanation": "A cuboid (rectangular box) has 6 rectangular faces, 12 edges, and 8 vertices. A cube is a special cuboid where all faces are squares.",
+    "ncert_page": 108,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch05_q08",
+    "chapter_id": "c6m_ch05",
+    "question": "An angle measuring 240° is called a:",
+    "options": [
+      "Obtuse angle",
+      "Straight angle",
+      "Complete angle",
+      "Reflex angle"
+    ],
+    "correct_index": 3,
+    "explanation": "A reflex angle measures more than 180° but less than 360°. Since 240° is between 180° and 360°, it is a reflex angle.",
+    "ncert_page": 92,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch05_q09",
+    "chapter_id": "c6m_ch05",
+    "question": "A polygon with all sides equal and all angles equal is called:",
+    "options": [
+      "Regular polygon",
+      "Irregular polygon",
+      "Convex polygon",
+      "Concave polygon"
+    ],
+    "correct_index": 0,
+    "explanation": "A regular polygon has all sides of equal length and all interior angles of equal measure. Examples: equilateral triangle, square, regular hexagon.",
+    "ncert_page": 101,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch05_q10",
+    "chapter_id": "c6m_ch05",
+    "question": "A cylinder has how many flat faces?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_index": 2,
+    "explanation": "A cylinder has 2 flat circular faces (top and bottom) and one curved surface. It has 0 vertices and 2 curved edges where the flat faces meet the curved surface.",
+    "ncert_page": 109,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

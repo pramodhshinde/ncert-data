@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6hs_ch01_q01",
+    "chapter_id": "c6hs_ch01",
+    "question": "What are the written records found on hard surfaces such as stone or metal called?",
+    "options": [
+      "Manuscripts",
+      "Inscriptions",
+      "Chronicles",
+      "Archives"
+    ],
+    "correct_index": 1,
+    "explanation": "Inscriptions are writings engraved on hard surfaces like stone pillars, copper plates, or rock walls. Manuscripts are handwritten texts on palm leaves or bark.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "History"
+  },
+  {
+    "mcq_id": "c6hs_ch01_q02",
+    "chapter_id": "c6hs_ch01",
+    "question": "What does 'BCE' stand for when referring to dates in history?",
+    "options": [
+      "Before Common Era",
+      "British Colonial Era",
+      "Before Christian Epoch",
+      "Before Current Events"
+    ],
+    "correct_index": 0,
+    "explanation": "BCE stands for Before Common Era. It replaces the older term BC (Before Christ) and counts years backwards from the beginning of the Common Era.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "History"
+  },
+  {
+    "mcq_id": "c6hs_ch01_q03",
+    "chapter_id": "c6hs_ch01",
+    "question": "What were manuscripts in ancient India usually written on?",
+    "options": [
+      "Paper and clay tablets",
+      "Palm leaves and bark of birch tree",
+      "Stone slabs and copper plates",
+      "Animal skin and papyrus"
+    ],
+    "correct_index": 1,
+    "explanation": "Manuscripts were handwritten texts preserved on palm leaves or the bark of a tree called birch, which grew in the Himalayan region.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "History"
+  },
+  {
+    "mcq_id": "c6hs_ch01_q04",
+    "chapter_id": "c6hs_ch01",
+    "question": "Who studies bones, tools, pots and other objects left behind by people of the past?",
+    "options": [
+      "Historians",
+      "Geographers",
+      "Archaeologists",
+      "Palaeontologists"
+    ],
+    "correct_index": 2,
+    "explanation": "Archaeologists study objects left behind by people — including tools, pots, buildings, and bones — to understand how people lived in the past.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "History"
+  },
+  {
+    "mcq_id": "c6hs_ch01_q05",
+    "chapter_id": "c6hs_ch01",
+    "question": "Which river valley does the Narmada valley refer to when we speak of the earliest inhabitants of the Indian subcontinent?",
+    "options": [
+      "The river in south India",
+      "The river in central India",
+      "The river in northeast India",
+      "The river in northwest India"
+    ],
+    "correct_index": 1,
+    "explanation": "The Narmada valley is in central India. People have lived here for several hundred thousand years, making it one of the oldest inhabited regions of the subcontinent.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "History"
+  },
+  {
+    "mcq_id": "c6hs_ch01_q06",
+    "chapter_id": "c6hs_ch01",
+    "question": "What does the term 'subcontinent' mean when referring to South Asia?",
+    "options": [
+      "A small continent",
+      "A large landmass that is smaller than a continent",
+      "A group of islands",
+      "An ocean region"
+    ],
+    "correct_index": 1,
+    "explanation": "The term 'subcontinent' refers to a large landmass that is smaller than a continent. South Asia — including India, Pakistan, Bangladesh, Nepal, and Sri Lanka — is called the Indian subcontinent.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "History"
+  },
+  {
+    "mcq_id": "c6hs_ch01_q07",
+    "chapter_id": "c6hs_ch01",
+    "question": "Which of the following is NOT a source of historical information about the past?",
+    "options": [
+      "Coins",
+      "Buildings",
+      "Present-day weather reports",
+      "Folk tales"
+    ],
+    "correct_index": 2,
+    "explanation": "Historians use coins, buildings, inscriptions, manuscripts, and folk tales as sources. Present-day weather reports tell us about current conditions, not historical events.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "History"
+  },
+  {
+    "mcq_id": "c6hs_ch01_q08",
+    "chapter_id": "c6hs_ch01",
+    "question": "How many years does a century contain?",
+    "options": [
+      "10 years",
+      "50 years",
+      "100 years",
+      "1000 years"
+    ],
+    "correct_index": 2,
+    "explanation": "A century is a period of 100 years. A millennium is 1000 years. Historians often group events by centuries to make dates easier to understand.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "History"
+  },
+  {
+    "mcq_id": "c6hs_ch01_q09",
+    "chapter_id": "c6hs_ch01",
+    "question": "Why do historians divide the past into different periods?",
+    "options": [
+      "To make history books shorter",
+      "To identify major changes and continuities over time",
+      "Because records are only available for certain periods",
+      "To follow government guidelines"
+    ],
+    "correct_index": 1,
+    "explanation": "Historians divide the past into periods to identify major changes over time, compare different eras, and organise the study of history. This is called periodisation.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "History"
+  },
+  {
+    "mcq_id": "c6hs_ch01_q10",
+    "chapter_id": "c6hs_ch01",
+    "question": "James Mill, a British historian, divided Indian history into three periods: Hindu, Muslim and British. What is a major criticism of this periodisation?",
+    "options": [
+      "It ignored British rule",
+      "It covered too many years",
+      "It wrongly suggested religion was the only important factor in history",
+      "It was written in English"
+    ],
+    "correct_index": 2,
+    "explanation": "Mill's periodisation has been criticised because it suggests that religion was the only important factor shaping Indian history, ignoring economic, social, and cultural factors that affected all communities equally.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "History"
+  }
+]

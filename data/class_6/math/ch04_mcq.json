@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch04_q01",
+    "chapter_id": "c6m_ch04",
+    "question": "How many endpoints does a line segment have?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "Infinite"
+    ],
+    "correct_index": 2,
+    "explanation": "A line segment has exactly two endpoints, unlike a line which extends infinitely in both directions.",
+    "ncert_page": 68,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch04_q02",
+    "chapter_id": "c6m_ch04",
+    "question": "Which of the following has no endpoints?",
+    "options": [
+      "Line segment",
+      "Ray",
+      "Line",
+      "Angle"
+    ],
+    "correct_index": 2,
+    "explanation": "A line extends infinitely in both directions and has no endpoints. A ray has one endpoint, and a line segment has two.",
+    "ncert_page": 69,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch04_q03",
+    "chapter_id": "c6m_ch04",
+    "question": "A ray has how many endpoints?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_index": 1,
+    "explanation": "A ray starts from one fixed point (its endpoint) and extends infinitely in one direction.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch04_q04",
+    "chapter_id": "c6m_ch04",
+    "question": "A polygon with 6 sides is called a:",
+    "options": [
+      "Pentagon",
+      "Hexagon",
+      "Heptagon",
+      "Octagon"
+    ],
+    "correct_index": 1,
+    "explanation": "A hexagon is a closed polygon with 6 sides. Pentagon has 5, Heptagon has 7, and Octagon has 8 sides.",
+    "ncert_page": 75,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch04_q05",
+    "chapter_id": "c6m_ch04",
+    "question": "What is the vertex of an angle?",
+    "options": [
+      "One of the arms",
+      "The common endpoint of two rays",
+      "The midpoint of the angle",
+      "The interior region"
+    ],
+    "correct_index": 1,
+    "explanation": "The vertex of an angle is the common endpoint from which the two rays (arms) of the angle originate.",
+    "ncert_page": 77,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch04_q06",
+    "chapter_id": "c6m_ch04",
+    "question": "Which of the following is a simple closed curve?",
+    "options": [
+      "A line segment",
+      "An angle",
+      "A triangle",
+      "A ray"
+    ],
+    "correct_index": 2,
+    "explanation": "A triangle is a simple closed curve because it is a closed figure that does not cross itself. A line segment, angle, and ray are not closed curves.",
+    "ncert_page": 72,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch04_q07",
+    "chapter_id": "c6m_ch04",
+    "question": "Two lines that meet at a point are called:",
+    "options": [
+      "Parallel lines",
+      "Intersecting lines",
+      "Perpendicular lines",
+      "Concurrent lines"
+    ],
+    "correct_index": 1,
+    "explanation": "Intersecting lines are lines that cross or meet at exactly one point. (Perpendicular lines are a special case of intersecting lines meeting at 90°.)",
+    "ncert_page": 71,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch04_q08",
+    "chapter_id": "c6m_ch04",
+    "question": "How many lines can pass through two given points?",
+    "options": [
+      "Only one",
+      "Exactly two",
+      "Infinite",
+      "None"
+    ],
+    "correct_index": 0,
+    "explanation": "Through any two given points, one and only one line can be drawn. This is a fundamental postulate of geometry.",
+    "ncert_page": 69,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch04_q09",
+    "chapter_id": "c6m_ch04",
+    "question": "The region inside a closed curve is called its:",
+    "options": [
+      "Exterior",
+      "Interior",
+      "Boundary",
+      "Vertex"
+    ],
+    "correct_index": 1,
+    "explanation": "The interior is the region enclosed inside a closed curve. The exterior is the region outside, and the boundary is the curve itself.",
+    "ncert_page": 73,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch04_q10",
+    "chapter_id": "c6m_ch04",
+    "question": "Which of the following statements is TRUE about parallel lines?",
+    "options": [
+      "They meet at exactly one point",
+      "They meet at two points",
+      "They never meet and are always the same distance apart",
+      "They are the same line"
+    ],
+    "correct_index": 2,
+    "explanation": "Parallel lines are lines in the same plane that never intersect and remain equidistant from each other throughout their entire length.",
+    "ncert_page": 71,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

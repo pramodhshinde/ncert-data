@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch12_q01",
+    "chapter_id": "c6s_ch12",
+    "question": "What is an electric cell?",
+    "options": [
+      "A type of wire",
+      "A device that stores chemical energy and converts it to electrical energy",
+      "A component that stops current",
+      "A type of bulb"
+    ],
+    "correct_index": 1,
+    "explanation": "An electric cell is a device that stores chemical energy and converts it into electrical energy to provide current in a circuit. A battery is a combination of two or more cells.",
+    "ncert_page": 170,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch12_q02",
+    "chapter_id": "c6s_ch12",
+    "question": "In a circuit, a switch is used to:",
+    "options": [
+      "Increase the brightness of the bulb",
+      "Store electricity",
+      "Start or stop the flow of electric current",
+      "Change the direction of current"
+    ],
+    "correct_index": 2,
+    "explanation": "A switch is used to open or close an electric circuit, thus starting or stopping the flow of electric current. An open switch breaks the circuit and stops current flow.",
+    "ncert_page": 173,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch12_q03",
+    "chapter_id": "c6s_ch12",
+    "question": "For current to flow, the circuit must be:",
+    "options": [
+      "Open",
+      "Closed (complete)",
+      "Made of plastic",
+      "Disconnected from the bulb"
+    ],
+    "correct_index": 1,
+    "explanation": "Electric current flows only through a closed (complete) circuit. If the circuit is open (broken) at any point, current stops flowing and the bulb goes off.",
+    "ncert_page": 172,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch12_q04",
+    "chapter_id": "c6s_ch12",
+    "question": "Which of the following is a good conductor of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Copper wire",
+      "Wood"
+    ],
+    "correct_index": 2,
+    "explanation": "Copper is an excellent conductor of electricity because it allows electric charges to flow through it easily. Rubber, plastic, and wood are insulators that do not allow current to flow.",
+    "ncert_page": 175,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch12_q05",
+    "chapter_id": "c6s_ch12",
+    "question": "Which of the following is an insulator?",
+    "options": [
+      "Aluminium",
+      "Iron nail",
+      "Graphite",
+      "Eraser (rubber)"
+    ],
+    "correct_index": 3,
+    "explanation": "Rubber (eraser) is an insulator — it does not allow electricity to pass through it. Aluminium, iron, and graphite are conductors of electricity.",
+    "ncert_page": 175,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch12_q06",
+    "chapter_id": "c6s_ch12",
+    "question": "A bulb has a thin wire inside it that glows. This wire is called the:",
+    "options": [
+      "Filament",
+      "Electrode",
+      "Terminal",
+      "Conductor"
+    ],
+    "correct_index": 0,
+    "explanation": "The filament is the thin wire (usually made of tungsten) inside a bulb. When current passes through it, it heats up and glows, producing light.",
+    "ncert_page": 171,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch12_q07",
+    "chapter_id": "c6s_ch12",
+    "question": "Electric wires are coated with plastic or rubber because:",
+    "options": [
+      "It makes them look colourful",
+      "Plastic and rubber are insulators that prevent electric shocks",
+      "Plastic makes wires stronger",
+      "To prevent wires from rusting"
+    ],
+    "correct_index": 1,
+    "explanation": "Wires are coated with plastic or rubber (insulators) to prevent the electric current from flowing to unintended paths, protecting people from electric shock.",
+    "ncert_page": 176,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch12_q08",
+    "chapter_id": "c6s_ch12",
+    "question": "If you connect two bulbs in a circuit and one bulb fuses, what happens?",
+    "options": [
+      "The other bulb glows brighter",
+      "Both bulbs go out (if connected in series)",
+      "The other bulb continues to glow normally",
+      "Nothing changes"
+    ],
+    "correct_index": 1,
+    "explanation": "If two bulbs are connected in series (one after another in the same path), and one fuses, the circuit breaks and both bulbs go out. In parallel connection, the other bulb would continue to glow.",
+    "ncert_page": 174,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch12_q09",
+    "chapter_id": "c6s_ch12",
+    "question": "Which material would allow the bulb to glow when placed in a circuit?",
+    "options": [
+      "A piece of plastic straw",
+      "A piece of glass",
+      "A thread",
+      "An iron nail"
+    ],
+    "correct_index": 3,
+    "explanation": "An iron nail is a conductor and would complete the circuit, allowing current to flow and the bulb to glow. Plastic straw, glass, and thread are insulators.",
+    "ncert_page": 175,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch12_q10",
+    "chapter_id": "c6s_ch12",
+    "question": "An electric cell has two terminals. What happens if a wire is connected from the positive terminal to the positive terminal of another cell?",
+    "options": [
+      "The cells work better together",
+      "The circuit is complete",
+      "The cells oppose each other, reducing total voltage",
+      "Current flows in two directions simultaneously"
+    ],
+    "correct_index": 2,
+    "explanation": "When cells are connected with same terminals facing each other (positive to positive), they oppose each other, reducing the effective voltage and weakening the circuit. Cells should be connected positive to negative for series addition.",
+    "ncert_page": 170,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch10_q01",
+    "chapter_id": "c6m_ch10",
+    "question": "The perimeter of a rectangle with length 8 cm and breadth 5 cm is:",
+    "options": [
+      "13 cm",
+      "26 cm",
+      "40 cm",
+      "40 cm²"
+    ],
+    "correct_index": 1,
+    "explanation": "Perimeter of rectangle = 2 × (length + breadth) = 2 × (8 + 5) = 2 × 13 = 26 cm.",
+    "ncert_page": 212,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch10_q02",
+    "chapter_id": "c6m_ch10",
+    "question": "The perimeter of a square with side 6 cm is:",
+    "options": [
+      "12 cm",
+      "24 cm",
+      "36 cm",
+      "6 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Perimeter of square = 4 × side = 4 × 6 = 24 cm. A square has all four sides equal.",
+    "ncert_page": 212,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch10_q03",
+    "chapter_id": "c6m_ch10",
+    "question": "Area is measured in which unit?",
+    "options": [
+      "cm",
+      "cm²",
+      "cm³",
+      "m"
+    ],
+    "correct_index": 1,
+    "explanation": "Area is a 2-dimensional measurement (surface), so it is measured in square units like cm², m², km². Length uses cm/m and volume uses cm³/m³.",
+    "ncert_page": 218,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch10_q04",
+    "chapter_id": "c6m_ch10",
+    "question": "The area of a rectangle with length 7 cm and breadth 4 cm is:",
+    "options": [
+      "11 cm²",
+      "22 cm²",
+      "28 cm²",
+      "28 cm"
+    ],
+    "correct_index": 2,
+    "explanation": "Area of rectangle = length × breadth = 7 × 4 = 28 cm².",
+    "ncert_page": 219,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch10_q05",
+    "chapter_id": "c6m_ch10",
+    "question": "What is the perimeter of an equilateral triangle with side 9 cm?",
+    "options": [
+      "18 cm",
+      "27 cm",
+      "36 cm",
+      "81 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "An equilateral triangle has all three sides equal. Perimeter = 3 × side = 3 × 9 = 27 cm.",
+    "ncert_page": 213,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch10_q06",
+    "chapter_id": "c6m_ch10",
+    "question": "If the perimeter of a square is 32 cm, what is its side length?",
+    "options": [
+      "4 cm",
+      "8 cm",
+      "16 cm",
+      "128 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Perimeter of square = 4 × side. So side = Perimeter ÷ 4 = 32 ÷ 4 = 8 cm.",
+    "ncert_page": 214,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch10_q07",
+    "chapter_id": "c6m_ch10",
+    "question": "The area of a square with side 5 cm is:",
+    "options": [
+      "10 cm²",
+      "20 cm²",
+      "25 cm²",
+      "100 cm²"
+    ],
+    "correct_index": 2,
+    "explanation": "Area of square = side × side = 5 × 5 = 25 cm².",
+    "ncert_page": 220,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch10_q08",
+    "chapter_id": "c6m_ch10",
+    "question": "A rectangle has an area of 48 cm² and a length of 8 cm. What is its breadth?",
+    "options": [
+      "4 cm",
+      "6 cm",
+      "8 cm",
+      "40 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Area = length × breadth. So breadth = Area ÷ length = 48 ÷ 8 = 6 cm.",
+    "ncert_page": 221,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch10_q09",
+    "chapter_id": "c6m_ch10",
+    "question": "A garden is 12 m long and 8 m wide. How much fencing is needed to surround it completely?",
+    "options": [
+      "20 m",
+      "40 m",
+      "96 m",
+      "96 m²"
+    ],
+    "correct_index": 1,
+    "explanation": "Fencing needed = Perimeter of rectangle = 2 × (length + breadth) = 2 × (12 + 8) = 2 × 20 = 40 m.",
+    "ncert_page": 215,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch10_q10",
+    "chapter_id": "c6m_ch10",
+    "question": "A room is 5 m long and 4 m wide. If tiles are 1 m × 1 m, how many tiles are needed to cover the floor?",
+    "options": [
+      "9",
+      "18",
+      "20",
+      "25"
+    ],
+    "correct_index": 2,
+    "explanation": "Area of floor = 5 × 4 = 20 m². Each tile covers 1 × 1 = 1 m². Number of tiles = 20 ÷ 1 = 20 tiles.",
+    "ncert_page": 222,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

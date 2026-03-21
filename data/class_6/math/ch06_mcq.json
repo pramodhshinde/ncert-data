@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6m_ch06_q01",
+    "chapter_id": "c6m_ch06",
+    "question": "Which of the following is a negative integer?",
+    "options": [
+      "0",
+      "+5",
+      "-3",
+      "2"
+    ],
+    "correct_index": 2,
+    "explanation": "Negative integers are whole numbers less than zero. -3 is a negative integer. 0 is neither positive nor negative, and +5 and 2 are positive integers.",
+    "ncert_page": 118,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch06_q02",
+    "chapter_id": "c6m_ch06",
+    "question": "On a number line, which direction do negative numbers lie?",
+    "options": [
+      "Right of zero",
+      "Left of zero",
+      "Above zero",
+      "Below zero"
+    ],
+    "correct_index": 1,
+    "explanation": "On a horizontal number line, positive numbers are to the right of zero and negative numbers are to the left of zero.",
+    "ncert_page": 119,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch06_q03",
+    "chapter_id": "c6m_ch06",
+    "question": "What is the value of (-5) + 3?",
+    "options": [
+      "-8",
+      "-2",
+      "2",
+      "8"
+    ],
+    "correct_index": 1,
+    "explanation": "(-5) + 3 = -2. When adding integers of opposite signs, subtract the smaller absolute value from the larger and keep the sign of the larger.",
+    "ncert_page": 124,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch06_q04",
+    "chapter_id": "c6m_ch06",
+    "question": "Which integer is greater: -7 or -3?",
+    "options": [
+      "-7",
+      "-3",
+      "Both are equal",
+      "Cannot be determined"
+    ],
+    "correct_index": 1,
+    "explanation": "-3 is greater than -7 because on the number line, -3 is to the right of -7. Among negative numbers, the one closer to zero is greater.",
+    "ncert_page": 121,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch06_q05",
+    "chapter_id": "c6m_ch06",
+    "question": "The sum of a positive integer and its opposite (negative) is always:",
+    "options": [
+      "A positive number",
+      "A negative number",
+      "Zero",
+      "One"
+    ],
+    "correct_index": 2,
+    "explanation": "A number and its additive inverse (opposite) always sum to zero. For example, 5 + (-5) = 0. These are called additive inverses.",
+    "ncert_page": 125,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch06_q06",
+    "chapter_id": "c6m_ch06",
+    "question": "What is (-4) + (-6)?",
+    "options": [
+      "2",
+      "-2",
+      "10",
+      "-10"
+    ],
+    "correct_index": 3,
+    "explanation": "When adding two negative integers, add their absolute values and put a negative sign. |(-4)| + |(-6)| = 4 + 6 = 10, so the answer is -10.",
+    "ncert_page": 124,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch06_q07",
+    "chapter_id": "c6m_ch06",
+    "question": "Which of the following shows integers in ascending order?",
+    "options": [
+      "-1, -3, -5, 0, 2",
+      "2, 0, -1, -3, -5",
+      "-5, -3, -1, 0, 2",
+      "-5, 0, -3, -1, 2"
+    ],
+    "correct_index": 2,
+    "explanation": "Ascending order means from smallest to largest. On a number line, -5 < -3 < -1 < 0 < 2, so the correct ascending order is -5, -3, -1, 0, 2.",
+    "ncert_page": 122,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch06_q08",
+    "chapter_id": "c6m_ch06",
+    "question": "What is 8 - (-3)?",
+    "options": [
+      "5",
+      "11",
+      "-5",
+      "-11"
+    ],
+    "correct_index": 1,
+    "explanation": "Subtracting a negative number is the same as adding its positive. So 8 - (-3) = 8 + 3 = 11.",
+    "ncert_page": 127,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch06_q09",
+    "chapter_id": "c6m_ch06",
+    "question": "The temperature was -5°C in the morning and rose by 8°C. What is the new temperature?",
+    "options": [
+      "-13°C",
+      "-3°C",
+      "3°C",
+      "13°C"
+    ],
+    "correct_index": 2,
+    "explanation": "-5 + 8 = 3°C. Start at -5 on the number line and move 8 steps to the right (positive direction) to reach +3.",
+    "ncert_page": 130,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c6m_ch06_q10",
+    "chapter_id": "c6m_ch06",
+    "question": "How many integers lie between -4 and 4 (not including -4 and 4)?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct_index": 1,
+    "explanation": "The integers between -4 and 4 (exclusive) are: -3, -2, -1, 0, 1, 2, 3 — that is 7 integers.",
+    "ncert_page": 119,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

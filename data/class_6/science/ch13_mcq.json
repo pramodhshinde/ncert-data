@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch13_q01",
+    "chapter_id": "c6s_ch13",
+    "question": "Which of the following materials is attracted to a magnet?",
+    "options": [
+      "Plastic",
+      "Wood",
+      "Iron",
+      "Copper"
+    ],
+    "correct_index": 2,
+    "explanation": "Iron is a magnetic material and is attracted to magnets. Plastic, wood, and copper are non-magnetic materials and are not attracted to magnets.",
+    "ncert_page": 184,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch13_q02",
+    "chapter_id": "c6s_ch13",
+    "question": "A magnet has how many poles?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_index": 1,
+    "explanation": "Every magnet has exactly two poles: the North pole (N) and the South pole (S). The magnetic force is strongest at the poles.",
+    "ncert_page": 186,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch13_q03",
+    "chapter_id": "c6s_ch13",
+    "question": "Like poles of two magnets:",
+    "options": [
+      "Attract each other",
+      "Repel each other",
+      "Have no effect on each other",
+      "Cancel each other out"
+    ],
+    "correct_index": 1,
+    "explanation": "Like poles (North-North or South-South) repel each other. Unlike poles (North-South) attract each other. This is the fundamental law of magnetism.",
+    "ncert_page": 187,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch13_q04",
+    "chapter_id": "c6s_ch13",
+    "question": "A freely suspended magnet always comes to rest pointing in which direction?",
+    "options": [
+      "East-West",
+      "North-South",
+      "Vertically upward",
+      "Any random direction"
+    ],
+    "correct_index": 1,
+    "explanation": "A freely suspended bar magnet always aligns itself in the North-South direction due to Earth's magnetic field. This property is used in a magnetic compass for navigation.",
+    "ncert_page": 188,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch13_q05",
+    "chapter_id": "c6s_ch13",
+    "question": "A compass is used for:",
+    "options": [
+      "Measuring temperature",
+      "Finding direction (navigation)",
+      "Measuring length",
+      "Measuring time"
+    ],
+    "correct_index": 1,
+    "explanation": "A magnetic compass contains a small freely suspended magnet (needle) that always points North-South. This makes it useful for finding direction during navigation.",
+    "ncert_page": 189,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch13_q06",
+    "chapter_id": "c6s_ch13",
+    "question": "Which of these is a magnetic material?",
+    "options": [
+      "Aluminium",
+      "Nickel",
+      "Copper",
+      "Rubber"
+    ],
+    "correct_index": 1,
+    "explanation": "Nickel is a magnetic material — it is attracted to magnets. Iron, cobalt, and nickel are the main magnetic materials. Aluminium, copper, and rubber are non-magnetic.",
+    "ncert_page": 184,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch13_q07",
+    "chapter_id": "c6s_ch13",
+    "question": "If you cut a bar magnet in half, what do you get?",
+    "options": [
+      "One North pole piece and one South pole piece",
+      "Two pieces, each with only one pole",
+      "Two smaller magnets, each with both a North and South pole",
+      "The magnet loses its magnetism"
+    ],
+    "correct_index": 2,
+    "explanation": "When a magnet is cut, each piece becomes a complete magnet with both North and South poles. You cannot isolate a single pole — magnets always have two poles.",
+    "ncert_page": 187,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch13_q08",
+    "chapter_id": "c6s_ch13",
+    "question": "Dropping, heating, or hammering a magnet can:",
+    "options": [
+      "Make it stronger",
+      "Weaken or destroy its magnetism",
+      "Change its colour",
+      "Reverse its poles"
+    ],
+    "correct_index": 1,
+    "explanation": "A magnet should be handled carefully. Dropping, heating, or hammering disturbs the alignment of magnetic domains inside the magnet, weakening or destroying its magnetism.",
+    "ncert_page": 191,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch13_q09",
+    "chapter_id": "c6s_ch13",
+    "question": "Which end of a compass needle points towards geographic North?",
+    "options": [
+      "South pole of needle",
+      "North pole of needle",
+      "Both ends equally",
+      "Neither end"
+    ],
+    "correct_index": 1,
+    "explanation": "The North pole of a compass needle points towards geographic North (Earth's magnetic south pole). The needle aligns with Earth's magnetic field for navigation.",
+    "ncert_page": 189,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch13_q10",
+    "chapter_id": "c6s_ch13",
+    "question": "You have a bar magnet but its poles are not labelled. Which of the following methods can correctly identify the poles?",
+    "options": [
+      "Touch it to water",
+      "Suspend it freely from a thread and wait for it to align North-South",
+      "Measure its length",
+      "Check its colour"
+    ],
+    "correct_index": 1,
+    "explanation": "When a magnet is suspended freely, it aligns in the North-South direction due to Earth's magnetic field. The end pointing North is the North pole, and the end pointing South is the South pole.",
+    "ncert_page": 188,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

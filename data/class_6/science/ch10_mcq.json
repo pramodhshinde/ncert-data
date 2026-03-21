@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c6s_ch10_q01",
+    "chapter_id": "c6s_ch10",
+    "question": "The standard unit of length in the SI system is:",
+    "options": [
+      "Centimetre",
+      "Foot",
+      "Metre",
+      "Inch"
+    ],
+    "correct_index": 2,
+    "explanation": "The SI (International System of Units) standard unit of length is the metre (m). Other units like centimetre and kilometre are derived from the metre.",
+    "ncert_page": 138,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch10_q02",
+    "chapter_id": "c6s_ch10",
+    "question": "1 metre equals how many centimetres?",
+    "options": [
+      "10 cm",
+      "100 cm",
+      "1000 cm",
+      "10000 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "1 metre = 100 centimetres. The prefix 'centi-' means 1/100th. So 1 cm = 0.01 m, and 1 m = 100 cm.",
+    "ncert_page": 139,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch10_q03",
+    "chapter_id": "c6s_ch10",
+    "question": "Which type of motion does a pendulum exhibit?",
+    "options": [
+      "Linear motion",
+      "Circular motion",
+      "Periodic (oscillatory) motion",
+      "Random motion"
+    ],
+    "correct_index": 2,
+    "explanation": "A pendulum swings back and forth repeatedly in a regular pattern. This is called periodic or oscillatory motion — it repeats itself at regular time intervals.",
+    "ncert_page": 148,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch10_q04",
+    "chapter_id": "c6s_ch10",
+    "question": "A car moving along a straight road exhibits:",
+    "options": [
+      "Circular motion",
+      "Periodic motion",
+      "Linear (rectilinear) motion",
+      "Random motion"
+    ],
+    "correct_index": 2,
+    "explanation": "Linear or rectilinear motion is when an object moves in a straight line. A car on a straight road, a ball rolled in a straight line, and a falling stone all show linear motion.",
+    "ncert_page": 146,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch10_q05",
+    "chapter_id": "c6s_ch10",
+    "question": "Why is it important to use standard units of measurement?",
+    "options": [
+      "To make measurements look scientific",
+      "So everyone gets the same measurement for the same object",
+      "To impress others",
+      "Standard units are not really necessary"
+    ],
+    "correct_index": 1,
+    "explanation": "Standard units ensure that measurements are consistent and understood universally. Without standard units, measurements would vary based on the person or instrument used, causing confusion.",
+    "ncert_page": 138,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch10_q06",
+    "chapter_id": "c6s_ch10",
+    "question": "A merry-go-round at a park is an example of:",
+    "options": [
+      "Linear motion",
+      "Periodic motion",
+      "Circular motion",
+      "Random motion"
+    ],
+    "correct_index": 2,
+    "explanation": "A merry-go-round rotates about a fixed central point, and all points on it move in circular paths. This is circular motion.",
+    "ncert_page": 147,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch10_q07",
+    "chapter_id": "c6s_ch10",
+    "question": "When measuring the length of a curved line (like a curved road on a map), the best method is:",
+    "options": [
+      "Using a ruler directly",
+      "Using a thread placed along the curve, then measuring the thread",
+      "Estimating by eye",
+      "Using only a scale at the endpoints"
+    ],
+    "correct_index": 1,
+    "explanation": "To measure a curved length, place a thread along the curve following its shape exactly. Then stretch the thread straight and measure its length with a ruler.",
+    "ncert_page": 141,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch10_q08",
+    "chapter_id": "c6s_ch10",
+    "question": "What kind of motion does a sewing needle of a sewing machine show?",
+    "options": [
+      "Circular motion",
+      "Linear motion",
+      "Periodic (to-and-fro) motion",
+      "Random motion"
+    ],
+    "correct_index": 2,
+    "explanation": "The needle of a sewing machine moves up and down repeatedly in a regular pattern — this is periodic or oscillatory motion.",
+    "ncert_page": 148,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch10_q09",
+    "chapter_id": "c6s_ch10",
+    "question": "To avoid errors while measuring with a ruler, the eye should be positioned:",
+    "options": [
+      "To the left of the marking",
+      "To the right of the marking",
+      "Directly above the marking (perpendicular)",
+      "At any angle — it doesn't matter"
+    ],
+    "correct_index": 2,
+    "explanation": "When reading a measurement, the eye must be directly above (perpendicular to) the marking to avoid parallax error. Viewing at an angle gives an incorrect reading.",
+    "ncert_page": 140,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c6s_ch10_q10",
+    "chapter_id": "c6s_ch10",
+    "question": "An ant moving randomly on a surface shows which type of motion?",
+    "options": [
+      "Linear motion",
+      "Circular motion",
+      "Periodic motion",
+      "Random motion"
+    ],
+    "correct_index": 3,
+    "explanation": "Random motion has no fixed pattern or direction — the object moves unpredictably. Molecules in a gas, Brownian motion of particles, and an ant crawling on a surface are examples of random motion.",
+    "ncert_page": 149,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]
