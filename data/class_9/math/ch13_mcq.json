@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch13_q01",
+    "chapter_id": "c9m_ch13",
+    "question": "The probability of any event E always lies between:",
+    "options": [
+      "0 and 2",
+      "−1 and 1",
+      "0 and 1",
+      "1 and 2"
+    ],
+    "correct_index": 2,
+    "explanation": "Probability P(E) always satisfies 0 ≤ P(E) ≤ 1. It cannot be negative or greater than 1.",
+    "ncert_page": 348,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch13_q02",
+    "chapter_id": "c9m_ch13",
+    "question": "If an event is certain to happen, its probability is:",
+    "options": [
+      "0",
+      "0.5",
+      "Between 0 and 1",
+      "1"
+    ],
+    "correct_index": 3,
+    "explanation": "A certain event (one that always occurs) has probability 1. An impossible event has probability 0.",
+    "ncert_page": 349,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch13_q03",
+    "chapter_id": "c9m_ch13",
+    "question": "A coin is tossed. The probability of getting a head is:",
+    "options": [
+      "1",
+      "0",
+      "1/4",
+      "1/2"
+    ],
+    "correct_index": 3,
+    "explanation": "A fair coin has two equally likely outcomes: Head and Tail. P(Head) = 1/2.",
+    "ncert_page": 350,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch13_q04",
+    "chapter_id": "c9m_ch13",
+    "question": "An unbiased die is rolled. The probability of getting a 6 is:",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "1/4"
+    ],
+    "correct_index": 2,
+    "explanation": "A standard die has 6 equally likely outcomes. P(getting 6) = 1/6.",
+    "ncert_page": 351,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch13_q05",
+    "chapter_id": "c9m_ch13",
+    "question": "The probability of an impossible event is:",
+    "options": [
+      "1",
+      "0.5",
+      "−1",
+      "0"
+    ],
+    "correct_index": 3,
+    "explanation": "An impossible event (one that can never occur) has probability 0.",
+    "ncert_page": 349,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch13_q06",
+    "chapter_id": "c9m_ch13",
+    "question": "Experimental probability is based on:",
+    "options": [
+      "Mathematical theory only",
+      "Actual outcomes of experiments performed",
+      "Assumptions and guesses",
+      "The total number of possible outcomes"
+    ],
+    "correct_index": 1,
+    "explanation": "Experimental (empirical) probability is calculated from actual data collected through experiments or observations: P(E) = Number of trials in which E occurred / Total number of trials.",
+    "ncert_page": 348,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch13_q07",
+    "chapter_id": "c9m_ch13",
+    "question": "A bag contains 5 red and 3 blue balls. What is the probability of picking a blue ball at random?",
+    "options": [
+      "3/5",
+      "5/8",
+      "3/8",
+      "1/2"
+    ],
+    "correct_index": 2,
+    "explanation": "Total balls = 5 + 3 = 8. P(blue) = 3/8.",
+    "ncert_page": 352,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch13_q08",
+    "chapter_id": "c9m_ch13",
+    "question": "A card is drawn from a standard deck of 52 cards. What is the probability of drawing an ace?",
+    "options": [
+      "1/13",
+      "4/52",
+      "1/4",
+      "Both A and B"
+    ],
+    "correct_index": 3,
+    "explanation": "There are 4 aces in a 52-card deck. P(ace) = 4/52 = 1/13. Options A and B both equal 1/13, so both are correct.",
+    "ncert_page": 353,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch13_q09",
+    "chapter_id": "c9m_ch13",
+    "question": "If P(E) = 0.4, then P(not E) = ?",
+    "options": [
+      "0.4",
+      "0.6",
+      "0.5",
+      "1.4"
+    ],
+    "correct_index": 1,
+    "explanation": "P(not E) = 1 − P(E) = 1 − 0.4 = 0.6. An event and its complement together cover all possibilities.",
+    "ncert_page": 356,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch13_q10",
+    "chapter_id": "c9m_ch13",
+    "question": "A die is thrown 300 times. A '4' appears 50 times. The experimental probability of getting a '4' is:",
+    "options": [
+      "1/6",
+      "1/5",
+      "1/4",
+      "1/3"
+    ],
+    "correct_index": 0,
+    "explanation": "Experimental P(4) = 50/300 = 1/6. This is close to the theoretical probability of 1/6 for a fair die.",
+    "ncert_page": 348,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

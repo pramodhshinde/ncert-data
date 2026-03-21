@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch07_q01",
+    "chapter_id": "c9m_ch07",
+    "question": "Which congruence rule states that if three sides of one triangle are equal to three sides of another triangle, the triangles are congruent?",
+    "options": [
+      "SAS",
+      "ASA",
+      "SSS",
+      "AAS"
+    ],
+    "correct_index": 2,
+    "explanation": "SSS (Side-Side-Side) congruence rule: If three sides of one triangle are equal to the corresponding three sides of another triangle, the triangles are congruent.",
+    "ncert_page": 145,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch07_q02",
+    "chapter_id": "c9m_ch07",
+    "question": "In the SAS congruence rule, the angle must be:",
+    "options": [
+      "Any angle of the triangle",
+      "The angle opposite the longest side",
+      "The angle included between the two sides",
+      "The largest angle"
+    ],
+    "correct_index": 2,
+    "explanation": "In SAS (Side-Angle-Side), the angle must be the included angle — the angle formed between the two given sides.",
+    "ncert_page": 146,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch07_q03",
+    "chapter_id": "c9m_ch07",
+    "question": "The angles opposite to equal sides of an isosceles triangle are:",
+    "options": [
+      "Unequal",
+      "Supplementary",
+      "Equal",
+      "Complementary"
+    ],
+    "correct_index": 2,
+    "explanation": "In an isosceles triangle, the angles opposite to the equal sides are always equal. This is a fundamental property.",
+    "ncert_page": 154,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch07_q04",
+    "chapter_id": "c9m_ch07",
+    "question": "Which congruence rule applies when two angles and the included side of one triangle are equal to the corresponding parts of another triangle?",
+    "options": [
+      "SSS",
+      "SAS",
+      "AAS",
+      "ASA"
+    ],
+    "correct_index": 3,
+    "explanation": "ASA (Angle-Side-Angle): Two angles and the included side of one triangle equal corresponding parts of another triangle makes them congruent.",
+    "ncert_page": 147,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch07_q05",
+    "chapter_id": "c9m_ch07",
+    "question": "The RHS congruence rule is applicable only for:",
+    "options": [
+      "Acute triangles",
+      "Obtuse triangles",
+      "Right-angled triangles",
+      "Equilateral triangles"
+    ],
+    "correct_index": 2,
+    "explanation": "RHS (Right angle-Hypotenuse-Side) congruence rule applies specifically to right-angled triangles.",
+    "ncert_page": 151,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch07_q06",
+    "chapter_id": "c9m_ch07",
+    "question": "If the side of an isosceles triangle are AB = AC, then which angles are equal?",
+    "options": [
+      "∠A = ∠B",
+      "∠B = ∠C",
+      "∠A = ∠C",
+      "∠A = ∠B = ∠C"
+    ],
+    "correct_index": 1,
+    "explanation": "If AB = AC, then the angles opposite to these sides are equal: ∠B (opposite AC) = ∠C (opposite AB).",
+    "ncert_page": 154,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch07_q07",
+    "chapter_id": "c9m_ch07",
+    "question": "In triangles ABC and PQR, AB = QR, BC = PR and CA = QP. By which rule are they congruent?",
+    "options": [
+      "SAS",
+      "SSS",
+      "ASA",
+      "AAS"
+    ],
+    "correct_index": 1,
+    "explanation": "All three sides of triangle ABC equal three sides of triangle PQR (though in different correspondence), so SSS rule applies.",
+    "ncert_page": 145,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch07_q08",
+    "chapter_id": "c9m_ch07",
+    "question": "Which of the following is NOT a valid congruence rule for triangles?",
+    "options": [
+      "SSS",
+      "SAS",
+      "AAA",
+      "ASA"
+    ],
+    "correct_index": 2,
+    "explanation": "AAA (Angle-Angle-Angle) is NOT a congruence rule. Equal angles only prove similarity, not congruence — the triangles could be different sizes.",
+    "ncert_page": 149,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch07_q09",
+    "chapter_id": "c9m_ch07",
+    "question": "In an equilateral triangle, each angle measures:",
+    "options": [
+      "90°",
+      "45°",
+      "60°",
+      "30°"
+    ],
+    "correct_index": 2,
+    "explanation": "In an equilateral triangle, all three sides are equal, and the angle sum is 180°. So each angle = 180° ÷ 3 = 60°.",
+    "ncert_page": 156,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch07_q10",
+    "chapter_id": "c9m_ch07",
+    "question": "If in triangles ABC and DEF, ∠A = ∠D, ∠B = ∠E, and BC = EF, by which rule are the triangles congruent?",
+    "options": [
+      "ASA",
+      "SAS",
+      "AAS",
+      "SSS"
+    ],
+    "correct_index": 2,
+    "explanation": "AAS (Angle-Angle-Side): Two angles and a non-included side of one triangle equal corresponding parts of another triangle. Here ∠A=∠D, ∠B=∠E (two angles), and BC=EF (a non-included side).",
+    "ncert_page": 148,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

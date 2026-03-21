@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9s_ch01_q01",
+    "chapter_id": "c9s_ch01",
+    "question": "Which of the following is NOT a characteristic of matter?",
+    "options": [
+      "It has mass",
+      "It occupies space",
+      "It has energy",
+      "It has fixed shape and volume"
+    ],
+    "correct_index": 3,
+    "explanation": "Matter occupies space and has mass. Fixed shape and volume describes solids, not all matter. Gases and liquids don't have fixed shapes.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch01_q02",
+    "chapter_id": "c9s_ch01",
+    "question": "What happens to the rate of evaporation when the surface area increases?",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains the same",
+      "First increases then decreases"
+    ],
+    "correct_index": 1,
+    "explanation": "Increasing surface area exposes more liquid molecules to the atmosphere, increasing the rate of evaporation.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch01_q03",
+    "chapter_id": "c9s_ch01",
+    "question": "At what temperature does water boil under atmospheric pressure?",
+    "options": [
+      "100°C",
+      "37°C",
+      "0°C",
+      "273 K"
+    ],
+    "correct_index": 0,
+    "explanation": "Water boils at 100°C (373 K) under standard atmospheric pressure (1 atm).",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch01_q04",
+    "chapter_id": "c9s_ch01",
+    "question": "Which state of matter has the highest intermolecular force of attraction?",
+    "options": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "Plasma"
+    ],
+    "correct_index": 2,
+    "explanation": "Solids have the highest intermolecular forces, which is why they have a definite shape and volume with tightly packed particles.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch01_q05",
+    "chapter_id": "c9s_ch01",
+    "question": "The process of conversion of solid directly into gas without passing through liquid state is called:",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Melting"
+    ],
+    "correct_index": 2,
+    "explanation": "Sublimation is the process where a solid directly converts to gaseous state without passing through liquid state. Example: camphor, dry ice.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch01_q06",
+    "chapter_id": "c9s_ch01",
+    "question": "The SI unit of temperature is:",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Rankine"
+    ],
+    "correct_index": 2,
+    "explanation": "The SI unit of temperature is Kelvin (K). The relationship is: K = °C + 273.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch01_q07",
+    "chapter_id": "c9s_ch01",
+    "question": "Diffusion is fastest in which state of matter?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Equal in all states"
+    ],
+    "correct_index": 2,
+    "explanation": "Diffusion is fastest in gases because gas molecules have the highest kinetic energy and largest inter-molecular spaces, allowing rapid mixing.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch01_q08",
+    "chapter_id": "c9s_ch01",
+    "question": "The latent heat of vaporisation is the heat required to convert 1 kg of liquid to gas at:",
+    "options": [
+      "0°C",
+      "100°C",
+      "Its boiling point",
+      "Any temperature"
+    ],
+    "correct_index": 2,
+    "explanation": "Latent heat of vaporisation is the heat required to convert 1 kg of liquid to vapour at its boiling point without change in temperature.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch01_q09",
+    "chapter_id": "c9s_ch01",
+    "question": "Which of the following is an example of a gas dissolving in a liquid?",
+    "options": [
+      "Salt in water",
+      "Sugar in tea",
+      "CO₂ in cold drink",
+      "Milk in water"
+    ],
+    "correct_index": 2,
+    "explanation": "CO₂ dissolved in cold drinks is an example of a gas dissolving in a liquid. The gas remains dissolved under pressure.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch01_q10",
+    "chapter_id": "c9s_ch01",
+    "question": "Which factor does NOT affect the rate of evaporation?",
+    "options": [
+      "Temperature",
+      "Wind speed",
+      "Color of the liquid",
+      "Surface area"
+    ],
+    "correct_index": 2,
+    "explanation": "The color of the liquid does not affect the rate of evaporation. Temperature, wind speed, humidity, and surface area all affect evaporation rate.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Science"
+  }
+]

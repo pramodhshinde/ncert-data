@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c10s_ch03_q01",
+    "chapter_id": "c10s_ch03",
+    "question": "Which of the following is the best conductor of electricity?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Silver",
+      "Gold"
+    ],
+    "correct_index": 2,
+    "explanation": "Silver is the best conductor of electricity among all metals. Copper is second best and is used in wiring due to its lower cost.",
+    "ncert_page": 45,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c10s_ch03_q02",
+    "chapter_id": "c10s_ch03",
+    "question": "The process of depositing a layer of zinc on iron to prevent rusting is called:",
+    "options": [
+      "Tinning",
+      "Galvanisation",
+      "Electroplating",
+      "Anodising"
+    ],
+    "correct_index": 1,
+    "explanation": "Galvanisation is the process of coating iron or steel with zinc to prevent corrosion. Zinc acts as a sacrificial anode.",
+    "ncert_page": 62,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c10s_ch03_q03",
+    "chapter_id": "c10s_ch03",
+    "question": "The most abundant metal in the Earth's crust is:",
+    "options": [
+      "Iron",
+      "Copper",
+      "Aluminium",
+      "Gold"
+    ],
+    "correct_index": 2,
+    "explanation": "Aluminium is the most abundant metal in the Earth's crust (about 8.1% by mass). It is followed by iron (~5%).",
+    "ncert_page": 46,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c10s_ch03_q04",
+    "chapter_id": "c10s_ch03",
+    "question": "Non-metals generally have which type of oxides?",
+    "options": [
+      "Basic",
+      "Neutral",
+      "Acidic",
+      "Amphoteric"
+    ],
+    "correct_index": 2,
+    "explanation": "Non-metals form acidic oxides. For example, CO₂ + H₂O → H₂CO₃ (carbonic acid). Metal oxides are generally basic.",
+    "ncert_page": 53,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c10s_ch03_q05",
+    "chapter_id": "c10s_ch03",
+    "question": "Which metal is found in liquid state at room temperature?",
+    "options": [
+      "Gallium",
+      "Mercury",
+      "Francium",
+      "Caesium"
+    ],
+    "correct_index": 1,
+    "explanation": "Mercury (Hg) is the only metal that is liquid at room temperature (melting point = -38.83°C). Gallium melts just above room temperature (29.76°C).",
+    "ncert_page": 45,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c10s_ch03_q06",
+    "chapter_id": "c10s_ch03",
+    "question": "The ability of metals to be drawn into thin wires is called:",
+    "options": [
+      "Malleability",
+      "Ductility",
+      "Sonority",
+      "Conductivity"
+    ],
+    "correct_index": 1,
+    "explanation": "Ductility is the property of metals that allows them to be drawn into thin wires. Gold is the most ductile metal.",
+    "ncert_page": 46,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c10s_ch03_q07",
+    "chapter_id": "c10s_ch03",
+    "question": "Thermite reaction involves:",
+    "options": [
+      "Burning of carbon",
+      "Reduction of Fe₂O₃ by aluminium",
+      "Oxidation of aluminium",
+      "Burning of magnesium"
+    ],
+    "correct_index": 1,
+    "explanation": "Thermite reaction: Fe₂O₃ + 2Al → Al₂O₃ + 2Fe. Aluminium reduces iron oxide to iron. Used in welding railway tracks.",
+    "ncert_page": 58,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c10s_ch03_q08",
+    "chapter_id": "c10s_ch03",
+    "question": "Which of the following metals does NOT react with cold water but reacts with hot water?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Magnesium"
+    ],
+    "correct_index": 3,
+    "explanation": "Magnesium does not react with cold water but reacts with hot water to form Mg(OH)₂ and H₂. Na and K react vigorously with cold water.",
+    "ncert_page": 55,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c10s_ch03_q09",
+    "chapter_id": "c10s_ch03",
+    "question": "Extraction of metals low in the activity series (like gold) uses:",
+    "options": [
+      "Electrolysis",
+      "Carbon reduction",
+      "Hydrogen reduction",
+      "Physical methods"
+    ],
+    "correct_index": 3,
+    "explanation": "Metals low in the activity series (Cu, Ag, Au, Hg) occur in free state in nature and can be extracted by physical/chemical methods without reduction.",
+    "ncert_page": 60,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c10s_ch03_q10",
+    "chapter_id": "c10s_ch03",
+    "question": "The green coating (patina) on copper statues is due to formation of:",
+    "options": [
+      "Copper chloride",
+      "Copper carbonate",
+      "Copper sulphate",
+      "Copper oxide"
+    ],
+    "correct_index": 1,
+    "explanation": "The green coating on copper is basic copper carbonate Cu(OH)₂.CuCO₃, formed by reaction of copper with CO₂ and moisture in air.",
+    "ncert_page": 63,
+    "difficulty": "medium",
+    "subject": "Science"
+  }
+]

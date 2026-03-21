@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9s_ch09_q01",
+    "chapter_id": "c9s_ch09",
+    "question": "Newton's First Law of Motion is also known as:",
+    "options": [
+      "Law of Inertia",
+      "Law of Momentum",
+      "Law of Action-Reaction",
+      "Law of Gravitation"
+    ],
+    "correct_index": 0,
+    "explanation": "Newton's First Law states that a body continues in its state of rest or uniform motion unless acted upon by an external force. This property is called inertia, so it's the Law of Inertia.",
+    "ncert_page": 176,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch09_q02",
+    "chapter_id": "c9s_ch09",
+    "question": "The SI unit of force is:",
+    "options": [
+      "Newton (N)",
+      "Joule (J)",
+      "Pascal (Pa)",
+      "Watt (W)"
+    ],
+    "correct_index": 0,
+    "explanation": "The SI unit of force is Newton (N). 1 N = 1 kg·m/s². It is named after Sir Isaac Newton.",
+    "ncert_page": 180,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch09_q03",
+    "chapter_id": "c9s_ch09",
+    "question": "According to Newton's Second Law, Force = mass × acceleration. If mass is 5 kg and acceleration is 3 m/s², the force is:",
+    "options": [
+      "15 N",
+      "8 N",
+      "1.67 N",
+      "53 N"
+    ],
+    "correct_index": 0,
+    "explanation": "F = ma = 5 kg × 3 m/s² = 15 N. Newton's second law quantifies how a net force changes the motion of an object.",
+    "ncert_page": 180,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch09_q04",
+    "chapter_id": "c9s_ch09",
+    "question": "When a bullet is fired from a gun, the gun moves backward. This is an example of:",
+    "options": [
+      "Newton's Third Law",
+      "Newton's First Law",
+      "Conservation of energy",
+      "Law of gravitation"
+    ],
+    "correct_index": 0,
+    "explanation": "Gun recoil is Newton's Third Law (action-reaction). The bullet goes forward (action) and the gun recoils backward (reaction) with equal and opposite force.",
+    "ncert_page": 186,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch09_q05",
+    "chapter_id": "c9s_ch09",
+    "question": "The momentum of a body of mass 2 kg moving with velocity 5 m/s is:",
+    "options": [
+      "10 kg·m/s",
+      "7 kg·m/s",
+      "2.5 kg·m/s",
+      "0.4 kg·m/s"
+    ],
+    "correct_index": 0,
+    "explanation": "Momentum (p) = mass × velocity = 2 × 5 = 10 kg·m/s. Momentum is a vector quantity in the direction of velocity.",
+    "ncert_page": 178,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch09_q06",
+    "chapter_id": "c9s_ch09",
+    "question": "The law of conservation of momentum states that:",
+    "options": [
+      "Total momentum of an isolated system remains constant",
+      "Momentum is always zero",
+      "Force equals rate of change of momentum",
+      "Momentum can never be transferred"
+    ],
+    "correct_index": 0,
+    "explanation": "In the absence of external forces, the total momentum of a system (sum of momenta of all objects) remains constant before and after collision.",
+    "ncert_page": 187,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch09_q07",
+    "chapter_id": "c9s_ch09",
+    "question": "A 10 kg object accelerates at 2 m/s². What net force acts on it?",
+    "options": [
+      "20 N",
+      "5 N",
+      "12 N",
+      "8 N"
+    ],
+    "correct_index": 0,
+    "explanation": "F = ma = 10 kg × 2 m/s² = 20 N. The net force causes the acceleration of the object.",
+    "ncert_page": 180,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch09_q08",
+    "chapter_id": "c9s_ch09",
+    "question": "A passenger in a bus is thrown forward when the bus stops suddenly. This happens due to:",
+    "options": [
+      "Inertia of motion",
+      "Inertia of rest",
+      "Friction",
+      "Gravity"
+    ],
+    "correct_index": 0,
+    "explanation": "The passenger's body tends to continue in the state of motion (inertia of motion) even when the bus stops suddenly, causing the passenger to lurch forward.",
+    "ncert_page": 176,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch09_q09",
+    "chapter_id": "c9s_ch09",
+    "question": "Two objects A (2 kg) and B (4 kg) moving in opposite directions collide and come to rest. If A was moving at 6 m/s, what was B's speed?",
+    "options": [
+      "3 m/s",
+      "6 m/s",
+      "12 m/s",
+      "1.5 m/s"
+    ],
+    "correct_index": 0,
+    "explanation": "By conservation of momentum: (2)(6) + (4)(−v) = 0; 12 = 4v; v = 3 m/s. Object B was moving at 3 m/s in the opposite direction.",
+    "ncert_page": 187,
+    "difficulty": "hard",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch09_q10",
+    "chapter_id": "c9s_ch09",
+    "question": "An impulse is defined as:",
+    "options": [
+      "Force × time",
+      "Force × distance",
+      "Mass × velocity",
+      "Force × acceleration"
+    ],
+    "correct_index": 0,
+    "explanation": "Impulse = Force × time = change in momentum. It explains why increasing the time of impact (e.g., cushioning) reduces the force experienced.",
+    "ncert_page": 183,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

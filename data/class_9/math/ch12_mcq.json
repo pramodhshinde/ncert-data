@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch12_q01",
+    "chapter_id": "c9m_ch12",
+    "question": "The mean of the data 4, 7, 9, 11, 14 is:",
+    "options": [
+      "7",
+      "9",
+      "8",
+      "11"
+    ],
+    "correct_index": 1,
+    "explanation": "Mean = Sum/Count = (4+7+9+11+14)/5 = 45/5 = 9.",
+    "ncert_page": 323,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch12_q02",
+    "chapter_id": "c9m_ch12",
+    "question": "The median of the dataset 3, 5, 7, 8, 9 is:",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "correct_index": 0,
+    "explanation": "The data is already arranged in ascending order. With 5 values (odd), the median is the middle value = 3rd value = 7.",
+    "ncert_page": 327,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch12_q03",
+    "chapter_id": "c9m_ch12",
+    "question": "The mode of the data 2, 3, 3, 4, 5, 3, 6 is:",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "correct_index": 1,
+    "explanation": "Mode is the value that appears most frequently. The value 3 appears 3 times, which is more than any other value.",
+    "ncert_page": 330,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch12_q04",
+    "chapter_id": "c9m_ch12",
+    "question": "Which graph uses bars to represent frequency of different categories?",
+    "options": [
+      "Histogram",
+      "Frequency polygon",
+      "Bar chart",
+      "Ogive"
+    ],
+    "correct_index": 2,
+    "explanation": "A bar chart (bar graph) uses rectangular bars of equal width to represent the frequency of different discrete categories. A histogram is used for continuous data.",
+    "ncert_page": 333,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch12_q05",
+    "chapter_id": "c9m_ch12",
+    "question": "A histogram is used to represent:",
+    "options": [
+      "Discrete data",
+      "Continuous grouped data",
+      "Individual values",
+      "Cumulative frequencies"
+    ],
+    "correct_index": 1,
+    "explanation": "A histogram represents continuous (grouped) data using adjacent bars. The x-axis shows class intervals and the y-axis shows frequency.",
+    "ncert_page": 335,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch12_q06",
+    "chapter_id": "c9m_ch12",
+    "question": "The median of the dataset 4, 6, 8, 10 is:",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct_index": 1,
+    "explanation": "With 4 values (even number), the median = average of 2nd and 3rd values = (6+8)/2 = 7.",
+    "ncert_page": 327,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch12_q07",
+    "chapter_id": "c9m_ch12",
+    "question": "A frequency polygon is drawn using:",
+    "options": [
+      "Class boundaries",
+      "Midpoints of class intervals",
+      "Cumulative frequencies",
+      "Upper class limits"
+    ],
+    "correct_index": 1,
+    "explanation": "A frequency polygon is plotted by joining the midpoints of the tops of the bars in a histogram. The midpoints of class intervals are plotted against frequencies.",
+    "ncert_page": 338,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch12_q08",
+    "chapter_id": "c9m_ch12",
+    "question": "If the mean of 5 observations x, x+2, x+4, x+6, x+8 is 11, then x is:",
+    "options": [
+      "7",
+      "9",
+      "5",
+      "11"
+    ],
+    "correct_index": 0,
+    "explanation": "Mean = (x + x+2 + x+4 + x+6 + x+8)/5 = (5x+20)/5 = x+4 = 11. So x = 7.",
+    "ncert_page": 323,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch12_q09",
+    "chapter_id": "c9m_ch12",
+    "question": "Which measure of central tendency is most affected by extreme values (outliers)?",
+    "options": [
+      "Mode",
+      "Median",
+      "Mean",
+      "All equally affected"
+    ],
+    "correct_index": 2,
+    "explanation": "The mean is calculated using all values in the dataset, so it is most affected by extreme values. The median is resistant to outliers.",
+    "ncert_page": 330,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch12_q10",
+    "chapter_id": "c9m_ch12",
+    "question": "The range of the data 12, 25, 8, 33, 17, 5, 20 is:",
+    "options": [
+      "25",
+      "28",
+      "33",
+      "5"
+    ],
+    "correct_index": 1,
+    "explanation": "Range = Maximum value - Minimum value = 33 - 5 = 28.",
+    "ncert_page": 322,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

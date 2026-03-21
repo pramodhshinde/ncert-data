@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9s_ch14_q01",
+    "chapter_id": "c9s_ch14",
+    "question": "The biosphere is the zone of earth that supports life. It includes:",
+    "options": [
+      "Only land",
+      "Only water",
+      "Only air",
+      "Parts of lithosphere, hydrosphere, and atmosphere"
+    ],
+    "correct_index": 3,
+    "explanation": "The biosphere encompasses parts of the lithosphere (land), hydrosphere (water), and atmosphere (air) where living organisms exist and interact.",
+    "ncert_page": 292,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch14_q02",
+    "chapter_id": "c9s_ch14",
+    "question": "Which gas is most abundantly found in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "correct_index": 3,
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant atmospheric gas. Oxygen is about 21%.",
+    "ncert_page": 293,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch14_q03",
+    "chapter_id": "c9s_ch14",
+    "question": "The water cycle involves:",
+    "options": [
+      "Only evaporation",
+      "Only rainfall",
+      "Evaporation, condensation, and precipitation in a continuous cycle",
+      "Only groundwater movement"
+    ],
+    "correct_index": 2,
+    "explanation": "The water (hydrological) cycle is a continuous process involving evaporation of water from surfaces, condensation into clouds, and precipitation as rain or snow.",
+    "ncert_page": 298,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch14_q04",
+    "chapter_id": "c9s_ch14",
+    "question": "Soil is formed by the process of:",
+    "options": [
+      "Erosion",
+      "Weathering of rocks",
+      "Volcanic activity only",
+      "Chemical reactions in water"
+    ],
+    "correct_index": 1,
+    "explanation": "Soil is formed by the weathering of rocks — physical, chemical, and biological processes break down rocks over long periods into smaller particles that form soil.",
+    "ncert_page": 296,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch14_q05",
+    "chapter_id": "c9s_ch14",
+    "question": "The nitrogen cycle includes which of the following processes?",
+    "options": [
+      "Nitrogen fixation only",
+      "Nitrification only",
+      "Nitrogen fixation, nitrification, denitrification, and decomposition",
+      "Photosynthesis only"
+    ],
+    "correct_index": 2,
+    "explanation": "The nitrogen cycle involves: nitrogen fixation (N₂ → ammonia), nitrification (ammonia → nitrates), uptake by plants, decomposition, and denitrification (nitrates → N₂ back to atmosphere).",
+    "ncert_page": 302,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch14_q06",
+    "chapter_id": "c9s_ch14",
+    "question": "Which of the following is a greenhouse gas?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Carbon dioxide (CO₂) is a major greenhouse gas. It traps heat in the atmosphere, contributing to the greenhouse effect and global warming.",
+    "ncert_page": 295,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch14_q07",
+    "chapter_id": "c9s_ch14",
+    "question": "The oxygen cycle is closely linked to which process in plants?",
+    "options": [
+      "Respiration only",
+      "Photosynthesis",
+      "Transpiration",
+      "Germination"
+    ],
+    "correct_index": 1,
+    "explanation": "Photosynthesis uses CO₂ and releases O₂, while respiration uses O₂ and releases CO₂. Photosynthesis is the primary driver of the oxygen cycle.",
+    "ncert_page": 300,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch14_q08",
+    "chapter_id": "c9s_ch14",
+    "question": "Humus is:",
+    "options": [
+      "A type of rock",
+      "Decomposed organic matter in soil",
+      "A mineral in soil",
+      "Inorganic fertiliser"
+    ],
+    "correct_index": 1,
+    "explanation": "Humus is the dark organic material formed by the decomposition of plant and animal matter by microorganisms. It improves soil fertility and water retention.",
+    "ncert_page": 296,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch14_q09",
+    "chapter_id": "c9s_ch14",
+    "question": "Which of the following best describes the role of bacteria in the nitrogen cycle?",
+    "options": [
+      "They produce oxygen",
+      "They fix atmospheric nitrogen and also carry out nitrification and denitrification",
+      "They consume all nitrogen",
+      "They have no role"
+    ],
+    "correct_index": 1,
+    "explanation": "Bacteria play multiple roles: nitrogen-fixing bacteria (e.g., Rhizobium) convert N₂ to ammonia; nitrifying bacteria convert ammonia to nitrates; denitrifying bacteria return N₂ to the atmosphere.",
+    "ncert_page": 302,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch14_q10",
+    "chapter_id": "c9s_ch14",
+    "question": "Ozone (O₃) in the stratosphere is important because it:",
+    "options": [
+      "Provides oxygen for breathing",
+      "Absorbs harmful ultraviolet radiation from the sun",
+      "Creates rainfall",
+      "Supports the water cycle"
+    ],
+    "correct_index": 1,
+    "explanation": "The ozone layer in the stratosphere absorbs most of the sun's harmful ultraviolet (UV) radiation, protecting living organisms on Earth from UV damage.",
+    "ncert_page": 294,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch10_q01",
+    "chapter_id": "c9m_ch10",
+    "question": "Heron's Formula for the area of a triangle with sides a, b, c and semi-perimeter s is:",
+    "options": [
+      "√(s(s-a)(s-b)(s-c))",
+      "s(s-a)(s-b)(s-c)",
+      "√(s·a·b·c)",
+      "2√(s(s-a)(s-b)(s-c))"
+    ],
+    "correct_index": 0,
+    "explanation": "Heron's Formula: Area = √(s(s-a)(s-b)(s-c)), where s = (a+b+c)/2 is the semi-perimeter.",
+    "ncert_page": 272,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch10_q02",
+    "chapter_id": "c9m_ch10",
+    "question": "The semi-perimeter of a triangle with sides 3 cm, 4 cm, and 5 cm is:",
+    "options": [
+      "12 cm",
+      "6 cm",
+      "4 cm",
+      "8 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Perimeter = 3 + 4 + 5 = 12 cm. Semi-perimeter s = 12/2 = 6 cm.",
+    "ncert_page": 272,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch10_q03",
+    "chapter_id": "c9m_ch10",
+    "question": "Using Heron's Formula, what is the area of a triangle with sides 3, 4, 5 cm?",
+    "options": [
+      "20 sq cm",
+      "12 sq cm",
+      "6 sq cm",
+      "10 sq cm"
+    ],
+    "correct_index": 2,
+    "explanation": "s = 6, Area = √(6×3×2×1) = √36 = 6 sq cm. (This is a 3-4-5 right triangle, so area = ½×3×4 = 6 sq cm — confirms the formula.)",
+    "ncert_page": 273,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch10_q04",
+    "chapter_id": "c9m_ch10",
+    "question": "Heron's Formula can be applied to find the area of:",
+    "options": [
+      "Only right-angled triangles",
+      "Only equilateral triangles",
+      "Any triangle when all three sides are known",
+      "Only isosceles triangles"
+    ],
+    "correct_index": 2,
+    "explanation": "Heron's Formula works for any triangle as long as all three side lengths are known, regardless of the type of triangle.",
+    "ncert_page": 272,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch10_q05",
+    "chapter_id": "c9m_ch10",
+    "question": "The area of an equilateral triangle with side 'a' using Heron's Formula is:",
+    "options": [
+      "(√3/4)a²",
+      "(√3/2)a²",
+      "a²/2",
+      "(√3/3)a²"
+    ],
+    "correct_index": 0,
+    "explanation": "For an equilateral triangle with side a: s = 3a/2. Area = √(3a/2 × a/2 × a/2 × a/2) = (√3/4)a². This is the standard formula for equilateral triangle area.",
+    "ncert_page": 275,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch10_q06",
+    "chapter_id": "c9m_ch10",
+    "question": "Heron's Formula is named after:",
+    "options": [
+      "A Greek philosopher",
+      "A Roman mathematician",
+      "A Greek engineer and mathematician",
+      "An Indian mathematician"
+    ],
+    "correct_index": 2,
+    "explanation": "Heron's Formula is named after Hero (Heron) of Alexandria, a Greek engineer and mathematician who lived around 10–70 AD.",
+    "ncert_page": 271,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch10_q07",
+    "chapter_id": "c9m_ch10",
+    "question": "To find the area of a quadrilateral using Heron's Formula, we can:",
+    "options": [
+      "Apply the formula directly",
+      "Divide it into two triangles and add their areas",
+      "Multiply the semi-perimeter by 2",
+      "Use only if it is a square"
+    ],
+    "correct_index": 1,
+    "explanation": "A quadrilateral can be divided into two triangles by a diagonal. Heron's Formula is applied to each triangle and the areas are added.",
+    "ncert_page": 278,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch10_q08",
+    "chapter_id": "c9m_ch10",
+    "question": "A triangle has sides 13 cm, 14 cm, and 15 cm. What is its semi-perimeter?",
+    "options": [
+      "42 cm",
+      "21 cm",
+      "14 cm",
+      "28 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Perimeter = 13 + 14 + 15 = 42 cm. Semi-perimeter s = 42/2 = 21 cm.",
+    "ncert_page": 273,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch10_q09",
+    "chapter_id": "c9m_ch10",
+    "question": "The area of a triangle with sides 13, 14, 15 cm is:",
+    "options": [
+      "84 sq cm",
+      "42 sq cm",
+      "56 sq cm",
+      "100 sq cm"
+    ],
+    "correct_index": 0,
+    "explanation": "s = 21. Area = √(21×8×7×6) = √7056 = 84 sq cm.",
+    "ncert_page": 273,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch10_q10",
+    "chapter_id": "c9m_ch10",
+    "question": "A rhombus has diagonals of 24 cm and 10 cm. Its area can be found by dividing it into triangles. The area of the rhombus is:",
+    "options": [
+      "240 sq cm",
+      "120 sq cm",
+      "60 sq cm",
+      "480 sq cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Diagonals of a rhombus bisect each other at right angles. Each of the 4 triangles has legs 12 and 5. Area of rhombus = 4 × (½ × 12 × 5) = 120 sq cm. Or directly: (d1 × d2)/2 = (24 × 10)/2 = 120 sq cm.",
+    "ncert_page": 278,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

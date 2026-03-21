@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9s_ch13_q01",
+    "chapter_id": "c9s_ch13",
+    "question": "Health is defined as:",
+    "options": [
+      "Absence of disease",
+      "A state of complete physical, mental and social well-being",
+      "Only physical fitness",
+      "Only absence of pain"
+    ],
+    "correct_index": 1,
+    "explanation": "According to WHO, health is a state of complete physical, mental, and social well-being, and not merely the absence of disease or infirmity.",
+    "ncert_page": 273,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch13_q02",
+    "chapter_id": "c9s_ch13",
+    "question": "Which of the following is an infectious (communicable) disease?",
+    "options": [
+      "Diabetes",
+      "Tuberculosis",
+      "Hypertension",
+      "Cancer"
+    ],
+    "correct_index": 1,
+    "explanation": "Tuberculosis (TB) is caused by bacteria (Mycobacterium tuberculosis) and spreads from person to person, making it an infectious disease. Diabetes, hypertension, and most cancers are non-infectious.",
+    "ncert_page": 278,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch13_q03",
+    "chapter_id": "c9s_ch13",
+    "question": "Pathogens are:",
+    "options": [
+      "Disease-causing microorganisms",
+      "Beneficial bacteria",
+      "White blood cells",
+      "Antibodies"
+    ],
+    "correct_index": 0,
+    "explanation": "Pathogens are disease-causing microorganisms, including viruses, bacteria, fungi, protozoa, and helminths (worms).",
+    "ncert_page": 279,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch13_q04",
+    "chapter_id": "c9s_ch13",
+    "question": "Antibiotics are effective against:",
+    "options": [
+      "Viral infections",
+      "Bacterial infections",
+      "Fungal infections",
+      "All infections"
+    ],
+    "correct_index": 1,
+    "explanation": "Antibiotics are medicines that kill or inhibit the growth of bacteria. They are not effective against viruses, which is why antibiotics cannot treat the common cold or flu.",
+    "ncert_page": 285,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch13_q05",
+    "chapter_id": "c9s_ch13",
+    "question": "The immune system produces _______ to fight pathogens.",
+    "options": [
+      "Antibiotics",
+      "Antigens",
+      "Antibodies",
+      "Hormones"
+    ],
+    "correct_index": 2,
+    "explanation": "The immune system produces antibodies — specific proteins that recognize and neutralize antigens (foreign substances like pathogen proteins).",
+    "ncert_page": 284,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch13_q06",
+    "chapter_id": "c9s_ch13",
+    "question": "Malaria is caused by:",
+    "options": [
+      "A virus",
+      "A bacterium",
+      "A protozoan",
+      "A fungus"
+    ],
+    "correct_index": 2,
+    "explanation": "Malaria is caused by Plasmodium, a protozoan parasite transmitted through the bite of female Anopheles mosquitoes.",
+    "ncert_page": 280,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch13_q07",
+    "chapter_id": "c9s_ch13",
+    "question": "Which of the following is a vector for dengue fever?",
+    "options": [
+      "Anopheles mosquito",
+      "Aedes mosquito",
+      "Culex mosquito",
+      "Housefly"
+    ],
+    "correct_index": 1,
+    "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito. Malaria is transmitted by Anopheles, and some forms of encephalitis by Culex.",
+    "ncert_page": 282,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch13_q08",
+    "chapter_id": "c9s_ch13",
+    "question": "Vaccination works by:",
+    "options": [
+      "Killing all bacteria in the body",
+      "Introducing a weakened or killed pathogen to trigger immune memory",
+      "Providing ready-made antibodies",
+      "Blocking pain receptors"
+    ],
+    "correct_index": 1,
+    "explanation": "Vaccination introduces a weakened, killed, or part of a pathogen into the body, triggering the immune system to form memory cells and antibodies without causing the actual disease.",
+    "ncert_page": 286,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch13_q09",
+    "chapter_id": "c9s_ch13",
+    "question": "Non-infectious diseases are those that:",
+    "options": [
+      "Spread through air",
+      "Cannot be transmitted from one person to another",
+      "Are always caused by bacteria",
+      "Always have genetic causes"
+    ],
+    "correct_index": 1,
+    "explanation": "Non-infectious (non-communicable) diseases cannot be transmitted from one person to another. Examples include diabetes, heart disease, cancer, and arthritis.",
+    "ncert_page": 279,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch13_q10",
+    "chapter_id": "c9s_ch13",
+    "question": "The best approach to dealing with infectious diseases involves:",
+    "options": [
+      "Treatment only after infection",
+      "Prevention through hygiene, vaccination, and vector control, plus timely treatment",
+      "Isolation of all infected individuals permanently",
+      "Ignoring mild symptoms"
+    ],
+    "correct_index": 1,
+    "explanation": "The most effective strategy combines prevention (vaccination, good sanitation, vector control, hygiene) with timely treatment when infection occurs.",
+    "ncert_page": 287,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

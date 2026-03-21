@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch04_q01",
+    "chapter_id": "c9m_ch04",
+    "question": "The standard form of a linear equation in two variables is:",
+    "options": [
+      "ax + b = 0",
+      "ax² + bx + c = 0",
+      "ax + by + c = 0",
+      "ax + by = 0"
+    ],
+    "correct_index": 2,
+    "explanation": "The standard form of a linear equation in two variables is ax + by + c = 0, where a and b are not both zero.",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch04_q02",
+    "chapter_id": "c9m_ch04",
+    "question": "How many solutions does a linear equation in two variables have?",
+    "options": [
+      "Exactly one",
+      "Exactly two",
+      "No solution",
+      "Infinitely many"
+    ],
+    "correct_index": 3,
+    "explanation": "A linear equation in two variables has infinitely many solutions, as for every value of x, there is a corresponding value of y.",
+    "ncert_page": 84,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch04_q03",
+    "chapter_id": "c9m_ch04",
+    "question": "Which of the following is a solution of the equation 2x + y = 5?",
+    "options": [
+      "(1, 2)",
+      "(2, 1)",
+      "(0, 4)",
+      "(3, 2)"
+    ],
+    "correct_index": 1,
+    "explanation": "For (2, 1): 2(2) + 1 = 5. This satisfies the equation.",
+    "ncert_page": 85,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch04_q04",
+    "chapter_id": "c9m_ch04",
+    "question": "The graph of a linear equation in two variables is a:",
+    "options": [
+      "Parabola",
+      "Straight line",
+      "Circle",
+      "Curve"
+    ],
+    "correct_index": 1,
+    "explanation": "The graph of every linear equation in two variables is a straight line.",
+    "ncert_page": 88,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch04_q05",
+    "chapter_id": "c9m_ch04",
+    "question": "The equation x = 5, when drawn in a two-variable coordinate system, is:",
+    "options": [
+      "A line parallel to X-axis",
+      "A line passing through origin",
+      "A line parallel to Y-axis",
+      "A point on X-axis"
+    ],
+    "correct_index": 2,
+    "explanation": "x = 5 can be written as x + 0·y = 5. It is a vertical line parallel to the Y-axis passing through x = 5.",
+    "ncert_page": 91,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch04_q06",
+    "chapter_id": "c9m_ch04",
+    "question": "Which of the following points lies on the graph of y = 3x?",
+    "options": [
+      "(1, 4)",
+      "(2, 5)",
+      "(3, 9)",
+      "(4, 10)"
+    ],
+    "correct_index": 2,
+    "explanation": "For (3, 9): y = 3 × 3 = 9. So (3, 9) lies on the graph of y = 3x.",
+    "ncert_page": 89,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch04_q07",
+    "chapter_id": "c9m_ch04",
+    "question": "The equation y = 0 represents the:",
+    "options": [
+      "Y-axis",
+      "X-axis",
+      "Origin",
+      "A line parallel to X-axis"
+    ],
+    "correct_index": 1,
+    "explanation": "y = 0 means every point has y-coordinate 0, which describes all points on the X-axis.",
+    "ncert_page": 91,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch04_q08",
+    "chapter_id": "c9m_ch04",
+    "question": "If x + 2y = 6, what is the value of y when x = 0?",
+    "options": [
+      "6",
+      "0",
+      "3",
+      "12"
+    ],
+    "correct_index": 2,
+    "explanation": "Substituting x = 0: 0 + 2y = 6, so y = 3.",
+    "ncert_page": 85,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch04_q09",
+    "chapter_id": "c9m_ch04",
+    "question": "The graph of the equation x + y = 0 passes through which point?",
+    "options": [
+      "(1, 1)",
+      "(2, -2)",
+      "(0, 1)",
+      "(1, 0)"
+    ],
+    "correct_index": 1,
+    "explanation": "For (2, -2): x + y = 2 + (-2) = 0. So (2, -2) lies on the graph.",
+    "ncert_page": 89,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch04_q10",
+    "chapter_id": "c9m_ch04",
+    "question": "A line parallel to the X-axis at a distance of 4 units above it has the equation:",
+    "options": [
+      "x = 4",
+      "y = 4",
+      "y = -4",
+      "x = -4"
+    ],
+    "correct_index": 1,
+    "explanation": "A horizontal line 4 units above the X-axis has all points with y-coordinate = 4, so its equation is y = 4.",
+    "ncert_page": 91,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  }
+]

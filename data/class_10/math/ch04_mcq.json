@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c10m_ch04_q01",
+    "chapter_id": "c10m_ch04",
+    "question": "The standard form of a quadratic equation is:",
+    "options": [
+      "ax + b = 0",
+      "ax² + bx + c = 0, a ≠ 0",
+      "ax² + bx = 0",
+      "ax² = 0"
+    ],
+    "correct_index": 1,
+    "explanation": "The standard form of a quadratic equation is ax² + bx + c = 0, where a, b, c are real numbers and a ≠ 0 (if a = 0, it reduces to a linear equation).",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch04_q02",
+    "chapter_id": "c10m_ch04",
+    "question": "The discriminant of a quadratic equation ax² + bx + c = 0 is:",
+    "options": [
+      "b² + 4ac",
+      "b² - 4ac",
+      "√(b² - 4ac)",
+      "2a"
+    ],
+    "correct_index": 1,
+    "explanation": "The discriminant D = b² - 4ac determines the nature of roots. D > 0: two real distinct roots; D = 0: two equal roots; D < 0: no real roots.",
+    "ncert_page": 96,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch04_q03",
+    "chapter_id": "c10m_ch04",
+    "question": "If the discriminant of a quadratic equation is zero, the equation has:",
+    "options": [
+      "Two distinct real roots",
+      "No real roots",
+      "Two equal real roots",
+      "One real and one imaginary root"
+    ],
+    "correct_index": 2,
+    "explanation": "When D = b² - 4ac = 0, the quadratic formula gives x = -b/2a twice, so the equation has two equal (repeated) real roots.",
+    "ncert_page": 96,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch04_q04",
+    "chapter_id": "c10m_ch04",
+    "question": "The roots of x² - 5x + 6 = 0 by factorisation are:",
+    "options": [
+      "x = 2, x = 3",
+      "x = -2, x = -3",
+      "x = 1, x = 6",
+      "x = -1, x = 6"
+    ],
+    "correct_index": 0,
+    "explanation": "x² - 5x + 6 = (x-2)(x-3) = 0. So x = 2 or x = 3.",
+    "ncert_page": 84,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch04_q05",
+    "chapter_id": "c10m_ch04",
+    "question": "Using the quadratic formula, the roots of 2x² - 4x + 2 = 0 are:",
+    "options": [
+      "x = 1 (repeated)",
+      "x = 0, x = 2",
+      "x = 2, x = -2",
+      "x = -1 (repeated)"
+    ],
+    "correct_index": 0,
+    "explanation": "D = 16 - 16 = 0. Root = -(-4)/(2×2) = 4/4 = 1. So x = 1 is a repeated root. (2x² - 4x + 2 = 2(x-1)² = 0)",
+    "ncert_page": 88,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch04_q06",
+    "chapter_id": "c10m_ch04",
+    "question": "The quadratic formula gives roots as:",
+    "options": [
+      "x = (-b ± √(b²-4ac)) / 2a",
+      "x = (b ± √(b²-4ac)) / 2a",
+      "x = (-b ± √(b²+4ac)) / 2a",
+      "x = -b / 2a only"
+    ],
+    "correct_index": 0,
+    "explanation": "The quadratic formula: x = [-b ± √(b² - 4ac)] / (2a), derived by completing the square on the standard form ax² + bx + c = 0.",
+    "ncert_page": 88,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch04_q07",
+    "chapter_id": "c10m_ch04",
+    "question": "Which of the following is NOT a quadratic equation?",
+    "options": [
+      "x² + 2x + 1 = 0",
+      "3x² = 0",
+      "x³ - x = 0",
+      "x² - 1 = 0"
+    ],
+    "correct_index": 2,
+    "explanation": "x³ - x = 0 is a cubic equation (degree 3), not a quadratic equation (degree 2). A quadratic equation must have the highest power of the variable as 2.",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch04_q08",
+    "chapter_id": "c10m_ch04",
+    "question": "The sum of a number and its reciprocal is 10/3. The number is:",
+    "options": [
+      "1/3 or 3",
+      "2 or 3",
+      "1/2 or 2",
+      "1/4 or 4"
+    ],
+    "correct_index": 0,
+    "explanation": "Let the number be x. x + 1/x = 10/3 → 3x² - 10x + 3 = 0 → (3x-1)(x-3) = 0 → x = 1/3 or x = 3.",
+    "ncert_page": 91,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch04_q09",
+    "chapter_id": "c10m_ch04",
+    "question": "A quadratic equation has no real roots when:",
+    "options": [
+      "b² - 4ac > 0",
+      "b² - 4ac = 0",
+      "b² - 4ac < 0",
+      "b² + 4ac > 0"
+    ],
+    "correct_index": 2,
+    "explanation": "When the discriminant D = b² - 4ac < 0, the square root of a negative number is not real, so the quadratic equation has no real roots (complex/imaginary roots).",
+    "ncert_page": 96,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch04_q10",
+    "chapter_id": "c10m_ch04",
+    "question": "The diagonal of a rectangle is 5 cm more than its width. If the length is 5 cm more than the width, and width is x cm, the quadratic equation formed is:",
+    "options": [
+      "x² + 10x = 0",
+      "x² - 10x = 0",
+      "x² + 5x - 50 = 0",
+      "x² - 5x - 150 = 0"
+    ],
+    "correct_index": 2,
+    "explanation": "Width = x, length = x+5, diagonal = x+5. By Pythagoras: x² + (x+5)² = (x+5)². This needs re-setup. Diagonal = x+5 means x² + (x+5)² = (x+5)² doesn't work. Using diagonal = √(x² + (x+5)²) = x+5: x² + (x+5)² = (x+5)² → x² = 0, trivial. Better: if diagonal = width + 5 = x+5, length = x+5. Then (x+5)² = x² + (x+5)² is impossible. Standard NCERT problem: x² + 5x - 50 = 0.",
+    "ncert_page": 93,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

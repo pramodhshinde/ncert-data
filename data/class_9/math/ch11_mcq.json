@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch11_q01",
+    "chapter_id": "c9m_ch11",
+    "question": "The total surface area of a cuboid with length l, breadth b, and height h is:",
+    "options": [
+      "lbh",
+      "2(lb + bh + hl)",
+      "2(l + b + h)",
+      "lb + bh + hl"
+    ],
+    "correct_index": 1,
+    "explanation": "Total Surface Area of a cuboid = 2(lb + bh + hl), which includes all six rectangular faces.",
+    "ncert_page": 289,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch11_q02",
+    "chapter_id": "c9m_ch11",
+    "question": "The lateral surface area of a cylinder with radius r and height h is:",
+    "options": [
+      "πr²h",
+      "2πr²",
+      "2πrh",
+      "πrh"
+    ],
+    "correct_index": 2,
+    "explanation": "The lateral (curved) surface area of a cylinder = 2πrh. The total surface area = 2πr(r + h).",
+    "ncert_page": 296,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch11_q03",
+    "chapter_id": "c9m_ch11",
+    "question": "The volume of a cube with side 'a' is:",
+    "options": [
+      "a²",
+      "6a²",
+      "4a³",
+      "a³"
+    ],
+    "correct_index": 3,
+    "explanation": "Volume of a cube = a³. The total surface area of a cube = 6a².",
+    "ncert_page": 292,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch11_q04",
+    "chapter_id": "c9m_ch11",
+    "question": "The curved surface area of a cone with radius r and slant height l is:",
+    "options": [
+      "πrl",
+      "πr²l",
+      "2πrl",
+      "πr(r + l)"
+    ],
+    "correct_index": 0,
+    "explanation": "Curved Surface Area of a cone = πrl, where r is the base radius and l is the slant height. Total Surface Area = πr(r + l).",
+    "ncert_page": 300,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch11_q05",
+    "chapter_id": "c9m_ch11",
+    "question": "The volume of a sphere with radius r is:",
+    "options": [
+      "4πr²",
+      "(4/3)πr³",
+      "(2/3)πr³",
+      "πr³"
+    ],
+    "correct_index": 1,
+    "explanation": "Volume of a sphere = (4/3)πr³. The surface area of a sphere = 4πr².",
+    "ncert_page": 307,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch11_q06",
+    "chapter_id": "c9m_ch11",
+    "question": "The slant height of a cone with radius 3 cm and vertical height 4 cm is:",
+    "options": [
+      "5 cm",
+      "7 cm",
+      "3 cm",
+      "4 cm"
+    ],
+    "correct_index": 0,
+    "explanation": "Slant height l = √(r² + h²) = √(9 + 16) = √25 = 5 cm. This uses the Pythagorean theorem.",
+    "ncert_page": 299,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch11_q07",
+    "chapter_id": "c9m_ch11",
+    "question": "The volume of a cylinder with radius 7 cm and height 10 cm is: (π = 22/7)",
+    "options": [
+      "154 cu cm",
+      "1540 cu cm",
+      "770 cu cm",
+      "440 cu cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Volume = πr²h = (22/7) × 49 × 10 = 22 × 7 × 10 = 1540 cu cm.",
+    "ncert_page": 297,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch11_q08",
+    "chapter_id": "c9m_ch11",
+    "question": "The surface area of a sphere with diameter 14 cm is: (π = 22/7)",
+    "options": [
+      "616 sq cm",
+      "308 sq cm",
+      "1232 sq cm",
+      "154 sq cm"
+    ],
+    "correct_index": 0,
+    "explanation": "Radius r = 7 cm. Surface area = 4πr² = 4 × (22/7) × 49 = 4 × 22 × 7 = 616 sq cm.",
+    "ncert_page": 307,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch11_q09",
+    "chapter_id": "c9m_ch11",
+    "question": "The volume of a cone is how many times the volume of a cylinder with the same base and height?",
+    "options": [
+      "3 times",
+      "1/2",
+      "1/3",
+      "2/3"
+    ],
+    "correct_index": 2,
+    "explanation": "Volume of cone = (1/3)πr²h, while volume of cylinder = πr²h. So the cone's volume is (1/3) of the cylinder's volume with the same base radius and height.",
+    "ncert_page": 303,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch11_q10",
+    "chapter_id": "c9m_ch11",
+    "question": "A hemispherical bowl has radius 7 cm. Its volume is: (π = 22/7)",
+    "options": [
+      "718.67 cu cm",
+      "1437.33 cu cm",
+      "2156 cu cm",
+      "539.5 cu cm"
+    ],
+    "correct_index": 0,
+    "explanation": "Volume of hemisphere = (2/3)πr³ = (2/3) × (22/7) × 343 = (2/3) × 1078 ≈ 718.67 cu cm.",
+    "ncert_page": 308,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch03_q01",
+    "chapter_id": "c9m_ch03",
+    "question": "The point (3, 0) lies on which axis?",
+    "options": [
+      "Y-axis",
+      "X-axis",
+      "Origin",
+      "Neither axis"
+    ],
+    "correct_index": 1,
+    "explanation": "Any point with y-coordinate 0 lies on the X-axis.",
+    "ncert_page": 61,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q02",
+    "chapter_id": "c9m_ch03",
+    "question": "In which quadrant does the point (-2, 5) lie?",
+    "options": [
+      "Quadrant I",
+      "Quadrant II",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "correct_index": 1,
+    "explanation": "A point with negative x-coordinate and positive y-coordinate lies in Quadrant II.",
+    "ncert_page": 63,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q03",
+    "chapter_id": "c9m_ch03",
+    "question": "What are the coordinates of the origin?",
+    "options": [
+      "(1, 1)",
+      "(0, 1)",
+      "(1, 0)",
+      "(0, 0)"
+    ],
+    "correct_index": 3,
+    "explanation": "The origin is the intersection of the X-axis and Y-axis, so its coordinates are (0, 0).",
+    "ncert_page": 61,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q04",
+    "chapter_id": "c9m_ch03",
+    "question": "The point (-4, -3) lies in which quadrant?",
+    "options": [
+      "Quadrant I",
+      "Quadrant II",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "correct_index": 2,
+    "explanation": "Both coordinates are negative, so the point lies in Quadrant III.",
+    "ncert_page": 63,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q05",
+    "chapter_id": "c9m_ch03",
+    "question": "Which of the following points lies on the Y-axis?",
+    "options": [
+      "(3, 2)",
+      "(0, -5)",
+      "(-3, 0)",
+      "(4, 0)"
+    ],
+    "correct_index": 1,
+    "explanation": "A point lies on the Y-axis when its x-coordinate is 0. (0, -5) has x = 0.",
+    "ncert_page": 61,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q06",
+    "chapter_id": "c9m_ch03",
+    "question": "The horizontal line in the Cartesian plane is called the:",
+    "options": [
+      "Y-axis",
+      "Ordinate",
+      "X-axis",
+      "Abscissa"
+    ],
+    "correct_index": 2,
+    "explanation": "The horizontal reference line in the Cartesian coordinate system is called the X-axis.",
+    "ncert_page": 60,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q07",
+    "chapter_id": "c9m_ch03",
+    "question": "In the ordered pair (x, y), the value 'y' is called the:",
+    "options": [
+      "Abscissa",
+      "Origin",
+      "Quadrant",
+      "Ordinate"
+    ],
+    "correct_index": 3,
+    "explanation": "In an ordered pair (x, y), x is the abscissa (x-coordinate) and y is the ordinate (y-coordinate).",
+    "ncert_page": 62,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q08",
+    "chapter_id": "c9m_ch03",
+    "question": "In which quadrant does the point (5, -7) lie?",
+    "options": [
+      "Quadrant I",
+      "Quadrant II",
+      "Quadrant III",
+      "Quadrant IV"
+    ],
+    "correct_index": 3,
+    "explanation": "A point with positive x-coordinate and negative y-coordinate lies in Quadrant IV.",
+    "ncert_page": 63,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q09",
+    "chapter_id": "c9m_ch03",
+    "question": "If a point P has coordinates (a, b) and lies in Quadrant II, which of the following is true?",
+    "options": [
+      "a > 0, b > 0",
+      "a < 0, b > 0",
+      "a > 0, b < 0",
+      "a < 0, b < 0"
+    ],
+    "correct_index": 1,
+    "explanation": "In Quadrant II, the x-coordinate is negative and the y-coordinate is positive, so a < 0 and b > 0.",
+    "ncert_page": 63,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch03_q10",
+    "chapter_id": "c9m_ch03",
+    "question": "The perpendicular distance of a point P(3, 4) from the X-axis is:",
+    "options": [
+      "3 units",
+      "4 units",
+      "5 units",
+      "7 units"
+    ],
+    "correct_index": 1,
+    "explanation": "The perpendicular distance from the X-axis is the absolute value of the y-coordinate, which is 4 units.",
+    "ncert_page": 65,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9s_ch15_q01",
+    "chapter_id": "c9s_ch15",
+    "question": "Which method of crop improvement involves crossing two varieties to combine desired traits?",
+    "options": [
+      "Mutation",
+      "Hybridisation",
+      "Cloning",
+      "Grafting"
+    ],
+    "correct_index": 1,
+    "explanation": "Hybridisation involves cross-breeding two different varieties or species to combine their desirable traits into offspring, leading to improved crops.",
+    "ncert_page": 313,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch15_q02",
+    "chapter_id": "c9s_ch15",
+    "question": "Manures are:",
+    "options": [
+      "Synthetic chemicals used as fertilisers",
+      "Natural substances from decomposed plant and animal waste",
+      "Pesticides used in farming",
+      "Growth hormones for crops"
+    ],
+    "correct_index": 1,
+    "explanation": "Manures are organic substances obtained from the decomposition of plant and animal wastes (like dung, compost). They improve soil structure and provide nutrients.",
+    "ncert_page": 316,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch15_q03",
+    "chapter_id": "c9s_ch15",
+    "question": "Fertilisers differ from manures in that fertilisers are:",
+    "options": [
+      "Natural and slow-acting",
+      "Commercially produced chemical compounds providing specific nutrients",
+      "Always harmful to soil",
+      "Used only for animal feed"
+    ],
+    "correct_index": 1,
+    "explanation": "Fertilisers are commercially produced inorganic chemicals (like urea, NPK) that supply specific nutrients quickly. Unlike manures, they don't improve soil texture.",
+    "ncert_page": 317,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch15_q04",
+    "chapter_id": "c9s_ch15",
+    "question": "The practice of growing two or more crops simultaneously on the same field is called:",
+    "options": [
+      "Crop rotation",
+      "Mixed cropping",
+      "Monoculture",
+      "Intercropping"
+    ],
+    "correct_index": 1,
+    "explanation": "Mixed cropping is the practice of growing two or more crops simultaneously on the same piece of land. It reduces risk and may increase overall yield.",
+    "ncert_page": 315,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch15_q05",
+    "chapter_id": "c9s_ch15",
+    "question": "Crop rotation helps in:",
+    "options": [
+      "Depleting soil nutrients faster",
+      "Replenishing soil nutrients and controlling pests and diseases",
+      "Increasing water usage",
+      "Growing only one type of crop"
+    ],
+    "correct_index": 1,
+    "explanation": "Crop rotation involves growing different crops in sequence on the same land. It helps maintain soil fertility (legumes fix nitrogen), and breaks pest and disease cycles.",
+    "ncert_page": 315,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch15_q06",
+    "chapter_id": "c9s_ch15",
+    "question": "Animal husbandry involves:",
+    "options": [
+      "Growing crops efficiently",
+      "Scientific management of animal livestock for products like milk, meat, and eggs",
+      "Study of animal diseases only",
+      "Conservation of wild animals"
+    ],
+    "correct_index": 1,
+    "explanation": "Animal husbandry is the branch of agriculture that deals with the feeding, breeding, and management of livestock animals (cattle, poultry, fish, etc.) for food and other products.",
+    "ncert_page": 319,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch15_q07",
+    "chapter_id": "c9s_ch15",
+    "question": "Apiculture is the practice of:",
+    "options": [
+      "Fish farming",
+      "Bee keeping for honey",
+      "Poultry farming",
+      "Silk worm rearing"
+    ],
+    "correct_index": 1,
+    "explanation": "Apiculture is the scientific practice of keeping bees (honeybees) in beehives for the production of honey, beeswax, and other products.",
+    "ncert_page": 321,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch15_q08",
+    "chapter_id": "c9s_ch15",
+    "question": "Biological pest control uses:",
+    "options": [
+      "Chemical pesticides",
+      "Natural predators, parasites, or pathogens to control pests",
+      "Genetic modification only",
+      "Irrigation techniques"
+    ],
+    "correct_index": 1,
+    "explanation": "Biological pest control uses natural enemies of pests (predators, parasites, or pathogens) to control their populations, reducing the need for chemical pesticides.",
+    "ncert_page": 318,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch15_q09",
+    "chapter_id": "c9s_ch15",
+    "question": "Pisciculture refers to:",
+    "options": [
+      "Cultivation of rice",
+      "Fish farming or rearing fish commercially",
+      "Insect farming",
+      "Silk production"
+    ],
+    "correct_index": 1,
+    "explanation": "Pisciculture (fish farming) is the controlled cultivation and harvesting of fish and other aquatic animals in tanks, ponds, or ocean enclosures.",
+    "ncert_page": 321,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch15_q10",
+    "chapter_id": "c9s_ch15",
+    "question": "The Green Revolution in India primarily focused on increasing production of:",
+    "options": [
+      "Oilseeds",
+      "Fruits and vegetables",
+      "Cereals like wheat and rice",
+      "Cotton"
+    ],
+    "correct_index": 2,
+    "explanation": "The Green Revolution (1960s-70s) introduced high-yielding varieties (HYV) of wheat and rice, along with modern farming techniques, dramatically increasing cereal production in India.",
+    "ncert_page": 313,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

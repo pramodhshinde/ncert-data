@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch09_q01",
+    "chapter_id": "c9m_ch09",
+    "question": "The angle subtended by an arc at the centre of a circle is:",
+    "options": [
+      "Half the angle subtended at the circumference",
+      "Equal to the angle subtended at the circumference",
+      "Twice the angle subtended at the circumference",
+      "One-third the angle subtended at the circumference"
+    ],
+    "correct_index": 2,
+    "explanation": "The central angle theorem states that the angle subtended by an arc at the centre is twice the angle subtended by the same arc at any point on the remaining part of the circle.",
+    "ncert_page": 230,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch09_q02",
+    "chapter_id": "c9m_ch09",
+    "question": "The angle in a semicircle is:",
+    "options": [
+      "60°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "correct_index": 2,
+    "explanation": "The angle inscribed in a semicircle (subtended by the diameter) is always 90°. This is a direct consequence of the central angle theorem.",
+    "ncert_page": 231,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch09_q03",
+    "chapter_id": "c9m_ch09",
+    "question": "Angles in the same segment of a circle are:",
+    "options": [
+      "Supplementary",
+      "Equal",
+      "Complementary",
+      "Unequal"
+    ],
+    "correct_index": 1,
+    "explanation": "All angles inscribed in the same segment of a circle (subtended by the same arc) are equal to each other.",
+    "ncert_page": 231,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch09_q04",
+    "chapter_id": "c9m_ch09",
+    "question": "The longest chord of a circle is called:",
+    "options": [
+      "Arc",
+      "Radius",
+      "Diameter",
+      "Tangent"
+    ],
+    "correct_index": 2,
+    "explanation": "The diameter is the longest chord of a circle, passing through the centre. It equals twice the radius.",
+    "ncert_page": 224,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch09_q05",
+    "chapter_id": "c9m_ch09",
+    "question": "The sum of opposite angles of a cyclic quadrilateral is:",
+    "options": [
+      "90°",
+      "270°",
+      "360°",
+      "180°"
+    ],
+    "correct_index": 3,
+    "explanation": "In a cyclic quadrilateral (all four vertices lie on a circle), the sum of each pair of opposite angles is 180°.",
+    "ncert_page": 237,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch09_q06",
+    "chapter_id": "c9m_ch09",
+    "question": "Equal chords of a circle are:",
+    "options": [
+      "At different distances from the centre",
+      "At equal distances from the centre",
+      "Parallel to each other",
+      "Perpendicular to each other"
+    ],
+    "correct_index": 1,
+    "explanation": "Equal chords of a circle are equidistant from the centre of the circle. This is a theorem proved using congruent triangles.",
+    "ncert_page": 226,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch09_q07",
+    "chapter_id": "c9m_ch09",
+    "question": "The perpendicular from the centre of a circle to a chord:",
+    "options": [
+      "Bisects the chord",
+      "Is equal to the chord",
+      "Is twice the chord",
+      "Divides the chord in ratio 1:2"
+    ],
+    "correct_index": 0,
+    "explanation": "The perpendicular drawn from the centre of a circle to any chord bisects the chord. Conversely, the line joining the centre to the midpoint of a chord is perpendicular to it.",
+    "ncert_page": 225,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch09_q08",
+    "chapter_id": "c9m_ch09",
+    "question": "If the central angle for an arc is 80°, what is the inscribed angle subtending the same arc?",
+    "options": [
+      "160°",
+      "80°",
+      "40°",
+      "20°"
+    ],
+    "correct_index": 2,
+    "explanation": "The inscribed angle is half the central angle. So the inscribed angle = 80° ÷ 2 = 40°.",
+    "ncert_page": 230,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch09_q09",
+    "chapter_id": "c9m_ch09",
+    "question": "A chord divides the interior of a circle into two regions called:",
+    "options": [
+      "Sectors",
+      "Segments",
+      "Arcs",
+      "Quadrants"
+    ],
+    "correct_index": 1,
+    "explanation": "A chord of a circle divides the circular region into two parts called segments — the minor segment and the major segment.",
+    "ncert_page": 224,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch09_q10",
+    "chapter_id": "c9m_ch09",
+    "question": "In a cyclic quadrilateral ABCD, if ∠A = 85° and ∠C = 95°, then:",
+    "options": [
+      "ABCD cannot be a cyclic quadrilateral",
+      "∠A + ∠C = 180°, so ABCD is a valid cyclic quadrilateral",
+      "∠B + ∠D must equal 90°",
+      "The diagonals are equal"
+    ],
+    "correct_index": 1,
+    "explanation": "∠A + ∠C = 85° + 95° = 180°. Since opposite angles of a cyclic quadrilateral sum to 180°, ABCD is a valid cyclic quadrilateral.",
+    "ncert_page": 237,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

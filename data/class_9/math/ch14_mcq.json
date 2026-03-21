@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch14_q01",
+    "chapter_id": "c9m_ch14",
+    "question": "Parallelograms on the same base and between the same parallels are:",
+    "options": [
+      "Equal in perimeter",
+      "Equal in area",
+      "Congruent",
+      "Similar"
+    ],
+    "correct_index": 1,
+    "explanation": "The theorem states: Parallelograms on the same base and between the same parallels (same height) have equal areas.",
+    "ncert_page": 204,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch14_q02",
+    "chapter_id": "c9m_ch14",
+    "question": "A triangle and a parallelogram are on the same base and between the same parallels. The area of the triangle is:",
+    "options": [
+      "Equal to the parallelogram",
+      "Twice the parallelogram",
+      "Half the parallelogram",
+      "One-third the parallelogram"
+    ],
+    "correct_index": 2,
+    "explanation": "If a triangle and a parallelogram are on the same base and between the same parallels, the area of the triangle is half the area of the parallelogram.",
+    "ncert_page": 212,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch14_q03",
+    "chapter_id": "c9m_ch14",
+    "question": "The area of a parallelogram is equal to:",
+    "options": [
+      "Base × Height",
+      "½ × Base × Height",
+      "Base + Height",
+      "2 × (Base + Height)"
+    ],
+    "correct_index": 0,
+    "explanation": "Area of a parallelogram = Base × Height (perpendicular height), not the slant side.",
+    "ncert_page": 205,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch14_q04",
+    "chapter_id": "c9m_ch14",
+    "question": "Triangles on the same base and between the same parallels are:",
+    "options": [
+      "Congruent",
+      "Equal in area",
+      "Equal in perimeter",
+      "Similar"
+    ],
+    "correct_index": 1,
+    "explanation": "Triangles on the same base and between the same parallels have equal areas (same base and same height).",
+    "ncert_page": 211,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch14_q05",
+    "chapter_id": "c9m_ch14",
+    "question": "A median of a triangle divides the triangle into two triangles of:",
+    "options": [
+      "Equal perimeters",
+      "Unequal areas",
+      "Equal areas",
+      "Different shapes"
+    ],
+    "correct_index": 2,
+    "explanation": "A median divides a triangle into two triangles that have equal areas (each has half the area of the original triangle).",
+    "ncert_page": 214,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch14_q06",
+    "chapter_id": "c9m_ch14",
+    "question": "The area of triangle ABD where D is the midpoint of BC in triangle ABC with area 48 sq cm is:",
+    "options": [
+      "48 sq cm",
+      "24 sq cm",
+      "12 sq cm",
+      "16 sq cm"
+    ],
+    "correct_index": 1,
+    "explanation": "The median from A to BC at midpoint D divides triangle ABC into two equal-area triangles. Area of ABD = 48/2 = 24 sq cm.",
+    "ncert_page": 214,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch14_q07",
+    "chapter_id": "c9m_ch14",
+    "question": "If a parallelogram and a rectangle have the same base and are between the same parallels, then:",
+    "options": [
+      "Parallelogram has more area",
+      "Rectangle has more area",
+      "They have equal areas",
+      "Cannot be determined"
+    ],
+    "correct_index": 2,
+    "explanation": "Both figures have the same base and height (same parallels), so they have equal areas, regardless of the shape's angles.",
+    "ncert_page": 208,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch14_q08",
+    "chapter_id": "c9m_ch14",
+    "question": "In a parallelogram ABCD, diagonal AC divides it into triangles ABC and ACD. What is the relationship between their areas?",
+    "options": [
+      "Area of ABC = 2 × Area of ACD",
+      "Area of ABC = Area of ACD",
+      "Area of ABC > Area of ACD",
+      "Cannot be determined"
+    ],
+    "correct_index": 1,
+    "explanation": "The diagonal of a parallelogram divides it into two congruent triangles, so they have equal areas.",
+    "ncert_page": 206,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch14_q09",
+    "chapter_id": "c9m_ch14",
+    "question": "If two parallelograms are on equal bases and between the same parallels, their areas are:",
+    "options": [
+      "Unequal",
+      "Equal",
+      "In ratio 2:1",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "Parallelograms on equal bases and between the same parallels (same height) have equal areas: Area = Base × Height.",
+    "ncert_page": 209,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch14_q10",
+    "chapter_id": "c9m_ch14",
+    "question": "ABCD is a parallelogram and P is any point on BC. If the area of ABCD is 80 sq cm, then the area of triangle APD is:",
+    "options": [
+      "80 sq cm",
+      "20 sq cm",
+      "40 sq cm",
+      "60 sq cm"
+    ],
+    "correct_index": 2,
+    "explanation": "Triangle APD has base AD (same as parallelogram's base) and height equal to the distance between the parallels. Its area = ½ × base × height = ½ × area of ABCD = 40 sq cm.",
+    "ncert_page": 213,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

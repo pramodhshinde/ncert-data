@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c10m_ch02_q01",
+    "chapter_id": "c10m_ch02",
+    "question": "A polynomial of degree 2 is called:",
+    "options": [
+      "Linear",
+      "Quadratic",
+      "Cubic",
+      "Biquadratic"
+    ],
+    "correct_index": 1,
+    "explanation": "A polynomial with degree 2 is called a quadratic polynomial. E.g., ax²+bx+c where a≠0.",
+    "ncert_page": 24,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch02_q02",
+    "chapter_id": "c10m_ch02",
+    "question": "For a quadratic polynomial ax²+bx+c, sum of zeroes (α+β) = ?",
+    "options": [
+      "c/a",
+      "b/a",
+      "-b/a",
+      "-c/a"
+    ],
+    "correct_index": 2,
+    "explanation": "For quadratic polynomial ax²+bx+c, if α and β are zeroes: α+β = -b/a, and αβ = c/a.",
+    "ncert_page": 28,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch02_q03",
+    "chapter_id": "c10m_ch02",
+    "question": "The number of zeroes of the polynomial p(x) = x² - 1 are:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_index": 2,
+    "explanation": "x² - 1 = (x+1)(x-1) = 0 gives x = 1 and x = -1. So there are 2 zeroes.",
+    "ncert_page": 26,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch02_q04",
+    "chapter_id": "c10m_ch02",
+    "question": "If the zeroes of a quadratic polynomial are 3 and -2, the polynomial is:",
+    "options": [
+      "x²+x-6",
+      "x²-x-6",
+      "x²+5x-6",
+      "x²-5x+6"
+    ],
+    "correct_index": 1,
+    "explanation": "Sum of zeroes = 3+(-2) = 1, product = 3×(-2) = -6. Polynomial: x²-(sum)x+product = x²-1x-6 = x²-x-6.",
+    "ncert_page": 30,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch02_q05",
+    "chapter_id": "c10m_ch02",
+    "question": "The zeroes of the polynomial p(x) = 2x² + 7x + 3 are:",
+    "options": [
+      "−1/2 and −3",
+      "1/2 and 3",
+      "−1/2 and 3",
+      "-3 and 1/2"
+    ],
+    "correct_index": 0,
+    "explanation": "2x²+7x+3 = 2x²+6x+x+3 = 2x(x+3)+1(x+3) = (2x+1)(x+3). Zeroes: x = -1/2 and x = -3.",
+    "ncert_page": 32,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch02_q06",
+    "chapter_id": "c10m_ch02",
+    "question": "Product of zeroes of ax²+bx+c is:",
+    "options": [
+      "a/c",
+      "b/a",
+      "c/a",
+      "-b/a"
+    ],
+    "correct_index": 2,
+    "explanation": "For quadratic polynomial ax²+bx+c: αβ = c/a (product of zeroes = constant term/leading coefficient).",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch02_q07",
+    "chapter_id": "c10m_ch02",
+    "question": "What is the maximum number of zeroes of a cubic polynomial?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 2,
+    "explanation": "A polynomial of degree n has at most n zeroes. A cubic polynomial (degree 3) has at most 3 zeroes.",
+    "ncert_page": 25,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch02_q08",
+    "chapter_id": "c10m_ch02",
+    "question": "Geometrically, zeroes of a polynomial f(x) are the x-coordinates where the graph of y=f(x) intersects:",
+    "options": [
+      "The y-axis",
+      "The x-axis",
+      "Any line",
+      "The origin only"
+    ],
+    "correct_index": 1,
+    "explanation": "Zeroes of a polynomial are the values of x where f(x)=0, which means the graph y=f(x) crosses or touches the x-axis.",
+    "ncert_page": 27,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch02_q09",
+    "chapter_id": "c10m_ch02",
+    "question": "If one zero of the polynomial 3x²-8x+k is 2, then k = ?",
+    "options": [
+      "4",
+      "-4",
+      "4/3",
+      "-4/3"
+    ],
+    "correct_index": 0,
+    "explanation": "p(2) = 0: 3(4)-8(2)+k = 0 → 12-16+k = 0 → k = 4.",
+    "ncert_page": 33,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c10m_ch02_q10",
+    "chapter_id": "c10m_ch02",
+    "question": "A quadratic polynomial with sum of zeroes 3 and product of zeroes -10 is:",
+    "options": [
+      "x²+3x-10",
+      "x²-3x-10",
+      "x²-3x+10",
+      "x²+3x+10"
+    ],
+    "correct_index": 1,
+    "explanation": "Polynomial = x² - (sum)x + product = x² - 3x + (-10) = x² - 3x - 10.",
+    "ncert_page": 30,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  }
+]

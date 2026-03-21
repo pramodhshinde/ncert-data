@@ -1,0 +1,72 @@
+[
+  {
+    "chapter_id": "c10ec_ch01",
+    "book_id": "class10_economics_en",
+    "number": 1,
+    "title": "Development",
+    "page_start": 1,
+    "page_end": 18,
+    "exercise_count": 4,
+    "size_mb": 0.9,
+    "pdf_url": "https://ncert.nic.in/textbook/pdf/jeec101.pdf",
+    "solutions_url": "",
+    "mcq_url": "",
+    "notes_url": ""
+  },
+  {
+    "chapter_id": "c10ec_ch02",
+    "book_id": "class10_economics_en",
+    "number": 2,
+    "title": "Sectors of the Indian Economy",
+    "page_start": 19,
+    "page_end": 40,
+    "exercise_count": 4,
+    "size_mb": 1,
+    "pdf_url": "https://ncert.nic.in/textbook/pdf/jeec102.pdf",
+    "solutions_url": "",
+    "mcq_url": "",
+    "notes_url": ""
+  },
+  {
+    "chapter_id": "c10ec_ch03",
+    "book_id": "class10_economics_en",
+    "number": 3,
+    "title": "Money and Credit",
+    "page_start": 41,
+    "page_end": 58,
+    "exercise_count": 4,
+    "size_mb": 0.9,
+    "pdf_url": "https://ncert.nic.in/textbook/pdf/jeec103.pdf",
+    "solutions_url": "",
+    "mcq_url": "",
+    "notes_url": ""
+  },
+  {
+    "chapter_id": "c10ec_ch04",
+    "book_id": "class10_economics_en",
+    "number": 4,
+    "title": "Globalisation and the Indian Economy",
+    "page_start": 59,
+    "page_end": 78,
+    "exercise_count": 4,
+    "size_mb": 1,
+    "pdf_url": "https://ncert.nic.in/textbook/pdf/jeec104.pdf",
+    "solutions_url": "",
+    "mcq_url": "",
+    "notes_url": ""
+  },
+  {
+    "chapter_id": "c10ec_ch05",
+    "book_id": "class10_economics_en",
+    "number": 5,
+    "title": "Consumer Rights",
+    "page_start": 79,
+    "page_end": 96,
+    "exercise_count": 4,
+    "size_mb": 0.9,
+    "pdf_url": "https://ncert.nic.in/textbook/pdf/jeec105.pdf",
+    "solutions_url": "",
+    "mcq_url": "",
+    "notes_url": ""
+  }
+]

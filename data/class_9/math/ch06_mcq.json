@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch06_q01",
+    "chapter_id": "c9m_ch06",
+    "question": "Two angles are said to be complementary if their sum is:",
+    "options": [
+      "90°",
+      "180°",
+      "360°",
+      "270°"
+    ],
+    "correct_index": 0,
+    "explanation": "Two angles are complementary when their sum equals 90°.",
+    "ncert_page": 122,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch06_q02",
+    "chapter_id": "c9m_ch06",
+    "question": "Two angles are said to be supplementary if their sum is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct_index": 1,
+    "explanation": "Two angles are supplementary when their sum equals 180°.",
+    "ncert_page": 122,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch06_q03",
+    "chapter_id": "c9m_ch06",
+    "question": "Vertically opposite angles are:",
+    "options": [
+      "Supplementary",
+      "Complementary",
+      "Equal",
+      "Unequal"
+    ],
+    "correct_index": 2,
+    "explanation": "When two lines intersect, the vertically opposite angles formed are always equal.",
+    "ncert_page": 125,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch06_q04",
+    "chapter_id": "c9m_ch06",
+    "question": "A transversal intersects two parallel lines. The alternate interior angles are:",
+    "options": [
+      "Supplementary",
+      "Equal",
+      "Complementary",
+      "Unequal"
+    ],
+    "correct_index": 1,
+    "explanation": "When a transversal cuts two parallel lines, alternate interior angles are equal. This is a key property of parallel lines.",
+    "ncert_page": 132,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch06_q05",
+    "chapter_id": "c9m_ch06",
+    "question": "The sum of all angles of a triangle is:",
+    "options": [
+      "90°",
+      "360°",
+      "180°",
+      "270°"
+    ],
+    "correct_index": 2,
+    "explanation": "The angle sum property of a triangle states that the sum of all three interior angles is always 180°.",
+    "ncert_page": 136,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch06_q06",
+    "chapter_id": "c9m_ch06",
+    "question": "If two lines are cut by a transversal and co-interior angles (same-side interior angles) are supplementary, then the lines are:",
+    "options": [
+      "Perpendicular",
+      "Parallel",
+      "Intersecting",
+      "Skew"
+    ],
+    "correct_index": 1,
+    "explanation": "If co-interior angles (also called consecutive interior angles) are supplementary (sum = 180°), then the two lines are parallel.",
+    "ncert_page": 132,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch06_q07",
+    "chapter_id": "c9m_ch06",
+    "question": "An exterior angle of a triangle equals:",
+    "options": [
+      "The sum of all interior angles",
+      "The sum of the two non-adjacent interior angles",
+      "The adjacent interior angle",
+      "Half the sum of interior angles"
+    ],
+    "correct_index": 1,
+    "explanation": "The Exterior Angle Theorem states that an exterior angle of a triangle equals the sum of the two remote (non-adjacent) interior angles.",
+    "ncert_page": 138,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch06_q08",
+    "chapter_id": "c9m_ch06",
+    "question": "If one angle of a linear pair is 65°, what is the other angle?",
+    "options": [
+      "65°",
+      "115°",
+      "25°",
+      "90°"
+    ],
+    "correct_index": 1,
+    "explanation": "Linear pair angles are supplementary (sum = 180°). So the other angle = 180° - 65° = 115°.",
+    "ncert_page": 124,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch06_q09",
+    "chapter_id": "c9m_ch06",
+    "question": "Corresponding angles formed by a transversal cutting two parallel lines are:",
+    "options": [
+      "Supplementary",
+      "Complementary",
+      "Equal",
+      "Vertically opposite"
+    ],
+    "correct_index": 2,
+    "explanation": "When a transversal intersects two parallel lines, corresponding angles (on the same side of the transversal) are equal.",
+    "ncert_page": 130,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch06_q10",
+    "chapter_id": "c9m_ch06",
+    "question": "In a triangle, if two angles are 55° and 75°, what is the third angle?",
+    "options": [
+      "50°",
+      "60°",
+      "70°",
+      "80°"
+    ],
+    "correct_index": 0,
+    "explanation": "Sum of angles in a triangle = 180°. Third angle = 180° - 55° - 75° = 50°.",
+    "ncert_page": 136,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  }
+]

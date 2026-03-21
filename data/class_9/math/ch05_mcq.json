@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch05_q01",
+    "chapter_id": "c9m_ch05",
+    "question": "Who introduced the systematic development of geometry using axioms and postulates?",
+    "options": [
+      "Pythagoras",
+      "Archimedes",
+      "Euclid",
+      "Newton"
+    ],
+    "correct_index": 2,
+    "explanation": "Euclid, the Greek mathematician, introduced geometry as a formal system in his famous work 'Elements' around 300 BC.",
+    "ncert_page": 106,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch05_q02",
+    "chapter_id": "c9m_ch05",
+    "question": "A statement that is accepted without proof is called a:",
+    "options": [
+      "Theorem",
+      "Corollary",
+      "Axiom",
+      "Conjecture"
+    ],
+    "correct_index": 2,
+    "explanation": "An axiom (or postulate) is a statement that is accepted as true without proof. Theorems are proved using axioms and previously proved statements.",
+    "ncert_page": 107,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch05_q03",
+    "chapter_id": "c9m_ch05",
+    "question": "According to Euclid, how many points are needed to determine a unique straight line?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_index": 1,
+    "explanation": "Euclid's first postulate states that a straight line may be drawn from any one point to any other point. Two points determine a unique line.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch05_q04",
+    "chapter_id": "c9m_ch05",
+    "question": "Which of the following are undefined terms in Euclid's geometry?",
+    "options": [
+      "Line, angle, plane",
+      "Point, line, plane",
+      "Circle, triangle, square",
+      "Angle, chord, arc"
+    ],
+    "correct_index": 1,
+    "explanation": "In Euclid's geometry, the terms point, line, and plane are taken as undefined because they are primitive concepts.",
+    "ncert_page": 107,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch05_q05",
+    "chapter_id": "c9m_ch05",
+    "question": "Euclid's second postulate states that a terminated line can be:",
+    "options": [
+      "Bisected",
+      "Produced indefinitely",
+      "Intersected",
+      "Rotated"
+    ],
+    "correct_index": 1,
+    "explanation": "Euclid's second postulate: A terminated line (line segment) can be produced indefinitely on either side.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch05_q06",
+    "chapter_id": "c9m_ch05",
+    "question": "If A, B, C are collinear and B lies between A and C, then AC = AB + BC. This is based on:",
+    "options": [
+      "Euclid's first axiom",
+      "Euclid's fourth postulate",
+      "Euclid's second axiom",
+      "Euclid's third axiom"
+    ],
+    "correct_index": 1,
+    "explanation": "Euclid's second axiom states that if equals are added to equals, the wholes are equal. Here AC = AB + BC follows from the definition of betweenness and axioms.",
+    "ncert_page": 108,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch05_q07",
+    "chapter_id": "c9m_ch05",
+    "question": "How many lines can pass through two distinct points?",
+    "options": [
+      "One and only one",
+      "Two",
+      "Infinite",
+      "Zero"
+    ],
+    "correct_index": 0,
+    "explanation": "Through two distinct points, one and only one straight line can be drawn. This is one of Euclid's postulates.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch05_q08",
+    "chapter_id": "c9m_ch05",
+    "question": "A theorem is a:",
+    "options": [
+      "Statement accepted without proof",
+      "Statement proved using axioms and previously proved statements",
+      "Undefined term in geometry",
+      "Postulate used in constructions"
+    ],
+    "correct_index": 1,
+    "explanation": "A theorem is a mathematical statement that is proved using axioms, postulates, and previously proved theorems.",
+    "ncert_page": 107,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch05_q09",
+    "chapter_id": "c9m_ch05",
+    "question": "Euclid's fifth postulate is about:",
+    "options": [
+      "Drawing circles",
+      "Parallel lines",
+      "Right angles",
+      "Line segments"
+    ],
+    "correct_index": 1,
+    "explanation": "Euclid's fifth postulate deals with parallel lines: if a transversal falls on two lines such that the sum of interior angles on one side is less than two right angles, the lines will meet on that side.",
+    "ncert_page": 110,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch05_q10",
+    "chapter_id": "c9m_ch05",
+    "question": "According to Euclid, 'The whole is greater than the part.' This is:",
+    "options": [
+      "A theorem",
+      "A postulate",
+      "An axiom",
+      "A definition"
+    ],
+    "correct_index": 2,
+    "explanation": "Euclid's fifth axiom (common notion) states: The whole is greater than the part. This is taken as universally true without proof.",
+    "ncert_page": 108,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

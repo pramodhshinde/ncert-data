@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch15_q01",
+    "chapter_id": "c9m_ch15",
+    "question": "Which instrument is used to bisect a given angle?",
+    "options": [
+      "Ruler and protractor",
+      "Compass and ruler",
+      "Protractor only",
+      "Set square"
+    ],
+    "correct_index": 1,
+    "explanation": "A compass and straightedge (ruler) are used to construct the bisector of an angle geometrically.",
+    "ncert_page": 255,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch15_q02",
+    "chapter_id": "c9m_ch15",
+    "question": "What is the measure of each angle of an equilateral triangle?",
+    "options": [
+      "90°",
+      "45°",
+      "60°",
+      "30°"
+    ],
+    "correct_index": 2,
+    "explanation": "An equilateral triangle has all sides equal and all angles equal. Sum of angles = 180°, so each angle = 60°.",
+    "ncert_page": 257,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch15_q03",
+    "chapter_id": "c9m_ch15",
+    "question": "To construct a 90° angle, we first construct:",
+    "options": [
+      "A 45° angle and double it",
+      "A 60° angle",
+      "A perpendicular bisector of a line segment",
+      "A 30° angle and triple it"
+    ],
+    "correct_index": 2,
+    "explanation": "A 90° angle is constructed by drawing the perpendicular bisector of a line segment, which creates a right angle.",
+    "ncert_page": 258,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch15_q04",
+    "chapter_id": "c9m_ch15",
+    "question": "To construct a 60° angle, we use the property that:",
+    "options": [
+      "The equilateral triangle has 60° angles",
+      "Bisecting 120° gives 60°",
+      "The perpendicular makes 60°",
+      "All of the above"
+    ],
+    "correct_index": 0,
+    "explanation": "A 60° angle is constructed using the equilateral triangle property — with compass set to the line length, the arc intersection gives exactly 60°.",
+    "ncert_page": 257,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch15_q05",
+    "chapter_id": "c9m_ch15",
+    "question": "A 45° angle is constructed by:",
+    "options": [
+      "Bisecting a 60° angle",
+      "Bisecting a 90° angle",
+      "Trisecting a 135° angle",
+      "Bisecting a 30° angle"
+    ],
+    "correct_index": 1,
+    "explanation": "A 45° angle is constructed by first constructing a 90° angle and then bisecting it using a compass.",
+    "ncert_page": 260,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch15_q06",
+    "chapter_id": "c9m_ch15",
+    "question": "The perpendicular bisector of a line segment is a line that:",
+    "options": [
+      "Is parallel to the segment",
+      "Divides the segment into unequal parts",
+      "Is perpendicular to the segment and bisects it",
+      "Only passes through one endpoint"
+    ],
+    "correct_index": 2,
+    "explanation": "A perpendicular bisector is a line that is perpendicular to the given segment and passes through its midpoint, dividing it into two equal halves.",
+    "ncert_page": 254,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch15_q07",
+    "chapter_id": "c9m_ch15",
+    "question": "To construct a triangle with given base, base angle, and sum of other two sides, which of the following conditions must hold?",
+    "options": [
+      "The sum of the two sides must be less than the base",
+      "The sum of the two sides must equal the base",
+      "The sum of the two sides must be greater than the base",
+      "No condition required"
+    ],
+    "correct_index": 2,
+    "explanation": "By the triangle inequality, the sum of any two sides of a triangle must be greater than the third side. So the sum of the other two sides must exceed the base.",
+    "ncert_page": 262,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch15_q08",
+    "chapter_id": "c9m_ch15",
+    "question": "How many arcs are drawn from both ends of a line segment to construct its perpendicular bisector?",
+    "options": [
+      "One from each end (2 total)",
+      "Two from each end (4 total)",
+      "One from one end only",
+      "Three total"
+    ],
+    "correct_index": 0,
+    "explanation": "To construct a perpendicular bisector, one arc is drawn from each endpoint using the same radius (greater than half the segment length). The two arcs intersect at two points, and joining these gives the perpendicular bisector.",
+    "ncert_page": 254,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch15_q09",
+    "chapter_id": "c9m_ch15",
+    "question": "A 30° angle can be constructed by:",
+    "options": [
+      "Bisecting a 45° angle",
+      "Bisecting a 60° angle",
+      "Trisecting a 90° angle",
+      "Bisecting a 120° angle"
+    ],
+    "correct_index": 1,
+    "explanation": "A 30° angle is constructed by first constructing a 60° angle and then bisecting it: 60° ÷ 2 = 30°.",
+    "ncert_page": 260,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch15_q10",
+    "chapter_id": "c9m_ch15",
+    "question": "To construct a triangle given its base, difference of the other two sides, and one base angle, the difference of the two sides must be:",
+    "options": [
+      "Greater than the base",
+      "Equal to the base",
+      "Less than the base",
+      "Zero"
+    ],
+    "correct_index": 2,
+    "explanation": "For a valid triangle construction with base b and difference d of other two sides, we need d < b (otherwise no triangle can be formed with those constraints).",
+    "ncert_page": 265,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

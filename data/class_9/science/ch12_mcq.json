@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9s_ch12_q01",
+    "chapter_id": "c9s_ch12",
+    "question": "Sound is produced by:",
+    "options": [
+      "Light waves",
+      "Vibrating objects",
+      "Static objects",
+      "Electric fields"
+    ],
+    "correct_index": 1,
+    "explanation": "Sound is produced by the vibration of objects. When an object vibrates, it creates pressure variations in the surrounding medium which travel as sound waves.",
+    "ncert_page": 247,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch12_q02",
+    "chapter_id": "c9s_ch12",
+    "question": "Sound waves are:",
+    "options": [
+      "Transverse waves",
+      "Longitudinal waves",
+      "Electromagnetic waves",
+      "Surface waves"
+    ],
+    "correct_index": 1,
+    "explanation": "Sound waves are longitudinal waves — the particles of the medium vibrate in the same direction as the propagation of the wave, creating compressions and rarefactions.",
+    "ncert_page": 248,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch12_q03",
+    "chapter_id": "c9s_ch12",
+    "question": "The range of frequencies audible to human ears is:",
+    "options": [
+      "20 Hz to 20,000 Hz",
+      "2 Hz to 2000 Hz",
+      "200 Hz to 200,000 Hz",
+      "0 Hz to 10,000 Hz"
+    ],
+    "correct_index": 0,
+    "explanation": "The normal human ear can hear sounds in the frequency range of 20 Hz to 20,000 Hz (20 kHz). Below 20 Hz is infrasound; above 20 kHz is ultrasound.",
+    "ncert_page": 258,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch12_q04",
+    "chapter_id": "c9s_ch12",
+    "question": "The pitch of a sound is determined by its:",
+    "options": [
+      "Amplitude",
+      "Frequency",
+      "Wavelength",
+      "Speed"
+    ],
+    "correct_index": 1,
+    "explanation": "Pitch is the characteristic of sound that depends on its frequency. Higher frequency = higher pitch; lower frequency = lower pitch.",
+    "ncert_page": 252,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch12_q05",
+    "chapter_id": "c9s_ch12",
+    "question": "An echo is heard when sound reflects from a surface. The minimum distance required to hear an echo (at 20°C) is approximately:",
+    "options": [
+      "7 m",
+      "17 m",
+      "27 m",
+      "37 m"
+    ],
+    "correct_index": 1,
+    "explanation": "For an echo to be heard separately, the reflecting surface must be at least 17.2 m away (speed of sound ≈ 344 m/s, minimum time between original and echo for human ear ≈ 0.1 s, so distance = 344 × 0.1 / 2 ≈ 17.2 m).",
+    "ncert_page": 256,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch12_q06",
+    "chapter_id": "c9s_ch12",
+    "question": "SONAR stands for:",
+    "options": [
+      "Sound Navigation and Ranging",
+      "Sound of Nature and Range",
+      "System of Navigation and Ranging",
+      "Signal of Nature and Radio"
+    ],
+    "correct_index": 0,
+    "explanation": "SONAR stands for Sound Navigation And Ranging. It uses ultrasonic waves to detect objects underwater by measuring the time taken for reflected waves to return.",
+    "ncert_page": 261,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch12_q07",
+    "chapter_id": "c9s_ch12",
+    "question": "The loudness of sound depends on its:",
+    "options": [
+      "Frequency",
+      "Wavelength",
+      "Amplitude",
+      "Speed"
+    ],
+    "correct_index": 2,
+    "explanation": "Loudness of sound depends on the amplitude of the sound wave. Greater amplitude = louder sound. Loudness is measured in decibels (dB).",
+    "ncert_page": 253,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch12_q08",
+    "chapter_id": "c9s_ch12",
+    "question": "Sound travels fastest in:",
+    "options": [
+      "Vacuum",
+      "Air",
+      "Water",
+      "Steel"
+    ],
+    "correct_index": 3,
+    "explanation": "Speed of sound is highest in solids, lower in liquids, and lowest in gases. Sound cannot travel in vacuum. Steel ≈ 5100 m/s, Water ≈ 1500 m/s, Air ≈ 344 m/s.",
+    "ncert_page": 249,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch12_q09",
+    "chapter_id": "c9s_ch12",
+    "question": "Ultrasound is used in medical imaging because:",
+    "options": [
+      "It is visible to the human eye",
+      "It has frequency above 20,000 Hz and can penetrate tissues safely",
+      "It travels only in air",
+      "It has very low frequency"
+    ],
+    "correct_index": 1,
+    "explanation": "Ultrasound (frequency > 20,000 Hz) is used in sonography as it can penetrate body tissues safely, and the reflected waves form images of internal organs.",
+    "ncert_page": 260,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c9s_ch12_q10",
+    "chapter_id": "c9s_ch12",
+    "question": "The quality (timbre) of sound helps us distinguish between sounds of the same pitch and loudness from different sources. It depends on:",
+    "options": [
+      "Speed of sound",
+      "Amplitude only",
+      "Waveform (presence of overtones)",
+      "Frequency alone"
+    ],
+    "correct_index": 2,
+    "explanation": "Quality or timbre of sound is determined by the waveform, which reflects the presence of different overtones or harmonics produced along with the fundamental frequency.",
+    "ncert_page": 254,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

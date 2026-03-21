@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c9m_ch08_q01",
+    "chapter_id": "c9m_ch08",
+    "question": "The sum of all interior angles of a quadrilateral is:",
+    "options": [
+      "180°",
+      "270°",
+      "360°",
+      "540°"
+    ],
+    "correct_index": 2,
+    "explanation": "The angle sum property of a quadrilateral states that the sum of all four interior angles is 360°.",
+    "ncert_page": 180,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch08_q02",
+    "chapter_id": "c9m_ch08",
+    "question": "Which of the following is NOT a property of a parallelogram?",
+    "options": [
+      "Opposite sides are equal",
+      "Opposite angles are equal",
+      "All angles are 90°",
+      "Diagonals bisect each other"
+    ],
+    "correct_index": 2,
+    "explanation": "All angles being 90° is a property of a rectangle, not a general parallelogram. A parallelogram only requires opposite angles to be equal.",
+    "ncert_page": 183,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch08_q03",
+    "chapter_id": "c9m_ch08",
+    "question": "In a parallelogram, opposite sides are:",
+    "options": [
+      "Perpendicular",
+      "Equal and parallel",
+      "Unequal",
+      "Bisecting each other"
+    ],
+    "correct_index": 1,
+    "explanation": "In a parallelogram, opposite sides are always equal in length and parallel to each other.",
+    "ncert_page": 183,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch08_q04",
+    "chapter_id": "c9m_ch08",
+    "question": "The diagonals of a parallelogram:",
+    "options": [
+      "Are equal",
+      "Are perpendicular",
+      "Bisect each other",
+      "Bisect the angles"
+    ],
+    "correct_index": 2,
+    "explanation": "In a parallelogram, the diagonals bisect each other, meaning they cut each other at their midpoints.",
+    "ncert_page": 185,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch08_q05",
+    "chapter_id": "c9m_ch08",
+    "question": "According to the Mid-point Theorem, the line joining the mid-points of two sides of a triangle is:",
+    "options": [
+      "Equal to the third side",
+      "Parallel to the third side and half its length",
+      "Perpendicular to the third side",
+      "Twice the third side"
+    ],
+    "correct_index": 1,
+    "explanation": "The Mid-point Theorem states that the line segment joining the midpoints of two sides of a triangle is parallel to the third side and half of its length.",
+    "ncert_page": 196,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch08_q06",
+    "chapter_id": "c9m_ch08",
+    "question": "In parallelogram ABCD, if ∠A = 70°, then ∠B = ?",
+    "options": [
+      "70°",
+      "110°",
+      "140°",
+      "90°"
+    ],
+    "correct_index": 1,
+    "explanation": "In a parallelogram, consecutive angles are supplementary. So ∠B = 180° - ∠A = 180° - 70° = 110°.",
+    "ncert_page": 184,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch08_q07",
+    "chapter_id": "c9m_ch08",
+    "question": "Which quadrilateral has all sides equal and all angles equal to 90°?",
+    "options": [
+      "Rhombus",
+      "Rectangle",
+      "Square",
+      "Trapezium"
+    ],
+    "correct_index": 2,
+    "explanation": "A square has all four sides equal and all four angles equal to 90°. A rhombus has equal sides but not necessarily 90° angles.",
+    "ncert_page": 187,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch08_q08",
+    "chapter_id": "c9m_ch08",
+    "question": "A quadrilateral with exactly one pair of parallel sides is called a:",
+    "options": [
+      "Parallelogram",
+      "Rectangle",
+      "Trapezium",
+      "Rhombus"
+    ],
+    "correct_index": 2,
+    "explanation": "A trapezium (trapezoid) is a quadrilateral with exactly one pair of parallel sides, called the bases.",
+    "ncert_page": 180,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch08_q09",
+    "chapter_id": "c9m_ch08",
+    "question": "If the diagonals of a quadrilateral bisect each other, then it is a:",
+    "options": [
+      "Trapezium",
+      "Kite",
+      "Parallelogram",
+      "Rectangle only"
+    ],
+    "correct_index": 2,
+    "explanation": "A quadrilateral is a parallelogram if and only if its diagonals bisect each other. This is a key theorem.",
+    "ncert_page": 185,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c9m_ch08_q10",
+    "chapter_id": "c9m_ch08",
+    "question": "In parallelogram ABCD, if one angle is 90°, then the quadrilateral is necessarily a:",
+    "options": [
+      "Square",
+      "Rhombus",
+      "Rectangle",
+      "Trapezium"
+    ],
+    "correct_index": 2,
+    "explanation": "If one angle of a parallelogram is 90°, then all angles are 90° (since opposite angles are equal and consecutive angles are supplementary), making it a rectangle.",
+    "ncert_page": 187,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]
