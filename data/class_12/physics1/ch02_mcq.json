@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c12p_ch02_q01",
+    "chapter_id": "c12p1_ch02",
+    "question": "The work done in moving a unit positive charge from one point to another against the electric field is called:",
+    "options": [
+      "Electric current",
+      "Electric flux",
+      "Electric potential difference",
+      "Electric field intensity"
+    ],
+    "correct_index": 2,
+    "explanation": "Electric potential difference (V) is the work done per unit positive charge in moving it from one point to another against the electric field. V = W/q.",
+    "ncert_page": 46,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q02",
+    "chapter_id": "c12p1_ch02",
+    "question": "The SI unit of electric potential is:",
+    "options": [
+      "Joule",
+      "Coulomb",
+      "Volt",
+      "Tesla"
+    ],
+    "correct_index": 2,
+    "explanation": "The SI unit of electric potential is Volt (V). 1 V = 1 J/C (1 joule per coulomb).",
+    "ncert_page": 48,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q03",
+    "chapter_id": "c12p1_ch02",
+    "question": "An equipotential surface is a surface on which:",
+    "options": [
+      "Electric field is constant",
+      "Electric potential is constant",
+      "Electric charge is distributed uniformly",
+      "Electric field lines are parallel"
+    ],
+    "correct_index": 1,
+    "explanation": "An equipotential surface is one on which the electric potential is the same at every point. No work is done in moving a charge along an equipotential surface.",
+    "ncert_page": 54,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q04",
+    "chapter_id": "c12p1_ch02",
+    "question": "The capacitance of a parallel plate capacitor increases when:",
+    "options": [
+      "Distance between plates increases",
+      "Area of plates decreases",
+      "A dielectric is inserted between plates",
+      "Voltage across it increases"
+    ],
+    "correct_index": 2,
+    "explanation": "C = Kε₀A/d. Inserting a dielectric of dielectric constant K > 1 increases capacitance. Increasing d or decreasing A decreases capacitance.",
+    "ncert_page": 74,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q05",
+    "chapter_id": "c12p1_ch02",
+    "question": "Energy stored in a capacitor of capacitance C charged to potential V is:",
+    "options": [
+      "CV",
+      "CV²",
+      "½CV²",
+      "2CV²"
+    ],
+    "correct_index": 2,
+    "explanation": "Energy stored in a capacitor: U = ½CV² = Q²/2C = QV/2, where Q = CV is the charge on the capacitor.",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q06",
+    "chapter_id": "c12p1_ch02",
+    "question": "When capacitors are connected in series, the equivalent capacitance is:",
+    "options": [
+      "Sum of all capacitances",
+      "Greater than each individual capacitance",
+      "Less than the smallest capacitance",
+      "Product divided by sum (only for two)"
+    ],
+    "correct_index": 2,
+    "explanation": "For capacitors in series: 1/C_eq = 1/C₁ + 1/C₂ + ... The equivalent capacitance is less than the smallest individual capacitance.",
+    "ncert_page": 82,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q07",
+    "chapter_id": "c12p1_ch02",
+    "question": "The electric potential at a distance r from a point charge Q is:",
+    "options": [
+      "kQ/r²",
+      "kQ/r",
+      "kQ²/r",
+      "Q/4πε₀r²"
+    ],
+    "correct_index": 1,
+    "explanation": "Electric potential V = kQ/r = Q/4πε₀r. Note that potential varies as 1/r while electric field varies as 1/r².",
+    "ncert_page": 50,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q08",
+    "chapter_id": "c12p1_ch02",
+    "question": "A dielectric is an insulating material. When placed in an electric field, it gets:",
+    "options": [
+      "Magnetised",
+      "Charged",
+      "Polarised",
+      "Ionised"
+    ],
+    "correct_index": 2,
+    "explanation": "When a dielectric is placed in an electric field, it gets polarised — the positive and negative charges within molecules separate slightly, creating electric dipoles.",
+    "ncert_page": 70,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q09",
+    "chapter_id": "c12p1_ch02",
+    "question": "The total charge stored on two capacitors C₁ and C₂ connected in parallel is:",
+    "options": [
+      "Same as on a single capacitor C₁",
+      "Q₁ + Q₂",
+      "Q₁ × Q₂",
+      "Q₁ / Q₂"
+    ],
+    "correct_index": 1,
+    "explanation": "In parallel connection, total charge Q = Q₁ + Q₂, and both capacitors have the same potential V. C_eq = C₁ + C₂.",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch02_q10",
+    "chapter_id": "c12p1_ch02",
+    "question": "The electric potential inside a uniformly charged hollow sphere is:",
+    "options": [
+      "Zero",
+      "Equal to that on the surface",
+      "Greater than on the surface",
+      "Less than on the surface"
+    ],
+    "correct_index": 1,
+    "explanation": "Inside a uniformly charged hollow sphere, the electric field is zero. Since E = -dV/dr = 0, V is constant inside and equals the potential at the surface.",
+    "ncert_page": 62,
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]

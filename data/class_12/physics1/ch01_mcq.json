@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c12p_ch01_q01",
+    "chapter_id": "c12p1_ch01",
+    "question": "The SI unit of electric charge is:",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Tesla"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of electric charge is Coulomb (C). 1 Coulomb = charge carried by 6.25 × 10¹⁸ electrons.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q02",
+    "chapter_id": "c12p1_ch01",
+    "question": "Coulomb's law gives the force between two point charges. The force is:",
+    "options": [
+      "Inversely proportional to distance",
+      "Inversely proportional to square of distance",
+      "Directly proportional to square of distance",
+      "Directly proportional to distance"
+    ],
+    "correct_index": 1,
+    "explanation": "According to Coulomb's law, F = kq₁q₂/r². The force is inversely proportional to the square of the distance between the charges.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q03",
+    "chapter_id": "c12p1_ch01",
+    "question": "The electric field due to a point charge varies as:",
+    "options": [
+      "1/r",
+      "1/r²",
+      "r",
+      "r²"
+    ],
+    "correct_index": 1,
+    "explanation": "Electric field E = kQ/r². It is inversely proportional to the square of the distance from the point charge.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q04",
+    "chapter_id": "c12p1_ch01",
+    "question": "Which of the following is NOT a property of electric field lines?",
+    "options": [
+      "They originate from positive charges",
+      "They terminate on negative charges",
+      "They can intersect each other",
+      "They do not pass through conductors in static conditions"
+    ],
+    "correct_index": 2,
+    "explanation": "Electric field lines can NEVER intersect each other. If they did, it would imply two directions for the electric field at the same point, which is impossible.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q05",
+    "chapter_id": "c12p1_ch01",
+    "question": "The value of Coulomb's constant k (= 1/4πε₀) is approximately:",
+    "options": [
+      "9 × 10⁹ N m² C⁻²",
+      "9 × 10⁶ N m² C⁻²",
+      "9 × 10¹² N m² C⁻²",
+      "6.67 × 10⁻¹¹ N m² C⁻²"
+    ],
+    "correct_index": 0,
+    "explanation": "k = 1/4πε₀ ≈ 9 × 10⁹ N m² C⁻². This is distinct from G = 6.67 × 10⁻¹¹ N m² kg⁻² (gravitational constant).",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q06",
+    "chapter_id": "c12p1_ch01",
+    "question": "An electric dipole consists of:",
+    "options": [
+      "Two positive charges",
+      "Two negative charges",
+      "Equal and opposite charges separated by a distance",
+      "A single charge"
+    ],
+    "correct_index": 2,
+    "explanation": "An electric dipole consists of two equal and opposite charges (+q and -q) separated by a small distance 2a. Dipole moment p = q × 2a.",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q07",
+    "chapter_id": "c12p1_ch01",
+    "question": "Gauss's law states that the total electric flux through a closed surface is:",
+    "options": [
+      "Zero always",
+      "Q/ε₀, where Q is enclosed charge",
+      "4πkQ",
+      "Q × ε₀"
+    ],
+    "correct_index": 1,
+    "explanation": "Gauss's law: Φ = Q_enclosed/ε₀. The total electric flux through any closed surface equals the net charge enclosed divided by ε₀.",
+    "ncert_page": 35,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q08",
+    "chapter_id": "c12p1_ch01",
+    "question": "Inside a charged hollow spherical conductor, the electric field is:",
+    "options": [
+      "Maximum",
+      "Uniform",
+      "Zero",
+      "Depends on position"
+    ],
+    "correct_index": 2,
+    "explanation": "Inside a hollow spherical conductor (or any conductor), the electric field is zero. All the charge resides on the outer surface.",
+    "ncert_page": 38,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q09",
+    "chapter_id": "c12p1_ch01",
+    "question": "The charge on one electron is approximately:",
+    "options": [
+      "1.6 × 10⁻¹⁹ C",
+      "9.1 × 10⁻³¹ C",
+      "1.6 × 10⁻²⁷ C",
+      "6.67 × 10⁻¹¹ C"
+    ],
+    "correct_index": 0,
+    "explanation": "The charge on one electron = 1.6 × 10⁻¹⁹ C (negative for electron, positive for proton). This is the elementary charge 'e'.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c12p_ch01_q10",
+    "chapter_id": "c12p1_ch01",
+    "question": "Two equal positive charges repel each other. If the distance between them is halved, the force becomes:",
+    "options": [
+      "Half",
+      "Double",
+      "4 times",
+      "One-fourth"
+    ],
+    "correct_index": 2,
+    "explanation": "F = kq²/r². If r → r/2, F = kq²/(r/2)² = 4kq²/r² = 4F. The force becomes 4 times.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Physics"
+  }
+]

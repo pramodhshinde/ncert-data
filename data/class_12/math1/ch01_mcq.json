@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c12math_ch01_q01",
+    "chapter_id": "c12math1_ch01",
+    "question": "A relation R on set A is said to be reflexive if:",
+    "options": [
+      "aRb ⟹ bRa",
+      "aRb and bRc ⟹ aRc",
+      "aRa for all a ∈ A",
+      "None of these"
+    ],
+    "correct_index": 2,
+    "explanation": "A relation R on set A is reflexive if every element is related to itself, i.e., (a,a) ∈ R for all a ∈ A.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c12math_ch01_q02",
+    "chapter_id": "c12math1_ch01",
+    "question": "An equivalence relation must be:",
+    "options": [
+      "Reflexive only",
+      "Symmetric only",
+      "Reflexive and symmetric only",
+      "Reflexive, symmetric, and transitive"
+    ],
+    "correct_index": 3,
+    "explanation": "A relation is an equivalence relation if and only if it is reflexive, symmetric, AND transitive. All three properties are required.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c12math_ch01_q03",
+    "chapter_id": "c12math1_ch01",
+    "question": "A function f: A → B is one-one (injective) if:",
+    "options": [
+      "Every element of B has exactly one pre-image",
+      "Different elements of A have different images",
+      "f(a) = f(b) ⟹ a = b",
+      "Both (B) and (C)"
+    ],
+    "correct_index": 3,
+    "explanation": "A function is injective (one-one) if distinct elements of A have distinct images in B, i.e., f(a) = f(b) ⟹ a = b.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c12math_ch01_q04",
+    "chapter_id": "c12math1_ch01",
+    "question": "f: R → R defined by f(x) = x² is:",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither one-one nor onto"
+    ],
+    "correct_index": 3,
+    "explanation": "f(x)=x²: not one-one (f(-1)=f(1)=1, different inputs same output), not onto (negative values have no pre-image in R). So neither.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c12math_ch01_q05",
+    "chapter_id": "c12math1_ch01",
+    "question": "The number of bijections from a set with n elements to itself is:",
+    "options": [
+      "n",
+      "n²",
+      "n!",
+      "2ⁿ"
+    ],
+    "correct_index": 2,
+    "explanation": "The number of bijective functions (permutations) from a set of n elements to itself is n! (n factorial).",
+    "ncert_page": 22,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c12math_ch01_q06",
+    "chapter_id": "c12math1_ch01",
+    "question": "If f(x) = 2x + 3 and g(x) = x², then (gof)(x) = ?",
+    "options": [
+      "2x² + 3",
+      "(2x+3)²",
+      "4x² + 12x + 9",
+      "2x² + 3x"
+    ],
+    "correct_index": 2,
+    "explanation": "(gof)(x) = g(f(x)) = g(2x+3) = (2x+3)² = 4x² + 12x + 9.",
+    "ncert_page": 24,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c12math_ch01_q07",
+    "chapter_id": "c12math1_ch01",
+    "question": "A function f is invertible if and only if it is:",
+    "options": [
+      "One-one",
+      "Onto",
+      "One-one and onto (bijective)",
+      "Neither one-one nor onto"
+    ],
+    "correct_index": 2,
+    "explanation": "A function f: A → B is invertible if and only if it is bijective (one-one AND onto). Only then can we define f⁻¹: B → A.",
+    "ncert_page": 26,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c12math_ch01_q08",
+    "chapter_id": "c12math1_ch01",
+    "question": "If R = {(1,2), (2,3), (3,1)} on A = {1,2,3}, is R transitive?",
+    "options": [
+      "Yes",
+      "No",
+      "Cannot be determined",
+      "Depends on other elements"
+    ],
+    "correct_index": 1,
+    "explanation": "Check: 1R2 and 2R3 ⟹ need 1R3. But (1,3) ∉ R. Also 2R3 and 3R1 ⟹ need 2R1. But (2,1) ∉ R. So NOT transitive.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c12math_ch01_q09",
+    "chapter_id": "c12math1_ch01",
+    "question": "The function f: N → N defined by f(n) = n + 1 is:",
+    "options": [
+      "One-one and onto",
+      "One-one but not onto",
+      "Onto but not one-one",
+      "Neither"
+    ],
+    "correct_index": 1,
+    "explanation": "f(n)=n+1: one-one (different inputs give different outputs). Not onto (1 ∈ N has no pre-image, since n+1≥2 for n∈N).",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c12math_ch01_q10",
+    "chapter_id": "c12math1_ch01",
+    "question": "Binary operation * on a set A is commutative if:",
+    "options": [
+      "a*(b*c) = (a*b)*c",
+      "a*b = b*a for all a,b ∈ A",
+      "a*e = a for identity e",
+      "a*a⁻¹ = e"
+    ],
+    "correct_index": 1,
+    "explanation": "A binary operation * is commutative if a*b = b*a for all a, b in the set. The other options define associativity, identity, and inverse respectively.",
+    "ncert_page": 30,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]
