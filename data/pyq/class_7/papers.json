@@ -1,0 +1,149 @@
+[
+  {
+    "paper_id": "pyq_7_sci_2024",
+    "class_id": 7,
+    "subject": "Science",
+    "board": "CBSE",
+    "year": 2024,
+    "set": "Annual",
+    "exam_type": "Annual",
+    "month": "March",
+    "total_marks": 80,
+    "duration_min": 180,
+    "sections": [
+      "Section A: MCQ",
+      "Section B: Short Answer",
+      "Section C: Long Answer"
+    ],
+    "pdf_url": "",
+    "solutions_url": "",
+    "mcq_url": "",
+    "size_mb": 1.6
+  },
+  {
+    "paper_id": "pyq_7_math_2024",
+    "class_id": 7,
+    "subject": "Mathematics",
+    "board": "CBSE",
+    "year": 2024,
+    "set": "Annual",
+    "exam_type": "Annual",
+    "month": "March",
+    "total_marks": 80,
+    "duration_min": 180,
+    "sections": [
+      "Section A: MCQ",
+      "Section B: Short Answer",
+      "Section C: Long Answer"
+    ],
+    "pdf_url": "",
+    "solutions_url": "",
+    "mcq_url": "",
+    "size_mb": 1.5
+  },
+  {
+    "paper_id": "pyq_7_sst_2024",
+    "class_id": 7,
+    "subject": "Social Science",
+    "board": "CBSE",
+    "year": 2024,
+    "set": "Annual",
+    "exam_type": "Annual",
+    "month": "March",
+    "total_marks": 80,
+    "duration_min": 180,
+    "sections": [
+      "Section A: MCQ",
+      "Section B: Short Answer",
+      "Section C: Long Answer"
+    ],
+    "pdf_url": "",
+    "solutions_url": "",
+    "mcq_url": "",
+    "size_mb": 1.4
+  },
+  {
+    "paper_id": "pyq_7_sci_2023",
+    "class_id": 7,
+    "subject": "Science",
+    "board": "CBSE",
+    "year": 2023,
+    "set": "Annual",
+    "exam_type": "Annual",
+    "month": "March",
+    "total_marks": 80,
+    "duration_min": 180,
+    "sections": [
+      "Section A",
+      "Section B",
+      "Section C"
+    ],
+    "pdf_url": "",
+    "solutions_url": "",
+    "mcq_url": "",
+    "size_mb": 1.5
+  },
+  {
+    "paper_id": "pyq_7_math_2023",
+    "class_id": 7,
+    "subject": "Mathematics",
+    "board": "CBSE",
+    "year": 2023,
+    "set": "Annual",
+    "exam_type": "Annual",
+    "month": "March",
+    "total_marks": 80,
+    "duration_min": 180,
+    "sections": [
+      "Section A",
+      "Section B",
+      "Section C"
+    ],
+    "pdf_url": "",
+    "solutions_url": "",
+    "mcq_url": "",
+    "size_mb": 1.4
+  },
+  {
+    "paper_id": "pyq_7_sci_2022",
+    "class_id": 7,
+    "subject": "Science",
+    "board": "CBSE",
+    "year": 2022,
+    "set": "Annual",
+    "exam_type": "Annual",
+    "month": "March",
+    "total_marks": 80,
+    "duration_min": 180,
+    "sections": [
+      "Section A",
+      "Section B",
+      "Section C"
+    ],
+    "pdf_url": "",
+    "solutions_url": "",
+    "mcq_url": "",
+    "size_mb": 1.4
+  },
+  {
+    "paper_id": "pyq_7_math_2022",
+    "class_id": 7,
+    "subject": "Mathematics",
+    "board": "CBSE",
+    "year": 2022,
+    "set": "Annual",
+    "exam_type": "Annual",
+    "month": "March",
+    "total_marks": 80,
+    "duration_min": 180,
+    "sections": [
+      "Section A",
+      "Section B",
+      "Section C"
+    ],
+    "pdf_url": "",
+    "solutions_url": "",
+    "mcq_url": "",
+    "size_mb": 1.3
+  }
+]
