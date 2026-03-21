@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c2m_ch04_q01",
+    "chapter_id": "c2m_ch04",
+    "question": "How many tens are in 30?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "30 = 3 tens. Each ten has 10 ones.",
+    "ncert_page": 29,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch04_q02",
+    "chapter_id": "c2m_ch04",
+    "question": "What is the value of 4 tens?",
+    "options": [
+      "14",
+      "40",
+      "44",
+      "4"
+    ],
+    "correct_index": 1,
+    "explanation": "4 tens = 40.",
+    "ncert_page": 30,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch04_q03",
+    "chapter_id": "c2m_ch04",
+    "question": "Count: 10, 20, 30, 40, ___",
+    "options": [
+      "41",
+      "44",
+      "50",
+      "45"
+    ],
+    "correct_index": 2,
+    "explanation": "Counting by tens: after 40 comes 50.",
+    "ncert_page": 31,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch04_q04",
+    "chapter_id": "c2m_ch04",
+    "question": "How many ones are in 2 tens?",
+    "options": [
+      "2",
+      "12",
+      "20",
+      "22"
+    ],
+    "correct_index": 2,
+    "explanation": "2 tens = 20, which has 20 ones.",
+    "ncert_page": 32,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch04_q05",
+    "chapter_id": "c2m_ch04",
+    "question": "5 tens = ___",
+    "options": [
+      "15",
+      "55",
+      "50",
+      "5"
+    ],
+    "correct_index": 2,
+    "explanation": "5 tens = 50.",
+    "ncert_page": 30,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch04_q06",
+    "chapter_id": "c2m_ch04",
+    "question": "Which number has 7 tens?",
+    "options": [
+      "7",
+      "17",
+      "70",
+      "77"
+    ],
+    "correct_index": 2,
+    "explanation": "70 = 7 tens and 0 ones.",
+    "ncert_page": 33,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch04_q07",
+    "chapter_id": "c2m_ch04",
+    "question": "How many tens are in 100?",
+    "options": [
+      "1",
+      "10",
+      "100",
+      "5"
+    ],
+    "correct_index": 1,
+    "explanation": "100 = 10 tens.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch04_q08",
+    "chapter_id": "c2m_ch04",
+    "question": "Count by 10s: 60, 70, ___",
+    "options": [
+      "75",
+      "80",
+      "90",
+      "71"
+    ],
+    "correct_index": 1,
+    "explanation": "Adding 10 to 70 gives 80.",
+    "ncert_page": 31,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch04_q09",
+    "chapter_id": "c2m_ch04",
+    "question": "3 tens and 0 ones = ___",
+    "options": [
+      "3",
+      "13",
+      "30",
+      "33"
+    ],
+    "correct_index": 2,
+    "explanation": "3 tens = 30.",
+    "ncert_page": 32,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch04_q10",
+    "chapter_id": "c2m_ch04",
+    "question": "Which number comes just after 90 when counting by 10s?",
+    "options": [
+      "91",
+      "95",
+      "100",
+      "99"
+    ],
+    "correct_index": 2,
+    "explanation": "Counting by tens: 90 + 10 = 100.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

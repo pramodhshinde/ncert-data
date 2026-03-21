@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c4m_ch07_q01",
+    "chapter_id": "c4m_ch07",
+    "question": "How many millilitres (ml) make 1 litre?",
+    "options": [
+      "10",
+      "100",
+      "500",
+      "1000"
+    ],
+    "correct_index": 3,
+    "explanation": "1 litre = 1000 millilitres.",
+    "ncert_page": 68,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch07_q02",
+    "chapter_id": "c4m_ch07",
+    "question": "A jug holds 1 litre. How many 250 ml glasses can be filled from it?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "10"
+    ],
+    "correct_index": 1,
+    "explanation": "1000 ml ÷ 250 ml = 4 glasses.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch07_q03",
+    "chapter_id": "c4m_ch07",
+    "question": "Half a litre is equal to:",
+    "options": [
+      "250 ml",
+      "500 ml",
+      "750 ml",
+      "100 ml"
+    ],
+    "correct_index": 1,
+    "explanation": "Half of 1000 ml = 500 ml.",
+    "ncert_page": 69,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch07_q04",
+    "chapter_id": "c4m_ch07",
+    "question": "A bottle has 2 litres of juice. You pour out 750 ml. How much is left?",
+    "options": [
+      "1250 ml",
+      "1000 ml",
+      "750 ml",
+      "1500 ml"
+    ],
+    "correct_index": 0,
+    "explanation": "2000 ml − 750 ml = 1250 ml.",
+    "ncert_page": 71,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch07_q05",
+    "chapter_id": "c4m_ch07",
+    "question": "A quarter of a litre is:",
+    "options": [
+      "400 ml",
+      "25 ml",
+      "250 ml",
+      "500 ml"
+    ],
+    "correct_index": 2,
+    "explanation": "A quarter (1/4) of 1000 ml = 250 ml.",
+    "ncert_page": 69,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch07_q06",
+    "chapter_id": "c4m_ch07",
+    "question": "Which unit is best for measuring water in a swimming pool?",
+    "options": [
+      "Millilitres",
+      "Litres",
+      "Kilometres",
+      "Grams"
+    ],
+    "correct_index": 1,
+    "explanation": "Large amounts of liquid like in a pool are measured in litres.",
+    "ncert_page": 68,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch07_q07",
+    "chapter_id": "c4m_ch07",
+    "question": "3 litres 500 ml = ___ ml",
+    "options": [
+      "350 ml",
+      "3050 ml",
+      "3500 ml",
+      "35000 ml"
+    ],
+    "correct_index": 2,
+    "explanation": "3 litres = 3000 ml, so 3000 + 500 = 3500 ml.",
+    "ncert_page": 69,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch07_q08",
+    "chapter_id": "c4m_ch07",
+    "question": "Capacity is the measure of how much _____ a container can hold.",
+    "options": [
+      "Weight",
+      "Length",
+      "Liquid",
+      "Area"
+    ],
+    "correct_index": 2,
+    "explanation": "Capacity tells us how much liquid (or material) a container can hold.",
+    "ncert_page": 67,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch07_q09",
+    "chapter_id": "c4m_ch07",
+    "question": "You need 5 litres of water and have 3 litres 200 ml. How much more do you need?",
+    "options": [
+      "1 litre 800 ml",
+      "2 litres 800 ml",
+      "1 litre 200 ml",
+      "2 litres 200 ml"
+    ],
+    "correct_index": 0,
+    "explanation": "5000 ml − 3200 ml = 1800 ml = 1 litre 800 ml.",
+    "ncert_page": 72,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch07_q10",
+    "chapter_id": "c4m_ch07",
+    "question": "Which holds less — a teacup or a bucket?",
+    "options": [
+      "Bucket",
+      "Teacup",
+      "Both hold the same",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "A teacup has a much smaller capacity than a bucket.",
+    "ncert_page": 67,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

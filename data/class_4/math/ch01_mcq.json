@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c4m_ch01_q01",
+    "chapter_id": "c4m_ch01",
+    "question": "How many faces does a brick have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "A brick is a cuboid. A cuboid has 6 faces.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch01_q02",
+    "chapter_id": "c4m_ch01",
+    "question": "Which shape is a brick?",
+    "options": [
+      "Cube",
+      "Cuboid",
+      "Sphere",
+      "Cylinder"
+    ],
+    "correct_index": 1,
+    "explanation": "A brick has 6 rectangular faces and is called a cuboid.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch01_q03",
+    "chapter_id": "c4m_ch01",
+    "question": "How many edges does a cuboid have?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "A cuboid has 12 edges — 4 on top, 4 on bottom, and 4 vertical ones.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch01_q04",
+    "chapter_id": "c4m_ch01",
+    "question": "How many corners (vertices) does a brick have?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "4"
+    ],
+    "correct_index": 1,
+    "explanation": "A cuboid (brick) has 8 corners, one at each end of every edge pair.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch01_q05",
+    "chapter_id": "c4m_ch01",
+    "question": "Which face of a brick is always rectangular?",
+    "options": [
+      "Top face only",
+      "All faces",
+      "Only side faces",
+      "Bottom face only"
+    ],
+    "correct_index": 1,
+    "explanation": "All 6 faces of a brick are rectangles (some may be squares too).",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch01_q06",
+    "chapter_id": "c4m_ch01",
+    "question": "When you look at the pattern made by bricks on a wall, the bricks are arranged in:",
+    "options": [
+      "Random order",
+      "A repeating pattern",
+      "A circle",
+      "No pattern"
+    ],
+    "correct_index": 1,
+    "explanation": "Bricks on a wall are arranged in a repeating pattern to make it strong and look neat.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch01_q07",
+    "chapter_id": "c4m_ch01",
+    "question": "A cube is a special cuboid where all sides are:",
+    "options": [
+      "Different",
+      "Equal",
+      "Curved",
+      "Triangular"
+    ],
+    "correct_index": 1,
+    "explanation": "In a cube, all 6 faces are identical squares — all sides are equal.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch01_q08",
+    "chapter_id": "c4m_ch01",
+    "question": "What is the flat surface of a 3D shape called?",
+    "options": [
+      "Edge",
+      "Vertex",
+      "Face",
+      "Corner"
+    ],
+    "correct_index": 2,
+    "explanation": "The flat surface of a 3D shape is called a face.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch01_q09",
+    "chapter_id": "c4m_ch01",
+    "question": "If you trace the face of a brick on paper, what shape do you get?",
+    "options": [
+      "Circle",
+      "Triangle",
+      "Rectangle",
+      "Pentagon"
+    ],
+    "correct_index": 2,
+    "explanation": "The face of a brick is a rectangle, so tracing it gives a rectangle.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch01_q10",
+    "chapter_id": "c4m_ch01",
+    "question": "How many pairs of opposite faces does a brick have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct_index": 1,
+    "explanation": "A cuboid has 3 pairs of opposite faces — top/bottom, front/back, left/right.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  }
+]

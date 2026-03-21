@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c1m_ch05_q01",
+    "chapter_id": "c1m_ch05",
+    "question": "What number comes after 10?",
+    "options": [
+      "9",
+      "12",
+      "11",
+      "13"
+    ],
+    "correct_index": 2,
+    "explanation": "11 comes right after 10 when counting.",
+    "ncert_page": 48,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch05_q02",
+    "chapter_id": "c1m_ch05",
+    "question": "How do we write fifteen in numbers?",
+    "options": [
+      "51",
+      "150",
+      "15",
+      "5"
+    ],
+    "correct_index": 2,
+    "explanation": "Fifteen is written as 15.",
+    "ncert_page": 50,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch05_q03",
+    "chapter_id": "c1m_ch05",
+    "question": "Which number comes between 12 and 14?",
+    "options": [
+      "11",
+      "15",
+      "13",
+      "16"
+    ],
+    "correct_index": 2,
+    "explanation": "13 comes between 12 and 14.",
+    "ncert_page": 49,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch05_q04",
+    "chapter_id": "c1m_ch05",
+    "question": "How many is a dozen?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct_index": 2,
+    "explanation": "A dozen means 12.",
+    "ncert_page": 52,
+    "difficulty": "medium",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch05_q05",
+    "chapter_id": "c1m_ch05",
+    "question": "What is the number before 20?",
+    "options": [
+      "21",
+      "18",
+      "19",
+      "17"
+    ],
+    "correct_index": 2,
+    "explanation": "19 comes just before 20.",
+    "ncert_page": 53,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch05_q06",
+    "chapter_id": "c1m_ch05",
+    "question": "Arrange in order: 13, 11, 15. Which is smallest?",
+    "options": [
+      "13",
+      "15",
+      "11",
+      "10"
+    ],
+    "correct_index": 2,
+    "explanation": "11 is the smallest among 11, 13, and 15.",
+    "ncert_page": 54,
+    "difficulty": "medium",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch05_q07",
+    "chapter_id": "c1m_ch05",
+    "question": "10 + 7 = ?",
+    "options": [
+      "16",
+      "18",
+      "17",
+      "15"
+    ],
+    "correct_index": 2,
+    "explanation": "10 + 7 = 17. Seventeen.",
+    "ncert_page": 51,
+    "difficulty": "medium",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch05_q08",
+    "chapter_id": "c1m_ch05",
+    "question": "Which number is the largest: 14, 18, 16?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "17"
+    ],
+    "correct_index": 2,
+    "explanation": "18 is the largest among 14, 16, and 18.",
+    "ncert_page": 54,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch05_q09",
+    "chapter_id": "c1m_ch05",
+    "question": "How many is ten and four together?",
+    "options": [
+      "40",
+      "41",
+      "14",
+      "13"
+    ],
+    "correct_index": 2,
+    "explanation": "Ten and four together make 14 (fourteen).",
+    "ncert_page": 49,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch05_q10",
+    "chapter_id": "c1m_ch05",
+    "question": "What is 16 - 6?",
+    "options": [
+      "9",
+      "11",
+      "10",
+      "12"
+    ],
+    "correct_index": 2,
+    "explanation": "16 - 6 = 10. Removing 6 from 16 gives 10.",
+    "ncert_page": 56,
+    "difficulty": "hard",
+    "subject": "Math"
+  }
+]

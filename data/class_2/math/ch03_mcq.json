@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c2m_ch03_q01",
+    "chapter_id": "c2m_ch03",
+    "question": "Which is heavier — a watermelon or a lemon?",
+    "options": [
+      "Lemon",
+      "Watermelon",
+      "Both same",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "A watermelon is much bigger and heavier than a lemon.",
+    "ncert_page": 21,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch03_q02",
+    "chapter_id": "c2m_ch03",
+    "question": "A bag of rice is heavier than a bag of cotton. Which is lighter?",
+    "options": [
+      "Rice",
+      "Cotton",
+      "Both same",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "Cotton is lighter than rice.",
+    "ncert_page": 22,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch03_q03",
+    "chapter_id": "c2m_ch03",
+    "question": "Which will sink in water?",
+    "options": [
+      "Feather",
+      "Leaf",
+      "Stone",
+      "Paper"
+    ],
+    "correct_index": 2,
+    "explanation": "A stone is heavy and sinks in water.",
+    "ncert_page": 23,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch03_q04",
+    "chapter_id": "c2m_ch03",
+    "question": "On a balance, side A goes down and side B goes up. Which side has a heavier object?",
+    "options": [
+      "Side B",
+      "Side A",
+      "Both equal",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "The side that goes down is heavier. So Side A is heavier.",
+    "ncert_page": 24,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch03_q05",
+    "chapter_id": "c2m_ch03",
+    "question": "Which is lightest?",
+    "options": [
+      "A book",
+      "A pencil",
+      "A school bag",
+      "A chair"
+    ],
+    "correct_index": 1,
+    "explanation": "A pencil is the lightest among these items.",
+    "ncert_page": 25,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch03_q06",
+    "chapter_id": "c2m_ch03",
+    "question": "Rohan can carry 5 books. Mohan can carry 3 books. Who can carry more?",
+    "options": [
+      "Mohan",
+      "Rohan",
+      "Both same",
+      "Neither"
+    ],
+    "correct_index": 1,
+    "explanation": "5 books is more than 3 books, so Rohan can carry more.",
+    "ncert_page": 26,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch03_q07",
+    "chapter_id": "c2m_ch03",
+    "question": "Which item is usually the heaviest?",
+    "options": [
+      "A coin",
+      "A feather",
+      "A brick",
+      "A leaf"
+    ],
+    "correct_index": 2,
+    "explanation": "A brick is made of solid material and is the heaviest.",
+    "ncert_page": 23,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch03_q08",
+    "chapter_id": "c2m_ch03",
+    "question": "An elephant is _____ than a cat.",
+    "options": [
+      "lighter",
+      "smaller",
+      "heavier",
+      "thinner"
+    ],
+    "correct_index": 2,
+    "explanation": "Elephants are very large animals and much heavier than cats.",
+    "ncert_page": 21,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch03_q09",
+    "chapter_id": "c2m_ch03",
+    "question": "Which can you carry easily?",
+    "options": [
+      "A table",
+      "A chair",
+      "A pencil box",
+      "A cupboard"
+    ],
+    "correct_index": 2,
+    "explanation": "A pencil box is small and light, easy to carry.",
+    "ncert_page": 25,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch03_q10",
+    "chapter_id": "c2m_ch03",
+    "question": "If one side of a balance has a mango and the other has 3 mangoes, which side is heavier?",
+    "options": [
+      "Side with 1 mango",
+      "Side with 3 mangoes",
+      "Both equal",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "3 mangoes weigh more than 1 mango.",
+    "ncert_page": 24,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

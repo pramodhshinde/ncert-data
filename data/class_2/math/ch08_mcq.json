@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c2m_ch08_q01",
+    "chapter_id": "c2m_ch08",
+    "question": "In the number 34, how many tens are there?",
+    "options": [
+      "4",
+      "3",
+      "34",
+      "7"
+    ],
+    "correct_index": 1,
+    "explanation": "34 = 3 tens and 4 ones.",
+    "ncert_page": 67,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch08_q02",
+    "chapter_id": "c2m_ch08",
+    "question": "In the number 47, how many ones are there?",
+    "options": [
+      "4",
+      "7",
+      "11",
+      "47"
+    ],
+    "correct_index": 1,
+    "explanation": "47 = 4 tens and 7 ones.",
+    "ncert_page": 68,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch08_q03",
+    "chapter_id": "c2m_ch08",
+    "question": "2 tens + 5 ones = ___",
+    "options": [
+      "52",
+      "7",
+      "25",
+      "205"
+    ],
+    "correct_index": 2,
+    "explanation": "2 tens = 20, plus 5 ones = 25.",
+    "ncert_page": 69,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch08_q04",
+    "chapter_id": "c2m_ch08",
+    "question": "What is 30 + 6?",
+    "options": [
+      "9",
+      "36",
+      "63",
+      "306"
+    ],
+    "correct_index": 1,
+    "explanation": "30 + 6 = 36.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch08_q05",
+    "chapter_id": "c2m_ch08",
+    "question": "Which number has 5 tens and 2 ones?",
+    "options": [
+      "25",
+      "52",
+      "502",
+      "5"
+    ],
+    "correct_index": 1,
+    "explanation": "5 tens = 50, plus 2 ones = 52.",
+    "ncert_page": 71,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch08_q06",
+    "chapter_id": "c2m_ch08",
+    "question": "Add: 23 + 14 = ___",
+    "options": [
+      "9",
+      "37",
+      "39",
+      "27"
+    ],
+    "correct_index": 1,
+    "explanation": "23 + 14 = 37. Ones: 3+4=7, Tens: 2+1=3.",
+    "ncert_page": 72,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch08_q07",
+    "chapter_id": "c2m_ch08",
+    "question": "How many tens are in 80?",
+    "options": [
+      "8",
+      "80",
+      "18",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "80 = 8 tens and 0 ones.",
+    "ncert_page": 69,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch08_q08",
+    "chapter_id": "c2m_ch08",
+    "question": "Which is correct for 56?",
+    "options": [
+      "6 tens and 5 ones",
+      "5 tens and 6 ones",
+      "5 tens and 0 ones",
+      "6 tens and 0 ones"
+    ],
+    "correct_index": 1,
+    "explanation": "56 = 5 tens and 6 ones.",
+    "ncert_page": 68,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch08_q09",
+    "chapter_id": "c2m_ch08",
+    "question": "Add: 41 + 25 = ___",
+    "options": [
+      "16",
+      "64",
+      "66",
+      "46"
+    ],
+    "correct_index": 2,
+    "explanation": "41 + 25: ones 1+5=6, tens 4+2=6, so 66.",
+    "ncert_page": 73,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch08_q10",
+    "chapter_id": "c2m_ch08",
+    "question": "4 tens and 9 ones = ___",
+    "options": [
+      "94",
+      "49",
+      "409",
+      "40"
+    ],
+    "correct_index": 1,
+    "explanation": "4 tens = 40, plus 9 ones = 49.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

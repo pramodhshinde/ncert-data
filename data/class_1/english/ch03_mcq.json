@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c1e_ch03_q01",
+    "chapter_id": "c1e_ch03",
+    "question": "In 'One Little Kitten', what sound does a kitten make?",
+    "options": [
+      "Woof",
+      "Meow",
+      "Moo",
+      "Tweet"
+    ],
+    "correct_index": 1,
+    "explanation": "A kitten makes the sound 'meow'.",
+    "ncert_page": 25,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1e_ch03_q02",
+    "chapter_id": "c1e_ch03",
+    "question": "In 'Lalu and Peelu', Lalu is a _____.",
+    "options": [
+      "Dog",
+      "Parrot",
+      "Cat",
+      "Rabbit"
+    ],
+    "correct_index": 1,
+    "explanation": "Lalu is a green parrot in the story.",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1e_ch03_q03",
+    "chapter_id": "c1e_ch03",
+    "question": "What colour was Peelu the parrot?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "correct_index": 2,
+    "explanation": "Peelu was a yellow (peelu means yellow) parrot.",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1e_ch03_q04",
+    "chapter_id": "c1e_ch03",
+    "question": "What did Lalu eat that Peelu refused?",
+    "options": [
+      "Red chilli",
+      "Yellow banana",
+      "Mango",
+      "Green leaves"
+    ],
+    "correct_index": 0,
+    "explanation": "Lalu ate red chilli but Peelu refused it because it was not yellow.",
+    "ncert_page": 30,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1e_ch03_q05",
+    "chapter_id": "c1e_ch03",
+    "question": "Peelu only liked food of which colour?",
+    "options": [
+      "Red",
+      "Green",
+      "Yellow",
+      "Blue"
+    ],
+    "correct_index": 2,
+    "explanation": "Peelu only liked yellow-coloured foods.",
+    "ncert_page": 29,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1e_ch03_q06",
+    "chapter_id": "c1e_ch03",
+    "question": "One little kitten sits on _____.",
+    "options": [
+      "A mat",
+      "A tree",
+      "A wall",
+      "A chair"
+    ],
+    "correct_index": 0,
+    "explanation": "In the poem, the little kitten sits on a mat.",
+    "ncert_page": 26,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1e_ch03_q07",
+    "chapter_id": "c1e_ch03",
+    "question": "What colour is Lalu the parrot?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Red",
+      "Green"
+    ],
+    "correct_index": 3,
+    "explanation": "Lalu is green — the name Lalu refers to the green parrot.",
+    "ncert_page": 28,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1e_ch03_q08",
+    "chapter_id": "c1e_ch03",
+    "question": "Peelu ate a yellow _____.",
+    "options": [
+      "Apple",
+      "Banana",
+      "Mango",
+      "Chilli"
+    ],
+    "correct_index": 1,
+    "explanation": "Peelu happily ate the yellow banana.",
+    "ncert_page": 31,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1e_ch03_q09",
+    "chapter_id": "c1e_ch03",
+    "question": "A kitten is a baby _____.",
+    "options": [
+      "Dog",
+      "Cow",
+      "Cat",
+      "Bird"
+    ],
+    "correct_index": 2,
+    "explanation": "A kitten is a baby cat.",
+    "ncert_page": 25,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1e_ch03_q10",
+    "chapter_id": "c1e_ch03",
+    "question": "The story of Lalu and Peelu teaches us about _____.",
+    "options": [
+      "Numbers",
+      "Colours and preferences",
+      "Shapes",
+      "Weather"
+    ],
+    "correct_index": 1,
+    "explanation": "The story playfully teaches children about colours through the parrots' food preferences.",
+    "ncert_page": 32,
+    "difficulty": "hard",
+    "subject": "English"
+  }
+]

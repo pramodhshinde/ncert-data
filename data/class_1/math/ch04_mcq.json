@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c1m_ch04_q01",
+    "chapter_id": "c1m_ch04",
+    "question": "What is 5 - 2?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "5 - 2 = 3. If you have 5 and take away 2, you have 3 left.",
+    "ncert_page": 38,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch04_q02",
+    "chapter_id": "c1m_ch04",
+    "question": "Raju had 6 balloons. 2 burst. How many are left?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "6 - 2 = 4 balloons are left.",
+    "ncert_page": 39,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch04_q03",
+    "chapter_id": "c1m_ch04",
+    "question": "What is 4 - 4?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "4"
+    ],
+    "correct_index": 1,
+    "explanation": "When you take away all of something, nothing is left. 4 - 4 = 0.",
+    "ncert_page": 37,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch04_q04",
+    "chapter_id": "c1m_ch04",
+    "question": "What is 7 - 3?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "correct_index": 2,
+    "explanation": "7 - 3 = 4.",
+    "ncert_page": 40,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch04_q05",
+    "chapter_id": "c1m_ch04",
+    "question": "There were 8 birds on a branch. 5 flew away. How many are left?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "correct_index": 2,
+    "explanation": "8 - 5 = 3 birds are left.",
+    "ncert_page": 41,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch04_q06",
+    "chapter_id": "c1m_ch04",
+    "question": "What is 9 - 5?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "9 - 5 = 4.",
+    "ncert_page": 42,
+    "difficulty": "medium",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch04_q07",
+    "chapter_id": "c1m_ch04",
+    "question": "What is 6 - 0?",
+    "options": [
+      "0",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct_index": 3,
+    "explanation": "Subtracting 0 from any number gives the same number. 6 - 0 = 6.",
+    "ncert_page": 38,
+    "difficulty": "medium",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch04_q08",
+    "chapter_id": "c1m_ch04",
+    "question": "Priya had 5 chocolates. She gave 1 to her friend. How many left?",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "2"
+    ],
+    "correct_index": 2,
+    "explanation": "5 - 1 = 4 chocolates are left.",
+    "ncert_page": 39,
+    "difficulty": "easy",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch04_q09",
+    "chapter_id": "c1m_ch04",
+    "question": "What is 8 - 6?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "correct_index": 2,
+    "explanation": "8 - 6 = 2.",
+    "ncert_page": 43,
+    "difficulty": "medium",
+    "subject": "Math"
+  },
+  {
+    "mcq_id": "c1m_ch04_q10",
+    "chapter_id": "c1m_ch04",
+    "question": "What is 9 - 9?",
+    "options": [
+      "1",
+      "9",
+      "0",
+      "2"
+    ],
+    "correct_index": 2,
+    "explanation": "Any number minus itself equals 0. 9 - 9 = 0.",
+    "ncert_page": 44,
+    "difficulty": "hard",
+    "subject": "Math"
+  }
+]

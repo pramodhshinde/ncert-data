@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c2m_ch07_q01",
+    "chapter_id": "c2m_ch07",
+    "question": "Which holds more water — a big jug or a small mug?",
+    "options": [
+      "Small mug",
+      "Big jug",
+      "Both hold same",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "A big jug has more space inside and holds more water.",
+    "ncert_page": 57,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch07_q02",
+    "chapter_id": "c2m_ch07",
+    "question": "A glass is half full. How much more water is needed to fill it?",
+    "options": [
+      "A full glass",
+      "Half a glass",
+      "A quarter glass",
+      "Nothing"
+    ],
+    "correct_index": 1,
+    "explanation": "Half full means half is empty. We need half more to fill it completely.",
+    "ncert_page": 58,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch07_q03",
+    "chapter_id": "c2m_ch07",
+    "question": "Which container can hold the most water?",
+    "options": [
+      "A spoon",
+      "A cup",
+      "A bucket",
+      "A glass"
+    ],
+    "correct_index": 2,
+    "explanation": "A bucket is the largest and can hold the most water.",
+    "ncert_page": 59,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch07_q04",
+    "chapter_id": "c2m_ch07",
+    "question": "Seema pours 3 mugs of water into a jug. The jug takes 5 mugs to fill. How many more mugs are needed?",
+    "options": [
+      "3",
+      "2",
+      "8",
+      "5"
+    ],
+    "correct_index": 1,
+    "explanation": "5 - 3 = 2 more mugs are needed.",
+    "ncert_page": 60,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch07_q05",
+    "chapter_id": "c2m_ch07",
+    "question": "Which word means the amount of liquid a container can hold?",
+    "options": [
+      "Weight",
+      "Length",
+      "Capacity",
+      "Height"
+    ],
+    "correct_index": 2,
+    "explanation": "Capacity means how much liquid a container can hold.",
+    "ncert_page": 57,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch07_q06",
+    "chapter_id": "c2m_ch07",
+    "question": "A bottle holds 4 cups of juice. If 2 cups are drunk, how much is left?",
+    "options": [
+      "6 cups",
+      "4 cups",
+      "2 cups",
+      "1 cup"
+    ],
+    "correct_index": 2,
+    "explanation": "4 - 2 = 2 cups of juice remain.",
+    "ncert_page": 61,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch07_q07",
+    "chapter_id": "c2m_ch07",
+    "question": "Which container holds LESS water?",
+    "options": [
+      "A drum",
+      "A pot",
+      "A thimble",
+      "A bucket"
+    ],
+    "correct_index": 2,
+    "explanation": "A thimble is very tiny and holds the least water.",
+    "ncert_page": 59,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch07_q08",
+    "chapter_id": "c2m_ch07",
+    "question": "Ramu fills a tank using a mug. He needs 10 mugs to fill it. He has poured 6 mugs. How many more?",
+    "options": [
+      "4",
+      "6",
+      "16",
+      "10"
+    ],
+    "correct_index": 0,
+    "explanation": "10 - 6 = 4 more mugs are needed.",
+    "ncert_page": 62,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch07_q09",
+    "chapter_id": "c2m_ch07",
+    "question": "Which holds MORE — a teaspoon or a bottle?",
+    "options": [
+      "Teaspoon",
+      "Bottle",
+      "Both equal",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "A bottle is much bigger and holds much more than a teaspoon.",
+    "ncert_page": 58,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch07_q10",
+    "chapter_id": "c2m_ch07",
+    "question": "A jug has 5 mugs of water. If you add 3 more mugs, how many mugs of water are in the jug?",
+    "options": [
+      "2",
+      "8",
+      "15",
+      "53"
+    ],
+    "correct_index": 1,
+    "explanation": "5 + 3 = 8 mugs of water.",
+    "ncert_page": 63,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

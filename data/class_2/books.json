@@ -1,0 +1,62 @@
+[
+  {
+    "book_id": "class2_math_en",
+    "title": "Joyful Mathematics",
+    "class_id": 2,
+    "subject": "Mathematics",
+    "medium": "English",
+    "cover_url": "",
+    "chapter_count": 11,
+    "total_pages": 120,
+    "size_mb": 5.8,
+    "rating": 4.3,
+    "chapters_url": "data/class_2/math/chapters.json",
+    "solutions_json_url": "data/class_2/math/solutions.json",
+    "notes_json_url": "data/class_2/math/notes.json"
+  },
+  {
+    "book_id": "class2_english_en",
+    "title": "Mridang",
+    "class_id": 2,
+    "subject": "English",
+    "medium": "English",
+    "cover_url": "",
+    "chapter_count": 13,
+    "total_pages": 104,
+    "size_mb": 5.4,
+    "rating": 4.2,
+    "chapters_url": "data/class_2/english/chapters.json",
+    "solutions_json_url": "data/class_2/english/solutions.json",
+    "notes_json_url": "data/class_2/english/notes.json"
+  },
+  {
+    "book_id": "class2_hindi_hi",
+    "title": "सारंगी",
+    "class_id": 2,
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "cover_url": "",
+    "chapter_count": 26,
+    "total_pages": 140,
+    "size_mb": 6.4,
+    "rating": 4.1,
+    "chapters_url": "data/class_2/hindi/chapters.json",
+    "solutions_json_url": "data/class_2/hindi/solutions.json",
+    "notes_json_url": "data/class_2/hindi/notes.json"
+  },
+  {
+    "book_id": "class2_math_hi",
+    "title": "जॉयफुल मैथमेटिक्स",
+    "class_id": 2,
+    "subject": "Mathematics",
+    "medium": "Hindi",
+    "cover_url": "",
+    "chapter_count": 11,
+    "total_pages": 120,
+    "size_mb": 5.6,
+    "rating": 4.3,
+    "chapters_url": "data/class_2/math_hi/chapters.json",
+    "solutions_json_url": "data/class_2/math_hi/solutions.json",
+    "notes_json_url": "data/class_2/math_hi/notes.json"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c4m_ch03_q01",
+    "chapter_id": "c4m_ch03",
+    "question": "What does a map help us do?",
+    "options": [
+      "Cook food",
+      "Find directions and distances",
+      "Measure weight",
+      "Tell time"
+    ],
+    "correct_index": 1,
+    "explanation": "A map helps us understand directions, distances, and locations of places.",
+    "ncert_page": 24,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch03_q02",
+    "chapter_id": "c4m_ch03",
+    "question": "On a map, if 1 cm stands for 10 km, what is the real distance for 3 cm?",
+    "options": [
+      "3 km",
+      "13 km",
+      "30 km",
+      "300 km"
+    ],
+    "correct_index": 2,
+    "explanation": "3 cm × 10 km/cm = 30 km.",
+    "ncert_page": 26,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch03_q03",
+    "chapter_id": "c4m_ch03",
+    "question": "Which direction is opposite to North?",
+    "options": [
+      "East",
+      "West",
+      "South",
+      "Northeast"
+    ],
+    "correct_index": 2,
+    "explanation": "South is opposite to North on a compass or map.",
+    "ncert_page": 24,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch03_q04",
+    "chapter_id": "c4m_ch03",
+    "question": "A bus travels 40 km in 1 hour. How far will it go in 2 hours?",
+    "options": [
+      "40 km",
+      "60 km",
+      "80 km",
+      "100 km"
+    ],
+    "correct_index": 2,
+    "explanation": "40 km × 2 hours = 80 km.",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch03_q05",
+    "chapter_id": "c4m_ch03",
+    "question": "If the trip from city A to city B is 120 km and you have covered 70 km, how much more do you need to travel?",
+    "options": [
+      "50 km",
+      "190 km",
+      "70 km",
+      "120 km"
+    ],
+    "correct_index": 0,
+    "explanation": "120 − 70 = 50 km remaining.",
+    "ncert_page": 27,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch03_q06",
+    "chapter_id": "c4m_ch03",
+    "question": "Which of these is closest in distance — 2 km, 200 m, or 2000 m?",
+    "options": [
+      "2 km",
+      "200 m",
+      "2000 m",
+      "All are the same"
+    ],
+    "correct_index": 1,
+    "explanation": "200 m is much shorter than 2 km (=2000 m) or 2000 m.",
+    "ncert_page": 25,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch03_q07",
+    "chapter_id": "c4m_ch03",
+    "question": "How many kilometres is a trip that covers 3 equal parts of 15 km each?",
+    "options": [
+      "15 km",
+      "30 km",
+      "45 km",
+      "18 km"
+    ],
+    "correct_index": 2,
+    "explanation": "3 × 15 = 45 km.",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch03_q08",
+    "chapter_id": "c4m_ch03",
+    "question": "A school trip covers 250 km going and the same distance coming back. Total distance is:",
+    "options": [
+      "250 km",
+      "400 km",
+      "500 km",
+      "125 km"
+    ],
+    "correct_index": 2,
+    "explanation": "250 + 250 = 500 km total.",
+    "ncert_page": 27,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch03_q09",
+    "chapter_id": "c4m_ch03",
+    "question": "Maps show real places in a _____ size.",
+    "options": [
+      "Larger",
+      "Exact same",
+      "Smaller",
+      "Random"
+    ],
+    "correct_index": 2,
+    "explanation": "Maps show real places in a much smaller size using a scale.",
+    "ncert_page": 24,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch03_q10",
+    "chapter_id": "c4m_ch03",
+    "question": "If there are 4 stops equally spread in a 60 km journey, how many km apart is each stop?",
+    "options": [
+      "10 km",
+      "15 km",
+      "20 km",
+      "12 km"
+    ],
+    "correct_index": 1,
+    "explanation": "60 ÷ 4 = 15 km between each stop.",
+    "ncert_page": 29,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  }
+]

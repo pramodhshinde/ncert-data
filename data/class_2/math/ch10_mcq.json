@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c2m_ch10_q01",
+    "chapter_id": "c2m_ch10",
+    "question": "Rani scored 12 points and Manu scored 8 points. What is the total?",
+    "options": [
+      "4",
+      "20",
+      "21",
+      "18"
+    ],
+    "correct_index": 1,
+    "explanation": "12 + 8 = 20 points in total.",
+    "ncert_page": 89,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch10_q02",
+    "chapter_id": "c2m_ch10",
+    "question": "Arjun had 15 points. He got 7 more. How many points does he have now?",
+    "options": [
+      "8",
+      "22",
+      "20",
+      "7"
+    ],
+    "correct_index": 1,
+    "explanation": "15 + 7 = 22 points.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch10_q03",
+    "chapter_id": "c2m_ch10",
+    "question": "Team A got 24 points. Team B got 13 points. What are their total points?",
+    "options": [
+      "37",
+      "11",
+      "35",
+      "39"
+    ],
+    "correct_index": 0,
+    "explanation": "24 + 13 = 37 points.",
+    "ncert_page": 91,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch10_q04",
+    "chapter_id": "c2m_ch10",
+    "question": "Meena scored 10, Seema scored 20, Reena scored 5. What is the total?",
+    "options": [
+      "30",
+      "35",
+      "25",
+      "15"
+    ],
+    "correct_index": 1,
+    "explanation": "10 + 20 + 5 = 35 points.",
+    "ncert_page": 92,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch10_q05",
+    "chapter_id": "c2m_ch10",
+    "question": "A player scored 6 points in the first game and 9 points in the second game. Total?",
+    "options": [
+      "3",
+      "16",
+      "15",
+      "14"
+    ],
+    "correct_index": 2,
+    "explanation": "6 + 9 = 15 points.",
+    "ncert_page": 93,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch10_q06",
+    "chapter_id": "c2m_ch10",
+    "question": "Vikram has 14 marbles and his friend gives him 11 more. How many does he have?",
+    "options": [
+      "3",
+      "24",
+      "25",
+      "23"
+    ],
+    "correct_index": 2,
+    "explanation": "14 + 11 = 25 marbles.",
+    "ncert_page": 94,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch10_q07",
+    "chapter_id": "c2m_ch10",
+    "question": "20 + 15 = ___",
+    "options": [
+      "5",
+      "25",
+      "35",
+      "205"
+    ],
+    "correct_index": 2,
+    "explanation": "20 + 15 = 35.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch10_q08",
+    "chapter_id": "c2m_ch10",
+    "question": "Priya scored 31 points. Her sister scored 18 points. Total points?",
+    "options": [
+      "13",
+      "49",
+      "39",
+      "48"
+    ],
+    "correct_index": 1,
+    "explanation": "31 + 18 = 49 points.",
+    "ncert_page": 95,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch10_q09",
+    "chapter_id": "c2m_ch10",
+    "question": "Which addition is correct?",
+    "options": [
+      "12 + 5 = 16",
+      "23 + 4 = 27",
+      "11 + 9 = 19",
+      "14 + 3 = 18"
+    ],
+    "correct_index": 1,
+    "explanation": "23 + 4 = 27. Ones: 3+4=7, Tens stay 2.",
+    "ncert_page": 91,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch10_q10",
+    "chapter_id": "c2m_ch10",
+    "question": "40 + 22 = ___",
+    "options": [
+      "18",
+      "60",
+      "62",
+      "42"
+    ],
+    "correct_index": 2,
+    "explanation": "40 + 22 = 62.",
+    "ncert_page": 92,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

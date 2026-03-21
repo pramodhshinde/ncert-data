@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c4m_ch04_q01",
+    "chapter_id": "c4m_ch04",
+    "question": "How many minutes are there in 1 hour?",
+    "options": [
+      "30",
+      "60",
+      "100",
+      "24"
+    ],
+    "correct_index": 1,
+    "explanation": "1 hour = 60 minutes. This is the basic unit of time.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch04_q02",
+    "chapter_id": "c4m_ch04",
+    "question": "If it is 3:00 pm now, what time was it 2 hours ago?",
+    "options": [
+      "1:00 pm",
+      "5:00 pm",
+      "1:00 am",
+      "3:00 am"
+    ],
+    "correct_index": 0,
+    "explanation": "3:00 pm − 2 hours = 1:00 pm.",
+    "ncert_page": 36,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch04_q03",
+    "chapter_id": "c4m_ch04",
+    "question": "School starts at 8:30 am and ends at 2:30 pm. How long is school?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "6 hours",
+      "7 hours"
+    ],
+    "correct_index": 2,
+    "explanation": "From 8:30 am to 2:30 pm is 6 hours.",
+    "ncert_page": 37,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch04_q04",
+    "chapter_id": "c4m_ch04",
+    "question": "How many hours are there in a day?",
+    "options": [
+      "12",
+      "24",
+      "48",
+      "60"
+    ],
+    "correct_index": 1,
+    "explanation": "A day has 24 hours — 12 hours am and 12 hours pm.",
+    "ncert_page": 35,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch04_q05",
+    "chapter_id": "c4m_ch04",
+    "question": "The short hand of a clock shows:",
+    "options": [
+      "Minutes",
+      "Seconds",
+      "Hours",
+      "Days"
+    ],
+    "correct_index": 2,
+    "explanation": "The short hand (hour hand) points to the hour.",
+    "ncert_page": 33,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch04_q06",
+    "chapter_id": "c4m_ch04",
+    "question": "A movie starts at 6:15 pm and lasts 2 hours 30 minutes. When does it end?",
+    "options": [
+      "8:15 pm",
+      "8:30 pm",
+      "8:45 pm",
+      "9:00 pm"
+    ],
+    "correct_index": 2,
+    "explanation": "6:15 pm + 2 h 30 min = 8:45 pm.",
+    "ncert_page": 38,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch04_q07",
+    "chapter_id": "c4m_ch04",
+    "question": "am stands for:",
+    "options": [
+      "After midnight to noon",
+      "After noon",
+      "Any morning",
+      "All minutes"
+    ],
+    "correct_index": 0,
+    "explanation": "am (ante meridiem) means the time from midnight (12:00) to noon (12:00 pm).",
+    "ncert_page": 35,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch04_q08",
+    "chapter_id": "c4m_ch04",
+    "question": "How many minutes are in half an hour?",
+    "options": [
+      "15",
+      "20",
+      "30",
+      "45"
+    ],
+    "correct_index": 2,
+    "explanation": "Half of 60 minutes = 30 minutes.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch04_q09",
+    "chapter_id": "c4m_ch04",
+    "question": "Rani woke up at 7:00 am and slept at 9:00 pm. How many hours was she awake?",
+    "options": [
+      "12 hours",
+      "14 hours",
+      "16 hours",
+      "9 hours"
+    ],
+    "correct_index": 1,
+    "explanation": "From 7:00 am to 9:00 pm = 14 hours.",
+    "ncert_page": 39,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch04_q10",
+    "chapter_id": "c4m_ch04",
+    "question": "How many seconds are in 1 minute?",
+    "options": [
+      "100",
+      "60",
+      "30",
+      "24"
+    ],
+    "correct_index": 1,
+    "explanation": "1 minute = 60 seconds.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

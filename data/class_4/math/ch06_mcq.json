@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c4m_ch06_q01",
+    "chapter_id": "c4m_ch06",
+    "question": "How many grams make 1 kilogram?",
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "500"
+    ],
+    "correct_index": 2,
+    "explanation": "1 kilogram = 1000 grams.",
+    "ncert_page": 56,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch06_q02",
+    "chapter_id": "c4m_ch06",
+    "question": "Reena bought 2 kg 500 g of vegetables. What is the total weight in grams?",
+    "options": [
+      "250 g",
+      "2050 g",
+      "2500 g",
+      "25000 g"
+    ],
+    "correct_index": 2,
+    "explanation": "2 kg = 2000 g, so 2000 + 500 = 2500 g.",
+    "ncert_page": 57,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch06_q03",
+    "chapter_id": "c4m_ch06",
+    "question": "A junk seller buys old newspapers at ₹2 per kg. If he buys 5 kg, how much does he pay?",
+    "options": [
+      "₹5",
+      "₹7",
+      "₹10",
+      "₹20"
+    ],
+    "correct_index": 2,
+    "explanation": "5 kg × ₹2 = ₹10.",
+    "ncert_page": 60,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch06_q04",
+    "chapter_id": "c4m_ch06",
+    "question": "A bag of rice weighs 25 kg. How many 5 kg packets can be made from it?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "25 ÷ 5 = 5 packets.",
+    "ncert_page": 61,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch06_q05",
+    "chapter_id": "c4m_ch06",
+    "question": "Which is heavier — 3 kg or 2500 g?",
+    "options": [
+      "2500 g",
+      "3 kg",
+      "Both are equal",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "3 kg = 3000 g, which is more than 2500 g.",
+    "ncert_page": 56,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch06_q06",
+    "chapter_id": "c4m_ch06",
+    "question": "If mangoes cost ₹30 per kg, how much do 3 kg cost?",
+    "options": [
+      "₹30",
+      "₹60",
+      "₹90",
+      "₹120"
+    ],
+    "correct_index": 2,
+    "explanation": "3 × ₹30 = ₹90.",
+    "ncert_page": 62,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch06_q07",
+    "chapter_id": "c4m_ch06",
+    "question": "Mohan sold 8 kg of iron at ₹5 per kg. He earned:",
+    "options": [
+      "₹13",
+      "₹40",
+      "₹45",
+      "₹80"
+    ],
+    "correct_index": 1,
+    "explanation": "8 × ₹5 = ₹40.",
+    "ncert_page": 60,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch06_q08",
+    "chapter_id": "c4m_ch06",
+    "question": "500 g is how many kg?",
+    "options": [
+      "5 kg",
+      "0.5 kg",
+      "50 kg",
+      "0.05 kg"
+    ],
+    "correct_index": 1,
+    "explanation": "500 g = 500/1000 kg = 0.5 kg or half a kg.",
+    "ncert_page": 57,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch06_q09",
+    "chapter_id": "c4m_ch06",
+    "question": "You have ₹50. Onions cost ₹15 per kg. How much change do you get after buying 3 kg?",
+    "options": [
+      "₹5",
+      "₹15",
+      "₹35",
+      "₹45"
+    ],
+    "correct_index": 0,
+    "explanation": "3 kg = 3 × ₹15 = ₹45. Change = ₹50 − ₹45 = ₹5.",
+    "ncert_page": 63,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c4m_ch06_q10",
+    "chapter_id": "c4m_ch06",
+    "question": "The unit 'kg' stands for:",
+    "options": [
+      "Kilograin",
+      "Kilogram",
+      "Kilogrape",
+      "Kilograss"
+    ],
+    "correct_index": 1,
+    "explanation": "kg stands for kilogram, the standard unit of mass/weight.",
+    "ncert_page": 56,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

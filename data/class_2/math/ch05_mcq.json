@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c2m_ch05_q01",
+    "chapter_id": "c2m_ch05",
+    "question": "What comes next in the pattern: 1, 3, 5, 7, ___?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "6"
+    ],
+    "correct_index": 1,
+    "explanation": "The pattern adds 2 each time. 7 + 2 = 9.",
+    "ncert_page": 39,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch05_q02",
+    "chapter_id": "c2m_ch05",
+    "question": "Which shape comes next: circle, square, circle, square, ___?",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Rectangle",
+      "Square"
+    ],
+    "correct_index": 1,
+    "explanation": "The pattern alternates: circle, square, circle, square, circle.",
+    "ncert_page": 40,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch05_q03",
+    "chapter_id": "c2m_ch05",
+    "question": "What comes next: 2, 4, 6, 8, ___?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct_index": 1,
+    "explanation": "The pattern adds 2 each time. 8 + 2 = 10.",
+    "ncert_page": 41,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch05_q04",
+    "chapter_id": "c2m_ch05",
+    "question": "Which letter looks the same on both sides? (has a line of symmetry)",
+    "options": [
+      "F",
+      "G",
+      "A",
+      "R"
+    ],
+    "correct_index": 2,
+    "explanation": "The letter A looks the same on left and right sides.",
+    "ncert_page": 43,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch05_q05",
+    "chapter_id": "c2m_ch05",
+    "question": "What comes next: 5, 10, 15, 20, ___?",
+    "options": [
+      "21",
+      "22",
+      "25",
+      "30"
+    ],
+    "correct_index": 2,
+    "explanation": "The pattern adds 5 each time. 20 + 5 = 25.",
+    "ncert_page": 42,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch05_q06",
+    "chapter_id": "c2m_ch05",
+    "question": "Red, Blue, Red, Blue, ___ — what colour comes next?",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "correct_index": 2,
+    "explanation": "The pattern alternates red and blue, so Red comes next.",
+    "ncert_page": 40,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch05_q07",
+    "chapter_id": "c2m_ch05",
+    "question": "Which number pattern is correct?",
+    "options": [
+      "2,5,8,10",
+      "3,6,9,12",
+      "1,4,8,13",
+      "2,4,7,11"
+    ],
+    "correct_index": 1,
+    "explanation": "3, 6, 9, 12 follows a pattern of adding 3 each time.",
+    "ncert_page": 41,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch05_q08",
+    "chapter_id": "c2m_ch05",
+    "question": "A butterfly has a line of symmetry. What does that mean?",
+    "options": [
+      "Its wings are different sizes",
+      "Both wings look the same",
+      "It has many colours",
+      "It can fly fast"
+    ],
+    "correct_index": 1,
+    "explanation": "Symmetry means both halves look the same. A butterfly's wings are mirror images.",
+    "ncert_page": 44,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch05_q09",
+    "chapter_id": "c2m_ch05",
+    "question": "What comes next: 10, 20, 30, ___?",
+    "options": [
+      "35",
+      "31",
+      "40",
+      "45"
+    ],
+    "correct_index": 2,
+    "explanation": "The pattern adds 10 each time. 30 + 10 = 40.",
+    "ncert_page": 42,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch05_q10",
+    "chapter_id": "c2m_ch05",
+    "question": "Big, Small, Big, Small, ___ — what comes next?",
+    "options": [
+      "Medium",
+      "Big",
+      "Small",
+      "Tiny"
+    ],
+    "correct_index": 1,
+    "explanation": "The pattern alternates Big and Small, so Big comes next.",
+    "ncert_page": 40,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

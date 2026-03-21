@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c2m_ch06_q01",
+    "chapter_id": "c2m_ch06",
+    "question": "What is a footprint used to measure in this chapter?",
+    "options": [
+      "Weight",
+      "Length",
+      "Time",
+      "Capacity"
+    ],
+    "correct_index": 1,
+    "explanation": "Footprints are used as a non-standard unit to measure length or distance.",
+    "ncert_page": 49,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch06_q02",
+    "chapter_id": "c2m_ch06",
+    "question": "Riya's room is 10 footsteps long. Sonu's room is 7 footsteps long. Whose room is bigger?",
+    "options": [
+      "Sonu",
+      "Riya",
+      "Both same",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "10 footsteps is more than 7, so Riya's room is bigger.",
+    "ncert_page": 50,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch06_q03",
+    "chapter_id": "c2m_ch06",
+    "question": "Why do two people get different measurements for the same table using their hands?",
+    "options": [
+      "Because tables are different",
+      "Because hands are different sizes",
+      "Because they counted wrong",
+      "Because tables move"
+    ],
+    "correct_index": 1,
+    "explanation": "Hands are not the same size for everyone, so measurements can differ.",
+    "ncert_page": 51,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch06_q04",
+    "chapter_id": "c2m_ch06",
+    "question": "Which is a standard unit to measure length?",
+    "options": [
+      "Footstep",
+      "Hand span",
+      "Metre",
+      "Pencil"
+    ],
+    "correct_index": 2,
+    "explanation": "Metre is a standard unit. Footstep and hand span are non-standard units.",
+    "ncert_page": 52,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch06_q05",
+    "chapter_id": "c2m_ch06",
+    "question": "A path is 15 footsteps long. A road is 20 footsteps long. Which is shorter?",
+    "options": [
+      "Road",
+      "Path",
+      "Both same",
+      "Cannot say"
+    ],
+    "correct_index": 1,
+    "explanation": "15 footsteps is less than 20 footsteps, so the path is shorter.",
+    "ncert_page": 50,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch06_q06",
+    "chapter_id": "c2m_ch06",
+    "question": "If you use a bigger foot to measure, you need ___ steps than with a smaller foot.",
+    "options": [
+      "More",
+      "Fewer",
+      "Same",
+      "Double"
+    ],
+    "correct_index": 1,
+    "explanation": "Bigger feet cover more distance per step, so you need fewer steps.",
+    "ncert_page": 51,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch06_q07",
+    "chapter_id": "c2m_ch06",
+    "question": "What does non-standard unit of measurement mean?",
+    "options": [
+      "A unit used by everyone",
+      "A unit like metre or cm",
+      "A unit that can vary like handspan",
+      "A unit that is always correct"
+    ],
+    "correct_index": 2,
+    "explanation": "Non-standard units like handspan or footstep can vary from person to person.",
+    "ncert_page": 51,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch06_q08",
+    "chapter_id": "c2m_ch06",
+    "question": "My classroom is 12 steps wide. The playground is 30 steps wide. Which is wider?",
+    "options": [
+      "Classroom",
+      "Playground",
+      "Both same",
+      "Neither"
+    ],
+    "correct_index": 1,
+    "explanation": "30 steps is more than 12 steps, so the playground is wider.",
+    "ncert_page": 53,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch06_q09",
+    "chapter_id": "c2m_ch06",
+    "question": "Which of these is a non-standard unit of measurement?",
+    "options": [
+      "Centimetre",
+      "Metre",
+      "Kilometre",
+      "Handspan"
+    ],
+    "correct_index": 3,
+    "explanation": "Handspan is a non-standard unit because it varies from person to person.",
+    "ncert_page": 51,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch06_q10",
+    "chapter_id": "c2m_ch06",
+    "question": "4 footsteps + 3 footsteps = ___ footsteps",
+    "options": [
+      "43",
+      "8",
+      "7",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "4 + 3 = 7 footsteps.",
+    "ncert_page": 54,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

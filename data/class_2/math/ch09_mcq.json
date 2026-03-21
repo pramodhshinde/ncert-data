@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c2m_ch09_q01",
+    "chapter_id": "c2m_ch09",
+    "question": "How many days are in a week?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "There are 7 days in a week: Sunday to Saturday.",
+    "ncert_page": 79,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch09_q02",
+    "chapter_id": "c2m_ch09",
+    "question": "Which day comes after Wednesday?",
+    "options": [
+      "Tuesday",
+      "Monday",
+      "Thursday",
+      "Friday"
+    ],
+    "correct_index": 2,
+    "explanation": "The days in order are: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch09_q03",
+    "chapter_id": "c2m_ch09",
+    "question": "How many months are in a year?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "7"
+    ],
+    "correct_index": 2,
+    "explanation": "There are 12 months in a year, from January to December.",
+    "ncert_page": 81,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch09_q04",
+    "chapter_id": "c2m_ch09",
+    "question": "Which month comes after March?",
+    "options": [
+      "February",
+      "May",
+      "April",
+      "June"
+    ],
+    "correct_index": 2,
+    "explanation": "The months in order: January, February, March, April...",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch09_q05",
+    "chapter_id": "c2m_ch09",
+    "question": "School starts at 8 o'clock. It ends 6 hours later. At what time does school end?",
+    "options": [
+      "2 o'clock",
+      "14 o'clock",
+      "1 o'clock",
+      "6 o'clock"
+    ],
+    "correct_index": 0,
+    "explanation": "8 + 6 = 14, which is 2 o'clock in the afternoon.",
+    "ncert_page": 83,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch09_q06",
+    "chapter_id": "c2m_ch09",
+    "question": "Which is the first day of the week?",
+    "options": [
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Friday"
+    ],
+    "correct_index": 2,
+    "explanation": "Sunday is the first day of the week.",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch09_q07",
+    "chapter_id": "c2m_ch09",
+    "question": "How many days are in the month of January?",
+    "options": [
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "correct_index": 3,
+    "explanation": "January has 31 days.",
+    "ncert_page": 84,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch09_q08",
+    "chapter_id": "c2m_ch09",
+    "question": "What is a calendar used for?",
+    "options": [
+      "Measuring weight",
+      "Counting money",
+      "Tracking days, weeks, months",
+      "Measuring length"
+    ],
+    "correct_index": 2,
+    "explanation": "A calendar helps us track days, weeks, months, and years.",
+    "ncert_page": 81,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch09_q09",
+    "chapter_id": "c2m_ch09",
+    "question": "Which day comes before Friday?",
+    "options": [
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Wednesday"
+    ],
+    "correct_index": 2,
+    "explanation": "Thursday comes before Friday in the week.",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c2m_ch09_q10",
+    "chapter_id": "c2m_ch09",
+    "question": "Which is the last month of the year?",
+    "options": [
+      "November",
+      "October",
+      "December",
+      "January"
+    ],
+    "correct_index": 2,
+    "explanation": "December is the 12th and last month of the year.",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]
