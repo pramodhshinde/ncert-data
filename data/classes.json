@@ -6,5 +6,13 @@
     "label": "ncert",
     "subject_count": 1,
     "tag": "class_3"
+  },
+  {
+    "class_id": 2,
+    "color_hex": "#888888",
+    "is_board": false,
+    "label": "ncert",
+    "subject_count": 14,
+    "tag": "class_2"
   }
 ]
