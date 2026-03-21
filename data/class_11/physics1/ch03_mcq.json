@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11p1_ch03_q01",
+    "chapter_id": "c11p1_ch03",
+    "question": "A body is said to be in uniform motion if it travels:",
+    "options": [
+      "equal distances in unequal time intervals",
+      "unequal distances in equal time intervals",
+      "equal distances in equal time intervals",
+      "with increasing speed"
+    ],
+    "correct_index": 2,
+    "explanation": "Uniform motion means equal distances covered in equal intervals of time, implying constant velocity.",
+    "ncert_page": 60,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch03_q02",
+    "chapter_id": "c11p1_ch03",
+    "question": "The slope of a velocity-time graph gives:",
+    "options": [
+      "displacement",
+      "speed",
+      "acceleration",
+      "jerk"
+    ],
+    "correct_index": 2,
+    "explanation": "The slope of a v-t graph = Δv/Δt = acceleration. The area under the v-t graph gives displacement.",
+    "ncert_page": 66,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch03_q03",
+    "chapter_id": "c11p1_ch03",
+    "question": "A particle starts from rest and accelerates uniformly at 2 m/s². Its velocity after 5 s is:",
+    "options": [
+      "5 m/s",
+      "10 m/s",
+      "2.5 m/s",
+      "25 m/s"
+    ],
+    "correct_index": 1,
+    "explanation": "Using v = u + at = 0 + 2 × 5 = 10 m/s.",
+    "ncert_page": 68,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch03_q04",
+    "chapter_id": "c11p1_ch03",
+    "question": "A ball is thrown vertically upward with velocity 20 m/s. Its maximum height (g = 10 m/s²) is:",
+    "options": [
+      "10 m",
+      "20 m",
+      "40 m",
+      "200 m"
+    ],
+    "correct_index": 1,
+    "explanation": "At maximum height, v = 0. Using v² = u² − 2gh: 0 = 400 − 2(10)h → h = 20 m.",
+    "ncert_page": 72,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch03_q05",
+    "chapter_id": "c11p1_ch03",
+    "question": "The displacement of a particle is given by x = 4t² + 2t + 1 (in metres). Its acceleration is:",
+    "options": [
+      "4 m/s²",
+      "8 m/s²",
+      "2 m/s²",
+      "6 m/s²"
+    ],
+    "correct_index": 1,
+    "explanation": "velocity v = dx/dt = 8t + 2; acceleration a = dv/dt = 8 m/s². The acceleration is constant.",
+    "ncert_page": 70,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch03_q06",
+    "chapter_id": "c11p1_ch03",
+    "question": "Which of the following represents a body moving with uniform acceleration on an x-t graph?",
+    "options": [
+      "A straight line through origin",
+      "A horizontal line",
+      "A parabola",
+      "A sinusoidal curve"
+    ],
+    "correct_index": 2,
+    "explanation": "For uniform acceleration, x = ut + ½at². This is a quadratic function of t, which plots as a parabola on the x-t graph.",
+    "ncert_page": 65,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch03_q07",
+    "chapter_id": "c11p1_ch03",
+    "question": "A car decelerates from 72 km/h to rest in 10 s. The retardation is:",
+    "options": [
+      "7.2 m/s²",
+      "2 m/s²",
+      "72 m/s²",
+      "0.2 m/s²"
+    ],
+    "correct_index": 1,
+    "explanation": "u = 72 km/h = 20 m/s; v = 0; t = 10 s. a = (v − u)/t = (0 − 20)/10 = −2 m/s². Retardation = 2 m/s².",
+    "ncert_page": 68,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch03_q08",
+    "chapter_id": "c11p1_ch03",
+    "question": "The area under an acceleration-time graph gives:",
+    "options": [
+      "displacement",
+      "velocity",
+      "change in velocity",
+      "change in acceleration"
+    ],
+    "correct_index": 2,
+    "explanation": "∫a dt = Δv. The area under an a-t graph gives the change in velocity of the particle.",
+    "ncert_page": 67,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch03_q09",
+    "chapter_id": "c11p1_ch03",
+    "question": "Two balls are dropped from heights h and 4h simultaneously. The ratio of times taken to reach the ground is:",
+    "options": [
+      "1:4",
+      "1:2",
+      "2:1",
+      "4:1"
+    ],
+    "correct_index": 1,
+    "explanation": "t = √(2h/g). t₁/t₂ = √(h/4h) = √(1/4) = 1/2. So ratio is 1:2.",
+    "ncert_page": 74,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch03_q10",
+    "chapter_id": "c11p1_ch03",
+    "question": "A particle moves with a velocity that increases by 5 m/s every second. This is an example of:",
+    "options": [
+      "uniform motion",
+      "non-uniform acceleration",
+      "uniform acceleration",
+      "retardation"
+    ],
+    "correct_index": 2,
+    "explanation": "When velocity increases by a constant amount per unit time, the acceleration is constant (uniform acceleration) = 5 m/s².",
+    "ncert_page": 63,
+    "difficulty": "easy",
+    "subject": "Physics"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11p1_ch02_q01",
+    "chapter_id": "c11p1_ch02",
+    "question": "Which of the following is a fundamental (base) SI unit?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Kelvin",
+      "Pascal"
+    ],
+    "correct_index": 2,
+    "explanation": "Kelvin (K) is a fundamental SI unit for temperature. Newton, Joule, and Pascal are all derived units.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch02_q02",
+    "chapter_id": "c11p1_ch02",
+    "question": "The dimensional formula of pressure is:",
+    "options": [
+      "[MLT⁻²]",
+      "[ML⁻¹T⁻²]",
+      "[ML²T⁻²]",
+      "[M⁰L⁻¹T⁻²]"
+    ],
+    "correct_index": 1,
+    "explanation": "Pressure = Force/Area = [MLT⁻²]/[L²] = [ML⁻¹T⁻²].",
+    "ncert_page": 35,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch02_q03",
+    "chapter_id": "c11p1_ch02",
+    "question": "The number of significant figures in 0.006070 is:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct_index": 0,
+    "explanation": "Leading zeros are not significant. In 0.006070, the significant figures are 6, 0, 7, 0 — that is 4 significant figures. The trailing zero after 7 is significant.",
+    "ncert_page": 28,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch02_q04",
+    "chapter_id": "c11p1_ch02",
+    "question": "If x = a + b, the maximum absolute error in x is:",
+    "options": [
+      "Δa − Δb",
+      "Δa × Δb",
+      "Δa + Δb",
+      "Δa / Δb"
+    ],
+    "correct_index": 2,
+    "explanation": "For addition or subtraction, maximum absolute errors add: Δx = Δa + Δb.",
+    "ncert_page": 30,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch02_q05",
+    "chapter_id": "c11p1_ch02",
+    "question": "Which method of error analysis gives the relative error in z = x²y/√w?",
+    "options": [
+      "Δz/z = 2(Δx/x) + (Δy/y) + (1/2)(Δw/w)",
+      "Δz/z = Δx/x + Δy/y + Δw/w",
+      "Δz/z = 2Δx + Δy − (1/2)Δw",
+      "Δz/z = (Δx/x)² + (Δy/y)"
+    ],
+    "correct_index": 0,
+    "explanation": "For z = x²y/√w, relative error Δz/z = 2(Δx/x) + (Δy/y) + (1/2)(Δw/w), since powers of variables contribute their power as a multiplier.",
+    "ncert_page": 32,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch02_q06",
+    "chapter_id": "c11p1_ch02",
+    "question": "1 parsec is equal to approximately:",
+    "options": [
+      "3.084 × 10¹⁶ m",
+      "9.46 × 10¹⁵ m",
+      "1.496 × 10¹¹ m",
+      "3.0 × 10⁸ m"
+    ],
+    "correct_index": 0,
+    "explanation": "1 parsec ≈ 3.084 × 10¹⁶ m. 1 light year ≈ 9.46 × 10¹⁵ m; 1 AU ≈ 1.496 × 10¹¹ m.",
+    "ncert_page": 25,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch02_q07",
+    "chapter_id": "c11p1_ch02",
+    "question": "Which of the following pairs has the same dimensional formula?",
+    "options": [
+      "Work and Torque",
+      "Power and Force",
+      "Impulse and Momentum",
+      "Pressure and Energy"
+    ],
+    "correct_index": 2,
+    "explanation": "Impulse = Force × time = [MLT⁻¹] and Momentum = mass × velocity = [MLT⁻¹]. Both have the same dimensional formula.",
+    "ncert_page": 37,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch02_q08",
+    "chapter_id": "c11p1_ch02",
+    "question": "The percentage error in the measurement of a quantity Q = a³b²/c is (given errors Δa/a, Δb/b, Δc/c):",
+    "options": [
+      "3(Δa/a) + 2(Δb/b) − (Δc/c)",
+      "(3Δa/a) + (2Δb/b) + (Δc/c)",
+      "Δa/a + Δb/b + Δc/c",
+      "(Δa + Δb − Δc)/a"
+    ],
+    "correct_index": 1,
+    "explanation": "For Q = a³b²/c, percentage error = 3(Δa/a)×100 + 2(Δb/b)×100 + (Δc/c)×100. Errors always add regardless of multiplication or division.",
+    "ncert_page": 32,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch02_q09",
+    "chapter_id": "c11p1_ch02",
+    "question": "Which of the following physical quantities is dimensionless?",
+    "options": [
+      "Strain",
+      "Stress",
+      "Pressure",
+      "Surface Tension"
+    ],
+    "correct_index": 0,
+    "explanation": "Strain = change in length / original length = [L]/[L] = dimensionless. Stress, Pressure, and Surface Tension all have dimensions.",
+    "ncert_page": 36,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch02_q10",
+    "chapter_id": "c11p1_ch02",
+    "question": "The dimensional formula of Planck's constant h is:",
+    "options": [
+      "[ML²T⁻¹]",
+      "[MLT⁻¹]",
+      "[ML²T⁻²]",
+      "[M⁰LT⁻¹]"
+    ],
+    "correct_index": 0,
+    "explanation": "E = hν → h = E/ν = [ML²T⁻²]/[T⁻¹] = [ML²T⁻¹]. This is the same as angular momentum.",
+    "ncert_page": 37,
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]

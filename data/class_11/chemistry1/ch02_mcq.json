@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11c1_ch02_q01",
+    "chapter_id": "c11c1_ch02",
+    "question": "Which atomic model proposed that electrons orbit the nucleus in fixed circular paths without radiating energy?",
+    "options": [
+      "Thomson model",
+      "Rutherford model",
+      "Bohr model",
+      "Quantum mechanical model"
+    ],
+    "correct_index": 2,
+    "explanation": "Bohr's model (1913) proposed discrete, stationary orbits where electrons do not radiate energy. Rutherford proposed the nuclear model but could not explain stability.",
+    "ncert_page": 46,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch02_q02",
+    "chapter_id": "c11c1_ch02",
+    "question": "The maximum number of electrons in a subshell with azimuthal quantum number l is:",
+    "options": [
+      "2l",
+      "2l + 1",
+      "2(2l + 1)",
+      "l + 1"
+    ],
+    "correct_index": 2,
+    "explanation": "Number of orbitals in a subshell = 2l + 1; each orbital holds 2 electrons. Total electrons = 2(2l + 1).",
+    "ncert_page": 59,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch02_q03",
+    "chapter_id": "c11c1_ch02",
+    "question": "The energy of the nth orbit of hydrogen atom according to Bohr is:",
+    "options": [
+      "−13.6/n eV",
+      "−13.6 × n eV",
+      "−13.6 × n² eV",
+      "−13.6/n² eV"
+    ],
+    "correct_index": 3,
+    "explanation": "En = −13.6/n² eV. Energy becomes less negative (increases) as n increases. For n=1 (ground state), E = −13.6 eV.",
+    "ncert_page": 50,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch02_q04",
+    "chapter_id": "c11c1_ch02",
+    "question": "The Pauli exclusion principle states that:",
+    "options": [
+      "electrons fill lowest energy orbitals first",
+      "electrons in degenerate orbitals have same spin",
+      "no two electrons can have all four quantum numbers identical",
+      "electrons pair up only when all orbitals are half-filled"
+    ],
+    "correct_index": 2,
+    "explanation": "Pauli exclusion principle: no two electrons in an atom can have the same set of all four quantum numbers (n, l, ml, ms). This limits each orbital to 2 electrons with opposite spins.",
+    "ncert_page": 62,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch02_q05",
+    "chapter_id": "c11c1_ch02",
+    "question": "Which series of hydrogen spectral lines falls in the visible region?",
+    "options": [
+      "Lyman series",
+      "Balmer series",
+      "Paschen series",
+      "Brackett series"
+    ],
+    "correct_index": 1,
+    "explanation": "Balmer series (transitions to n=2) appears in visible region (400–700 nm). Lyman series is in UV; Paschen, Brackett, Pfund are in infrared.",
+    "ncert_page": 52,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch02_q06",
+    "chapter_id": "c11c1_ch02",
+    "question": "The de Broglie wavelength λ of an electron with momentum p is:",
+    "options": [
+      "λ = h/p",
+      "λ = hp",
+      "λ = h × p",
+      "λ = p/h"
+    ],
+    "correct_index": 0,
+    "explanation": "de Broglie relation: λ = h/p = h/mv. This wave-particle duality is the basis of quantum mechanics.",
+    "ncert_page": 57,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch02_q07",
+    "chapter_id": "c11c1_ch02",
+    "question": "The electronic configuration of Cr (Z=24) is:",
+    "options": [
+      "[Ar] 3d⁴ 4s²",
+      "[Ar] 3d⁵ 4s¹",
+      "[Ar] 3d⁶ 4s⁰",
+      "[Ar] 3d³ 4s²"
+    ],
+    "correct_index": 1,
+    "explanation": "Cr has anomalous configuration [Ar] 3d⁵ 4s¹ (not [Ar] 3d⁴ 4s²) because half-filled 3d⁵ is extra stable (Hund's rule / exchange energy).",
+    "ncert_page": 66,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch02_q08",
+    "chapter_id": "c11c1_ch02",
+    "question": "Heisenberg's uncertainty principle states:",
+    "options": [
+      "Δx × Δv ≥ h/4πm",
+      "ΔE × Δt ≤ h/4π",
+      "Δx × Δp = h",
+      "Δx × Δp ≥ h/4π"
+    ],
+    "correct_index": 3,
+    "explanation": "Heisenberg's uncertainty principle: Δx × Δp ≥ h/4π. It is impossible to simultaneously determine exact position and momentum of a subatomic particle.",
+    "ncert_page": 58,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch02_q09",
+    "chapter_id": "c11c1_ch02",
+    "question": "The shape of a p orbital is:",
+    "options": [
+      "spherical",
+      "dumbbell",
+      "double dumbbell",
+      "ring-shaped"
+    ],
+    "correct_index": 1,
+    "explanation": "p orbitals are dumbbell-shaped (two lobes). d orbitals are double dumbbell or cloverleaf shaped. s orbitals are spherical.",
+    "ncert_page": 60,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch02_q10",
+    "chapter_id": "c11c1_ch02",
+    "question": "Rutherford's α-particle scattering experiment proved:",
+    "options": [
+      "existence of electrons",
+      "existence of protons",
+      "nuclear model — atom is mostly empty with dense positive nucleus",
+      "electrons revolve in fixed orbits"
+    ],
+    "correct_index": 2,
+    "explanation": "Rutherford found that most α-particles passed through the gold foil, some deflected at large angles. This led to the nuclear model: atom is mostly empty space with a small, dense, positively charged nucleus.",
+    "ncert_page": 42,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  }
+]

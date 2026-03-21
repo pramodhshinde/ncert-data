@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11c1_ch03_q01",
+    "chapter_id": "c11c1_ch03",
+    "question": "Mendeleev's periodic law states that properties of elements are a periodic function of their:",
+    "options": [
+      "atomic number",
+      "atomic mass",
+      "mass number",
+      "valence electrons"
+    ],
+    "correct_index": 1,
+    "explanation": "Mendeleev's periodic law (1869): properties of elements are periodic functions of their atomic mass. Modern periodic law uses atomic number (Moseley, 1913).",
+    "ncert_page": 77,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch03_q02",
+    "chapter_id": "c11c1_ch03",
+    "question": "Which of the following has the largest atomic radius?",
+    "options": [
+      "Li",
+      "Na",
+      "K",
+      "Rb"
+    ],
+    "correct_index": 3,
+    "explanation": "Atomic radius increases down a group as new shells are added. Rb (Period 5) > K (Period 4) > Na (Period 3) > Li (Period 2).",
+    "ncert_page": 89,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch03_q03",
+    "chapter_id": "c11c1_ch03",
+    "question": "The first ionisation energy is the energy required to:",
+    "options": [
+      "add an electron to a neutral atom",
+      "remove the first electron from a neutral gaseous atom",
+      "remove all electrons",
+      "form a cation from a solution"
+    ],
+    "correct_index": 1,
+    "explanation": "First ionisation energy: X(g) → X⁺(g) + e⁻. Energy needed to remove the outermost electron from a neutral atom in gaseous state.",
+    "ncert_page": 92,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch03_q04",
+    "chapter_id": "c11c1_ch03",
+    "question": "Electronegativity of elements across a period from left to right generally:",
+    "options": [
+      "decreases",
+      "increases",
+      "remains constant",
+      "first increases then decreases"
+    ],
+    "correct_index": 1,
+    "explanation": "Electronegativity increases left to right across a period due to increasing nuclear charge and decreasing atomic size, making the nucleus more attractive to bonding electrons.",
+    "ncert_page": 97,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch03_q05",
+    "chapter_id": "c11c1_ch03",
+    "question": "Which element has the highest electronegativity?",
+    "options": [
+      "Oxygen",
+      "Chlorine",
+      "Fluorine",
+      "Nitrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Fluorine (F) has the highest electronegativity value of 4.0 on the Pauling scale. It is the most electronegative element.",
+    "ncert_page": 97,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch03_q06",
+    "chapter_id": "c11c1_ch03",
+    "question": "Electron affinity is generally highest for:",
+    "options": [
+      "alkali metals",
+      "halogens",
+      "noble gases",
+      "alkaline earth metals"
+    ],
+    "correct_index": 1,
+    "explanation": "Halogens have the highest electron affinities because they need only one more electron to achieve the stable noble gas configuration. Cl has the highest EA among all elements.",
+    "ncert_page": 95,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch03_q07",
+    "chapter_id": "c11c1_ch03",
+    "question": "The anomalous high ionisation energy of Be compared to B is because:",
+    "options": [
+      "Be is in Period 2",
+      "Be has a completely filled 2s² orbital (extra stability)",
+      "B has more protons",
+      "Be has a smaller atomic mass"
+    ],
+    "correct_index": 1,
+    "explanation": "Be (1s²2s²) has a completely filled 2s subshell which is more stable, making it harder to remove an electron than from B (1s²2s²2p¹) which has a more easily removed 2p electron.",
+    "ncert_page": 93,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch03_q08",
+    "chapter_id": "c11c1_ch03",
+    "question": "Isoelectronic species have the same:",
+    "options": [
+      "atomic mass",
+      "atomic number",
+      "number of electrons",
+      "number of neutrons"
+    ],
+    "correct_index": 2,
+    "explanation": "Isoelectronic species have the same number of electrons. Example: N³⁻, O²⁻, F⁻, Ne, Na⁺, Mg²⁺, Al³⁺ all have 10 electrons.",
+    "ncert_page": 88,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch03_q09",
+    "chapter_id": "c11c1_ch03",
+    "question": "In the modern periodic table, the number of periods is:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "The modern periodic table has 7 periods and 18 groups (vertical columns). Period 7 is currently incomplete but extends to element 118 (Oganesson).",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch03_q10",
+    "chapter_id": "c11c1_ch03",
+    "question": "Which block of the periodic table contains transition elements?",
+    "options": [
+      "s-block",
+      "p-block",
+      "d-block",
+      "f-block"
+    ],
+    "correct_index": 2,
+    "explanation": "Transition elements (Groups 3-12) belong to the d-block. They are characterized by partially filled d orbitals. f-block contains inner transition elements (lanthanides and actinides).",
+    "ncert_page": 84,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  }
+]

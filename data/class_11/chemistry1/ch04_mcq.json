@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11c1_ch04_q01",
+    "chapter_id": "c11c1_ch04",
+    "question": "VSEPR theory predicts the shape of a molecule based on:",
+    "options": [
+      "atomic mass",
+      "repulsion between electron pairs in the valence shell",
+      "number of protons",
+      "nuclear charge"
+    ],
+    "correct_index": 1,
+    "explanation": "VSEPR (Valence Shell Electron Pair Repulsion) theory: electron pairs around central atom repel each other and adopt positions to minimize repulsion, determining molecular geometry.",
+    "ncert_page": 129,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch04_q02",
+    "chapter_id": "c11c1_ch04",
+    "question": "The geometry of BF₃ (no lone pairs on B) is:",
+    "options": [
+      "trigonal pyramidal",
+      "trigonal planar",
+      "tetrahedral",
+      "bent"
+    ],
+    "correct_index": 1,
+    "explanation": "BF₃ has 3 bond pairs and 0 lone pairs around B. VSEPR predicts trigonal planar geometry with 120° bond angles.",
+    "ncert_page": 131,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch04_q03",
+    "chapter_id": "c11c1_ch04",
+    "question": "Which of the following molecules has a tetrahedral shape?",
+    "options": [
+      "NH₃",
+      "H₂O",
+      "CH₄",
+      "SO₂"
+    ],
+    "correct_index": 2,
+    "explanation": "CH₄ has 4 bond pairs and 0 lone pairs — perfect tetrahedral shape (109.5°). NH₃ is trigonal pyramidal (3 bp + 1 lp); H₂O is bent (2 bp + 2 lp).",
+    "ncert_page": 131,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch04_q04",
+    "chapter_id": "c11c1_ch04",
+    "question": "Hybridisation of carbon in ethylene (C₂H₄) is:",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "sp³d"
+    ],
+    "correct_index": 1,
+    "explanation": "In ethylene, each carbon forms a double bond (σ + π). Carbon is sp² hybridised, leaving one unhybridised p orbital for π bond formation. Bond angles ≈ 120°.",
+    "ncert_page": 141,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch04_q05",
+    "chapter_id": "c11c1_ch04",
+    "question": "Hydrogen bonding is strongest in:",
+    "options": [
+      "HCl",
+      "HBr",
+      "HF",
+      "HI"
+    ],
+    "correct_index": 2,
+    "explanation": "Hydrogen bonding strength depends on electronegativity and small size of the element bonded to H. F is most electronegative and smallest, so H−F···H forms the strongest hydrogen bonds.",
+    "ncert_page": 148,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch04_q06",
+    "chapter_id": "c11c1_ch04",
+    "question": "A coordinate (dative) bond is formed when:",
+    "options": [
+      "both atoms share one electron each",
+      "one atom donates both electrons to form the bond",
+      "electrons are transferred completely",
+      "no electron sharing occurs"
+    ],
+    "correct_index": 1,
+    "explanation": "A coordinate bond (dative covalent bond) is formed when one atom (donor/Lewis base) donates both electrons of the shared pair to the other atom (acceptor/Lewis acid). Example: NH₃ → BF₃.",
+    "ncert_page": 120,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch04_q07",
+    "chapter_id": "c11c1_ch04",
+    "question": "Which of the following is an ionic compound?",
+    "options": [
+      "CCl₄",
+      "HCl",
+      "NaCl",
+      "NH₃"
+    ],
+    "correct_index": 2,
+    "explanation": "NaCl is formed by complete electron transfer from Na to Cl, creating Na⁺ and Cl⁻ ions (ionic bond). The others are covalent molecules.",
+    "ncert_page": 114,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch04_q08",
+    "chapter_id": "c11c1_ch04",
+    "question": "The bond angle in water (H₂O) is approximately:",
+    "options": [
+      "120°",
+      "109.5°",
+      "104.5°",
+      "90°"
+    ],
+    "correct_index": 2,
+    "explanation": "H₂O has 2 bond pairs and 2 lone pairs. Lone pair-lone pair repulsion > lone pair-bond pair repulsion, compressing the H-O-H angle to 104.5° (less than tetrahedral 109.5°).",
+    "ncert_page": 132,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch04_q09",
+    "chapter_id": "c11c1_ch04",
+    "question": "The bond order of O₂ according to molecular orbital theory is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "2.5"
+    ],
+    "correct_index": 1,
+    "explanation": "O₂ MO configuration: (σ1s)²(σ*1s)²(σ2s)²(σ*2s)²(σ2p)²(π2p)⁴(π*2p)². Bond order = (8 − 4)/2 = 2. O₂ is also paramagnetic (2 unpaired electrons).",
+    "ncert_page": 145,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch04_q10",
+    "chapter_id": "c11c1_ch04",
+    "question": "Which has the highest dipole moment?",
+    "options": [
+      "CO₂",
+      "BF₃",
+      "H₂O",
+      "CCl₄"
+    ],
+    "correct_index": 2,
+    "explanation": "CO₂ (linear), BF₃ (trigonal planar), and CCl₄ (tetrahedral) are all symmetric molecules with net zero dipole moment. H₂O is bent (asymmetric) so individual O-H bond dipoles add up to give a net dipole moment.",
+    "ncert_page": 135,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  }
+]

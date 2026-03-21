@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11p1_ch04_q01",
+    "chapter_id": "c11p1_ch04",
+    "question": "A scalar quantity has:",
+    "options": [
+      "magnitude and direction",
+      "only magnitude",
+      "only direction",
+      "neither magnitude nor direction"
+    ],
+    "correct_index": 1,
+    "explanation": "A scalar quantity is defined by magnitude alone. Examples: mass, speed, temperature, energy.",
+    "ncert_page": 93,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch04_q02",
+    "chapter_id": "c11p1_ch04",
+    "question": "The resultant of two vectors A and B is maximum when the angle between them is:",
+    "options": [
+      "90°",
+      "180°",
+      "0°",
+      "45°"
+    ],
+    "correct_index": 2,
+    "explanation": "R = √(A² + B² + 2AB cosθ). R is maximum when cosθ = 1, i.e., θ = 0° (vectors are parallel and in the same direction).",
+    "ncert_page": 95,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch04_q03",
+    "chapter_id": "c11p1_ch04",
+    "question": "A projectile is launched with velocity u at angle θ with horizontal. The maximum height attained is:",
+    "options": [
+      "u²sin2θ/g",
+      "u²sin²θ/2g",
+      "u²cos²θ/2g",
+      "u²/2g"
+    ],
+    "correct_index": 1,
+    "explanation": "At maximum height, vertical velocity = 0. H = (u sinθ)²/(2g) = u²sin²θ/2g.",
+    "ncert_page": 110,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch04_q04",
+    "chapter_id": "c11p1_ch04",
+    "question": "The horizontal range of a projectile is maximum when the angle of projection is:",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correct_index": 1,
+    "explanation": "R = u²sin2θ/g. R is maximum when sin2θ = 1, i.e., 2θ = 90°, θ = 45°.",
+    "ncert_page": 111,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch04_q05",
+    "chapter_id": "c11p1_ch04",
+    "question": "In uniform circular motion, the acceleration is directed:",
+    "options": [
+      "tangentially to the circle",
+      "away from centre",
+      "towards the centre",
+      "in the direction of velocity"
+    ],
+    "correct_index": 2,
+    "explanation": "In uniform circular motion, centripetal acceleration ac = v²/r is always directed towards the centre of the circle.",
+    "ncert_page": 117,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch04_q06",
+    "chapter_id": "c11p1_ch04",
+    "question": "A particle moves in a circle of radius 2 m with a speed of 4 m/s. Its centripetal acceleration is:",
+    "options": [
+      "2 m/s²",
+      "4 m/s²",
+      "8 m/s²",
+      "16 m/s²"
+    ],
+    "correct_index": 2,
+    "explanation": "ac = v²/r = (4)²/2 = 16/2 = 8 m/s².",
+    "ncert_page": 117,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch04_q07",
+    "chapter_id": "c11p1_ch04",
+    "question": "Two forces of equal magnitude F act at a point at 120° to each other. Their resultant has magnitude:",
+    "options": [
+      "F",
+      "2F",
+      "F√2",
+      "F√3"
+    ],
+    "correct_index": 0,
+    "explanation": "R = √(F² + F² + 2F²cos120°) = √(2F² − F²) = √(F²) = F.",
+    "ncert_page": 96,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch04_q08",
+    "chapter_id": "c11p1_ch04",
+    "question": "The time of flight of a projectile launched at angle θ with initial velocity u is:",
+    "options": [
+      "u sinθ/g",
+      "2u sinθ/g",
+      "u cosθ/g",
+      "2u cosθ/g"
+    ],
+    "correct_index": 1,
+    "explanation": "Time of flight T = 2(vertical component)/g = 2u sinθ/g.",
+    "ncert_page": 111,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch04_q09",
+    "chapter_id": "c11p1_ch04",
+    "question": "The relative velocity of rain with respect to a man running at velocity v when rain falls vertically with velocity u is:",
+    "options": [
+      "u + v",
+      "u − v",
+      "√(u² + v²)",
+      "u × v"
+    ],
+    "correct_index": 2,
+    "explanation": "Relative velocity = velocity of rain − velocity of man. Since rain is vertical (−u ĵ) and man moves horizontally (v î), |relative velocity| = √(u² + v²).",
+    "ncert_page": 121,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch04_q10",
+    "chapter_id": "c11p1_ch04",
+    "question": "A body moving in a circle with constant speed has:",
+    "options": [
+      "constant velocity",
+      "constant acceleration",
+      "variable speed",
+      "variable acceleration"
+    ],
+    "correct_index": 3,
+    "explanation": "In circular motion with constant speed, the direction of velocity changes continuously. Acceleration = v²/r is constant in magnitude but changes direction, making it a variable vector acceleration.",
+    "ncert_page": 116,
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]

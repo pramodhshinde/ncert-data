@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11p1_ch07_q01",
+    "chapter_id": "c11p1_ch07",
+    "question": "The centre of mass of a system of particles is the point where:",
+    "options": [
+      "all mass is concentrated",
+      "net external force acts",
+      "the system's total mass × acceleration equals net force",
+      "all of the above"
+    ],
+    "correct_index": 2,
+    "explanation": "Centre of mass is defined as the point where the entire mass can be considered concentrated for translational motion, satisfying F_net = Ma_cm.",
+    "ncert_page": 207,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch07_q02",
+    "chapter_id": "c11p1_ch07",
+    "question": "Torque is defined as:",
+    "options": [
+      "force × distance",
+      "r × F (cross product)",
+      "F × r (scalar)",
+      "force / distance"
+    ],
+    "correct_index": 1,
+    "explanation": "Torque τ = r × F (cross product of position vector and force). Its magnitude is τ = rF sinθ, where θ is the angle between r and F.",
+    "ncert_page": 218,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch07_q03",
+    "chapter_id": "c11p1_ch07",
+    "question": "The moment of inertia of a ring of mass M and radius R about its central axis is:",
+    "options": [
+      "MR²/2",
+      "MR²",
+      "2MR²",
+      "MR²/4"
+    ],
+    "correct_index": 1,
+    "explanation": "For a ring, all mass is at distance R from the axis. I = MR². For a disc, I = MR²/2.",
+    "ncert_page": 238,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch07_q04",
+    "chapter_id": "c11p1_ch07",
+    "question": "The law of conservation of angular momentum states that if the net external torque on a system is zero, its angular momentum:",
+    "options": [
+      "increases",
+      "decreases",
+      "remains constant",
+      "becomes zero"
+    ],
+    "correct_index": 2,
+    "explanation": "dL/dt = τ_ext. If τ_ext = 0, then dL/dt = 0, so L = constant. This explains why a spinning ice skater spins faster on pulling in arms.",
+    "ncert_page": 226,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch07_q05",
+    "chapter_id": "c11p1_ch07",
+    "question": "A solid cylinder and a hollow cylinder of same mass and radius roll down an incline. Which reaches the bottom first?",
+    "options": [
+      "hollow cylinder",
+      "solid cylinder",
+      "both at same time",
+      "depends on incline angle"
+    ],
+    "correct_index": 1,
+    "explanation": "For rolling without slipping, a = g sinθ/(1 + I/MR²). Solid cylinder: I = MR²/2, so 1 + I/MR² = 3/2. Hollow: I = MR², so factor = 2. Solid cylinder has greater acceleration and reaches first.",
+    "ncert_page": 252,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch07_q06",
+    "chapter_id": "c11p1_ch07",
+    "question": "The parallel axis theorem states:",
+    "options": [
+      "I = Icm + Md",
+      "I = Icm + Md²",
+      "I = Icm − Md²",
+      "I = 2Icm"
+    ],
+    "correct_index": 1,
+    "explanation": "Parallel axis theorem: I = Icm + Md², where d is the distance between the given axis and the axis through the centre of mass.",
+    "ncert_page": 240,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch07_q07",
+    "chapter_id": "c11p1_ch07",
+    "question": "A particle undergoes pure rolling without slipping. The velocity of the contact point with the ground is:",
+    "options": [
+      "2v",
+      "v",
+      "v/2",
+      "zero"
+    ],
+    "correct_index": 3,
+    "explanation": "In rolling without slipping, the contact point is instantaneously at rest. The velocity at contact = v(translation) − Rω = v − v = 0.",
+    "ncert_page": 248,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch07_q08",
+    "chapter_id": "c11p1_ch07",
+    "question": "The angular momentum L of a particle of mass m moving in a circle of radius r with velocity v is:",
+    "options": [
+      "mvr",
+      "mv/r",
+      "mv²r",
+      "mr/v"
+    ],
+    "correct_index": 0,
+    "explanation": "L = r × p = r × mv. For circular motion, L = mvr sinθ. Since v is perpendicular to r, sinθ = 1, so L = mvr.",
+    "ncert_page": 224,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch07_q09",
+    "chapter_id": "c11p1_ch07",
+    "question": "The kinetic energy of rolling without slipping is:",
+    "options": [
+      "½mv²",
+      "½Iω²",
+      "½mv² + ½Iω²",
+      "Iω²"
+    ],
+    "correct_index": 2,
+    "explanation": "Total KE = translational KE + rotational KE = ½mv² + ½Iω². For rolling without slipping, v = Rω.",
+    "ncert_page": 248,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch07_q10",
+    "chapter_id": "c11p1_ch07",
+    "question": "The perpendicular axis theorem is applicable to:",
+    "options": [
+      "3D bodies only",
+      "laminar (flat 2D) bodies",
+      "all rigid bodies",
+      "only cylinders"
+    ],
+    "correct_index": 1,
+    "explanation": "Perpendicular axis theorem: Iz = Ix + Iy, is valid only for plane laminar bodies (2D objects), where Iz is the axis perpendicular to the plane.",
+    "ncert_page": 241,
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]

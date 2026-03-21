@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11p1_ch08_q01",
+    "chapter_id": "c11p1_ch08",
+    "question": "Kepler's second law (law of areas) states that a planet sweeps equal areas in equal times. This is a consequence of:",
+    "options": [
+      "conservation of energy",
+      "conservation of linear momentum",
+      "conservation of angular momentum",
+      "Newton's third law"
+    ],
+    "correct_index": 2,
+    "explanation": "Areal velocity = L/2m = constant when torque from gravity (central force) is zero. This implies conservation of angular momentum, which gives Kepler's second law.",
+    "ncert_page": 261,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch08_q02",
+    "chapter_id": "c11p1_ch08",
+    "question": "The escape velocity from Earth's surface is approximately:",
+    "options": [
+      "7.9 km/s",
+      "11.2 km/s",
+      "9.8 km/s",
+      "3.0 km/s"
+    ],
+    "correct_index": 1,
+    "explanation": "Escape velocity ve = √(2GM/R) ≈ 11.2 km/s for Earth. Orbital velocity is 7.9 km/s (first cosmic velocity).",
+    "ncert_page": 279,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch08_q03",
+    "chapter_id": "c11p1_ch08",
+    "question": "Kepler's third law relates:",
+    "options": [
+      "orbital period and eccentricity",
+      "orbital period and orbital radius (T² ∝ r³)",
+      "orbital speed and mass",
+      "aphelion and perihelion"
+    ],
+    "correct_index": 1,
+    "explanation": "Kepler's third law: T² ∝ r³ (the square of the orbital period is proportional to the cube of the semi-major axis).",
+    "ncert_page": 263,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch08_q04",
+    "chapter_id": "c11p1_ch08",
+    "question": "The value of g decreases with height h above Earth's surface as:",
+    "options": [
+      "g' = g(1 − h/R)",
+      "g' = g/(1 + h/R)²",
+      "g' = g − h",
+      "g' = gR²/(R+h)²"
+    ],
+    "correct_index": 3,
+    "explanation": "g' = GM/(R+h)² = gR²/(R+h)². For h << R, this approximates to g' ≈ g(1 − 2h/R).",
+    "ncert_page": 268,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch08_q05",
+    "chapter_id": "c11p1_ch08",
+    "question": "The orbital velocity of a satellite near Earth's surface is approximately:",
+    "options": [
+      "11.2 km/s",
+      "7.9 km/s",
+      "9.8 km/s",
+      "4.0 km/s"
+    ],
+    "correct_index": 1,
+    "explanation": "Orbital velocity vo = √(GM/R) = √(gR) ≈ √(9.8 × 6.4×10⁶) ≈ 7.9 km/s for near-Earth orbit.",
+    "ncert_page": 277,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch08_q06",
+    "chapter_id": "c11p1_ch08",
+    "question": "Universal Law of Gravitation states F = Gm₁m₂/r². The value of G is:",
+    "options": [
+      "9.8 N m² kg⁻²",
+      "6.674 × 10⁻¹¹ N m² kg⁻²",
+      "6.022 × 10²³",
+      "1.6 × 10⁻¹⁹"
+    ],
+    "correct_index": 1,
+    "explanation": "G = 6.674 × 10⁻¹¹ N m² kg⁻² (universal gravitational constant). It is the same everywhere in the universe.",
+    "ncert_page": 258,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch08_q07",
+    "chapter_id": "c11p1_ch08",
+    "question": "At what depth below Earth's surface does g become half of its surface value?",
+    "options": [
+      "R/4",
+      "R/2",
+      "R/3",
+      "R"
+    ],
+    "correct_index": 1,
+    "explanation": "g_depth = g(1 − d/R). For g_depth = g/2: 1 − d/R = 1/2 → d = R/2. At half the Earth's radius below surface, g is halved.",
+    "ncert_page": 269,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch08_q08",
+    "chapter_id": "c11p1_ch08",
+    "question": "The total mechanical energy of a satellite in a circular orbit of radius r is:",
+    "options": [
+      "−GMm/r",
+      "−GMm/2r",
+      "GMm/2r",
+      "zero"
+    ],
+    "correct_index": 1,
+    "explanation": "Total energy = KE + PE = GMm/2r + (−GMm/r) = −GMm/2r. The negative sign indicates the satellite is bound.",
+    "ncert_page": 281,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch08_q09",
+    "chapter_id": "c11p1_ch08",
+    "question": "Geostationary satellites orbit at an altitude of approximately:",
+    "options": [
+      "400 km",
+      "2000 km",
+      "36000 km",
+      "384400 km"
+    ],
+    "correct_index": 2,
+    "explanation": "Geostationary orbit altitude ≈ 36000 km (36 × 10⁶ m) above Earth's surface, with orbital period = 24 hours.",
+    "ncert_page": 283,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch08_q10",
+    "chapter_id": "c11p1_ch08",
+    "question": "The gravitational potential at a point is defined as:",
+    "options": [
+      "potential energy of unit mass",
+      "force per unit mass",
+      "work done to bring mass from infinity to that point",
+      "potential energy of the system"
+    ],
+    "correct_index": 0,
+    "explanation": "Gravitational potential V = potential energy per unit mass = −GM/r. Work done to bring unit mass from infinity to distance r equals the gravitational potential at that point.",
+    "ncert_page": 272,
+    "difficulty": "medium",
+    "subject": "Physics"
+  }
+]

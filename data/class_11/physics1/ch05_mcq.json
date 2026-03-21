@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11p1_ch05_q01",
+    "chapter_id": "c11p1_ch05",
+    "question": "Newton's first law of motion defines:",
+    "options": [
+      "force",
+      "inertia",
+      "momentum",
+      "acceleration"
+    ],
+    "correct_index": 1,
+    "explanation": "Newton's first law states that a body continues in its state of rest or uniform motion unless acted upon by an external force. This property of resistance to change in state is called inertia.",
+    "ncert_page": 131,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch05_q02",
+    "chapter_id": "c11p1_ch05",
+    "question": "The impulse of a force is equal to:",
+    "options": [
+      "force × distance",
+      "force × time",
+      "change in velocity",
+      "change in kinetic energy"
+    ],
+    "correct_index": 1,
+    "explanation": "Impulse = F × Δt = change in momentum = mΔv. Impulse is the product of force and the time interval over which it acts.",
+    "ncert_page": 144,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch05_q03",
+    "chapter_id": "c11p1_ch05",
+    "question": "A block of mass 5 kg is pushed by a force of 20 N. If friction = 5 N, its acceleration is:",
+    "options": [
+      "3 m/s²",
+      "4 m/s²",
+      "1 m/s²",
+      "2 m/s²"
+    ],
+    "correct_index": 0,
+    "explanation": "Net force = 20 − 5 = 15 N. a = F_net/m = 15/5 = 3 m/s².",
+    "ncert_page": 136,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch05_q04",
+    "chapter_id": "c11p1_ch05",
+    "question": "The limiting friction between two surfaces depends on:",
+    "options": [
+      "area of contact",
+      "normal reaction",
+      "relative velocity",
+      "surface temperature"
+    ],
+    "correct_index": 1,
+    "explanation": "Limiting (maximum static) friction f = μN, where N is the normal reaction. It is independent of the area of contact (for dry surfaces).",
+    "ncert_page": 150,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch05_q05",
+    "chapter_id": "c11p1_ch05",
+    "question": "In an Atwood machine with masses m₁ > m₂, the acceleration of the system is:",
+    "options": [
+      "(m₁ + m₂)g/(m₁ − m₂)",
+      "(m₁ − m₂)g/(m₁ + m₂)",
+      "(m₁ × m₂)g",
+      "g/2"
+    ],
+    "correct_index": 1,
+    "explanation": "For Atwood machine: a = (m₁ − m₂)g/(m₁ + m₂). The heavier mass accelerates downward.",
+    "ncert_page": 140,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch05_q06",
+    "chapter_id": "c11p1_ch05",
+    "question": "The coefficient of static friction is always:",
+    "options": [
+      "less than kinetic friction",
+      "equal to kinetic friction",
+      "greater than or equal to kinetic friction",
+      "zero on smooth surfaces"
+    ],
+    "correct_index": 2,
+    "explanation": "μs ≥ μk always. Static friction is greater than kinetic friction because more force is needed to initiate motion than to maintain it.",
+    "ncert_page": 151,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch05_q07",
+    "chapter_id": "c11p1_ch05",
+    "question": "Newton's third law states that action and reaction forces:",
+    "options": [
+      "act on the same body",
+      "are in the same direction",
+      "act on different bodies",
+      "cancel each other"
+    ],
+    "correct_index": 2,
+    "explanation": "Newton's third law: action and reaction are equal in magnitude and opposite in direction, but they act on different objects (not on the same body), so they do not cancel.",
+    "ncert_page": 132,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch05_q08",
+    "chapter_id": "c11p1_ch05",
+    "question": "A rocket moves forward by:",
+    "options": [
+      "Newton's first law",
+      "Newton's second law",
+      "Newton's third law",
+      "law of conservation of energy"
+    ],
+    "correct_index": 2,
+    "explanation": "The rocket expels gases backward (action); the reaction force propels the rocket forward. This is Newton's third law.",
+    "ncert_page": 133,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch05_q09",
+    "chapter_id": "c11p1_ch05",
+    "question": "The banking angle θ for a car moving on a curved road of radius r with velocity v is given by:",
+    "options": [
+      "tan θ = v²/rg",
+      "tan θ = rg/v²",
+      "tan θ = v/rg",
+      "sin θ = v²/rg"
+    ],
+    "correct_index": 0,
+    "explanation": "For a banked road (frictionless): tan θ = v²/rg. Banking provides the required centripetal force without friction.",
+    "ncert_page": 158,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch05_q10",
+    "chapter_id": "c11p1_ch05",
+    "question": "The pseudo force experienced in a non-inertial reference frame of acceleration a on a mass m is:",
+    "options": [
+      "ma in the direction of a",
+      "−ma in the direction of a",
+      "mg",
+      "zero"
+    ],
+    "correct_index": 1,
+    "explanation": "Pseudo force = −ma (opposite to the direction of acceleration of the non-inertial frame), introduced to apply Newton's laws in accelerating frames.",
+    "ncert_page": 145,
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]

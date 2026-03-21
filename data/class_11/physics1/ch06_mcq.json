@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11p1_ch06_q01",
+    "chapter_id": "c11p1_ch06",
+    "question": "Work done by a force is zero when:",
+    "options": [
+      "displacement is maximum",
+      "force is maximum",
+      "force and displacement are perpendicular",
+      "force and displacement are parallel"
+    ],
+    "correct_index": 2,
+    "explanation": "W = F·d cosθ. When θ = 90°, cosθ = 0, so W = 0. Example: centripetal force does no work in circular motion.",
+    "ncert_page": 171,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch06_q02",
+    "chapter_id": "c11p1_ch06",
+    "question": "The work-energy theorem states that:",
+    "options": [
+      "work done = change in momentum",
+      "work done = change in kinetic energy",
+      "work done = force × displacement",
+      "work done = change in potential energy"
+    ],
+    "correct_index": 1,
+    "explanation": "Work-energy theorem: Net work done = ΔKE = ½mv² − ½mu². This is derived from Newton's second law.",
+    "ncert_page": 176,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch06_q03",
+    "chapter_id": "c11p1_ch06",
+    "question": "A spring compressed by x stores potential energy of:",
+    "options": [
+      "kx",
+      "kx²",
+      "½kx²",
+      "2kx²"
+    ],
+    "correct_index": 2,
+    "explanation": "Elastic potential energy in a spring = ½kx², where k is the spring constant and x is the compression/extension.",
+    "ncert_page": 184,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch06_q04",
+    "chapter_id": "c11p1_ch06",
+    "question": "In a perfectly inelastic collision:",
+    "options": [
+      "kinetic energy is conserved",
+      "momentum is not conserved",
+      "objects stick together after collision",
+      "kinetic energy increases"
+    ],
+    "correct_index": 2,
+    "explanation": "In a perfectly inelastic collision, objects stick together and move with a common velocity. Momentum is conserved but kinetic energy is not.",
+    "ncert_page": 193,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch06_q05",
+    "chapter_id": "c11p1_ch06",
+    "question": "Power is defined as:",
+    "options": [
+      "energy per unit time",
+      "force × velocity",
+      "both A and B",
+      "energy × time"
+    ],
+    "correct_index": 2,
+    "explanation": "Power P = W/t (energy per unit time). Also P = F·v (force × velocity). Both definitions are correct and equivalent.",
+    "ncert_page": 186,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch06_q06",
+    "chapter_id": "c11p1_ch06",
+    "question": "For a conservative force, the work done between two points:",
+    "options": [
+      "depends on the path taken",
+      "is always zero",
+      "is independent of path",
+      "depends on speed"
+    ],
+    "correct_index": 2,
+    "explanation": "A conservative force (e.g., gravity, spring force) does path-independent work. The work done depends only on the initial and final positions.",
+    "ncert_page": 180,
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch06_q07",
+    "chapter_id": "c11p1_ch06",
+    "question": "A 2 kg ball moving at 4 m/s collides elastically head-on with a 2 kg stationary ball. After collision:",
+    "options": [
+      "first ball stops, second moves at 4 m/s",
+      "both move at 2 m/s",
+      "first moves at 4 m/s, second stops",
+      "both stop"
+    ],
+    "correct_index": 0,
+    "explanation": "In a head-on elastic collision between equal masses, velocities are exchanged. The moving ball stops and the stationary ball moves with the original velocity of the first.",
+    "ncert_page": 191,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch06_q08",
+    "chapter_id": "c11p1_ch06",
+    "question": "The coefficient of restitution for a perfectly elastic collision is:",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "infinity"
+    ],
+    "correct_index": 2,
+    "explanation": "Coefficient of restitution e = (relative velocity of separation)/(relative velocity of approach). For perfectly elastic collision, e = 1. For perfectly inelastic, e = 0.",
+    "ncert_page": 194,
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch06_q09",
+    "chapter_id": "c11p1_ch06",
+    "question": "A body of mass m is raised to a height h. The increase in its potential energy is:",
+    "options": [
+      "mgh",
+      "½mgh",
+      "2mgh",
+      "mg/h"
+    ],
+    "correct_index": 0,
+    "explanation": "Gravitational potential energy gained = mgh, where g is acceleration due to gravity. This equals the work done against gravity.",
+    "ncert_page": 181,
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "mcq_id": "c11p1_ch06_q10",
+    "chapter_id": "c11p1_ch06",
+    "question": "A pump lifts 1000 kg of water per minute to a height of 10 m. Its power (g = 10 m/s²) is:",
+    "options": [
+      "1000 W",
+      "1666.7 W",
+      "100 W",
+      "10000 W"
+    ],
+    "correct_index": 1,
+    "explanation": "Energy per minute = mgh = 1000 × 10 × 10 = 100000 J. Power = 100000/60 ≈ 1666.7 W.",
+    "ncert_page": 187,
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]

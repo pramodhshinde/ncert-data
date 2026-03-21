@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11c1_ch07_q01",
+    "chapter_id": "c11c1_ch07",
+    "question": "In the reaction 2H₂ + O₂ → 2H₂O, the oxidation state of hydrogen changes from:",
+    "options": [
+      "0 to +1",
+      "0 to −1",
+      "+1 to 0",
+      "−1 to 0"
+    ],
+    "correct_index": 0,
+    "explanation": "In H₂, hydrogen has oxidation state 0. In H₂O, hydrogen has oxidation state +1. So H₂ is oxidised (loses electrons) and acts as a reducing agent.",
+    "ncert_page": 280,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch07_q02",
+    "chapter_id": "c11c1_ch07",
+    "question": "The oxidation state of Mn in KMnO₄ is:",
+    "options": [
+      "+4",
+      "+6",
+      "+7",
+      "+5"
+    ],
+    "correct_index": 2,
+    "explanation": "In KMnO₄: K is +1, each O is −2. +1 + Mn + 4(−2) = 0 → Mn = +7. KMnO₄ is a strong oxidising agent with Mn in +7 state.",
+    "ncert_page": 276,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch07_q03",
+    "chapter_id": "c11c1_ch07",
+    "question": "A reducing agent is a substance that:",
+    "options": [
+      "gains electrons and gets reduced",
+      "loses electrons and gets oxidised",
+      "gains protons",
+      "is always acidic"
+    ],
+    "correct_index": 1,
+    "explanation": "A reducing agent donates electrons, thereby getting oxidised itself. Example: H₂ is a reducing agent: H₂ → 2H⁺ + 2e⁻.",
+    "ncert_page": 278,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch07_q04",
+    "chapter_id": "c11c1_ch07",
+    "question": "Disproportionation reaction involves:",
+    "options": [
+      "two different elements being oxidised",
+      "one element being simultaneously oxidised and reduced",
+      "only oxidation",
+      "only reduction"
+    ],
+    "correct_index": 1,
+    "explanation": "In disproportionation, the same element in a single species acts as both oxidising agent (gets reduced) and reducing agent (gets oxidised). Example: 2H₂O₂ → 2H₂O + O₂.",
+    "ncert_page": 286,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch07_q05",
+    "chapter_id": "c11c1_ch07",
+    "question": "In the half-reaction method of balancing redox equations, what must be equalised before adding the two half-reactions?",
+    "options": [
+      "atoms of oxygen",
+      "atoms of hydrogen",
+      "number of electrons transferred",
+      "number of protons"
+    ],
+    "correct_index": 2,
+    "explanation": "In the half-reaction (ion-electron) method, both the oxidation half-reaction and reduction half-reaction must be multiplied so that the number of electrons lost = electrons gained before combining.",
+    "ncert_page": 281,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch07_q06",
+    "chapter_id": "c11c1_ch07",
+    "question": "The oxidation state of S in H₂SO₄ is:",
+    "options": [
+      "+4",
+      "+6",
+      "+2",
+      "−2"
+    ],
+    "correct_index": 1,
+    "explanation": "In H₂SO₄: 2(+1) + S + 4(−2) = 0 → S = +6. In H₂SO₃: S = +4. In H₂S: S = −2.",
+    "ncert_page": 277,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch07_q07",
+    "chapter_id": "c11c1_ch07",
+    "question": "Which of the following is an oxidation reaction?",
+    "options": [
+      "Cu²⁺ + 2e⁻ → Cu",
+      "Fe → Fe²⁺ + 2e⁻",
+      "Cl₂ + 2e⁻ → 2Cl⁻",
+      "MnO₄⁻ → Mn²⁺"
+    ],
+    "correct_index": 1,
+    "explanation": "Oxidation is loss of electrons (OIL: Oxidation Is Loss). Fe → Fe²⁺ + 2e⁻ is an oxidation half-reaction. The others involve gain of electrons (reduction).",
+    "ncert_page": 278,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch07_q08",
+    "chapter_id": "c11c1_ch07",
+    "question": "In acidic medium, KMnO₄ oxidises Fe²⁺ to Fe³⁺. The balanced half-reaction for MnO₄⁻ in acidic solution is:",
+    "options": [
+      "MnO₄⁻ + 3e⁻ → MnO₂",
+      "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O",
+      "MnO₄⁻ + 2H₂O + 3e⁻ → MnO₂ + 4OH⁻",
+      "MnO₄⁻ → Mn²⁺ + 4O²⁻"
+    ],
+    "correct_index": 1,
+    "explanation": "In acidic medium: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O. Mn goes from +7 to +2 (gains 5 electrons). In alkaline medium, MnO₄⁻ reduces to MnO₂.",
+    "ncert_page": 283,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch07_q09",
+    "chapter_id": "c11c1_ch07",
+    "question": "In the reaction Cl₂ + 2NaOH → NaCl + NaOCl + H₂O, chlorine undergoes:",
+    "options": [
+      "only oxidation",
+      "only reduction",
+      "disproportionation",
+      "neither"
+    ],
+    "correct_index": 2,
+    "explanation": "Cl₂ (oxidation state 0): in NaCl, Cl is −1 (reduced); in NaOCl, Cl is +1 (oxidised). Both changes in the same element = disproportionation.",
+    "ncert_page": 286,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch07_q10",
+    "chapter_id": "c11c1_ch07",
+    "question": "The oxidation state of N in NH₄⁺ is:",
+    "options": [
+      "+5",
+      "−3",
+      "0",
+      "+3"
+    ],
+    "correct_index": 1,
+    "explanation": "In NH₄⁺: 4(+1) + N = +1 → N = +1 − 4 = −3. The oxidation state of N ranges from −3 (in NH₃, NH₄⁺) to +5 (in HNO₃, N₂O₅).",
+    "ncert_page": 276,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  }
+]

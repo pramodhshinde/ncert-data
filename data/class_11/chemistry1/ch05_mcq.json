@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11c1_ch05_q01",
+    "chapter_id": "c11c1_ch05",
+    "question": "Which thermodynamic quantity is a state function?",
+    "options": [
+      "Heat (q)",
+      "Work (w)",
+      "Internal energy (U)",
+      "Both q and w"
+    ],
+    "correct_index": 2,
+    "explanation": "Internal energy (U) is a state function — its value depends only on the current state, not on the path. Heat and work are path functions.",
+    "ncert_page": 197,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch05_q02",
+    "chapter_id": "c11c1_ch05",
+    "question": "The first law of thermodynamics is expressed as:",
+    "options": [
+      "ΔS ≥ 0",
+      "ΔG < 0",
+      "ΔU = q + w",
+      "ΔH = ΔU + PΔV"
+    ],
+    "correct_index": 2,
+    "explanation": "First law: ΔU = q + w (energy conservation). q is heat absorbed by system; w is work done on the system. ΔH = ΔU + PΔV is the definition of enthalpy change.",
+    "ncert_page": 199,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch05_q03",
+    "chapter_id": "c11c1_ch05",
+    "question": "For an exothermic reaction at constant pressure:",
+    "options": [
+      "ΔH > 0",
+      "ΔH < 0",
+      "ΔH = 0",
+      "ΔU > 0"
+    ],
+    "correct_index": 1,
+    "explanation": "Exothermic reactions release heat to surroundings: ΔH < 0. Endothermic reactions absorb heat: ΔH > 0.",
+    "ncert_page": 205,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch05_q04",
+    "chapter_id": "c11c1_ch05",
+    "question": "Hess's law states that the enthalpy change of a reaction:",
+    "options": [
+      "depends on reaction pathway",
+      "is independent of intermediate steps",
+      "is always negative",
+      "is proportional to temperature"
+    ],
+    "correct_index": 1,
+    "explanation": "Hess's law: the total enthalpy change is the same regardless of the route taken (since H is a state function). Used to calculate ΔH of reactions not directly measurable.",
+    "ncert_page": 210,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch05_q05",
+    "chapter_id": "c11c1_ch05",
+    "question": "For a spontaneous process, the Gibbs free energy change (ΔG) is:",
+    "options": [
+      "positive",
+      "zero",
+      "negative",
+      "unpredictable"
+    ],
+    "correct_index": 2,
+    "explanation": "ΔG = ΔH − TΔS. For a spontaneous process at constant T and P, ΔG < 0. At equilibrium, ΔG = 0. Non-spontaneous: ΔG > 0.",
+    "ncert_page": 221,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch05_q06",
+    "chapter_id": "c11c1_ch05",
+    "question": "Entropy is a measure of:",
+    "options": [
+      "heat content",
+      "disorder or randomness of a system",
+      "potential energy",
+      "enthalpy"
+    ],
+    "correct_index": 1,
+    "explanation": "Entropy (S) is a measure of the degree of randomness or disorder. The second law states entropy of an isolated system always increases (ΔS_total ≥ 0).",
+    "ncert_page": 216,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch05_q07",
+    "chapter_id": "c11c1_ch05",
+    "question": "For an ideal gas expanding isothermally and reversibly, ΔU is:",
+    "options": [
+      "positive",
+      "negative",
+      "zero",
+      "equal to q"
+    ],
+    "correct_index": 2,
+    "explanation": "For an ideal gas, internal energy depends only on temperature. In isothermal expansion (ΔT = 0), ΔU = 0. Therefore q = −w (heat absorbed equals work done by gas).",
+    "ncert_page": 203,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch05_q08",
+    "chapter_id": "c11c1_ch05",
+    "question": "ΔH = ΔU + ΔngRT, where Δng is:",
+    "options": [
+      "change in total moles",
+      "change in moles of gaseous products minus gaseous reactants",
+      "moles of products",
+      "moles of reactants"
+    ],
+    "correct_index": 1,
+    "explanation": "Δng = (moles of gaseous products) − (moles of gaseous reactants). This relation connects ΔH (at constant P) and ΔU (at constant V) for gas-phase reactions.",
+    "ncert_page": 206,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch05_q09",
+    "chapter_id": "c11c1_ch05",
+    "question": "Standard enthalpy of formation (ΔHf°) of an element in its standard state is:",
+    "options": [
+      "−100 kJ/mol",
+      "100 kJ/mol",
+      "0 kJ/mol",
+      "varies"
+    ],
+    "correct_index": 2,
+    "explanation": "By convention, ΔHf° of elements in their standard state (e.g., H₂(g), C(graphite)) is zero. This is the reference baseline for thermodynamic calculations.",
+    "ncert_page": 208,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch05_q10",
+    "chapter_id": "c11c1_ch05",
+    "question": "A process is spontaneous at all temperatures if:",
+    "options": [
+      "ΔH > 0 and ΔS < 0",
+      "ΔH < 0 and ΔS > 0",
+      "ΔH > 0 and ΔS > 0",
+      "ΔH < 0 and ΔS < 0"
+    ],
+    "correct_index": 1,
+    "explanation": "ΔG = ΔH − TΔS. If ΔH < 0 and ΔS > 0, then ΔG is always negative (spontaneous) at all temperatures. This is the most favorable combination.",
+    "ncert_page": 222,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  }
+]

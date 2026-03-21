@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c11c1_ch06_q01",
+    "chapter_id": "c11c1_ch06",
+    "question": "At equilibrium, the rate of forward reaction equals the rate of reverse reaction. This is called:",
+    "options": [
+      "static equilibrium",
+      "dynamic equilibrium",
+      "irreversible equilibrium",
+      "chemical equilibrium constant"
+    ],
+    "correct_index": 1,
+    "explanation": "Chemical equilibrium is a dynamic equilibrium: forward and reverse reactions continue simultaneously at equal rates. Concentrations remain constant but the reactions do not stop.",
+    "ncert_page": 235,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch06_q02",
+    "chapter_id": "c11c1_ch06",
+    "question": "For the reaction N₂ + 3H₂ ⇌ 2NH₃, the expression for Kc is:",
+    "options": [
+      "[NH₃]²/([N₂][H₂]³)",
+      "[N₂][H₂]³/[NH₃]²",
+      "[NH₃]/([N₂][H₂])",
+      "[NH₃]²/[H₂]³"
+    ],
+    "correct_index": 0,
+    "explanation": "Kc = [products]/[reactants] raised to stoichiometric powers. Kc = [NH₃]²/([N₂][H₂]³).",
+    "ncert_page": 242,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch06_q03",
+    "chapter_id": "c11c1_ch06",
+    "question": "Le Chatelier's principle states that if a system at equilibrium is disturbed:",
+    "options": [
+      "it shifts to increase the disturbance",
+      "it shifts to decrease the disturbance",
+      "equilibrium constant changes",
+      "the reaction stops"
+    ],
+    "correct_index": 1,
+    "explanation": "Le Chatelier's principle: when a system at equilibrium is subjected to a disturbance, it shifts in the direction that tends to counteract the disturbance.",
+    "ncert_page": 251,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch06_q04",
+    "chapter_id": "c11c1_ch06",
+    "question": "The pH of a 0.01 M HCl solution is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0.01"
+    ],
+    "correct_index": 1,
+    "explanation": "HCl is a strong acid, fully dissociated. [H⁺] = 0.01 = 10⁻² M. pH = −log[H⁺] = −log(10⁻²) = 2.",
+    "ncert_page": 263,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch06_q05",
+    "chapter_id": "c11c1_ch06",
+    "question": "A buffer solution resists change in pH when:",
+    "options": [
+      "a strong acid is added",
+      "a strong base is added",
+      "small amounts of strong acid or base are added",
+      "it is diluted"
+    ],
+    "correct_index": 2,
+    "explanation": "A buffer is a mixture of a weak acid and its conjugate base (or weak base and conjugate acid). It resists pH change upon addition of small amounts of strong acid or base.",
+    "ncert_page": 270,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch06_q06",
+    "chapter_id": "c11c1_ch06",
+    "question": "The relationship between Kp and Kc is:",
+    "options": [
+      "Kp = Kc",
+      "Kp = Kc(RT)^Δn",
+      "Kp = Kc/RT",
+      "Kp = Kc + RT"
+    ],
+    "correct_index": 1,
+    "explanation": "Kp = Kc(RT)^Δng, where Δng = moles of gaseous products − moles of gaseous reactants, R = 0.0821 L atm mol⁻¹K⁻¹.",
+    "ncert_page": 247,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch06_q07",
+    "chapter_id": "c11c1_ch06",
+    "question": "Solubility product (Ksp) of AgCl is 1.8 × 10⁻¹⁰. Its molar solubility is:",
+    "options": [
+      "1.8 × 10⁻¹⁰",
+      "1.34 × 10⁻⁵",
+      "9 × 10⁻¹¹",
+      "3.6 × 10⁻¹⁰"
+    ],
+    "correct_index": 1,
+    "explanation": "AgCl ⇌ Ag⁺ + Cl⁻. Ksp = s × s = s². s = √(1.8 × 10⁻¹⁰) = 1.34 × 10⁻⁵ mol/L.",
+    "ncert_page": 275,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch06_q08",
+    "chapter_id": "c11c1_ch06",
+    "question": "Which of the following is a Lewis acid?",
+    "options": [
+      "NH₃",
+      "H₂O",
+      "BF₃",
+      "OH⁻"
+    ],
+    "correct_index": 2,
+    "explanation": "A Lewis acid is an electron pair acceptor. BF₃ has an empty p orbital and accepts electron pairs. NH₃, H₂O, and OH⁻ are Lewis bases (electron pair donors).",
+    "ncert_page": 259,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch06_q09",
+    "chapter_id": "c11c1_ch06",
+    "question": "For a weak acid HA with Ka, the degree of dissociation α (when c >> Ka) is approximately:",
+    "options": [
+      "√Ka",
+      "√(Ka/c)",
+      "Ka/c",
+      "Ka × c"
+    ],
+    "correct_index": 1,
+    "explanation": "For weak acid: Ka = cα²/(1−α) ≈ cα² (when α << 1). So α = √(Ka/c). Degree of dissociation decreases with increasing concentration.",
+    "ncert_page": 264,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c11c1_ch06_q10",
+    "chapter_id": "c11c1_ch06",
+    "question": "Increasing pressure on a gas-phase equilibrium N₂ + 3H₂ ⇌ 2NH₃ will:",
+    "options": [
+      "shift equilibrium to the left",
+      "shift equilibrium to the right",
+      "have no effect",
+      "decrease the equilibrium constant"
+    ],
+    "correct_index": 1,
+    "explanation": "Increasing pressure favors the side with fewer moles of gas. Products have 2 mol gas vs 4 mol reactants, so equilibrium shifts right (toward NH₃ formation).",
+    "ncert_page": 252,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  }
+]
