@@ -22,5 +22,13 @@
     "label": "class 12",
     "subject_count": 14,
     "tag": "class_12"
+  },
+  {
+    "class_id": 1,
+    "color_hex": "#746383",
+    "is_board": false,
+    "label": "class 1",
+    "subject_count": 20,
+    "tag": "class_1"
   }
 ]
