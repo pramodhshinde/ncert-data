@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7s_ch05_q01",
+    "chapter_id": "c7s_ch05",
+    "question": "Litmus paper turns red in the presence of:",
+    "options": [
+      "Base",
+      "Acid",
+      "Salt",
+      "Water"
+    ],
+    "correct_index": 1,
+    "explanation": "Litmus is a natural indicator. It turns red in acidic solutions and blue in basic solutions. It remains purple/unchanged in neutral solutions.",
+    "ncert_page": 66,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch05_q02",
+    "chapter_id": "c7s_ch05",
+    "question": "Which of the following is an example of an acid found in the kitchen?",
+    "options": [
+      "Baking soda",
+      "Vinegar",
+      "Soap",
+      "Salt"
+    ],
+    "correct_index": 1,
+    "explanation": "Vinegar contains acetic acid and is acidic. Baking soda is a base (sodium bicarbonate). Soap is also a base, and common salt is neutral.",
+    "ncert_page": 66,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch05_q03",
+    "chapter_id": "c7s_ch05",
+    "question": "When an acid reacts with a base, the products are:",
+    "options": [
+      "Only salt",
+      "Only water",
+      "Salt and water",
+      "Acid and base"
+    ],
+    "correct_index": 2,
+    "explanation": "Neutralisation reaction: Acid + Base → Salt + Water. This reaction releases heat and the resulting solution is neutral (neither acidic nor basic).",
+    "ncert_page": 71,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch05_q04",
+    "chapter_id": "c7s_ch05",
+    "question": "Turmeric is a natural indicator. In a basic solution, turmeric turns:",
+    "options": [
+      "Yellow",
+      "Red-brown",
+      "Blue",
+      "Green"
+    ],
+    "correct_index": 1,
+    "explanation": "Turmeric is yellow in neutral and acidic conditions but turns red-brown (brick red) when it comes in contact with a basic (alkaline) substance.",
+    "ncert_page": 68,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch05_q05",
+    "chapter_id": "c7s_ch05",
+    "question": "The process of treating a bee sting (acidic) is to apply:",
+    "options": [
+      "Vinegar",
+      "Lemon juice",
+      "Baking soda solution",
+      "More acid"
+    ],
+    "correct_index": 2,
+    "explanation": "A bee sting is acidic. Neutralisation treatment: apply a base to neutralise the acid. Baking soda (base) is used. Wasp sting is basic — treated with vinegar (acid).",
+    "ncert_page": 73,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch05_q06",
+    "chapter_id": "c7s_ch05",
+    "question": "Which of the following bases is used in antacid tablets to relieve acidity?",
+    "options": [
+      "Hydrochloric acid",
+      "Sodium hydroxide",
+      "Magnesium hydroxide",
+      "Calcium carbonate"
+    ],
+    "correct_index": 2,
+    "explanation": "Antacids contain mild bases like magnesium hydroxide or aluminium hydroxide that neutralise excess hydrochloric acid in the stomach, relieving indigestion and acidity.",
+    "ncert_page": 72,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch05_q07",
+    "chapter_id": "c7s_ch05",
+    "question": "China rose (hibiscus) indicator turns __________ in a basic solution:",
+    "options": [
+      "Dark pink/magenta",
+      "Green",
+      "Yellow-green",
+      "No change"
+    ],
+    "correct_index": 2,
+    "explanation": "China rose indicator (made from hibiscus petals) turns dark pink/magenta in acidic solutions and green in basic solutions, remaining pink-red in neutral solutions.",
+    "ncert_page": 68,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch05_q08",
+    "chapter_id": "c7s_ch05",
+    "question": "Acids taste __________ and bases taste __________:",
+    "options": [
+      "Sweet, sour",
+      "Bitter, sweet",
+      "Sour, bitter",
+      "Salty, bitter"
+    ],
+    "correct_index": 2,
+    "explanation": "Acids generally taste sour (like lemon — citric acid, vinegar — acetic acid) and bases taste bitter and feel soapy. However, tasting chemicals in a lab is never safe.",
+    "ncert_page": 65,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch05_q09",
+    "chapter_id": "c7s_ch05",
+    "question": "When farmers add calcium hydroxide (lime) to very acidic soil, the process is called:",
+    "options": [
+      "Fertilisation",
+      "Neutralisation",
+      "Irrigation",
+      "Weathering"
+    ],
+    "correct_index": 1,
+    "explanation": "When soil is too acidic for crops, farmers add bases like calcium hydroxide (slaked lime) or calcium carbonate to neutralise the excess acid and make soil suitable for cultivation.",
+    "ncert_page": 73,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch05_q10",
+    "chapter_id": "c7s_ch05",
+    "question": "A solution has a pH of 3. It is most likely:",
+    "options": [
+      "Neutral",
+      "Weakly basic",
+      "Strongly acidic",
+      "Weakly acidic"
+    ],
+    "correct_index": 2,
+    "explanation": "pH scale: 7 is neutral, below 7 is acidic (lower = more acidic), above 7 is basic. pH 3 is far below 7, indicating a strongly acidic solution. (pH scale is covered as extension material.)",
+    "ncert_page": 70,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

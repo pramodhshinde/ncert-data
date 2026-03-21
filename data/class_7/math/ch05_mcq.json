@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch05_q01",
+    "chapter_id": "c7m_ch05",
+    "question": "Two angles are complementary. One angle is 35°. What is the other angle?",
+    "options": [
+      "55°",
+      "65°",
+      "145°",
+      "35°"
+    ],
+    "correct_index": 0,
+    "explanation": "Complementary angles sum to 90°. If one angle is 35°, the other = 90° - 35° = 55°.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch05_q02",
+    "chapter_id": "c7m_ch05",
+    "question": "Two angles are supplementary. One angle is 110°. What is the other?",
+    "options": [
+      "70°",
+      "80°",
+      "250°",
+      "290°"
+    ],
+    "correct_index": 0,
+    "explanation": "Supplementary angles sum to 180°. The other angle = 180° - 110° = 70°.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch05_q03",
+    "chapter_id": "c7m_ch05",
+    "question": "Vertically opposite angles are always:",
+    "options": [
+      "Supplementary",
+      "Complementary",
+      "Equal",
+      "Adjacent"
+    ],
+    "correct_index": 2,
+    "explanation": "When two lines intersect, they form two pairs of vertically opposite angles. Vertically opposite angles are always equal to each other.",
+    "ncert_page": 113,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch05_q04",
+    "chapter_id": "c7m_ch05",
+    "question": "A transversal crosses two parallel lines. The co-interior (same-side interior) angles are:",
+    "options": [
+      "Equal",
+      "Complementary",
+      "Supplementary",
+      "Vertically opposite"
+    ],
+    "correct_index": 2,
+    "explanation": "When a transversal cuts two parallel lines, co-interior angles (also called consecutive interior angles) are supplementary, i.e., they add up to 180°.",
+    "ncert_page": 121,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch05_q05",
+    "chapter_id": "c7m_ch05",
+    "question": "Alternate interior angles formed when a transversal cuts two parallel lines are:",
+    "options": [
+      "Supplementary",
+      "Equal",
+      "Complementary",
+      "None of the above"
+    ],
+    "correct_index": 1,
+    "explanation": "Alternate interior angles are equal when formed by a transversal cutting two parallel lines. This is one of the key properties of parallel lines.",
+    "ncert_page": 120,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch05_q06",
+    "chapter_id": "c7m_ch05",
+    "question": "Which of the following pairs of angles are adjacent angles?",
+    "options": [
+      "Angles that are equal",
+      "Angles with a common vertex, common arm, and no overlap",
+      "Angles that sum to 180°",
+      "Angles formed by two intersecting lines"
+    ],
+    "correct_index": 1,
+    "explanation": "Adjacent angles share a common vertex and a common arm, and the non-common arms are on opposite sides (they do not overlap).",
+    "ncert_page": 111,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch05_q07",
+    "chapter_id": "c7m_ch05",
+    "question": "If one angle of a linear pair is 65°, what is the other angle?",
+    "options": [
+      "65°",
+      "115°",
+      "25°",
+      "125°"
+    ],
+    "correct_index": 1,
+    "explanation": "A linear pair of angles are supplementary (sum = 180°). The other angle = 180° - 65° = 115°.",
+    "ncert_page": 112,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch05_q08",
+    "chapter_id": "c7m_ch05",
+    "question": "Corresponding angles formed by a transversal cutting two parallel lines are:",
+    "options": [
+      "Supplementary",
+      "Complementary",
+      "Equal",
+      "Vertically opposite"
+    ],
+    "correct_index": 2,
+    "explanation": "Corresponding angles are equal when a transversal cuts two parallel lines. They occupy the same position at each intersection.",
+    "ncert_page": 119,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch05_q09",
+    "chapter_id": "c7m_ch05",
+    "question": "Two lines are perpendicular to each other. What is the measure of each angle formed at the intersection?",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "180°"
+    ],
+    "correct_index": 2,
+    "explanation": "When two lines are perpendicular, they form four right angles (90° each) at the point of intersection.",
+    "ncert_page": 108,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch05_q10",
+    "chapter_id": "c7m_ch05",
+    "question": "A transversal cuts two lines. If alternate exterior angles are equal, then the two lines are:",
+    "options": [
+      "Intersecting",
+      "Perpendicular",
+      "Parallel",
+      "Skew"
+    ],
+    "correct_index": 2,
+    "explanation": "If alternate exterior angles formed by a transversal are equal, this is a sufficient condition to conclude that the two lines cut by the transversal are parallel.",
+    "ncert_page": 122,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

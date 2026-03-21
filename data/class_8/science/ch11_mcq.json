@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8s_ch11_q01",
+    "chapter_id": "c8s_ch11",
+    "question": "Force is a:",
+    "options": [
+      "scalar quantity",
+      "vector quantity",
+      "dimensionless quantity",
+      "unit of energy"
+    ],
+    "correct_index": 1,
+    "explanation": "Force is a vector quantity — it has both magnitude (size) and direction. It is measured in Newtons (N).",
+    "ncert_page": 149,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch11_q02",
+    "chapter_id": "c8s_ch11",
+    "question": "Pressure is defined as:",
+    "options": [
+      "Force × Area",
+      "Force / Area",
+      "Area / Force",
+      "Force + Area"
+    ],
+    "correct_index": 1,
+    "explanation": "Pressure = Force / Area. It is the force applied per unit area. Unit of pressure is Pascal (Pa) = N/m².",
+    "ncert_page": 157,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch11_q03",
+    "chapter_id": "c8s_ch11",
+    "question": "Which of the following is an example of a contact force?",
+    "options": [
+      "Gravitational force",
+      "Magnetic force",
+      "Friction",
+      "Electrostatic force"
+    ],
+    "correct_index": 2,
+    "explanation": "Friction is a contact force — it acts only when two surfaces are in direct contact with each other. Gravity, magnetism, and electrostatic forces can act at a distance.",
+    "ncert_page": 151,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch11_q04",
+    "chapter_id": "c8s_ch11",
+    "question": "The atmospheric pressure at sea level is approximately:",
+    "options": [
+      "1 Pascal",
+      "100 Pascal",
+      "100,000 Pascal",
+      "1,000,000 Pascal"
+    ],
+    "correct_index": 2,
+    "explanation": "Standard atmospheric pressure at sea level is approximately 101,325 Pa ≈ 100,000 Pa (100 kPa). This is the weight of the air column above a unit area.",
+    "ncert_page": 161,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch11_q05",
+    "chapter_id": "c8s_ch11",
+    "question": "Why does a sharp knife cut better than a blunt knife?",
+    "options": [
+      "Sharp knife has more force",
+      "Sharp knife has smaller area, so more pressure",
+      "Sharp knife is heavier",
+      "Sharp knife has greater speed"
+    ],
+    "correct_index": 1,
+    "explanation": "Pressure = Force/Area. A sharp knife has a very small contact area. For the same applied force, the pressure on the cutting surface is much greater, allowing it to cut more easily.",
+    "ncert_page": 158,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch11_q06",
+    "chapter_id": "c8s_ch11",
+    "question": "A force can change all of the following EXCEPT:",
+    "options": [
+      "speed of an object",
+      "direction of motion",
+      "mass of an object",
+      "shape of an object"
+    ],
+    "correct_index": 2,
+    "explanation": "Force can change an object's speed, direction of motion, and shape. Force cannot change the mass of an object — mass is an intrinsic property.",
+    "ncert_page": 150,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch11_q07",
+    "chapter_id": "c8s_ch11",
+    "question": "Liquids exert pressure in:",
+    "options": [
+      "only downward direction",
+      "only upward direction",
+      "all directions",
+      "only sideways"
+    ],
+    "correct_index": 2,
+    "explanation": "Liquids (and gases) exert pressure equally in all directions at a given depth. This is known as Pascal's law principle.",
+    "ncert_page": 162,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch11_q08",
+    "chapter_id": "c8s_ch11",
+    "question": "A ball of mass 1 kg rests on a surface of area 0.1 m². If g = 10 m/s², the pressure exerted is:",
+    "options": [
+      "10 Pa",
+      "100 Pa",
+      "1 Pa",
+      "1000 Pa"
+    ],
+    "correct_index": 1,
+    "explanation": "Force = mg = 1 × 10 = 10 N. Pressure = Force/Area = 10/0.1 = 100 Pa.",
+    "ncert_page": 158,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch11_q09",
+    "chapter_id": "c8s_ch11",
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hydrometer",
+      "Speedometer"
+    ],
+    "correct_index": 1,
+    "explanation": "A barometer is used to measure atmospheric (air) pressure. Mercury barometers and aneroid barometers are commonly used.",
+    "ncert_page": 163,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch11_q10",
+    "chapter_id": "c8s_ch11",
+    "question": "Why do mountaineers carry oxygen cylinders at high altitudes?",
+    "options": [
+      "Atmospheric pressure is very high at high altitudes",
+      "Atmospheric pressure decreases with altitude, making air thin and oxygen scarce",
+      "Temperature at high altitude increases oxygen demand",
+      "There is no nitrogen at high altitude"
+    ],
+    "correct_index": 1,
+    "explanation": "Atmospheric pressure decreases with increasing altitude because there is less air above. At high altitudes, the air is thin (low oxygen partial pressure), making breathing difficult. Mountaineers need supplemental oxygen.",
+    "ncert_page": 163,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

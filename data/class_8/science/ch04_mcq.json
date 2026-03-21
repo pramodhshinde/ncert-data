@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8s_ch04_q01",
+    "chapter_id": "c8s_ch04",
+    "question": "Which of the following is a physical property of metals?",
+    "options": [
+      "They react with acids to produce salts",
+      "They are generally hard and lustrous",
+      "They are poor conductors of electricity",
+      "They are brittle"
+    ],
+    "correct_index": 1,
+    "explanation": "Metals are generally hard, lustrous (shiny), malleable, ductile, sonorous, and good conductors of heat and electricity. Non-metals are typically brittle.",
+    "ncert_page": 51,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch04_q02",
+    "chapter_id": "c8s_ch04",
+    "question": "The metal that can be cut with a knife is:",
+    "options": [
+      "Iron",
+      "Copper",
+      "Sodium",
+      "Zinc"
+    ],
+    "correct_index": 2,
+    "explanation": "Sodium (Na) is an extremely soft metal that can be easily cut with a knife. It is stored under kerosene to prevent reaction with air and moisture.",
+    "ncert_page": 52,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch04_q03",
+    "chapter_id": "c8s_ch04",
+    "question": "When iron reacts with dilute sulphuric acid, the gas produced is:",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Iron + dilute H₂SO₄ → Iron sulphate + Hydrogen gas. Most metals react with dilute acids to produce hydrogen gas and a corresponding salt.",
+    "ncert_page": 56,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch04_q04",
+    "chapter_id": "c8s_ch04",
+    "question": "Which non-metal is a good conductor of electricity?",
+    "options": [
+      "Sulphur",
+      "Phosphorus",
+      "Graphite",
+      "Iodine"
+    ],
+    "correct_index": 2,
+    "explanation": "Graphite (a form of carbon) is the only non-metal that conducts electricity well. All other non-metals are poor conductors.",
+    "ncert_page": 53,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch04_q05",
+    "chapter_id": "c8s_ch04",
+    "question": "In a displacement reaction, iron displaces copper from copper sulphate solution because:",
+    "options": [
+      "Iron is less reactive than copper",
+      "Iron is more reactive than copper",
+      "Iron is a non-metal",
+      "Copper is more reactive than iron"
+    ],
+    "correct_index": 1,
+    "explanation": "Iron is more reactive than copper in the reactivity series. A more reactive metal displaces a less reactive metal from its salt solution. Fe + CuSO₄ → FeSO₄ + Cu.",
+    "ncert_page": 58,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch04_q06",
+    "chapter_id": "c8s_ch04",
+    "question": "Which of the following metals does NOT react with water at all?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Gold",
+      "Magnesium"
+    ],
+    "correct_index": 2,
+    "explanation": "Gold is a very unreactive (noble) metal and does not react with water, dilute acids, or air under normal conditions. Sodium and potassium react vigorously with water.",
+    "ncert_page": 55,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch04_q07",
+    "chapter_id": "c8s_ch04",
+    "question": "The property of metals by which they can be drawn into thin wires is called:",
+    "options": [
+      "Malleability",
+      "Ductility",
+      "Sonority",
+      "Conductivity"
+    ],
+    "correct_index": 1,
+    "explanation": "Ductility is the property of metals by which they can be drawn into thin wires. Gold is the most ductile metal. Malleability refers to being beaten into thin sheets.",
+    "ncert_page": 52,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch04_q08",
+    "chapter_id": "c8s_ch04",
+    "question": "When copper reacts with oxygen, it forms:",
+    "options": [
+      "Copper hydroxide",
+      "Copper nitrate",
+      "Copper oxide (black)",
+      "Copper sulphate"
+    ],
+    "correct_index": 2,
+    "explanation": "When copper is heated in air, it reacts with oxygen to form copper oxide (CuO), which is a black substance: 2Cu + O₂ → 2CuO.",
+    "ncert_page": 55,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch04_q09",
+    "chapter_id": "c8s_ch04",
+    "question": "Which non-metal is essential for our respiration?",
+    "options": [
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon",
+      "Oxygen"
+    ],
+    "correct_index": 3,
+    "explanation": "Oxygen is a non-metal that is essential for respiration in living organisms. It is used by cells to break down food and produce energy.",
+    "ncert_page": 53,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch04_q10",
+    "chapter_id": "c8s_ch04",
+    "question": "A metal M displaces zinc from zinc sulphate solution but cannot displace iron from iron sulphate solution. What is the correct order of reactivity?",
+    "options": [
+      "M > Zn > Fe",
+      "Fe > M > Zn",
+      "Zn > M > Fe",
+      "Fe > Zn > M"
+    ],
+    "correct_index": 1,
+    "explanation": "M can displace Zn (so M > Zn), but M cannot displace Fe (so Fe > M). Therefore the reactivity order is Fe > M > Zn.",
+    "ncert_page": 59,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

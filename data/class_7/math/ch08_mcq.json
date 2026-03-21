@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch08_q01",
+    "chapter_id": "c7m_ch08",
+    "question": "What percentage is 25 of 200?",
+    "options": [
+      "10%",
+      "12.5%",
+      "25%",
+      "50%"
+    ],
+    "correct_index": 1,
+    "explanation": "Percentage = (part/whole) × 100 = (25/200) × 100 = 12.5%. Percentages are a way of comparing quantities with respect to 100.",
+    "ncert_page": 176,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch08_q02",
+    "chapter_id": "c7m_ch08",
+    "question": "A shopkeeper buys an item for ₹400 and sells it for ₹500. What is the profit percentage?",
+    "options": [
+      "20%",
+      "25%",
+      "10%",
+      "15%"
+    ],
+    "correct_index": 1,
+    "explanation": "Profit = SP - CP = 500 - 400 = ₹100. Profit% = (Profit/CP) × 100 = (100/400) × 100 = 25%.",
+    "ncert_page": 183,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch08_q03",
+    "chapter_id": "c7m_ch08",
+    "question": "The ratio 3:5 is equivalent to:",
+    "options": [
+      "6:15",
+      "9:15",
+      "12:15",
+      "15:25"
+    ],
+    "correct_index": 1,
+    "explanation": "To find equivalent ratios, multiply or divide both terms by the same number. 3×3 : 5×3 = 9:15. So 3:5 = 9:15.",
+    "ncert_page": 174,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch08_q04",
+    "chapter_id": "c7m_ch08",
+    "question": "Simple interest on ₹1000 at 10% per annum for 2 years is:",
+    "options": [
+      "₹100",
+      "₹150",
+      "₹200",
+      "₹250"
+    ],
+    "correct_index": 2,
+    "explanation": "SI = (P × R × T)/100 = (1000 × 10 × 2)/100 = 20000/100 = ₹200. Simple interest is calculated only on the principal amount.",
+    "ncert_page": 186,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch08_q05",
+    "chapter_id": "c7m_ch08",
+    "question": "A price decreased from ₹500 to ₹400. What is the percentage decrease?",
+    "options": [
+      "10%",
+      "20%",
+      "25%",
+      "80%"
+    ],
+    "correct_index": 1,
+    "explanation": "Decrease = 500 - 400 = 100. Decrease% = (Decrease/Original) × 100 = (100/500) × 100 = 20%.",
+    "ncert_page": 179,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch08_q06",
+    "chapter_id": "c7m_ch08",
+    "question": "Convert 3/5 to a percentage:",
+    "options": [
+      "35%",
+      "53%",
+      "60%",
+      "65%"
+    ],
+    "correct_index": 2,
+    "explanation": "To convert a fraction to percentage, multiply by 100. (3/5) × 100 = 60%. Fractions, decimals, and percentages are interconvertible.",
+    "ncert_page": 175,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch08_q07",
+    "chapter_id": "c7m_ch08",
+    "question": "A bike is sold at a loss of 15%. If the cost price is ₹8000, what is the selling price?",
+    "options": [
+      "₹6200",
+      "₹6800",
+      "₹7000",
+      "₹9200"
+    ],
+    "correct_index": 1,
+    "explanation": "Loss = 15% of CP = (15/100) × 8000 = ₹1200. SP = CP - Loss = 8000 - 1200 = ₹6800.",
+    "ncert_page": 183,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch08_q08",
+    "chapter_id": "c7m_ch08",
+    "question": "The ratio of boys to girls in a class is 3:2. If there are 30 students total, how many are girls?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "correct_index": 1,
+    "explanation": "Total parts = 3 + 2 = 5. Girls = (2/5) × 30 = 12. Ratios help divide quantities into proportional parts.",
+    "ncert_page": 174,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch08_q09",
+    "chapter_id": "c7m_ch08",
+    "question": "If principal = ₹2000, rate = 5% per annum, and SI = ₹300, find the time period:",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "4 years"
+    ],
+    "correct_index": 2,
+    "explanation": "SI = (P × R × T)/100. 300 = (2000 × 5 × T)/100. 300 = 100T. T = 3 years.",
+    "ncert_page": 186,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch08_q10",
+    "chapter_id": "c7m_ch08",
+    "question": "Raju bought a watch for ₹1200 and sold it at a profit of 25%. Then the shopkeeper sold it at a loss of 10% of the new price. What is the final selling price?",
+    "options": [
+      "₹1350",
+      "₹1440",
+      "₹1500",
+      "₹1080"
+    ],
+    "correct_index": 0,
+    "explanation": "Raju's SP = 1200 + 25% of 1200 = 1200 + 300 = ₹1500. Shopkeeper's SP = 1500 - 10% of 1500 = 1500 - 150 = ₹1350.",
+    "ncert_page": 184,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

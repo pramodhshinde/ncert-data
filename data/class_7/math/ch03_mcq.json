@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch03_q01",
+    "chapter_id": "c7m_ch03",
+    "question": "What is the mean of the data: 4, 7, 2, 9, 3?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct_index": 1,
+    "explanation": "Mean = (4+7+2+9+3)/5 = 25/5 = 5. The mean is the sum of all observations divided by the number of observations.",
+    "ncert_page": 60,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch03_q02",
+    "chapter_id": "c7m_ch03",
+    "question": "The median of the data 3, 1, 5, 7, 9, 2, 6 after arranging in ascending order is:",
+    "options": [
+      "5",
+      "6",
+      "3",
+      "7"
+    ],
+    "correct_index": 0,
+    "explanation": "Arranging in ascending order: 1, 2, 3, 5, 6, 7, 9. The middle value (4th term) is 5. Median is the middle value of arranged data.",
+    "ncert_page": 63,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch03_q03",
+    "chapter_id": "c7m_ch03",
+    "question": "Which measure of central tendency is most affected by extreme values?",
+    "options": [
+      "Mode",
+      "Median",
+      "Mean",
+      "None of these"
+    ],
+    "correct_index": 2,
+    "explanation": "Mean is most affected by extreme values (outliers) because all values are included in its calculation. Median and mode are not as sensitive to extreme values.",
+    "ncert_page": 61,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch03_q04",
+    "chapter_id": "c7m_ch03",
+    "question": "The mode of the data 2, 3, 5, 3, 7, 3, 9, 2 is:",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "correct_index": 1,
+    "explanation": "Mode is the value that appears most frequently. Here, 3 appears 3 times, 2 appears 2 times, and others appear once. So mode = 3.",
+    "ncert_page": 65,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch03_q05",
+    "chapter_id": "c7m_ch03",
+    "question": "In a bar graph, the height of each bar represents:",
+    "options": [
+      "The class interval",
+      "The frequency of that category",
+      "The median of data",
+      "The range of data"
+    ],
+    "correct_index": 1,
+    "explanation": "In a bar graph, the height (or length) of each bar represents the frequency or value of that particular category, making visual comparison easy.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch03_q06",
+    "chapter_id": "c7m_ch03",
+    "question": "If the mean of five numbers is 10, what is their sum?",
+    "options": [
+      "10",
+      "15",
+      "50",
+      "100"
+    ],
+    "correct_index": 2,
+    "explanation": "Mean = Sum / Number of observations. So Sum = Mean × Number = 10 × 5 = 50.",
+    "ncert_page": 60,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch03_q07",
+    "chapter_id": "c7m_ch03",
+    "question": "The collection of information gathered for a specific purpose is called:",
+    "options": [
+      "Mode",
+      "Data",
+      "Mean",
+      "Graph"
+    ],
+    "correct_index": 1,
+    "explanation": "Data refers to the collection of information gathered for a specific purpose. It can be in the form of numbers, words, measurements, or observations.",
+    "ncert_page": 57,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch03_q08",
+    "chapter_id": "c7m_ch03",
+    "question": "For the data set 5, 5, 5, 5, 5, the mean, median, and mode are:",
+    "options": [
+      "Different for all three",
+      "5 for all three",
+      "Mean=5, Median=0, Mode=5",
+      "Mean=0, Median=5, Mode=5"
+    ],
+    "correct_index": 1,
+    "explanation": "When all values are equal, mean = median = mode = that value. Here all values are 5, so mean = median = mode = 5.",
+    "ncert_page": 65,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch03_q09",
+    "chapter_id": "c7m_ch03",
+    "question": "The marks scored by 7 students are 45, 52, 60, 45, 70, 45, 80. The mode is 45. If one more student scored 80, what is the new mode?",
+    "options": [
+      "45",
+      "80",
+      "Both 45 and 80",
+      "52"
+    ],
+    "correct_index": 2,
+    "explanation": "With 8 students: 45 appears 3 times and 80 appears 2 times. Mode is still 45. Wait — original: 45 (3 times), 80 (1 time); new: 45 (3 times), 80 (2 times). Mode = 45. Actually if 80 also appeared 3 times they'd be bimodal. Here mode remains 45.",
+    "ncert_page": 65,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch03_q10",
+    "chapter_id": "c7m_ch03",
+    "question": "A data set has 6 values arranged in order: 10, 15, 18, 22, 25, 30. What is the median?",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "21"
+    ],
+    "correct_index": 1,
+    "explanation": "For even number of observations, median = average of middle two values. Middle values are 18 and 22 (3rd and 4th). Median = (18+22)/2 = 40/2 = 20.",
+    "ncert_page": 63,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

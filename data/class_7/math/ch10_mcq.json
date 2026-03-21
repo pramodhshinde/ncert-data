@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch10_q01",
+    "chapter_id": "c7m_ch10",
+    "question": "Which tool is used to draw an arc in geometric construction?",
+    "options": [
+      "Ruler",
+      "Protractor",
+      "Compass",
+      "Set square"
+    ],
+    "correct_index": 2,
+    "explanation": "A compass is used to draw arcs and circles in geometric construction. It maintains a fixed distance (radius) while drawing.",
+    "ncert_page": 216,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch10_q02",
+    "chapter_id": "c7m_ch10",
+    "question": "To construct a triangle, the minimum information required is:",
+    "options": [
+      "One side",
+      "Two sides",
+      "Three specific measurements (angles/sides)",
+      "Only three angles"
+    ],
+    "correct_index": 2,
+    "explanation": "A unique triangle can be constructed with three specific measurements, such as three sides (SSS), two sides and included angle (SAS), two angles and included side (ASA), etc.",
+    "ncert_page": 217,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch10_q03",
+    "chapter_id": "c7m_ch10",
+    "question": "If three sides of a triangle are given (SSS), can we construct a unique triangle?",
+    "options": [
+      "No, many triangles are possible",
+      "Yes, exactly one triangle is possible",
+      "Only if it is equilateral",
+      "Only if one side is twice another"
+    ],
+    "correct_index": 1,
+    "explanation": "Given three specific sides (SSS), exactly one unique triangle can be constructed (assuming the triangle inequality is satisfied).",
+    "ncert_page": 218,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch10_q04",
+    "chapter_id": "c7m_ch10",
+    "question": "Which of the following measurements is NOT sufficient to construct a unique triangle?",
+    "options": [
+      "Three sides (SSS)",
+      "Two sides and included angle (SAS)",
+      "Three angles (AAA)",
+      "Two angles and included side (ASA)"
+    ],
+    "correct_index": 2,
+    "explanation": "Three angles (AAA) only fix the shape (similar triangles) but NOT the size. Infinitely many triangles of different sizes can have the same three angles.",
+    "ncert_page": 222,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch10_q05",
+    "chapter_id": "c7m_ch10",
+    "question": "To construct a triangle with sides 4 cm, 5 cm, and 6 cm, the first step is:",
+    "options": [
+      "Draw the shortest side",
+      "Draw any one side as base",
+      "Draw the longest side",
+      "Find all angles first"
+    ],
+    "correct_index": 1,
+    "explanation": "In SSS construction, the standard approach is to draw one side as the base (any convenient side), then use arcs from both ends to locate the third vertex.",
+    "ncert_page": 218,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch10_q06",
+    "chapter_id": "c7m_ch10",
+    "question": "In RHS construction, which two pieces of information about a right triangle are given?",
+    "options": [
+      "Two legs",
+      "Hypotenuse and one acute angle",
+      "Right angle, hypotenuse, and one leg",
+      "Two angles"
+    ],
+    "correct_index": 2,
+    "explanation": "RHS construction: the right angle (90°) is known, hypotenuse length is given, and one leg length is given. This uniquely determines the right triangle.",
+    "ncert_page": 225,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch10_q07",
+    "chapter_id": "c7m_ch10",
+    "question": "When constructing a triangle using SAS, the angle must be:",
+    "options": [
+      "Any angle of the triangle",
+      "The angle between the two given sides",
+      "The largest angle",
+      "The smallest angle"
+    ],
+    "correct_index": 1,
+    "explanation": "In SAS construction, the given angle must be the INCLUDED angle — the angle formed between the two given sides. The angle must lie between the two sides.",
+    "ncert_page": 221,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch10_q08",
+    "chapter_id": "c7m_ch10",
+    "question": "A protractor is used in construction to:",
+    "options": [
+      "Measure lengths",
+      "Draw arcs",
+      "Measure and draw angles",
+      "Draw parallel lines"
+    ],
+    "correct_index": 2,
+    "explanation": "A protractor is a semi-circular instrument used to measure angles in degrees and to construct angles of specified degree measure.",
+    "ncert_page": 216,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch10_q09",
+    "chapter_id": "c7m_ch10",
+    "question": "Can you construct a triangle with angles 60°, 70°, and 60°?",
+    "options": [
+      "Yes",
+      "No, because the angles do not add up to 180°",
+      "Yes, if ASA is used",
+      "No, because all angles must be different"
+    ],
+    "correct_index": 1,
+    "explanation": "60° + 70° + 60° = 190° ≠ 180°. Since the sum of angles exceeds 180°, these three angles cannot form a triangle.",
+    "ncert_page": 222,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch10_q10",
+    "chapter_id": "c7m_ch10",
+    "question": "To construct an equilateral triangle with side 5 cm, what is the measure of each angle to be constructed at the base?",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "30°"
+    ],
+    "correct_index": 1,
+    "explanation": "An equilateral triangle has all sides equal and all angles equal to 60°. So at each base vertex, a 60° angle is constructed, which automatically gives the third vertex at 60° too.",
+    "ncert_page": 218,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

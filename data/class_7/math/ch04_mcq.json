@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch04_q01",
+    "chapter_id": "c7m_ch04",
+    "question": "Which of the following is an equation?",
+    "options": [
+      "2x + 3",
+      "x + 5 > 10",
+      "3x + 4 = 10",
+      "4y - 7"
+    ],
+    "correct_index": 2,
+    "explanation": "An equation has an equality sign (=) with expressions on both sides. '3x + 4 = 10' is an equation because it has an '=' sign.",
+    "ncert_page": 86,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch04_q02",
+    "chapter_id": "c7m_ch04",
+    "question": "What is the solution of the equation x + 5 = 12?",
+    "options": [
+      "5",
+      "7",
+      "17",
+      "6"
+    ],
+    "correct_index": 1,
+    "explanation": "x + 5 = 12. Transposing 5 to the RHS: x = 12 - 5 = 7. Verification: 7 + 5 = 12. ✓",
+    "ncert_page": 89,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch04_q03",
+    "chapter_id": "c7m_ch04",
+    "question": "Solve: 3x = 21",
+    "options": [
+      "x = 7",
+      "x = 63",
+      "x = 18",
+      "x = 3"
+    ],
+    "correct_index": 0,
+    "explanation": "3x = 21. Dividing both sides by 3: x = 21/3 = 7. Both sides of an equation must be treated equally.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch04_q04",
+    "chapter_id": "c7m_ch04",
+    "question": "What is the value of y in 2y - 3 = 11?",
+    "options": [
+      "4",
+      "7",
+      "8",
+      "14"
+    ],
+    "correct_index": 1,
+    "explanation": "2y - 3 = 11. Transposing -3: 2y = 11 + 3 = 14. Dividing by 2: y = 14/2 = 7. Verification: 2(7) - 3 = 14 - 3 = 11. ✓",
+    "ncert_page": 92,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch04_q05",
+    "chapter_id": "c7m_ch04",
+    "question": "The age of Ramu's father is 4 times Ramu's age. If the father is 40 years old, set up the correct equation for Ramu's age x:",
+    "options": [
+      "x + 4 = 40",
+      "4x = 40",
+      "x/4 = 40",
+      "x - 4 = 40"
+    ],
+    "correct_index": 1,
+    "explanation": "Father's age = 4 times Ramu's age. If Ramu's age is x, then 4x = 40. Setting up equations from word problems is a key skill in this chapter.",
+    "ncert_page": 97,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch04_q06",
+    "chapter_id": "c7m_ch04",
+    "question": "Solve: m/3 = 6",
+    "options": [
+      "m = 2",
+      "m = 18",
+      "m = 9",
+      "m = 3"
+    ],
+    "correct_index": 1,
+    "explanation": "m/3 = 6. Multiplying both sides by 3: m = 6 × 3 = 18. Dividing and multiplying by the same number keeps the equation balanced.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch04_q07",
+    "chapter_id": "c7m_ch04",
+    "question": "Which of the following is the correct way to solve an equation?",
+    "options": [
+      "Add different values to both sides",
+      "Perform the same operation on both sides",
+      "Change the variable value randomly",
+      "Multiply only one side"
+    ],
+    "correct_index": 1,
+    "explanation": "The golden rule of equations: whatever operation you do on one side, you must do the same on the other side to maintain equality.",
+    "ncert_page": 88,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch04_q08",
+    "chapter_id": "c7m_ch04",
+    "question": "If the perimeter of a square is 48 cm, the equation to find side s is:",
+    "options": [
+      "s + 4 = 48",
+      "4s = 48",
+      "s/4 = 48",
+      "s² = 48"
+    ],
+    "correct_index": 1,
+    "explanation": "Perimeter of square = 4 × side. So 4s = 48, giving s = 12 cm. This shows how equations are used in practical geometry.",
+    "ncert_page": 98,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch04_q09",
+    "chapter_id": "c7m_ch04",
+    "question": "Solve: 5p + 3 = 2p + 12",
+    "options": [
+      "p = 1",
+      "p = 2",
+      "p = 3",
+      "p = 5"
+    ],
+    "correct_index": 2,
+    "explanation": "5p + 3 = 2p + 12. Transposing: 5p - 2p = 12 - 3. 3p = 9. p = 3. Verification: 5(3)+3 = 18; 2(3)+12 = 18. ✓",
+    "ncert_page": 94,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch04_q10",
+    "chapter_id": "c7m_ch04",
+    "question": "The sum of three consecutive integers is 48. If the smallest integer is n, the equation is 3n + 3 = 48. What is the largest integer?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correct_index": 2,
+    "explanation": "3n + 3 = 48 → 3n = 45 → n = 15. The three consecutive integers are 15, 16, 17. The largest is 17.",
+    "ncert_page": 100,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

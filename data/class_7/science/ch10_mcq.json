@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7s_ch10_q01",
+    "chapter_id": "c7s_ch10",
+    "question": "Which type of respiration occurs in the absence of oxygen?",
+    "options": [
+      "Aerobic respiration",
+      "Anaerobic respiration",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "correct_index": 1,
+    "explanation": "Anaerobic respiration occurs without oxygen. It produces less energy than aerobic respiration and produces products like ethanol and CO₂ (in yeast) or lactic acid (in muscles).",
+    "ncert_page": 141,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch10_q02",
+    "chapter_id": "c7s_ch10",
+    "question": "The process of breathing in is called:",
+    "options": [
+      "Exhalation",
+      "Inhalation",
+      "Respiration",
+      "Perspiration"
+    ],
+    "correct_index": 1,
+    "explanation": "Inhalation (breathing in) is the process of taking in air into the lungs. Exhalation is breathing out. Respiration includes both breathing and cellular processes of releasing energy.",
+    "ncert_page": 143,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch10_q03",
+    "chapter_id": "c7s_ch10",
+    "question": "The muscular sheet at the bottom of the chest cavity that helps in breathing is the:",
+    "options": [
+      "Trachea",
+      "Lung",
+      "Diaphragm",
+      "Alveolus"
+    ],
+    "correct_index": 2,
+    "explanation": "The diaphragm is a dome-shaped muscular sheet separating the chest from the abdomen. When it contracts (moves down), the chest cavity expands and air is inhaled.",
+    "ncert_page": 144,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch10_q04",
+    "chapter_id": "c7s_ch10",
+    "question": "Yeast uses anaerobic respiration to produce:",
+    "options": [
+      "Oxygen and water",
+      "Ethanol (alcohol) and carbon dioxide",
+      "Lactic acid and oxygen",
+      "Glucose and water"
+    ],
+    "correct_index": 1,
+    "explanation": "Yeast carries out anaerobic respiration (fermentation): Glucose → Ethanol + CO₂. This property of yeast is used in baking (CO₂ makes bread rise) and brewing alcoholic beverages.",
+    "ncert_page": 142,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch10_q05",
+    "chapter_id": "c7s_ch10",
+    "question": "During heavy exercise, muscles sometimes get tired and feel a burning sensation because of:",
+    "options": [
+      "Excess oxygen",
+      "Lactic acid produced by anaerobic respiration",
+      "Production of ethanol",
+      "Excess carbon dioxide in blood only"
+    ],
+    "correct_index": 1,
+    "explanation": "During intense exercise, muscles may not get enough oxygen. They switch to anaerobic respiration producing lactic acid. Lactic acid accumulation causes muscle fatigue and burning sensation (cramps).",
+    "ncert_page": 142,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch10_q06",
+    "chapter_id": "c7s_ch10",
+    "question": "Breathing rate of a normal adult at rest is approximately:",
+    "options": [
+      "5-8 times per minute",
+      "15-18 times per minute",
+      "30-35 times per minute",
+      "50 times per minute"
+    ],
+    "correct_index": 1,
+    "explanation": "A normal adult breathes about 15-18 times per minute at rest. Breathing rate increases during exercise or illness (fever) when the body needs more oxygen.",
+    "ncert_page": 145,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch10_q07",
+    "chapter_id": "c7s_ch10",
+    "question": "Fish breathe through:",
+    "options": [
+      "Lungs",
+      "Gills",
+      "Skin",
+      "Spiracles"
+    ],
+    "correct_index": 1,
+    "explanation": "Fish use gills to breathe underwater. Gills extract dissolved oxygen from water as it passes over them. Insects use spiracles, amphibians can use skin, and mammals use lungs.",
+    "ncert_page": 147,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch10_q08",
+    "chapter_id": "c7s_ch10",
+    "question": "The equation for aerobic respiration is:",
+    "options": [
+      "Glucose + Water → CO₂ + Oxygen + Energy",
+      "Glucose + Oxygen → CO₂ + Water + Energy",
+      "CO₂ + Water → Glucose + Oxygen",
+      "Glucose → Ethanol + CO₂"
+    ],
+    "correct_index": 1,
+    "explanation": "Aerobic respiration: Glucose + Oxygen → Carbon dioxide + Water + Energy (ATP). This process occurs in mitochondria and releases maximum energy from glucose.",
+    "ncert_page": 140,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch10_q09",
+    "chapter_id": "c7s_ch10",
+    "question": "Earthworms breathe through:",
+    "options": [
+      "Lungs",
+      "Gills",
+      "Spiracles",
+      "Moist skin"
+    ],
+    "correct_index": 3,
+    "explanation": "Earthworms do not have specialised breathing organs. They breathe through their moist skin (cutaneous respiration). Oxygen dissolved in the moisture on their skin is absorbed directly.",
+    "ncert_page": 148,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch10_q10",
+    "chapter_id": "c7s_ch10",
+    "question": "Cockroaches breathe through tiny pores on the sides of their body called:",
+    "options": [
+      "Gills",
+      "Stomata",
+      "Spiracles",
+      "Alveoli"
+    ],
+    "correct_index": 2,
+    "explanation": "Insects like cockroaches breathe through spiracles — small openings on the sides of their body (thorax and abdomen). Air enters through spiracles into a network of tubes called tracheae, directly supplying oxygen to cells.",
+    "ncert_page": 148,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

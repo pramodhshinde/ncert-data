@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7s_ch07_q01",
+    "chapter_id": "c7s_ch07",
+    "question": "Which of the following is NOT an element of weather?",
+    "options": [
+      "Temperature",
+      "Humidity",
+      "Altitude",
+      "Rainfall"
+    ],
+    "correct_index": 2,
+    "explanation": "Elements of weather include temperature, humidity, rainfall, wind speed and direction, and cloud cover. Altitude is a geographical feature, not a weather element.",
+    "ncert_page": 94,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch07_q02",
+    "chapter_id": "c7s_ch07",
+    "question": "Climate is the __________ weather of a place over a long period:",
+    "options": [
+      "Daily",
+      "Weekly",
+      "Average",
+      "Extreme"
+    ],
+    "correct_index": 2,
+    "explanation": "Climate refers to the average weather conditions of a place over a long period (25-30 years). Weather is the day-to-day condition of the atmosphere at a place.",
+    "ncert_page": 97,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch07_q03",
+    "chapter_id": "c7s_ch07",
+    "question": "The polar bear survives in Arctic cold because of:",
+    "options": [
+      "Thin skin",
+      "Hollow and transparent fur",
+      "Large ears",
+      "High metabolic rate only"
+    ],
+    "correct_index": 1,
+    "explanation": "Polar bears have thick hollow and transparent fur that traps air and provides insulation. They also have white colouring for camouflage and a thick layer of fat beneath the skin.",
+    "ncert_page": 102,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch07_q04",
+    "chapter_id": "c7s_ch07",
+    "question": "Which adaptation helps animals in tropical rainforests?",
+    "options": [
+      "Thick fur and fat layers",
+      "Streamlined bodies and large fins",
+      "Bright colours and ability to climb trees",
+      "Ability to survive without water for weeks"
+    ],
+    "correct_index": 2,
+    "explanation": "Tropical rainforest animals often have bright colours for camouflage, ability to climb trees, and adaptations for the hot, humid, densely vegetated environment.",
+    "ncert_page": 103,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch07_q05",
+    "chapter_id": "c7s_ch07",
+    "question": "The maximum temperature in a day is usually recorded:",
+    "options": [
+      "At midnight",
+      "Early morning",
+      "Around noon to afternoon",
+      "At sunset"
+    ],
+    "correct_index": 2,
+    "explanation": "The maximum temperature in a day is usually recorded around noon or early afternoon (around 2 PM), when the Sun's heating effect is greatest. Minimum temperature is usually just before sunrise.",
+    "ncert_page": 95,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch07_q06",
+    "chapter_id": "c7s_ch07",
+    "question": "Migratory birds travel to warmer regions during winter because:",
+    "options": [
+      "They like warm weather only",
+      "They cannot find food in cold regions",
+      "They need to breed in warm regions",
+      "They are driven away by predators"
+    ],
+    "correct_index": 1,
+    "explanation": "Birds migrate to escape cold winters where food becomes scarce (insects, plants die). They travel thousands of kilometres to find warmer regions with abundant food.",
+    "ncert_page": 105,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch07_q07",
+    "chapter_id": "c7s_ch07",
+    "question": "Penguins survive in Antarctica because:",
+    "options": [
+      "They avoid the cold by burrowing",
+      "They have huddling behaviour and thick feathers",
+      "They are cold-blooded",
+      "They hibernate through winter"
+    ],
+    "correct_index": 1,
+    "explanation": "Penguins survive extreme cold by huddling together for warmth, having thick waterproof feathers, and a layer of fat. They are warm-blooded birds adapted to polar conditions.",
+    "ncert_page": 101,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch07_q08",
+    "chapter_id": "c7s_ch07",
+    "question": "The instrument used to measure rainfall is called a:",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Rain gauge",
+      "Hygrometer"
+    ],
+    "correct_index": 2,
+    "explanation": "A rain gauge is used to measure the amount of rainfall. A barometer measures atmospheric pressure, a thermometer measures temperature, and a hygrometer measures humidity.",
+    "ncert_page": 96,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch07_q09",
+    "chapter_id": "c7s_ch07",
+    "question": "Which region has the tropical climate?",
+    "options": [
+      "Polar regions near the Arctic",
+      "Temperate regions like Europe",
+      "Regions near the equator",
+      "High mountainous regions"
+    ],
+    "correct_index": 2,
+    "explanation": "Tropical climate is found in regions near the equator (Tropics of Cancer and Capricorn). These regions experience high temperatures and heavy rainfall throughout the year.",
+    "ncert_page": 98,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch07_q10",
+    "chapter_id": "c7s_ch07",
+    "question": "A red-eyed tree frog in tropical rainforests has red eyes, green body, and orange feet. How does this combination help survival?",
+    "options": [
+      "Attracts prey",
+      "Provides camouflage on green leaves; red eyes startle predators",
+      "Makes it visible to find a mate",
+      "Warns other frogs of danger"
+    ],
+    "correct_index": 1,
+    "explanation": "The green body provides camouflage on leaves. When threatened, the frog flashes its red eyes and orange feet, startling predators long enough for the frog to escape — a strategy called startle coloration.",
+    "ncert_page": 104,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

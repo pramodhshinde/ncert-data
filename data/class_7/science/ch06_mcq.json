@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7s_ch06_q01",
+    "chapter_id": "c7s_ch06",
+    "question": "Which of the following is a physical change?",
+    "options": [
+      "Burning of wood",
+      "Rusting of iron",
+      "Cutting of paper",
+      "Souring of milk"
+    ],
+    "correct_index": 2,
+    "explanation": "Cutting paper is a physical change because only the shape changes; no new substance is formed. Burning, rusting, and souring are chemical changes that produce new substances.",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch06_q02",
+    "chapter_id": "c7s_ch06",
+    "question": "Rusting of iron is a __________ change:",
+    "options": [
+      "Physical",
+      "Reversible",
+      "Chemical",
+      "Temporary"
+    ],
+    "correct_index": 2,
+    "explanation": "Rusting is a chemical change because a new substance (iron oxide) is formed. The original iron cannot be easily recovered, making it irreversible.",
+    "ncert_page": 83,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch06_q03",
+    "chapter_id": "c7s_ch06",
+    "question": "Crystallisation is used to obtain:",
+    "options": [
+      "Salt from seawater",
+      "Rust from iron",
+      "Ashes from wood",
+      "Gases from air"
+    ],
+    "correct_index": 0,
+    "explanation": "Crystallisation is a physical process used to obtain pure crystals from a solution. Salt is obtained from seawater by evaporation and crystallisation.",
+    "ncert_page": 86,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch06_q04",
+    "chapter_id": "c7s_ch06",
+    "question": "Dissolving sugar in water is a:",
+    "options": [
+      "Chemical change",
+      "Irreversible change",
+      "Physical change",
+      "Change involving new substance"
+    ],
+    "correct_index": 2,
+    "explanation": "Dissolving sugar in water is a physical change because no new substance is formed and the sugar can be recovered by evaporating the water.",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch06_q05",
+    "chapter_id": "c7s_ch06",
+    "question": "Which of the following is an indicator of a chemical change?",
+    "options": [
+      "Change in shape",
+      "Change in size",
+      "Evolution of a gas or change in colour",
+      "Change in state (solid to liquid)"
+    ],
+    "correct_index": 2,
+    "explanation": "Indicators of chemical change include: evolution of gas, change in colour, change in smell, formation of precipitate, change in temperature. Shape/size changes indicate physical change.",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch06_q06",
+    "chapter_id": "c7s_ch06",
+    "question": "When magnesium ribbon burns in air, it forms:",
+    "options": [
+      "Magnesium gas",
+      "Magnesium oxide (white ash)",
+      "Magnesium chloride",
+      "Carbon dioxide"
+    ],
+    "correct_index": 1,
+    "explanation": "When magnesium burns, it combines with oxygen to form magnesium oxide (MgO) — a white powdery ash. This is a chemical change as a new substance is formed.",
+    "ncert_page": 83,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch06_q07",
+    "chapter_id": "c7s_ch06",
+    "question": "Burning of a candle involves:",
+    "options": [
+      "Only physical change",
+      "Only chemical change",
+      "Both physical and chemical changes",
+      "Neither physical nor chemical change"
+    ],
+    "correct_index": 2,
+    "explanation": "Burning a candle involves both: physical change (wax melting = physical) and chemical change (wax burning to give CO₂ and water = chemical).",
+    "ncert_page": 84,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch06_q08",
+    "chapter_id": "c7s_ch06",
+    "question": "Iron filings mixed with sulfur can be separated by using a magnet. This shows the mixing is a:",
+    "options": [
+      "Chemical change",
+      "Irreversible change",
+      "Physical change",
+      "Combustion reaction"
+    ],
+    "correct_index": 2,
+    "explanation": "Since the components (iron and sulfur) can be separated by a magnet, they retain their individual properties. This is a physical change/mixture, not a compound.",
+    "ncert_page": 81,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch06_q09",
+    "chapter_id": "c7s_ch06",
+    "question": "Which of the following is reversible?",
+    "options": [
+      "Burning of paper",
+      "Cooking of food",
+      "Melting of ice",
+      "Rusting of iron"
+    ],
+    "correct_index": 2,
+    "explanation": "Melting of ice is reversible — melted water can be refrozen into ice. Burning, cooking, and rusting are irreversible chemical changes.",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch06_q10",
+    "chapter_id": "c7s_ch06",
+    "question": "Iron + Oxygen + Water → Iron oxide (rust). What conditions prevent rusting and why is galvanisation effective?",
+    "options": [
+      "Heating prevents rusting; galvanisation adds copper layer",
+      "Excluding oxygen and water prevents rusting; zinc coating acts as barrier",
+      "Cooling prevents rusting; zinc layer prevents heating",
+      "Adding acid prevents rusting; zinc neutralises rust"
+    ],
+    "correct_index": 1,
+    "explanation": "Rusting needs both oxygen and water. Galvanisation coats iron with zinc. Zinc acts as a protective barrier preventing oxygen and water from reaching iron. Even if zinc is scratched, it preferentially oxidises (sacrificial protection).",
+    "ncert_page": 84,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

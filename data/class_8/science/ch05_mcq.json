@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8s_ch05_q01",
+    "chapter_id": "c8s_ch05",
+    "question": "Fossil fuels are formed from:",
+    "options": [
+      "dead plants and animals buried millions of years ago",
+      "volcanic eruptions",
+      "chemical reactions in factories",
+      "burning of wood"
+    ],
+    "correct_index": 0,
+    "explanation": "Fossil fuels (coal, petroleum, natural gas) are formed over millions of years from the remains of dead plants and animals buried under layers of earth, subjected to heat and pressure.",
+    "ncert_page": 65,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch05_q02",
+    "chapter_id": "c8s_ch05",
+    "question": "Coke is obtained from coal by:",
+    "options": [
+      "fractional distillation",
+      "destructive distillation (heating without air)",
+      "burning in air",
+      "dissolving in water"
+    ],
+    "correct_index": 1,
+    "explanation": "Coke is obtained by heating coal in the absence of air (destructive distillation). It is almost pure carbon and is used in the extraction of metals.",
+    "ncert_page": 67,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch05_q03",
+    "chapter_id": "c8s_ch05",
+    "question": "Which fraction of petroleum is used as fuel for aircraft?",
+    "options": [
+      "Petrol",
+      "Diesel",
+      "Kerosene",
+      "LPG"
+    ],
+    "correct_index": 2,
+    "explanation": "Kerosene (aviation fuel / ATF) is used in aircraft. It is a fraction of petroleum obtained by fractional distillation at a specific temperature range.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch05_q04",
+    "chapter_id": "c8s_ch05",
+    "question": "Natural gas is mainly composed of:",
+    "options": [
+      "Carbon dioxide",
+      "Methane",
+      "Ethane",
+      "Propane"
+    ],
+    "correct_index": 1,
+    "explanation": "Natural gas consists mainly of methane (CH₄) — about 80-90%. It also contains small amounts of ethane, propane, and butane.",
+    "ncert_page": 72,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch05_q05",
+    "chapter_id": "c8s_ch05",
+    "question": "Coal tar is used in the manufacture of:",
+    "options": [
+      "fertilisers only",
+      "medicines and dyes only",
+      "synthetic fibres, medicines, explosives and dyes",
+      "petroleum products"
+    ],
+    "correct_index": 2,
+    "explanation": "Coal tar is a complex mixture of many carbon compounds. It is used to make synthetic fibres, dyes, medicines, explosives, and pesticides.",
+    "ncert_page": 68,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch05_q06",
+    "chapter_id": "c8s_ch05",
+    "question": "CNG stands for:",
+    "options": [
+      "Coal Natural Gas",
+      "Compressed Natural Gas",
+      "Carbon Natural Gas",
+      "Cooled Natural Gas"
+    ],
+    "correct_index": 1,
+    "explanation": "CNG stands for Compressed Natural Gas. It is mainly methane compressed at high pressure. It is a cleaner fuel used in vehicles.",
+    "ncert_page": 73,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch05_q07",
+    "chapter_id": "c8s_ch05",
+    "question": "Which of the following is NOT a fossil fuel?",
+    "options": [
+      "Coal",
+      "Petroleum",
+      "Natural gas",
+      "Wood"
+    ],
+    "correct_index": 3,
+    "explanation": "Wood is a biomass fuel, not a fossil fuel. Fossil fuels (coal, petroleum, natural gas) are formed from ancient buried organic matter over millions of years under heat and pressure.",
+    "ncert_page": 65,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch05_q08",
+    "chapter_id": "c8s_ch05",
+    "question": "Petroleum is separated into fractions by the process of:",
+    "options": [
+      "filtration",
+      "evaporation",
+      "fractional distillation",
+      "crystallisation"
+    ],
+    "correct_index": 2,
+    "explanation": "Petroleum is separated into useful fractions (LPG, petrol, kerosene, diesel, etc.) by fractional distillation, based on different boiling points.",
+    "ncert_page": 69,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch05_q09",
+    "chapter_id": "c8s_ch05",
+    "question": "Coal gas is used mainly as:",
+    "options": [
+      "a fuel for vehicles",
+      "a fuel for domestic cooking",
+      "a fuel for generating electricity in coal gas plants",
+      "a feedstock for making fertilisers"
+    ],
+    "correct_index": 2,
+    "explanation": "Coal gas (a byproduct of destructive distillation of coal) was historically used as a fuel for street lighting and industrial furnaces/power generation.",
+    "ncert_page": 67,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch05_q10",
+    "chapter_id": "c8s_ch05",
+    "question": "Fossil fuels are called non-renewable resources because:",
+    "options": [
+      "they cannot be used for energy",
+      "they take millions of years to form and will eventually run out",
+      "they cannot be burned",
+      "they are found only underground"
+    ],
+    "correct_index": 1,
+    "explanation": "Fossil fuels are non-renewable because they take millions of years to form through natural geological processes, and once consumed they cannot be replaced within a human timescale.",
+    "ncert_page": 74,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

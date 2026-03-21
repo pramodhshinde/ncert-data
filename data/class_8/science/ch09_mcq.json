@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8s_ch09_q01",
+    "chapter_id": "c8s_ch09",
+    "question": "The type of reproduction that requires two parents is called:",
+    "options": [
+      "Asexual reproduction",
+      "Binary fission",
+      "Sexual reproduction",
+      "Budding"
+    ],
+    "correct_index": 2,
+    "explanation": "Sexual reproduction requires two parents — a male and a female. It involves the fusion of male and female gametes (sperm and egg) to form a new individual.",
+    "ncert_page": 119,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch09_q02",
+    "chapter_id": "c8s_ch09",
+    "question": "Fertilisation that occurs inside the female body is called:",
+    "options": [
+      "External fertilisation",
+      "Internal fertilisation",
+      "Cross fertilisation",
+      "Self fertilisation"
+    ],
+    "correct_index": 1,
+    "explanation": "Internal fertilisation occurs when the sperm fertilises the egg inside the body of the female. This occurs in humans, dogs, cats, and most mammals and birds.",
+    "ncert_page": 121,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch09_q03",
+    "chapter_id": "c8s_ch09",
+    "question": "Hydra reproduces asexually by:",
+    "options": [
+      "Binary fission",
+      "Fragmentation",
+      "Budding",
+      "Spore formation"
+    ],
+    "correct_index": 2,
+    "explanation": "Hydra reproduces asexually by budding. A small outgrowth (bud) develops on the parent body, grows into a new individual, and eventually detaches.",
+    "ncert_page": 127,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch09_q04",
+    "chapter_id": "c8s_ch09",
+    "question": "The development of an embryo outside the mother's body is called:",
+    "options": [
+      "Viviparous development",
+      "Oviparous development",
+      "Internal development",
+      "Asexual reproduction"
+    ],
+    "correct_index": 1,
+    "explanation": "Oviparous animals lay eggs, so embryo development occurs outside the mother's body (e.g., frogs, fish, birds). Viviparous animals give birth to live young.",
+    "ncert_page": 123,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch09_q05",
+    "chapter_id": "c8s_ch09",
+    "question": "Which organism reproduces by binary fission?",
+    "options": [
+      "Hydra",
+      "Amoeba",
+      "Planaria",
+      "Fern"
+    ],
+    "correct_index": 1,
+    "explanation": "Amoeba reproduces by binary fission — it divides into two equal daughter cells. This is a simple form of asexual reproduction.",
+    "ncert_page": 126,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch09_q06",
+    "chapter_id": "c8s_ch09",
+    "question": "The fusion of sperm and egg is called:",
+    "options": [
+      "Germination",
+      "Fertilisation",
+      "Pollination",
+      "Metamorphosis"
+    ],
+    "correct_index": 1,
+    "explanation": "Fertilisation is the fusion of the male gamete (sperm) with the female gamete (egg/ovum) to form a single cell called the zygote.",
+    "ncert_page": 120,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch09_q07",
+    "chapter_id": "c8s_ch09",
+    "question": "Dolly, the first cloned animal, was a:",
+    "options": [
+      "Cow",
+      "Goat",
+      "Sheep",
+      "Dog"
+    ],
+    "correct_index": 2,
+    "explanation": "Dolly was the first mammal to be cloned from an adult somatic cell. She was a Finn Dorset sheep, born in 1996, cloned by scientists at the Roslin Institute in Scotland.",
+    "ncert_page": 129,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch09_q08",
+    "chapter_id": "c8s_ch09",
+    "question": "In frogs, fertilisation is:",
+    "options": [
+      "internal",
+      "external",
+      "viviparous",
+      "by budding"
+    ],
+    "correct_index": 1,
+    "explanation": "In frogs, external fertilisation occurs — the female lays eggs in water and the male releases sperm over them. This is common in aquatic animals.",
+    "ncert_page": 122,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch09_q09",
+    "chapter_id": "c8s_ch09",
+    "question": "Test tube baby refers to a baby born from:",
+    "options": [
+      "a baby grown entirely in a lab",
+      "in vitro fertilisation (IVF) where fertilisation occurs outside the body",
+      "asexual reproduction in humans",
+      "cloning"
+    ],
+    "correct_index": 1,
+    "explanation": "A test tube baby is born through In Vitro Fertilisation (IVF). The egg and sperm are combined in a laboratory (in vitro), and the resulting embryo is implanted in the mother's uterus.",
+    "ncert_page": 130,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch09_q10",
+    "chapter_id": "c8s_ch09",
+    "question": "The developing baby in the uterus is called an embryo in early stages. After 8 weeks of development it is called a:",
+    "options": [
+      "Zygote",
+      "Blastocyst",
+      "Foetus",
+      "Larva"
+    ],
+    "correct_index": 2,
+    "explanation": "After about 8 weeks, when the major body structures are formed, the developing baby is called a foetus. Before that it is called an embryo. The single-celled stage is a zygote.",
+    "ncert_page": 124,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

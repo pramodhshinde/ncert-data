@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch10_q01",
+    "chapter_id": "c8m_ch10",
+    "question": "Euler's formula for polyhedrons is:",
+    "options": [
+      "F + V = E + 2",
+      "F + V − E = 2",
+      "F − V + E = 2",
+      "F × V = E + 2"
+    ],
+    "correct_index": 1,
+    "explanation": "Euler's formula states: Faces + Vertices − Edges = 2, i.e., F + V − E = 2. For example, a cube: 6 + 8 − 12 = 2.",
+    "ncert_page": 219,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch10_q02",
+    "chapter_id": "c8m_ch10",
+    "question": "A cube has how many faces?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct_index": 1,
+    "explanation": "A cube has 6 faces (top, bottom, front, back, left, right) — all square faces.",
+    "ncert_page": 220,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch10_q03",
+    "chapter_id": "c8m_ch10",
+    "question": "How many edges does a triangular prism have?",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "15"
+    ],
+    "correct_index": 1,
+    "explanation": "A triangular prism has 2 triangular faces and 3 rectangular faces. It has 6 vertices and 9 edges (3 on each triangle + 3 connecting edges).",
+    "ncert_page": 222,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch10_q04",
+    "chapter_id": "c8m_ch10",
+    "question": "Which of the following is NOT a polyhedron?",
+    "options": [
+      "Cube",
+      "Cylinder",
+      "Triangular prism",
+      "Pyramid"
+    ],
+    "correct_index": 1,
+    "explanation": "A cylinder has curved surfaces and is not a polyhedron. Polyhedrons have only flat (polygon) faces. Cubes, prisms, and pyramids are all polyhedrons.",
+    "ncert_page": 221,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch10_q05",
+    "chapter_id": "c8m_ch10",
+    "question": "The cross-section of a cylinder cut parallel to its base is a:",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Circle",
+      "Oval"
+    ],
+    "correct_index": 2,
+    "explanation": "When a cylinder is cut by a plane parallel to its base, the cross-section is always a circle, congruent to the base.",
+    "ncert_page": 229,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch10_q06",
+    "chapter_id": "c8m_ch10",
+    "question": "A square pyramid has 5 faces, 5 vertices and how many edges?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "10"
+    ],
+    "correct_index": 2,
+    "explanation": "Using Euler's formula: E = F + V − 2 = 5 + 5 − 2 = 8. A square pyramid has 8 edges (4 base edges + 4 lateral edges).",
+    "ncert_page": 224,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch10_q07",
+    "chapter_id": "c8m_ch10",
+    "question": "The front view of a cone looks like a:",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Rectangle"
+    ],
+    "correct_index": 2,
+    "explanation": "When a cone is viewed from the front, it appears as a triangle (an isosceles triangle) with its apex at the top and base at the bottom.",
+    "ncert_page": 232,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch10_q08",
+    "chapter_id": "c8m_ch10",
+    "question": "A convex polyhedron is one in which:",
+    "options": [
+      "all faces are triangles",
+      "no part of a diagonal is in the exterior",
+      "at least one diagonal lies outside",
+      "it has more than 6 faces"
+    ],
+    "correct_index": 1,
+    "explanation": "In a convex polyhedron, every line segment joining two points on the surface lies completely inside or on the surface — no diagonal lies in the exterior.",
+    "ncert_page": 225,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch10_q09",
+    "chapter_id": "c8m_ch10",
+    "question": "The top view of a cube looks like a:",
+    "options": [
+      "Circle",
+      "Rectangle",
+      "Square",
+      "Triangle"
+    ],
+    "correct_index": 2,
+    "explanation": "When a cube is viewed from directly above (top view), it appears as a square since we see the top face.",
+    "ncert_page": 233,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch10_q10",
+    "chapter_id": "c8m_ch10",
+    "question": "A regular polyhedron has all faces as congruent regular polygons. How many regular polyhedra exist?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "There are exactly 5 regular polyhedra (Platonic solids): tetrahedron, cube, octahedron, dodecahedron, and icosahedron. This is proven by the constraints of Euler's formula.",
+    "ncert_page": 226,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

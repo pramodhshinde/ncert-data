@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch06_q01",
+    "chapter_id": "c7m_ch06",
+    "question": "The sum of all angles of a triangle is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct_index": 1,
+    "explanation": "The angle sum property of a triangle states that the sum of all three interior angles of any triangle is always 180°.",
+    "ncert_page": 134,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch06_q02",
+    "chapter_id": "c7m_ch06",
+    "question": "A median of a triangle is a line segment from a vertex to the:",
+    "options": [
+      "Opposite angle bisector",
+      "Midpoint of the opposite side",
+      "Foot of the altitude",
+      "Circumcentre"
+    ],
+    "correct_index": 1,
+    "explanation": "A median of a triangle is a line segment joining a vertex to the midpoint of the opposite side. Each triangle has three medians.",
+    "ncert_page": 130,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch06_q03",
+    "chapter_id": "c7m_ch06",
+    "question": "The exterior angle of a triangle is equal to:",
+    "options": [
+      "The sum of all interior angles",
+      "The sum of two non-adjacent interior angles",
+      "The adjacent interior angle",
+      "180° minus the exterior angle"
+    ],
+    "correct_index": 1,
+    "explanation": "Exterior Angle Property: An exterior angle of a triangle equals the sum of its two non-adjacent (remote interior) angles. This is a key theorem in this chapter.",
+    "ncert_page": 140,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch06_q04",
+    "chapter_id": "c7m_ch06",
+    "question": "In a right-angled triangle with legs 3 cm and 4 cm, the hypotenuse is:",
+    "options": [
+      "5 cm",
+      "7 cm",
+      "6 cm",
+      "8 cm"
+    ],
+    "correct_index": 0,
+    "explanation": "By Pythagoras theorem: hypotenuse² = 3² + 4² = 9 + 16 = 25. Hypotenuse = √25 = 5 cm. This is a classic 3-4-5 Pythagorean triplet.",
+    "ncert_page": 149,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch06_q05",
+    "chapter_id": "c7m_ch06",
+    "question": "An altitude of a triangle is:",
+    "options": [
+      "A median from a vertex",
+      "A perpendicular from a vertex to the opposite side",
+      "An angle bisector",
+      "The longest side"
+    ],
+    "correct_index": 1,
+    "explanation": "An altitude is the perpendicular line segment drawn from a vertex to the line containing the opposite side. A triangle has three altitudes.",
+    "ncert_page": 131,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch06_q06",
+    "chapter_id": "c7m_ch06",
+    "question": "In an equilateral triangle, each angle measures:",
+    "options": [
+      "90°",
+      "45°",
+      "60°",
+      "120°"
+    ],
+    "correct_index": 2,
+    "explanation": "An equilateral triangle has all sides equal and all angles equal. Since all angles sum to 180°, each angle = 180°/3 = 60°.",
+    "ncert_page": 133,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch06_q07",
+    "chapter_id": "c7m_ch06",
+    "question": "In triangle ABC, two angles are 50° and 70°. What is the third angle?",
+    "options": [
+      "60°",
+      "70°",
+      "80°",
+      "120°"
+    ],
+    "correct_index": 0,
+    "explanation": "Sum of angles = 180°. Third angle = 180° - 50° - 70° = 60°. The angle sum property is fundamental to solving triangle problems.",
+    "ncert_page": 134,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch06_q08",
+    "chapter_id": "c7m_ch06",
+    "question": "In an isosceles triangle, the base angles are:",
+    "options": [
+      "Unequal",
+      "Equal",
+      "Supplementary",
+      "Complementary"
+    ],
+    "correct_index": 1,
+    "explanation": "In an isosceles triangle, the two base angles (angles opposite the equal sides) are always equal to each other.",
+    "ncert_page": 133,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch06_q09",
+    "chapter_id": "c7m_ch06",
+    "question": "Can a triangle have sides of length 2 cm, 3 cm, and 6 cm?",
+    "options": [
+      "Yes",
+      "No, because sum of any two sides must be greater than the third",
+      "No, because all sides must be equal",
+      "Yes, if it is a right triangle"
+    ],
+    "correct_index": 1,
+    "explanation": "Triangle inequality: sum of any two sides > third side. Here 2 + 3 = 5 < 6. This fails, so a triangle with these sides cannot be formed.",
+    "ncert_page": 143,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch06_q10",
+    "chapter_id": "c7m_ch06",
+    "question": "In triangle PQR, the exterior angle at R is 120°. The two non-adjacent interior angles are equal. What is each of those angles?",
+    "options": [
+      "30°",
+      "60°",
+      "40°",
+      "80°"
+    ],
+    "correct_index": 1,
+    "explanation": "Exterior angle = sum of two non-adjacent interior angles. 120° = angle P + angle Q. Since they are equal: angle P = angle Q = 120°/2 = 60°.",
+    "ncert_page": 140,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

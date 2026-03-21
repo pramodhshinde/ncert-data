@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch13_q01",
+    "chapter_id": "c7m_ch13",
+    "question": "What is the value of 2⁵?",
+    "options": [
+      "10",
+      "16",
+      "32",
+      "64"
+    ],
+    "correct_index": 2,
+    "explanation": "2⁵ = 2 × 2 × 2 × 2 × 2 = 32. In exponential notation, the base is 2 and the exponent (power) is 5.",
+    "ncert_page": 276,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch13_q02",
+    "chapter_id": "c7m_ch13",
+    "question": "Which law states that aᵐ × aⁿ = aᵐ⁺ⁿ?",
+    "options": [
+      "Law of division",
+      "Law of multiplication",
+      "Power of a power",
+      "Zero exponent law"
+    ],
+    "correct_index": 1,
+    "explanation": "The law of multiplication of exponents states: when bases are the same, multiply by adding exponents: aᵐ × aⁿ = aᵐ⁺ⁿ.",
+    "ncert_page": 280,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch13_q03",
+    "chapter_id": "c7m_ch13",
+    "question": "Simplify: 3⁴ ÷ 3²",
+    "options": [
+      "3²",
+      "3⁶",
+      "3⁸",
+      "1"
+    ],
+    "correct_index": 0,
+    "explanation": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ. So 3⁴ ÷ 3² = 3⁴⁻² = 3² = 9.",
+    "ncert_page": 281,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch13_q04",
+    "chapter_id": "c7m_ch13",
+    "question": "What is the value of any number raised to the power 0?",
+    "options": [
+      "0",
+      "Undefined",
+      "1",
+      "The number itself"
+    ],
+    "correct_index": 2,
+    "explanation": "Any non-zero number raised to the power 0 equals 1. This is the zero exponent law: a⁰ = 1 (where a ≠ 0).",
+    "ncert_page": 283,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch13_q05",
+    "chapter_id": "c7m_ch13",
+    "question": "Express 45000 in standard form (scientific notation):",
+    "options": [
+      "4.5 × 10³",
+      "4.5 × 10⁴",
+      "45 × 10³",
+      "4.5 × 10⁵"
+    ],
+    "correct_index": 1,
+    "explanation": "45000 = 4.5 × 10000 = 4.5 × 10⁴. In scientific notation, the number is written as a × 10ⁿ where 1 ≤ a < 10.",
+    "ncert_page": 287,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch13_q06",
+    "chapter_id": "c7m_ch13",
+    "question": "(2³)² equals:",
+    "options": [
+      "2⁵",
+      "2⁶",
+      "2⁹",
+      "4⁶"
+    ],
+    "correct_index": 1,
+    "explanation": "(aᵐ)ⁿ = aᵐˣⁿ. So (2³)² = 2³ˣ² = 2⁶ = 64.",
+    "ncert_page": 282,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch13_q07",
+    "chapter_id": "c7m_ch13",
+    "question": "Which is greater: 2¹⁰ or 10²?",
+    "options": [
+      "10²",
+      "2¹⁰",
+      "They are equal",
+      "Cannot be determined"
+    ],
+    "correct_index": 1,
+    "explanation": "2¹⁰ = 1024 and 10² = 100. Since 1024 > 100, 2¹⁰ is greater. Powers can be surprisingly large.",
+    "ncert_page": 277,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch13_q08",
+    "chapter_id": "c7m_ch13",
+    "question": "Simplify: (2² × 3³) / (2 × 3²)",
+    "options": [
+      "2 × 3",
+      "6",
+      "2/3",
+      "12"
+    ],
+    "correct_index": 0,
+    "explanation": "= 2²⁻¹ × 3³⁻² = 2¹ × 3¹ = 2 × 3 = 6. Using division law separately for each base: (2²/2¹) × (3³/3²) = 2 × 3.",
+    "ncert_page": 281,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch13_q09",
+    "chapter_id": "c7m_ch13",
+    "question": "The distance from Earth to Sun is approximately 150,000,000 km. In standard form this is:",
+    "options": [
+      "15 × 10⁷",
+      "1.5 × 10⁸",
+      "1.5 × 10⁷",
+      "150 × 10⁶"
+    ],
+    "correct_index": 1,
+    "explanation": "150,000,000 = 1.5 × 100,000,000 = 1.5 × 10⁸. Scientific notation is useful for expressing very large or very small numbers in science.",
+    "ncert_page": 287,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch13_q10",
+    "chapter_id": "c7m_ch13",
+    "question": "If 2ˣ = 64, what is the value of x?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "64 = 2 × 2 × 2 × 2 × 2 × 2 = 2⁶. So 2ˣ = 2⁶, which means x = 6. Understanding powers allows us to solve exponential equations.",
+    "ncert_page": 279,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

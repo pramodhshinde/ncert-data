@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch05_q01",
+    "chapter_id": "c8m_ch05",
+    "question": "The most common way to represent grouped data visually is a:",
+    "options": [
+      "Pie chart",
+      "Line graph",
+      "Histogram",
+      "Bar graph"
+    ],
+    "correct_index": 2,
+    "explanation": "A histogram is used to represent grouped/continuous data where class intervals are on the x-axis and frequency on the y-axis, with no gaps between bars.",
+    "ncert_page": 99,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch05_q02",
+    "chapter_id": "c8m_ch05",
+    "question": "In a pie chart, the total angle at the centre is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct_index": 3,
+    "explanation": "A pie chart represents data as sectors of a circle. The total angle at the centre of a circle is 360°, so all sectors together make 360°.",
+    "ncert_page": 105,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch05_q03",
+    "chapter_id": "c8m_ch05",
+    "question": "A frequency polygon is obtained by joining the __________ of the tops of the rectangles in a histogram.",
+    "options": [
+      "corners",
+      "midpoints",
+      "endpoints",
+      "centres"
+    ],
+    "correct_index": 1,
+    "explanation": "A frequency polygon is drawn by joining the midpoints of the tops of histogram bars with straight lines, giving a polygon shape.",
+    "ncert_page": 101,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch05_q04",
+    "chapter_id": "c8m_ch05",
+    "question": "If a die is thrown once, what is the probability of getting an even number?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correct_index": 2,
+    "explanation": "Even numbers on a die are 2, 4, 6 — that's 3 outcomes out of 6 total. Probability = 3/6 = 1/2.",
+    "ncert_page": 115,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch05_q05",
+    "chapter_id": "c8m_ch05",
+    "question": "In a histogram, the bars are drawn:",
+    "options": [
+      "with equal gaps between them",
+      "touching each other",
+      "with gaps proportional to frequency",
+      "above and below the x-axis"
+    ],
+    "correct_index": 1,
+    "explanation": "In a histogram (unlike a bar graph), bars are drawn adjacent to each other — touching — because the data is continuous with no gaps between class intervals.",
+    "ncert_page": 100,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch05_q06",
+    "chapter_id": "c8m_ch05",
+    "question": "The central angle for a sector in a pie chart representing 25% of the data is:",
+    "options": [
+      "25°",
+      "45°",
+      "90°",
+      "100°"
+    ],
+    "correct_index": 2,
+    "explanation": "Central angle = (Percentage/100) × 360° = (25/100) × 360° = 90°.",
+    "ncert_page": 106,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch05_q07",
+    "chapter_id": "c8m_ch05",
+    "question": "A bag contains 3 red and 5 blue balls. One ball is drawn at random. What is the probability of drawing a red ball?",
+    "options": [
+      "3/5",
+      "5/8",
+      "3/8",
+      "1/2"
+    ],
+    "correct_index": 2,
+    "explanation": "Total balls = 3 + 5 = 8. Favourable outcomes (red) = 3. Probability = 3/8.",
+    "ncert_page": 116,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch05_q08",
+    "chapter_id": "c8m_ch05",
+    "question": "Which type of graph is most appropriate to show the change in temperature of a city over 12 months?",
+    "options": [
+      "Pie chart",
+      "Histogram",
+      "Line graph",
+      "Bar graph"
+    ],
+    "correct_index": 2,
+    "explanation": "A line graph is best for showing continuous change over time, such as monthly temperature variations, as it clearly displays trends.",
+    "ncert_page": 103,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch05_q09",
+    "chapter_id": "c8m_ch05",
+    "question": "In a class of 40 students, 10 like cricket, 15 like football and 15 like tennis. What is the central angle for cricket in a pie chart?",
+    "options": [
+      "60°",
+      "90°",
+      "100°",
+      "120°"
+    ],
+    "correct_index": 1,
+    "explanation": "Central angle for cricket = (10/40) × 360° = 90°.",
+    "ncert_page": 107,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch05_q10",
+    "chapter_id": "c8m_ch05",
+    "question": "Two coins are tossed simultaneously. The probability of getting exactly one head is:",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "Outcomes: HH, HT, TH, TT. Exactly one head = HT, TH → 2 outcomes. Probability = 2/4 = 1/2.",
+    "ncert_page": 117,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

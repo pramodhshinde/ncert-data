@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch15_q01",
+    "chapter_id": "c8m_ch15",
+    "question": "Which type of graph is used to compare different quantities or categories?",
+    "options": [
+      "Line graph",
+      "Pie chart",
+      "Bar graph",
+      "Histogram"
+    ],
+    "correct_index": 2,
+    "explanation": "A bar graph uses rectangular bars to compare different categories or quantities side by side.",
+    "ncert_page": 313,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch15_q02",
+    "chapter_id": "c8m_ch15",
+    "question": "On a coordinate plane, the point (0, 0) is called the:",
+    "options": [
+      "x-intercept",
+      "y-intercept",
+      "origin",
+      "vertex"
+    ],
+    "correct_index": 2,
+    "explanation": "The point where the x-axis and y-axis meet is called the origin, with coordinates (0, 0).",
+    "ncert_page": 318,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch15_q03",
+    "chapter_id": "c8m_ch15",
+    "question": "A line graph is most suitable for showing:",
+    "options": [
+      "composition of a whole",
+      "comparison of categories",
+      "change over time",
+      "distribution of data in groups"
+    ],
+    "correct_index": 2,
+    "explanation": "A line graph connects data points with lines and is best for showing how something changes continuously over time (trends).",
+    "ncert_page": 315,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch15_q04",
+    "chapter_id": "c8m_ch15",
+    "question": "Which of the following points lies on the line y = 2x + 1?",
+    "options": [
+      "(1, 2)",
+      "(2, 5)",
+      "(0, 2)",
+      "(1, 4)"
+    ],
+    "correct_index": 1,
+    "explanation": "Substitute x = 2: y = 2(2) + 1 = 5. So (2, 5) lies on the line y = 2x + 1.",
+    "ncert_page": 322,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch15_q05",
+    "chapter_id": "c8m_ch15",
+    "question": "In a linear graph of y = 3x, what is the value of y when x = 4?",
+    "options": [
+      "7",
+      "9",
+      "12",
+      "16"
+    ],
+    "correct_index": 2,
+    "explanation": "y = 3x. When x = 4: y = 3 × 4 = 12.",
+    "ncert_page": 321,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch15_q06",
+    "chapter_id": "c8m_ch15",
+    "question": "The graph of x = 3 is a:",
+    "options": [
+      "horizontal line",
+      "diagonal line",
+      "vertical line",
+      "curved line"
+    ],
+    "correct_index": 2,
+    "explanation": "The equation x = 3 represents all points where the x-coordinate is 3, regardless of y. This forms a vertical line parallel to the y-axis.",
+    "ncert_page": 323,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch15_q07",
+    "chapter_id": "c8m_ch15",
+    "question": "A pie chart is also known as a:",
+    "options": [
+      "frequency polygon",
+      "circle graph",
+      "histogram",
+      "scatter plot"
+    ],
+    "correct_index": 1,
+    "explanation": "A pie chart (circle graph) represents data as sectors (slices) of a circle, showing the proportion of each part to the whole.",
+    "ncert_page": 316,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch15_q08",
+    "chapter_id": "c8m_ch15",
+    "question": "The graph of a linear equation in two variables is always a:",
+    "options": [
+      "curve",
+      "straight line",
+      "parabola",
+      "circle"
+    ],
+    "correct_index": 1,
+    "explanation": "A linear equation in two variables (like y = mx + c) always produces a straight line when graphed on a coordinate plane.",
+    "ncert_page": 320,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch15_q09",
+    "chapter_id": "c8m_ch15",
+    "question": "If the side of a square is s cm and perimeter is P cm, then P vs s graph is:",
+    "options": [
+      "a parabola",
+      "a straight line through origin",
+      "a horizontal line",
+      "a curved line"
+    ],
+    "correct_index": 1,
+    "explanation": "P = 4s. This is a linear equation passing through the origin (when s = 0, P = 0). The graph is a straight line through the origin.",
+    "ncert_page": 321,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch15_q10",
+    "chapter_id": "c8m_ch15",
+    "question": "From a distance-time graph with a straight line, what does a steeper slope indicate?",
+    "options": [
+      "less distance",
+      "slower speed",
+      "greater speed",
+      "constant position"
+    ],
+    "correct_index": 2,
+    "explanation": "In a distance-time graph, the slope represents speed. A steeper slope means the distance covered per unit time is greater, indicating higher speed.",
+    "ncert_page": 324,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

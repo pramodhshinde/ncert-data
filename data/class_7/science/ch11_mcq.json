@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7s_ch11_q01",
+    "chapter_id": "c7s_ch11",
+    "question": "Which blood vessels carry blood away from the heart?",
+    "options": [
+      "Veins",
+      "Capillaries",
+      "Arteries",
+      "Venules"
+    ],
+    "correct_index": 2,
+    "explanation": "Arteries carry blood away from the heart (usually oxygenated). Veins carry blood towards the heart. Capillaries connect arteries and veins and allow exchange of nutrients and gases.",
+    "ncert_page": 154,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch11_q02",
+    "chapter_id": "c7s_ch11",
+    "question": "The liquid part of blood is called:",
+    "options": [
+      "Hemoglobin",
+      "Plasma",
+      "Platelet",
+      "Serum"
+    ],
+    "correct_index": 1,
+    "explanation": "Blood consists of plasma (liquid part — about 55%) and blood cells. Plasma is a yellowish liquid carrying nutrients, hormones, and waste products. Red blood cells (RBCs) carry hemoglobin.",
+    "ncert_page": 155,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch11_q03",
+    "chapter_id": "c7s_ch11",
+    "question": "Water and minerals travel in plants through:",
+    "options": [
+      "Phloem",
+      "Stomata",
+      "Xylem",
+      "Root hairs only"
+    ],
+    "correct_index": 2,
+    "explanation": "Xylem is the water-conducting tissue in plants. It transports water and dissolved minerals absorbed by roots from the soil upwards to all parts of the plant.",
+    "ncert_page": 162,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch11_q04",
+    "chapter_id": "c7s_ch11",
+    "question": "Food made in leaves is transported to other parts of the plant through:",
+    "options": [
+      "Xylem",
+      "Stomata",
+      "Root hair",
+      "Phloem"
+    ],
+    "correct_index": 3,
+    "explanation": "Phloem transports food (sugars made during photosynthesis in leaves) to all parts of the plant including roots, fruits, and growing tips — a process called translocation.",
+    "ncert_page": 163,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch11_q05",
+    "chapter_id": "c7s_ch11",
+    "question": "The human heart has how many chambers?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "The human heart has 4 chambers: right atrium, right ventricle, left atrium, and left ventricle. Atria receive blood; ventricles pump blood out.",
+    "ncert_page": 156,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch11_q06",
+    "chapter_id": "c7s_ch11",
+    "question": "The loss of water as vapour through stomata of leaves is called:",
+    "options": [
+      "Evaporation",
+      "Transpiration",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "correct_index": 1,
+    "explanation": "Transpiration is the process by which plants lose water vapour through stomata (and other surfaces). It creates a suction force that pulls water up through xylem from roots.",
+    "ncert_page": 164,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch11_q07",
+    "chapter_id": "c7s_ch11",
+    "question": "Platelets in blood help in:",
+    "options": [
+      "Carrying oxygen",
+      "Fighting infection",
+      "Clotting of blood",
+      "Producing hormones"
+    ],
+    "correct_index": 2,
+    "explanation": "Platelets (thrombocytes) help in clotting blood at wound sites. When a blood vessel is damaged, platelets aggregate and form a clot to stop bleeding.",
+    "ncert_page": 155,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch11_q08",
+    "chapter_id": "c7s_ch11",
+    "question": "In plants, water absorption from soil mainly occurs through:",
+    "options": [
+      "Leaves",
+      "Stem",
+      "Root hair cells",
+      "Stomata"
+    ],
+    "correct_index": 2,
+    "explanation": "Root hairs are thin extensions of root epidermal cells that greatly increase the surface area for absorption of water and minerals from the soil.",
+    "ncert_page": 162,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch11_q09",
+    "chapter_id": "c7s_ch11",
+    "question": "White blood cells (WBCs) fight:",
+    "options": [
+      "Infections and diseases",
+      "Carry oxygen",
+      "Help in clotting",
+      "Transport food"
+    ],
+    "correct_index": 0,
+    "explanation": "White blood cells (leukocytes) are part of the immune system. They fight infections by engulfing bacteria (phagocytes) or producing antibodies (lymphocytes) to destroy pathogens.",
+    "ncert_page": 155,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch11_q10",
+    "chapter_id": "c7s_ch11",
+    "question": "Dialysis is required when which organ fails to filter waste from blood?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidney",
+      "Lung"
+    ],
+    "correct_index": 2,
+    "explanation": "The kidneys filter waste products (like urea) from the blood and excrete them as urine. When kidneys fail, dialysis is used — a machine artificially filters the blood to remove waste.",
+    "ncert_page": 161,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

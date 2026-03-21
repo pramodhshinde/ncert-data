@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8s_ch06_q01",
+    "chapter_id": "c8s_ch06",
+    "question": "Which of the following conditions is NOT required for combustion?",
+    "options": [
+      "Fuel",
+      "Oxygen (air)",
+      "Ignition temperature",
+      "Water"
+    ],
+    "correct_index": 3,
+    "explanation": "For combustion, three conditions are needed: fuel, oxygen (air), and ignition temperature. Water is not required — in fact, water can extinguish fire by cooling it below ignition temperature.",
+    "ncert_page": 77,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch06_q02",
+    "chapter_id": "c8s_ch06",
+    "question": "The ignition temperature is the:",
+    "options": [
+      "temperature at which a substance melts",
+      "lowest temperature at which a substance catches fire",
+      "temperature at which water boils",
+      "highest temperature a fire can reach"
+    ],
+    "correct_index": 1,
+    "explanation": "Ignition temperature is the lowest temperature at which a substance begins to burn spontaneously. Below this temperature, combustion cannot occur even in the presence of oxygen.",
+    "ncert_page": 78,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch06_q03",
+    "chapter_id": "c8s_ch06",
+    "question": "A candle flame has how many distinct zones?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 2,
+    "explanation": "A candle flame has three zones: (1) dark inner zone (unburnt wax vapours), (2) luminous yellow middle zone (partial combustion), and (3) outermost blue zone (complete combustion — hottest).",
+    "ncert_page": 83,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch06_q04",
+    "chapter_id": "c8s_ch06",
+    "question": "Carbon dioxide is used to extinguish fires because it:",
+    "options": [
+      "cools the burning substance",
+      "is heavier than air and cuts off oxygen supply",
+      "reacts with fuel to stop burning",
+      "lowers the ignition temperature"
+    ],
+    "correct_index": 1,
+    "explanation": "CO₂ is heavier than air. When released on a fire, it forms a blanket over the burning substance, cutting off the oxygen supply and thus extinguishing the fire.",
+    "ncert_page": 86,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch06_q05",
+    "chapter_id": "c8s_ch06",
+    "question": "Which type of combustion occurs in a firefly (jugnu)?",
+    "options": [
+      "Rapid combustion",
+      "Spontaneous combustion",
+      "Explosive combustion",
+      "Slow combustion"
+    ],
+    "correct_index": 3,
+    "explanation": "A firefly produces light through slow combustion (controlled oxidation) at body temperature, producing light without heat or flame — a process called bioluminescence.",
+    "ncert_page": 80,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch06_q06",
+    "chapter_id": "c8s_ch06",
+    "question": "The calorific value of a fuel is measured in:",
+    "options": [
+      "joules per gram",
+      "kilojoules per kilogram",
+      "kilocalories only",
+      "watts"
+    ],
+    "correct_index": 1,
+    "explanation": "Calorific value is the amount of heat energy produced by complete combustion of 1 kg of a fuel. It is measured in kilojoules per kilogram (kJ/kg).",
+    "ncert_page": 88,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch06_q07",
+    "chapter_id": "c8s_ch06",
+    "question": "LPG (Liquefied Petroleum Gas) is considered a better fuel than wood because:",
+    "options": [
+      "it is cheaper than wood",
+      "it has higher calorific value and produces less pollution",
+      "it is available everywhere",
+      "it is a solid fuel"
+    ],
+    "correct_index": 1,
+    "explanation": "LPG has a higher calorific value (burns more efficiently) and produces less smoke and harmful gases than wood. Wood combustion produces CO, smoke, and particulates.",
+    "ncert_page": 89,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch06_q08",
+    "chapter_id": "c8s_ch06",
+    "question": "Spontaneous combustion occurs when:",
+    "options": [
+      "a substance needs a spark to ignite",
+      "a substance catches fire on its own at room temperature without any external heat source",
+      "a fuel burns slowly",
+      "combustion produces an explosion"
+    ],
+    "correct_index": 1,
+    "explanation": "Spontaneous combustion occurs when a substance ignites on its own at room temperature due to slow oxidation generating enough heat to reach ignition temperature, without an external ignition source.",
+    "ncert_page": 81,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch06_q09",
+    "chapter_id": "c8s_ch06",
+    "question": "What is released when a fuel burns completely in excess oxygen?",
+    "options": [
+      "Carbon monoxide and water",
+      "Carbon dioxide and water",
+      "Carbon monoxide only",
+      "Only heat"
+    ],
+    "correct_index": 1,
+    "explanation": "Complete combustion of a carbon-based fuel in excess oxygen produces carbon dioxide (CO₂) and water (H₂O), along with heat and light.",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch06_q10",
+    "chapter_id": "c8s_ch06",
+    "question": "Why is water not used to extinguish electrical fires?",
+    "options": [
+      "Water increases the temperature",
+      "Water conducts electricity and can cause electrocution",
+      "Water makes fire burn faster",
+      "Water reacts with fire to produce a gas"
+    ],
+    "correct_index": 1,
+    "explanation": "Water conducts electricity. Pouring water on an electrical fire can cause electricity to flow through the water to the person, causing electrocution. CO₂ or dry sand should be used instead.",
+    "ncert_page": 86,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

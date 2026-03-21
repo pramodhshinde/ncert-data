@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch14_q01",
+    "chapter_id": "c8m_ch14",
+    "question": "Factorise: 12x² + 8x",
+    "options": [
+      "4x(3x + 2)",
+      "4(3x² + 2x)",
+      "2x(6x + 4)",
+      "x(12x + 8)"
+    ],
+    "correct_index": 0,
+    "explanation": "HCF of 12x² and 8x is 4x. So 12x² + 8x = 4x(3x + 2).",
+    "ncert_page": 295,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch14_q02",
+    "chapter_id": "c8m_ch14",
+    "question": "Factorise using the identity a² − b²: x² − 25",
+    "options": [
+      "(x − 5)²",
+      "(x + 5)²",
+      "(x + 5)(x − 5)",
+      "(x − 5)(x − 5)"
+    ],
+    "correct_index": 2,
+    "explanation": "a² − b² = (a + b)(a − b). Here x² − 25 = x² − 5² = (x + 5)(x − 5).",
+    "ncert_page": 303,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch14_q03",
+    "chapter_id": "c8m_ch14",
+    "question": "Factorise: x² + 5x + 6",
+    "options": [
+      "(x + 2)(x + 3)",
+      "(x + 1)(x + 6)",
+      "(x + 3)²",
+      "(x − 2)(x − 3)"
+    ],
+    "correct_index": 0,
+    "explanation": "We need two numbers that multiply to 6 and add to 5: they are 2 and 3. So x² + 5x + 6 = (x + 2)(x + 3).",
+    "ncert_page": 298,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch14_q04",
+    "chapter_id": "c8m_ch14",
+    "question": "Factorise by regrouping: 6xy − 4y + 6x − 4",
+    "options": [
+      "2(3x − 2)(y + 1)",
+      "2(y + 1)(3x − 2)",
+      "(6x − 4)(y + 1)",
+      "2y(3x − 2) + 4"
+    ],
+    "correct_index": 0,
+    "explanation": "Group: (6xy − 4y) + (6x − 4) = 2y(3x − 2) + 2(3x − 2) = 2(3x − 2)(y + 1).",
+    "ncert_page": 297,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch14_q05",
+    "chapter_id": "c8m_ch14",
+    "question": "Divide: (x² + 7x + 10) ÷ (x + 2)",
+    "options": [
+      "x + 5",
+      "x − 5",
+      "x + 4",
+      "x + 3"
+    ],
+    "correct_index": 0,
+    "explanation": "x² + 7x + 10 = (x + 2)(x + 5). Dividing by (x + 2) gives (x + 5).",
+    "ncert_page": 307,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch14_q06",
+    "chapter_id": "c8m_ch14",
+    "question": "Factorise using (a + b)² identity: x² + 6x + 9",
+    "options": [
+      "(x + 3)(x − 3)",
+      "(x + 3)²",
+      "(x − 3)²",
+      "(x + 9)(x + 1)"
+    ],
+    "correct_index": 1,
+    "explanation": "x² + 6x + 9 = x² + 2(x)(3) + 3² = (x + 3)². This follows the identity (a + b)² = a² + 2ab + b².",
+    "ncert_page": 300,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch14_q07",
+    "chapter_id": "c8m_ch14",
+    "question": "Divide: 4x³ − 8x² + 6x by 2x",
+    "options": [
+      "2x² − 4x + 3",
+      "2x² + 4x − 3",
+      "2x + 4 − 3x",
+      "4x² − 8x + 6"
+    ],
+    "correct_index": 0,
+    "explanation": "(4x³ − 8x² + 6x) ÷ 2x = 4x³/2x − 8x²/2x + 6x/2x = 2x² − 4x + 3.",
+    "ncert_page": 306,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch14_q08",
+    "chapter_id": "c8m_ch14",
+    "question": "Which of the following is an irreducible factor of 5x² − 20?",
+    "options": [
+      "5x",
+      "x − 4",
+      "x + 2",
+      "5(x + 2)"
+    ],
+    "correct_index": 2,
+    "explanation": "5x² − 20 = 5(x² − 4) = 5(x + 2)(x − 2). The irreducible factors are 5, (x + 2), and (x − 2).",
+    "ncert_page": 302,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch14_q09",
+    "chapter_id": "c8m_ch14",
+    "question": "Factorise: a⁴ − b⁴",
+    "options": [
+      "(a² + b²)(a + b)(a − b)",
+      "(a + b)²(a − b)²",
+      "(a² − b²)²",
+      "(a + b)(a − b)(a² + b²)"
+    ],
+    "correct_index": 0,
+    "explanation": "a⁴ − b⁴ = (a²)² − (b²)² = (a² + b²)(a² − b²) = (a² + b²)(a + b)(a − b).",
+    "ncert_page": 304,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch14_q10",
+    "chapter_id": "c8m_ch14",
+    "question": "Divide (3x² + 11x + 6) by (x + 3):",
+    "options": [
+      "3x + 2",
+      "3x − 2",
+      "x + 3",
+      "3x + 4"
+    ],
+    "correct_index": 0,
+    "explanation": "3x² + 11x + 6 = (x + 3)(3x + 2). Dividing by (x + 3) gives 3x + 2. Verify: (x+3)(3x+2) = 3x²+2x+9x+6 = 3x²+11x+6. ✓",
+    "ncert_page": 309,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

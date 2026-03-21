@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch08_q01",
+    "chapter_id": "c8m_ch08",
+    "question": "If the cost price of an article is ₹500 and the selling price is ₹600, the profit percentage is:",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correct_index": 2,
+    "explanation": "Profit = ₹600 − ₹500 = ₹100. Profit% = (Profit/CP) × 100 = (100/500) × 100 = 20%.",
+    "ncert_page": 169,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch08_q02",
+    "chapter_id": "c8m_ch08",
+    "question": "A shopkeeper offers a 15% discount on the marked price of ₹800. The selling price is:",
+    "options": [
+      "₹620",
+      "₹660",
+      "₹680",
+      "₹720"
+    ],
+    "correct_index": 2,
+    "explanation": "Discount = 15% of ₹800 = ₹120. Selling Price = ₹800 − ₹120 = ₹680.",
+    "ncert_page": 173,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch08_q03",
+    "chapter_id": "c8m_ch08",
+    "question": "Compound interest on ₹1000 at 10% per annum for 2 years is:",
+    "options": [
+      "₹200",
+      "₹210",
+      "₹220",
+      "₹100"
+    ],
+    "correct_index": 1,
+    "explanation": "A = P(1 + R/100)ⁿ = 1000 × (1.1)² = 1000 × 1.21 = ₹1210. CI = ₹1210 − ₹1000 = ₹210.",
+    "ncert_page": 184,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch08_q04",
+    "chapter_id": "c8m_ch08",
+    "question": "VAT (Value Added Tax) is calculated on:",
+    "options": [
+      "cost price",
+      "selling price",
+      "marked price",
+      "discount amount"
+    ],
+    "correct_index": 1,
+    "explanation": "VAT is charged on the selling price (price at which the customer buys the article), not on the cost price or marked price.",
+    "ncert_page": 176,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch08_q05",
+    "chapter_id": "c8m_ch08",
+    "question": "An article is bought for ₹1200 and sold at a loss of 10%. The selling price is:",
+    "options": [
+      "₹1000",
+      "₹1080",
+      "₹1100",
+      "₹1120"
+    ],
+    "correct_index": 1,
+    "explanation": "Loss = 10% of ₹1200 = ₹120. Selling Price = ₹1200 − ₹120 = ₹1080.",
+    "ncert_page": 170,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch08_q06",
+    "chapter_id": "c8m_ch08",
+    "question": "The simple interest on ₹2000 at 5% per annum for 3 years is:",
+    "options": [
+      "₹200",
+      "₹250",
+      "₹300",
+      "₹350"
+    ],
+    "correct_index": 2,
+    "explanation": "SI = (P × R × T)/100 = (2000 × 5 × 3)/100 = ₹300.",
+    "ncert_page": 182,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch08_q07",
+    "chapter_id": "c8m_ch08",
+    "question": "The population of a town is 8000. It increases at 5% per year. What will be the population after 2 years?",
+    "options": [
+      "8400",
+      "8600",
+      "8820",
+      "9000"
+    ],
+    "correct_index": 2,
+    "explanation": "Population after 2 years = 8000 × (1 + 5/100)² = 8000 × 1.05² = 8000 × 1.1025 = 8820.",
+    "ncert_page": 188,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch08_q08",
+    "chapter_id": "c8m_ch08",
+    "question": "If a TV has a marked price of ₹15000 and a discount of 20%, what is the selling price after 5% VAT?",
+    "options": [
+      "₹12000",
+      "₹12600",
+      "₹13200",
+      "₹13500"
+    ],
+    "correct_index": 1,
+    "explanation": "After discount: ₹15000 × 0.80 = ₹12000. After 5% VAT: ₹12000 × 1.05 = ₹12600.",
+    "ncert_page": 177,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch08_q09",
+    "chapter_id": "c8m_ch08",
+    "question": "Compound interest is greater than simple interest because in CI:",
+    "options": [
+      "rate is higher",
+      "interest is added to principal each period",
+      "time is longer",
+      "tax is included"
+    ],
+    "correct_index": 1,
+    "explanation": "In compound interest, the interest earned in each period is added to the principal, so the next period's interest is calculated on a larger amount — making CI greater than SI.",
+    "ncert_page": 183,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch08_q10",
+    "chapter_id": "c8m_ch08",
+    "question": "A machine worth ₹50000 depreciates at 10% per annum. Its value after 2 years is:",
+    "options": [
+      "₹40000",
+      "₹40500",
+      "₹41000",
+      "₹40050"
+    ],
+    "correct_index": 1,
+    "explanation": "Value after 2 years = 50000 × (1 − 10/100)² = 50000 × (0.9)² = 50000 × 0.81 = ₹40500.",
+    "ncert_page": 190,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

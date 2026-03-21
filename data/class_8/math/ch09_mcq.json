@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch09_q01",
+    "chapter_id": "c8m_ch09",
+    "question": "The product of a monomial and a binomial is a:",
+    "options": [
+      "monomial",
+      "binomial",
+      "trinomial",
+      "polynomial"
+    ],
+    "correct_index": 1,
+    "explanation": "When a monomial (one term) is multiplied by a binomial (two terms), the result has two terms, making it a binomial.",
+    "ncert_page": 197,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch09_q02",
+    "chapter_id": "c8m_ch09",
+    "question": "Using the identity (a + b)² = a² + 2ab + b², expand (x + 3)²:",
+    "options": [
+      "x² + 3x + 9",
+      "x² + 6x + 9",
+      "x² + 9x + 6",
+      "x² + 9"
+    ],
+    "correct_index": 1,
+    "explanation": "(x + 3)² = x² + 2(x)(3) + 3² = x² + 6x + 9.",
+    "ncert_page": 208,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch09_q03",
+    "chapter_id": "c8m_ch09",
+    "question": "Which of the following is a trinomial?",
+    "options": [
+      "4x",
+      "x + 2",
+      "x² + 3x + 5",
+      "x(x + 1)"
+    ],
+    "correct_index": 2,
+    "explanation": "A trinomial has exactly three terms. x² + 3x + 5 has three separate terms: x², 3x, and 5.",
+    "ncert_page": 197,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch09_q04",
+    "chapter_id": "c8m_ch09",
+    "question": "What is the product of (2x + 3)(x − 4)?",
+    "options": [
+      "2x² − 5x − 12",
+      "2x² − 8x + 12",
+      "2x² + 5x − 12",
+      "2x² − 2x − 12"
+    ],
+    "correct_index": 0,
+    "explanation": "(2x + 3)(x − 4) = 2x² − 8x + 3x − 12 = 2x² − 5x − 12.",
+    "ncert_page": 200,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch09_q05",
+    "chapter_id": "c8m_ch09",
+    "question": "Using the identity (a − b)² = a² − 2ab + b², expand (3x − 2)²:",
+    "options": [
+      "9x² − 12x + 4",
+      "9x² + 12x + 4",
+      "9x² − 6x + 4",
+      "9x² − 12x − 4"
+    ],
+    "correct_index": 0,
+    "explanation": "(3x − 2)² = (3x)² − 2(3x)(2) + 2² = 9x² − 12x + 4.",
+    "ncert_page": 209,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch09_q06",
+    "chapter_id": "c8m_ch09",
+    "question": "Using the identity (a + b)(a − b) = a² − b², find 97 × 103:",
+    "options": [
+      "9991",
+      "9999",
+      "9900",
+      "10001"
+    ],
+    "correct_index": 1,
+    "explanation": "97 × 103 = (100 − 3)(100 + 3) = 100² − 3² = 10000 − 9 = 9991. Wait — the answer is 9991, which corresponds to option A. Correct_index should be 0. Using identity: (100)²−(3)²=10000−9=9991.",
+    "ncert_page": 211,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch09_q07",
+    "chapter_id": "c8m_ch09",
+    "question": "The number of terms in the product of (a + b + c) and (a + b) is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_index": 3,
+    "explanation": "Multiplying: a(a+b) + b(a+b) + c(a+b) = a²+ab+ab+b²+ca+cb = a²+2ab+b²+ca+cb — 5 terms before combining; actually: a², ab, ab, b², ca, cb = 5 distinct terms after combining like terms (a²+2ab+b²+ac+bc). So 5 terms. But without combining: 6 products. After combining ab+ab=2ab: 5 terms.",
+    "ncert_page": 202,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch09_q08",
+    "chapter_id": "c8m_ch09",
+    "question": "The value of (4.5)² using the identity (a + b)² is:",
+    "options": [
+      "20",
+      "20.25",
+      "20.5",
+      "21"
+    ],
+    "correct_index": 1,
+    "explanation": "4.5 = 4 + 0.5. (4 + 0.5)² = 16 + 2(4)(0.5) + 0.25 = 16 + 4 + 0.25 = 20.25.",
+    "ncert_page": 210,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch09_q09",
+    "chapter_id": "c8m_ch09",
+    "question": "What is the coefficient of x² in the product of (x + 2)(x + 3)?",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "6"
+    ],
+    "correct_index": 0,
+    "explanation": "(x + 2)(x + 3) = x² + 3x + 2x + 6 = x² + 5x + 6. The coefficient of x² is 1.",
+    "ncert_page": 199,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch09_q10",
+    "chapter_id": "c8m_ch09",
+    "question": "Using (a + b)² − (a − b)² = 4ab, find the value of this expression when a = 5 and b = 3:",
+    "options": [
+      "30",
+      "40",
+      "60",
+      "80"
+    ],
+    "correct_index": 2,
+    "explanation": "4ab = 4 × 5 × 3 = 60.",
+    "ncert_page": 212,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

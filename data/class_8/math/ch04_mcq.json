@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch04_q01",
+    "chapter_id": "c8m_ch04",
+    "question": "To construct a unique quadrilateral, the minimum number of measurements required is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "A quadrilateral has 4 sides and 2 diagonals. To uniquely determine it, we need 5 independent measurements (e.g., 4 sides and 1 diagonal).",
+    "ncert_page": 79,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch04_q02",
+    "chapter_id": "c8m_ch04",
+    "question": "Which of the following sets of measurements can be used to construct a unique quadrilateral?",
+    "options": [
+      "4 sides only",
+      "4 angles only",
+      "3 sides and 2 diagonals",
+      "4 sides and 1 diagonal"
+    ],
+    "correct_index": 3,
+    "explanation": "Knowing 4 sides and 1 diagonal gives exactly 5 measurements needed to construct a unique quadrilateral by dividing it into two triangles.",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch04_q03",
+    "chapter_id": "c8m_ch04",
+    "question": "To construct a quadrilateral ABCD, given AB = 4 cm, BC = 3 cm, CD = 5 cm, DA = 3 cm and diagonal AC = 6 cm, how many triangles are formed?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 1,
+    "explanation": "Diagonal AC divides quadrilateral ABCD into two triangles: triangle ABC and triangle ACD. So 2 triangles are formed.",
+    "ncert_page": 81,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch04_q04",
+    "chapter_id": "c8m_ch04",
+    "question": "A quadrilateral can be constructed uniquely if its four sides and one __________ are given.",
+    "options": [
+      "angle",
+      "diagonal",
+      "vertex",
+      "median"
+    ],
+    "correct_index": 1,
+    "explanation": "With four sides and one diagonal, the quadrilateral is divided into two triangles, each of which can be constructed uniquely using SSS congruence.",
+    "ncert_page": 81,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch04_q05",
+    "chapter_id": "c8m_ch04",
+    "question": "To construct quadrilateral PQRS with PQ = 4 cm, QR = 6 cm, RS = 5 cm, PS = 5.5 cm and PR = 7 cm, which triangle is constructed first?",
+    "options": [
+      "Triangle PQS",
+      "Triangle PQR",
+      "Triangle QRS",
+      "Triangle PRS"
+    ],
+    "correct_index": 1,
+    "explanation": "Triangle PQR is constructed first using PQ = 4 cm, QR = 6 cm, and PR = 7 cm (three sides given). Then point S is located using RS = 5 cm and PS = 5.5 cm.",
+    "ncert_page": 82,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch04_q06",
+    "chapter_id": "c8m_ch04",
+    "question": "A quadrilateral can be constructed when three sides, one diagonal and one angle are given. This angle must be the angle:",
+    "options": [
+      "between the two known sides",
+      "opposite to the diagonal",
+      "at an unknown vertex",
+      "between the diagonal and a side"
+    ],
+    "correct_index": 0,
+    "explanation": "The included angle between two known sides, together with the diagonal and remaining side, provides enough information to construct the quadrilateral uniquely.",
+    "ncert_page": 84,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch04_q07",
+    "chapter_id": "c8m_ch04",
+    "question": "To construct a square of side 4 cm, how many measurements are actually needed?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "correct_index": 0,
+    "explanation": "A square has all four sides equal and all angles 90°. So knowing just one side (4 cm) is sufficient to construct it uniquely.",
+    "ncert_page": 85,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch04_q08",
+    "chapter_id": "c8m_ch04",
+    "question": "Which condition is NOT sufficient to construct a unique quadrilateral?",
+    "options": [
+      "Four sides and one diagonal",
+      "Three sides and two included angles",
+      "Two diagonals and three sides",
+      "Four sides and four angles"
+    ],
+    "correct_index": 3,
+    "explanation": "Knowing four sides and four angles is not sufficient — there are infinitely many quadrilaterals with the same four sides and four angles that are not congruent. You need a diagonal or some additional positional info.",
+    "ncert_page": 86,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch04_q09",
+    "chapter_id": "c8m_ch04",
+    "question": "To construct a rhombus with diagonals 5 cm and 7 cm, the diagonals of a rhombus always:",
+    "options": [
+      "are equal",
+      "bisect each other at right angles",
+      "are parallel",
+      "bisect the angles equally"
+    ],
+    "correct_index": 1,
+    "explanation": "The diagonals of a rhombus bisect each other at right angles (90°). This property is used to construct the rhombus when its two diagonals are known.",
+    "ncert_page": 88,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch04_q10",
+    "chapter_id": "c8m_ch04",
+    "question": "When constructing a quadrilateral given three sides and two included angles, the construction begins with:",
+    "options": [
+      "Drawing both diagonals first",
+      "Drawing one side and constructing the given angles at its ends",
+      "Drawing the longest side",
+      "Drawing the two known angles first"
+    ],
+    "correct_index": 1,
+    "explanation": "Construction begins by drawing one known side, then constructing the given included angles at its two endpoints to locate adjacent vertices and build the quadrilateral step by step.",
+    "ncert_page": 90,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  }
+]

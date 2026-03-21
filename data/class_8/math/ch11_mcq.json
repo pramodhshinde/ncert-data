@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch11_q01",
+    "chapter_id": "c8m_ch11",
+    "question": "The area of a trapezium with parallel sides 8 cm and 6 cm, and height 5 cm is:",
+    "options": [
+      "25 cm²",
+      "30 cm²",
+      "35 cm²",
+      "40 cm²"
+    ],
+    "correct_index": 2,
+    "explanation": "Area of trapezium = ½ × (sum of parallel sides) × height = ½ × (8 + 6) × 5 = ½ × 14 × 5 = 35 cm².",
+    "ncert_page": 237,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch11_q02",
+    "chapter_id": "c8m_ch11",
+    "question": "The total surface area of a cube with side 4 cm is:",
+    "options": [
+      "16 cm²",
+      "48 cm²",
+      "64 cm²",
+      "96 cm²"
+    ],
+    "correct_index": 3,
+    "explanation": "Total surface area of a cube = 6 × side² = 6 × 4² = 6 × 16 = 96 cm².",
+    "ncert_page": 250,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch11_q03",
+    "chapter_id": "c8m_ch11",
+    "question": "The volume of a cuboid with length 5 cm, breadth 4 cm, and height 3 cm is:",
+    "options": [
+      "40 cm³",
+      "47 cm³",
+      "60 cm³",
+      "94 cm³"
+    ],
+    "correct_index": 2,
+    "explanation": "Volume of cuboid = l × b × h = 5 × 4 × 3 = 60 cm³.",
+    "ncert_page": 256,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch11_q04",
+    "chapter_id": "c8m_ch11",
+    "question": "The curved surface area of a cylinder with radius 7 cm and height 10 cm is (use π = 22/7):",
+    "options": [
+      "440 cm²",
+      "460 cm²",
+      "480 cm²",
+      "500 cm²"
+    ],
+    "correct_index": 0,
+    "explanation": "Curved Surface Area = 2πrh = 2 × (22/7) × 7 × 10 = 2 × 22 × 10 = 440 cm².",
+    "ncert_page": 259,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch11_q05",
+    "chapter_id": "c8m_ch11",
+    "question": "The area of a rhombus with diagonals 6 cm and 8 cm is:",
+    "options": [
+      "14 cm²",
+      "24 cm²",
+      "28 cm²",
+      "48 cm²"
+    ],
+    "correct_index": 1,
+    "explanation": "Area of rhombus = ½ × d₁ × d₂ = ½ × 6 × 8 = 24 cm².",
+    "ncert_page": 241,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch11_q06",
+    "chapter_id": "c8m_ch11",
+    "question": "The volume of a cylinder with base radius 3.5 cm and height 10 cm is (use π = 22/7):",
+    "options": [
+      "385 cm³",
+      "350 cm³",
+      "200 cm³",
+      "154 cm³"
+    ],
+    "correct_index": 0,
+    "explanation": "Volume = πr²h = (22/7) × 3.5² × 10 = (22/7) × 12.25 × 10 = 22 × 1.75 × 10 = 385 cm³.",
+    "ncert_page": 260,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch11_q07",
+    "chapter_id": "c8m_ch11",
+    "question": "The lateral surface area of a cuboid with length 8 cm, breadth 6 cm, and height 5 cm is:",
+    "options": [
+      "100 cm²",
+      "120 cm²",
+      "140 cm²",
+      "160 cm²"
+    ],
+    "correct_index": 2,
+    "explanation": "Lateral Surface Area = 2h(l + b) = 2 × 5 × (8 + 6) = 10 × 14 = 140 cm².",
+    "ncert_page": 251,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch11_q08",
+    "chapter_id": "c8m_ch11",
+    "question": "The area of a general quadrilateral with one diagonal of 10 cm and heights of 4 cm and 3 cm from the opposite vertices is:",
+    "options": [
+      "25 cm²",
+      "30 cm²",
+      "35 cm²",
+      "40 cm²"
+    ],
+    "correct_index": 2,
+    "explanation": "Area = ½ × d × (h₁ + h₂) = ½ × 10 × (4 + 3) = ½ × 10 × 7 = 35 cm².",
+    "ncert_page": 243,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch11_q09",
+    "chapter_id": "c8m_ch11",
+    "question": "A rectangular room is 12 m long, 8 m wide, and 5 m high. The cost of painting its 4 walls at ₹15 per m² is:",
+    "options": [
+      "₹2400",
+      "₹3000",
+      "₹3600",
+      "₹4800"
+    ],
+    "correct_index": 1,
+    "explanation": "Area of 4 walls = 2h(l + b) = 2 × 5 × (12 + 8) = 200 m². Cost = 200 × 15 = ₹3000.",
+    "ncert_page": 252,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch11_q10",
+    "chapter_id": "c8m_ch11",
+    "question": "How many litres of water can a cylindrical tank of diameter 2 m and height 4.5 m hold? (use π = 3.14; 1 m³ = 1000 L)",
+    "options": [
+      "11130 L",
+      "12130 L",
+      "14130 L",
+      "15700 L"
+    ],
+    "correct_index": 2,
+    "explanation": "r = 1 m. Volume = πr²h = 3.14 × 1² × 4.5 = 14.13 m³ = 14130 litres.",
+    "ncert_page": 261,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

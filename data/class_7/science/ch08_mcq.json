@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7s_ch08_q01",
+    "chapter_id": "c7s_ch08",
+    "question": "Wind is caused by:",
+    "options": [
+      "Differences in temperature creating differences in air pressure",
+      "Earth's rotation only",
+      "Ocean currents",
+      "Humidity differences alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Unequal heating of Earth's surface creates differences in air temperature, which causes differences in air pressure. Air moves from high pressure to low pressure areas — this movement of air is called wind.",
+    "ncert_page": 110,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch08_q02",
+    "chapter_id": "c7s_ch08",
+    "question": "In which direction does wind blow with respect to air pressure?",
+    "options": [
+      "From low to high pressure",
+      "From high to low pressure",
+      "Only horizontally",
+      "Only vertically"
+    ],
+    "correct_index": 1,
+    "explanation": "Wind always blows from areas of high pressure to areas of low pressure. The greater the pressure difference, the stronger the wind.",
+    "ncert_page": 110,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch08_q03",
+    "chapter_id": "c7s_ch08",
+    "question": "A cyclone is characterised by:",
+    "options": [
+      "High pressure at centre, wind blowing outward",
+      "Low pressure at centre, wind blowing inward and rotating",
+      "High winds with no rotation",
+      "Cold, dry air at centre"
+    ],
+    "correct_index": 1,
+    "explanation": "A cyclone has a low pressure region at the centre (eye). Warm, moist air spirals inward and upward in a rotating manner around this low-pressure centre, creating violent winds.",
+    "ncert_page": 117,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch08_q04",
+    "chapter_id": "c7s_ch08",
+    "question": "Which safety measure should be followed during a thunderstorm?",
+    "options": [
+      "Stand under a tall tree",
+      "Stay in open fields",
+      "Stay indoors and avoid contact with metal objects",
+      "Go near water bodies"
+    ],
+    "correct_index": 2,
+    "explanation": "During a thunderstorm, stay indoors away from windows. Do not stand under trees (lightning strikes tall objects), avoid metal objects, and stay away from water bodies.",
+    "ncert_page": 120,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch08_q05",
+    "chapter_id": "c7s_ch08",
+    "question": "The 'eye' of a cyclone is:",
+    "options": [
+      "The outermost ring of storm",
+      "A region of very high winds",
+      "A calm, clear area at the centre",
+      "Where the cyclone originates"
+    ],
+    "correct_index": 2,
+    "explanation": "The eye of a cyclone is a calm, relatively clear area at the very centre. It has low pressure and is surrounded by the eyewall which has the most violent winds and rainfall.",
+    "ncert_page": 117,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch08_q06",
+    "chapter_id": "c7s_ch08",
+    "question": "Hot air balloons work because:",
+    "options": [
+      "Hot air is denser than cold air",
+      "Hot air is lighter (less dense) and rises",
+      "Hot air creates vacuum",
+      "Hot air has more pressure than cold air"
+    ],
+    "correct_index": 1,
+    "explanation": "Hot air is less dense (lighter) than cold air. When the air inside the balloon is heated, it becomes less dense than the surrounding cool air and rises, lifting the balloon.",
+    "ncert_page": 111,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch08_q07",
+    "chapter_id": "c7s_ch08",
+    "question": "Thunderstorms occur when:",
+    "options": [
+      "Wind speed is very low",
+      "Moist air rises rapidly and strong updrafts develop",
+      "The sun heats the ground uniformly",
+      "Cold fronts disappear slowly"
+    ],
+    "correct_index": 1,
+    "explanation": "Thunderstorms develop when moist hot air rises rapidly (strong updrafts) creating tall cumulonimbus clouds. The rapid movement of air creates electric charges leading to lightning and thunder.",
+    "ncert_page": 115,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch08_q08",
+    "chapter_id": "c7s_ch08",
+    "question": "A lightning conductor on a building works by:",
+    "options": [
+      "Attracting lightning and burning it",
+      "Providing a safe path for electric charge to flow to earth",
+      "Repelling lightning",
+      "Storing electrical energy"
+    ],
+    "correct_index": 1,
+    "explanation": "A lightning conductor (lightning rod) is a metal rod on top of buildings connected to earth by a wire. If lightning strikes, it provides a safe conducting path for charge to flow to the ground harmlessly.",
+    "ncert_page": 120,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch08_q09",
+    "chapter_id": "c7s_ch08",
+    "question": "Cyclones cause damage through:",
+    "options": [
+      "Only heavy rainfall",
+      "High-speed winds, storm surges, heavy rain, and flooding",
+      "Only lightning and thunder",
+      "Only strong winds"
+    ],
+    "correct_index": 1,
+    "explanation": "Cyclones cause multiple types of damage: violent high-speed winds destroy structures, storm surges bring seawater inland, heavy rainfall causes flooding, and all of these together make cyclones extremely destructive.",
+    "ncert_page": 118,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch08_q10",
+    "chapter_id": "c7s_ch08",
+    "question": "Early warning systems for cyclones are important because they allow time for evacuation. Which agency in India monitors cyclones?",
+    "options": [
+      "NCERT",
+      "India Meteorological Department (IMD)",
+      "ISRO only",
+      "National Disaster Management only"
+    ],
+    "correct_index": 1,
+    "explanation": "The India Meteorological Department (IMD) monitors cyclones using satellites and radar, issues warnings 48-72 hours in advance, enabling timely evacuation of coastal areas and preparation.",
+    "ncert_page": 118,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

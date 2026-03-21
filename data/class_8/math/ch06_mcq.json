@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch06_q01",
+    "chapter_id": "c8m_ch06",
+    "question": "Which of the following is a perfect square?",
+    "options": [
+      "35",
+      "49",
+      "50",
+      "72"
+    ],
+    "correct_index": 1,
+    "explanation": "49 = 7 × 7 = 7², so it is a perfect square. 35, 50, and 72 cannot be expressed as the square of an integer.",
+    "ncert_page": 123,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch06_q02",
+    "chapter_id": "c8m_ch06",
+    "question": "The square root of 144 is:",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct_index": 1,
+    "explanation": "144 = 12 × 12, so √144 = 12.",
+    "ncert_page": 126,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch06_q03",
+    "chapter_id": "c8m_ch06",
+    "question": "How many non-perfect-square numbers lie between 7² and 8²?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correct_index": 1,
+    "explanation": "Between n² and (n+1)², there are always 2n non-perfect-square numbers. Here n = 7, so 2 × 7 = 14 numbers lie between 49 and 64.",
+    "ncert_page": 124,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch06_q04",
+    "chapter_id": "c8m_ch06",
+    "question": "The square root of 256 by prime factorisation is:",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct_index": 1,
+    "explanation": "256 = 2⁸ = (2⁴)² = 16². So √256 = 16.",
+    "ncert_page": 133,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch06_q05",
+    "chapter_id": "c8m_ch06",
+    "question": "A perfect square number is always:",
+    "options": [
+      "even",
+      "odd",
+      "either even or odd",
+      "a prime number"
+    ],
+    "correct_index": 2,
+    "explanation": "A perfect square can be either even (e.g., 4, 16) or odd (e.g., 9, 25). It does not have to be always even or always odd.",
+    "ncert_page": 125,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch06_q06",
+    "chapter_id": "c8m_ch06",
+    "question": "The unit digit of the square of 35 is:",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "correct_index": 1,
+    "explanation": "The unit digit of the square of a number depends only on the unit digit. 5² = 25, so the unit digit is 5.",
+    "ncert_page": 124,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch06_q07",
+    "chapter_id": "c8m_ch06",
+    "question": "What is the smallest number by which 180 must be multiplied to make it a perfect square?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "180 = 2² × 3² × 5. The factor 5 does not have a pair. Multiplying by 5 gives 180 × 5 = 900 = 30², a perfect square.",
+    "ncert_page": 128,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch06_q08",
+    "chapter_id": "c8m_ch06",
+    "question": "Using long division method, √784 is:",
+    "options": [
+      "24",
+      "26",
+      "28",
+      "32"
+    ],
+    "correct_index": 2,
+    "explanation": "784 = 28 × 28. Using long division: √784 = 28.",
+    "ncert_page": 142,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch06_q09",
+    "chapter_id": "c8m_ch06",
+    "question": "The square root of 0.0016 is:",
+    "options": [
+      "0.004",
+      "0.04",
+      "0.4",
+      "4"
+    ],
+    "correct_index": 1,
+    "explanation": "0.0016 = 16/10000. √(16/10000) = 4/100 = 0.04.",
+    "ncert_page": 145,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch06_q10",
+    "chapter_id": "c8m_ch06",
+    "question": "What is the smallest number that must be subtracted from 1000 to make it a perfect square?",
+    "options": [
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "correct_index": 2,
+    "explanation": "31² = 961 and 32² = 1024. 1000 − 961 = 39. Subtracting 39 from 1000 gives 961 = 31², a perfect square.",
+    "ncert_page": 148,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

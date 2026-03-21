@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8s_ch10_q01",
+    "chapter_id": "c8s_ch10",
+    "question": "The period of rapid physical and hormonal changes in adolescents is called:",
+    "options": [
+      "Puberty",
+      "Menopause",
+      "Ovulation",
+      "Lactation"
+    ],
+    "correct_index": 0,
+    "explanation": "Puberty is the period of rapid physical and hormonal changes that marks the transition from childhood to adolescence, during which a person becomes capable of reproduction.",
+    "ncert_page": 133,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch10_q02",
+    "chapter_id": "c8s_ch10",
+    "question": "The master gland that controls other endocrine glands is the:",
+    "options": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pituitary gland",
+      "Pancreas"
+    ],
+    "correct_index": 2,
+    "explanation": "The pituitary gland, located at the base of the brain, is called the master gland because it secretes hormones that control and regulate other endocrine glands in the body.",
+    "ncert_page": 138,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch10_q03",
+    "chapter_id": "c8s_ch10",
+    "question": "Testosterone is produced in:",
+    "options": [
+      "Ovaries",
+      "Pituitary gland",
+      "Testes",
+      "Adrenal glands"
+    ],
+    "correct_index": 2,
+    "explanation": "Testosterone is the main male sex hormone produced by the testes. It is responsible for the development of male secondary sexual characteristics during puberty.",
+    "ncert_page": 139,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch10_q04",
+    "chapter_id": "c8s_ch10",
+    "question": "The female hormone responsible for the development of secondary sexual characteristics is:",
+    "options": [
+      "Testosterone",
+      "Progesterone",
+      "Oestrogen",
+      "Insulin"
+    ],
+    "correct_index": 2,
+    "explanation": "Oestrogen (estrogen) is the main female sex hormone produced by the ovaries. It controls the development of female secondary sexual characteristics during puberty.",
+    "ncert_page": 139,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch10_q05",
+    "chapter_id": "c8s_ch10",
+    "question": "Which of the following is a secondary sexual characteristic in boys?",
+    "options": [
+      "Widening of hips",
+      "Breast development",
+      "Voice becomes deeper (voice box enlarges)",
+      "Onset of menstruation"
+    ],
+    "correct_index": 2,
+    "explanation": "In boys, puberty causes: enlargement of larynx (voice box) making the voice deeper, growth of facial and body hair, and development of muscles.",
+    "ncert_page": 135,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch10_q06",
+    "chapter_id": "c8s_ch10",
+    "question": "Insulin is secreted by the:",
+    "options": [
+      "Thyroid",
+      "Pituitary",
+      "Pancreas",
+      "Adrenal gland"
+    ],
+    "correct_index": 2,
+    "explanation": "Insulin is a hormone secreted by the pancreas (specifically by islets of Langerhans). It regulates blood sugar levels by facilitating glucose uptake by cells.",
+    "ncert_page": 140,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch10_q07",
+    "chapter_id": "c8s_ch10",
+    "question": "Adolescence roughly covers the age range of:",
+    "options": [
+      "0–5 years",
+      "5–10 years",
+      "11–18 years",
+      "20–25 years"
+    ],
+    "correct_index": 2,
+    "explanation": "Adolescence is the phase between childhood and adulthood, roughly from 11 to 18–19 years of age. It begins with puberty and ends when the person attains reproductive maturity.",
+    "ncert_page": 133,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch10_q08",
+    "chapter_id": "c8s_ch10",
+    "question": "The thyroid gland requires which mineral to produce thyroxine?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Iodine",
+      "Phosphorus"
+    ],
+    "correct_index": 2,
+    "explanation": "The thyroid gland needs iodine to produce thyroxine. Deficiency of iodine causes goitre (swelling of the thyroid gland). Iodised salt helps prevent this deficiency.",
+    "ncert_page": 141,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch10_q09",
+    "chapter_id": "c8s_ch10",
+    "question": "Which of the following is good advice for adolescents regarding reproductive health?",
+    "options": [
+      "Avoid physical exercise",
+      "Maintain proper nutrition and hygiene",
+      "Skip meals to maintain weight",
+      "Ignore emotional changes"
+    ],
+    "correct_index": 1,
+    "explanation": "Adolescents need balanced nutrition for rapid growth, proper hygiene especially during puberty, regular exercise, and emotional support. Good health habits during adolescence build the foundation for adult health.",
+    "ncert_page": 144,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch10_q10",
+    "chapter_id": "c8s_ch10",
+    "question": "The sex of a human baby is determined by:",
+    "options": [
+      "the mother's chromosomes",
+      "the father's sex chromosome in the sperm",
+      "the temperature during pregnancy",
+      "the nutrition of the mother"
+    ],
+    "correct_index": 1,
+    "explanation": "All eggs carry an X chromosome. Sperm can carry either X or Y. If X-sperm fertilises the egg → XX (girl). If Y-sperm fertilises → XY (boy). So the father's sperm determines the sex.",
+    "ncert_page": 143,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

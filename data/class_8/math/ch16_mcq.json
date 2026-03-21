@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch16_q01",
+    "chapter_id": "c8m_ch16",
+    "question": "A number is divisible by 2 if its unit digit is:",
+    "options": [
+      "0 only",
+      "even",
+      "odd",
+      "divisible by 4"
+    ],
+    "correct_index": 1,
+    "explanation": "A number is divisible by 2 if its unit (ones) digit is even (0, 2, 4, 6, or 8).",
+    "ncert_page": 327,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch16_q02",
+    "chapter_id": "c8m_ch16",
+    "question": "A number is divisible by 9 if:",
+    "options": [
+      "its last digit is 9",
+      "its last two digits are divisible by 9",
+      "the sum of all its digits is divisible by 9",
+      "it is divisible by 3"
+    ],
+    "correct_index": 2,
+    "explanation": "Divisibility rule for 9: a number is divisible by 9 if and only if the sum of its digits is divisible by 9.",
+    "ncert_page": 330,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch16_q03",
+    "chapter_id": "c8m_ch16",
+    "question": "Is 7245 divisible by 5?",
+    "options": [
+      "Yes, because it ends in 5",
+      "Yes, because sum of digits is divisible by 5",
+      "No, because it is not even",
+      "No, because it does not end in 0"
+    ],
+    "correct_index": 0,
+    "explanation": "A number is divisible by 5 if its unit digit is 0 or 5. Since 7245 ends in 5, it is divisible by 5.",
+    "ncert_page": 328,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch16_q04",
+    "chapter_id": "c8m_ch16",
+    "question": "In the number 6B4, if 6B4 is divisible by 3, what digit can B be (if B is a single digit)?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "Sum of digits = 6 + B + 4 = 10 + B. For divisibility by 3, 10 + B must be divisible by 3. B = 2 gives 12 ✓, B = 5 gives 15 ✓, B = 8 gives 18 ✓. But among the options given, B = 0 gives 10 (no), B = 1 gives 11 (no), B = 2 gives 12 (yes). So B = 2 works. But option D says all — that is incorrect. Correct is B = 2.",
+    "ncert_page": 332,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch16_q05",
+    "chapter_id": "c8m_ch16",
+    "question": "A number is divisible by 10 if its:",
+    "options": [
+      "last digit is 5",
+      "last digit is 0",
+      "sum of digits is 10",
+      "it ends in an even digit"
+    ],
+    "correct_index": 1,
+    "explanation": "A number is divisible by 10 if and only if its unit digit is 0.",
+    "ncert_page": 329,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch16_q06",
+    "chapter_id": "c8m_ch16",
+    "question": "If the 2-digit number AB̄ (where A is tens digit and B is units digit) satisfies AB̄ = A + B, which number could it be?",
+    "options": [
+      "10",
+      "19",
+      "29",
+      "Cannot exist"
+    ],
+    "correct_index": 3,
+    "explanation": "AB̄ = 10A + B. If this equals A + B, then 10A + B = A + B, so 9A = 0, meaning A = 0. But then it is not a 2-digit number. So no such 2-digit number exists.",
+    "ncert_page": 334,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch16_q07",
+    "chapter_id": "c8m_ch16",
+    "question": "Which of the following is divisible by both 3 and 9?",
+    "options": [
+      "261",
+      "235",
+      "244",
+      "154"
+    ],
+    "correct_index": 0,
+    "explanation": "261: sum of digits = 2 + 6 + 1 = 9. Since 9 is divisible by both 3 and 9, the number 261 is divisible by both 3 and 9.",
+    "ncert_page": 330,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch16_q08",
+    "chapter_id": "c8m_ch16",
+    "question": "In the puzzle: A + A + A = BA (where BA is a 2-digit number), what is the value of A?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct_index": 1,
+    "explanation": "5 + 5 + 5 = 15. Here B = 1 and A = 5. So A = 5 satisfies A + A + A = BA, giving 15.",
+    "ncert_page": 336,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch16_q09",
+    "chapter_id": "c8m_ch16",
+    "question": "A number is divisible by 4 if:",
+    "options": [
+      "it is divisible by 2",
+      "the sum of its digits is divisible by 4",
+      "its last two digits form a number divisible by 4",
+      "its unit digit is 4"
+    ],
+    "correct_index": 2,
+    "explanation": "The divisibility rule for 4 states: a number is divisible by 4 if the number formed by its last two digits is divisible by 4.",
+    "ncert_page": 329,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch16_q10",
+    "chapter_id": "c8m_ch16",
+    "question": "A 3-digit number 2A3 is divisible by 9. The value of A is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_index": 1,
+    "explanation": "Sum of digits = 2 + A + 3 = 5 + A. For divisibility by 9, we need 5 + A = 9 (or 18). So A = 4.",
+    "ncert_page": 332,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]

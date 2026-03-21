@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch07_q01",
+    "chapter_id": "c8m_ch07",
+    "question": "Which of the following is a perfect cube?",
+    "options": [
+      "8",
+      "18",
+      "25",
+      "50"
+    ],
+    "correct_index": 0,
+    "explanation": "8 = 2 × 2 × 2 = 2³, so it is a perfect cube. 18, 25, and 50 cannot be expressed as the cube of an integer.",
+    "ncert_page": 153,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch07_q02",
+    "chapter_id": "c8m_ch07",
+    "question": "The cube root of 27 is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_index": 1,
+    "explanation": "27 = 3 × 3 × 3 = 3³. So ∛27 = 3.",
+    "ncert_page": 159,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch07_q03",
+    "chapter_id": "c8m_ch07",
+    "question": "What is the cube of −4?",
+    "options": [
+      "−12",
+      "−16",
+      "−64",
+      "−128"
+    ],
+    "correct_index": 2,
+    "explanation": "(−4)³ = (−4) × (−4) × (−4) = 16 × (−4) = −64.",
+    "ncert_page": 154,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch07_q04",
+    "chapter_id": "c8m_ch07",
+    "question": "The smallest number by which 72 must be multiplied to make it a perfect cube is:",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "9"
+    ],
+    "correct_index": 1,
+    "explanation": "72 = 2³ × 3². The factor 3 appears twice; it needs one more 3. So multiply by 3 to get 72 × 3 = 216 = 6³.",
+    "ncert_page": 156,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch07_q05",
+    "chapter_id": "c8m_ch07",
+    "question": "The cube root of 1000 is:",
+    "options": [
+      "5",
+      "10",
+      "100",
+      "50"
+    ],
+    "correct_index": 1,
+    "explanation": "1000 = 10 × 10 × 10 = 10³. So ∛1000 = 10.",
+    "ncert_page": 160,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch07_q06",
+    "chapter_id": "c8m_ch07",
+    "question": "Which of the following statements about cubes is TRUE?",
+    "options": [
+      "The cube of an even number is always odd",
+      "The cube of a negative number is positive",
+      "The cube of an odd number is always odd",
+      "Cube root of a perfect cube is always irrational"
+    ],
+    "correct_index": 2,
+    "explanation": "An odd number multiplied by itself three times gives an odd result. So the cube of an odd number is always odd.",
+    "ncert_page": 154,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch07_q07",
+    "chapter_id": "c8m_ch07",
+    "question": "∛(−512) equals:",
+    "options": [
+      "−4",
+      "−8",
+      "4",
+      "8"
+    ],
+    "correct_index": 1,
+    "explanation": "512 = 8³. Since the number is negative, ∛(−512) = −8.",
+    "ncert_page": 164,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch07_q08",
+    "chapter_id": "c8m_ch07",
+    "question": "What is the smallest number by which 192 must be divided to make it a perfect cube?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct_index": 1,
+    "explanation": "192 = 2⁶ × 3. The prime factor 3 does not form a triplet. Dividing by 3 gives 192 ÷ 3 = 64 = 4³, a perfect cube.",
+    "ncert_page": 157,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch07_q09",
+    "chapter_id": "c8m_ch07",
+    "question": "The unit digit of the cube of a number ending in 3 is:",
+    "options": [
+      "3",
+      "7",
+      "9",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "3³ = 27, so the unit digit of the cube of any number ending in 3 is 7.",
+    "ncert_page": 155,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch07_q10",
+    "chapter_id": "c8m_ch07",
+    "question": "Using prime factorisation, ∛13824 is:",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28"
+    ],
+    "correct_index": 1,
+    "explanation": "13824 = 2⁹ × 3³ = (2³)³ × 3³ = (2³ × 3)³ = 24³. So ∛13824 = 24.",
+    "ncert_page": 162,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

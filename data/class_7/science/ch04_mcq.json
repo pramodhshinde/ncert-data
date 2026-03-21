@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7s_ch04_q01",
+    "chapter_id": "c7s_ch04",
+    "question": "Which mode of heat transfer requires a medium?",
+    "options": [
+      "Radiation only",
+      "Both conduction and convection",
+      "Radiation and conduction",
+      "Only convection"
+    ],
+    "correct_index": 1,
+    "explanation": "Conduction requires direct contact between particles (solid medium), and convection requires a fluid medium. Radiation requires no medium and can travel through vacuum.",
+    "ncert_page": 51,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch04_q02",
+    "chapter_id": "c7s_ch04",
+    "question": "Heat transfer in liquids and gases primarily occurs by:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Diffusion"
+    ],
+    "correct_index": 1,
+    "explanation": "In liquids and gases, heat transfer mainly occurs by convection. Hot fluid rises (less dense) and cool fluid sinks, forming convection currents.",
+    "ncert_page": 54,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch04_q03",
+    "chapter_id": "c7s_ch04",
+    "question": "A clinical thermometer measures temperature in the range:",
+    "options": [
+      "0°C to 100°C",
+      "35°C to 42°C",
+      "−10°C to 110°C",
+      "20°C to 50°C"
+    ],
+    "correct_index": 1,
+    "explanation": "A clinical (doctor's) thermometer has a range of 35°C to 42°C because normal body temperature is 37°C and it needs to measure fever temperatures (up to about 42°C).",
+    "ncert_page": 50,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch04_q04",
+    "chapter_id": "c7s_ch04",
+    "question": "Dark-coloured surfaces are:",
+    "options": [
+      "Poor absorbers and poor emitters",
+      "Good absorbers and good emitters",
+      "Good absorbers but poor emitters",
+      "Poor absorbers but good emitters"
+    ],
+    "correct_index": 1,
+    "explanation": "Dark (black) rough surfaces are good absorbers AND good emitters of heat radiation. This is why black objects heat up faster and also cool faster.",
+    "ncert_page": 56,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch04_q05",
+    "chapter_id": "c7s_ch04",
+    "question": "The normal temperature of the human body is:",
+    "options": [
+      "35°C",
+      "36°C",
+      "37°C",
+      "38°C"
+    ],
+    "correct_index": 2,
+    "explanation": "The normal body temperature of a healthy human is 37°C (98.6°F). A temperature above this indicates fever, and a clinical thermometer is used to measure it.",
+    "ncert_page": 49,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch04_q06",
+    "chapter_id": "c7s_ch04",
+    "question": "Sea breeze blows from:",
+    "options": [
+      "Land to sea during day",
+      "Sea to land during day",
+      "Sea to land during night",
+      "Land to land always"
+    ],
+    "correct_index": 1,
+    "explanation": "During the day, land heats up faster than sea. Hot air over land rises and cool air from the sea flows in — this is sea breeze, blowing from sea to land during the day.",
+    "ncert_page": 55,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch04_q07",
+    "chapter_id": "c7s_ch04",
+    "question": "Which material is a good conductor of heat?",
+    "options": [
+      "Wood",
+      "Plastic",
+      "Wool",
+      "Copper"
+    ],
+    "correct_index": 3,
+    "explanation": "Metals like copper are good conductors of heat because heat energy is transferred rapidly through them. Wood, plastic, and wool are poor conductors (insulators).",
+    "ncert_page": 52,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch04_q08",
+    "chapter_id": "c7s_ch04",
+    "question": "The kink in a clinical thermometer is provided to:",
+    "options": [
+      "Increase accuracy",
+      "Prevent mercury from falling back into the bulb",
+      "Improve the range",
+      "Make it easier to read"
+    ],
+    "correct_index": 1,
+    "explanation": "The constriction (kink) in a clinical thermometer prevents mercury from flowing back into the bulb after it is removed from the patient, so the reading is preserved.",
+    "ncert_page": 50,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch04_q09",
+    "chapter_id": "c7s_ch04",
+    "question": "Heat transfer from the Sun to the Earth occurs by:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Both conduction and convection"
+    ],
+    "correct_index": 2,
+    "explanation": "The Sun's heat reaches Earth through empty space (vacuum). Since vacuum has no particles, conduction and convection are impossible. Only radiation can travel through vacuum.",
+    "ncert_page": 55,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch04_q10",
+    "chapter_id": "c7s_ch04",
+    "question": "A woollen blanket keeps us warm because:",
+    "options": [
+      "It generates heat",
+      "It is a good conductor",
+      "It traps air, which is a poor conductor",
+      "It absorbs heat from surroundings"
+    ],
+    "correct_index": 2,
+    "explanation": "Wool fibres trap air. Air is a poor conductor of heat. The trapped air prevents body heat from escaping into the colder surroundings, keeping us warm.",
+    "ncert_page": 53,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

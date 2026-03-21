@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8s_ch07_q01",
+    "chapter_id": "c8s_ch07",
+    "question": "Deforestation means:",
+    "options": [
+      "planting more trees",
+      "cutting down forests without replanting",
+      "conserving forests",
+      "the natural death of trees"
+    ],
+    "correct_index": 1,
+    "explanation": "Deforestation refers to the large-scale cutting or clearing of forests without adequate replanting, leading to loss of forest cover and its associated biodiversity.",
+    "ncert_page": 91,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch07_q02",
+    "chapter_id": "c8s_ch07",
+    "question": "A biosphere reserve is an area set up for:",
+    "options": [
+      "industrial development",
+      "conserving biodiversity while allowing sustainable use",
+      "mining natural resources",
+      "military purposes"
+    ],
+    "correct_index": 1,
+    "explanation": "A biosphere reserve is a large protected area established to conserve biodiversity. It allows sustainable use of resources by local communities while protecting core wild areas.",
+    "ncert_page": 95,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch07_q03",
+    "chapter_id": "c8s_ch07",
+    "question": "Endemic species are those that:",
+    "options": [
+      "are found worldwide",
+      "are extinct",
+      "are exclusively found in a particular area",
+      "migrate seasonally"
+    ],
+    "correct_index": 2,
+    "explanation": "Endemic species are plants or animals that are exclusively native to (found only in) a specific geographic area and nowhere else in the world.",
+    "ncert_page": 96,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch07_q04",
+    "chapter_id": "c8s_ch07",
+    "question": "The Red Data Book contains information about:",
+    "options": [
+      "endangered species",
+      "poisonous plants",
+      "forest fire records",
+      "rainfall data"
+    ],
+    "correct_index": 0,
+    "explanation": "The Red Data Book is maintained by the IUCN and contains information about all endangered animals, plants, and other organisms that are at risk of extinction.",
+    "ncert_page": 99,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch07_q05",
+    "chapter_id": "c8s_ch07",
+    "question": "Which of the following is a wildlife sanctuary?",
+    "options": [
+      "Pachmarhi Biosphere Reserve",
+      "Pench National Park",
+      "Bharatpur Bird Sanctuary",
+      "Corbett National Park"
+    ],
+    "correct_index": 2,
+    "explanation": "Bharatpur (Keoladeo Ghana) is a famous bird sanctuary. National parks like Corbett and Pench are different from wildlife sanctuaries, though both protect wildlife.",
+    "ncert_page": 96,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch07_q06",
+    "chapter_id": "c8s_ch07",
+    "question": "Deforestation leads to all of the following EXCEPT:",
+    "options": [
+      "increased rainfall",
+      "soil erosion",
+      "global warming",
+      "loss of biodiversity"
+    ],
+    "correct_index": 0,
+    "explanation": "Deforestation reduces rainfall (trees release water vapour through transpiration). It causes soil erosion, global warming (less CO₂ absorption), and loss of biodiversity.",
+    "ncert_page": 93,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch07_q07",
+    "chapter_id": "c8s_ch07",
+    "question": "The migration of animals refers to:",
+    "options": [
+      "permanent settling in one place",
+      "seasonal movement from one habitat to another",
+      "extinction of a species",
+      "hunting of animals"
+    ],
+    "correct_index": 1,
+    "explanation": "Migration is the seasonal movement of animals from one region to another, usually for breeding or to find food/water. Examples include birds migrating in winter.",
+    "ncert_page": 101,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch07_q08",
+    "chapter_id": "c8s_ch07",
+    "question": "A national park is different from a wildlife sanctuary because in a national park:",
+    "options": [
+      "human activities are completely prohibited",
+      "limited human activities are allowed",
+      "animals can be hunted",
+      "it is privately owned"
+    ],
+    "correct_index": 0,
+    "explanation": "In a national park, no human activity (not even limited grazing or collection of forest produce) is permitted. Wildlife sanctuaries allow some regulated human activities.",
+    "ncert_page": 96,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch07_q09",
+    "chapter_id": "c8s_ch07",
+    "question": "Reforestation means:",
+    "options": [
+      "cutting trees",
+      "replanting trees in deforested areas",
+      "building roads through forests",
+      "creating zoos"
+    ],
+    "correct_index": 1,
+    "explanation": "Reforestation is the process of replanting trees in areas where forests have been cut or destroyed. It helps restore ecological balance and biodiversity.",
+    "ncert_page": 94,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch07_q10",
+    "chapter_id": "c8s_ch07",
+    "question": "Pachmarhi Biosphere Reserve is located in which state of India?",
+    "options": [
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Kerala",
+      "Assam"
+    ],
+    "correct_index": 1,
+    "explanation": "Pachmarhi Biosphere Reserve is located in Madhya Pradesh, India. It includes Bori, Satpura, and Pachmarhi wildlife sanctuaries and is home to diverse flora and fauna.",
+    "ncert_page": 95,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

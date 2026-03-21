@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8s_ch08_q01",
+    "chapter_id": "c8s_ch08",
+    "question": "Who discovered the cell?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Hooke",
+      "Charles Darwin",
+      "Gregor Mendel"
+    ],
+    "correct_index": 1,
+    "explanation": "Robert Hooke discovered the cell in 1665 while examining a thin slice of cork under a microscope. He named the box-like structures 'cells' (from the Latin 'cellula' meaning small room).",
+    "ncert_page": 105,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch08_q02",
+    "chapter_id": "c8s_ch08",
+    "question": "The control centre of the cell is the:",
+    "options": [
+      "Cell membrane",
+      "Cytoplasm",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "correct_index": 2,
+    "explanation": "The nucleus is the control centre of the cell. It contains DNA (genetic information) and controls all cellular activities including growth, metabolism, and reproduction.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch08_q03",
+    "chapter_id": "c8s_ch08",
+    "question": "The cell membrane is:",
+    "options": [
+      "present only in plant cells",
+      "a rigid structure",
+      "a flexible, selectively permeable layer",
+      "found only in animal cells"
+    ],
+    "correct_index": 2,
+    "explanation": "The cell membrane is a flexible, thin, selectively permeable layer present in all cells (both plant and animal). It controls what enters and exits the cell.",
+    "ncert_page": 108,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch08_q04",
+    "chapter_id": "c8s_ch08",
+    "question": "Which of the following is found in plant cells but NOT in animal cells?",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Cell wall and chloroplasts",
+      "Cytoplasm"
+    ],
+    "correct_index": 2,
+    "explanation": "Plant cells have a cell wall (made of cellulose), chloroplasts (for photosynthesis), and a large central vacuole. These are not found in animal cells.",
+    "ncert_page": 111,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch08_q05",
+    "chapter_id": "c8s_ch08",
+    "question": "Unicellular organisms perform all life processes using:",
+    "options": [
+      "specialised organs",
+      "many cells working together",
+      "a single cell",
+      "only the nucleus"
+    ],
+    "correct_index": 2,
+    "explanation": "Unicellular organisms like Amoeba, Paramecium, and bacteria are made of a single cell. That one cell carries out all life processes: nutrition, respiration, reproduction, and excretion.",
+    "ncert_page": 106,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch08_q06",
+    "chapter_id": "c8s_ch08",
+    "question": "The jelly-like substance between the cell membrane and the nucleus is called:",
+    "options": [
+      "Cytoplasm",
+      "Nucleoplasm",
+      "Chlorophyll",
+      "Vacuole"
+    ],
+    "correct_index": 0,
+    "explanation": "Cytoplasm is the jelly-like fluid that fills the cell between the cell membrane and the nucleus. Cell organelles like mitochondria are embedded in it.",
+    "ncert_page": 108,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch08_q07",
+    "chapter_id": "c8s_ch08",
+    "question": "Chromosomes carry:",
+    "options": [
+      "food for the cell",
+      "genetic information (genes)",
+      "oxygen for respiration",
+      "water and minerals"
+    ],
+    "correct_index": 1,
+    "explanation": "Chromosomes are thread-like structures in the nucleus made of DNA. They carry genes — the units of heredity — which determine an organism's characteristics.",
+    "ncert_page": 110,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch08_q08",
+    "chapter_id": "c8s_ch08",
+    "question": "The basic structural and functional unit of life is the:",
+    "options": [
+      "organ",
+      "tissue",
+      "cell",
+      "organism"
+    ],
+    "correct_index": 2,
+    "explanation": "The cell is the basic structural and functional unit of all living organisms. All life processes occur within cells, making them the fundamental building blocks of life.",
+    "ncert_page": 105,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch08_q09",
+    "chapter_id": "c8s_ch08",
+    "question": "In plant cells, photosynthesis takes place in:",
+    "options": [
+      "mitochondria",
+      "nucleus",
+      "chloroplasts",
+      "vacuole"
+    ],
+    "correct_index": 2,
+    "explanation": "Chloroplasts are the organelles in plant cells where photosynthesis occurs. They contain the green pigment chlorophyll that captures light energy to make food.",
+    "ncert_page": 112,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c8s_ch08_q10",
+    "chapter_id": "c8s_ch08",
+    "question": "A human body cell has 46 chromosomes. How many chromosomes would be in a sperm cell?",
+    "options": [
+      "46",
+      "92",
+      "23",
+      "12"
+    ],
+    "correct_index": 2,
+    "explanation": "Sperm and egg cells (gametes) are formed by meiosis and contain half the chromosome number — 23 chromosomes. When sperm and egg combine, the fertilised cell has 46 chromosomes.",
+    "ncert_page": 111,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7s_ch09_q01",
+    "chapter_id": "c7s_ch09",
+    "question": "The topmost layer of soil is called:",
+    "options": [
+      "Bedrock",
+      "Subsoil",
+      "Topsoil",
+      "Parent rock layer"
+    ],
+    "correct_index": 2,
+    "explanation": "Soil has distinct layers called horizons. The topmost layer is topsoil (A horizon), which is dark, fertile, rich in humus and minerals, and supports plant growth.",
+    "ncert_page": 126,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch09_q02",
+    "chapter_id": "c7s_ch09",
+    "question": "Humus is formed by:",
+    "options": [
+      "Weathering of rocks",
+      "Decomposition of dead plants and animals",
+      "Crystallisation of minerals",
+      "Evaporation of water"
+    ],
+    "correct_index": 1,
+    "explanation": "Humus is the dark, organic component of soil formed by the decomposition of dead plants, animals, and their waste by microorganisms. It improves soil fertility and water-holding capacity.",
+    "ncert_page": 127,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch09_q03",
+    "chapter_id": "c7s_ch09",
+    "question": "The process of breaking down of rocks by wind, water, and temperature changes is called:",
+    "options": [
+      "Erosion",
+      "Weathering",
+      "Sedimentation",
+      "Leaching"
+    ],
+    "correct_index": 1,
+    "explanation": "Weathering is the breakdown of rocks into smaller particles by physical (wind, water, temperature changes), chemical, and biological agents. The resulting particles eventually become soil.",
+    "ncert_page": 126,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch09_q04",
+    "chapter_id": "c7s_ch09",
+    "question": "Which type of soil has the best water retention capacity?",
+    "options": [
+      "Sandy soil",
+      "Loamy soil",
+      "Clayey soil",
+      "Rocky soil"
+    ],
+    "correct_index": 2,
+    "explanation": "Clayey soil has the highest water retention because clay particles are very fine and pack tightly, leaving little space for water to drain. Sandy soil drains quickly; loamy is intermediate.",
+    "ncert_page": 131,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch09_q05",
+    "chapter_id": "c7s_ch09",
+    "question": "Soil erosion can be prevented by:",
+    "options": [
+      "Removing all vegetation",
+      "Ploughing along slopes",
+      "Planting trees and vegetation",
+      "Overgrazing by animals"
+    ],
+    "correct_index": 2,
+    "explanation": "Plant roots bind soil particles together and prevent them from being washed or blown away. Afforestation (planting trees) is one of the best methods of preventing soil erosion.",
+    "ncert_page": 135,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch09_q06",
+    "chapter_id": "c7s_ch09",
+    "question": "Loamy soil is considered best for plant growth because:",
+    "options": [
+      "It is entirely sand",
+      "It has only clay",
+      "It is a mixture of sand, silt, and clay with humus",
+      "It retains the most water"
+    ],
+    "correct_index": 2,
+    "explanation": "Loamy soil is ideal for agriculture because it is a balanced mixture of sand (drainage), silt, and clay (nutrients and water retention), plus humus for fertility.",
+    "ncert_page": 131,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch09_q07",
+    "chapter_id": "c7s_ch09",
+    "question": "The vertical section showing different layers of soil is called:",
+    "options": [
+      "Soil map",
+      "Soil profile",
+      "Soil horizon",
+      "Soil percolation"
+    ],
+    "correct_index": 1,
+    "explanation": "A soil profile is a vertical cross-section of soil from the surface down to bedrock, showing different layers (horizons): topsoil, subsoil, weathered rock, and parent rock.",
+    "ncert_page": 126,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch09_q08",
+    "chapter_id": "c7s_ch09",
+    "question": "The rate at which water seeps through soil is called:",
+    "options": [
+      "Absorption",
+      "Percolation",
+      "Evaporation",
+      "Transpiration"
+    ],
+    "correct_index": 1,
+    "explanation": "Percolation is the rate at which water seeps (passes downward) through soil. Sandy soil has high percolation rate; clayey soil has low percolation rate.",
+    "ncert_page": 129,
+    "difficulty": "medium",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch09_q09",
+    "chapter_id": "c7s_ch09",
+    "question": "Which organisms improve soil fertility by burrowing and mixing it?",
+    "options": [
+      "Mosquitoes",
+      "Earthworms",
+      "Butterflies",
+      "Ants only"
+    ],
+    "correct_index": 1,
+    "explanation": "Earthworms are called 'farmers' friends' because they burrow through soil (improving aeration and drainage), mix organic matter, and their castings enrich soil fertility.",
+    "ncert_page": 133,
+    "difficulty": "easy",
+    "subject": "Science"
+  },
+  {
+    "mcq_id": "c7s_ch09_q10",
+    "chapter_id": "c7s_ch09",
+    "question": "It takes about 1000 years to form 1 cm of topsoil. Why does soil erosion by wind and water pose such a serious threat?",
+    "options": [
+      "Soil can be recreated in laboratories quickly",
+      "Eroded soil cannot be replaced in human lifetimes — it takes millennia to form",
+      "Only the minerals are lost, not the organic matter",
+      "Erosion only affects the subsoil layer"
+    ],
+    "correct_index": 1,
+    "explanation": "Soil formation is extremely slow — 1 cm takes 1000 years. Once topsoil (the fertile layer with humus) is eroded, it cannot be replaced within human lifetimes, leading to permanent loss of agricultural land.",
+    "ncert_page": 135,
+    "difficulty": "hard",
+    "subject": "Science"
+  }
+]

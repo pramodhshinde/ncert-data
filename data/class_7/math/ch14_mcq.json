@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch14_q01",
+    "chapter_id": "c7m_ch14",
+    "question": "A figure has line symmetry if:",
+    "options": [
+      "It can be rotated to look the same",
+      "One half is a mirror image of the other half",
+      "It has more than 4 sides",
+      "It is a regular polygon"
+    ],
+    "correct_index": 1,
+    "explanation": "A figure has line symmetry if a line (axis of symmetry) divides it into two halves such that one half is the mirror image of the other.",
+    "ncert_page": 292,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch14_q02",
+    "chapter_id": "c7m_ch14",
+    "question": "How many lines of symmetry does an equilateral triangle have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": "An equilateral triangle has 3 lines of symmetry — one from each vertex to the midpoint of the opposite side. Each line of symmetry is also an axis of symmetry.",
+    "ncert_page": 294,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch14_q03",
+    "chapter_id": "c7m_ch14",
+    "question": "How many lines of symmetry does a circle have?",
+    "options": [
+      "1",
+      "4",
+      "Infinitely many",
+      "None"
+    ],
+    "correct_index": 2,
+    "explanation": "A circle has infinitely many lines of symmetry because any diameter of the circle divides it into two identical halves, and there are infinitely many diameters.",
+    "ncert_page": 295,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch14_q04",
+    "chapter_id": "c7m_ch14",
+    "question": "A figure has rotational symmetry if it looks the same after rotation by an angle less than:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correct_index": 3,
+    "explanation": "A figure has rotational symmetry if it looks identical after rotating by an angle of less than 360° (a full turn). The centre of rotation is called the centre of symmetry.",
+    "ncert_page": 298,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch14_q05",
+    "chapter_id": "c7m_ch14",
+    "question": "The order of rotational symmetry of a square is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "A square looks identical at rotations of 90°, 180°, 270°, and 360°. So it has rotational symmetry of order 4 (fits onto itself 4 times in one full rotation).",
+    "ncert_page": 299,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch14_q06",
+    "chapter_id": "c7m_ch14",
+    "question": "Which letter of the English alphabet has both horizontal and vertical lines of symmetry?",
+    "options": [
+      "A",
+      "B",
+      "H",
+      "C"
+    ],
+    "correct_index": 2,
+    "explanation": "H has a vertical line of symmetry (left-right mirror) and a horizontal line of symmetry (top-bottom mirror). Most letters have only one or no lines of symmetry.",
+    "ncert_page": 293,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch14_q07",
+    "chapter_id": "c7m_ch14",
+    "question": "How many lines of symmetry does a regular hexagon have?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "12"
+    ],
+    "correct_index": 2,
+    "explanation": "A regular hexagon has 6 lines of symmetry — 3 joining opposite vertices and 3 joining midpoints of opposite sides.",
+    "ncert_page": 295,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch14_q08",
+    "chapter_id": "c7m_ch14",
+    "question": "The angle of rotation for a figure with rotational symmetry of order 6 is:",
+    "options": [
+      "30°",
+      "60°",
+      "45°",
+      "90°"
+    ],
+    "correct_index": 1,
+    "explanation": "Angle of rotation = 360° ÷ order of symmetry = 360° ÷ 6 = 60°. A regular hexagon, for example, has order 6 rotational symmetry.",
+    "ncert_page": 300,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch14_q09",
+    "chapter_id": "c7m_ch14",
+    "question": "Which of the following shapes has rotational symmetry but no line symmetry?",
+    "options": [
+      "Square",
+      "Equilateral triangle",
+      "Parallelogram (non-rectangular)",
+      "Circle"
+    ],
+    "correct_index": 2,
+    "explanation": "A parallelogram (that is not a rectangle) has order-2 rotational symmetry (180° rotation maps it to itself) but has NO lines of symmetry.",
+    "ncert_page": 299,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch14_q10",
+    "chapter_id": "c7m_ch14",
+    "question": "A regular polygon with n sides has how many lines of symmetry?",
+    "options": [
+      "n/2",
+      "2n",
+      "n",
+      "n-1"
+    ],
+    "correct_index": 2,
+    "explanation": "A regular polygon with n sides has exactly n lines of symmetry — each line passes through a vertex and the midpoint of the opposite side (or through midpoints of opposite sides for even n).",
+    "ncert_page": 295,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

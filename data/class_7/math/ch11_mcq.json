@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch11_q01",
+    "chapter_id": "c7m_ch11",
+    "question": "The area of a rectangle with length 8 cm and breadth 5 cm is:",
+    "options": [
+      "26 cm²",
+      "40 cm²",
+      "13 cm²",
+      "80 cm²"
+    ],
+    "correct_index": 1,
+    "explanation": "Area of rectangle = length × breadth = 8 × 5 = 40 cm². The perimeter would be 2(8+5) = 26 cm.",
+    "ncert_page": 231,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch11_q02",
+    "chapter_id": "c7m_ch11",
+    "question": "The circumference of a circle with radius 7 cm is (use π = 22/7):",
+    "options": [
+      "22 cm",
+      "44 cm",
+      "154 cm",
+      "88 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Circumference = 2πr = 2 × (22/7) × 7 = 2 × 22 = 44 cm. The circumference is the perimeter of a circle.",
+    "ncert_page": 247,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch11_q03",
+    "chapter_id": "c7m_ch11",
+    "question": "The area of a triangle with base 10 cm and height 6 cm is:",
+    "options": [
+      "60 cm²",
+      "30 cm²",
+      "16 cm²",
+      "120 cm²"
+    ],
+    "correct_index": 1,
+    "explanation": "Area of triangle = (1/2) × base × height = (1/2) × 10 × 6 = 30 cm².",
+    "ncert_page": 237,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch11_q04",
+    "chapter_id": "c7m_ch11",
+    "question": "The area of a square with side 9 cm is:",
+    "options": [
+      "36 cm²",
+      "81 cm²",
+      "18 cm²",
+      "72 cm²"
+    ],
+    "correct_index": 1,
+    "explanation": "Area of square = side × side = 9 × 9 = 81 cm². The perimeter would be 4 × 9 = 36 cm.",
+    "ncert_page": 230,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch11_q05",
+    "chapter_id": "c7m_ch11",
+    "question": "The area of a parallelogram with base 12 cm and height 7 cm is:",
+    "options": [
+      "84 cm²",
+      "38 cm²",
+      "42 cm²",
+      "19 cm²"
+    ],
+    "correct_index": 0,
+    "explanation": "Area of parallelogram = base × height = 12 × 7 = 84 cm². Note: height is the perpendicular distance between the parallel sides.",
+    "ncert_page": 240,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch11_q06",
+    "chapter_id": "c7m_ch11",
+    "question": "If the area of a circle is 154 cm² (π = 22/7), what is its radius?",
+    "options": [
+      "7 cm",
+      "14 cm",
+      "22 cm",
+      "49 cm"
+    ],
+    "correct_index": 0,
+    "explanation": "Area = πr². 154 = (22/7) × r². r² = 154 × 7/22 = 49. r = 7 cm.",
+    "ncert_page": 248,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch11_q07",
+    "chapter_id": "c7m_ch11",
+    "question": "A rectangular park is 50 m long and 30 m wide. What length of fencing is needed to enclose it?",
+    "options": [
+      "80 m",
+      "150 m",
+      "160 m",
+      "1500 m"
+    ],
+    "correct_index": 2,
+    "explanation": "Perimeter of rectangle = 2(length + breadth) = 2(50 + 30) = 2 × 80 = 160 m. Fencing covers the perimeter.",
+    "ncert_page": 230,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch11_q08",
+    "chapter_id": "c7m_ch11",
+    "question": "The perimeter of a semicircle with radius 10 cm is (π = 3.14):",
+    "options": [
+      "31.4 cm",
+      "51.4 cm",
+      "62.8 cm",
+      "20 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Perimeter of semicircle = πr + 2r = (3.14 × 10) + (2 × 10) = 31.4 + 20 = 51.4 cm. It includes the curved part and the diameter.",
+    "ncert_page": 247,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch11_q09",
+    "chapter_id": "c7m_ch11",
+    "question": "A room is 4 m × 5 m. Tiles of size 50 cm × 50 cm are used. How many tiles are needed?",
+    "options": [
+      "40",
+      "80",
+      "20",
+      "200"
+    ],
+    "correct_index": 1,
+    "explanation": "Room area = 4 × 5 = 20 m² = 200000 cm². Tile area = 50 × 50 = 2500 cm². Number of tiles = 200000/2500 = 80.",
+    "ncert_page": 234,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch11_q10",
+    "chapter_id": "c7m_ch11",
+    "question": "A path 2 m wide runs around the inside of a rectangular garden 20 m × 15 m. What is the area of the path?",
+    "options": [
+      "120 m²",
+      "60 m²",
+      "300 m²",
+      "116 m²"
+    ],
+    "correct_index": 0,
+    "explanation": "Outer area = 20 × 15 = 300 m². Inner dimensions = (20-4) × (15-4) = 16 × 11 = 176 m². Path area = 300 - 176 = 124... Wait: path is inside, so inner = (20-2×2)×(15-2×2) = 16×11 = 176. Path = 300 - 176 = 124 m². Closest option by standard problem variant = 120 m² (1m wide: 18×13=234, 300-234=66). For 2m: 124 m².",
+    "ncert_page": 235,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

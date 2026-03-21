@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c7m_ch15_q01",
+    "chapter_id": "c7m_ch15",
+    "question": "A cube has how many faces?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct_index": 1,
+    "explanation": "A cube has 6 faces, all of which are squares of the same size. It also has 8 vertices and 12 edges.",
+    "ncert_page": 306,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch15_q02",
+    "chapter_id": "c7m_ch15",
+    "question": "A flat pattern that can be folded to form a 3D shape is called:",
+    "options": [
+      "A net",
+      "A map",
+      "A blueprint",
+      "A cross-section"
+    ],
+    "correct_index": 0,
+    "explanation": "A net is a 2D flat pattern that can be cut and folded to form a 3D solid shape. Different nets can form the same solid.",
+    "ncert_page": 308,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch15_q03",
+    "chapter_id": "c7m_ch15",
+    "question": "Euler's formula for polyhedra is:",
+    "options": [
+      "F + V = E + 2",
+      "F + E = V + 2",
+      "F - E + V = 2",
+      "V + E = F + 2"
+    ],
+    "correct_index": 2,
+    "explanation": "Euler's formula: Faces + Vertices - Edges = 2, or F - E + V = 2. For a cube: 6 - 12 + 8 = 2. ✓ This holds for all convex polyhedra.",
+    "ncert_page": 320,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch15_q04",
+    "chapter_id": "c7m_ch15",
+    "question": "A triangular prism has how many vertices?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "A triangular prism has 2 triangular faces and 3 rectangular faces. It has 6 vertices (3 on each triangular end), 9 edges, and 5 faces.",
+    "ncert_page": 307,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch15_q05",
+    "chapter_id": "c7m_ch15",
+    "question": "Which of the following is a polyhedron?",
+    "options": [
+      "Sphere",
+      "Cylinder",
+      "Cone",
+      "Cube"
+    ],
+    "correct_index": 3,
+    "explanation": "A polyhedron is a 3D shape with flat polygon faces. A cube has all flat faces. Spheres, cylinders, and cones have curved surfaces, so they are NOT polyhedra.",
+    "ncert_page": 306,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch15_q06",
+    "chapter_id": "c7m_ch15",
+    "question": "A square pyramid has:",
+    "options": [
+      "4 faces",
+      "5 faces",
+      "6 faces",
+      "8 faces"
+    ],
+    "correct_index": 1,
+    "explanation": "A square pyramid has 1 square base and 4 triangular faces = 5 faces total. It has 5 vertices and 8 edges.",
+    "ncert_page": 307,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch15_q07",
+    "chapter_id": "c7m_ch15",
+    "question": "When we look at a 3D object from the top, the view is called:",
+    "options": [
+      "Front view",
+      "Side view",
+      "Top view",
+      "Perspective view"
+    ],
+    "correct_index": 2,
+    "explanation": "Different views of a 3D object: top view (from above), front view (from front), and side view (from the side). These 2D views help describe 3D shapes.",
+    "ncert_page": 315,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch15_q08",
+    "chapter_id": "c7m_ch15",
+    "question": "A cuboid has length 5, breadth 3, and height 4. How many edges does it have?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "correct_index": 2,
+    "explanation": "All cuboids (rectangular boxes) have 12 edges: 4 edges of each of the three different lengths. Verify with Euler's formula: F(6) - E(12) + V(8) = 2. ✓",
+    "ncert_page": 306,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch15_q09",
+    "chapter_id": "c7m_ch15",
+    "question": "How many squares are needed to form the net of a cube?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "A cube has 6 faces, all squares. So the net of a cube consists of 6 squares arranged in a cross or other valid configurations that can fold into a cube.",
+    "ncert_page": 308,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c7m_ch15_q10",
+    "chapter_id": "c7m_ch15",
+    "question": "A polyhedron has 12 faces and 20 vertices. How many edges does it have using Euler's formula?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "32"
+    ],
+    "correct_index": 2,
+    "explanation": "Euler's formula: F - E + V = 2. 12 - E + 20 = 2. 32 - E = 2. E = 30. This polyhedron is a regular icosahedron or similar solid.",
+    "ncert_page": 320,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

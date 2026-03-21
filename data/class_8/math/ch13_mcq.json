@@ -1,0 +1,162 @@
+[
+  {
+    "mcq_id": "c8m_ch13_q01",
+    "chapter_id": "c8m_ch13",
+    "question": "If 5 pens cost ₹75, then 8 pens cost:",
+    "options": [
+      "₹100",
+      "₹110",
+      "₹120",
+      "₹130"
+    ],
+    "correct_index": 2,
+    "explanation": "Cost per pen = ₹75 ÷ 5 = ₹15. Cost of 8 pens = 8 × ₹15 = ₹120. This is a direct proportion.",
+    "ncert_page": 279,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch13_q02",
+    "chapter_id": "c8m_ch13",
+    "question": "In direct proportion, if x increases then y:",
+    "options": [
+      "decreases",
+      "increases",
+      "remains same",
+      "becomes zero"
+    ],
+    "correct_index": 1,
+    "explanation": "In direct proportion, both quantities change in the same direction. If x increases, y also increases proportionally (x/y = constant).",
+    "ncert_page": 280,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch13_q03",
+    "chapter_id": "c8m_ch13",
+    "question": "In inverse proportion, if x doubles then y:",
+    "options": [
+      "doubles",
+      "triples",
+      "becomes half",
+      "becomes zero"
+    ],
+    "correct_index": 2,
+    "explanation": "In inverse proportion, xy = constant. If x doubles (×2), then y must be halved (÷2) to keep the product constant.",
+    "ncert_page": 285,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch13_q04",
+    "chapter_id": "c8m_ch13",
+    "question": "If 12 workers can build a wall in 9 days, how many days will 6 workers take to build the same wall?",
+    "options": [
+      "4",
+      "9",
+      "18",
+      "27"
+    ],
+    "correct_index": 2,
+    "explanation": "Workers and days are inversely proportional. 12 × 9 = 6 × d. d = 108/6 = 18 days.",
+    "ncert_page": 286,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch13_q05",
+    "chapter_id": "c8m_ch13",
+    "question": "Which of the following is an example of direct proportion?",
+    "options": [
+      "Speed and time for a fixed distance",
+      "Workers and time to complete a job",
+      "Sides of a square and its perimeter",
+      "Water in a tank and time to empty it"
+    ],
+    "correct_index": 2,
+    "explanation": "The perimeter of a square = 4 × side. If the side increases, the perimeter increases proportionally — this is direct proportion.",
+    "ncert_page": 281,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch13_q06",
+    "chapter_id": "c8m_ch13",
+    "question": "A car travels 150 km in 3 hours. How far will it travel in 5 hours at the same speed?",
+    "options": [
+      "200 km",
+      "225 km",
+      "250 km",
+      "300 km"
+    ],
+    "correct_index": 2,
+    "explanation": "Distance ∝ time (direct proportion). 150/3 = d/5. d = 150 × 5/3 = 250 km.",
+    "ncert_page": 282,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch13_q07",
+    "chapter_id": "c8m_ch13",
+    "question": "In a recipe, 4 cups of flour make 24 cookies. How many cups are needed for 36 cookies?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_index": 1,
+    "explanation": "Flour ∝ cookies (direct proportion). 4/24 = x/36. x = 4 × 36/24 = 6 cups.",
+    "ncert_page": 283,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch13_q08",
+    "chapter_id": "c8m_ch13",
+    "question": "A pump fills a tank in 4 hours. If two identical pumps work together, how long will they take?",
+    "options": [
+      "2 hours",
+      "4 hours",
+      "6 hours",
+      "8 hours"
+    ],
+    "correct_index": 0,
+    "explanation": "More pumps, less time — inverse proportion. 1 pump × 4 hours = 2 pumps × t. t = 4/2 = 2 hours.",
+    "ncert_page": 287,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch13_q09",
+    "chapter_id": "c8m_ch13",
+    "question": "If x and y are in inverse proportion and x = 5 when y = 12, find y when x = 4:",
+    "options": [
+      "12",
+      "15",
+      "16",
+      "20"
+    ],
+    "correct_index": 1,
+    "explanation": "xy = constant = 5 × 12 = 60. When x = 4: y = 60/4 = 15.",
+    "ncert_page": 286,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "c8m_ch13_q10",
+    "chapter_id": "c8m_ch13",
+    "question": "A garrison of 500 men has food for 30 days. If 125 more men join, for how many days will the food last?",
+    "options": [
+      "20 days",
+      "22 days",
+      "24 days",
+      "26 days"
+    ],
+    "correct_index": 2,
+    "explanation": "Men × days = constant (inverse proportion). 500 × 30 = 625 × d. d = 15000/625 = 24 days.",
+    "ncert_page": 289,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]
