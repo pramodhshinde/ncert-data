@@ -1,11 +1,11 @@
 [
   {
     "class_id": 1,
-    "label": "Class 1",
-    "tag": "Class I",
     "color_hex": "#EF4444",
-    "subject_count": 3,
-    "is_board": false
+    "is_board": false,
+    "label": "Class 1",
+    "subject_count": 4,
+    "tag": "Class I"
   },
   {
     "class_id": 2,
