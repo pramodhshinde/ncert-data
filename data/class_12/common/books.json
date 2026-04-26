@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": 140,
+      "title": "English Yuvakbharati",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/common/english.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "English",
+      "chapterCount": 16
+    },
+    {
+      "id": 141,
+      "title": "Environmental Education",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/common/evs.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "Environmental Education",
+      "chapterCount": 5
+    },
+    {
+      "id": 142,
+      "title": "Information Technology",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/common/it.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "Information Technology",
+      "chapterCount": 6
+    }
+  ]
+}

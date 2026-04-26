@@ -1,0 +1,164 @@
+{
+  "mcqs": [
+    {
+      "mcqId": "ch1015_q1",
+      "chapterId": "1015",
+      "question": "Which of the following is a mixture?",
+      "options": [
+        "Distilled water",
+        "Sugar",
+        "Air",
+        "Iron"
+      ],
+      "correctIndex": 2,
+      "explanation": "Air is a homogeneous mixture of various gases like Nitrogen, Oxygen, etc.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "ch1015_q2",
+      "chapterId": "1015",
+      "question": "The SI unit of amount of substance is:",
+      "options": [
+        "Gram",
+        "Kilogram",
+        "Mole",
+        "Number"
+      ],
+      "correctIndex": 2,
+      "explanation": "The mole is the SI base unit for the amount of substance.",
+      "ncertPage": 4,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "ch1015_q3",
+      "chapterId": "1015",
+      "question": "The sum of the atomic masses of the elements in a molecule is called:",
+      "options": [
+        "Formula mass",
+        "Molecular mass",
+        "Molar mass",
+        "Equivalent mass"
+      ],
+      "correctIndex": 1,
+      "explanation": "Molecular mass is the sum of atomic masses of all elements in a molecule.",
+      "ncertPage": 8,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "ch1015_q4",
+      "chapterId": "1015",
+      "question": "The number of molecules in 18g of water is:",
+      "options": [
+        "6.022 x 10^23",
+        "3.011 x 10^23",
+        "1.204 x 10^24",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Molar mass of H2O is 18g/mol. 18g is 1 mole, which contains Avogadro's number of molecules.",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "ch1015_q5",
+      "chapterId": "1015",
+      "question": "According to the Law of Definite Proportions, a given compound always contains exactly the same proportion of elements by:",
+      "options": [
+        "Volume",
+        "Weight",
+        "Number of atoms",
+        "Molarity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Joseph Proust stated that a compound always contains elements in a fixed ratio by mass/weight.",
+      "ncertPage": 6,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "ch1015_q6",
+      "chapterId": "1015",
+      "question": "The mass of one atom of Carbon-12 is exactly:",
+      "options": [
+        "12 g",
+        "12 amu",
+        "1.66 x 10^-24 g",
+        "6.022 x 10^23 g"
+      ],
+      "correctIndex": 1,
+      "explanation": "By definition, one atom of C-12 has a mass of exactly 12 atomic mass units (amu).",
+      "ncertPage": 8,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "ch1015_q7",
+      "chapterId": "1015",
+      "question": "What is the molar volume of an ideal gas at STP?",
+      "options": [
+        "22.4 L",
+        "11.2 L",
+        "44.8 L",
+        "1 L"
+      ],
+      "correctIndex": 0,
+      "explanation": "At standard temperature and pressure, one mole of any ideal gas occupies 22.4 Liters.",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "ch1015_q8",
+      "chapterId": "1015",
+      "question": "The empirical formula of Benzene (C6H6) is:",
+      "options": [
+        "CH",
+        "C2H2",
+        "C3H3",
+        "C6H6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Empirical formula is the simplest whole-number ratio of atoms. For C6H6, the ratio is 1:1, so CH.",
+      "ncertPage": 11,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "ch1015_q9",
+      "chapterId": "1015",
+      "question": "Which of the following has the maximum number of atoms?",
+      "options": [
+        "1g of Au",
+        "1g of Na",
+        "1g of Li",
+        "1g of Cl2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Number of atoms = (Mass / Molar mass) * Na. Lithium (Li) has the smallest molar mass (7) among the options, so 1g contains the most moles and thus most atoms.",
+      "ncertPage": 10,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "ch1015_q10",
+      "chapterId": "1015",
+      "question": "A solution is prepared by adding 2g of a substance A to 18g of water. The mass percent of the solute is:",
+      "options": [
+        "2%",
+        "10%",
+        "11.1%",
+        "20%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mass percent = (Mass of solute / Total mass of solution) * 100 = (2 / (2+18)) * 100 = (2/20) * 100 = 10%.",
+      "ncertPage": 13,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    }
+  ]
+}

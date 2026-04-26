@@ -1,0 +1,164 @@
+{
+  "mcqs": [
+    {
+      "mcqId": "ch2001_q1",
+      "chapterId": "2001",
+      "question": "The moment of inertia of a thin uniform rod of mass M and length L about an axis passing through its center and perpendicular to its length is:",
+      "options": [
+        "ML^2 / 12",
+        "ML^2 / 3",
+        "ML^2 / 2",
+        "ML^2 / 6"
+      ],
+      "correctIndex": 0,
+      "explanation": "For a rod, I = ML^2 / 12 about the center and ML^2 / 3 about one end.",
+      "ncertPage": 12,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2001_q2",
+      "chapterId": "2001",
+      "question": "Angular momentum is given by the product of:",
+      "options": [
+        "Mass and velocity",
+        "Moment of inertia and angular velocity",
+        "Force and distance",
+        "Torque and time"
+      ],
+      "correctIndex": 1,
+      "explanation": "L = Iω, analogous to linear momentum p = mv.",
+      "ncertPage": 15,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2001_q3",
+      "chapterId": "2001",
+      "question": "A particle of mass m moves in a circle of radius r with uniform angular velocity ω. The centripetal force on the particle is:",
+      "options": [
+        "m r ω",
+        "m r ω^2",
+        "m r^2 ω",
+        "m v ω"
+      ],
+      "correctIndex": 1,
+      "explanation": "Centripetal force Fc = m v^2 / r = m (rω)^2 / r = mrω^2.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2001_q4",
+      "chapterId": "2001",
+      "question": "The angle of banking for a road of radius r is given by tan θ =:",
+      "options": [
+        "rg / v^2",
+        "v^2 / rg",
+        "v / rg",
+        "v^2 g / r"
+      ],
+      "correctIndex": 1,
+      "explanation": "Banking angle θ satisfies tan θ = v^2 / rg to prevent skidding without relying on friction.",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2001_q5",
+      "chapterId": "2001",
+      "question": "Radius of gyration K is related to moment of inertia I and mass M as:",
+      "options": [
+        "I = MK",
+        "I = MK^2",
+        "K = I/M",
+        "K = √(M/I)"
+      ],
+      "correctIndex": 1,
+      "explanation": "I = MK^2, where K is the radius of gyration.",
+      "ncertPage": 11,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2001_q6",
+      "chapterId": "2001",
+      "question": "Torque is the rotational analogue of:",
+      "options": [
+        "Mass",
+        "Force",
+        "Work",
+        "Power"
+      ],
+      "correctIndex": 1,
+      "explanation": "Torque (τ) causes angular acceleration, just as force (F) causes linear acceleration.",
+      "ncertPage": 14,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2001_q7",
+      "chapterId": "2001",
+      "question": "The SI unit of moment of inertia is:",
+      "options": [
+        "kg m",
+        "kg m^2",
+        "kg/m^2",
+        "N m"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since I = Σ mr^2, the unit is (mass * distance squared) = kg m^2.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2001_q8",
+      "chapterId": "2001",
+      "question": "Which of the following remains constant for a planet revolving around the sun in an elliptical orbit?",
+      "options": [
+        "Linear velocity",
+        "Angular velocity",
+        "Angular momentum",
+        "Kinetic energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "According to Kepler's second law, the areal velocity is constant, which implies conservation of angular momentum due to central force.",
+      "ncertPage": 18,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2001_q9",
+      "chapterId": "2001",
+      "question": "Rolling motion is a combination of:",
+      "options": [
+        "Translational and oscillatory motion",
+        "Rotational and translational motion",
+        "Rotational and oscillatory motion",
+        "Circular and linear motion"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rolling object (like a wheel) rotates about its axis while also translating across a surface.",
+      "ncertPage": 20,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2001_q10",
+      "chapterId": "2001",
+      "question": "The Theorem of Parallel Axes states that Io =:",
+      "options": [
+        "Ic + Mh",
+        "Ic + Mh^2",
+        "Ic - Mh^2",
+        "Ic + M^2 h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Io = Ic + Mh^2, where Ic is MOI about the center of mass and h is the distance between parallel axes.",
+      "ncertPage": 13,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    }
+  ]
+}

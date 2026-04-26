@@ -1,0 +1,164 @@
+{
+  "mcqs": [
+    {
+      "mcqId": "ch1001_q1",
+      "chapterId": "1001",
+      "question": "Which of the following is the SI unit of luminous intensity?",
+      "options": [
+        "Mole",
+        "Kelvin",
+        "Candela",
+        "Ampere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Candela (cd) is the base SI unit for measuring luminous intensity.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch1001_q2",
+      "chapterId": "1001",
+      "question": "The dimensions of surface tension are:",
+      "options": [
+        "[L1 T-2]",
+        "[M1 L0 T-2]",
+        "[M1 L1 T-2]",
+        "[M1 L-1 T-1]"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surface tension is Force per unit length. [M1 L1 T-2] / [L1] = [M1 L0 T-2].",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch1001_q3",
+      "chapterId": "1001",
+      "question": "A physical quantity is measured and its value is found to be nu where n is the numerical value and u is the unit. Then:",
+      "options": [
+        "n ∝ u",
+        "n ∝ u^2",
+        "n ∝ 1/u",
+        "n ∝ √u"
+      ],
+      "correctIndex": 2,
+      "explanation": "The numerical value of a physical quantity is inversely proportional to the size of the unit chosen.",
+      "ncertPage": 2,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch1001_q4",
+      "chapterId": "1001",
+      "question": "Which of the following is NOT a fundamental physical quantity?",
+      "options": [
+        "Mass",
+        "Length",
+        "Time",
+        "Velocity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Velocity is a derived quantity, obtained from length and time.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch1001_q5",
+      "chapterId": "1001",
+      "question": "Light year is a unit of:",
+      "options": [
+        "Time",
+        "Distance",
+        "Luminous intensity",
+        "Speed of light"
+      ],
+      "correctIndex": 1,
+      "explanation": "A light year is the distance traveled by light in one year in vacuum.",
+      "ncertPage": 5,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch1001_q6",
+      "chapterId": "1001",
+      "question": "The number of significant figures in 0.007 is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Leading zeros are not significant. Only the digit 7 is significant.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch1001_q7",
+      "chapterId": "1001",
+      "question": "Parallactic second (parsec) is equal to how many light years?",
+      "options": [
+        "3.26 ly",
+        "9.46 ly",
+        "1.49 ly",
+        "1.00 ly"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 parsec is approximately equal to 3.26 light years.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch1001_q8",
+      "chapterId": "1001",
+      "question": "Which error is associated with the resolution of the measuring instrument?",
+      "options": [
+        "Random error",
+        "Systematic error",
+        "Least count error",
+        "Gross error"
+      ],
+      "correctIndex": 2,
+      "explanation": "The smallest value that can be measured by an instrument is its least count, and the error associated with it is the least count error.",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch1001_q9",
+      "chapterId": "1001",
+      "question": "The dimensional formula for Plank's constant is same as that of:",
+      "options": [
+        "Linear momentum",
+        "Angular momentum",
+        "Force",
+        "Energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Both Plank's constant (h) and angular momentum (L) have dimensions [M1 L2 T-1].",
+      "ncertPage": 15,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch1001_q10",
+      "chapterId": "1001",
+      "question": "If the error in measurement of radius of a sphere is 2%, the error in measurement of its volume will be:",
+      "options": [
+        "2%",
+        "4%",
+        "6%",
+        "8%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Volume V = (4/3)πr^3. Percentage error in V = 3 * (Percentage error in r) = 3 * 2% = 6%.",
+      "ncertPage": 14,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    }
+  ]
+}

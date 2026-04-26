@@ -1,0 +1,164 @@
+{
+  "mcqs": [
+    {
+      "mcqId": "ch1400_q1",
+      "chapterId": "1400",
+      "question": "The Harappan civilization is also known as:",
+      "options": [
+        "Vedic civilization",
+        "Indus Valley civilization",
+        "Mesopotamian civilization",
+        "Egyptian civilization"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Harappan civilization flourished in the Indus Valley and is widely known as the Indus Valley Civilization.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "History"
+    },
+    {
+      "mcqId": "ch1400_q2",
+      "chapterId": "1400",
+      "question": "Which of the following was a major port city of the Harappan civilization?",
+      "options": [
+        "Mohenjo-daro",
+        "Lothal",
+        "Kalibangan",
+        "Banawali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lothal, located in present-day Gujarat, was a vital port city with a massive dockyard.",
+      "ncertPage": 5,
+      "difficulty": "EASY",
+      "subject": "History"
+    },
+    {
+      "mcqId": "ch1400_q3",
+      "chapterId": "1400",
+      "question": "The main occupation of the people of the Harappan civilization was:",
+      "options": [
+        "Hunting",
+        "Agriculture",
+        "Fishing",
+        "Mining"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agriculture was the backbone of the Harappan economy, supplemented by trade and crafts.",
+      "ncertPage": 4,
+      "difficulty": "EASY",
+      "subject": "History"
+    },
+    {
+      "mcqId": "ch1400_q4",
+      "chapterId": "1400",
+      "question": "The 'Great Bath' was discovered at which Harappan site?",
+      "options": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Ropar",
+        "Surkotada"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Great Bath, a large rectangular tank, was a prominent structure found at Mohenjo-daro.",
+      "ncertPage": 3,
+      "difficulty": "MEDIUM",
+      "subject": "History"
+    },
+    {
+      "mcqId": "ch1400_q5",
+      "chapterId": "1400",
+      "question": "Harappan seals were mostly made of:",
+      "options": [
+        "Gold",
+        "Steatite",
+        "Copper",
+        "Iron"
+      ],
+      "correctIndex": 1,
+      "explanation": "Most Harappan seals were made of steatite (soapstone) and featured animal motifs and script.",
+      "ncertPage": 6,
+      "difficulty": "MEDIUM",
+      "subject": "History"
+    },
+    {
+      "mcqId": "ch1400_q6",
+      "chapterId": "1400",
+      "question": "Which metal was NOT known to the people of the Indus Valley Civilization?",
+      "options": [
+        "Copper",
+        "Bronze",
+        "Gold",
+        "Iron"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Harappans used copper and bronze extensively, but iron was not discovered until much later in the Vedic period.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "History"
+    },
+    {
+      "mcqId": "ch1400_q7",
+      "chapterId": "1400",
+      "question": "The Indus Valley script is considered:",
+      "options": [
+        "Brahmi",
+        "Kharosthi",
+        "Undeciphered",
+        "Sanskrit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Despite many attempts, the pictographic script of the Indus Valley remains undeciphered.",
+      "ncertPage": 7,
+      "difficulty": "HARD",
+      "subject": "History"
+    },
+    {
+      "mcqId": "ch1400_q8",
+      "chapterId": "1400",
+      "question": "The site of Kalibangan is located in which Indian state?",
+      "options": [
+        "Punjab",
+        "Haryana",
+        "Rajasthan",
+        "Gujarat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kalibangan, known for its plowed fields, is located in the Hanumangarh district of Rajasthan.",
+      "ncertPage": 2,
+      "difficulty": "MEDIUM",
+      "subject": "History"
+    },
+    {
+      "mcqId": "ch1400_q9",
+      "chapterId": "1400",
+      "question": "Which of the following was NOT a reason for the decline of the Harappan civilization?",
+      "options": [
+        "Floods",
+        "Earthquakes",
+        "Climate change",
+        "Invention of Iron"
+      ],
+      "correctIndex": 3,
+      "explanation": "While floods and climate change are cited as theories, the invention of iron happened much later and was not a cause of decline.",
+      "ncertPage": 9,
+      "difficulty": "HARD",
+      "subject": "History"
+    },
+    {
+      "mcqId": "ch1400_q10",
+      "chapterId": "1400",
+      "question": "The drainage system of Harappan cities was characterized by:",
+      "options": [
+        "Open drains",
+        "Covered drains with manholes",
+        "No drainage system",
+        "Direct disposal into rivers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Harappan cities had an advanced underground drainage system with covered drains and inspection manholes.",
+      "ncertPage": 3,
+      "difficulty": "HARD",
+      "subject": "History"
+    }
+  ]
+}

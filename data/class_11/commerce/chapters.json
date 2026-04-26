@@ -1,0 +1,44 @@
+{
+  "chapters": [
+    {
+      "id": 1200,
+      "bookId": 20,
+      "chapterNumber": 1,
+      "title": "Basic Concepts in Economics",
+      "topicCount": 5,
+      "questionCount": 10,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "hasRead": false,
+      "hasSolutions": true,
+      "hasMCQ": true,
+      "hasNotes": true,
+      "estimatedMinutes": 30,
+      "pageCount": 12,
+      "isDownloaded": false,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/class_11/commerce/economics/chapter_1.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/class_11/commerce/economics/solutions_1.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/class_11/commerce/economics/notes_1.pdf"
+    },
+    {
+      "id": 1210,
+      "bookId": 21,
+      "chapterNumber": 1,
+      "title": "Introduction to Book Keeping and Accountancy",
+      "topicCount": 6,
+      "questionCount": 12,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "hasRead": false,
+      "hasSolutions": true,
+      "hasMCQ": true,
+      "hasNotes": true,
+      "estimatedMinutes": 45,
+      "pageCount": 15,
+      "isDownloaded": false,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/class_11/commerce/accounts/chapter_1.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/class_11/commerce/accounts/solutions_1.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/class_11/commerce/accounts/notes_1.pdf"
+    }
+  ]
+}

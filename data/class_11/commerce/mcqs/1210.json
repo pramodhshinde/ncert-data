@@ -1,0 +1,164 @@
+{
+  "mcqs": [
+    {
+      "mcqId": "ch1210_q1",
+      "chapterId": "1210",
+      "question": "Book-keeping is an art of recording _____ in the books of accounts.",
+      "options": [
+        "Social events",
+        "Business transactions",
+        "Personal events",
+        "Political events"
+      ],
+      "correctIndex": 1,
+      "explanation": "Book-keeping is concerned with recording financial business transactions.",
+      "ncertPage": 1,
+      "difficulty": "EASY",
+      "subject": "Book Keeping & Accountancy"
+    },
+    {
+      "mcqId": "ch1210_q2",
+      "chapterId": "1210",
+      "question": "The double entry system of book-keeping was introduced by:",
+      "options": [
+        "Adam Smith",
+        "Luca Pacioli",
+        "Alfred Marshall",
+        "F.W. Taylor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Luca de Borgo Pacioli, an Italian mathematician, introduced the double entry system in 1494.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Book Keeping & Accountancy"
+    },
+    {
+      "mcqId": "ch1210_q3",
+      "chapterId": "1210",
+      "question": "Cash, bank balance, and furniture are examples of:",
+      "options": [
+        "Liabilities",
+        "Assets",
+        "Expenses",
+        "Income"
+      ],
+      "correctIndex": 1,
+      "explanation": "Assets are resources owned by the business that have future economic value.",
+      "ncertPage": 8,
+      "difficulty": "EASY",
+      "subject": "Book Keeping & Accountancy"
+    },
+    {
+      "mcqId": "ch1210_q4",
+      "chapterId": "1210",
+      "question": "What is the accounting equation?",
+      "options": [
+        "Assets = Capital + Liabilities",
+        "Assets = Capital - Liabilities",
+        "Capital = Assets + Liabilities",
+        "Liabilities = Assets + Capital"
+      ],
+      "correctIndex": 0,
+      "explanation": "The fundamental accounting equation states that Assets always equal the sum of Capital and Liabilities.",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "Book Keeping & Accountancy"
+    },
+    {
+      "mcqId": "ch1210_q5",
+      "chapterId": "1210",
+      "question": "A person to whom money is owed by the business is called:",
+      "options": [
+        "Debtor",
+        "Creditor",
+        "Proprietor",
+        "Partner"
+      ],
+      "correctIndex": 1,
+      "explanation": "A creditor is a person or entity to whom the business owes money for goods or services.",
+      "ncertPage": 9,
+      "difficulty": "MEDIUM",
+      "subject": "Book Keeping & Accountancy"
+    },
+    {
+      "mcqId": "ch1210_q6",
+      "chapterId": "1210",
+      "question": "The process of entering transactions in the journal is called:",
+      "options": [
+        "Posting",
+        "Journalising",
+        "Balancing",
+        "Casting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Journalising is the act of recording business transactions in the journal.",
+      "ncertPage": 15,
+      "difficulty": "EASY",
+      "subject": "Book Keeping & Accountancy"
+    },
+    {
+      "mcqId": "ch1210_q7",
+      "chapterId": "1210",
+      "question": "Which accounting principle assumes that a business will continue for an indefinite period?",
+      "options": [
+        "Business Entity",
+        "Going Concern",
+        "Money Measurement",
+        "Dual Aspect"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Going Concern concept assumes the business will operate for a long time and not liquidate in the near future.",
+      "ncertPage": 11,
+      "difficulty": "HARD",
+      "subject": "Book Keeping & Accountancy"
+    },
+    {
+      "mcqId": "ch1210_q8",
+      "chapterId": "1210",
+      "question": "A systematic record of all business transactions in chronological order is maintained in:",
+      "options": [
+        "Ledger",
+        "Journal",
+        "Trial Balance",
+        "Balance Sheet"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Journal is the book of original entry where transactions are recorded day-to-day as they occur.",
+      "ncertPage": 14,
+      "difficulty": "MEDIUM",
+      "subject": "Book Keeping & Accountancy"
+    },
+    {
+      "mcqId": "ch1210_q9",
+      "chapterId": "1210",
+      "question": "Drawings by the proprietor results in _____ of capital.",
+      "options": [
+        "Increase",
+        "Decrease",
+        "No change",
+        "Doubling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drawings are withdrawals of cash or goods by the owner for personal use, which reduces the business capital.",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "Book Keeping & Accountancy"
+    },
+    {
+      "mcqId": "ch1210_q10",
+      "chapterId": "1210",
+      "question": "Under which concept are only those transactions recorded that can be expressed in terms of money?",
+      "options": [
+        "Accrual concept",
+        "Money measurement concept",
+        "Cost concept",
+        "Realisation concept"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Money Measurement concept states that only events that can be quantified in monetary terms are recorded in accounting.",
+      "ncertPage": 11,
+      "difficulty": "HARD",
+      "subject": "Book Keeping & Accountancy"
+    }
+  ]
+}

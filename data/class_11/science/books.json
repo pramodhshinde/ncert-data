@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Physics",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/science/physics.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "Physics",
+      "chapterCount": 14
+    },
+    {
+      "id": 2,
+      "title": "Chemistry",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/science/chemistry.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "Chemistry",
+      "chapterCount": 16
+    },
+    {
+      "id": 3,
+      "title": "Biology",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/science/biology.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "Biology",
+      "chapterCount": 16
+    },
+    {
+      "id": 4,
+      "title": "Mathematics & Statistics",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/science/maths.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "Mathematics",
+      "chapterCount": 18
+    },
+    {
+      "id": 5,
+      "title": "Computer Science",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/science/computer_science.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "Computer Science",
+      "chapterCount": 9
+    }
+  ]
+}

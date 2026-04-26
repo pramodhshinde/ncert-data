@@ -1,0 +1,164 @@
+{
+  "mcqs": [
+    {
+      "mcqId": "ch2600_q1",
+      "chapterId": "2600",
+      "question": "Who is the author of 'An Astrologer's Day'?",
+      "options": [
+        "R.K. Narayan",
+        "Mulk Raj Anand",
+        "Raja Rao",
+        "Anita Desai"
+      ],
+      "correctIndex": 0,
+      "explanation": "R.K. Narayan is the renowned Indian author known for his works set in the fictional town of Malgudi.",
+      "ncertPage": 1,
+      "difficulty": "EASY",
+      "subject": "English"
+    },
+    {
+      "mcqId": "ch2600_q2",
+      "chapterId": "2600",
+      "question": "The astrologer's professional equipment included:",
+      "options": [
+        "A laptop and a printer",
+        "Cowrie shells and a square piece of cloth",
+        "A crystal ball and a magic wand",
+        "Telescope and a microscope"
+      ],
+      "correctIndex": 1,
+      "explanation": "His gear consisted of a dozen cowrie shells, a piece of cloth with obscure charts, a notebook, and a bundle of palmyra writing.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "English"
+    },
+    {
+      "mcqId": "ch2600_q3",
+      "chapterId": "2600",
+      "question": "The astrologer's forehead was resplendent with:",
+      "options": [
+        "Sweat",
+        "Sacred ash and vermilion",
+        "Gold ornaments",
+        "Paint"
+      ],
+      "correctIndex": 1,
+      "explanation": "He applied sacred ash (vibhuti) and vermilion (kumkum) to enhance his mystical appearance.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "English"
+    },
+    {
+      "mcqId": "ch2600_q4",
+      "chapterId": "2600",
+      "question": "The astrologer did not have any knowledge of:",
+      "options": [
+        "Human nature",
+        "Astronomy or astrology",
+        "Malgudi",
+        "Tamil"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story reveals he was a fraud who relied on shrewd guesswork and knowledge of human psychology rather than real astrology.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "English"
+    },
+    {
+      "mcqId": "ch2600_q5",
+      "chapterId": "2600",
+      "question": "A stranger named Guru Nayak challenges the astrologer to:",
+      "options": [
+        "A duel",
+        "Predict his future accurately",
+        "Tell him where the man who tried to kill him is",
+        "Find his lost treasure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Guru Nayak is looking for the person who stabbed him and left him for dead years ago.",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "English"
+    },
+    {
+      "mcqId": "ch2600_q6",
+      "chapterId": "2600",
+      "question": "Why did the astrologer feel uncomfortable when he saw Guru Nayak?",
+      "options": [
+        "He didn't like his face",
+        "He recognized him as the man he had once stabbed",
+        "Guru Nayak looked very dangerous",
+        "He was afraid of being caught as a fake"
+      ],
+      "correctIndex": 1,
+      "explanation": "Years ago, in his village, the astrologer had a fight with Guru Nayak, stabbed him, and pushed him into a well.",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "English"
+    },
+    {
+      "mcqId": "ch2600_q7",
+      "chapterId": "2600",
+      "question": "What advice does the astrologer give to Guru Nayak?",
+      "options": [
+        "To go to Malgudi",
+        "To return to his village and never travel south again",
+        "To forgive his enemy",
+        "To become an astrologer"
+      ],
+      "correctIndex": 1,
+      "explanation": "He tells him that his enemy is dead and warns him never to travel south again to avoid further danger (saving himself).",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "English"
+    },
+    {
+      "mcqId": "ch2600_q8",
+      "chapterId": "2600",
+      "question": "The astrologer's success in his profession was due to:",
+      "options": [
+        "Intensive study of stars",
+        "Divine powers",
+        "Study, practice, and shrewd guesswork",
+        "Good luck"
+      ],
+      "correctIndex": 2,
+      "explanation": "He was a clever judge of character and used generic statements that applied to most people.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "English"
+    },
+    {
+      "mcqId": "ch2600_q9",
+      "chapterId": "2600",
+      "question": "At the end of the day, the astrologer feels:",
+      "options": [
+        "Guilty about his past",
+        "A great load has gone from his mind",
+        "Afraid that Guru Nayak will return",
+        "Proud of his skills"
+      ],
+      "correctIndex": 1,
+      "explanation": "He is relieved to know that the man he thought he had killed is actually alive.",
+      "ncertPage": 14,
+      "difficulty": "HARD",
+      "subject": "English"
+    },
+    {
+      "mcqId": "ch2600_q10",
+      "chapterId": "2600",
+      "question": "The story is set in a place called:",
+      "options": [
+        "Town Hall Park",
+        "Malgudi Central Station",
+        "Village square",
+        "Temple street"
+      ],
+      "correctIndex": 0,
+      "explanation": "The astrologer conducted his business under the boughs of a spreading tamarind tree in Town Hall Park.",
+      "ncertPage": 2,
+      "difficulty": "HARD",
+      "subject": "English"
+    }
+  ]
+}

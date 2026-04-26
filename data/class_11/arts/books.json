@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": 40,
+      "title": "History",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/arts/history.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "History",
+      "chapterCount": 11
+    },
+    {
+      "id": 41,
+      "title": "Geography",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/arts/geography.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "Geography",
+      "chapterCount": 10
+    },
+    {
+      "id": 42,
+      "title": "Political Science",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/arts/pol_science.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "Political Science",
+      "chapterCount": 10
+    },
+    {
+      "id": 43,
+      "title": "Sociology",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/arts/sociology.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "Sociology",
+      "chapterCount": 6
+    },
+    {
+      "id": 44,
+      "title": "Psychology",
+      "subtitle": "Maharashtra Board Class 11",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_11/arts/psychology.jpg",
+      "language": "English",
+      "classNumber": "11",
+      "subject": "Psychology",
+      "chapterCount": 8
+    }
+  ]
+}

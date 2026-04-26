@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": 80,
+      "title": "Physics",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/science/physics.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "Physics",
+      "chapterCount": 16
+    },
+    {
+      "id": 81,
+      "title": "Chemistry",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/science/chemistry.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "Chemistry",
+      "chapterCount": 16
+    },
+    {
+      "id": 82,
+      "title": "Biology",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/science/biology.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "Biology",
+      "chapterCount": 15
+    },
+    {
+      "id": 83,
+      "title": "Mathematics & Statistics",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/science/maths.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "Mathematics",
+      "chapterCount": 15
+    }
+  ]
+}

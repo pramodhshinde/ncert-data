@@ -1,0 +1,164 @@
+{
+  "mcqs": [
+    {
+      "mcqId": "ch2002_q1",
+      "chapterId": "2002",
+      "question": "The property of a fluid to oppose the relative motion between its different layers is called:",
+      "options": [
+        "Surface tension",
+        "Viscosity",
+        "Capillarity",
+        "Density"
+      ],
+      "correctIndex": 1,
+      "explanation": "Viscosity is the internal friction of a fluid that resists flow.",
+      "ncertPage": 35,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2002_q2",
+      "chapterId": "2002",
+      "question": "The SI unit of pressure is:",
+      "options": [
+        "Newton",
+        "Pascal",
+        "Joule",
+        "Watt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pascal (Pa) is equal to 1 Newton per square meter (N/m^2).",
+      "ncertPage": 28,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2002_q3",
+      "chapterId": "2002",
+      "question": "According to Pascal's law, pressure applied to an enclosed fluid is transmitted:",
+      "options": [
+        "Only downwards",
+        "Equally in all directions",
+        "Only in the direction of gravity",
+        "With diminishing intensity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pascal's principle states that pressure change in an incompressible fluid is distributed throughout the fluid.",
+      "ncertPage": 30,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2002_q4",
+      "chapterId": "2002",
+      "question": "Surface tension is caused by:",
+      "options": [
+        "Adhesive forces",
+        "Cohesive forces",
+        "Gravitational forces",
+        "Frictional forces"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cohesive forces between molecules at the liquid surface pull them inward, creating surface tension.",
+      "ncertPage": 40,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2002_q5",
+      "chapterId": "2002",
+      "question": "The rise or fall of a liquid in a narrow tube is known as:",
+      "options": [
+        "Viscous flow",
+        "Capillarity",
+        "Bernoulli's effect",
+        "Terminal velocity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capillary action is the result of surface tension and adhesive forces overcoming gravity in small tubes.",
+      "ncertPage": 42,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2002_q6",
+      "chapterId": "2002",
+      "question": "Which of the following describes the streamline flow of an ideal fluid?",
+      "options": [
+        "Equation of continuity",
+        "Bernoulli's equation",
+        "Both A and B",
+        "Stokes' law"
+      ],
+      "correctIndex": 2,
+      "explanation": "Both the continuity equation (mass conservation) and Bernoulli's equation (energy conservation) are fundamental to fluid dynamics.",
+      "ncertPage": 45,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2002_q7",
+      "chapterId": "2002",
+      "question": "The terminal velocity of a small spherical ball falling through a viscous liquid is proportional to:",
+      "options": [
+        "Radius r",
+        "Square of radius r^2",
+        "Square root of radius √r",
+        "Inversely proportional to r"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to Stokes' law, vt = 2r^2(ρ-σ)g / 9η. So vt ∝ r^2.",
+      "ncertPage": 38,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2002_q8",
+      "chapterId": "2002",
+      "question": "For a turbulent flow, the Reynolds number is generally:",
+      "options": [
+        "Less than 1000",
+        "Greater than 2000",
+        "Exactly 0",
+        "Negative"
+      ],
+      "correctIndex": 1,
+      "explanation": "Critical Reynolds number separates laminar (<1000) and turbulent (>2000) flow regimes.",
+      "ncertPage": 36,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2002_q9",
+      "chapterId": "2002",
+      "question": "Hydraulic lifts and hydraulic brakes work on the principle of:",
+      "options": [
+        "Archimedes' principle",
+        "Pascal's law",
+        "Bernoulli's principle",
+        "Newton's laws"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hydraulic systems use Pascal's law to multiply force using pressure transmission.",
+      "ncertPage": 31,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "ch2002_q10",
+      "chapterId": "2002",
+      "question": "According to Bernoulli's theorem, for an ideal fluid, the sum of pressure energy, kinetic energy and potential energy per unit volume is:",
+      "options": [
+        "Zero",
+        "Constant",
+        "Maximum at center",
+        "Minimum at center"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bernoulli's principle states that the total mechanical energy of a flowing fluid is conserved.",
+      "ncertPage": 46,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    }
+  ]
+}

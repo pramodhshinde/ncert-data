@@ -1,0 +1,164 @@
+{
+  "mcqs": [
+    {
+      "mcqId": "ch1420_q1",
+      "chapterId": "1420",
+      "question": "Sudden movements of the Earth's crust are caused by:",
+      "options": [
+        "Endogenic forces",
+        "Exogenic forces",
+        "Gravitational forces",
+        "Magnetic forces"
+      ],
+      "correctIndex": 0,
+      "explanation": "Internal (endogenic) forces within the Earth cause sudden movements like earthquakes and volcanic eruptions.",
+      "ncertPage": 1,
+      "difficulty": "EASY",
+      "subject": "Geography"
+    },
+    {
+      "mcqId": "ch1420_q2",
+      "chapterId": "1420",
+      "question": "The point within the Earth where an earthquake originates is called:",
+      "options": [
+        "Epicenter",
+        "Focus (Hypocenter)",
+        "Crater",
+        "Fault"
+      ],
+      "correctIndex": 1,
+      "explanation": "The focus or hypocenter is the actual point inside the Earth where the earthquake energy is released.",
+      "ncertPage": 5,
+      "difficulty": "EASY",
+      "subject": "Geography"
+    },
+    {
+      "mcqId": "ch1420_q3",
+      "chapterId": "1420",
+      "question": "Which instrument is used to record earthquake waves?",
+      "options": [
+        "Barometer",
+        "Thermometer",
+        "Seismograph",
+        "Hygrometer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A seismograph or seismometer is an instrument that detects and records seismic waves produced by earthquakes.",
+      "ncertPage": 6,
+      "difficulty": "EASY",
+      "subject": "Geography"
+    },
+    {
+      "mcqId": "ch1420_q4",
+      "chapterId": "1420",
+      "question": "The point on the Earth's surface directly above the focus is called:",
+      "options": [
+        "Nadir",
+        "Epicenter",
+        "Zenith",
+        "Summit"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epicenter is the location on the surface directly vertically above the hypocenter.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Geography"
+    },
+    {
+      "mcqId": "ch1420_q5",
+      "chapterId": "1420",
+      "question": "The Himalayas are an example of:",
+      "options": [
+        "Block mountains",
+        "Fold mountains",
+        "Volcanic mountains",
+        "Residual mountains"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Himalayas were formed by the collision of tectonic plates, causing the crust to fold upwards.",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Geography"
+    },
+    {
+      "mcqId": "ch1420_q6",
+      "chapterId": "1420",
+      "question": "Which of the following is a slow movement of the Earth's crust?",
+      "options": [
+        "Earthquake",
+        "Volcanic eruption",
+        "Mountain building (Orogeny)",
+        "Landslide"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mountain building is a diastrophic movement that occurs over millions of years, unlike sudden events like earthquakes.",
+      "ncertPage": 2,
+      "difficulty": "MEDIUM",
+      "subject": "Geography"
+    },
+    {
+      "mcqId": "ch1420_q7",
+      "chapterId": "1420",
+      "question": "The magnitude of an earthquake is measured on the:",
+      "options": [
+        "Mercalli scale",
+        "Richter scale",
+        "Celsius scale",
+        "Beaufort scale"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Richter scale is a logarithmic scale used to measure the energy released (magnitude) by an earthquake.",
+      "ncertPage": 6,
+      "difficulty": "MEDIUM",
+      "subject": "Geography"
+    },
+    {
+      "mcqId": "ch1420_q8",
+      "chapterId": "1420",
+      "question": "Molten rock material below the Earth's surface is called:",
+      "options": [
+        "Lava",
+        "Magma",
+        "Basalt",
+        "Pumice"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is called magma when it is underground and lava when it erupts onto the surface.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Geography"
+    },
+    {
+      "mcqId": "ch1420_q9",
+      "chapterId": "1420",
+      "question": "A fracture in the Earth's crust along which displacement has occurred is a:",
+      "options": [
+        "Fold",
+        "Fault",
+        "Joint",
+        "Syncline"
+      ],
+      "correctIndex": 1,
+      "explanation": "A fault is a break in the rock where there has been relative movement between the two sides.",
+      "ncertPage": 12,
+      "difficulty": "HARD",
+      "subject": "Geography"
+    },
+    {
+      "mcqId": "ch1420_q10",
+      "chapterId": "1420",
+      "question": "Which type of volcanic eruption is characterized by fluid lava flowing out of long cracks?",
+      "options": [
+        "Central eruption",
+        "Fissure eruption",
+        "Explosive eruption",
+        "Strombolian eruption"
+      ],
+      "correctIndex": 1,
+      "explanation": "In fissure eruptions, lava emerges from long fractures, often forming large volcanic plateaus like the Deccan Traps.",
+      "ncertPage": 11,
+      "difficulty": "HARD",
+      "subject": "Geography"
+    }
+  ]
+}
