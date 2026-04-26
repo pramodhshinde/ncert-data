@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": 120,
+      "title": "History",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/arts/history.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "History",
+      "chapterCount": 12
+    },
+    {
+      "id": 121,
+      "title": "Geography",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/arts/geography.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "Geography",
+      "chapterCount": 8
+    },
+    {
+      "id": 122,
+      "title": "Political Science",
+      "subtitle": "Maharashtra Board Class 12",
+      "coverUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/covers/class_12/arts/pol_science.jpg",
+      "language": "English",
+      "classNumber": "12",
+      "subject": "Political Science",
+      "chapterCount": 6
+    }
+  ]
+}
