@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "id": 1201,
+      "title": "Physics Part I",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/leph1.jpg",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Physics",
+      "chapterCount": 8
+    },
+    {
+      "id": 1202,
+      "title": "Physics Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/leph2.jpg",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Physics",
+      "chapterCount": 7
+    },
+    {
+      "id": 1203,
+      "title": "Chemistry Part I",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/lech1.jpg",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Chemistry",
+      "chapterCount": 9
+    },
+    {
+      "id": 1204,
+      "title": "Chemistry Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/lech2.jpg",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Chemistry",
+      "chapterCount": 7
+    },
+    {
+      "id": 1205,
+      "title": "Biology",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/lebo1.jpg",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Biology",
+      "chapterCount": 16
+    },
+    {
+      "id": 1206,
+      "title": "Mathematics Part I",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/lemh1.jpg",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Mathematics",
+      "chapterCount": 6
+    },
+    {
+      "id": 1207,
+      "title": "Mathematics Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/lemh2.jpg",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Mathematics",
+      "chapterCount": 7
+    }
+  ]
+}

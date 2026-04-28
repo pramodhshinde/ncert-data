@@ -1,0 +1,11 @@
+{
+  "books": [
+    { "id": 1101, "title": "Physics Part I", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keph1.jpg", "language": "english", "classNumber": "Class 11", "subject": "Physics", "chapterCount": 8 },
+    { "id": 1102, "title": "Physics Part II", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keph2.jpg", "language": "english", "classNumber": "Class 11", "subject": "Physics", "chapterCount": 7 },
+    { "id": 1103, "title": "Chemistry Part I", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kech1.jpg", "language": "english", "classNumber": "Class 11", "subject": "Chemistry", "chapterCount": 7 },
+    { "id": 1104, "title": "Chemistry Part II", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kech2.jpg", "language": "english", "classNumber": "Class 11", "subject": "Chemistry", "chapterCount": 7 },
+    { "id": 1105, "title": "Biology", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kebo1.jpg", "language": "english", "classNumber": "Class 11", "subject": "Biology", "chapterCount": 22 },
+    { "id": 1106, "title": "Mathematics Part I", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kemh1.jpg", "language": "english", "classNumber": "Class 11", "subject": "Mathematics", "chapterCount": 8 },
+    { "id": 1107, "title": "Mathematics Part II", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kemh2.jpg", "language": "english", "classNumber": "Class 11", "subject": "Mathematics", "chapterCount": 8 }
+  ]
+}

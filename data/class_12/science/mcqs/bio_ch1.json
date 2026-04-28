@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch1_q1", "chapterId": "bio_ch1",
+      "question": "Which of the following organisms reproduces by vegetative propagation?",
+      "options": ["Amoeba", "Potato", "Paramecium", "Hydra"],
+      "correctIndex": 1,
+      "explanation": "Potato reproduces vegetatively through its tubers (modified stems). Eyes on potatoes are buds that give rise to new plants.",
+      "ncertPage": 3, "difficulty": "EASY", "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q2", "chapterId": "bio_ch1",
+      "question": "The term 'clone' refers to organisms that are:",
+      "options": ["Sexually reproduced offspring", "Genetically identical to parent", "Produced by meiosis", "Different species hybrids"],
+      "correctIndex": 1,
+      "explanation": "A clone is an organism that is genetically identical to its parent, produced by asexual reproduction.",
+      "ncertPage": 2, "difficulty": "EASY", "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q3", "chapterId": "bio_ch1",
+      "question": "Which of the following is an example of asexual reproduction?",
+      "options": ["Seed formation in plants", "Binary fission in Amoeba", "Cross pollination", "Fertilisation"],
+      "correctIndex": 1,
+      "explanation": "Binary fission in Amoeba is asexual reproduction where the organism divides into two genetically identical offspring without gamete fusion.",
+      "ncertPage": 4, "difficulty": "EASY", "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q4", "chapterId": "bio_ch1",
+      "question": "Conidia are produced by:",
+      "options": ["Amoeba", "Penicillium", "Hydra", "Spirogyra"],
+      "correctIndex": 1,
+      "explanation": "Conidia are asexual spores produced by fungi like Penicillium at the tips of special hyphae called conidiophores.",
+      "ncertPage": 7, "difficulty": "MEDIUM", "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q5", "chapterId": "bio_ch1",
+      "question": "The juvenile phase in the life cycle of an organism is the period of:",
+      "options": ["Reproduction", "Growth before reproductive maturity", "Senescence", "Dormancy"],
+      "correctIndex": 1,
+      "explanation": "The juvenile phase (vegetative phase in plants) is the period between birth and sexual maturity during which growth occurs but reproduction does not.",
+      "ncertPage": 9, "difficulty": "MEDIUM", "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q6", "chapterId": "bio_ch1",
+      "question": "Sporulation in Plasmodium is an example of:",
+      "options": ["Sexual reproduction", "Asexual reproduction", "Vegetative propagation", "Budding"],
+      "correctIndex": 1,
+      "explanation": "Sporulation in Plasmodium (malaria parasite) involves production of sporozoites — a form of asexual reproduction by multiple fission.",
+      "ncertPage": 5, "difficulty": "HARD", "subject": "Biology"
+    }
+  ]
+}

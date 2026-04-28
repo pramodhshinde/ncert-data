@@ -1,0 +1,8 @@
+{
+  "subjects": [
+    { "id": 1, "name": "Physics", "iconRes": 0, "colorHex": "#3F51B5", "totalPapers": 20, "yearsAvailable": 8, "isPremium": false },
+    { "id": 2, "name": "Chemistry", "iconRes": 0, "colorHex": "#4CAF50", "totalPapers": 20, "yearsAvailable": 8, "isPremium": false },
+    { "id": 3, "name": "Biology", "iconRes": 0, "colorHex": "#009688", "totalPapers": 18, "yearsAvailable": 7, "isPremium": false },
+    { "id": 4, "name": "Mathematics", "iconRes": 0, "colorHex": "#FF5722", "totalPapers": 20, "yearsAvailable": 8, "isPremium": false }
+  ]
+}

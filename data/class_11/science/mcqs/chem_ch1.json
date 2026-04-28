@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_chem_ch1_q1", "chapterId": "chem_ch1",
+      "question": "The empirical formula of glucose (C₆H₁₂O₆) is:",
+      "options": ["C₆H₁₂O₆", "CH₂O", "C₂H₄O₂", "C₃H₆O₃"],
+      "correctIndex": 1,
+      "explanation": "Empirical formula is the simplest ratio. C:H:O in glucose = 6:12:6 = 1:2:1, giving empirical formula CH₂O.",
+      "ncertPage": 8, "difficulty": "MEDIUM", "subject": "Chemistry"
+    },
+    {
+      "mcqId": "11_chem_ch1_q2", "chapterId": "chem_ch1",
+      "question": "One mole of a substance contains how many entities?",
+      "options": ["6.022 × 10²²", "6.022 × 10²³", "6.022 × 10²⁴", "6.022 × 10²⁰"],
+      "correctIndex": 1,
+      "explanation": "One mole contains Avogadro's number (Nₐ) = 6.022 × 10²³ entities (atoms, molecules, ions, etc.).",
+      "ncertPage": 12, "difficulty": "EASY", "subject": "Chemistry"
+    },
+    {
+      "mcqId": "11_chem_ch1_q3", "chapterId": "chem_ch1",
+      "question": "The law of conservation of mass states that:",
+      "options": ["Mass can be created from energy", "Total mass of reactants equals total mass of products", "Mass increases during exothermic reactions", "Mass is not conserved in nuclear reactions"],
+      "correctIndex": 1,
+      "explanation": "In a chemical reaction, the total mass of reactants equals the total mass of products — mass is neither created nor destroyed.",
+      "ncertPage": 4, "difficulty": "EASY", "subject": "Chemistry"
+    },
+    {
+      "mcqId": "11_chem_ch1_q4", "chapterId": "chem_ch1",
+      "question": "The SI unit of amount of substance is:",
+      "options": ["Gram", "Kilogram", "Mole", "Litre"],
+      "correctIndex": 2,
+      "explanation": "The mole (mol) is the SI base unit for amount of substance, defined as the amount containing exactly 6.022 × 10²³ elementary entities.",
+      "ncertPage": 10, "difficulty": "EASY", "subject": "Chemistry"
+    },
+    {
+      "mcqId": "11_chem_ch1_q5", "chapterId": "chem_ch1",
+      "question": "Limiting reagent in a chemical reaction is the one that:",
+      "options": ["Is present in excess", "Determines the amount of product formed", "Has the highest molecular mass", "Reacts first"],
+      "correctIndex": 1,
+      "explanation": "The limiting reagent is the reactant that is completely consumed first, limiting the amount of product that can be formed.",
+      "ncertPage": 20, "difficulty": "MEDIUM", "subject": "Chemistry"
+    }
+  ]
+}

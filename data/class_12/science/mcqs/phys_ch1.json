@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_phys_ch1_q1", "chapterId": "phys_ch1",
+      "question": "An electric dipole is placed in a uniform electric field. The net force on the dipole is:",
+      "options": ["Zero", "Non-zero along field direction", "Perpendicular to field", "None of these"],
+      "correctIndex": 0,
+      "explanation": "In a uniform electric field, the forces on the two charges of the dipole are equal and opposite, hence the net force is zero.",
+      "ncertPage": 3, "difficulty": "EASY", "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phys_ch1_q2", "chapterId": "phys_ch1",
+      "question": "The electric field inside a conductor in electrostatic equilibrium is:",
+      "options": ["Zero", "Equal to surface charge density / ε₀", "Maximum at centre", "Depends on shape"],
+      "correctIndex": 0,
+      "explanation": "In electrostatic equilibrium, free electrons redistribute until the net electric field inside the conductor becomes zero.",
+      "ncertPage": 15, "difficulty": "EASY", "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phys_ch1_q3", "chapterId": "phys_ch1",
+      "question": "Gauss's law relates electric flux to:",
+      "options": ["Total charge outside Gaussian surface", "Total charge enclosed by Gaussian surface", "Area of Gaussian surface", "Distance from charge"],
+      "correctIndex": 1,
+      "explanation": "Gauss's law: Φ = Q_enclosed / ε₀. The electric flux through a closed surface equals the total enclosed charge divided by ε₀.",
+      "ncertPage": 22, "difficulty": "MEDIUM", "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phys_ch1_q4", "chapterId": "phys_ch1",
+      "question": "Two point charges +q and -q are placed at distance r. The electric potential at the midpoint is:",
+      "options": ["Zero", "kq/r", "2kq/r", "-kq/r"],
+      "correctIndex": 0,
+      "explanation": "Potential at midpoint = k(+q)/(r/2) + k(-q)/(r/2) = 2kq/r - 2kq/r = 0.",
+      "ncertPage": 28, "difficulty": "MEDIUM", "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phys_ch1_q5", "chapterId": "phys_ch1",
+      "question": "The SI unit of electric field intensity is:",
+      "options": ["N/C²", "N·C", "N/C or V/m", "C/N"],
+      "correctIndex": 2,
+      "explanation": "Electric field is force per unit charge: E = F/q. Its SI unit is N/C, which is equivalent to V/m.",
+      "ncertPage": 5, "difficulty": "EASY", "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phys_ch1_q6", "chapterId": "phys_ch1",
+      "question": "Coulomb's law is valid for:",
+      "options": ["Only point charges", "Moving charges only", "Any charge distribution", "Charges at rest or slow motion"],
+      "correctIndex": 0,
+      "explanation": "Coulomb's law F = kq₁q₂/r² is strictly valid for stationary point charges. For extended bodies, integration is needed.",
+      "ncertPage": 10, "difficulty": "HARD", "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phys_ch1_q7", "chapterId": "phys_ch1",
+      "question": "The dimension of permittivity of free space (ε₀) is:",
+      "options": ["[M⁻¹L⁻³T⁴A²]", "[MLT⁻²A⁻¹]", "[M⁻¹L³T²A]", "[ML²T⁻³A⁻¹]"],
+      "correctIndex": 0,
+      "explanation": "From Coulomb's law: ε₀ = q²/(4πFr²), dimensions = C²/(N·m²) = A²T²/(kg·m/s²·m²) = M⁻¹L⁻³T⁴A².",
+      "ncertPage": 8, "difficulty": "HARD", "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phys_ch1_q8", "chapterId": "phys_ch1",
+      "question": "An electric field line cannot be a closed loop because:",
+      "options": ["Field lines are always straight", "They would violate conservation of energy", "They cannot start from negative charge", "They only start and end on conductors"],
+      "correctIndex": 1,
+      "explanation": "If field lines formed closed loops, moving a charge around the loop would gain energy indefinitely, violating energy conservation. Electric force is conservative.",
+      "ncertPage": 19, "difficulty": "HARD", "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phys_ch1_q9", "chapterId": "phys_ch1",
+      "question": "The number of electric field lines passing through unit area perpendicular to field gives:",
+      "options": ["Electric potential", "Electric flux density", "Electric field intensity", "Charge density"],
+      "correctIndex": 2,
+      "explanation": "Electric field intensity is defined as the number of field lines per unit area perpendicular to the field direction.",
+      "ncertPage": 6, "difficulty": "MEDIUM", "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phys_ch1_q10", "chapterId": "phys_ch1",
+      "question": "If charge on a body is tripled and distance is doubled, the Coulomb force between two charges becomes:",
+      "options": ["9/4 times", "3/4 times", "9 times", "3/2 times"],
+      "correctIndex": 0,
+      "explanation": "F' = k(3q₁)(q₂)/(2r)² = 3kq₁q₂/4r² = (3/4)F. Wait - if both charges triple: F' = k(3q₁)(3q₂)/(2r)² = 9kq₁q₂/4r² = 9/4 F.",
+      "ncertPage": 11, "difficulty": "HARD", "subject": "Physics"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_phys_ch1_q1", "chapterId": "phys_ch1",
+      "question": "Physics is a branch of science that deals with:",
+      "options": ["Study of living organisms", "Study of matter, energy and their interactions", "Study of chemical reactions", "Study of celestial bodies only"],
+      "correctIndex": 1,
+      "explanation": "Physics deals with the study of matter, energy, and the fundamental forces and interactions between them.",
+      "ncertPage": 2, "difficulty": "EASY", "subject": "Physics"
+    },
+    {
+      "mcqId": "11_phys_ch1_q2", "chapterId": "phys_ch1",
+      "question": "Which of the following is NOT a fundamental force in nature?",
+      "options": ["Gravitational force", "Electromagnetic force", "Frictional force", "Strong nuclear force"],
+      "correctIndex": 2,
+      "explanation": "Friction is a contact force derived from electromagnetic interactions at the atomic level — not a fundamental force. The four fundamental forces are gravitational, electromagnetic, strong and weak nuclear.",
+      "ncertPage": 5, "difficulty": "MEDIUM", "subject": "Physics"
+    },
+    {
+      "mcqId": "11_phys_ch1_q3", "chapterId": "phys_ch1",
+      "question": "The unification of electric and magnetic forces was achieved by:",
+      "options": ["Newton", "Maxwell", "Einstein", "Faraday"],
+      "correctIndex": 1,
+      "explanation": "James Clerk Maxwell unified electricity and magnetism into a single electromagnetic theory through his famous equations.",
+      "ncertPage": 6, "difficulty": "EASY", "subject": "Physics"
+    },
+    {
+      "mcqId": "11_phys_ch1_q4", "chapterId": "phys_ch1",
+      "question": "The range of strong nuclear force is approximately:",
+      "options": ["10⁻¹⁵ m", "10⁻¹⁰ m", "1 m", "Infinite"],
+      "correctIndex": 0,
+      "explanation": "The strong nuclear force acts over very short distances (~10⁻¹⁵ m = 1 femtometer), comparable to the size of an atomic nucleus.",
+      "ncertPage": 8, "difficulty": "HARD", "subject": "Physics"
+    },
+    {
+      "mcqId": "11_phys_ch1_q5", "chapterId": "phys_ch1",
+      "question": "Reductionism in physics refers to:",
+      "options": ["Reducing complex phenomena to simpler constituents", "Reducing the number of experiments", "Combining multiple theories", "Studying macro-scale phenomena only"],
+      "correctIndex": 0,
+      "explanation": "Reductionism is the approach of understanding complex phenomena by breaking them down into simpler, more fundamental components and their interactions.",
+      "ncertPage": 3, "difficulty": "MEDIUM", "subject": "Physics"
+    }
+  ]
+}

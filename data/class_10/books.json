@@ -1,0 +1,12 @@
+{
+  "books": [
+    { "id": 1001, "title": "Science", "subtitle": "Class 10 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/jesc1.jpg", "language": "english", "classNumber": "Class 10", "subject": "Science", "chapterCount": 13 },
+    { "id": 1002, "title": "Mathematics", "subtitle": "Class 10 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/jemh1.jpg", "language": "english", "classNumber": "Class 10", "subject": "Mathematics", "chapterCount": 14 },
+    { "id": 1003, "title": "History: India and the Contemporary World II", "subtitle": "Class 10 NCERT Social Science", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/jehs1.jpg", "language": "english", "classNumber": "Class 10", "subject": "Social Science", "chapterCount": 5 },
+    { "id": 1004, "title": "Contemporary India II (Geography)", "subtitle": "Class 10 NCERT Social Science", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/jegg1.jpg", "language": "english", "classNumber": "Class 10", "subject": "Social Science", "chapterCount": 7 },
+    { "id": 1005, "title": "Democratic Politics II (Political Science)", "subtitle": "Class 10 NCERT Social Science", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/jepd1.jpg", "language": "english", "classNumber": "Class 10", "subject": "Social Science", "chapterCount": 8 },
+    { "id": 1006, "title": "First Flight", "subtitle": "Class 10 NCERT English Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/jefr1.jpg", "language": "english", "classNumber": "Class 10", "subject": "English", "chapterCount": 11 },
+    { "id": 1007, "title": "Footprints without Feet", "subtitle": "Class 10 NCERT English Supplementary", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/jefp1.jpg", "language": "english", "classNumber": "Class 10", "subject": "English", "chapterCount": 10 },
+    { "id": 1008, "title": "Sparsh Part II", "subtitle": "Class 10 NCERT Hindi", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/jhsp1.jpg", "language": "hindi", "classNumber": "Class 10", "subject": "Hindi", "chapterCount": 17 }
+  ]
+}

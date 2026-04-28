@@ -1,0 +1,604 @@
+{
+  "chapters": [
+    {
+      "id": 120101, "bookId": 1201, "chapterNumber": 1,
+      "title": "Electric Charges and Fields",
+      "topicCount": 8, "questionCount": 28, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 90, "pageCount": 34,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph101.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch1.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch1.pdf"
+    },
+    {
+      "id": 120102, "bookId": 1201, "chapterNumber": 2,
+      "title": "Electrostatic Potential and Capacitance",
+      "topicCount": 9, "questionCount": 32, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 100, "pageCount": 42,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph102.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch2.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch2.pdf"
+    },
+    {
+      "id": 120103, "bookId": 1201, "chapterNumber": 3,
+      "title": "Current Electricity",
+      "topicCount": 10, "questionCount": 38, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 110, "pageCount": 46,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph103.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch3.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch3.pdf"
+    },
+    {
+      "id": 120104, "bookId": 1201, "chapterNumber": 4,
+      "title": "Moving Charges and Magnetism",
+      "topicCount": 8, "questionCount": 30, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 95, "pageCount": 38,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph104.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch4.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch4.pdf"
+    },
+    {
+      "id": 120105, "bookId": 1201, "chapterNumber": 5,
+      "title": "Magnetism and Matter",
+      "topicCount": 7, "questionCount": 25, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 80, "pageCount": 30,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph105.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch5.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch5.pdf"
+    },
+    {
+      "id": 120106, "bookId": 1201, "chapterNumber": 6,
+      "title": "Electromagnetic Induction",
+      "topicCount": 8, "questionCount": 22, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 85, "pageCount": 32,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph106.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch6.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch6.pdf"
+    },
+    {
+      "id": 120107, "bookId": 1201, "chapterNumber": 7,
+      "title": "Alternating Current",
+      "topicCount": 9, "questionCount": 28, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 90, "pageCount": 36,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph107.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch7.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch7.pdf"
+    },
+    {
+      "id": 120108, "bookId": 1201, "chapterNumber": 8,
+      "title": "Electromagnetic Waves",
+      "topicCount": 5, "questionCount": 18, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 60, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph108.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch8.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch8.pdf"
+    },
+    {
+      "id": 120201, "bookId": 1202, "chapterNumber": 9,
+      "title": "Ray Optics and Optical Instruments",
+      "topicCount": 11, "questionCount": 35, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 120, "pageCount": 50,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph201.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch9.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch9.pdf"
+    },
+    {
+      "id": 120202, "bookId": 1202, "chapterNumber": 10,
+      "title": "Wave Optics",
+      "topicCount": 8, "questionCount": 28, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 90, "pageCount": 34,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph202.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch10.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch10.pdf"
+    },
+    {
+      "id": 120203, "bookId": 1202, "chapterNumber": 11,
+      "title": "Dual Nature of Radiation and Matter",
+      "topicCount": 7, "questionCount": 24, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 75, "pageCount": 28,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph203.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch11.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch11.pdf"
+    },
+    {
+      "id": 120204, "bookId": 1202, "chapterNumber": 12,
+      "title": "Atoms",
+      "topicCount": 6, "questionCount": 20, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 65, "pageCount": 24,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph204.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch12.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch12.pdf"
+    },
+    {
+      "id": 120205, "bookId": 1202, "chapterNumber": 13,
+      "title": "Nuclei",
+      "topicCount": 6, "questionCount": 22, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 70, "pageCount": 26,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph205.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch13.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch13.pdf"
+    },
+    {
+      "id": 120206, "bookId": 1202, "chapterNumber": 14,
+      "title": "Semiconductor Electronics",
+      "topicCount": 9, "questionCount": 30, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 100, "pageCount": 40,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph206.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch14.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch14.pdf"
+    },
+    {
+      "id": 120207, "bookId": 1202, "chapterNumber": 15,
+      "title": "Communication Systems",
+      "topicCount": 5, "questionCount": 16, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 55, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/leph207.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/physics/ch15.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/physics/ch15.pdf"
+    },
+    {
+      "id": 120301, "bookId": 1203, "chapterNumber": 1,
+      "title": "The Solid State",
+      "topicCount": 7, "questionCount": 24, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 80, "pageCount": 32,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech101.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch1.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch1.pdf"
+    },
+    {
+      "id": 120302, "bookId": 1203, "chapterNumber": 2,
+      "title": "Solutions",
+      "topicCount": 8, "questionCount": 28, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 85, "pageCount": 34,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech102.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch2.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch2.pdf"
+    },
+    {
+      "id": 120303, "bookId": 1203, "chapterNumber": 3,
+      "title": "Electrochemistry",
+      "topicCount": 9, "questionCount": 32, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 95, "pageCount": 40,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech103.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch3.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch3.pdf"
+    },
+    {
+      "id": 120304, "bookId": 1203, "chapterNumber": 4,
+      "title": "Chemical Kinetics",
+      "topicCount": 7, "questionCount": 26, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 80, "pageCount": 30,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech104.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch4.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch4.pdf"
+    },
+    {
+      "id": 120305, "bookId": 1203, "chapterNumber": 5,
+      "title": "Surface Chemistry",
+      "topicCount": 6, "questionCount": 20, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 65, "pageCount": 24,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech105.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch5.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch5.pdf"
+    },
+    {
+      "id": 120306, "bookId": 1203, "chapterNumber": 6,
+      "title": "General Principles and Processes of Isolation of Elements",
+      "topicCount": 5, "questionCount": 16, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 55, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech106.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch6.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch6.pdf"
+    },
+    {
+      "id": 120307, "bookId": 1203, "chapterNumber": 7,
+      "title": "The p-Block Elements",
+      "topicCount": 8, "questionCount": 30, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 90, "pageCount": 38,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech107.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch7.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch7.pdf"
+    },
+    {
+      "id": 120308, "bookId": 1203, "chapterNumber": 8,
+      "title": "The d- and f-Block Elements",
+      "topicCount": 7, "questionCount": 26, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 80, "pageCount": 32,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech108.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch8.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch8.pdf"
+    },
+    {
+      "id": 120309, "bookId": 1203, "chapterNumber": 9,
+      "title": "Coordination Compounds",
+      "topicCount": 8, "questionCount": 28, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 85, "pageCount": 34,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech109.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch9.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch9.pdf"
+    },
+    {
+      "id": 120401, "bookId": 1204, "chapterNumber": 10,
+      "title": "Haloalkanes and Haloarenes",
+      "topicCount": 8, "questionCount": 26, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 80, "pageCount": 32,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech201.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch10.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch10.pdf"
+    },
+    {
+      "id": 120402, "bookId": 1204, "chapterNumber": 11,
+      "title": "Alcohols, Phenols and Ethers",
+      "topicCount": 8, "questionCount": 28, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 85, "pageCount": 34,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech202.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch11.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch11.pdf"
+    },
+    {
+      "id": 120403, "bookId": 1204, "chapterNumber": 12,
+      "title": "Aldehydes, Ketones and Carboxylic Acids",
+      "topicCount": 9, "questionCount": 30, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 90, "pageCount": 38,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech203.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch12.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch12.pdf"
+    },
+    {
+      "id": 120404, "bookId": 1204, "chapterNumber": 13,
+      "title": "Amines",
+      "topicCount": 7, "questionCount": 24, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 75, "pageCount": 28,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech204.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch13.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch13.pdf"
+    },
+    {
+      "id": 120405, "bookId": 1204, "chapterNumber": 14,
+      "title": "Biomolecules",
+      "topicCount": 6, "questionCount": 20, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 65, "pageCount": 24,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech205.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch14.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch14.pdf"
+    },
+    {
+      "id": 120406, "bookId": 1204, "chapterNumber": 15,
+      "title": "Polymers",
+      "topicCount": 5, "questionCount": 16, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 55, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech206.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch15.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch15.pdf"
+    },
+    {
+      "id": 120407, "bookId": 1204, "chapterNumber": 16,
+      "title": "Chemistry in Everyday Life",
+      "topicCount": 4, "questionCount": 14, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 45, "pageCount": 16,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lech207.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/chemistry/ch16.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/chemistry/ch16.pdf"
+    },
+    {
+      "id": 120501, "bookId": 1205, "chapterNumber": 1,
+      "title": "Reproduction in Organisms",
+      "topicCount": 5, "questionCount": 18, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 55, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo101.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch1.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch1.pdf"
+    },
+    {
+      "id": 120502, "bookId": 1205, "chapterNumber": 2,
+      "title": "Sexual Reproduction in Flowering Plants",
+      "topicCount": 8, "questionCount": 28, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 80, "pageCount": 32,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo102.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch2.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch2.pdf"
+    },
+    {
+      "id": 120503, "bookId": 1205, "chapterNumber": 3,
+      "title": "Human Reproduction",
+      "topicCount": 7, "questionCount": 24, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 70, "pageCount": 26,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo103.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch3.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch3.pdf"
+    },
+    {
+      "id": 120504, "bookId": 1205, "chapterNumber": 4,
+      "title": "Reproductive Health",
+      "topicCount": 5, "questionCount": 16, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 50, "pageCount": 18,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo104.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch4.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch4.pdf"
+    },
+    {
+      "id": 120505, "bookId": 1205, "chapterNumber": 5,
+      "title": "Principles of Inheritance and Variation",
+      "topicCount": 9, "questionCount": 32, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 95, "pageCount": 38,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo105.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch5.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch5.pdf"
+    },
+    {
+      "id": 120506, "bookId": 1205, "chapterNumber": 6,
+      "title": "Molecular Basis of Inheritance",
+      "topicCount": 10, "questionCount": 35, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 110, "pageCount": 44,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo106.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch6.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch6.pdf"
+    },
+    {
+      "id": 120507, "bookId": 1205, "chapterNumber": 7,
+      "title": "Evolution",
+      "topicCount": 7, "questionCount": 22, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 70, "pageCount": 26,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo107.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch7.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch7.pdf"
+    },
+    {
+      "id": 120508, "bookId": 1205, "chapterNumber": 8,
+      "title": "Human Health and Disease",
+      "topicCount": 7, "questionCount": 24, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 75, "pageCount": 28,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo108.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch8.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch8.pdf"
+    },
+    {
+      "id": 120509, "bookId": 1205, "chapterNumber": 9,
+      "title": "Strategies for Enhancement in Food Production",
+      "topicCount": 5, "questionCount": 16, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 55, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo109.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch9.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch9.pdf"
+    },
+    {
+      "id": 120510, "bookId": 1205, "chapterNumber": 10,
+      "title": "Microbes in Human Welfare",
+      "topicCount": 5, "questionCount": 16, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 55, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo110.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch10.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch10.pdf"
+    },
+    {
+      "id": 120511, "bookId": 1205, "chapterNumber": 11,
+      "title": "Biotechnology: Principles and Processes",
+      "topicCount": 7, "questionCount": 22, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 70, "pageCount": 26,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo111.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch11.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch11.pdf"
+    },
+    {
+      "id": 120512, "bookId": 1205, "chapterNumber": 12,
+      "title": "Biotechnology and its Applications",
+      "topicCount": 6, "questionCount": 18, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 60, "pageCount": 22,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo112.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch12.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch12.pdf"
+    },
+    {
+      "id": 120513, "bookId": 1205, "chapterNumber": 13,
+      "title": "Organisms and Populations",
+      "topicCount": 7, "questionCount": 22, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 70, "pageCount": 26,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo113.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch13.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch13.pdf"
+    },
+    {
+      "id": 120514, "bookId": 1205, "chapterNumber": 14,
+      "title": "Ecosystem",
+      "topicCount": 6, "questionCount": 20, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 60, "pageCount": 22,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo114.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch14.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch14.pdf"
+    },
+    {
+      "id": 120515, "bookId": 1205, "chapterNumber": 15,
+      "title": "Biodiversity and Conservation",
+      "topicCount": 5, "questionCount": 16, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 55, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo115.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch15.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch15.pdf"
+    },
+    {
+      "id": 120516, "bookId": 1205, "chapterNumber": 16,
+      "title": "Environmental Issues",
+      "topicCount": 5, "questionCount": 16, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 55, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lebo116.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/biology/ch16.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/biology/ch16.pdf"
+    },
+    {
+      "id": 120601, "bookId": 1206, "chapterNumber": 1,
+      "title": "Relations and Functions",
+      "topicCount": 6, "questionCount": 22, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 70, "pageCount": 28,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh101.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch1.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch1.pdf"
+    },
+    {
+      "id": 120602, "bookId": 1206, "chapterNumber": 2,
+      "title": "Inverse Trigonometric Functions",
+      "topicCount": 5, "questionCount": 18, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 60, "pageCount": 22,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh102.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch2.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch2.pdf"
+    },
+    {
+      "id": 120603, "bookId": 1206, "chapterNumber": 3,
+      "title": "Matrices",
+      "topicCount": 7, "questionCount": 28, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 80, "pageCount": 32,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh103.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch3.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch3.pdf"
+    },
+    {
+      "id": 120604, "bookId": 1206, "chapterNumber": 4,
+      "title": "Determinants",
+      "topicCount": 6, "questionCount": 24, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 75, "pageCount": 30,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh104.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch4.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch4.pdf"
+    },
+    {
+      "id": 120605, "bookId": 1206, "chapterNumber": 5,
+      "title": "Continuity and Differentiability",
+      "topicCount": 8, "questionCount": 30, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 90, "pageCount": 36,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh105.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch5.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch5.pdf"
+    },
+    {
+      "id": 120606, "bookId": 1206, "chapterNumber": 6,
+      "title": "Application of Derivatives",
+      "topicCount": 7, "questionCount": 26, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 80, "pageCount": 32,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh106.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch6.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch6.pdf"
+    },
+    {
+      "id": 120701, "bookId": 1207, "chapterNumber": 7,
+      "title": "Integrals",
+      "topicCount": 9, "questionCount": 34, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 100, "pageCount": 40,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh201.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch7.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch7.pdf"
+    },
+    {
+      "id": 120702, "bookId": 1207, "chapterNumber": 8,
+      "title": "Application of Integrals",
+      "topicCount": 5, "questionCount": 20, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 65, "pageCount": 24,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh202.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch8.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch8.pdf"
+    },
+    {
+      "id": 120703, "bookId": 1207, "chapterNumber": 9,
+      "title": "Differential Equations",
+      "topicCount": 7, "questionCount": 24, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 75, "pageCount": 30,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh203.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch9.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch9.pdf"
+    },
+    {
+      "id": 120704, "bookId": 1207, "chapterNumber": 10,
+      "title": "Vector Algebra",
+      "topicCount": 6, "questionCount": 22, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 70, "pageCount": 26,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh204.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch10.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch10.pdf"
+    },
+    {
+      "id": 120705, "bookId": 1207, "chapterNumber": 11,
+      "title": "Three Dimensional Geometry",
+      "topicCount": 6, "questionCount": 20, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 65, "pageCount": 24,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh205.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch11.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch11.pdf"
+    },
+    {
+      "id": 120706, "bookId": 1207, "chapterNumber": 12,
+      "title": "Linear Programming",
+      "topicCount": 4, "questionCount": 16, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 55, "pageCount": 20,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh206.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch12.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch12.pdf"
+    },
+    {
+      "id": 120707, "bookId": 1207, "chapterNumber": 13,
+      "title": "Probability",
+      "topicCount": 7, "questionCount": 28, "progressPercent": 0,
+      "status": "NOT_STARTED", "hasRead": true, "hasSolutions": true, "hasMCQ": true, "hasNotes": true,
+      "estimatedMinutes": 80, "pageCount": 32,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/lemh207.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/science/maths/ch13.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/science/maths/ch13.pdf"
+    }
+  ]
+}
