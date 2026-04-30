@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_bio_ch7_q1",
+      "chapterId": "bio_ch7",
+      "question": "What is the organisation of similar cells along with intercellular substances performing a specific function called?",
+      "options": [
+        "Organ",
+        "Tissue",
+        "Organ system",
+        "Organelle"
+      ],
+      "correctIndex": 1,
+      "explanation": "In multicellular animals, a group of similar cells alongwith intercellular substances perform a specific function. Such an organisation is called tissue.",
+      "ncertPage": 79,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q2",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following organs in the human body consists of all the four basic types of tissues?",
+      "options": [
+        "Liver",
+        "Lung",
+        "Heart",
+        "Kidney"
+      ],
+      "correctIndex": 2,
+      "explanation": "For example, our heart consists of all the four types of tissues, i.e., epithelial, connective, muscular and neural.",
+      "ncertPage": 80,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q3",
+      "chapterId": "bio_ch7",
+      "question": "The word anatomy conventionally is used for the study of the morphology of which of the following?",
+      "options": [
+        "External appearance",
+        "Internal organs",
+        "Tissues",
+        "Cells"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word anatomy conventionally is used for the study of morphology of internal organs in the animals.",
+      "ncertPage": 80,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q4",
+      "chapterId": "bio_ch7",
+      "question": "What is the most common species of frog found in India?",
+      "options": [
+        "Rana catesbeiana",
+        "Rana tigrina",
+        "Hyla cinerea",
+        "Bufo bufo"
+      ],
+      "correctIndex": 1,
+      "explanation": "The most common species of frog found in India is Rana tigrina.",
+      "ncertPage": 80,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q5",
+      "chapterId": "bio_ch7",
+      "question": "Frogs do not have a constant body temperature. Such animals are referred to as:",
+      "options": [
+        "Homeotherms",
+        "Poikilotherms",
+        "Endotherms",
+        "Warm-blooded"
+      ],
+      "correctIndex": 1,
+      "explanation": "They do not have constant body temperature i.e., their body temperature varies with the temperature of the environment. Such animals are called cold blooded or poikilotherms.",
+      "ncertPage": 80,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q6",
+      "chapterId": "bio_ch7",
+      "question": "The protective coloration exhibited by frogs to hide from their enemies is known as:",
+      "options": [
+        "Hibernation",
+        "Aestivation",
+        "Mimicry",
+        "Metamorphosis"
+      ],
+      "correctIndex": 2,
+      "explanation": "They have the ability to change the colour to hide them from their enemies (camouflage). This protective coloration is called mimicry.",
+      "ncertPage": 80,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q7",
+      "chapterId": "bio_ch7",
+      "question": "Where do frogs take shelter during peak summer to protect themselves from extreme heat?",
+      "options": [
+        "Shallow ponds",
+        "Deep burrows",
+        "Under tree barks",
+        "Inside hollow logs"
+      ],
+      "correctIndex": 1,
+      "explanation": "During this period they take shelter in deep burrows to protect them from extreme heat and cold. This is known as summer sleep (aestivation)...",
+      "ncertPage": 80,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q8",
+      "chapterId": "bio_ch7",
+      "question": "Why is the skin of a frog always smooth and slippery?",
+      "options": [
+        "Due to constant swimming",
+        "Due to the presence of scales",
+        "Due to the presence of mucus",
+        "Due to a waxy coating"
+      ],
+      "correctIndex": 2,
+      "explanation": "The skin is smooth and slippery due to the presence of mucus.",
+      "ncertPage": 80,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q9",
+      "chapterId": "bio_ch7",
+      "question": "How does a frog intake water into its body?",
+      "options": [
+        "It drinks water through its mouth",
+        "It absorbs water through its skin",
+        "It gets water exclusively from food",
+        "It inhales water vapour through lungs"
+      ],
+      "correctIndex": 1,
+      "explanation": "The frog never drinks water but absorb it through the skin.",
+      "ncertPage": 80,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q10",
+      "chapterId": "bio_ch7",
+      "question": "The body of a frog is divisible into which of the following regions?",
+      "options": [
+        "Head, neck, and trunk",
+        "Head, trunk, and tail",
+        "Head and trunk only",
+        "Cephalothorax and abdomen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Body of a frog is divisible into head and trunk (Figure 7.1). A neck and tail are absent.",
+      "ncertPage": 80,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q11",
+      "chapterId": "bio_ch7",
+      "question": "Which structure protects the eyes of a frog while it is in water?",
+      "options": [
+        "Eyelashes",
+        "Nictitating membrane",
+        "Cornea",
+        "Sclera"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eyes are bulged and covered by a nictitating membrane that protects them while in water.",
+      "ncertPage": 80,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q12",
+      "chapterId": "bio_ch7",
+      "question": "Which organ in the frog receives sound signals on either side of the eyes?",
+      "options": [
+        "Pinna",
+        "Tympanum",
+        "Cochlea",
+        "Auditory meatus"
+      ],
+      "correctIndex": 1,
+      "explanation": "On either side of eyes a membranous tympanum (ear) receives sound signals.",
+      "ncertPage": 80,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q13",
+      "chapterId": "bio_ch7",
+      "question": "How many digits are present on the fore limbs and hind limbs of a frog, respectively?",
+      "options": [
+        "Five and five",
+        "Four and four",
+        "Five and four",
+        "Four and five"
+      ],
+      "correctIndex": 3,
+      "explanation": "The hind limbs end in five digits and they are larger and muscular than fore limbs that end in four digits.",
+      "ncertPage": 81,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q14",
+      "chapterId": "bio_ch7",
+      "question": "Which feature of the frog's hind limbs helps it in swimming?",
+      "options": [
+        "Sharp claws",
+        "Webbed digits",
+        "Long femur",
+        "Sticky pads"
+      ],
+      "correctIndex": 1,
+      "explanation": "Feet have webbed digits that help in swimming.",
+      "ncertPage": 81,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q15",
+      "chapterId": "bio_ch7",
+      "question": "Male frogs can be distinguished from female frogs by the presence of:",
+      "options": [
+        "A longer tail",
+        "Sound producing vocal sacs",
+        "Brighter dorsal color",
+        "Larger eyes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Male frogs can be distinguished by the presence of sound producing vocal sacs and also a copulatory pad...",
+      "ncertPage": 81,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q16",
+      "chapterId": "bio_ch7",
+      "question": "Where is the copulatory pad located in male frogs?",
+      "options": [
+        "On the hind limbs",
+        "On the vocal sacs",
+        "On the first digit of the fore limbs",
+        "On the tympanum"
+      ],
+      "correctIndex": 2,
+      "explanation": "...and also a copulatory pad on the first digit of the fore limbs which are absent in female frogs.",
+      "ncertPage": 81,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q17",
+      "chapterId": "bio_ch7",
+      "question": "Why is the alimentary canal of a frog relatively short?",
+      "options": [
+        "Because frogs are herbivores",
+        "Because frogs do not chew their food",
+        "Because frogs are carnivores",
+        "Because frogs have a high metabolic rate"
+      ],
+      "correctIndex": 2,
+      "explanation": "The alimentary canal is short because frogs are carnivores and hence the length of intestine is reduced.",
+      "ncertPage": 81,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q18",
+      "chapterId": "bio_ch7",
+      "question": "Which organ in the frog secretes bile?",
+      "options": [
+        "Gall bladder",
+        "Pancreas",
+        "Stomach",
+        "Liver"
+      ],
+      "correctIndex": 3,
+      "explanation": "Liver secretes bile that is stored in the gall bladder.",
+      "ncertPage": 81,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q19",
+      "chapterId": "bio_ch7",
+      "question": "What is the characteristic shape of a frog's tongue used for capturing prey?",
+      "options": [
+        "Long and pointed",
+        "Short and sticky",
+        "Bilobed",
+        "Tubular"
+      ],
+      "correctIndex": 2,
+      "explanation": "Food is captured by the bilobed tongue.",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q20",
+      "chapterId": "bio_ch7",
+      "question": "Partially digested food that is passed from the stomach to the duodenum is called:",
+      "options": [
+        "Bolus",
+        "Chyle",
+        "Chyme",
+        "Faeces"
+      ],
+      "correctIndex": 2,
+      "explanation": "Partially digested food called chyme is passed from stomach to the first part of the small intestine, the duodenum.",
+      "ncertPage": 82,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q21",
+      "chapterId": "bio_ch7",
+      "question": "Through which structure does the duodenum receive bile and pancreatic juices?",
+      "options": [
+        "Hepatic duct",
+        "Cystic duct",
+        "Common bile duct",
+        "Pancreatic duct"
+      ],
+      "correctIndex": 2,
+      "explanation": "The duodenum receives bile from gall bladder and pancreatic juices from the pancreas through a common bile duct.",
+      "ncertPage": 82,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q22",
+      "chapterId": "bio_ch7",
+      "question": "In the digestive system of a frog, what is the specific function of bile?",
+      "options": [
+        "Digesting proteins",
+        "Digesting carbohydrates",
+        "Emulsifying fat",
+        "Neutralizing stomach acid"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bile emulsifies fat and pancreatic juices digest carbohydrates and proteins.",
+      "ncertPage": 82,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q23",
+      "chapterId": "bio_ch7",
+      "question": "The numerous finger-like folds in the inner wall of the frog's intestine that absorb digested food are called:",
+      "options": [
+        "Cilia",
+        "Flagella",
+        "Villi and microvilli",
+        "Rugae"
+      ],
+      "correctIndex": 2,
+      "explanation": "Digested food is absorbed by the numerous finger-like folds in the inner wall of intestine called villi and microvilli.",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q24",
+      "chapterId": "bio_ch7",
+      "question": "When a frog is in water, which organ acts as the sole aquatic respiratory organ?",
+      "options": [
+        "Gills",
+        "Buccal cavity",
+        "Lungs",
+        "Skin"
+      ],
+      "correctIndex": 3,
+      "explanation": "In water, skin acts as aquatic respiratory organ (cutaneous respiration).",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q25",
+      "chapterId": "bio_ch7",
+      "question": "During aestivation and hibernation, gaseous exchange in a frog takes place through the:",
+      "options": [
+        "Lungs",
+        "Buccal cavity",
+        "Skin",
+        "Nostrils"
+      ],
+      "correctIndex": 2,
+      "explanation": "During aestivation and hibernation gaseous exchange takes place through skin.",
+      "ncertPage": 82,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q26",
+      "chapterId": "bio_ch7",
+      "question": "How many chambers does the heart of a frog have?",
+      "options": [
+        "Two atria and two ventricles",
+        "One atrium and one ventricle",
+        "Two atria and one ventricle",
+        "One atrium and two ventricles"
+      ],
+      "correctIndex": 2,
+      "explanation": "It has three chambers, two atria and one ventricle...",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q27",
+      "chapterId": "bio_ch7",
+      "question": "What is the membrane that covers the heart of a frog called?",
+      "options": [
+        "Pleura",
+        "Peritoneum",
+        "Pericardium",
+        "Meninges"
+      ],
+      "correctIndex": 2,
+      "explanation": "...and is covered by a membrane called pericardium.",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q28",
+      "chapterId": "bio_ch7",
+      "question": "Which triangular structure joins the right atrium of the frog's heart and receives blood through the vena cava?",
+      "options": [
+        "Conus arteriosus",
+        "Sinus venosus",
+        "Aortic arches",
+        "Pulmonary vein"
+      ],
+      "correctIndex": 1,
+      "explanation": "A triangular structure called sinus venosus joins the right atrium. It receives blood through the major veins called vena cava.",
+      "ncertPage": 82,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q29",
+      "chapterId": "bio_ch7",
+      "question": "The ventricle of a frog's heart opens into a sac-like structure on the ventral side called the:",
+      "options": [
+        "Sinus venosus",
+        "Aorta",
+        "Conus arteriosus",
+        "Vena cava"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ventricle opens into a sac-like conus arteriosus on the ventral side of the heart.",
+      "ncertPage": 82,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q30",
+      "chapterId": "bio_ch7",
+      "question": "The special venous connection between the liver and the intestine in a frog is called the:",
+      "options": [
+        "Renal portal system",
+        "Hepatic portal system",
+        "Pulmonary system",
+        "Systemic circulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Special venous connection between liver and intestine... is called hepatic portal system...",
+      "ncertPage": 82,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q31",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following statements is true regarding the red blood cells (RBCs) of a frog?",
+      "options": [
+        "They lack a nucleus.",
+        "They are nucleated and contain haemoglobin.",
+        "They lack haemoglobin.",
+        "They are the only cells in the lymph."
+      ],
+      "correctIndex": 1,
+      "explanation": "RBC's are nucleated and contain red coloured pigment namely haemoglobin.",
+      "ncertPage": 82,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q32",
+      "chapterId": "bio_ch7",
+      "question": "How does the lymph of a frog differ from its blood?",
+      "options": [
+        "Lymph contains more RBCs.",
+        "Lymph lacks a few proteins and RBCs.",
+        "Lymph flows exclusively in arteries.",
+        "Lymph is pumped directly by the heart."
+      ],
+      "correctIndex": 1,
+      "explanation": "The lymph is different from blood. It lacks few proteins and RBCs.",
+      "ncertPage": 82,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q33",
+      "chapterId": "bio_ch7",
+      "question": "What are the structural and functional units of the frog's kidney called?",
+      "options": [
+        "Neurons",
+        "Malpighian tubules",
+        "Uriniferous tubules or nephrons",
+        "Flame cells"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each kidney is composed of several structural and functional units called uriniferous tubules or nephrons.",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q34",
+      "chapterId": "bio_ch7",
+      "question": "In male frogs, the ureters emerge from the kidneys and act as the:",
+      "options": [
+        "Vas deferens",
+        "Urinogenital duct",
+        "Seminal vesicle",
+        "Bidder's canal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two ureters emerge from the kidneys in the male frogs. The ureters act as urinogenital duct which opens into the cloaca.",
+      "ncertPage": 82,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q35",
+      "chapterId": "bio_ch7",
+      "question": "How do the ureters and oviduct open into the cloaca in female frogs?",
+      "options": [
+        "They open through a common urinogenital duct.",
+        "They do not open into the cloaca.",
+        "They open separately.",
+        "They open directly into the urinary bladder."
+      ],
+      "correctIndex": 2,
+      "explanation": "In females the ureters and oviduct open seperately in the cloaca.",
+      "ncertPage": 83,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q36",
+      "chapterId": "bio_ch7",
+      "question": "What type of nitrogenous waste is primarily excreted by a frog?",
+      "options": [
+        "Ammonia",
+        "Uric acid",
+        "Urea",
+        "Amino acids"
+      ],
+      "correctIndex": 2,
+      "explanation": "The frog excretes urea and thus is a ureotelic animal.",
+      "ncertPage": 83,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q37",
+      "chapterId": "bio_ch7",
+      "question": "How many pairs of cranial nerves arise from the brain of a frog?",
+      "options": [
+        "Eight pairs",
+        "Ten pairs",
+        "Twelve pairs",
+        "Fourteen pairs"
+      ],
+      "correctIndex": 1,
+      "explanation": "There are ten pairs of cranial nerves arising from the brain.",
+      "ncertPage": 83,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q38",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following structures is NOT a part of the frog's forebrain?",
+      "options": [
+        "Olfactory lobes",
+        "Paired cerebral hemispheres",
+        "Unpaired diencephalon",
+        "Optic lobes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Forebrain includes olfactory lobes, paired cerebral hemispheres and unpaired diencephalon. The midbrain is characterised by a pair of optic lobes.",
+      "ncertPage": 83,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q39",
+      "chapterId": "bio_ch7",
+      "question": "The midbrain of a frog is specifically characterised by a pair of:",
+      "options": [
+        "Olfactory lobes",
+        "Optic lobes",
+        "Cerebral hemispheres",
+        "Cerebellar hemispheres"
+      ],
+      "correctIndex": 1,
+      "explanation": "The midbrain is characterised by a pair of optic lobes.",
+      "ncertPage": 83,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q40",
+      "chapterId": "bio_ch7",
+      "question": "The medulla oblongata passes out through the foramen magnum and continues into the:",
+      "options": [
+        "Cerebellum",
+        "Spinal cord",
+        "Cranium",
+        "Optic nerve"
+      ],
+      "correctIndex": 1,
+      "explanation": "The medulla oblongata passes out through the foramen magnum and continues into spinal cord...",
+      "ncertPage": 83,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q41",
+      "chapterId": "bio_ch7",
+      "question": "Which sense organs in the frog are well-organised structures rather than just cellular aggregations around nerve endings?",
+      "options": [
+        "Organs of touch and taste",
+        "Nasal epithelium and sensory papillae",
+        "Eyes and internal ears",
+        "Taste buds and tympanum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Out of these, eyes and internal ears are well-organised structures and the rest are cellular aggregations around nerve endings.",
+      "ncertPage": 83,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q42",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following describes the eyes of a frog?",
+      "options": [
+        "They are compound eyes with multiple units.",
+        "They are simple eyes possessing only one unit.",
+        "They are located internally without any external visibility.",
+        "They lack a nictitating membrane."
+      ],
+      "correctIndex": 1,
+      "explanation": "These are simple eyes (possessing only one unit).",
+      "ncertPage": 83,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q43",
+      "chapterId": "11_bio_ch7",
+      "question": "In the male frog, the testes are adhered to the upper part of the kidneys by a double fold of peritoneum called the:",
+      "options": [
+        "Mesorchium",
+        "Pericardium",
+        "Pleura",
+        "Meninges"
+      ],
+      "correctIndex": 0,
+      "explanation": "...which are found adhered to the upper part of kidneys by a double fold of peritoneum called mesorchium.",
+      "ncertPage": 83,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q44",
+      "chapterId": "bio_ch7",
+      "question": "How many vasa efferentia arise from the testes of a male frog?",
+      "options": [
+        "2-4",
+        "5-8",
+        "10-12",
+        "15-20"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vasa efferentia are 10-12 in number that arise from testes.",
+      "ncertPage": 83,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q45",
+      "chapterId": "bio_ch7",
+      "question": "The vasa efferentia enter the kidneys on their side and open directly into:",
+      "options": [
+        "The urinary bladder",
+        "The cloaca",
+        "Bidder's canal",
+        "The rectum"
+      ],
+      "correctIndex": 2,
+      "explanation": "They enter the kidneys on their side and open into Bidder's canal.",
+      "ncertPage": 83,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q46",
+      "chapterId": "bio_ch7",
+      "question": "What is the functional relationship between the ovaries and the kidneys in a female frog?",
+      "options": [
+        "Ovaries share a duct with the kidneys.",
+        "Ovaries are connected to the Bidder's canal in the kidney.",
+        "There is no functional connection with the kidneys.",
+        "Ovaries secrete hormones directly into the kidneys."
+      ],
+      "correctIndex": 2,
+      "explanation": "The ovaries are situated near kidneys and there is no functional connection with kidneys.",
+      "ncertPage": 84,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q47",
+      "chapterId": "bio_ch7",
+      "question": "Approximately how many ova can a mature female frog lay at a time?",
+      "options": [
+        "500 to 1000",
+        "1000 to 1500",
+        "2500 to 3000",
+        "5000 to 10000"
+      ],
+      "correctIndex": 2,
+      "explanation": "A mature female can lay 2500 to 3000 ova at a time.",
+      "ncertPage": 84,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q48",
+      "chapterId": "bio_ch7",
+      "question": "What type of fertilisation takes place in frogs?",
+      "options": [
+        "Internal fertilisation on land",
+        "Internal fertilisation in water",
+        "External fertilisation on land",
+        "External fertilisation in water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fertilisation is external and takes place in water.",
+      "ncertPage": 84,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q49",
+      "chapterId": "bio_ch7",
+      "question": "The larval stage involved in the development of a frog is called a:",
+      "options": [
+        "Nymph",
+        "Caterpillar",
+        "Tadpole",
+        "Pupa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Development involves a larval stage called tadpole.",
+      "ncertPage": 84,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch7_q50",
+      "chapterId": "bio_ch7",
+      "question": "According to the summary, which tissues are sheet-like, lining the body's surface, cavities, ducts, and tubes?",
+      "options": [
+        "Connective tissues",
+        "Muscular tissues",
+        "Neural tissues",
+        "Epithelia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Epithelia are sheet like tissues lining the body's surface and its cavities, ducts and tubes.",
+      "ncertPage": 84,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    }
+  ]
+}

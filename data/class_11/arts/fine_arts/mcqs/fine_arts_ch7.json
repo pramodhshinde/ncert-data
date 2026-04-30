@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_fine_arts_ch7_q1",
+      "chapterId": "fine_arts_ch7",
+      "question": "What is the ancient process used by Indian sculptors for bronze casting known as?",
+      "options": [
+        "Repoussé method",
+        "Cire-perdu or 'lost-wax' process",
+        "Sand casting",
+        "Cold forging"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cire-perdu or 'lost-wax' process for casting was learnt as long ago as the Indus Valley Culture.",
+      "ncertPage": 103,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q2",
+      "chapterId": "fine_arts_ch7",
+      "question": "Which of the following metals are mixed to create the alloy called bronze?",
+      "options": [
+        "Copper, silver, and gold",
+        "Iron, zinc, and lead",
+        "Copper, zinc, and tin",
+        "Brass, tin, and silver"
+      ],
+      "correctIndex": 2,
+      "explanation": "Along with it was discovered the process of making alloy of metals by mixing copper, zinc and tin which is called bronze.",
+      "ncertPage": 103,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q3",
+      "chapterId": "fine_arts_ch7",
+      "question": "Which artifact is considered the earliest bronze sculpture datable to 2500 BCE?",
+      "options": [
+        "The Chariot from Daimabad",
+        "The Jain tirthankara from Chausa",
+        "The 'Dancing Girl' from Mohenjodaro",
+        "The standing Buddha from Sultanganj"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perhaps the 'Dancing Girl' from Mohenjodaro is the earliest bronze sculpture datable to 2500 BCE.",
+      "ncertPage": 103,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q4",
+      "chapterId": "fine_arts_ch7",
+      "question": "What is a distinguishing physical characteristic of the 'Dancing Girl' bronze sculpture?",
+      "options": [
+        "She is shown holding a musical instrument",
+        "The limbs and torso are simplified in tubular form",
+        "She is depicted with highly muscular details",
+        "She wears an elaborate crown"
+      ],
+      "correctIndex": 1,
+      "explanation": "The limbs and torso of this female figurine are simplified in tubular form.",
+      "ncertPage": 103,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q5",
+      "chapterId": "fine_arts_ch7",
+      "question": "The bronze statuettes, including a 'Chariot', datable to 1500 BCE were discovered from which archaeological excavation?",
+      "options": [
+        "Mohenjodaro",
+        "Harappa",
+        "Daimabad",
+        "Lothal"
+      ],
+      "correctIndex": 2,
+      "explanation": "A similar group of bronze statuettes have been discovered from archaeological excavation at Daimabad (Maharashtra) datable to 1500 BCE.",
+      "ncertPage": 103,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q6",
+      "chapterId": "fine_arts_ch7",
+      "question": "How are the driver and bulls modeled in the Daimabad 'Chariot' bronze statuette?",
+      "options": [
+        "The driver is elongated, and the bulls are sturdy",
+        "The driver is muscular, and the bulls are delicate",
+        "Both are highly realistic and perfectly proportioned",
+        "The driver is completely abstract, and the bulls are missing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Significant is the 'Chariot', the wheels of which are represented in simple circular shapes while the driver or human rider has been elongated, and the bulls in the forefront are modelled in sturdy forms.",
+      "ncertPage": 103,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q7",
+      "chapterId": "fine_arts_ch7",
+      "question": "The Jain tirthankara bronze images discovered from Chausa in Bihar belong to which period?",
+      "options": [
+        "Maurya Period",
+        "Kushana Period",
+        "Gupta Period",
+        "Pala Period"
+      ],
+      "correctIndex": 1,
+      "explanation": "Interesting images of Jain tirthankaras have been discovered from Chausa, Bihar, belonging to the Kushana Period during second century CE.",
+      "ncertPage": 103,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q8",
+      "chapterId": "fine_arts_ch7",
+      "question": "How is the Jain tirthankara Adinath (or Vrishabhnath) uniquely identified in bronze sculptures?",
+      "options": [
+        "By a halo around his head",
+        "By short curly hair",
+        "By long hairlocks dropping to his shoulders",
+        "By a royal crown"
+      ],
+      "correctIndex": 2,
+      "explanation": "Remarkable is the depiction of Adinath or Vrishabhnath, who is identified with long hairlocks dropping to his shoulders.",
+      "ncertPage": 103,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q9",
+      "chapterId": "fine_arts_ch7",
+      "question": "Other than Adinath, how are the majority of the Jain tirthankaras depicted regarding their hair?",
+      "options": [
+        "Bald",
+        "With long flowing hair",
+        "With short curly hair",
+        "Wearing a turban"
+      ],
+      "correctIndex": 2,
+      "explanation": "Otherwise the tirthankaras are noted by their short curly hair.",
+      "ncertPage": 103,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q10",
+      "chapterId": "fine_arts_ch7",
+      "question": "A famous hoard of Jain bronzes, dated between the end of the fifth and seventh century CE, was found at which location in Gujarat?",
+      "options": [
+        "Lothal",
+        "Surkotada",
+        "Akota",
+        "Dholavira"
+      ],
+      "correctIndex": 2,
+      "explanation": "A famous hoard of Jain bronzes was found at Akota, on the outskirts of Baroda, dated between the end of the fifth and the end of the seventh century CE.",
+      "ncertPage": 103,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q11",
+      "chapterId": "fine_arts_ch7",
+      "question": "Which materials were often inlaid into the finely cast Akota bronzes to bring out details like eyes and crowns?",
+      "options": [
+        "Gold and precious stones",
+        "Silver and copper",
+        "Ivory and pearl",
+        "Enamel and glass"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finely cast through the lost-wax process, these bronzes were often subsequently inlaid with silver and copper to bring out the eyes, crowns and details of the textiles...",
+      "ncertPage": 104,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q12",
+      "chapterId": "fine_arts_ch7",
+      "question": "Where are many of the famous Jain bronzes from Chausa currently kept?",
+      "options": [
+        "National Museum, New Delhi",
+        "Salar Jung Museum",
+        "Patna Museum",
+        "Indian Museum, Kolkata"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many famous Jain bronzes from Chausa in Bihar are now kept in the Patna Museum.",
+      "ncertPage": 104,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q13",
+      "chapterId": "fine_arts_ch7",
+      "question": "What new format was invented for Jain tirthankara bronze images found in the Akota hoard?",
+      "options": [
+        "Standing on a lotus pedestal",
+        "Seated on a throne",
+        "Riding a chariot",
+        "Reclining on a serpent"
+      ],
+      "correctIndex": 1,
+      "explanation": "A new format was invented in which tirthankaras are seated on a throne; they can be single or combined in a group...",
+      "ncertPage": 104,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q14",
+      "chapterId": "fine_arts_ch7",
+      "question": "In Jain bronze sculptures, Chakreshvari is the Shasanadevi of which tirthankara?",
+      "options": [
+        "Mahavira",
+        "Parshvanath",
+        "Adinath",
+        "Neminath"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chakreshvari is the Shasanadevi of Adinath and Ambika is of Neminath.",
+      "ncertPage": 104,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q15",
+      "chapterId": "fine_arts_ch7",
+      "question": "Ambika is represented as the Shasanadevi of which prominent Jain tirthankara?",
+      "options": [
+        "Neminath",
+        "Adinath",
+        "Mahavira",
+        "Vrishabhnath"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chakreshvari is the Shasanadevi of Adinath and Ambika is of Neminath.",
+      "ncertPage": 104,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q16",
+      "chapterId": "fine_arts_ch7",
+      "question": "In what mudra is the right hand typically posed in the standing Buddha bronze images from the Gupta and Post-Gupta periods?",
+      "options": [
+        "Dhyana mudra",
+        "Bhumisparsha mudra",
+        "Dharmachakra mudra",
+        "Abhaya mudra"
+      ],
+      "correctIndex": 3,
+      "explanation": "Many standing Buddha images with right hand in abhaya mudra were cast in North India... during the Gupta and Post-Gupta periods...",
+      "ncertPage": 104,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q17",
+      "chapterId": "fine_arts_ch7",
+      "question": "What is the traditional name for the monk's robe wrapped to cover the shoulders of the Buddha images?",
+      "options": [
+        "Ushnisha",
+        "Sanghati",
+        "Dhoti",
+        "Antaravasaka"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sanghati or the monk's robe is wrapped to cover the shoulders which turns over the right arm...",
+      "ncertPage": 104,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q18",
+      "chapterId": "fine_arts_ch7",
+      "question": "In the typical bronze Buddha from Dhanesar Khera, Uttar Pradesh, how are the folds of the drapery treated?",
+      "options": [
+        "They are completely foldless",
+        "They cling to the body like wet silk",
+        "In a series of drooping down curves",
+        "In sharp, geometric lines"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the typical bronze from Dhanesar Khera, Uttar Pradesh, the folds of the drapery are treated as in the Mathura style, i.e., in a series of drooping down curves.",
+      "ncertPage": 105,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q19",
+      "chapterId": "fine_arts_ch7",
+      "question": "What is the hallmark of the Sarnath-style bronzes, as seen in the outstanding Buddha image at Sultanganj?",
+      "options": [
+        "Foldless drapery",
+        "Heavy ornamentation",
+        "Drooping down curves",
+        "Multiple arms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sarnath-style bronzes have foldless drapery. The outstanding example is that of the Buddha image at Sultanganj, Bihar...",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q20",
+      "chapterId": "fine_arts_ch7",
+      "question": "Which style influenced the Vakataka bronze images of the Buddha from Phophnar, Maharashtra?",
+      "options": [
+        "Gandhara style",
+        "Mathura style",
+        "Amaravati style",
+        "Sarnath style"
+      ],
+      "correctIndex": 2,
+      "explanation": "They show the influence of the Amaravati style of Andhra Pradesh in the third century CE...",
+      "ncertPage": 105,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q21",
+      "chapterId": "fine_arts_ch7",
+      "question": "What happens to the drapery at the level of the ankles in the Phophnar Buddha bronze figures?",
+      "options": [
+        "It falls perfectly straight",
+        "It makes a conspicuous curvilinear turn",
+        "It wraps completely around the feet",
+        "It stops abruptly at the knees"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the level of the ankles of the Buddha figure the drapery makes a conspicuous curvilinear turn, as it is held by the left hand.",
+      "ncertPage": 106,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q22",
+      "chapterId": "fine_arts_ch7",
+      "question": "What was an additional practical importance of the Gupta and Vakataka bronzes for the Buddhist monks?",
+      "options": [
+        "They were used as currency",
+        "They were portable and carried from place to place",
+        "They served as weights in trade",
+        "They were melted down for tools"
+      ],
+      "correctIndex": 1,
+      "explanation": "The additional importance of the Gupta and Vakataka bronzes is that they were portable and monks carried them from place to place for the purpose of individual worship...",
+      "ncertPage": 106,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q23",
+      "chapterId": "fine_arts_ch7",
+      "question": "In the traditional lost-wax process, what material is first used to make the model of the image?",
+      "options": [
+        "Clay",
+        "Plaster of Paris",
+        "Pure beeswax",
+        "Wood"
+      ],
+      "correctIndex": 2,
+      "explanation": "First a wax model of the image is made by hand of pure beeswax that has first been melted over an open fire...",
+      "ncertPage": 105,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q24",
+      "chapterId": "fine_arts_ch7",
+      "question": "In the lost-wax technique, what is the 'pichki' or 'pharni' used for?",
+      "options": [
+        "To melt the wax over the fire",
+        "To squeeze the wax into noodle-like shapes",
+        "To polish the final bronze image",
+        "To mix the clay paste"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is then pressed through a pichki or pharni — which squeezes the wax into noodle-like shape.",
+      "ncertPage": 105,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q25",
+      "chapterId": "fine_arts_ch7",
+      "question": "What are the components of the thick paste used to cover the wax image in the lost-wax process?",
+      "options": [
+        "Limestone, ash, and water",
+        "Equal parts of clay, sand, and cow-dung",
+        "Crushed bricks and mud",
+        "Resin and sawdust"
+      ],
+      "correctIndex": 1,
+      "explanation": "The image is now covered with a thick coating of paste, made of equal parts of clay, sand and cow-dung.",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q26",
+      "chapterId": "fine_arts_ch7",
+      "question": "According to the traditional lost-wax process description, how does the weight of the metal to be used compare to the weight of the wax?",
+      "options": [
+        "It is half the weight",
+        "It is equal to the weight",
+        "It is five times the weight",
+        "It is ten times the weight"
+      ],
+      "correctIndex": 3,
+      "explanation": "The weight of the metal to be used is ten times that of wax. (The wax is weighed before starting the entire process.)",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q27",
+      "chapterId": "fine_arts_ch7",
+      "question": "Which of the following is NOT one of the five metals in the alloy sometimes used to cast bronze images?",
+      "options": [
+        "Gold",
+        "Silver",
+        "Iron",
+        "Lead"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sometimes an alloy of five metals — gold, silver, copper, brass and lead — is used to cast bronze images.",
+      "ncertPage": 105,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q28",
+      "chapterId": "fine_arts_ch7",
+      "question": "What specific atmosphere is maintained while the firing process is carried out during lost-wax casting?",
+      "options": [
+        "Loud chanting of mantras",
+        "Dead silence",
+        "Continuous beating of drums",
+        "Singing of hymns"
+      ],
+      "correctIndex": 1,
+      "explanation": "The firing process is carried out almost like a religious ritual and all the steps take place in dead silence.",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q29",
+      "chapterId": "fine_arts_ch7",
+      "question": "What is the four-headed Vishnu worshipped in the regions of Himachal Pradesh and Kashmir known as?",
+      "options": [
+        "Trivikrama",
+        "Chaturanana or Vaikuntha Vishnu",
+        "Narayana",
+        "Anantashayana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Four-headed Vishnu, also known as Chaturanana or Vaikuntha Vishnu, was worshipped in these regions.",
+      "ncertPage": 106,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q30",
+      "chapterId": "fine_arts_ch7",
+      "question": "In the Chaturanana (Vaikuntha) Vishnu image, what do the central, side, and back faces represent?",
+      "options": [
+        "Brahma, Vishnu, and Shiva",
+        "Vasudeva, Narasimha, and Varaha",
+        "Rama, Krishna, and Balarama",
+        "Matsya, Kurma, and Kalki"
+      ],
+      "correctIndex": 1,
+      "explanation": "While the central face represents Vasudeva, the other two faces are that of Narasimha and Varaha.",
+      "ncertPage": 106,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q31",
+      "chapterId": "fine_arts_ch7",
+      "question": "Around the ninth century, under which dynasty did a prominent school of bronze-casting emerge in Buddhist centres like Nalanda?",
+      "options": [
+        "Gupta Dynasty",
+        "Pala Dynasty",
+        "Sena Dynasty",
+        "Karkota Dynasty"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Buddhist centres like Nalanda, a school of bronze-casting emerged around the ninth century during the rule of the Pala Dynasty in Bihar and Bengal regions.",
+      "ncertPage": 107,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q32",
+      "chapterId": "fine_arts_ch7",
+      "question": "At which site near Nalanda were sculptors able to revive the classical style of the Gupta period in their bronzes?",
+      "options": [
+        "Sarnath",
+        "Bodhgaya",
+        "Kurkihar",
+        "Vaishali"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the gap of a few centuries the sculptors at Kurkihar near Nalanda were able to revive the classical style of the Gupta period.",
+      "ncertPage": 107,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q33",
+      "chapterId": "fine_arts_ch7",
+      "question": "Which female goddess became very popular as part of the growth of the Vajrayana phase in Buddhism, often depicted seated on a throne with a curvilinear lotus stalk?",
+      "options": [
+        "Parvati",
+        "Tara",
+        "Ambika",
+        "Chakreshvari"
+      ],
+      "correctIndex": 1,
+      "explanation": "Images of Tara became very popular. Seated on a throne, she is accompanied by a growing curvilinear lotus stalk and her right hand is in the abhaya mudra.",
+      "ncertPage": 107,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q34",
+      "chapterId": "fine_arts_ch7",
+      "question": "During which period were some of the most beautiful and exquisite statues produced in Tamil Nadu?",
+      "options": [
+        "Pallava Period (8th-9th century)",
+        "Chola Period (10th-12th century)",
+        "Vijayanagara Period (16th century)",
+        "Gupta Period (4th-6th century)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Although bronze images were modelled and cast during the Pallava Period... some of the most beautiful and exquisite statues were produced during the Chola Period in Tamil Nadu from the tenth to the twelfth century.",
+      "ncertPage": 107,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q35",
+      "chapterId": "fine_arts_ch7",
+      "question": "In which South Indian town is the technique and art of fashioning bronze images still skillfully practiced today?",
+      "options": [
+        "Thanjavur",
+        "Madurai",
+        "Kumbakonam",
+        "Tirupati"
+      ],
+      "correctIndex": 2,
+      "explanation": "The technique and art of fashioning bronze images is still skillfully practised in South India, particularly in Kumbakonam.",
+      "ncertPage": 107,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q36",
+      "chapterId": "fine_arts_ch7",
+      "question": "Who was the distinguished widowed Chola queen known as a patron of bronze art during the tenth century?",
+      "options": [
+        "Tirumalamba",
+        "Chinnadevi",
+        "Sembiyan Maha Devi",
+        "Loka Mahadevi"
+      ],
+      "correctIndex": 2,
+      "explanation": "The distinguished patron during the tenth century was the widowed Chola queen, Sembiyan Maha Devi.",
+      "ncertPage": 107,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q37",
+      "chapterId": "fine_arts_ch7",
+      "question": "In the Nataraja bronze sculpture, what does Shiva suppress with the foot of his right leg?",
+      "options": [
+        "The serpent Kaliya",
+        "The demon Mahishasura",
+        "The apasmara, demon of ignorance or forgetfulness",
+        "The elephant demon Gajasura"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this Chola period bronze sculpture he has been shown balancing himself on his right leg and suppressing the apasmara, the demon of ignorance or forgetfulness, with the foot of the same leg.",
+      "ncertPage": 107,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q38",
+      "chapterId": "fine_arts_ch7",
+      "question": "What does the bhujangatrasita stance of the left leg in the Nataraja sculpture represent?",
+      "options": [
+        "Creation of the universe",
+        "Tirobhava, kicking away the veil of maya or illusion",
+        "The destruction of the world",
+        "Blessing the devotees"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the same time he raises his left leg in bhujangatrasita stance, which represents tirobhava, that is kicking away the veil of maya or illusion from the devotee's mind.",
+      "ncertPage": 107,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q39",
+      "chapterId": "fine_arts_ch7",
+      "question": "Which musical instrument does Nataraja hold in his upper right hand to keep the beat (tala)?",
+      "options": [
+        "Vina",
+        "Flute",
+        "Damaru",
+        "Mridangam"
+      ],
+      "correctIndex": 2,
+      "explanation": "The upper right holds the damaru his favourite musical instrument to keep on the beat tala.",
+      "ncertPage": 107,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q40",
+      "chapterId": "fine_arts_ch7",
+      "question": "What does Nataraja carry in his upper left hand?",
+      "options": [
+        "A conch shell",
+        "A lotus",
+        "A flame",
+        "A sword"
+      ],
+      "correctIndex": 2,
+      "explanation": "The upper left hand carries a flame...",
+      "ncertPage": 107,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q41",
+      "chapterId": "fine_arts_ch7",
+      "question": "What is the circular garland of flames that surrounds the entire dancing figure of Nataraja called?",
+      "options": [
+        "Prabhamandala",
+        "Jvala mala",
+        "Sudarshana chakra",
+        "Surya kund"
+      ],
+      "correctIndex": 1,
+      "explanation": "His hair locks fly on both the sides touching the circular jvala mala or the garland of flames which surrounds the entire dancing figuration.",
+      "ncertPage": 107,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q42",
+      "chapterId": "fine_arts_ch7",
+      "question": "In an eighth-century Pallava bronze icon, Shiva is seated with one leg dangling. What is this posture called?",
+      "options": [
+        "Padmasana",
+        "Tribhanga",
+        "Ardhaparyanka asana",
+        "Vajrasana"
+      ],
+      "correctIndex": 2,
+      "explanation": "Among the Pallava Period bronzes of the eighth century is the icon of Shiva seated in ardhaparyanka asana (one leg kept dangling).",
+      "ncertPage": 108,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q43",
+      "chapterId": "fine_arts_ch7",
+      "question": "In the Pallava bronze of Shiva in ardhaparyanka asana, his right hand is in the achamana mudra. What does this gesture suggest?",
+      "options": [
+        "He is granting a boon",
+        "He is about to drink poison",
+        "He is teaching the dharma",
+        "He is holding a weapon"
+      ],
+      "correctIndex": 1,
+      "explanation": "The right hand is in the achamana mudra gesture, suggesting that he is about to drink poison.",
+      "ncertPage": 108,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q44",
+      "chapterId": "fine_arts_ch7",
+      "question": "Which ceremony is depicted in the ninth-century kalyanasundara murti, represented by two separate statuettes of Shiva and Parvati?",
+      "options": [
+        "Tirobhava",
+        "Panigrahana (ceremony of marriage)",
+        "Gajendramoksha",
+        "Kiratarjuniya"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ninth century kalyanasundara murti is highly remarkable for the manner in which Panigrahana (ceremony of marriage) is represented by two separate statuettes.",
+      "ncertPage": 108,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q45",
+      "chapterId": "fine_arts_ch7",
+      "question": "How does Parvati appear in the kalyanasundara murti as Shiva accepts her hand?",
+      "options": [
+        "Fierce and armed with weapons",
+        "Dancing joyfully",
+        "With a bashful expression and taking a step forward",
+        "Seated calmly in meditation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shiva with his extended right hand accepts Parvati's (the bride's) right hand, who is depicted with a bashful expression and taking a step forward.",
+      "ncertPage": 108,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q46",
+      "chapterId": "fine_arts_ch7",
+      "question": "Which specific form ingeniously represents the union of Shiva and Parvati in a single image?",
+      "options": [
+        "Kalyanasundara murti",
+        "Nataraja murti",
+        "Ardhanarisvara murti",
+        "Dakshinamurti"
+      ],
+      "correctIndex": 2,
+      "explanation": "The union of Shiva and Parvati is very ingeniously represented in the ardhanarisvara murti in a single image.",
+      "ncertPage": 108,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q47",
+      "chapterId": "fine_arts_ch7",
+      "question": "During the Vijayanagar Period (16th century), what type of sculpture did artists experiment with to preserve the knowledge of the royal patron for posterity?",
+      "options": [
+        "Abstract metal art",
+        "Portrait sculpture",
+        "Narrative relief panels",
+        "Terracotta figurines"
+      ],
+      "correctIndex": 1,
+      "explanation": "During the sixteenth century, known as the Vijayanagar Period in Andhra Pradesh, the sculptors experimented with portrait sculpture in order to preserve knowledge of the royal patron for posterity.",
+      "ncertPage": 108,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q48",
+      "chapterId": "fine_arts_ch7",
+      "question": "Where were the life-size standing portrait statues of Krishnadevaraya and his two queens cast in bronze?",
+      "options": [
+        "Hampi",
+        "Kumbakonam",
+        "Tirupati",
+        "Thanjavur"
+      ],
+      "correctIndex": 2,
+      "explanation": "At Tirupati, life-size standing portrait statues were cast in bronze, depicting Krishnadevaraya with his two queens...",
+      "ncertPage": 108,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q49",
+      "chapterId": "fine_arts_ch7",
+      "question": "Who were the two queens depicted alongside Krishnadevaraya in the Tirupati bronze portrait statues?",
+      "options": [
+        "Sembiyan Maha Devi and Loka Mahadevi",
+        "Tirumalamba and Chinnadevi",
+        "Ambika and Chakreshvari",
+        "Tara and Saraswati"
+      ],
+      "correctIndex": 1,
+      "explanation": "...depicting Krishnadevaraya with his two queens, Tirumalamba and Chinnadevi.",
+      "ncertPage": 108,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch7_q50",
+      "chapterId": "fine_arts_ch7",
+      "question": "In what posture are the standing king and queens depicted in the Vijayanagar portrait bronzes at Tirupati?",
+      "options": [
+        "Abhaya mudra",
+        "Dhyana mudra",
+        "Namaskara mudra",
+        "Bhumisparsha mudra"
+      ],
+      "correctIndex": 2,
+      "explanation": "The standing king and queens are depicted in praying posture, that is, both hands held in the namaskara mudra.",
+      "ncertPage": 108,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    }
+  ]
+}

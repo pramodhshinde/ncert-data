@@ -1,0 +1,35 @@
+﻿{
+    "chapters":  [
+      {
+        "pdfUrl":  "https://ncert.nic.in/textbook/pdf/keec101.pdf",
+        "id":  111501,
+        "hasMCQ":  false,
+        "pageCount":  20,
+        "hasSolutions":  false,
+        "title":  "Indian Economy on the Eve of Independence",
+        "hasNotes":  false,
+        "chapterNumber":  1,
+        "questionCount":  15,
+        "progressPercent":  0,
+        "notesUrl":  "",
+        "solutionsUrl":  "",
+        "bookId":  1115,
+        "estimatedMinutes":  60,
+        "hasRead":  true,
+        "status":  "NOT_STARTED",
+        "topicCount":  6,
+        "mcqUrl":  ""
+      }
+                 ],
+    "book":  {
+                 "chapterCount":  0,
+                 "id":  1101,
+                 "subtitle":  "Class 11",
+                 "classNumber":  "Class 11",
+                 "parts":  1,
+                 "subject":  "business_studies",
+                 "language":  "english",
+                 "title":  "business_studies",
+                 "coverUrl":  ""
+             }
+}

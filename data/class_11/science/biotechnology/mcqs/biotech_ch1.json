@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_biotech_ch1_q1",
+      "chapterId": "biotech_ch1",
+      "question": "Who coined the term 'biotechnology'?",
+      "options": [
+        "Robert Hooke",
+        "Louis Pasteur",
+        "Karl Ereky",
+        "Antonie van Leeuwenhoek"
+      ],
+      "correctIndex": 2,
+      "explanation": "The term biotechnology was coined by Karl Ereky, a Hungarian scientist, in his book in 1917.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q2",
+      "chapterId": "biotech_ch1",
+      "question": "In which year did Karl Ereky coin the term 'biotechnology'?",
+      "options": [
+        "1882",
+        "1896",
+        "1917",
+        "1953"
+      ],
+      "correctIndex": 2,
+      "explanation": "The term biotechnology was coined by Karl Ereky... in 1917.",
+      "ncertPage": 2,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q3",
+      "chapterId": "biotech_ch1",
+      "question": "Ancient biotechnology includes the conservation of plant stocks by early farmers of which civilization?",
+      "options": [
+        "Roman",
+        "Greek",
+        "Egyptian",
+        "Mesopotamian"
+      ],
+      "correctIndex": 2,
+      "explanation": "Right from the domestication of sheep and cattle... conservation of plant stocks by the early Egyptian farmers (ancient germplasm conservation)...",
+      "ncertPage": 3,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q4",
+      "chapterId": "biotech_ch1",
+      "question": "Which yeast was accidentally discovered to cause the fermentation of unbaked dough?",
+      "options": [
+        "Saccharomyces cerevisiae",
+        "Saccharomyces winlocki",
+        "Candida albicans",
+        "Pichia pastoris"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fermented dough was discovered by accident when dough was not baked immediately and consequently it underwent fermentation by yeast such as Saccharomyces winlocki.",
+      "ncertPage": 4,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q5",
+      "chapterId": "biotech_ch1",
+      "question": "Which civilization is credited with the discovery of Baker's Yeast, revolutionizing bread-making technology?",
+      "options": [
+        "Egyptians",
+        "Greeks",
+        "Romans",
+        "Chinese"
+      ],
+      "correctIndex": 2,
+      "explanation": "In efforts to improve the technique, Baker's Yeast was discovered by the Romans, which revolutionised the bread-making technology prevalent then.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q6",
+      "chapterId": "biotech_ch1",
+      "question": "In the process of curd making, which bacteria react with the milk protein casein?",
+      "options": [
+        "Bacillus",
+        "Streptococcus",
+        "Lactobacillus",
+        "Pseudomonas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lactobacillus bacteria from the curd react with the milk protein casein.",
+      "ncertPage": 5,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q7",
+      "chapterId": "biotech_ch1",
+      "question": "What by-product of Lactobacillus denatures globular proteins to produce solid curds?",
+      "options": [
+        "Citric acid",
+        "Lactic acid",
+        "Acetic acid",
+        "Butanol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lactic acid formed as a by-product, denatures the globular proteins and coagulates to produce the solid curds...",
+      "ncertPage": 5,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q8",
+      "chapterId": "biotech_ch1",
+      "question": "Who established that yeast and other microbes were responsible for fermentation between the 1850s and 1860s?",
+      "options": [
+        "Eduard Buchner",
+        "Louis Pasteur",
+        "Rudolf Virchow",
+        "Alexander Fleming"
+      ],
+      "correctIndex": 1,
+      "explanation": "Between 1850s and 1860s, Louis Pasteur established that yeast and other microbes were responsible for fermentation.",
+      "ncertPage": 5,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q9",
+      "chapterId": "biotech_ch1",
+      "question": "During World War I, industrial fermentation was established primarily because Germany required large amounts of which chemical for explosives?",
+      "options": [
+        "Acetone",
+        "Butanol",
+        "Glycerol",
+        "Lactic acid"
+      ],
+      "correctIndex": 2,
+      "explanation": "Industrial fermentation was established during World War I because of Germany's requirement for large amounts of glycerol for explosives.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q10",
+      "chapterId": "biotech_ch1",
+      "question": "The invention of the modern fermenter (bioreactor) during World War II was catalyzed by the need for mass production of:",
+      "options": [
+        "Insulin",
+        "Penicillin",
+        "Glycerol",
+        "Vaccines"
+      ],
+      "correctIndex": 1,
+      "explanation": "World War II was the catalyst which led to the invention of the modern fermenter... for mass production of antibiotic penicillin.",
+      "ncertPage": 6,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q11",
+      "chapterId": "biotech_ch1",
+      "question": "Who made the first compound microscope in 1590?",
+      "options": [
+        "Antonie van Leeuwenhoek",
+        "Robert Hooke",
+        "Zacharias Janssen",
+        "Matthias Schleiden"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thus with the advent of the first compound microscope, made by Dutch spectacle-maker Zacharias Janssen in 1590...",
+      "ncertPage": 6,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q12",
+      "chapterId": "biotech_ch1",
+      "question": "In 1665, who examined thinly sliced cork and called the rectangular components 'cellulae'?",
+      "options": [
+        "Antonie van Leeuwenhoek",
+        "Robert Hooke",
+        "Theodor Schwann",
+        "Rudolf Virchow"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1665, Robert Hooke, a physicist, examined thinly sliced cork and drew rectangular components, which he called cellulae...",
+      "ncertPage": 6,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q13",
+      "chapterId": "biotech_ch1",
+      "question": "Who concluded that 'all cells arise from pre-existing cells' in 1858?",
+      "options": [
+        "Matthias Schleiden",
+        "Theodor Schwann",
+        "Rudolf Virchow",
+        "Louis Pasteur"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 1858, Rudolf Virchow, a German pathologist, concluded that 'all cells arise from pre-existing cells'...",
+      "ncertPage": 6,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q14",
+      "chapterId": "biotech_ch1",
+      "question": "Who converted sugar to ethyl alcohol using yeast extracts, proving that biochemical transformations can occur without intact cells?",
+      "options": [
+        "Louis Pasteur",
+        "Eduard Buchner",
+        "Johann Friedrich Miescher",
+        "Walter Flemming"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1896 Eduard Buchner converted sugar to ethyl alcohol using yeast extracts, showing that biochemical transformations can occur without the use of cells.",
+      "ncertPage": 6,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q15",
+      "chapterId": "biotech_ch1",
+      "question": "Which branch of biotechnology involves the application of biotechnology for marine and freshwater organisms?",
+      "options": [
+        "Green Biotechnology",
+        "Red Biotechnology",
+        "White Biotechnology",
+        "Blue Biotechnology"
+      ],
+      "correctIndex": 3,
+      "explanation": "Blue Biotechnology: Application of biotechnology for marine and freshwater organisms...",
+      "ncertPage": 7,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q16",
+      "chapterId": "biotech_ch1",
+      "question": "White biotechnology primarily deals with:",
+      "options": [
+        "Medical and pharmaceutical products",
+        "Agricultural crop improvement",
+        "Improving industrial processes and enzyme usage",
+        "Marine biology and seafood supply"
+      ],
+      "correctIndex": 2,
+      "explanation": "White Biotechnology: Biotechnology applied to improve industrial processes and other production processes.",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q17",
+      "chapterId": "biotech_ch1",
+      "question": "Dolly the sheep, the first mammal cloned from an adult somatic cell, eventually died due to:",
+      "options": [
+        "A bacterial infection",
+        "Progressive lung disease",
+        "Kidney failure",
+        "Heart attack"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dolly Sheep (5 Jul 1996-14 Feb 2003)... Died due to progressive lung disease.",
+      "ncertPage": 9,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q18",
+      "chapterId": "biotech_ch1",
+      "question": "Which of the following organisms is widely used as a heterologous system for the commercial production of human insulin?",
+      "options": [
+        "Bacillus thuringiensis",
+        "Escherichia coli",
+        "Arabidopsis",
+        "Helianthus annus"
+      ],
+      "correctIndex": 1,
+      "explanation": "At present, insulin is being produced predominantly in E. coli and Saccharomyces cerevisiae.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q19",
+      "chapterId": "biotech_ch1",
+      "question": "The FDA has approved the production of a blood anti-coagulant for human use in the milk of which transgenic animal?",
+      "options": [
+        "Sheep",
+        "Cow",
+        "Goat",
+        "Pig"
+      ],
+      "correctIndex": 2,
+      "explanation": "For example, Food and Drug Administration, USA (FDA) has approved the production of blood anti-coagulant in milk of transgenic goats for human use.",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q20",
+      "chapterId": "biotech_ch1",
+      "question": "Who performed the first, albeit unsuccessful, attempt at gene therapy in 1980?",
+      "options": [
+        "Ashanthi De Silva",
+        "Martin Cline",
+        "James Watson",
+        "Alfred Hershey"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first attempt, although unsuccessful, was performed by Martin Cline in 1980 for treating β-thalassemia.",
+      "ncertPage": 10,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q21",
+      "chapterId": "biotech_ch1",
+      "question": "The first successful report of gene therapy in 1990 was used to treat which of the following disorders?",
+      "options": [
+        "Parkinson's disease",
+        "Cystic fibrosis",
+        "Adenosine Deaminase Severe Combined Immunodeficiency (ADA-SCID)",
+        "Phenylketonuria"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first successful report of gene therapy was achieved in 1990 when, Ashanthi De Silva was treated for Adenosine Deaminase deficiency [also called Adenosine Deaminase Severe Combined Immunodeficiency (ADA-SCID)]...",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q22",
+      "chapterId": "biotech_ch1",
+      "question": "Which country approved Gendicine in 2003 as the first commercial gene therapy product for cancer treatment?",
+      "options": [
+        "United States",
+        "Russia",
+        "China",
+        "India"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first commercial gene therapy product approved for cancer treatment by China in 2003, was Gendicine.",
+      "ncertPage": 10,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q23",
+      "chapterId": "biotech_ch1",
+      "question": "What is the toxic protein produced by Bacillus thuringiensis that acts as an insecticide?",
+      "options": [
+        "Cry 1A(b)",
+        "Glycerol-1-phosphate",
+        "Luciferase",
+        "Biphenyl dioxygenase"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bt is a toxic protein called Cry 1A(b), obtained from a soil bacterium called Bacillus thuringiensis...",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q24",
+      "chapterId": "biotech_ch1",
+      "question": "Resistance against chilling was introduced into tobacco plants by introducing an enzyme gene from which plant?",
+      "options": [
+        "Bacillus thuringiensis",
+        "Saccharomyces cerevisiae",
+        "Arabidopsis",
+        "Jatropha curcas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Among abiotic stress resistant plants, resistance against chilling has been introduced into tobacco plants by introducing gene for glycerol-1-phosphate acyl-transferase enzyme from Arabidopsis.",
+      "ncertPage": 12,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q25",
+      "chapterId": "biotech_ch1",
+      "question": "Roundup-ready soybeans are genetically modified to be unaffected by which specific herbicide?",
+      "options": [
+        "Atrazine",
+        "Glyphosate",
+        "Paraquat",
+        "2,4-D"
+      ],
+      "correctIndex": 1,
+      "explanation": "Similarly, Roundup-ready soybeans (Transgenic/GM soybeans) have been developed which are unaffected by the herbicide glyphosate...",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q26",
+      "chapterId": "biotech_ch1",
+      "question": "The transgenic crop 'Golden Rice' is nutritionally enhanced with high levels of:",
+      "options": [
+        "Vitamin C",
+        "Iron",
+        "Beta-carotene",
+        "Calcium"
+      ],
+      "correctIndex": 2,
+      "explanation": "A classic example is the Golden Rice, which has high beta-carotene content (the precursor for vitamin A production in the human body)...",
+      "ncertPage": 12,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q27",
+      "chapterId": "biotech_ch1",
+      "question": "Which of the following plants is NOT listed as a stock feed plant for expressing therapeutic molecules?",
+      "options": [
+        "Bamboo",
+        "Citronella",
+        "Jatropha",
+        "Foxtail millet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Examples of such stock feed are bamboo, citronella, andropogon, foxtail millet, wheat grass, rice straw, etc.",
+      "ncertPage": 13,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q28",
+      "chapterId": "biotech_ch1",
+      "question": "Edible vaccines currently under rigorous clinical trials against measles and cholera are based on which transgenic plant?",
+      "options": [
+        "Tomato",
+        "Soybean",
+        "Potato",
+        "Banana"
+      ],
+      "correctIndex": 2,
+      "explanation": "Potato based vaccines against measles, cholera, Norfolk virus, etc., are under rigorous clinical trials.",
+      "ncertPage": 13,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q29",
+      "chapterId": "biotech_ch1",
+      "question": "Which crop uses very little water and is being investigated as a potential source of biofuel in arid conditions of Asia and Africa?",
+      "options": [
+        "Jatropha curcas",
+        "Sweet sorghum",
+        "Hemp",
+        "Rapeseed"
+      ],
+      "correctIndex": 1,
+      "explanation": "In parts of Asia and Africa where drylands prevail, sweet sorghum is being investigated as a potential source of food, feed and fuel. Since the crop uses very little water, it is particularly suitable for growing in arid conditions.",
+      "ncertPage": 14,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q30",
+      "chapterId": "biotech_ch1",
+      "question": "Which biofuel is often used as a direct replacement for gasoline?",
+      "options": [
+        "Bioethanol",
+        "Biodiesel",
+        "Bio-butanol",
+        "Biogas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bio-butanol, a biofuel, is often a direct replacement for gasoline.",
+      "ncertPage": 14,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q31",
+      "chapterId": "biotech_ch1",
+      "question": "Biodiesel is most commonly produced from oils or fats using which chemical process?",
+      "options": [
+        "Fermentation",
+        "Trans-esterification",
+        "Polymerization",
+        "Hydrolysis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Biodiesel is the most common biofuel in Europe, produced from oils or fats using trans-esterification.",
+      "ncertPage": 14,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q32",
+      "chapterId": "biotech_ch1",
+      "question": "Which naturally occurring gene expressed in E. coli acts as a bio-sensor for detecting mercury contamination?",
+      "options": [
+        "cry gene",
+        "lux gene",
+        "beta-galactosidase gene",
+        "biphenyl dioxygenase gene"
+      ],
+      "correctIndex": 1,
+      "explanation": "For example, a reported gene, lux (which is responsible for emission of light), expressed in E. coli, acts as a bio sensor for detecting the mercury contamination.",
+      "ncertPage": 15,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q33",
+      "chapterId": "biotech_ch1",
+      "question": "To degrade polychlorinated biphenyl (PCB), which degradation gene has been inserted into E. coli?",
+      "options": [
+        "Biphenyl dioxygenase",
+        "Glycerol-1-phosphate acyl-transferase",
+        "Lactase",
+        "Amylase"
+      ],
+      "correctIndex": 0,
+      "explanation": "An example of a degradation gene is biphenyl dioxygenase, which has been inserted in E.coli to degrade PCB (polychlorinated biphenyl).",
+      "ncertPage": 15,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q34",
+      "chapterId": "11_biotech_ch1",
+      "question": "Hyper-accumulator plants like Brassica napus and Helianthus annus are used to remove which heavy metals from contaminated soils?",
+      "options": [
+        "Iron and Copper",
+        "Mercury and Lead",
+        "Zinc and Nickel",
+        "Aluminum and Cadmium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Examples of some hyper-accumulators are Brassica napus and Helianthus annus, etc., for mercury and lead removal from contaminated soils.",
+      "ncertPage": 16,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q35",
+      "chapterId": "biotech_ch1",
+      "question": "When was the National Biotechnology Board (NBTB) constituted by the Government of India?",
+      "options": [
+        "1978",
+        "1982",
+        "1986",
+        "1998"
+      ],
+      "correctIndex": 1,
+      "explanation": "The National Biotechnology Board (NBTB) was constituted by Government of India in 1982...",
+      "ncertPage": 16,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q36",
+      "chapterId": "biotech_ch1",
+      "question": "In which year was the National Biotechnology Board (NBTB) upgraded to the Department of Biotechnology (DBT)?",
+      "options": [
+        "1982",
+        "1986",
+        "1990",
+        "1996"
+      ],
+      "correctIndex": 1,
+      "explanation": "...which was subsequently upgraded to Department of Biotechnology (DBT) in 1986.",
+      "ncertPage": 16,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q37",
+      "chapterId": "biotech_ch1",
+      "question": "Which of the following institutes established under DBT is located in Hyderabad, Telangana?",
+      "options": [
+        "Institute of Life Sciences",
+        "National Brain Research Centre (NBRC)",
+        "Centre for DNA Fingerprinting and Diagnostics (CDFD)",
+        "National Institute of Immunology (NII)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Table 1.2: 1. Centre for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad, Telangana",
+      "ncertPage": 17,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q38",
+      "chapterId": "biotech_ch1",
+      "question": "The National Institute for Plant Genome Research (NIPGR) is located in which city?",
+      "options": [
+        "Pune",
+        "New Delhi",
+        "Kalyani",
+        "Faridabad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Table 1.2: 7. National Institute for Plant Genome Research (NIPGR), New Delhi",
+      "ncertPage": 17,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q39",
+      "chapterId": "biotech_ch1",
+      "question": "India currently holds which rank among the top biotechnology powers in the world?",
+      "options": [
+        "Top 3",
+        "Top 5",
+        "Top 12",
+        "Top 20"
+      ],
+      "correctIndex": 2,
+      "explanation": "Presently, India is among top 12 biotechnology powers in the world and third biggest industry in Asia Pacific...",
+      "ncertPage": 17,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q40",
+      "chapterId": "biotech_ch1",
+      "question": "India has the world's largest production of which recombinant vaccine?",
+      "options": [
+        "Recombinant Polio Vaccine",
+        "Recombinant Hepatitis B Vaccine",
+        "Recombinant MMR Vaccine",
+        "Recombinant Rabies Vaccine"
+      ],
+      "correctIndex": 1,
+      "explanation": "India is world's largest producer of recombinant Hepatitis B vaccine.",
+      "ncertPage": 18,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q41",
+      "chapterId": "biotech_ch1",
+      "question": "Which Indian company commercially launched the first ROTAVAC vaccine to eradicate rotavirus diarrhoea?",
+      "options": [
+        "Serum Institute of India",
+        "Panacea Biotec",
+        "Bharat Biotech",
+        "Biocon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bharat Biotech commercially launched the first ROTAVAC vaccine to eradicate rotavirus diarrhoea in India.",
+      "ncertPage": 18,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q42",
+      "chapterId": "biotech_ch1",
+      "question": "Which organization launched India's first MMR vaccine, 'Tresivac'?",
+      "options": [
+        "Bharat Serum and Vaccines Limited",
+        "Panacea Biotec",
+        "Serum Institute of India",
+        "Wockhardt Biotech"
+      ],
+      "correctIndex": 2,
+      "explanation": "World's only adsorbed liquid HDC rabies vaccine and India's first MMR vaccine Tresivac' has been launched by the Serum Institute.",
+      "ncertPage": 18,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q43",
+      "chapterId": "biotech_ch1",
+      "question": "Which biotech park is located in Lucknow, Uttar Pradesh?",
+      "options": [
+        "Ticel Bio Park",
+        "ICICI Knowledge Park",
+        "Biotechnology Park",
+        "Guwahati Biotech Park"
+      ],
+      "correctIndex": 2,
+      "explanation": "Table 1.4: Biotechnology Park, Lucknow, Uttar Pradesh",
+      "ncertPage": 19,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q44",
+      "chapterId": "biotech_ch1",
+      "question": "India's first indigenous Covid-19 Vaccine, Covaxin, was developed by which company?",
+      "options": [
+        "Serum Institute of India",
+        "Dr. Reddy's Laboratories",
+        "Bharat Biotech International Ltd.",
+        "Panacea Biotec"
+      ],
+      "correctIndex": 2,
+      "explanation": "Covaxin, India's first indigenous Covid-19 Vaccine, was developed by a Biotechnology Company, Bharat Biotech International Ltd. Hyderabad...",
+      "ncertPage": 19,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q45",
+      "chapterId": "biotech_ch1",
+      "question": "India is the world's largest producer of Statin and which other type of therapeutics?",
+      "options": [
+        "Antiretrovirals",
+        "Antibiotics",
+        "Immunosuppressants",
+        "Analgesics"
+      ],
+      "correctIndex": 2,
+      "explanation": "India is the world's largest producer of Statin and Immunosuppressants.",
+      "ncertPage": 20,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q46",
+      "chapterId": "biotech_ch1",
+      "question": "Which reusable insulin delivery device was launched in India in 2015?",
+      "options": [
+        "Humulin",
+        "INSUPEN",
+        "Gendicine",
+        "Tresivac"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 2015, launched INSUPEN, a convenient and affordable reusable insulin delivery device.",
+      "ncertPage": 20,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q47",
+      "chapterId": "biotech_ch1",
+      "question": "What percentage of the antiretroviral drugs for AIDS globally are provided by Indian pharmaceutical firms?",
+      "options": [
+        "40 per cent",
+        "60 per cent",
+        "80 per cent",
+        "95 per cent"
+      ],
+      "correctIndex": 2,
+      "explanation": "80 per cent of the antiretroviral drugs for AIDS are provided by Indian pharmaceutical firms globally.",
+      "ncertPage": 20,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q48",
+      "chapterId": "biotech_ch1",
+      "question": "In the Indian hybrid seed industry, which genetically modified crop leads the market accounting for a 45% share?",
+      "options": [
+        "Bt Brinjal",
+        "Samba Mahsuri Rice",
+        "Golden Rice",
+        "Bt cotton"
+      ],
+      "correctIndex": 3,
+      "explanation": "Since then Bt cotton is leading the market, accounting for 45% share in Indian hybrid seed industry.",
+      "ncertPage": 20,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q49",
+      "chapterId": "biotech_ch1",
+      "question": "Samba Mahsuri is a genetically modified variety of rice known for being:",
+      "options": [
+        "Salt tolerant",
+        "Blight resistant",
+        "Drought tolerant",
+        "High in provitamin A"
+      ],
+      "correctIndex": 1,
+      "explanation": "Among these GM rice is the Blight resistant rice, Samba Mahsuri (developed through marker assisted backcrossing)...",
+      "ncertPage": 20,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch1_q50",
+      "chapterId": "biotech_ch1",
+      "question": "Which sector represents an area of significant promise for India due to a huge skilled labour force and includes global contract research organizations like Quintiles?",
+      "options": [
+        "Bio-agri",
+        "Bio-pharma",
+        "Bio-industrial",
+        "Bio-services"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bio-services sector represent an area of significant promise for India because of a huge skilled labour force... It includes global contract research organisations, such as Quintiles...",
+      "ncertPage": 20,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    }
+  ]
+}

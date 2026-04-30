@@ -1,0 +1,27 @@
+﻿{
+  "books": [
+    {
+      "id": 1131,
+      "title": "Hornbill",
+      "subtitle": "Class 11 NCERT English Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehb1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "English",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1132,
+      "title": "Snapshots",
+      "subtitle": "Class 11 NCERT English Supplementary",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kesp1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "English",
+      "chapterCount": 8,
+      "parts": 1
+    }
+  ],
+  "chapters": []
+}

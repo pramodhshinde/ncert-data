@@ -1,0 +1,13 @@
+﻿{
+    "subject":  "biotechnology",
+    "classNumber":  11,
+    "chapters":  [
+        { "id": "biotech_ch1", "title": "Introduction to Biotechnology", "file": "biotech_ch1.json", "count": 50 },
+        { "id": "biotech_ch2", "title": "Cellular Organelles", "file": "biotech_ch2.json", "count": 50 },
+        { "id": "biotech_ch3", "title": "Biomolecules", "file": "biotech_ch3.json", "count": 50 },
+        { "id": "biotech_ch4", "title": "Enzymes and Bioenergetics", "file": "biotech_ch4.json", "count": 50 },
+        { "id": "biotech_ch5", "title": "Cell Metabolism", "file": "biotech_ch5.json", "count": 50 },
+        { "id": "biotech_ch6", "title": "Genetics and Molecular Biology", "file": "biotech_ch6.json", "count": 50 }
+    ],
+    "totalChapters": 6
+}

@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_biotech_ch4_q1",
+      "chapterId": "biotech_ch4",
+      "question": "All enzymes are proteins with the exception of a small group of catalytic RNA molecules known as:",
+      "options": [
+        "Ribozymes",
+        "Isozymes",
+        "Holoenzymes",
+        "Apoenzymes"
+      ],
+      "correctIndex": 0,
+      "explanation": "All enzymes are proteins with exception of some small group of catalytic RNA molecules called ribozymes.",
+      "ncertPage": 86,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q2",
+      "chapterId": "biotech_ch4",
+      "question": "The molecular weight of enzymes generally ranges from:",
+      "options": [
+        "200 to 1,000 Dalton",
+        "2000 to more than one million Dalton",
+        "10,000 to 50,000 Dalton",
+        "1 million to 10 billion Dalton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Like proteins, the molecular weight of enzymes ranges from about 2000 to more than one million Dalton.",
+      "ncertPage": 86,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q3",
+      "chapterId": "biotech_ch4",
+      "question": "An active enzyme consisting of a protein component combined with its required cofactor is called a:",
+      "options": [
+        "Apoenzyme",
+        "Ribozyme",
+        "Holoenzyme",
+        "Isozyme"
+      ],
+      "correctIndex": 2,
+      "explanation": "An enzyme plus its cofactor is called holoenzyme.",
+      "ncertPage": 86,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q4",
+      "chapterId": "biotech_ch4",
+      "question": "The protein component of a cofactor-requiring enzyme is referred to as the:",
+      "options": [
+        "Holoenzyme",
+        "Coenzyme",
+        "Apoenzyme",
+        "Prosthetic group"
+      ],
+      "correctIndex": 2,
+      "explanation": "In such cases, the protein component in cofactor requiring enzyme is called apoenzyme.",
+      "ncertPage": 86,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q5",
+      "chapterId": "biotech_ch4",
+      "question": "Which vitamin is the precursor for the coenzyme Flavin adenine dinucleotide (FAD)?",
+      "options": [
+        "Niacin (B3)",
+        "Riboflavin (B2)",
+        "Pantothenic acid (B5)",
+        "Pyridoxine (B6)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Table 4.1 shows that Riboflavin (vitamin B2) is the precursor vitamin for Flavin adenine dinucleotide (FAD).",
+      "ncertPage": 86,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q6",
+      "chapterId": "biotech_ch4",
+      "question": "Nicotinamide adenine dinucleotide (NAD) is derived from which precursor vitamin?",
+      "options": [
+        "Biotin",
+        "Niacin (vitamin B3)",
+        "Thiamine",
+        "Folic acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Table 4.1 indicates that Niacin (vitamin B3) is the precursor vitamin for Nicotinamide adenine dinucleotide (NAD).",
+      "ncertPage": 86,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q7",
+      "chapterId": "biotech_ch4",
+      "question": "What is the specific role of Coenzyme A in catalytic reactions?",
+      "options": [
+        "Transfer of electrons",
+        "Transfer of aldehydes",
+        "Transfer of acyl and alkyl groups",
+        "Transfer of an amino group"
+      ],
+      "correctIndex": 2,
+      "explanation": "According to Table 4.1, Coenzyme A's role in the catalytic reaction is the transfer of acyl and alkyl groups.",
+      "ncertPage": 86,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q8",
+      "chapterId": "biotech_ch4",
+      "question": "Which of the following metal ions acts as a cofactor for the enzyme DNA polymerase?",
+      "options": [
+        "Fe2+",
+        "Cu2+",
+        "Mg2+",
+        "Zn2+"
+      ],
+      "correctIndex": 2,
+      "explanation": "Table 4.2 identifies Mg2+ as the metal ion that serves as a cofactor for DNA polymerase.",
+      "ncertPage": 86,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q9",
+      "chapterId": "biotech_ch4",
+      "question": "Carbonic anhydrase and alcohol dehydrogenase require which metal ion as a cofactor?",
+      "options": [
+        "Zn2+",
+        "Mn2+",
+        "Mo2+",
+        "Ni2+"
+      ],
+      "correctIndex": 0,
+      "explanation": "Table 4.2 lists Zn2+ as the cofactor for Carbonic anhydrase and alcohol dehydrogenase.",
+      "ncertPage": 86,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q10",
+      "chapterId": "biotech_ch4",
+      "question": "When a coenzyme or metal ion is tightly bound to an enzyme protein through covalent bonds, it is termed a:",
+      "options": [
+        "Apoenzyme",
+        "Substrate",
+        "Prosthetic group",
+        "Allosteric modulator"
+      ],
+      "correctIndex": 2,
+      "explanation": "When a coenzyme or metal ion is tightly bound through covalent bond with the enzyme protein, it is called a prosthetic group.",
+      "ncertPage": 86,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q11",
+      "chapterId": "biotech_ch4",
+      "question": "According to the International Union of Biochemistry (I.U.B.) classification, which recently added class of enzymes catalyzes the transfer of ions/molecules across membranes?",
+      "options": [
+        "Ligases",
+        "Translocase",
+        "Isomerases",
+        "Lyases"
+      ],
+      "correctIndex": 1,
+      "explanation": "...recently, another class of enzymes namely translocase has been added. Translocase handles the transfer of ion/molecules across the membrane.",
+      "ncertPage": 87,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q12",
+      "chapterId": "biotech_ch4",
+      "question": "Enzymes that catalyze the addition or removal of groups to form double bonds are classified as:",
+      "options": [
+        "Hydrolases",
+        "Transferases",
+        "Lyases",
+        "Oxidoreductases"
+      ],
+      "correctIndex": 2,
+      "explanation": "According to Table 4.3, Lyases catalyze the addition or removal of groups to form double bonds.",
+      "ncertPage": 87,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q13",
+      "chapterId": "biotech_ch4",
+      "question": "What term describes multiple molecular forms of an enzyme within the same species or cell that catalyze the same reaction but possess different physicochemical properties?",
+      "options": [
+        "Holoenzymes",
+        "Isozymes",
+        "Coenzymes",
+        "Ribozymes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many enzymes are present in multiple forms... These enzymes are called isoenzymes or isozymes. Isoenzymes catalyse the same reaction but have different amino acid composition...",
+      "ncertPage": 87,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q14",
+      "chapterId": "biotech_ch4",
+      "question": "How many isozyme forms of lactate dehydrogenase (LDH) are involved in human anaerobic glucose metabolism?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctIndex": 3,
+      "explanation": "Similarly, lactate dehydrogenase (LDH), involved in anaerobic glucose metabolism has five isozyme forms in human.",
+      "ncertPage": 87,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q15",
+      "chapterId": "biotech_ch4",
+      "question": "The structural complementary model suggesting that an active site is pre-shaped to fit the substrate was proposed by:",
+      "options": [
+        "Daniel Koshland",
+        "Leonor Michaelis",
+        "Maud Menten",
+        "Emil Fischer"
+      ],
+      "correctIndex": 3,
+      "explanation": "In 1894, the introduction of Lock and Key Model for the substrate and enzyme interaction was proposed by Emil Fischer.",
+      "ncertPage": 88,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q16",
+      "chapterId": "biotech_ch4",
+      "question": "Which model of enzyme action suggests that the interaction between substrate and enzyme induces conformational changes to align catalytic groups?",
+      "options": [
+        "Lock and Key Model",
+        "Induced Fit Model",
+        "Michaelis-Menten Model",
+        "Allosteric Model"
+      ],
+      "correctIndex": 1,
+      "explanation": "Daniel Koshland in 1958 proposed Induced Fit Hypothesis... The interaction between the substrate and the enzyme induces conformational changes in the enzyme...",
+      "ncertPage": 88,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q17",
+      "chapterId": "biotech_ch4",
+      "question": "The specificity where an enzyme acts on several different closely related substrates is known as:",
+      "options": [
+        "Absolute specificity",
+        "Stereospecificity",
+        "Group specificity",
+        "Geometrical specificity"
+      ],
+      "correctIndex": 2,
+      "explanation": "When enzymes act on several different closely related substrates then it is called group specificity.",
+      "ncertPage": 89,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q18",
+      "chapterId": "biotech_ch4",
+      "question": "Fumarase catalyzing the interconversion of fumarate and malate demonstrates which type of specificity?",
+      "options": [
+        "Geometrical specificity",
+        "Absolute specificity",
+        "Stereospecificity",
+        "Group specificity"
+      ],
+      "correctIndex": 0,
+      "explanation": "In geometrical specificity, enzymes are specific towards cis and trans forms. For example, fumarase catalyses the interconversion of fumarate and malate.",
+      "ncertPage": 89,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q19",
+      "chapterId": "biotech_ch4",
+      "question": "What is the optimum pH for the gastric enzyme pepsin?",
+      "options": [
+        "pH 1-2",
+        "pH 4-5",
+        "pH 6-8",
+        "pH 10-11"
+      ],
+      "correctIndex": 0,
+      "explanation": "However, there are several exceptions such as pepsin (pH 1-2), acid phosphatases (pH 4-5) and alkaline phosphatases (pH 10-11).",
+      "ncertPage": 90,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q20",
+      "chapterId": "biotech_ch4",
+      "question": "Which enzyme, found in a thermophilic bacterium, remains active even at 100°C?",
+      "options": [
+        "Venom phosphokinase",
+        "Muscle adenylate kinase",
+        "Taq DNA polymerase",
+        "Acid phosphatase"
+      ],
+      "correctIndex": 2,
+      "explanation": "However, few enzymes like Taq DNA polymerase present in thermophilic bacteria, Thermus aquaticus... are active even at 100°C.",
+      "ncertPage": 90,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q21",
+      "chapterId": "biotech_ch4",
+      "question": "As substrate concentration increases, the rate of an enzyme-catalyzed reaction increases until it reaches a maximum possible rate. Why does the rate plateau?",
+      "options": [
+        "The substrate begins to inhibit the enzyme",
+        "Enzyme molecules become saturated",
+        "Activation energy increases significantly",
+        "The enzyme denatures at high concentrations"
+      ],
+      "correctIndex": 1,
+      "explanation": "However, after a certain concentration, further increase in substrate concentration will have no effect on the rate of reaction... At this stage, enzyme molecules become saturated and work at their maximum possible rate.",
+      "ncertPage": 90,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q22",
+      "chapterId": "biotech_ch4",
+      "question": "One 'katal' (kat) is defined as the amount of enzyme that catalyzes the conversion of:",
+      "options": [
+        "1 micromole of substrate per minute",
+        "1 mole of substrate per second",
+        "1 milligram of substrate per minute",
+        "1 mole of product per minute"
+      ],
+      "correctIndex": 1,
+      "explanation": "One katal (kat) is the amount of enzyme that catalyses conversion of 1 mole of substrate per second into product.",
+      "ncertPage": 91,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q23",
+      "chapterId": "biotech_ch4",
+      "question": "The measurement of enzyme purity in a mixture is represented by its:",
+      "options": [
+        "Maximum velocity (Vmax)",
+        "Michaelis constant (Km)",
+        "Specific activity",
+        "Transition state energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Specific activity represents a measurement of enzyme purity in the mixture.",
+      "ncertPage": 91,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q24",
+      "chapterId": "biotech_ch4",
+      "question": "Enzymes speed up biochemical reactions by:",
+      "options": [
+        "Altering the overall free energy change (ΔG)",
+        "Changing the laws of thermodynamics",
+        "Lowering the activation energy (ΔGA)",
+        "Increasing the entropy of the system"
+      ],
+      "correctIndex": 2,
+      "explanation": "The enzymes enhance reaction rate without altering ΔG of the reaction, rather they lower the activation energy, ΔGA.",
+      "ncertPage": 91,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q25",
+      "chapterId": "biotech_ch4",
+      "question": "In the Gibbs free energy equation ΔG = ΔH - TΔS, what does ΔH represent?",
+      "options": [
+        "Change in entropy",
+        "Change in internal energy",
+        "Change in heat content or enthalpy",
+        "Change in pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "ΔH = change in heat content or enthalpy of this system.",
+      "ncertPage": 98,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q26",
+      "chapterId": "biotech_ch4",
+      "question": "In Michaelis-Menten kinetics, what does the Michaelis constant (Km) represent?",
+      "options": [
+        "The maximum velocity of the reaction",
+        "The substrate concentration at which the reaction rate is half of Vmax",
+        "The initial velocity of the reaction",
+        "The free energy of activation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thus, Km is substrate concentration at which half of the maximum reaction rate is obtained.",
+      "ncertPage": 92,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q27",
+      "chapterId": "biotech_ch4",
+      "question": "A graph plotting initial velocity (v0) against substrate concentration [S] for a typical enzyme results in a:",
+      "options": [
+        "Straight line",
+        "Bell-shaped curve",
+        "Rectangular hyperbola",
+        "Sigmoidal curve"
+      ],
+      "correctIndex": 2,
+      "explanation": "A graph of v0 against [S] results in rectangular hyperbola (Fig. 4.6).",
+      "ncertPage": 92,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q28",
+      "chapterId": "biotech_ch4",
+      "question": "In the presence of a competitive inhibitor, what happens to the maximum velocity (Vmax) and Michaelis constant (Km)?",
+      "options": [
+        "Vmax decreases and Km increases",
+        "Vmax remains unchanged and Km increases",
+        "Vmax increases and Km remains unchanged",
+        "Both Vmax and Km decrease"
+      ],
+      "correctIndex": 1,
+      "explanation": "At very high substrate concentration, the chances of binding of inhibitor molecule to the enzyme will be reduced, so Vmax for the reaction will not be changed. However, the Km is increased in presence of inhibitor...",
+      "ncertPage": 93,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q29",
+      "chapterId": "biotech_ch4",
+      "question": "Which antibiotic acts as an irreversible inhibitor by binding to the enzyme transpeptidase?",
+      "options": [
+        "Cyclooxygenase",
+        "Penicillin",
+        "Hexokinase",
+        "Lactate dehydrogenase"
+      ],
+      "correctIndex": 1,
+      "explanation": "For example, the antibiotic penicillin acts as inhibitor and binds with the enzyme transpeptidase, which is responsible for synthesis of bacterial cell wall.",
+      "ncertPage": 93,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q30",
+      "chapterId": "biotech_ch4",
+      "question": "The drug aspirin reduces inflammation by irreversibly inhibiting the enzyme:",
+      "options": [
+        "Fumarase",
+        "Transpeptidase",
+        "Cyclooxygenase",
+        "Arginase"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the same way, the drug aspirin inhibits the enzyme cyclooxygenase, thus reducing the inflammation.",
+      "ncertPage": 93,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q31",
+      "chapterId": "biotech_ch4",
+      "question": "In non-competitive inhibition, the inhibitor binds to:",
+      "options": [
+        "Only the free enzyme at the active site",
+        "A site different from the active site on both free enzyme and ES complex",
+        "Only the enzyme-substrate (ES) complex",
+        "The substrate molecule directly"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this type of inhibition, inhibitor has no structural similarity with substrate and binds with the enzyme at different site other than the active site. Therefore, the inhibitor can bind with E as well as ES complex...",
+      "ncertPage": 93,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q32",
+      "chapterId": "biotech_ch4",
+      "question": "How are the kinetic parameters affected in non-competitive inhibition?",
+      "options": [
+        "Vmax is lowered and Km is unchanged",
+        "Vmax is unchanged and Km increases",
+        "Both Vmax and Km are lowered",
+        "Both Vmax and Km increase"
+      ],
+      "correctIndex": 0,
+      "explanation": "Non-competitive inhibitor lowers the Vmax... There is no effect on Km as the inhibitor decrease the amount of functional enzyme.",
+      "ncertPage": 94,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q33",
+      "chapterId": "biotech_ch4",
+      "question": "Which type of inhibitor binds only to the enzyme-substrate (ES) complex and cannot be overcome by increasing substrate concentration?",
+      "options": [
+        "Competitive inhibitor",
+        "Non-competitive inhibitor",
+        "Uncompetitive inhibitor",
+        "Irreversible inhibitor"
+      ],
+      "correctIndex": 2,
+      "explanation": "(iii) Uncompetitive inhibition: In this type of inhibition, inhibitor does not bind to free enzyme. It binds only to enzyme substrate (ES) complex... Therefore, the inhibition cannot be overcome by increasing substrate concentration.",
+      "ncertPage": 94,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q34",
+      "chapterId": "biotech_ch4",
+      "question": "Uncompetitive inhibition alters which kinetic parameters?",
+      "options": [
+        "Only Km",
+        "Only Vmax",
+        "Both Km and Vmax",
+        "Neither Km nor Vmax"
+      ],
+      "correctIndex": 2,
+      "explanation": "In uncompetitive inhibition, Both Km and Vmax values are altered.",
+      "ncertPage": 95,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q35",
+      "chapterId": "biotech_ch4",
+      "question": "When initial velocity (v0) is plotted against substrate concentration [S] for allosteric enzymes, the resulting graph is:",
+      "options": [
+        "A rectangular hyperbola",
+        "A linear line",
+        "A sigmoidal curve",
+        "A bell-shaped curve"
+      ],
+      "correctIndex": 2,
+      "explanation": "Allosteric enzymes do not obey Michaelis-Menten kinetics. These enzymes result in sigmoidal graph instead of rectangular hyperbola...",
+      "ncertPage": 95,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q36",
+      "chapterId": "biotech_ch4",
+      "question": "The branch of physical chemistry that deals with the transformation and use of energy by living cells is called:",
+      "options": [
+        "Bioenergetics",
+        "Enzyme kinetics",
+        "Stereochemistry",
+        "Biochemistry"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biological energetics or bioenergetics deal with the transformation and use of energy by living cells.",
+      "ncertPage": 96,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q37",
+      "chapterId": "biotech_ch4",
+      "question": "The first law of thermodynamics implies that the total amount of energy in the universe:",
+      "options": [
+        "Is constantly increasing",
+        "Is constantly decreasing",
+        "Remains constant",
+        "Is determined by entropy"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first law of thermodynamics states that 'energy can neither be created nor destroyed, but can be converted into other forms of energy'. It means, the total amount of energy in the universe... remains constant.",
+      "ncertPage": 96,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q38",
+      "chapterId": "biotech_ch4",
+      "question": "According to the second law of thermodynamics, a process can occur spontaneously only if:",
+      "options": [
+        "Enthalpy decreases",
+        "The sum of the entropies of the system and its surrounding increases",
+        "Free energy remains zero",
+        "Activation energy is eliminated"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to this law, a process can occur spontaneously only if the sum of the entropies of the system and its surrounding increases.",
+      "ncertPage": 97,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q39",
+      "chapterId": "biotech_ch4",
+      "question": "Why are biological systems able to maintain a state of lower entropy (higher organization) despite the second law of thermodynamics?",
+      "options": [
+        "They are isolated systems.",
+        "They consume chemical or light energy.",
+        "They constantly decrease the entropy of their surroundings.",
+        "They do not release heat."
+      ],
+      "correctIndex": 1,
+      "explanation": "Biological systems, however, do not follow the second law as the life is state of higher organisation or lower entropy... This highly ordered form of life is maintained for a while by consumption of chemical energy (food) and in case of photosynthetic organisms through light energy.",
+      "ncertPage": 97,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q40",
+      "chapterId": "biotech_ch4",
+      "question": "A thermodynamic system that can exchange energy but not matter with its surroundings is called a:",
+      "options": [
+        "Open system",
+        "Isolated system",
+        "Closed system",
+        "Spontaneous system"
+      ],
+      "correctIndex": 2,
+      "explanation": "A closed system is described as system that can exchange energy but not matter with its surroundings.",
+      "ncertPage": 98,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q41",
+      "chapterId": "biotech_ch4",
+      "question": "In the equation ΔG = ΔH - TΔS, what does T stand for?",
+      "options": [
+        "Time",
+        "Temperature",
+        "Transition state",
+        "Translocase"
+      ],
+      "correctIndex": 1,
+      "explanation": "T = temperature at which the process is taking place.",
+      "ncertPage": 98,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q42",
+      "chapterId": "biotech_ch4",
+      "question": "What is the universal currency of free energy in living cells?",
+      "options": [
+        "NADH",
+        "ATP",
+        "Glucose",
+        "DNA"
+      ],
+      "correctIndex": 1,
+      "explanation": "ATP is also known as universal currency of free energy.",
+      "ncertPage": 99,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q43",
+      "chapterId": "biotech_ch4",
+      "question": "Conversion of ATP into ADP and Pi releases how much energy?",
+      "options": [
+        "3.7 Kcal/mol",
+        "7.3 Kcal/mol",
+        "14.6 Kcal/mol",
+        "32.0 Kcal/mol"
+      ],
+      "correctIndex": 1,
+      "explanation": "ATP then donates much of its chemical energy... by converting itself into ADP and Pi and releases 7.3 Kcal/mol of energy.",
+      "ncertPage": 100,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q44",
+      "chapterId": "biotech_ch4",
+      "question": "ATP is chemically composed of which three components?",
+      "options": [
+        "Adenine, a deoxyribose sugar, and two phosphate groups",
+        "Adenine, a ribose sugar, and three phosphate groups",
+        "Guanine, a ribose sugar, and three phosphate groups",
+        "Thymine, a ribose sugar, and three phosphate groups"
+      ],
+      "correctIndex": 1,
+      "explanation": "ATP and its consecutive hydrolysis products, ADP and AMP are nucleotides, made up of an adenine (a purine base occur in DNA and RNA) a ribose (a pentose sugar) and three, two and one phosphate group(s), respectively.",
+      "ncertPage": 100,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q45",
+      "chapterId": "biotech_ch4",
+      "question": "According to the text exercises, the rate determining step of Michaelis-Menten kinetics is:",
+      "options": [
+        "The complex dissociation of ES complex",
+        "The complex formation",
+        "The product formation",
+        "The product degradation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Based on the EXERCISES section, question 5: 'The rate determining step of Michaelis-Menten kinetics is (c) the product formation'.",
+      "ncertPage": 101,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q46",
+      "chapterId": "biotech_ch4",
+      "question": "Which metal ion serves as a cofactor for the enzyme Pyruvate kinase?",
+      "options": [
+        "Mg2+",
+        "K+",
+        "Mn2+",
+        "Ni2+"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to Table 4.2, the metal ion K+ serves as a cofactor for Pyruvate kinase.",
+      "ncertPage": 86,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q47",
+      "chapterId": "biotech_ch4",
+      "question": "Which coenzyme requires Folic acid (vitamin B9) as its precursor?",
+      "options": [
+        "Biocytin",
+        "Tetrahydrofolate",
+        "Pyridoxal phosphate",
+        "Thiamine pyrophosphate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Table 4.1 shows that Tetrahydrofolate uses Folic acid (vitamin B9) as its precursor.",
+      "ncertPage": 86,
+      "difficulty": "HARD",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q48",
+      "chapterId": "biotech_ch4",
+      "question": "What is the main function of the coenzyme Flavin adenine dinucleotide (FAD) in a catalytic reaction?",
+      "options": [
+        "Transfer of an alkyl group",
+        "Transfer of carbon dioxide",
+        "Transfer of electrons",
+        "Transfer of aldehydes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Table 4.1 outlines that Flavin adenine dinucleotide (FAD) is responsible for the transfer of electrons in a catalytic reaction.",
+      "ncertPage": 86,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q49",
+      "chapterId": "biotech_ch4",
+      "question": "The difference between the free energy of the transition state and the substrate is called:",
+      "options": [
+        "Enthalpy change",
+        "Gibbs free energy of activation",
+        "Entropy change",
+        "Standard free energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The difference between the free energy of transition state and substrate is called Gibbs free energy of activation or simply activation energy (ΔGA).",
+      "ncertPage": 91,
+      "difficulty": "MEDIUM",
+      "subject": "Biotechnology"
+    },
+    {
+      "mcqId": "11_biotech_ch4_q50",
+      "chapterId": "biotech_ch4",
+      "question": "Which type of specificity describes an enzyme that acts only on one particular substrate?",
+      "options": [
+        "Stereospecificity",
+        "Group specificity",
+        "Absolute specificity",
+        "Geometrical specificity"
+      ],
+      "correctIndex": 2,
+      "explanation": "When enzymes act only on one particular substrate, it is called absolute specificity.",
+      "ncertPage": 89,
+      "difficulty": "EASY",
+      "subject": "Biotechnology"
+    }
+  ]
+}

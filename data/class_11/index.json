@@ -1,0 +1,28 @@
+﻿{
+    "streams":  {
+                    "common":  [
+                                   "english",
+                                   "hindi"
+                               ],
+                    "commerce":  [
+                                     "accountancy",
+                                     "business_studies",
+                                     "economics"
+                                 ],
+                    "science":  [
+                                    "physics",
+                                    "chemistry",
+                                    "biology",
+                                    "mathematics",
+                                    "biotechnology"
+                                ],
+                    "arts":  [
+                                 "history",
+                                 "geography",
+                                 "fine_arts"
+                             ]
+                },
+    "classNumber":  11,
+    "displayName":  "Class 11",
+    "hasStreams":  true
+}
