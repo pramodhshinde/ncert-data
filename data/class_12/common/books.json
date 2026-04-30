@@ -1,8 +1,0 @@
-{
-  "books": [
-    { "id": 1231, "title": "Flamingo", "subtitle": "Class 12 NCERT English Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/lefl1.jpg", "language": "english", "classNumber": "Class 12", "subject": "English", "chapterCount": 8 },
-    { "id": 1232, "title": "Vistas", "subtitle": "Class 12 NCERT English Supplementary Reader", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/levs1.jpg", "language": "english", "classNumber": "Class 12", "subject": "English", "chapterCount": 8 },
-    { "id": 1233, "title": "Aroh (Part II)", "subtitle": "Class 12 NCERT Hindi", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/lhaa1.jpg", "language": "hindi", "classNumber": "Class 12", "subject": "Hindi", "chapterCount": 18 },
-    { "id": 1234, "title": "Vitan (Part II)", "subtitle": "Class 12 NCERT Hindi Supplementary", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/lhav1.jpg", "language": "hindi", "classNumber": "Class 12", "subject": "Hindi", "chapterCount": 4 }
-  ]
-}

@@ -1,8 +1,0 @@
-{
-  "books": [
-    { "id": 1131, "title": "Hornbill", "subtitle": "Class 11 NCERT English Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehb1.jpg", "language": "english", "classNumber": "Class 11", "subject": "English", "chapterCount": 8 },
-    { "id": 1132, "title": "Snapshots", "subtitle": "Class 11 NCERT English Supplementary", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kesn1.jpg", "language": "english", "classNumber": "Class 11", "subject": "English", "chapterCount": 8 },
-    { "id": 1133, "title": "Aroh (Part I)", "subtitle": "Class 11 NCERT Hindi", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khaa1.jpg", "language": "hindi", "classNumber": "Class 11", "subject": "Hindi", "chapterCount": 18 },
-    { "id": 1134, "title": "Vitan (Part I)", "subtitle": "Class 11 NCERT Hindi Supplementary", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khav1.jpg", "language": "hindi", "classNumber": "Class 11", "subject": "Hindi", "chapterCount": 3 }
-  ]
-}

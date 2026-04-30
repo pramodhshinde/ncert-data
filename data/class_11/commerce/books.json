@@ -1,9 +1,0 @@
-{
-  "books": [
-    { "id": 1111, "title": "Accountancy Part I", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keac1.jpg", "language": "english", "classNumber": "Class 11", "subject": "Accountancy", "chapterCount": 9 },
-    { "id": 1112, "title": "Accountancy Part II", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keac2.jpg", "language": "english", "classNumber": "Class 11", "subject": "Accountancy", "chapterCount": 6 },
-    { "id": 1113, "title": "Business Studies", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kebs1.jpg", "language": "english", "classNumber": "Class 11", "subject": "Business Studies", "chapterCount": 11 },
-    { "id": 1114, "title": "Statistics for Economics", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kest1.jpg", "language": "english", "classNumber": "Class 11", "subject": "Economics", "chapterCount": 9 },
-    { "id": 1115, "title": "Indian Economic Development", "subtitle": "Class 11 NCERT Textbook", "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keei1.jpg", "language": "english", "classNumber": "Class 11", "subject": "Economics", "chapterCount": 10 }
-  ]
-}

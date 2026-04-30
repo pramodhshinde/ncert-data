@@ -1,9 +1,0 @@
-{
-  "papers": [
-    { "id": 11011, "subjectId": 1, "subjectName": "Physics", "year": "2024", "title": "Physics Annual 2024 Set 1", "boardName": "NCERT / CBSE", "setNumber": "Set 1", "totalMarks": 70, "durationMins": 180, "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/physics/2024_set1.pdf", "fileSizeKb": 1680, "isPremium": false },
-    { "id": 11012, "subjectId": 1, "subjectName": "Physics", "year": "2023", "title": "Physics Annual 2023 Set 1", "boardName": "NCERT / CBSE", "setNumber": "Set 1", "totalMarks": 70, "durationMins": 180, "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/physics/2023_set1.pdf", "fileSizeKb": 1720, "isPremium": true },
-    { "id": 11021, "subjectId": 2, "subjectName": "Chemistry", "year": "2024", "title": "Chemistry Annual 2024 Set 1", "boardName": "NCERT / CBSE", "setNumber": "Set 1", "totalMarks": 70, "durationMins": 180, "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/chemistry/2024_set1.pdf", "fileSizeKb": 1600, "isPremium": false },
-    { "id": 11031, "subjectId": 3, "subjectName": "Biology", "year": "2024", "title": "Biology Annual 2024 Set 1", "boardName": "NCERT / CBSE", "setNumber": "Set 1", "totalMarks": 70, "durationMins": 180, "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/biology/2024_set1.pdf", "fileSizeKb": 1520, "isPremium": false },
-    { "id": 11041, "subjectId": 4, "subjectName": "Mathematics", "year": "2024", "title": "Mathematics Annual 2024 Set 1", "boardName": "NCERT / CBSE", "setNumber": "Set 1", "totalMarks": 80, "durationMins": 180, "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/maths/2024_set1.pdf", "fileSizeKb": 1840, "isPremium": false }
-  ]
-}
