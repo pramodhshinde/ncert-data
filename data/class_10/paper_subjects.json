@@ -1,8 +1,0 @@
-{
-  "subjects": [
-    { "id": 1, "name": "Science", "iconRes": 0, "colorHex": "#009688", "totalPapers": 30, "yearsAvailable": 10, "isPremium": false },
-    { "id": 2, "name": "Mathematics", "iconRes": 0, "colorHex": "#FF5722", "totalPapers": 30, "yearsAvailable": 10, "isPremium": false },
-    { "id": 3, "name": "Social Science", "iconRes": 0, "colorHex": "#795548", "totalPapers": 30, "yearsAvailable": 10, "isPremium": false },
-    { "id": 4, "name": "English", "iconRes": 0, "colorHex": "#607D8B", "totalPapers": 30, "yearsAvailable": 10, "isPremium": false }
-  ]
-}
