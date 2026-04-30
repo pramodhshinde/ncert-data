@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_bio_ch13_q1",
+      "chapterId": "bio_ch13",
+      "question": "How is growth defined in the context of a living being?",
+      "options": [
+        "A reversible change in the shape of an organ",
+        "An irreversible permanent increase in size of an organ or its parts or even of an individual cell",
+        "A temporary increase in volume due to water absorption",
+        "The sum of all catabolic processes in a cell"
+      ],
+      "correctIndex": 1,
+      "explanation": "Growth can be defined as an irreversible permanent increase in size of an organ or its parts or even of an individual cell.",
+      "ncertPage": 167,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q2",
+      "chapterId": "bio_ch13",
+      "question": "Plant growth is unique because plants retain the capacity for unlimited growth throughout their life. This ability is due to the presence of:",
+      "options": [
+        "Vascular tissues",
+        "Meristems at certain locations in their body",
+        "Thick cell walls",
+        "Abundant chloroplasts"
+      ],
+      "correctIndex": 1,
+      "explanation": "This ability of the plants is due to the presence of meristems at certain locations in their body. The cells of such meristems have the capacity to divide and self-perpetuate.",
+      "ncertPage": 167,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q3",
+      "chapterId": "bio_ch13",
+      "question": "The form of growth wherein new cells are always being added to the plant body by the activity of the meristem is called the:",
+      "options": [
+        "Closed form of growth",
+        "Determinate form of growth",
+        "Open form of growth",
+        "Exponential form of growth"
+      ],
+      "correctIndex": 2,
+      "explanation": "This form of growth wherein new cells are always being added to the plant body by the activity of the meristem is called the open form of growth.",
+      "ncertPage": 167,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q4",
+      "chapterId": "bio_ch13",
+      "question": "Which meristems are primarily responsible for the primary growth of the plants and contribute to their elongation along their axis?",
+      "options": [
+        "Vascular cambium and cork cambium",
+        "Interfascicular cambium",
+        "Root apical meristem and shoot apical meristem",
+        "Lateral meristems"
+      ],
+      "correctIndex": 2,
+      "explanation": "You have studied about the root apical meristem and the shoot apical meristem. You know that they are responsible for the primary growth of the plants and principally contribute to the elongation of the plants along their axis.",
+      "ncertPage": 168,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q5",
+      "chapterId": "bio_ch13",
+      "question": "In dicotyledonous plants and gymnosperms, what causes the increase in the girth of the organs?",
+      "options": [
+        "Apical meristems",
+        "Lateral meristems like vascular cambium and cork-cambium",
+        "Intercalary meristems",
+        "Permanent tissues"
+      ],
+      "correctIndex": 1,
+      "explanation": "You also know that in dicotyledonous plants and gymnosperms, the lateral meristems, vascular cambium and cork-cambium appear later in life. These are the meristems that cause the increase in the girth of the organs... This is known as secondary growth.",
+      "ncertPage": 168,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q6",
+      "chapterId": "bio_ch13",
+      "question": "At a cellular level, growth is principally a consequence of an increase in the amount of:",
+      "options": [
+        "Cellulose",
+        "Protoplasm",
+        "Vacuoles",
+        "Intercellular space"
+      ],
+      "correctIndex": 1,
+      "explanation": "Growth, at a cellular level, is principally a consequence of increase in the amount of protoplasm.",
+      "ncertPage": 168,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q7",
+      "chapterId": "bio_ch13",
+      "question": "A single maize root apical meristem can give rise to more than how many new cells per hour?",
+      "options": [
+        "1,500",
+        "5,000",
+        "17,500",
+        "3,50,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "You may find it amazing to know that one single maize root apical mersitem can give rise to more than 17,500 new cells per hour...",
+      "ncertPage": 168,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q8",
+      "chapterId": "bio_ch13",
+      "question": "In a watermelon, cells may increase in size by up to how many times?",
+      "options": [
+        "17,500 times",
+        "50,000 times",
+        "3,50,000 times",
+        "1,000,000 times"
+      ],
+      "correctIndex": 2,
+      "explanation": "...whereas cells in a watermelon may increase in size by upto 3,50,000 times.",
+      "ncertPage": 168,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q9",
+      "chapterId": "bio_ch13",
+      "question": "How is the growth of a pollen tube primarily measured?",
+      "options": [
+        "Increase in surface area",
+        "Increase in fresh weight",
+        "Increase in length",
+        "Increase in cell number"
+      ],
+      "correctIndex": 2,
+      "explanation": "While the growth of a pollen tube is measured in terms of its length, an increase in surface area denotes the growth in a dorsiventral leaf.",
+      "ncertPage": 168,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q10",
+      "chapterId": "bio_ch13",
+      "question": "What are the three phases into which the period of plant growth is generally divided?",
+      "options": [
+        "Lag, log, and stationary",
+        "Meristematic, elongation, and maturation",
+        "Arithmetic, geometric, and exponential",
+        "Juvenile, adult, and senescent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The period of growth is generally divided into three phases, namely, meristematic, elongation and maturation.",
+      "ncertPage": 168,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q11",
+      "chapterId": "bio_ch13",
+      "question": "Which of the following is a characteristic of cells in the meristematic phase of growth?",
+      "options": [
+        "They have thick secondary cell walls",
+        "They lack a nucleus",
+        "They are rich in protoplasm and possess large conspicuous nuclei",
+        "They exhibit maximal vacuolation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cells in this region are rich in protoplasm, possess large conspicuous nuclei. Their cell walls are primary in nature...",
+      "ncertPage": 168,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q12",
+      "chapterId": "bio_ch13",
+      "question": "Increased vacuolation, cell enlargement, and new cell wall deposition are characteristics of cells in which phase of growth?",
+      "options": [
+        "Meristematic phase",
+        "Phase of elongation",
+        "Phase of maturation",
+        "Senescent phase"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cells proximal (just next, away from the tip) to the meristematic zone represent the phase of elongation. Increased vacuolation, cell enlargement and new cell wall deposition are the characteristics of the cells in this phase.",
+      "ncertPage": 168,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q13",
+      "chapterId": "bio_ch13",
+      "question": "In arithmetic growth, what happens to the daughter cells following a mitotic cell division?",
+      "options": [
+        "Both daughter cells continue to divide indefinitely",
+        "Neither daughter cell divides further",
+        "Only one daughter cell continues to divide while the other differentiates and matures",
+        "Both daughter cells fuse to form a zygote"
+      ],
+      "correctIndex": 2,
+      "explanation": "In arithmetic growth, following mitotic cell division, only one daughter cell continues to divide while the other differentiates and matures.",
+      "ncertPage": 170,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q14",
+      "chapterId": "bio_ch13",
+      "question": "Which mathematical equation correctly expresses arithmetic growth where length is plotted against time?",
+      "options": [
+        "$W_1 = W_0 e^{rt}$",
+        "$L_t = L_0 + rt$",
+        "$L_t = L_0 \\times rt$",
+        "$W_t = W_0 + rt^2$"
+      ],
+      "correctIndex": 1,
+      "explanation": "On plotting the length of the organ against time, a linear curve is obtained. Mathematically, it is expressed as $L_t = L_0 + rt$.",
+      "ncertPage": 170,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q15",
+      "chapterId": "bio_ch13",
+      "question": "What is the shape of the curve obtained when the parameter of geometrical growth is plotted against time in a natural environment?",
+      "options": [
+        "A linear curve",
+        "A hyperbolic curve",
+        "A typical sigmoid or S-curve",
+        "A bell-shaped curve"
+      ],
+      "correctIndex": 2,
+      "explanation": "If we plot the parameter of growth against time, we get a typical sigmoid or S-curve. A sigmoid curve is a characteristic of living organism growing in a natural environment.",
+      "ncertPage": 170,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q16",
+      "chapterId": "bio_ch13",
+      "question": "In geometrical growth, what causes the growth to slow down after the exponential phase, leading to a stationary phase?",
+      "options": [
+        "Unlimited nutrient supply",
+        "Accumulation of toxins only",
+        "Limited nutrient supply",
+        "Absence of meristems"
+      ],
+      "correctIndex": 2,
+      "explanation": "However, with limited nutrient supply, the growth slows down leading to a stationary phase.",
+      "ncertPage": 170,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q17",
+      "chapterId": "bio_ch13",
+      "question": "In the exponential growth equation $W_1 = W_0 e^{rt}$, what does 'r' represent?",
+      "options": [
+        "Final size",
+        "Initial size",
+        "Base of natural logarithms",
+        "Relative growth rate (efficiency index)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Here, r is the relative growth rate and is also the measure of the ability of the plant to produce new plant material, referred to as efficiency index.",
+      "ncertPage": 170,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q18",
+      "chapterId": "bio_ch13",
+      "question": "The measurement and comparison of total growth per unit time is called the:",
+      "options": [
+        "Relative growth rate",
+        "Absolute growth rate",
+        "Exponential growth rate",
+        "Arithmetic growth rate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quantitative comparisons between the growth of living system can also be made in two ways: (i) measurement and the comparison of total growth per unit time is called the absolute growth rate.",
+      "ncertPage": 171,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q19",
+      "chapterId": "bio_ch13",
+      "question": "The growth of a given system per unit time expressed on a common basis (e.g., per unit initial parameter) is known as:",
+      "options": [
+        "Absolute growth rate",
+        "Geometric growth rate",
+        "Relative growth rate",
+        "Stationary growth rate"
+      ],
+      "correctIndex": 2,
+      "explanation": "(ii) The growth of the given system per unit time expressed on a common basis, e.g., per unit initial parameter is called the relative growth rate.",
+      "ncertPage": 171,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q20",
+      "chapterId": "bio_ch13",
+      "question": "What property of plant cells helps in their extension growth?",
+      "options": [
+        "Rigidity of the secondary cell wall",
+        "Turgidity of cells",
+        "Absence of vacuoles",
+        "High density of plastids"
+      ],
+      "correctIndex": 1,
+      "explanation": "The plant cells grow in size by cell enlargement which in turn requires water. Turgidity of cells helps in extension growth.",
+      "ncertPage": 171,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q21",
+      "chapterId": "bio_ch13",
+      "question": "The act leading to the maturation of cells derived from meristems, where they undergo structural changes to perform specific functions, is termed:",
+      "options": [
+        "Dedifferentiation",
+        "Redifferentiation",
+        "Differentiation",
+        "Plasticity"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cells derived from root apical and shoot-apical meristems and cambium differentiate and mature to perform specific functions. This act leading to maturation is termed as differentiation.",
+      "ncertPage": 172,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q22",
+      "chapterId": "bio_ch13",
+      "question": "During differentiation into a tracheary element, a plant cell undergoes which of the following changes?",
+      "options": [
+        "It regains the capacity to divide",
+        "It loses its protoplasm and develops a strong, lignocellulosic secondary cell wall",
+        "It forms a highly conspicuous nucleus",
+        "It becomes a specialized guard cell"
+      ],
+      "correctIndex": 1,
+      "explanation": "For example, to form a tracheary element, the cells would lose their protoplasm. They also develop a very strong, elastic, lignocellulosic secondary cell walls...",
+      "ncertPage": 172,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q23",
+      "chapterId": "bio_ch13",
+      "question": "The phenomenon where living differentiated cells, which have lost the capacity to divide, regain the capacity of division under certain conditions is called:",
+      "options": [
+        "Differentiation",
+        "Redifferentiation",
+        "Dedifferentiation",
+        "Maturation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The living differentiated cells, that by now have lost the capacity to divide can regain the capacity of division under certain conditions. This phenomenon is termed as dedifferentiation.",
+      "ncertPage": 172,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q24",
+      "chapterId": "bio_ch13",
+      "question": "Which of the following is an example of dedifferentiation in plants?",
+      "options": [
+        "Formation of a tracheary element",
+        "Formation of root-cap cells",
+        "Formation of interfascicular cambium and cork cambium from fully differentiated parenchyma cells",
+        "Formation of epidermal cells"
+      ],
+      "correctIndex": 2,
+      "explanation": "For example, formation of meristems - interfascicular cambium and cork cambium from fully differentiated parenchyma cells.",
+      "ncertPage": 172,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q25",
+      "chapterId": "bio_ch13",
+      "question": "When dedifferentiated tissues divide and produce cells that once again lose the capacity to divide but mature to perform specific functions, the process is called:",
+      "options": [
+        "Dedifferentiation",
+        "Redifferentiation",
+        "Plasticity",
+        "Indeterminate growth"
+      ],
+      "correctIndex": 1,
+      "explanation": "While doing so, such meristems/tissues are able to divide and produce cells that once again lose the capacity to divide but mature to perform specific functions, i.e., get redifferentiated.",
+      "ncertPage": 172,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q26",
+      "chapterId": "bio_ch13",
+      "question": "Why is differentiation in plants considered 'open'?",
+      "options": [
+        "Because cells can never lose their dividing capacity",
+        "Because it only occurs during the seedling stage",
+        "Because cells/tissues arising out of the same meristem have different structures at maturity depending on their location",
+        "Because differentiation is not affected by external environmental factors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Now, we may say that even differentiation in plants is open, because cells/tissues arising out of the same meristem have different structures at maturity. The final structure at maturity of a cell/tissue is also determined by the location of the cell within.",
+      "ncertPage": 172,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q27",
+      "chapterId": "bio_ch13",
+      "question": "Broadly, development in plants is considered as the sum of:",
+      "options": [
+        "Respiration and photosynthesis",
+        "Growth and differentiation",
+        "Mitosis and meiosis",
+        "Plasmolysis and turgidity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Broadly, development is considered as the sum of growth and differentiation.",
+      "ncertPage": 174,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q28",
+      "chapterId": "bio_ch13",
+      "question": "The ability of plants to follow different pathways in response to environment or phases of life to form different kinds of structures is called:",
+      "options": [
+        "Heterophylly",
+        "Plasticity",
+        "Dedifferentiation",
+        "Apical dominance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plants follow different pathways in response to environment or phases of life to form different kinds of structures. This ability is called plasticity...",
+      "ncertPage": 173,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q29",
+      "chapterId": "bio_ch13",
+      "question": "In buttercup, the difference in shapes of leaves produced in air and those produced in water represents heterophyllous development due to:",
+      "options": [
+        "Age of the plant",
+        "Genetic mutation",
+        "Environment",
+        "Viral infection"
+      ],
+      "correctIndex": 2,
+      "explanation": "On the other hand, difference in shapes of leaves produced in air and those produced in water in buttercup also represent the heterophyllous development due to environment.",
+      "ncertPage": 173,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q30",
+      "chapterId": "bio_ch13",
+      "question": "Which of the following plant growth regulators (PGRs) is an adenine derivative?",
+      "options": [
+        "Indole-3-acetic acid (IAA)",
+        "Kinetin",
+        "Abscisic acid (ABA)",
+        "Gibberellic acid (GA3)"
+      ],
+      "correctIndex": 1,
+      "explanation": "They could be indole compounds (indole-3-acetic acid, IAA); adenine derivatives (N6-furfurylamino purine, kinetin)...",
+      "ncertPage": 174,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q31",
+      "chapterId": "bio_ch13",
+      "question": "Abscisic acid (ABA) is a derivative of which class of compounds?",
+      "options": [
+        "Indoles",
+        "Terpenes",
+        "Carotenoids",
+        "Purines"
+      ],
+      "correctIndex": 2,
+      "explanation": "...derivatives of carotenoids (abscisic acid, ABA)...",
+      "ncertPage": 174,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q32",
+      "chapterId": "bio_ch13",
+      "question": "Which of the following PGRs is a gas?",
+      "options": [
+        "Abscisic acid",
+        "Ethylene",
+        "Kinetin",
+        "Gibberellic acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "...or gases (ethylene, C2H4).",
+      "ncertPage": 174,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q33",
+      "chapterId": "bio_ch13",
+      "question": "Who observed that the coleoptiles of canary grass responded to unilateral illumination by growing towards the light source?",
+      "options": [
+        "E. Kurosawa",
+        "F.W. Went",
+        "Charles Darwin and his son Francis Darwin",
+        "H.H. Cousins"
+      ],
+      "correctIndex": 2,
+      "explanation": "All this started with the observation of Charles Darwin and his son Francis Darwin when they observed that the coleoptiles of canary grass responded to unilateral illumination by growing towards the light source...",
+      "ncertPage": 174,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q34",
+      "chapterId": "bio_ch13",
+      "question": "Auxin was isolated by F.W. Went from the tips of coleoptiles of which plant?",
+      "options": [
+        "Canary grass",
+        "Oat seedlings",
+        "Tobacco stems",
+        "Rice seedlings"
+      ],
+      "correctIndex": 1,
+      "explanation": "Auxin was isolated by F.W. Went from tips of coleoptiles of oat seedlings.",
+      "ncertPage": 174,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q35",
+      "chapterId": "bio_ch13",
+      "question": "The 'bakanae' (foolish seedling) disease of rice seedlings was caused by a:",
+      "options": [
+        "Bacterium",
+        "Virus",
+        "Fungal pathogen",
+        "Nematode"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'bakanae' (foolish seedling) disease of rice seedlings, was caused by a fungal pathogen Gibberella fujikuroi.",
+      "ncertPage": 175,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q36",
+      "chapterId": "bio_ch13",
+      "question": "Who identified and crystallised the cytokinesis promoting active substance and termed it kinetin?",
+      "options": [
+        "E. Kurosawa",
+        "F.W. Went",
+        "Charles Darwin",
+        "Miller et al."
+      ],
+      "correctIndex": 3,
+      "explanation": "Miller et al. (1955), later identified and crystallised the cytokinesis promoting active substance that they termed kinetin.",
+      "ncertPage": 175,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q37",
+      "chapterId": "bio_ch13",
+      "question": "During the mid-1960s, three independent researches reported three different kinds of inhibitors (inhibitor-B, abscission II, and dormin) which were later proved to be chemically identical. What was it named?",
+      "options": [
+        "Indole-3-acetic acid",
+        "Abscisic acid (ABA)",
+        "Ethylene",
+        "Zeatin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Later all the three were proved to be chemically identical. It was named abscisic acid (ABA).",
+      "ncertPage": 175,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q38",
+      "chapterId": "bio_ch13",
+      "question": "Auxins were first isolated from:",
+      "options": [
+        "Oat coleoptiles",
+        "Human urine",
+        "Herring sperm DNA",
+        "Ripened oranges"
+      ],
+      "correctIndex": 1,
+      "explanation": "Auxins (from Greek 'auxein': to grow) was first isolated from human urine.",
+      "ncertPage": 175,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q39",
+      "chapterId": "bio_ch13",
+      "question": "Which of the following is a synthetic auxin?",
+      "options": [
+        "IAA",
+        "IBA",
+        "Zeatin",
+        "NAA (naphthalene acetic acid)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Auxins like IAA and indole butyric acid (IBA) have been isolated from plants. NAA (naphthalene acetic acid) and 2, 4-D (2, 4-dichlorophenoxyacetic) are synthetic auxins.",
+      "ncertPage": 175,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q40",
+      "chapterId": "bio_ch13",
+      "question": "The phenomenon in most higher plants where the growing apical bud inhibits the growth of the lateral (axillary) buds is called:",
+      "options": [
+        "Apical dominance",
+        "Parthenocarpy",
+        "Heterophylly",
+        "Phototropism"
+      ],
+      "correctIndex": 0,
+      "explanation": "In most higher plants, the growing apical bud inhibits the growth of the lateral (axillary) buds, a phenomenon called apical dominance.",
+      "ncertPage": 175,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q41",
+      "chapterId": "bio_ch13",
+      "question": "Which synthetic auxin is widely used as a herbicide to kill dicotyledonous weeds without affecting mature monocotyledonous plants?",
+      "options": [
+        "NAA",
+        "IBA",
+        "2, 4-D",
+        "IAA"
+      ],
+      "correctIndex": 2,
+      "explanation": "2, 4-D, widely used to kill dicotyledonous weeds, does not affect mature monocotyledonous plants.",
+      "ncertPage": 176,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q42",
+      "chapterId": "bio_ch13",
+      "question": "Which plant growth regulator is used to speed up the malting process in the brewing industry?",
+      "options": [
+        "Auxin",
+        "Cytokinin",
+        "Ethylene",
+        "GA3 (Gibberellic acid)"
+      ],
+      "correctIndex": 3,
+      "explanation": "GA3 is used to speed up the malting process in brewing industry.",
+      "ncertPage": 176,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q43",
+      "chapterId": "bio_ch13",
+      "question": "Spraying sugarcane crop with which PGR increases the length of the stem, yielding up to 20 tonnes extra per acre?",
+      "options": [
+        "Ethylene",
+        "Gibberellins",
+        "Abscisic acid",
+        "Kinetin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spraying sugarcane crop with gibberellins increases the length of the stem, thus increasing the yield by as much as 20 tonnes per acre.",
+      "ncertPage": 176,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q44",
+      "chapterId": "bio_ch13",
+      "question": "The process of internode elongation just prior to flowering in plants with a rosette habit, promoted by gibberellins, is known as:",
+      "options": [
+        "Bolting",
+        "Decapitation",
+        "Parthenocarpy",
+        "Senescence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gibberellins also promotes bolting (internode elongation just prior to flowering) in beet, cabbages and many plants with rosette habit.",
+      "ncertPage": 176,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q45",
+      "chapterId": "bio_ch13",
+      "question": "Zeatin, a naturally occurring cytokinin, was isolated from:",
+      "options": [
+        "Autoclaved herring sperm DNA",
+        "Human urine",
+        "Corn-kernels and coconut milk",
+        "Oat coleoptiles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Search for natural substances with cytokinin-like activities led to the isolation of zeatin from corn-kernels and coconut milk.",
+      "ncertPage": 176,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q46",
+      "chapterId": "bio_ch13",
+      "question": "Which plant growth regulator helps overcome apical dominance and promotes nutrient mobilisation to delay leaf senescence?",
+      "options": [
+        "Auxin",
+        "Gibberellins",
+        "Cytokinins",
+        "Abscisic acid"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cytokinins help overcome the apical dominance. They promote nutrient mobilisation which helps in the delay of leaf senescence.",
+      "ncertPage": 177,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q47",
+      "chapterId": "bio_ch13",
+      "question": "Which simple gaseous PGR is highly effective in fruit ripening and enhances the respiration rate (respiratory climactic)?",
+      "options": [
+        "Abscisic acid",
+        "Ethylene",
+        "Kinetin",
+        "Zeatin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ethylene is highly effective in fruit ripening. It enhances the respiration rate during ripening of the fruits. This rise in rate of respiration is called respiratory climactic.",
+      "ncertPage": 177,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q48",
+      "chapterId": "bio_ch13",
+      "question": "What is the most widely used compound as a source of ethylene in agriculture, which hastens fruit ripening in tomatoes and apples?",
+      "options": [
+        "Indole butyric acid",
+        "Ethephon",
+        "Kinetin",
+        "NAA"
+      ],
+      "correctIndex": 1,
+      "explanation": "The most widely used compound as source of ethylene is ethephon. Ethephon... hastens fruit ripening in tomatoes and apples...",
+      "ncertPage": 177,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q49",
+      "chapterId": "bio_ch13",
+      "question": "Because it stimulates the closure of stomata and increases plant tolerance to various kinds of stresses, Abscisic acid (ABA) is also known as the:",
+      "options": [
+        "Ripening hormone",
+        "Stress hormone",
+        "Bolting hormone",
+        "Rooting hormone"
+      ],
+      "correctIndex": 1,
+      "explanation": "ABA stimulates the closure of stomata and increases the tolerance of plants to various kinds of stresses. Therefore, it is also called the stress hormone.",
+      "ncertPage": 177,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch13_q50",
+      "chapterId": "11_bio_ch13",
+      "question": "In most situations, Abscisic acid (ABA) acts as an antagonist to which other plant growth regulator?",
+      "options": [
+        "Auxins",
+        "Cytokinins",
+        "Gibberellic acids (GAs)",
+        "Ethylene"
+      ],
+      "correctIndex": 2,
+      "explanation": "In most situations, ABA acts as an antagonist to GAs.",
+      "ncertPage": 178,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    }
+  ]
+}

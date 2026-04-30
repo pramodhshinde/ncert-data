@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_fine_arts_ch8_q1",
+      "chapterId": "fine_arts_ch8",
+      "question": "When did large-scale building activity begin under the Delhi Sultanate after the Turkish conquest of northern India?",
+      "options": [
+        "Seventh century CE",
+        "Eighth century CE",
+        "Early thirteenth century",
+        "Late fifteenth century"
+      ],
+      "correctIndex": 2,
+      "explanation": "Although by the eighth century CE, Muslims had begun to construct in Sind, Gujarat, etc., it was only in the early thirteenth century that large-scale building activity begun under the Delhi Sultanate.",
+      "ncertPage": 109,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q2",
+      "chapterId": "fine_arts_ch8",
+      "question": "What is the architectural technique that uses brackets, pillars, and lintels to support a flat roof or small shallow dome?",
+      "options": [
+        "Arcuate",
+        "Trabeation",
+        "Tessellation",
+        "Pietra dura"
+      ],
+      "correctIndex": 1,
+      "explanation": "Certain techniques and embellishments were prevalent and popular, such as trabeation (brackets, pillars and lintels) to support a flat roof or a small shallow dome.",
+      "ncertPage": 109,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q3",
+      "chapterId": "fine_arts_ch8",
+      "question": "What structural form was introduced to support the weight of domes, replacing wooden and stone arches?",
+      "options": [
+        "Corbelled",
+        "Archuate form",
+        "Labyrinth form",
+        "Post and lintel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Now, however, the archuate form of construction was introduced gradually in which arches could support the weight of the domes.",
+      "ncertPage": 109,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q4",
+      "chapterId": "fine_arts_ch8",
+      "question": "What are 'voussoirs' in the context of Indo-Islamic architecture?",
+      "options": [
+        "Tall tapering towers",
+        "A series of interlocking blocks used to construct arches",
+        "Ornamental lattice screens",
+        "Floral motifs painted on stone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Such arches needed to be constructed with voussoirs (series of interlocking blocks) and fitted with keystones.",
+      "ncertPage": 109,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q5",
+      "chapterId": "fine_arts_ch8",
+      "question": "What structural elements enabled domes to span large spaces, leaving interiors free of pillars?",
+      "options": [
+        "Jalis and lintels",
+        "Pendatives and squinches",
+        "Bosses and medallions",
+        "Minarets and cupolas"
+      ],
+      "correctIndex": 1,
+      "explanation": "The domes, resting on pendatives and squinches enabled spanning of large spaces leaving the interiors free of pillars.",
+      "ncertPage": 109,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q6",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which forms of art did Muslims develop for their religious architecture since they were forbidden to replicate living forms?",
+      "options": [
+        "Human portraits and narrative friezes",
+        "Animal sculptures in high relief",
+        "Arabesque, geometrical patterns, and calligraphy",
+        "Terracotta figurines of deities"
+      ],
+      "correctIndex": 2,
+      "explanation": "Muslims, forbidden to replicate living forms on any surface, developed their religious art and architecture consisting of the arts of arabesque, geometrical patterns and calligraphy on plaster and stone.",
+      "ncertPage": 109,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q7",
+      "chapterId": "fine_arts_ch8",
+      "question": "The architectural styles from Bijapur and Golconda are conventionally categorised under which style?",
+      "options": [
+        "Imperial Style",
+        "Provincial Style",
+        "Mughal Style",
+        "Deccani Style"
+      ],
+      "correctIndex": 3,
+      "explanation": "The study of Indo-Islamic architecture is conventionally categorised into the Imperial Style... the Provincial Style... the Mughal Style... and the Deccani Style (Bijapur, Golconda).",
+      "ncertPage": 110,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q8",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which of the following is categorised under the Provincial Style of Indo-Islamic architecture?",
+      "options": [
+        "Delhi Sultanate",
+        "Delhi, Agra, and Lahore",
+        "Mandu, Gujarat, Bengal, and Jaunpur",
+        "Bijapur and Golconda"
+      ],
+      "correctIndex": 2,
+      "explanation": "The study of Indo-Islamic architecture is conventionally categorised into the... Provincial Style (Mandu, Gujarat, Bengal, and Jaunpur).",
+      "ncertPage": 110,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q9",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which provincial style borrowed heavily from regional temple traditions like toranas, carvings of bell and chain motifs, and carved panels depicting trees?",
+      "options": [
+        "Bengal",
+        "Jaunpur",
+        "Gujarat",
+        "Bijapur"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gujarat was said to have a markedly regional character for patrons borrowed elements from regional temple traditions such as toranas... and carved panels depicting trees, for tombs, mosques and dargahs.",
+      "ncertPage": 111,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q10",
+      "chapterId": "fine_arts_ch8",
+      "question": "The 15th-century white marble dargah of Shaikh Ahmad Khattu of Sarkhej heavily influenced the form and decoration of which structures?",
+      "options": [
+        "Deccani forts",
+        "Mughal tombs",
+        "Rajput palaces",
+        "Tughlaq minars"
+      ],
+      "correctIndex": 1,
+      "explanation": "The fifteenth century white marble dargah of Shaikh Ahmad Khattu of Sarkhej is a good example of provincial style and it heavily influenced the form and decoration of Mughal tombs.",
+      "ncertPage": 111,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q11",
+      "chapterId": "fine_arts_ch8",
+      "question": "Where was the lotus bud fringe commonly used to great advantage in Indo-Islamic architecture?",
+      "options": [
+        "On the outer courtyard walls",
+        "In the inner curves of the arches",
+        "At the very top of the minars",
+        "Around the base of the dome"
+      ],
+      "correctIndex": 1,
+      "explanation": "The lotus bud fringe was used to great advantage in the inner curves of the arches.",
+      "ncertPage": 111,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q12",
+      "chapterId": "fine_arts_ch8",
+      "question": "What is the technique of using pictorial mosaic designs with semi-precious stones for surface decoration known as?",
+      "options": [
+        "Tessellation",
+        "Pietra dura",
+        "Arabesque",
+        "Stucco"
+      ],
+      "correctIndex": 1,
+      "explanation": "Subsequently the techniques of tessellation (mosaic designs) and pietra dura were made use of for surface decoration particularly in the dado panels of the walls.",
+      "ncertPage": 111,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q13",
+      "chapterId": "fine_arts_ch8",
+      "question": "From which century onwards were arches designed with trefoil or multiple foliations?",
+      "options": [
+        "Thirteenth century",
+        "Fourteenth century",
+        "Fifteenth century",
+        "Sixteenth century"
+      ],
+      "correctIndex": 3,
+      "explanation": "From the sixteenth century onwards arches were designed with trefoil or multiple foliations.",
+      "ncertPage": 111,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q14",
+      "chapterId": "fine_arts_ch8",
+      "question": "How were the spandrels of the arches typically decorated?",
+      "options": [
+        "With plain plaster",
+        "With medallions or bosses",
+        "With interlocking brickwork",
+        "With lotus bud fringes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spandrels of the arches were decorated with medallions or bosses.",
+      "ncertPage": 111,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q15",
+      "chapterId": "fine_arts_ch8",
+      "question": "What material was largely used to construct the extremely thick walls of medieval buildings before they were plastered?",
+      "options": [
+        "Polychrome tiles",
+        "Rubble masonry",
+        "Dressed marble",
+        "Teak wood"
+      ],
+      "correctIndex": 1,
+      "explanation": "The walls in all buildings were extremely thick and were largely constructed of rubble masonary, which was easily available. These walls were then cased over with chunam...",
+      "ncertPage": 112,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q16",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which material, utilized from the beginning of the seventeenth century, imparted greater flexibility to the structures?",
+      "options": [
+        "Limestone plaster",
+        "Bricks",
+        "Dressed stone",
+        "Sandstone"
+      ],
+      "correctIndex": 1,
+      "explanation": "From the beginning of the seventeenth century, bricks were also used for construction and these imparted greater flexibility to the structures.",
+      "ncertPage": 112,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q17",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which specific architectural feature at Daulatabad Fort was designed to confound the enemy and prevent elephants from pushing gates open?",
+      "options": [
+        "Concentric circular walls",
+        "Staggered entrances",
+        "A deep water motto",
+        "Hidden underground tunnels"
+      ],
+      "correctIndex": 1,
+      "explanation": "Daulatabad had several strategic devices to confound the enemy, such as staggered entrances so that gates could not be opened even with the help of elephants.",
+      "ncertPage": 113,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q18",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which Mughal emperor was said to have been overawed at the sight of the Gwalior Fort?",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Babur",
+        "Humayun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Babur, who did not find much merit in many things he saw in Hindustan, was said to have been overawed at the sight of the Gwalior Fort.",
+      "ncertPage": 113,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q19",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which fort bears the distinction of being the largest fort in Asia?",
+      "options": [
+        "Gwalior Fort",
+        "Chittorgarh",
+        "Daulatabad",
+        "Golconda"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chittorgarh bears the distinction of being the largest fort in Asia and was occupied for the longest length of time as the seat of power.",
+      "ncertPage": 113,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q20",
+      "chapterId": "fine_arts_ch8",
+      "question": "What was the everyday practical use of the minars attached to mosques?",
+      "options": [
+        "As a watchtower for the military",
+        "For the azaan or call to prayer",
+        "As a lighthouse for travelers",
+        "To display the royal flag"
+      ],
+      "correctIndex": 1,
+      "explanation": "The everyday use of the minar was for the azaan or call to prayer.",
+      "ncertPage": 114,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q21",
+      "chapterId": "fine_arts_ch8",
+      "question": "The Qutub Minar is a 234-feet-high tapering tower divided into how many storeys?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Seven"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Qutub Minar, built in the thirteenth century, is a 234-feet-high tapering tower divided into five storeys.",
+      "ncertPage": 114,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q22",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which revered saint of Delhi became associated with the Qutub Minar?",
+      "options": [
+        "Shaikh Ahmad Khattu",
+        "Khwaja Qutbuddin Bakhtiyar Kaki",
+        "Nizamuddin Auliya",
+        "Moinuddin Chishti"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Qutub Minar also came to be associated with the much revered saint of Delhi, Khwaja Qutbuddin Bakhtiyar Kaki.",
+      "ncertPage": 114,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q23",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which fifteenth-century minar boasts of chevron patterning on encaustic tile work and is painted peach?",
+      "options": [
+        "Qutub Minar",
+        "Chand Minar at Daulatabad",
+        "Kos minar",
+        "Minar of Jama Masjid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chand Minar, built in the fifteenth century, is a 210- feet-high tapering tower divided into four storeys. Painted peach now, its façade once boasted of chevron patterning on the encaustic tile work...",
+      "ncertPage": 114,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q24",
+      "chapterId": "fine_arts_ch8",
+      "question": "According to Anthony Welch, what was the primary idea behind the monumental tomb structures in medieval India?",
+      "options": [
+        "To mark the center of the city",
+        "Eternal paradise as a reward for the true believer",
+        "To serve as a fortress in times of war",
+        "To store the wealth of the royal family"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to Anthony Welch, the idea behind the tomb was eternal paradise as a reward for the true believer on the Day of Judgement.",
+      "ncertPage": 114,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q25",
+      "chapterId": "fine_arts_ch8",
+      "question": "What type of setting were monumental tombs, such as the Taj Mahal and Humayun's tomb, placed within to reflect paradisiacal imagery?",
+      "options": [
+        "A deep mountain valley",
+        "A Chahar Bagh or near a body of water",
+        "A dense forest enclosure",
+        "A busy public bazaar"
+      ],
+      "correctIndex": 1,
+      "explanation": "...the tomb was, subsequently, placed within paradisiacal elements such as a garden or near a body of water or both, as is in the case of the Humayun's tomb and the Taj Mahal, which follows the charbagh style.",
+      "ncertPage": 115,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q26",
+      "chapterId": "fine_arts_ch8",
+      "question": "What was the main purpose of sarais in medieval India?",
+      "options": [
+        "To serve as permanent palaces for the king",
+        "To provide temporary accommodation to travelers and merchants",
+        "To function as local tax collection offices",
+        "To train the military"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sarais were largely built on a simple square or rectangular plan and were meant to provide temporary accommodation to Indian and foreign travellers, pilgrims, merchants, traders, etc.",
+      "ncertPage": 115,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q27",
+      "chapterId": "fine_arts_ch8",
+      "question": "Where is the city of Mandu geographically located?",
+      "options": [
+        "On the Deccan Plateau",
+        "Sixty miles from Indore, overlooking the Malwa Plateau and Narmada valley",
+        "In the plains of Bengal",
+        "On the banks of the Yamuna in Agra"
+      ],
+      "correctIndex": 1,
+      "explanation": "The city of Mandu is located sixty miles from Indore, at an elevation of over 2000 feet and overlooks the Malwa Plateau to the north and the Narmada valley to the south.",
+      "ncertPage": 117,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q28",
+      "chapterId": "fine_arts_ch8",
+      "question": "Mandu acquired a lot of fame as the capital city of which dynasty founded by Hoshang Shah?",
+      "options": [
+        "Tughlaq Dynasty",
+        "Ghauri Dynasty",
+        "Khilji Dynasty",
+        "Adil Shahi Dynasty"
+      ],
+      "correctIndex": 1,
+      "explanation": "As the capital city of Ghauri Dynasty (1401-1561) founded by Hoshang Shah it acquired a lot of fame.",
+      "ncertPage": 117,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q29",
+      "chapterId": "fine_arts_ch8",
+      "question": "Why were the buildings in Mandu designed as arched pavilions that were light and airy?",
+      "options": [
+        "To save construction materials",
+        "To blend in with Islamic traditions completely",
+        "So that these buildings did not retain heat",
+        "To allow easy defense against attacks"
+      ],
+      "correctIndex": 2,
+      "explanation": "In spite of the size or monumentality, the structures were very close to nature, designed in the style of arched pavilions, light and airy, so that these buildings did not retain heat.",
+      "ncertPage": 117,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q30",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which building in Mandu looks like a railway viaduct bridge due to its disproportionately large buttresses?",
+      "options": [
+        "Jahaaz Mahal",
+        "Hindola Mahal",
+        "Asharfi Mahal",
+        "Hoshang Shah's tomb"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Hindola Mahal looks like a railway viaduct bridge with its disproportionately large buttresses supporting the walls.",
+      "ncertPage": 117,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q31",
+      "chapterId": "fine_arts_ch8",
+      "question": "What was the original function of the Hindola Mahal in Mandu?",
+      "options": [
+        "A madrasa",
+        "A tomb",
+        "The audience hall of the Sultan",
+        "A recreational swimming pool"
+      ],
+      "correctIndex": 2,
+      "explanation": "This was the audience hall of the Sultan and also the place where he showed himself to his subjects.",
+      "ncertPage": 117,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q32",
+      "chapterId": "fine_arts_ch8",
+      "question": "What architectural effect was used effectively to give the walls of Hindola Mahal an impression of swinging?",
+      "options": [
+        "Batter",
+        "Chevron patterns",
+        "Pendentives",
+        "Squinches"
+      ],
+      "correctIndex": 0,
+      "explanation": "Batter was used very effectively to give an impression of swinging (Hindola) walls.",
+      "ncertPage": 117,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q33",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which elegant two-storey 'ship-palace' in Mandu is situated between two reservoirs?",
+      "options": [
+        "Hindola Mahal",
+        "Asharfi Mahal",
+        "Jahaaz Mahal",
+        "Baz Bahadur's palace"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jahaaz Mahal is an elegant two-storey 'ship-palace' between two reservoirs, with open pavilions, balconies overhanging the water and a terrace.",
+      "ncertPage": 117,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q34",
+      "chapterId": "fine_arts_ch8",
+      "question": "Who built the Jahaaz Mahal in Mandu, possibly using it as his harem and ultimate pleasure resort?",
+      "options": [
+        "Hoshang Shah",
+        "Sultan Baz Bahadur",
+        "Sultan Ghiyasuddin Khilji",
+        "Muhammad Adil Shah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Built by Sultan Ghiyasuddin Khilji it was possibly used as his harem and as the ultimate pleasure and recreational resort.",
+      "ncertPage": 117,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q35",
+      "chapterId": "fine_arts_ch8",
+      "question": "What kind of structure was the Asharfi Mahal in Mandu, which now lies in ruins?",
+      "options": [
+        "A palace",
+        "A madrasa",
+        "A mosque",
+        "A sarai"
+      ],
+      "correctIndex": 1,
+      "explanation": "A madrasa called Asharfi Mahal now lies in ruins.",
+      "ncertPage": 118,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q36",
+      "chapterId": "fine_arts_ch8",
+      "question": "Which structure in Mandu is regarded as an example of robust Afghan architecture but softened by lattice work, carved brackets, and toranas?",
+      "options": [
+        "Jahaaz Mahal",
+        "Hoshang Shah's tomb",
+        "Jama Masjid",
+        "Rani Rupmati's pavilion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hoshang Shah's tomb is a majestic structure... It is regarded as an example of the robustness of Afghan structures, but its lattice work, carved brackets and toranas lend it a softer hue.",
+      "ncertPage": 118,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q37",
+      "chapterId": "fine_arts_ch8",
+      "question": "What material is the Jama Masjid of Mandu faced with?",
+      "options": [
+        "White marble",
+        "Dark gray basalt",
+        "Red sandstone",
+        "Encaustic tiles"
+      ],
+      "correctIndex": 2,
+      "explanation": "The building is faced with red sandstone.",
+      "ncertPage": 118,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q38",
+      "chapterId": "fine_arts_ch8",
+      "question": "Who built the Taj Mahal in Agra as a mausoleum for his deceased wife?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Shah Jahan",
+        "Babur"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taj Mahal was built in Agra by Shah Jahan as a mausoleum for his deceased wife Mumtaz Mahal.",
+      "ncertPage": 120,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q39",
+      "chapterId": "fine_arts_ch8",
+      "question": "Approximately how many specialised workers were employed over nearly twenty years to complete the Taj Mahal?",
+      "options": [
+        "5,000",
+        "10,000",
+        "20,000",
+        "50,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "From 1632 onwards it took nearly twenty years and 20,000 specialised workers to complete this monument.",
+      "ncertPage": 119,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q40",
+      "chapterId": "fine_arts_ch8",
+      "question": "Where is the tomb structure of the Taj Mahal placed within the Chahar Bagh?",
+      "options": [
+        "Exactly in the middle",
+        "On the southern extremity",
+        "On the northern extremity to take advantage of the river bank",
+        "Outside the walled garden entirely"
+      ],
+      "correctIndex": 2,
+      "explanation": "The structure is placed on the northern extremity of the bagh instead of the middle to take advantage of the river bank.",
+      "ncertPage": 120,
+      "difficulty": "HARD",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q41",
+      "chapterId": "fine_arts_ch8",
+      "question": "What is the height of the four tapering minarets that stand at the corners of the terrace of the Taj Mahal?",
+      "options": [
+        "100 feet",
+        "132 feet",
+        "200 feet",
+        "234 feet"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the corners of the terrace stand four tall, tapering minarets, one hundred and thirty-two feet high.",
+      "ncertPage": 121,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q42",
+      "chapterId": "fine_arts_ch8",
+      "question": "Where was the white marble used in the Taj Mahal quarried from?",
+      "options": [
+        "Makrana mines in Rajasthan",
+        "Golconda mines",
+        "Gwalior quarries",
+        "Bijapur basalt mines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marble for the building was quarried from the Makrana mines in Rajasthan and this white edifice is contrasted with the red sandstone of the surrounding structures.",
+      "ncertPage": 121,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q43",
+      "chapterId": "fine_arts_ch8",
+      "question": "What is the specific geometric shape of the Taj Mahal's tomb structure?",
+      "options": [
+        "A perfect circle",
+        "A simple rectangle",
+        "A square with chamfers forming eight sides",
+        "An equilateral triangle"
+      ],
+      "correctIndex": 2,
+      "explanation": "The tomb structure is a square with chamfers forming eight sides, recessed with deep arches.",
+      "ncertPage": 121,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q44",
+      "chapterId": "fine_arts_ch8",
+      "question": "The Gol Gumbad in Bijapur is the mausoleum of which ruler?",
+      "options": [
+        "Ghiyasuddin Khilji",
+        "Muhammad Adil Shah",
+        "Shah Jahan",
+        "Hoshang Shah"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is the mausoleum of Muhammad Adil Shah (1626-1656), the seventh Sultan of the Adil Shahi Dynasty of Bijapur...",
+      "ncertPage": 123,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q45",
+      "chapterId": "fine_arts_ch8",
+      "question": "What gives the Gol Gumbad its nomenclature?",
+      "options": [
+        "Its surrounding square gardens",
+        "Its deep red sandstone walls",
+        "A monumental square building topped with a circular drum and a majestic dome",
+        "The underground labyrinth"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Gumbad is a monumental square building topped with a circular drum over which rests a majestic dome, giving the building its nomenclature.",
+      "ncertPage": 123,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q46",
+      "chapterId": "fine_arts_ch8",
+      "question": "The dome of the Gol Gumbad covers an uninterrupted floor space of 18,337 square feet. Where does this rank globally?",
+      "options": [
+        "The largest in the world",
+        "The second largest in the world",
+        "The third largest in the world",
+        "The fourth largest in the world"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tomb has only one square chamber and the dome, with a diameter of one hundred and twenty-five feet, it covers an uninterrupted floor space of 18,337 square feet, the second largest in the world.",
+      "ncertPage": 123,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q47",
+      "chapterId": "fine_arts_ch8",
+      "question": "What unique acoustical feature exists along the drum of the dome in the Gol Gumbad?",
+      "options": [
+        "A singing arch",
+        "A whispering gallery where sounds get magnified and echoed",
+        "A silent chamber that blocks all sound",
+        "A vibrating floor"
+      ],
+      "correctIndex": 1,
+      "explanation": "The building has an amazing acoustical system. Along the drum of the dome there is a whispering gallery where sounds get magnified and echoed many times over.",
+      "ncertPage": 123,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q48",
+      "chapterId": "fine_arts_ch8",
+      "question": "In a Jama Masjid, where are the mihrab and the mimbar typically located?",
+      "options": [
+        "In the open courtyard (Sahn)",
+        "In the eastern gateway",
+        "In the Qibla Liwan in the west",
+        "At the top of the minarets"
+      ],
+      "correctIndex": 2,
+      "explanation": "Generally, such a mosque was large with an open courtyard, surrounded on three sides by cloisters and the Qibla Liwan in the west. It was here that the mihrab and the mimbar for the Imam were located.",
+      "ncertPage": 124,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q49",
+      "chapterId": "fine_arts_ch8",
+      "question": "What does the mihrab in a mosque indicate?",
+      "options": [
+        "The location of the Imam's throne",
+        "The direction of the Kaaba in Mecca",
+        "The resting place of a saint",
+        "The place where the Khutba is stored"
+      ],
+      "correctIndex": 1,
+      "explanation": "People faced the mihrab while offering prayers as it indicated the direction of the Kaaba in Mecca.",
+      "ncertPage": 124,
+      "difficulty": "EASY",
+      "subject": "Fine Arts"
+    },
+    {
+      "mcqId": "11_fine_arts_ch8_q50",
+      "chapterId": "fine_arts_ch8",
+      "question": "According to the glossary, what is a 'Kos minar'?",
+      "options": [
+        "A massive entrance gateway",
+        "A decorative niche indicating prayer direction",
+        "A distance marker or milestone in the shape and size of a tower",
+        "A drum house where ceremonial music was played"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kos minar: Distance marker or milestone in the shape and size of a tower.",
+      "ncertPage": 128,
+      "difficulty": "MEDIUM",
+      "subject": "Fine Arts"
+    }
+  ]
+}

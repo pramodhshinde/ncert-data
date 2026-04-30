@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_bio_ch5_q1",
+      "chapterId": "bio_ch5",
+      "question": "In the majority of dicotyledonous plants, the direct elongation of the radicle leads to the formation of the:",
+      "options": [
+        "Fibrous root",
+        "Adventitious root",
+        "Primary root",
+        "Secondary root"
+      ],
+      "correctIndex": 2,
+      "explanation": "In majority of the dicotyledonous plants, the direct elongation of the radicle leads to the formation of primary root which grows inside the soil.",
+      "ncertPage": 57,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q2",
+      "chapterId": "bio_ch5",
+      "question": "Where do the roots of the fibrous root system originate in monocotyledonous plants?",
+      "options": [
+        "From the leaves",
+        "From the base of the stem",
+        "From the branches",
+        "Directly from the plumule"
+      ],
+      "correctIndex": 1,
+      "explanation": "In monocotyledonous plants, the primary root is short lived and is replaced by a large number of roots. These roots originate from the base of the stem and constitute the fibrous root system.",
+      "ncertPage": 58,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q3",
+      "chapterId": "bio_ch5",
+      "question": "Roots that arise from parts of the plant other than the radicle are called:",
+      "options": [
+        "Tap roots",
+        "Adventitious roots",
+        "Primary roots",
+        "Tertiary roots"
+      ],
+      "correctIndex": 1,
+      "explanation": "In some plants, like grass, Monstera and the banyan tree, roots arise from parts of the plant other than the radicle and are called adventitious roots.",
+      "ncertPage": 58,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q4",
+      "chapterId": "bio_ch5",
+      "question": "Which structure protects the tender apex of the root as it makes its way through the soil?",
+      "options": [
+        "Root hair",
+        "Region of elongation",
+        "Root cap",
+        "Plumule"
+      ],
+      "correctIndex": 2,
+      "explanation": "The root is covered at the apex by a thimble-like structure called the root cap. It protects the tender apex of the root as it makes its way through the soil.",
+      "ncertPage": 59,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q5",
+      "chapterId": "bio_ch5",
+      "question": "Which region of the root contains cells that are very small, thin-walled, and possess dense protoplasm?",
+      "options": [
+        "Region of maturation",
+        "Region of meristematic activity",
+        "Region of elongation",
+        "Root cap"
+      ],
+      "correctIndex": 1,
+      "explanation": "A few millimetres above the root cap is the region of meristematic activity. The cells of this region are very small, thin-walled and with dense protoplasm.",
+      "ncertPage": 59,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q6",
+      "chapterId": "bio_ch5",
+      "question": "From which region of the root do the very fine and delicate thread-like structures called root hairs form?",
+      "options": [
+        "Region of elongation",
+        "Region of meristematic activity",
+        "Region of maturation",
+        "Root cap"
+      ],
+      "correctIndex": 2,
+      "explanation": "From this region [region of maturation] some of the epidermal cells form very fine and delicate, thread-like structures called root hairs.",
+      "ncertPage": 59,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q7",
+      "chapterId": "bio_ch5",
+      "question": "The stem develops from which part of the embryo in a germinating seed?",
+      "options": [
+        "Radicle",
+        "Cotyledon",
+        "Plumule",
+        "Endosperm"
+      ],
+      "correctIndex": 2,
+      "explanation": "It [the stem] develops from the plumule of the embryo of a germinating seed.",
+      "ncertPage": 59,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q8",
+      "chapterId": "bio_ch5",
+      "question": "What are the regions of the stem where leaves are born called?",
+      "options": [
+        "Internodes",
+        "Axillary buds",
+        "Nodes",
+        "Stipules"
+      ],
+      "correctIndex": 2,
+      "explanation": "The region of the stem where leaves are born are called nodes while internodes are the portions between two nodes.",
+      "ncertPage": 59,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q9",
+      "chapterId": "bio_ch5",
+      "question": "In some leguminous plants, the leafbase may become swollen. What is this swollen structure called?",
+      "options": [
+        "Lamina",
+        "Stipule",
+        "Pulvinus",
+        "Petiole"
+      ],
+      "correctIndex": 2,
+      "explanation": "In some leguminous plants the leafbase may become swollen, which is called the pulvinus.",
+      "ncertPage": 60,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q10",
+      "chapterId": "bio_ch5",
+      "question": "What is the primary function of the petiole?",
+      "options": [
+        "To synthesize food",
+        "To attach the leaf base to the stem",
+        "To hold the leaf blade to light",
+        "To protect the axillary bud"
+      ],
+      "correctIndex": 2,
+      "explanation": "The petiole help hold the blade to light. Long thin flexible petioles allow leaf blades to flutter in wind.",
+      "ncertPage": 60,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q11",
+      "chapterId": "bio_ch5",
+      "question": "What is the middle prominent vein in the lamina of a leaf called?",
+      "options": [
+        "Rachis",
+        "Midrib",
+        "Petiole",
+        "Stipule"
+      ],
+      "correctIndex": 1,
+      "explanation": "There is, usually, a middle prominent vein, which is known as the midrib.",
+      "ncertPage": 60,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q12",
+      "chapterId": "bio_ch5",
+      "question": "When the veinlets form a network in the lamina of a leaf, what is this venation termed?",
+      "options": [
+        "Parallel",
+        "Reticulate",
+        "Pinnate",
+        "Palmate"
+      ],
+      "correctIndex": 1,
+      "explanation": "When the veinlets form a network, the venation is termed as reticulate.",
+      "ncertPage": 60,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q13",
+      "chapterId": "bio_ch5",
+      "question": "Which type of venation is characteristic of most monocotyledons?",
+      "options": [
+        "Reticulate venation",
+        "Parallel venation",
+        "Webbed venation",
+        "Branching venation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leaves of dicotyledonous plants generally possess reticulate venation, while parallel venation is the characteristic of most monocotyledons.",
+      "ncertPage": 60,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q14",
+      "chapterId": "bio_ch5",
+      "question": "When the incisions of the lamina reach up to the midrib, breaking it into a number of leaflets, the leaf is called:",
+      "options": [
+        "A simple leaf",
+        "A compound leaf",
+        "An alternate leaf",
+        "A whorled leaf"
+      ],
+      "correctIndex": 1,
+      "explanation": "When the incisions of the lamina reach up to the midrib breaking it into a number of leaflets, the leaf is called compound.",
+      "ncertPage": 60,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q15",
+      "chapterId": "bio_ch5",
+      "question": "In a pinnately compound leaf, a number of leaflets are present on a common axis representing the midrib. What is this axis called?",
+      "options": [
+        "Pulvinus",
+        "Petiole",
+        "Rachis",
+        "Lamina"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a pinnately compound leaf a number of leaflets are present on a common axis, the rachis, which represents the midrib of the leaf as in neem.",
+      "ncertPage": 61,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q16",
+      "chapterId": "bio_ch5",
+      "question": "In which type of leaf are the leaflets attached at a common point, such as at the tip of the petiole?",
+      "options": [
+        "Simple leaf",
+        "Pinnately compound leaf",
+        "Palmately compound leaf",
+        "Whorled leaf"
+      ],
+      "correctIndex": 2,
+      "explanation": "In palmately compound leaves, the leaflets are attached at a common point, i.e., at the tip of petiole, as in silk cotton.",
+      "ncertPage": 61,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q17",
+      "chapterId": "bio_ch5",
+      "question": "What term describes the pattern of arrangement of leaves on the stem or branch?",
+      "options": [
+        "Venation",
+        "Placentation",
+        "Aestivation",
+        "Phyllotaxy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phyllotaxy is the pattern of arrangement of leaves on the stem or branch.",
+      "ncertPage": 61,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q18",
+      "chapterId": "bio_ch5",
+      "question": "Which plants exhibit an opposite type of phyllotaxy?",
+      "options": [
+        "China rose and mustard",
+        "Alstonia and sunflower",
+        "Calotropis and guava",
+        "Silk cotton and neem"
+      ],
+      "correctIndex": 2,
+      "explanation": "In opposite type, a pair of leaves arise at each node and lie opposite to each other as in Calotropis and guava plants.",
+      "ncertPage": 61,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q19",
+      "chapterId": "bio_ch5",
+      "question": "In which type of inflorescence does the main axis continue to grow, bearing flowers laterally in an acropetal succession?",
+      "options": [
+        "Cymose",
+        "Racemose",
+        "Solitary",
+        "Whorled"
+      ],
+      "correctIndex": 1,
+      "explanation": "In racemose type of inflorescences the main axis continues to grow, the flowers are borne laterally in an acropetal succession.",
+      "ncertPage": 61,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q20",
+      "chapterId": "bio_ch5",
+      "question": "What distinguishes a cymose inflorescence from a racemose one?",
+      "options": [
+        "The main axis continues to grow indefinitely.",
+        "The flowers are borne in an acropetal order.",
+        "The main axis terminates in a flower, limiting its growth.",
+        "It only bears solitary flowers."
+      ],
+      "correctIndex": 2,
+      "explanation": "In cymose type of inflorescence the main axis terminates in a flower, hence is limited in growth. The flowers are borne in a basipetal order.",
+      "ncertPage": 61,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q21",
+      "chapterId": "bio_ch5",
+      "question": "The swollen end of the stalk or pedicel on which floral whorls are arranged is called the:",
+      "options": [
+        "Lamina",
+        "Thalamus or receptacle",
+        "Pulvinus",
+        "Rachis"
+      ],
+      "correctIndex": 1,
+      "explanation": "A typical flower has four different kinds of whorls arranged successively on the swollen end of the stalk or pedicel, called thalamus or receptacle.",
+      "ncertPage": 62,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q22",
+      "chapterId": "bio_ch5",
+      "question": "In flowers like lily, where the calyx and corolla are not distinct, what is the structure termed?",
+      "options": [
+        "Bract",
+        "Perianth",
+        "Pedicel",
+        "Staminode"
+      ],
+      "correctIndex": 1,
+      "explanation": "In some flowers like lily, the calyx and corolla are not distinct and are termed as perianth.",
+      "ncertPage": 62,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q23",
+      "chapterId": "bio_ch5",
+      "question": "A flower is considered actinomorphic if it:",
+      "options": [
+        "Cannot be divided into two similar halves by any plane.",
+        "Can be divided into two equal radial halves in any radial plane passing through the centre.",
+        "Can be divided into two similar halves only in one vertical plane.",
+        "Has both stamens and carpels."
+      ],
+      "correctIndex": 1,
+      "explanation": "When a flower can be divided into two equal radial halves in any radial plane passing through the centre, it is said to be actinomorphic, e.g., mustard, datura, chilli.",
+      "ncertPage": 62,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q24",
+      "chapterId": "bio_ch5",
+      "question": "Which of the following flowers exhibits zygomorphic symmetry?",
+      "options": [
+        "Mustard",
+        "Datura",
+        "Chilli",
+        "Pea"
+      ],
+      "correctIndex": 3,
+      "explanation": "When it can be divided into two similar halves only in one particular vertical plane, it is zygomorphic, e.g., pea, gulmohur, bean, Cassia.",
+      "ncertPage": 62,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q25",
+      "chapterId": "bio_ch5",
+      "question": "In a hypogynous flower, what position does the gynoecium occupy?",
+      "options": [
+        "The lowest position below other parts",
+        "The same level as other parts on the thalamus rim",
+        "The highest position while other parts are situated below it",
+        "Completely enclosed by the thalamus"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the hypogynous flower the gynoecium occupies the highest position while the other parts are situated below it. The ovary in such flowers is said to be superior.",
+      "ncertPage": 63,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q26",
+      "chapterId": "bio_ch5",
+      "question": "If the gynoecium is situated in the centre and other floral parts are located on the rim of the thalamus almost at the same level, the flower is called:",
+      "options": [
+        "Hypogynous",
+        "Perigynous",
+        "Epigynous",
+        "Actinomorphic"
+      ],
+      "correctIndex": 1,
+      "explanation": "If gynoecium is situated in the centre and other parts of the flower are located on the rim of the thalamus almost at the same level, it is called perigynous. The ovary here is said to be half inferior.",
+      "ncertPage": 63,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q27",
+      "chapterId": "bio_ch5",
+      "question": "Which term describes a calyx where the sepals are united?",
+      "options": [
+        "Polysepalous",
+        "Gamosepalous",
+        "Polypetalous",
+        "Gamopetalous"
+      ],
+      "correctIndex": 1,
+      "explanation": "The calyx may be gamosepalous (sepals united) or polysepalous (sepals free).",
+      "ncertPage": 63,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q28",
+      "chapterId": "bio_ch5",
+      "question": "The mode of arrangement of sepals or petals in a floral bud with respect to other members of the same whorl is known as:",
+      "options": [
+        "Phyllotaxy",
+        "Venation",
+        "Placentation",
+        "Aestivation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The mode of arrangement of sepals or petals in floral bud with respect to the other members of the same whorl is known as aestivation.",
+      "ncertPage": 63,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q29",
+      "chapterId": "bio_ch5",
+      "question": "In which type of aestivation do sepals or petals just touch one another at the margin without overlapping, as seen in Calotropis?",
+      "options": [
+        "Twisted",
+        "Imbricate",
+        "Valvate",
+        "Vexillary"
+      ],
+      "correctIndex": 2,
+      "explanation": "When sepals or petals in a whorl just touch one another at the margin, without overlapping, as in Calotropis, it is said to be valvate.",
+      "ncertPage": 64,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q30",
+      "chapterId": "bio_ch5",
+      "question": "What type of aestivation is characterized by one margin of the appendage overlapping that of the next one in a particular direction, as in china rose?",
+      "options": [
+        "Valvate",
+        "Imbricate",
+        "Twisted",
+        "Vexillary"
+      ],
+      "correctIndex": 2,
+      "explanation": "If one margin of the appendage overlaps that of the next one and so on as in china rose, lady's finger and cotton, it is called twisted.",
+      "ncertPage": 64,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q31",
+      "chapterId": "bio_ch5",
+      "question": "Which aestivation consists of a standard petal overlapping two lateral wings, which in turn overlap two anterior keel petals?",
+      "options": [
+        "Valvate",
+        "Twisted",
+        "Imbricate",
+        "Vexillary"
+      ],
+      "correctIndex": 3,
+      "explanation": "In pea and bean flowers, there are five petals, the largest (standard) overlaps the two lateral petals (wings) which in turn overlap the two smallest anterior petals (keel); this type of aestivation is known as vexillary or papilionaceous.",
+      "ncertPage": 64,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q32",
+      "chapterId": "bio_ch5",
+      "question": "What is a sterile stamen called?",
+      "options": [
+        "Staminode",
+        "Apocarpous",
+        "Epipetalous",
+        "Polyandrous"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sterile stamen is called staminode.",
+      "ncertPage": 64,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q33",
+      "chapterId": "bio_ch5",
+      "question": "When stamens are attached to the perianth, as in the flowers of lily, they are described as:",
+      "options": [
+        "Epipetalous",
+        "Epiphyllous",
+        "Monoadelphous",
+        "Polyadelphous"
+      ],
+      "correctIndex": 1,
+      "explanation": "When stamens are attached to the petals, they are epipetalous as in brinjal, or epiphyllous when attached to the perianth as in the flowers of lily.",
+      "ncertPage": 64,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q34",
+      "chapterId": "bio_ch5",
+      "question": "What is the condition called when the stamens are united into two bundles, as seen in pea?",
+      "options": [
+        "Monoadelphous",
+        "Diadelphous",
+        "Polyadelphous",
+        "Polyandrous"
+      ],
+      "correctIndex": 1,
+      "explanation": "The stamens may be united into one bunch or one bundle (monoadelphous) as in china rose, or two bundles (diadelphous) as in pea...",
+      "ncertPage": 64,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q35",
+      "chapterId": "bio_ch5",
+      "question": "When more than one carpel is present and they are fused together, the condition is termed:",
+      "options": [
+        "Apocarpous",
+        "Syncarpous",
+        "Monocarpellary",
+        "Epigynous"
+      ],
+      "correctIndex": 1,
+      "explanation": "When more than one carpel is present, they may be free (as in lotus and rose) and are called apocarpous. They are termed syncarpous when carpels are fused, as in mustard and tomato.",
+      "ncertPage": 65,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q36",
+      "chapterId": "bio_ch5",
+      "question": "The arrangement of ovules within the ovary is known as:",
+      "options": [
+        "Aestivation",
+        "Phyllotaxy",
+        "Venation",
+        "Placentation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The arrangement of ovules within the ovary is known as placentation.",
+      "ncertPage": 65,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q37",
+      "chapterId": "bio_ch5",
+      "question": "Which placentation type has the placenta forming a ridge along the ventral suture of the ovary with ovules borne on this ridge?",
+      "options": [
+        "Axile",
+        "Marginal",
+        "Parietal",
+        "Basal"
+      ],
+      "correctIndex": 1,
+      "explanation": "In marginal placentation the placenta forms a ridge along the ventral suture of the ovary and the ovules are borne on this ridge forming two rows, as in pea.",
+      "ncertPage": 65,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q38",
+      "chapterId": "bio_ch5",
+      "question": "In which placentation do ovules develop on the inner wall of the ovary, sometimes appearing two-chambered due to a false septum?",
+      "options": [
+        "Parietal",
+        "Axile",
+        "Free central",
+        "Basal"
+      ],
+      "correctIndex": 0,
+      "explanation": "In parietal placentation, the ovules develop on the inner wall of the ovary or on peripheral part. Ovary is one-chambered but it becomes two-chambered due to the formation of the false septum, e.g., mustard and Argemone.",
+      "ncertPage": 65,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q39",
+      "chapterId": "bio_ch5",
+      "question": "A fruit formed without fertilisation of the ovary is known as a:",
+      "options": [
+        "True fruit",
+        "Parthenocarpic fruit",
+        "Drupe",
+        "Berry"
+      ],
+      "correctIndex": 1,
+      "explanation": "If a fruit is formed without fertilisation of the ovary, it is called a parthenocarpic fruit.",
+      "ncertPage": 65,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q40",
+      "chapterId": "bio_ch5",
+      "question": "In mango and coconut, the fruit is known as a drupe. From what type of ovary does it develop?",
+      "options": [
+        "Multicarpellary inferior ovary",
+        "Monocarpellary superior ovary",
+        "Bicarpellary syncarpous ovary",
+        "Apocarpous half-inferior ovary"
+      ],
+      "correctIndex": 1,
+      "explanation": "In mango and coconut, the fruit is known as a drupe... They develop from monocarpellary superior ovaries and are one seeded.",
+      "ncertPage": 65,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q41",
+      "chapterId": "bio_ch5",
+      "question": "The inner layer of the seed coat is known as the:",
+      "options": [
+        "Testa",
+        "Tegmen",
+        "Hilum",
+        "Micropyle"
+      ],
+      "correctIndex": 1,
+      "explanation": "The seed coat has two layers, the outer testa and the inner tegmen.",
+      "ncertPage": 66,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q42",
+      "chapterId": "bio_ch5",
+      "question": "What is the scar on the seed coat through which the developing seeds were attached to the fruit?",
+      "options": [
+        "Micropyle",
+        "Tegmen",
+        "Hilum",
+        "Plumule"
+      ],
+      "correctIndex": 2,
+      "explanation": "The hilum is a scar on the seed coat through which the developing seeds were attached to the fruit.",
+      "ncertPage": 66,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q43",
+      "chapterId": "bio_ch5",
+      "question": "Seeds in which the endosperm is not present at maturity, such as in bean, gram, and pea, are called:",
+      "options": [
+        "Endospermous",
+        "Non-endospermous",
+        "Aleurone seeds",
+        "Monocotyledonous"
+      ],
+      "correctIndex": 1,
+      "explanation": "In plants such as bean, gram and pea, the endosperm is not present in mature seeds and such seeds are called non-endospermous.",
+      "ncertPage": 66,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q44",
+      "chapterId": "bio_ch5",
+      "question": "In a monocot seed, what is the proteinous layer that separates the embryo from the outer covering of the endosperm?",
+      "options": [
+        "Scutellum",
+        "Aleurone layer",
+        "Coleoptile",
+        "Coleorhiza"
+      ],
+      "correctIndex": 1,
+      "explanation": "The outer covering of endosperm separates the embryo by a proteinous layer called aleurone layer.",
+      "ncertPage": 67,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q45",
+      "chapterId": "bio_ch5",
+      "question": "The single, large, and shield-shaped cotyledon in a monocotyledonous embryo is known as the:",
+      "options": [
+        "Plumule",
+        "Radicle",
+        "Scutellum",
+        "Aleurone layer"
+      ],
+      "correctIndex": 2,
+      "explanation": "It [the embryo] consists of one large and shield shaped cotyledon known as scutellum...",
+      "ncertPage": 67,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q46",
+      "chapterId": "bio_ch5",
+      "question": "In a monocot seed, the radicle is enclosed in a protective sheath called the:",
+      "options": [
+        "Scutellum",
+        "Coleoptile",
+        "Coleorhiza",
+        "Tegmen"
+      ],
+      "correctIndex": 2,
+      "explanation": "The plumule and radicle are enclosed in sheaths which are called coleoptile and coleorhiza respectively.",
+      "ncertPage": 67,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q47",
+      "chapterId": "bio_ch5",
+      "question": "In a floral formula, what does the symbol 'Br' stand for?",
+      "options": [
+        "Bracteate",
+        "Bisexual",
+        "Bicarpellary",
+        "Basal placentation"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the floral formula, Br stands for bracteate...",
+      "ncertPage": 67,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q48",
+      "chapterId": "bio_ch5",
+      "question": "How is a superior ovary represented in a floral formula?",
+      "options": [
+        "G with a line drawn above it",
+        "G with a line drawn below it",
+        "P enclosed in brackets",
+        "C with an underline"
+      ],
+      "correctIndex": 1,
+      "explanation": "...and G for Gynoecium, G (with a line below) for superior ovary and G (with a line above) for inferior ovary...",
+      "ncertPage": 67,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q49",
+      "chapterId": "bio_ch5",
+      "question": "Which family is commonly known as the 'potato family'?",
+      "options": [
+        "Brassicaceae",
+        "Solanaceae",
+        "Fabaceae",
+        "Liliaceae"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is a large family, commonly called as the 'potato family'.",
+      "ncertPage": 68,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch5_q50",
+      "chapterId": "bio_ch5",
+      "question": "What kind of gynoecium is characteristic of the Solanaceae family?",
+      "options": [
+        "Monocarpellary, apocarpous, inferior ovary",
+        "Bicarpellary, syncarpous, superior ovary",
+        "Tricarpellary, syncarpous, half-inferior ovary",
+        "Polycarpellary, apocarpous, superior ovary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gynoecium: bicarpellary obligately placed, syncarpous; ovary superior, bilocular...",
+      "ncertPage": 69,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    }
+  ]
+}

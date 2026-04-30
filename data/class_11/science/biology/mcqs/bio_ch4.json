@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_bio_ch4_q1",
+      "chapterId": "bio_ch4",
+      "question": "In which of the following animals are the cells arranged as loose cell aggregates, exhibiting a cellular level of organisation?",
+      "options": [
+        "Coelenterates",
+        "Sponges",
+        "Annelids",
+        "Arthropods"
+      ],
+      "correctIndex": 1,
+      "explanation": "For example, in sponges, the cells are arranged as loose cell aggregates, i.e., they exhibit cellular level of organisation.",
+      "ncertPage": 37,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q2",
+      "chapterId": "bio_ch4",
+      "question": "Which pattern of organisation is exhibited by coelenterates, where cells performing the same function are arranged into tissues?",
+      "options": [
+        "Cellular level",
+        "Tissue level",
+        "Organ level",
+        "Organ system level"
+      ],
+      "correctIndex": 1,
+      "explanation": "In coelenterates, the arrangement of cells is more complex. Here the cells performing the same function are arranged into tissues, hence is called tissue level of organisation.",
+      "ncertPage": 37,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q3",
+      "chapterId": "bio_ch4",
+      "question": "Which phylum exhibits an organ level of organisation, where tissues are grouped together to form organs?",
+      "options": [
+        "Porifera",
+        "Coelenterata",
+        "Platyhelminthes",
+        "Ctenophora"
+      ],
+      "correctIndex": 2,
+      "explanation": "A still higher level of organisation, i.e., organ level is exhibited by members of Platyhelminthes and other higher phyla where tissues are grouped together to form organs.",
+      "ncertPage": 37,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q4",
+      "chapterId": "bio_ch4",
+      "question": "What characterizes an incomplete digestive system, as seen in Platyhelminthes?",
+      "options": [
+        "It lacks both a mouth and an anus.",
+        "It has a single opening that serves as both mouth and anus.",
+        "It has two separate openings for mouth and anus.",
+        "It is formed exclusively by an open vascular system."
+      ],
+      "correctIndex": 1,
+      "explanation": "For example, the digestive system in Platyhelminthes has only a single opening to the outside of the body that serves as both mouth and anus, and is hence called incomplete.",
+      "ncertPage": 38,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q5",
+      "chapterId": "bio_ch4",
+      "question": "Which type of symmetry is characterized by any plane passing through the central axis dividing the organism into two identical halves?",
+      "options": [
+        "Bilateral symmetry",
+        "Asymmetry",
+        "Radial symmetry",
+        "Spherical symmetry"
+      ],
+      "correctIndex": 2,
+      "explanation": "When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.",
+      "ncertPage": 38,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q6",
+      "chapterId": "bio_ch4",
+      "question": "An undifferentiated layer called mesoglea is present in between the ectoderm and endoderm in which type of animals?",
+      "options": [
+        "Triploblastic animals",
+        "Diploblastic animals",
+        "Acoelomates",
+        "Pseudocoelomates"
+      ],
+      "correctIndex": 1,
+      "explanation": "Animals in which the cells are arranged in two embryonic layers... are called diploblastic animals. An undifferentiated layer, mesoglea, is present in between the ectoderm and the endoderm.",
+      "ncertPage": 38,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q7",
+      "chapterId": "bio_ch4",
+      "question": "Which group of animals possess a body cavity that is not lined by mesoderm, but instead has mesoderm present as scattered pouches?",
+      "options": [
+        "Coelomates",
+        "Pseudocoelomates",
+        "Acoelomates",
+        "Diploblasts"
+      ],
+      "correctIndex": 1,
+      "explanation": "In some animals, the body cavity is not lined by mesoderm, instead, the mesoderm is present as scattered pouches... Such a body cavity is called pseudocoelom and the animals possessing them are called pseudocoelomates.",
+      "ncertPage": 39,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q8",
+      "chapterId": "bio_ch4",
+      "question": "The phenomenon where the body is externally and internally divided into segments with a serial repetition of at least some organs is known as:",
+      "options": [
+        "Metagenesis",
+        "Metamerism",
+        "Polymorphism",
+        "Parthenogenesis"
+      ],
+      "correctIndex": 1,
+      "explanation": "In some animals, the body is externally and internally divided into segments with a serial repetition of at least some organs... the body shows this pattern called metameric segmentation and the phenomenon is known as metamerism.",
+      "ncertPage": 39,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q9",
+      "chapterId": "bio_ch4",
+      "question": "From which embryonic layer is the rod-like notochord derived during development in some animals?",
+      "options": [
+        "Ectoderm",
+        "Endoderm",
+        "Mesoderm",
+        "Mesoglea"
+      ],
+      "correctIndex": 2,
+      "explanation": "Notochord is a mesodermally derived rod-like structure formed on the dorsal side during embryonic development in some animals.",
+      "ncertPage": 39,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q10",
+      "chapterId": "bio_ch4",
+      "question": "In sponges, what are the special collar cells that line the spongocoel and the canals called?",
+      "options": [
+        "Cnidoblasts",
+        "Choanocytes",
+        "Flame cells",
+        "Statocysts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Choanocytes or collar cells line the spongocoel and the canals in sponges.",
+      "ncertPage": 40,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q11",
+      "chapterId": "bio_ch4",
+      "question": "Which material forms the skeleton that supports the body of members of the phylum Porifera?",
+      "options": [
+        "Calcium carbonate",
+        "Chitinous exoskeleton",
+        "Spicules or spongin fibres",
+        "Cartilaginous endoskeleton"
+      ],
+      "correctIndex": 2,
+      "explanation": "The body [of Porifera] is supported by a skeleton made up of spicules or spongin fibres.",
+      "ncertPage": 40,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q12",
+      "chapterId": "bio_ch4",
+      "question": "From what structure is the name 'Cnidaria' derived?",
+      "options": [
+        "Cnidoblasts or cnidocytes",
+        "Choanocytes",
+        "Ctenophores",
+        "Comb plates"
+      ],
+      "correctIndex": 0,
+      "explanation": "The name cnidaria is derived from the cnidoblasts or cnidocytes (which contain the stinging capsules or nematocysts) present on the tentacles and the body.",
+      "ncertPage": 41,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q13",
+      "chapterId": "bio_ch4",
+      "question": "Which basic body form of cnidarians is umbrella-shaped and free-swimming like Aurelia?",
+      "options": [
+        "Polyp",
+        "Medusa",
+        "Spongocoel",
+        "Hypostome"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cnidarians exhibit two basic body forms called polyp and medusa... the latter is umbrella-shaped and free-swimming like Aurelia or jelly fish.",
+      "ncertPage": 41,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q14",
+      "chapterId": "bio_ch4",
+      "question": "The phenomenon of alternation of generations in cnidarians, where polyps produce medusae asexually and medusae form polyps sexually, is called:",
+      "options": [
+        "Metamerism",
+        "Metamorphosis",
+        "Metagenesis",
+        "Parthenogenesis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Those cnidarians which exist in both forms exhibit alternation of generations (Metagenesis), i.e., polyps produce medusae asexually and medusae form the polyps sexually (e.g., Obelia).",
+      "ncertPage": 41,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q15",
+      "chapterId": "bio_ch4",
+      "question": "Ctenophores are commonly known by which of the following names?",
+      "options": [
+        "Flatworms",
+        "Roundworms",
+        "Sea walnuts or comb jellies",
+        "Sponges"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ctenophores, commonly known as sea walnuts or comb jellies are exclusively marine, radially symmetrical, diploblastic organisms.",
+      "ncertPage": 42,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q16",
+      "chapterId": "bio_ch4",
+      "question": "Which property is well-marked in ctenophores, referring to the ability of a living organism to emit light?",
+      "options": [
+        "Photosynthesis",
+        "Bioluminescence",
+        "Fluorescence",
+        "Metagenesis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bioluminescence (the property of a living organism to emit light) is well-marked in ctenophores.",
+      "ncertPage": 42,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q17",
+      "chapterId": "bio_ch4",
+      "question": "Animals belonging to the phylum Platyhelminthes are commonly called flatworms because:",
+      "options": [
+        "They lack a complete digestive system",
+        "They have a dorso-ventrally flattened body",
+        "They lack a true coelom",
+        "They exhibit bilateral symmetry"
+      ],
+      "correctIndex": 1,
+      "explanation": "They have dorso-ventrally flattened body, hence are called flatworms.",
+      "ncertPage": 42,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q18",
+      "chapterId": "bio_ch4",
+      "question": "In Platyhelminthes, which specialised cells help in osmoregulation and excretion?",
+      "options": [
+        "Nephridia",
+        "Malpighian tubules",
+        "Flame cells",
+        "Choanocytes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Specialised cells called flame cells help in osmoregulation and excretion in Platyhelminthes.",
+      "ncertPage": 42,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q19",
+      "chapterId": "bio_ch4",
+      "question": "The body of aschelminthes is circular in cross-section, which gives them the common name of:",
+      "options": [
+        "Flatworms",
+        "Roundworms",
+        "Tapeworms",
+        "Earthworms"
+      ],
+      "correctIndex": 1,
+      "explanation": "The body of the aschelminthes is circular in cross-section, hence, the name roundworms.",
+      "ncertPage": 43,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q20",
+      "chapterId": "bio_ch4",
+      "question": "Which of the following represents the sexual dimorphism commonly observed in aschelminthes?",
+      "options": [
+        "Males are completely absent.",
+        "Males and females are not distinct.",
+        "Often females are longer than males.",
+        "Often males are much larger than females."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sexes are separate (dioecious), i.e., males and females are distinct. Often females are longer than males.",
+      "ncertPage": 43,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q21",
+      "chapterId": "bio_ch4",
+      "question": "The phylum name Annelida is derived from the Latin word 'annulus', which means:",
+      "options": [
+        "Segment",
+        "Worm",
+        "Little ring",
+        "Jointed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Their body surface is distinctly marked out into segments or metameres and, hence, the phylum name Annelida (Latin, annulus: little ring).",
+      "ncertPage": 43,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q22",
+      "chapterId": "bio_ch4",
+      "question": "Which lateral appendages help aquatic annelids like Nereis in swimming?",
+      "options": [
+        "Setae",
+        "Parapodia",
+        "Tentacles",
+        "Fins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aquatic annelids like Nereis possess lateral appendages, parapodia, which help in swimming.",
+      "ncertPage": 43,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q23",
+      "chapterId": "bio_ch4",
+      "question": "In annelids, osmoregulation and excretion are facilitated by structures called:",
+      "options": [
+        "Flame cells",
+        "Malpighian tubules",
+        "Nephridia",
+        "Green glands"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nephridia (sing. nephridium) help in osmoregulation and excretion.",
+      "ncertPage": 43,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q24",
+      "chapterId": "bio_ch4",
+      "question": "Which phylum is the largest in the kingdom Animalia, containing over two-thirds of all named species?",
+      "options": [
+        "Mollusca",
+        "Arthropoda",
+        "Annelida",
+        "Chordata"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the largest phylum of Animalia which includes insects. Over two-thirds of all named species on earth are arthropods.",
+      "ncertPage": 44,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q25",
+      "chapterId": "bio_ch4",
+      "question": "The body of arthropods is covered by an exoskeleton made of which material?",
+      "options": [
+        "Calcium carbonate",
+        "Silica",
+        "Chitin",
+        "Spongin"
+      ],
+      "correctIndex": 2,
+      "explanation": "The body of arthropods is covered by chitinous exoskeleton.",
+      "ncertPage": 44,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q26",
+      "chapterId": "bio_ch4",
+      "question": "Excretion in arthropods takes place through which specific structures?",
+      "options": [
+        "Nephridia",
+        "Flame cells",
+        "Malpighian tubules",
+        "Coxal glands"
+      ],
+      "correctIndex": 2,
+      "explanation": "Excretion takes place through malpighian tubules [in Arthropoda].",
+      "ncertPage": 44,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q27",
+      "chapterId": "bio_ch4",
+      "question": "Which animal is considered a 'living fossil' among arthropods?",
+      "options": [
+        "Locusta (Locust)",
+        "Limulus (King crab)",
+        "Bombyx (Silkworm)",
+        "Apis (Honey bee)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Living fossil - Limulus (King crab).",
+      "ncertPage": 44,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q28",
+      "chapterId": "bio_ch4",
+      "question": "Which phylum is the second largest animal phylum, featuring a distinct head, muscular foot, and visceral hump?",
+      "options": [
+        "Arthropoda",
+        "Annelida",
+        "Echinodermata",
+        "Mollusca"
+      ],
+      "correctIndex": 3,
+      "explanation": "This is the second largest animal phylum. [...] Body is covered by a calcareous shell and is unsegmented with a distinct head, muscular foot and visceral hump.",
+      "ncertPage": 44,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q29",
+      "chapterId": "bio_ch4",
+      "question": "In molluscs, what is the space between the visceral hump and the mantle called, where feather-like gills are present?",
+      "options": [
+        "Spongocoel",
+        "Mantle cavity",
+        "Pseudocoelom",
+        "Gastro-vascular cavity"
+      ],
+      "correctIndex": 1,
+      "explanation": "The space between the hump and the mantle is called the mantle cavity in which feather like gills are present.",
+      "ncertPage": 44,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q30",
+      "chapterId": "bio_ch4",
+      "question": "What is the file-like rasping organ for feeding found in the mouth of molluscs called?",
+      "options": [
+        "Radula",
+        "Proboscis",
+        "Tentacle",
+        "Hypostome"
+      ],
+      "correctIndex": 0,
+      "explanation": "The mouth contains a file-like rasping organ for feeding, called radula.",
+      "ncertPage": 44,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q31",
+      "chapterId": "bio_ch4",
+      "question": "The endoskeleton of echinoderms is made of which of the following materials?",
+      "options": [
+        "Chitin",
+        "Silica",
+        "Calcareous ossicles",
+        "Spongin fibres"
+      ],
+      "correctIndex": 2,
+      "explanation": "These animals have an endoskeleton of calcareous ossicles and, hence, the name Echinodermata.",
+      "ncertPage": 45,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q32",
+      "chapterId": "bio_ch4",
+      "question": "Which of the following is true regarding the symmetry of echinoderms?",
+      "options": [
+        "Adults and larvae are both radially symmetrical.",
+        "Adults and larvae are both bilaterally symmetrical.",
+        "Adults are bilaterally symmetrical but larvae are radially symmetrical.",
+        "Adults are radially symmetrical but larvae are bilaterally symmetrical."
+      ],
+      "correctIndex": 3,
+      "explanation": "The adult echinoderms are radially symmetrical but larvae are bilaterally symmetrical.",
+      "ncertPage": 45,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q33",
+      "chapterId": "bio_ch4",
+      "question": "What is the most distinctive feature of echinoderms that helps in locomotion, capture of food, and respiration?",
+      "options": [
+        "Mantle cavity",
+        "Water vascular system",
+        "Parapodia",
+        "Jointed appendages"
+      ],
+      "correctIndex": 1,
+      "explanation": "The most distinctive feature of echinoderms is the presence of water vascular system which helps in locomotion, capture and transport of food and respiration.",
+      "ncertPage": 45,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q34",
+      "chapterId": "bio_ch4",
+      "question": "Which rudimentary structure similar to a notochord is found in the collar region of hemichordates?",
+      "options": [
+        "Proboscis gland",
+        "Stomochord",
+        "Nerve cord",
+        "Radula"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hemichordates have a rudimentary structure in the collar region called stomochord, a structure similar to notochord.",
+      "ncertPage": 45,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q35",
+      "chapterId": "bio_ch4",
+      "question": "The body of a hemichordate is composed of which three main parts?",
+      "options": [
+        "Head, thorax, and abdomen",
+        "Head, muscular foot, and visceral hump",
+        "Anterior proboscis, a collar, and a long trunk",
+        "Cephalothorax, abdomen, and tail"
+      ],
+      "correctIndex": 2,
+      "explanation": "The body is cylindrical and is composed of an anterior proboscis, a collar and a long trunk.",
+      "ncertPage": 45,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q36",
+      "chapterId": "bio_ch4",
+      "question": "Which phylum is fundamentally characterized by the presence of a notochord, a dorsal hollow nerve cord, and paired pharyngeal gill slits?",
+      "options": [
+        "Hemichordata",
+        "Echinodermata",
+        "Chordata",
+        "Arthropoda"
+      ],
+      "correctIndex": 2,
+      "explanation": "Animals belonging to phylum Chordata are fundamentally characterised by the presence of a notochord, a dorsal hollow nerve cord and paired pharyngeal gill slits.",
+      "ncertPage": 45,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q37",
+      "chapterId": "bio_ch4",
+      "question": "In which subphylum of Chordata is the notochord present only in the larval tail?",
+      "options": [
+        "Cephalochordata",
+        "Vertebrata",
+        "Hemichordata",
+        "Urochordata"
+      ],
+      "correctIndex": 3,
+      "explanation": "In Urochordata, notochord is present only in larval tail, while in Cephalochordata, it extends from head to tail region...",
+      "ncertPage": 46,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q38",
+      "chapterId": "bio_ch4",
+      "question": "In Cephalochordata, how does the notochord present itself?",
+      "options": [
+        "It is present only in the larval tail.",
+        "It is replaced by a vertebral column in the adult.",
+        "It extends from head to tail region and is persistent throughout life.",
+        "It is absent completely."
+      ],
+      "correctIndex": 2,
+      "explanation": "...while in Cephalochordata, it extends from head to tail region and is persistent throughout their life.",
+      "ncertPage": 46,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q39",
+      "chapterId": "bio_ch4",
+      "question": "Why are all vertebrates considered chordates, but not all chordates are vertebrates?",
+      "options": [
+        "Vertebrates lack a notochord during embryonic stages.",
+        "Vertebrates have their notochord replaced by a cartilaginous or bony vertebral column in adults.",
+        "Only some chordates possess a dorsal hollow nerve cord.",
+        "Vertebrates do not have paired pharyngeal gill slits."
+      ],
+      "correctIndex": 1,
+      "explanation": "The notochord is replaced by a cartilaginous or bony vertebral column in the adult. Thus all vertebrates are chordates but all chordates are not vertebrates.",
+      "ncertPage": 46,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q40",
+      "chapterId": "bio_ch4",
+      "question": "All living members of which class are ectoparasites on some fishes, possessing a sucking and circular mouth without jaws?",
+      "options": [
+        "Chondrichthyes",
+        "Cyclostomata",
+        "Osteichthyes",
+        "Amphibia"
+      ],
+      "correctIndex": 1,
+      "explanation": "All living members of the class Cyclostomata are ectoparasites on some fishes... Cyclostomes have a sucking and circular mouth without jaws.",
+      "ncertPage": 47,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q41",
+      "chapterId": "bio_ch4",
+      "question": "Why do members of the class Chondrichthyes have to swim constantly?",
+      "options": [
+        "To catch their prey",
+        "Due to the absence of an air bladder",
+        "To regulate their body temperature",
+        "To maintain water flow over their gills"
+      ],
+      "correctIndex": 1,
+      "explanation": "Due to the absence of air bladder, they have to swim constantly to avoid sinking.",
+      "ncertPage": 47,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q42",
+      "chapterId": "bio_ch4",
+      "question": "In Chondrichthyes, teeth are modified forms of which structure?",
+      "options": [
+        "Cycloid scales",
+        "Ctenoid scales",
+        "Placoid scales",
+        "Operculum"
+      ],
+      "correctIndex": 2,
+      "explanation": "The skin is tough, containing minute placoid scales. Teeth are modified placoid scales which are backwardly directed.",
+      "ncertPage": 47,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q43",
+      "chapterId": "bio_ch4",
+      "question": "In Osteichthyes, the four pairs of gills are covered on each side by a structure called:",
+      "options": [
+        "Clasper",
+        "Operculum",
+        "Placoid scale",
+        "Tympanum"
+      ],
+      "correctIndex": 1,
+      "explanation": "They have four pairs of gills which are covered by an operculum on each side.",
+      "ncertPage": 48,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q44",
+      "chapterId": "bio_ch4",
+      "question": "Which class of animals can live in aquatic as well as terrestrial habitats and has a three-chambered heart?",
+      "options": [
+        "Osteichthyes",
+        "Amphibia",
+        "Reptilia",
+        "Mammalia"
+      ],
+      "correctIndex": 1,
+      "explanation": "As the name indicates... amphibians can live in aquatic as well as terrestrial habitats. [...] The heart is three-chambered (two auricles and one ventricle).",
+      "ncertPage": 48,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q45",
+      "chapterId": "bio_ch4",
+      "question": "In amphibians, the alimentary canal, urinary, and reproductive tracts open into a common chamber called the:",
+      "options": [
+        "Operculum",
+        "Osculum",
+        "Cloaca",
+        "Spongocoel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alimentary canal, urinary and reproductive tracts open into a common chamber called cloaca which opens to the exterior.",
+      "ncertPage": 48,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q46",
+      "chapterId": "bio_ch4",
+      "question": "Reptiles are characterized by their creeping or crawling mode of locomotion and have skin covered with:",
+      "options": [
+        "Moist, glandular skin",
+        "Feathers",
+        "Dry and cornified skin, epidermal scales or scutes",
+        "Hair"
+      ],
+      "correctIndex": 2,
+      "explanation": "They are mostly terrestrial animals and their body is covered by dry and cornified skin, epidermal scales or scutes.",
+      "ncertPage": 49,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q47",
+      "chapterId": "bio_ch4",
+      "question": "While most reptiles have a three-chambered heart, which reptile exceptionally possesses a four-chambered heart?",
+      "options": [
+        "Turtle",
+        "Tortoise",
+        "Crocodile",
+        "Chameleon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Heart is usually three-chambered, but four-chambered in crocodiles.",
+      "ncertPage": 49,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q48",
+      "chapterId": "bio_ch4",
+      "question": "Which feature of the long bones in class Aves (birds) aids in flight?",
+      "options": [
+        "They are completely cartilaginous.",
+        "They are fully ossified but hollow with air cavities (pneumatic).",
+        "They contain dense, heavy marrow.",
+        "They are covered in placoid scales."
+      ],
+      "correctIndex": 1,
+      "explanation": "Endoskeleton is fully ossified (bony) and the long bones are hollow with air cavities (pneumatic).",
+      "ncertPage": 49,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q49",
+      "chapterId": "bio_ch4",
+      "question": "Which additional chambers are present in the digestive tract of birds (class Aves)?",
+      "options": [
+        "Rumen and reticulum",
+        "Crop and gizzard",
+        "Cloaca and rectum",
+        "Stomach and intestine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The digestive tract of birds has additional chambers, the crop and gizzard.",
+      "ncertPage": 49,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch4_q50",
+      "chapterId": "bio_ch4",
+      "question": "What is the most unique characteristic of the class Mammalia that distinguishes it from other vertebrates?",
+      "options": [
+        "Presence of a four-chambered heart",
+        "Being homoiothermous (warm-blooded)",
+        "Presence of milk-producing mammary glands",
+        "Internal fertilisation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The most unique mammalian characteristic is the presence of milk producing glands (mammary glands) by which the young ones are nourished.",
+      "ncertPage": 50,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    }
+  ]
+}

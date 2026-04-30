@@ -1,0 +1,35 @@
+﻿{
+    "chapters":  [
+                     {
+                         "pdfUrl": "https://ncert.nic.in/textbook/pdf/lefl109.pdf",
+                         "id": 120109,
+                         "hasMCQ": true,
+                         "pageCount": 14,
+                         "hasSolutions": true,
+                         "title": "The Proposal",
+                         "hasNotes": true,
+                         "chapterNumber": 9,
+                         "questionCount": 50,
+                         "progressPercent": 0,
+                         "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/notes/class_12/common/english/ch9.pdf",
+                         "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/solutions/class_12/common/english/ch9.pdf",
+                         "bookId": 1201,
+                         "estimatedMinutes": 45,
+                         "hasRead": true,
+                         "status": "NOT_STARTED",
+                         "topicCount": 4,
+                         "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_12/common/english/mcqs/eng_ch09.json"
+                     }
+                 ],
+    "book":  {
+                 "chapterCount":  1,
+                 "id":  1201,
+                 "subtitle":  "Class 12",
+                 "classNumber":  "Class 12",
+                 "parts":  1,
+                 "subject":  "english",
+                 "language":  "english",
+                 "title":  "english",
+                 "coverUrl":  ""
+             }
+}

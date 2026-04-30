@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_bio_ch15_q1",
+      "chapterId": "bio_ch15",
+      "question": "Which of the following is the most commonly used body fluid by most of the higher organisms, including humans, for transport of substances?",
+      "options": [
+        "Lymph",
+        "Blood",
+        "Interstitial fluid",
+        "Cerebrospinal fluid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Blood is the most commonly used body fluid by most of the higher organisms, including humans, for this purpose.",
+      "ncertPage": 193,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q2",
+      "chapterId": "bio_ch15",
+      "question": "What percentage of the blood is constituted by the straw-coloured, viscous fluid called plasma?",
+      "options": [
+        "45 per cent",
+        "55 per cent",
+        "70 per cent",
+        "90 per cent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plasma is a straw coloured, viscous fluid constituting nearly 55 per cent of the blood.",
+      "ncertPage": 193,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q3",
+      "chapterId": "bio_ch15",
+      "question": "In human blood plasma, what is the approximate percentage contribution of proteins?",
+      "options": [
+        "1-2 per cent",
+        "6-8 per cent",
+        "20-25 per cent",
+        "90-92 per cent"
+      ],
+      "correctIndex": 1,
+      "explanation": "90-92 per cent of plasma is water and proteins contribute 6-8 per cent of it.",
+      "ncertPage": 193,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q4",
+      "chapterId": "bio_ch15",
+      "question": "Which major plasma protein is primarily involved in the defense mechanisms of the body?",
+      "options": [
+        "Fibrinogen",
+        "Albumin",
+        "Globulin",
+        "Prothrombin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Globulins primarly are involved in defense mechanisms of the body and the albumins help in osmotic balance.",
+      "ncertPage": 194,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q5",
+      "chapterId": "bio_ch15",
+      "question": "What is the fluid called when clotting factors are removed from the plasma?",
+      "options": [
+        "Formed elements",
+        "Lymph",
+        "Serum",
+        "Tissue fluid"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plasma without the clotting factors is called serum.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q6",
+      "chapterId": "bio_ch15",
+      "question": "What is the average number of RBCs per cubic millimeter ($mm^{-3}$) of blood in a healthy adult man?",
+      "options": [
+        "1 million to 1.5 millions",
+        "5 millions to 5.5 millions",
+        "6000 to 8000",
+        "1,500,000 to 3,500,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "A healthy adult man has, on an average, 5 millions to 5.5 millions of RBCs $mm^{-3}$ of blood.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q7",
+      "chapterId": "bio_ch15",
+      "question": "What is the average lifespan of red blood cells (RBCs) in humans?",
+      "options": [
+        "60 days",
+        "90 days",
+        "120 days",
+        "150 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "RBCs have an average life span of 120 days after which they are destroyed in the spleen (graveyard of RBCs).",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q8",
+      "chapterId": "bio_ch15",
+      "question": "Which of the following leucocytes are the most abundant in human blood, constituting 60-65 per cent of the total WBCs?",
+      "options": [
+        "Basophils",
+        "Lymphocytes",
+        "Monocytes",
+        "Neutrophils"
+      ],
+      "correctIndex": 3,
+      "explanation": "Neutrophils are the most abundant cells (60-65 per cent) of the total WBCs and basophils are the least (0.5-1 per cent) among them.",
+      "ncertPage": 194,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q9",
+      "chapterId": "bio_ch15",
+      "question": "Which of the following leucocytes are phagocytic cells that destroy foreign organisms entering the body?",
+      "options": [
+        "Neutrophils and monocytes",
+        "Eosinophils and basophils",
+        "Lymphocytes and eosinophils",
+        "Basophils and monocytes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Neutrophils and monocytes (6-8 per cent) are phagocytic cells which destroy foreign organisms entering the body.",
+      "ncertPage": 194,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q10",
+      "chapterId": "bio_ch15",
+      "question": "Which type of white blood cells secrete histamine, serotonin, and heparin, and are involved in inflammatory reactions?",
+      "options": [
+        "Eosinophils",
+        "Basophils",
+        "Neutrophils",
+        "Lymphocytes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Basophils secrete histamine, serotonin, heparin, etc., and are involved in inflammatory reactions.",
+      "ncertPage": 194,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q11",
+      "chapterId": "bio_ch15",
+      "question": "Platelets, or thrombocytes, are cell fragments produced from special cells in the bone marrow known as:",
+      "options": [
+        "Erythrocytes",
+        "Megakaryocytes",
+        "Osteocytes",
+        "Lymphocytes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Platelets also called thrombocytes, are cell fragments produced from megakaryocytes (special cells in the bone marrow).",
+      "ncertPage": 195,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q12",
+      "chapterId": "bio_ch15",
+      "question": "Individuals with 'AB' blood group are called 'universal recipients' because their plasma contains:",
+      "options": [
+        "Anti-A and Anti-B antibodies",
+        "No antibodies",
+        "Both A and B antigens",
+        "Only Anti-A antibodies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Persons with 'AB' group can accept blood from persons with AB as well as the other groups of blood. Therefore, such persons are called 'universal recipients'. Table 15.1 shows AB group has nil antibodies in plasma.",
+      "ncertPage": 195,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q13",
+      "chapterId": "bio_ch15",
+      "question": "Erythroblastosis foetalis occurs due to Rh incompatibility between:",
+      "options": [
+        "Rh+ve mother and Rh-ve foetus",
+        "Rh-ve mother and Rh+ve foetus",
+        "Rh+ve mother and Rh+ve foetus",
+        "Rh-ve mother and Rh-ve foetus"
+      ],
+      "correctIndex": 1,
+      "explanation": "A special case of Rh incompatibility (mismatching) has been observed between the Rh-ve blood of a pregnant mother with Rh+ve blood of the foetus. ... This condition is called erythroblastosis foetalis.",
+      "ncertPage": 196,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q14",
+      "chapterId": "bio_ch15",
+      "question": "During blood coagulation, fibrins are formed by the conversion of inactive fibrinogens in the plasma by the enzyme:",
+      "options": [
+        "Thrombokinase",
+        "Prothrombin",
+        "Thrombin",
+        "Renin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fibrins are formed by the conversion of inactive fibrinogens in the plasma by the enzyme thrombin.",
+      "ncertPage": 196,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q15",
+      "chapterId": "bio_ch15",
+      "question": "Which of the following mineral ions plays a very important role in the clotting of blood?",
+      "options": [
+        "Iron ions",
+        "Calcium ions",
+        "Magnesium ions",
+        "Sodium ions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calcium ions play a very important role in clotting.",
+      "ncertPage": 196,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q16",
+      "chapterId": "bio_ch15",
+      "question": "Which fluid is released out into the spaces between the cells of tissues when blood passes through the capillaries, containing the same mineral distribution as plasma?",
+      "options": [
+        "Serum",
+        "Intracellular fluid",
+        "Lymph or tissue fluid",
+        "Synovial fluid"
+      ],
+      "correctIndex": 2,
+      "explanation": "This fluid released out is called the interstitial fluid or tissue fluid. It has the same mineral distribution as that in plasma... The fluid present in the lymphatic system is called the lymph.",
+      "ncertPage": 197,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q17",
+      "chapterId": "bio_ch15",
+      "question": "Fats are absorbed through lymph in specific structures present in the intestinal villi called:",
+      "options": [
+        "Alveoli",
+        "Lacteals",
+        "Capillaries",
+        "Megakaryocytes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fats are absorbed through lymph in the lacteals present in the intestinal villi.",
+      "ncertPage": 197,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q18",
+      "chapterId": "bio_ch15",
+      "question": "An open circulatory system, in which blood passes through large vessels into open spaces or body cavities (sinuses), is present in:",
+      "options": [
+        "Arthropods and molluscs",
+        "Annelids and chordates",
+        "Amphibians and reptiles",
+        "Fishes and birds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Open circulatory system is present in arthropods and molluscs in which blood pumped by the heart passes through large vessels into open spaces or body cavities called sinuses.",
+      "ncertPage": 197,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q19",
+      "chapterId": "bio_ch15",
+      "question": "In amphibians and reptiles (except crocodiles), the heart consists of:",
+      "options": [
+        "One atrium and one ventricle",
+        "Two atria and two ventricles",
+        "Two atria and a single ventricle",
+        "One atrium and two ventricles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Amphibians and the reptiles (except crocodiles) have a 3-chambered heart with two atria and a single ventricle...",
+      "ncertPage": 197,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q20",
+      "chapterId": "bio_ch15",
+      "question": "Incomplete double circulation is observed in animals where oxygenated and deoxygenated blood get mixed up in a single ventricle. Which of the following exhibits this?",
+      "options": [
+        "Fishes",
+        "Amphibians and reptiles",
+        "Birds and mammals",
+        "Crocodiles"
+      ],
+      "correctIndex": 1,
+      "explanation": "In amphibians and reptiles, the left atrium receives oxygenated blood... and the right atrium gets the deoxygenated blood... However, they get mixed up in the single ventricle which pumps out mixed blood (incomplete double circulation).",
+      "ncertPage": 197,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q21",
+      "chapterId": "bio_ch15",
+      "question": "The human heart is protected by a double walled membranous bag enclosing the pericardial fluid, which is called the:",
+      "options": [
+        "Pleura",
+        "Meninges",
+        "Peritoneum",
+        "Pericardium"
+      ],
+      "correctIndex": 3,
+      "explanation": "It is protected by a double walled membranous bag, pericardium, enclosing the pericardial fluid.",
+      "ncertPage": 198,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q22",
+      "chapterId": "bio_ch15",
+      "question": "Which structure separates the right and the left atria in the human heart?",
+      "options": [
+        "Inter-ventricular septum",
+        "Atrio-ventricular septum",
+        "Inter-atrial septum",
+        "Bicuspid valve"
+      ],
+      "correctIndex": 2,
+      "explanation": "A thin, muscular wall called the inter-atrial septum separates the right and the left atria...",
+      "ncertPage": 198,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q23",
+      "chapterId": "bio_ch15",
+      "question": "The opening between the right atrium and the right ventricle is guarded by a valve formed of three muscular flaps, called the:",
+      "options": [
+        "Bicuspid valve",
+        "Mitral valve",
+        "Semilunar valve",
+        "Tricuspid valve"
+      ],
+      "correctIndex": 3,
+      "explanation": "The opening between the right atrium and the right ventricle is guarded by a valve formed of three muscular flaps or cusps, the tricuspid valve...",
+      "ncertPage": 198,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q24",
+      "chapterId": "bio_ch15",
+      "question": "What is the alternative name for the bicuspid valve that guards the opening between the left atrium and left ventricle?",
+      "options": [
+        "Semilunar valve",
+        "Mitral valve",
+        "Tricuspid valve",
+        "Eustachian valve"
+      ],
+      "correctIndex": 1,
+      "explanation": "...whereas a bicuspid or mitral valve guards the opening between the left atrium and the left ventricle.",
+      "ncertPage": 198,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q25",
+      "chapterId": "bio_ch15",
+      "question": "In the human heart, where is the sino-atrial node (SAN) located?",
+      "options": [
+        "Lower left corner of the right atrium",
+        "Right upper corner of the right atrium",
+        "Top of the inter-ventricular septum",
+        "Within the walls of the left ventricle"
+      ],
+      "correctIndex": 1,
+      "explanation": "A patch of this tissue is present in the right upper corner of the right atrium called the sino-atrial node (SAN).",
+      "ncertPage": 199,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q26",
+      "chapterId": "bio_ch15",
+      "question": "Which minute fibres arise from the right and left bundles of the atrio-ventricular bundle throughout the ventricular musculature?",
+      "options": [
+        "Chordae tendineae",
+        "Purkinje fibres",
+        "Nerve fibres",
+        "Collagen fibres"
+      ],
+      "correctIndex": 1,
+      "explanation": "These branches give rise to minute fibres throughout the ventricular musculature of the respective sides and are called purkinje fibres.",
+      "ncertPage": 199,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q27",
+      "chapterId": "bio_ch15",
+      "question": "Why is the sino-atrial node (SAN) called the pacemaker of the heart?",
+      "options": [
+        "It is the only part of the heart that is autoexcitable.",
+        "It generates the maximum number of action potentials (70-75 min-1) and maintains rhythmic contractile activity.",
+        "It directly causes the ventricles to contract.",
+        "It connects the atria and the ventricles physically."
+      ],
+      "correctIndex": 1,
+      "explanation": "The SAN can generate the maximum number of action potentials, i.e., 70-75 min-1, and is responsible for initiating and maintaining the rhythmic contractile activity of the heart. Therefore, it is called the pacemaker.",
+      "ncertPage": 199,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q28",
+      "chapterId": "bio_ch15",
+      "question": "During atrial systole, the flow of blood into the ventricles increases by approximately what percentage?",
+      "options": [
+        "10 per cent",
+        "30 per cent",
+        "50 per cent",
+        "70 per cent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The SAN now generates an action potential which stimulates both the atria to undergo a simultaneous contraction - the atrial systole. This increases the flow of blood into the ventricles by about 30 per cent.",
+      "ncertPage": 199,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q29",
+      "chapterId": "bio_ch15",
+      "question": "The first heart sound (lub) is associated with the closure of which valves?",
+      "options": [
+        "Semilunar valves",
+        "Tricuspid and bicuspid valves",
+        "Eustachian valve",
+        "Aortic valve only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first heart sound (lub) is associated with the closure of the tricuspid and bicuspid valves...",
+      "ncertPage": 200,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q30",
+      "chapterId": "bio_ch15",
+      "question": "What is the duration of a standard cardiac cycle in a healthy human whose heart beats 72 times per minute?",
+      "options": [
+        "0.4 seconds",
+        "0.8 seconds",
+        "1.0 seconds",
+        "1.2 seconds"
+      ],
+      "correctIndex": 1,
+      "explanation": "As mentioned earlier, the heart beats 72 times per minute, i.e., that many cardiac cycles are performed per minute. From this it could be deduced that the duration of a cardiac cycle is 0.8 seconds.",
+      "ncertPage": 200,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q31",
+      "chapterId": "bio_ch15",
+      "question": "What is the volume of blood pumped out by each ventricle per minute called?",
+      "options": [
+        "Stroke volume",
+        "Cardiac output",
+        "End-diastolic volume",
+        "Tidal volume"
+      ],
+      "correctIndex": 1,
+      "explanation": "Therefore, the cardiac output can be defined as the volume of blood pumped out by each ventricle per minute and averages 5000 mL or 5 litres in a healthy individual.",
+      "ncertPage": 200,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q32",
+      "chapterId": "bio_ch15",
+      "question": "In a standard Electrocardiogram (ECG), the P-wave represents the:",
+      "options": [
+        "Depolarisation of the ventricles",
+        "Repolarisation of the atria",
+        "Electrical excitation or depolarisation of the atria",
+        "Return of ventricles to normal state"
+      ],
+      "correctIndex": 2,
+      "explanation": "The P-wave represents the electrical excitation (or depolarisation) of the atria, which leads to the contraction of both the atria.",
+      "ncertPage": 201,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q33",
+      "chapterId": "bio_ch15",
+      "question": "Which part of the ECG represents the depolarisation of the ventricles, marking the beginning of systole?",
+      "options": [
+        "P-wave",
+        "QRS complex",
+        "T-wave",
+        "S-T segment"
+      ],
+      "correctIndex": 1,
+      "explanation": "The QRS complex represents the depolarisation of the ventricles, which initiates the ventricular contraction. The contraction starts shortly after Q and marks the beginning of the systole.",
+      "ncertPage": 201,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q34",
+      "chapterId": "bio_ch15",
+      "question": "In an ECG, the end of the T-wave specifically marks the end of:",
+      "options": [
+        "Diastole",
+        "Systole",
+        "Depolarisation",
+        "Atrial contraction"
+      ],
+      "correctIndex": 1,
+      "explanation": "The T-wave represents the return of the ventricles from excited to normal state (repolarisation). The end of the T-wave marks the end of systole.",
+      "ncertPage": 201,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q35",
+      "chapterId": "bio_ch15",
+      "question": "An artery or vein basically consists of three layers. The middle layer of smooth muscle and elastic fibres is called the:",
+      "options": [
+        "Tunica intima",
+        "Tunica media",
+        "Tunica externa",
+        "Tunica interna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Basically, each artery and vein consists of three layers: an inner lining of squamous endothelium, the tunica intima, a middle layer of smooth muscle and elastic fibres, the tunica media...",
+      "ncertPage": 201,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q36",
+      "chapterId": "bio_ch15",
+      "question": "Which of the following blood vessels carries oxygenated blood from the lungs into the left atrium?",
+      "options": [
+        "Pulmonary artery",
+        "Vena cava",
+        "Pulmonary vein",
+        "Aorta"
+      ],
+      "correctIndex": 2,
+      "explanation": "The deoxygenated blood pumped into the pulmonary artery is passed on to the lungs from where the oxygenated blood is carried by the pulmonary veins into the left atrium.",
+      "ncertPage": 201,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q37",
+      "chapterId": "bio_ch15",
+      "question": "A unique vascular connection that carries blood from the intestine to the liver before delivering it to the systemic circulation is known as the:",
+      "options": [
+        "Coronary system",
+        "Hepatic portal system",
+        "Renal portal system",
+        "Pulmonary system"
+      ],
+      "correctIndex": 1,
+      "explanation": "A unique vascular connection exists between the digestive tract and liver called hepatic portal system. The hepatic portal vein carries blood from intestine to the liver before it is delivered to the systemic circulation.",
+      "ncertPage": 202,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q38",
+      "chapterId": "bio_ch15",
+      "question": "The special system of blood vessels in our body exclusively for the circulation of blood to and from the cardiac musculature is the:",
+      "options": [
+        "Systemic circulation",
+        "Pulmonary circulation",
+        "Hepatic portal system",
+        "Coronary system"
+      ],
+      "correctIndex": 3,
+      "explanation": "A special coronary system of blood vessels is present in our body exclusively for the circulation of blood to and from the cardiac musculature.",
+      "ncertPage": 202,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q39",
+      "chapterId": "bio_ch15",
+      "question": "Which part of the brain possesses a special neural centre that can moderate cardiac function through the autonomic nervous system?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "correctIndex": 2,
+      "explanation": "A special neural centre in the medulla oblangata can moderate the cardiac function through autonomic nervous system (ANS).",
+      "ncertPage": 202,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q40",
+      "chapterId": "bio_ch15",
+      "question": "Neural signals through the sympathetic nerves (a part of ANS) have what effect on the heart?",
+      "options": [
+        "Decrease the rate of heart beat",
+        "Increase the rate of heart beat and cardiac output",
+        "Have no effect on ventricular contraction",
+        "Decrease the speed of conduction of action potential"
+      ],
+      "correctIndex": 1,
+      "explanation": "Neural signals through the sympathetic nerves (part of ANS) can increase the rate of heart beat, the strength of ventricular contraction and thereby the cardiac output.",
+      "ncertPage": 202,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q41",
+      "chapterId": "bio_ch15",
+      "question": "What effect do parasympathetic neural signals have on cardiac activity?",
+      "options": [
+        "Increase the rate of heart beat",
+        "Decrease the rate of heart beat and speed of conduction of action potential",
+        "Increase the strength of ventricular contraction",
+        "Increase the cardiac output"
+      ],
+      "correctIndex": 1,
+      "explanation": "On the other hand, parasympathetic neural signals (another component of ANS) decrease the rate of heart beat, speed of conduction of action potential and thereby the cardiac output.",
+      "ncertPage": 202,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q42",
+      "chapterId": "bio_ch15",
+      "question": "Which hormonal secretion can also increase the cardiac output?",
+      "options": [
+        "Thyroid hormones",
+        "Adrenal medullary hormones",
+        "Insulin",
+        "Parathyroid hormone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adrenal medullary hormones can also increase the cardiac output.",
+      "ncertPage": 202,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q43",
+      "chapterId": "bio_ch15",
+      "question": "A blood pressure measurement of 120/80 mm Hg is considered normal. What does the '120' represent?",
+      "options": [
+        "Diastolic, or resting, pressure",
+        "Systolic, or pumping, pressure",
+        "Mean arterial pressure",
+        "Pulse pressure"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this measurement 120 mm Hg (millimetres of mercury pressure) is the systolic, or pumping, pressure and 80 mm Hg is the diastolic, or resting, pressure.",
+      "ncertPage": 202,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q44",
+      "chapterId": "bio_ch15",
+      "question": "If an individual has repeated blood pressure checks reading 140/90 or higher, what condition does it indicate?",
+      "options": [
+        "Hypotension",
+        "Hypertension",
+        "Angina",
+        "Heart failure"
+      ],
+      "correctIndex": 1,
+      "explanation": "If repeated checks of blood pressure of an individual is 140/90 (140 over 90) or higher, it shows hypertension.",
+      "ncertPage": 202,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q45",
+      "chapterId": "bio_ch15",
+      "question": "Coronary Artery Disease (CAD), which affects the vessels that supply blood to the heart muscle, is often referred to as:",
+      "options": [
+        "Heart failure",
+        "Angina pectoris",
+        "Atherosclerosis",
+        "Hypertension"
+      ],
+      "correctIndex": 2,
+      "explanation": "Coronary Artery Disease (CAD): Coronary Artery Disease, often referred to as atherosclerosis, affects the vessels that supply blood to the heart muscle.",
+      "ncertPage": 203,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q46",
+      "chapterId": "bio_ch15",
+      "question": "Which of the following describes the condition 'Angina pectoris'?",
+      "options": [
+        "A state where the heart stops beating",
+        "A symptom of acute chest pain when not enough oxygen reaches the heart muscle",
+        "Deposits of calcium and fat making arteries narrower",
+        "Congestion of the lungs due to ineffective pumping"
+      ],
+      "correctIndex": 1,
+      "explanation": "Angina: It is also called 'angina pectoris'. A symptom of acute chest pain appears when no enough oxygen is reaching the heart muscle.",
+      "ncertPage": 203,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q47",
+      "chapterId": "bio_ch15",
+      "question": "Which disorder is sometimes called 'congestive heart failure' because lung congestion is one of its main symptoms?",
+      "options": [
+        "Coronary Artery Disease",
+        "Heart Failure",
+        "Cardiac Arrest",
+        "Heart Attack"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heart Failure: Heart failure means the state of heart when it is not pumping blood effectively enough to meet the needs of the body. It is sometimes called congestive heart failure because congestion of the lungs is one of the main symptoms of this disease.",
+      "ncertPage": 203,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q48",
+      "chapterId": "bio_ch15",
+      "question": "What is the specific medical term for the event when the heart stops beating completely?",
+      "options": [
+        "Heart failure",
+        "Cardiac arrest",
+        "Heart attack",
+        "Atherosclerosis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heart failure is not the same as cardiac arrest (when the heart stops beating) or a heart attack (when the heart muscle is suddenly damaged by an inadequate blood supply).",
+      "ncertPage": 203,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q49",
+      "chapterId": "bio_ch15",
+      "question": "Which term describes a condition where the heart muscle is suddenly damaged by an inadequate blood supply?",
+      "options": [
+        "Angina pectoris",
+        "Cardiac arrest",
+        "Heart failure",
+        "Heart attack"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heart failure is not the same as cardiac arrest (when the heart stops beating) or a heart attack (when the heart muscle is suddenly damaged by an inadequate blood supply).",
+      "ncertPage": 203,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "11_bio_ch15_q50",
+      "chapterId": "bio_ch15",
+      "question": "During a cardiac cycle, as the ventricular pressure increases further, which valves are forced open to allow blood into the circulatory pathways?",
+      "options": [
+        "Tricuspid and bicuspid valves",
+        "Semilunar valves",
+        "Mitral valves",
+        "Eustachian valves"
+      ],
+      "correctIndex": 1,
+      "explanation": "As the ventricular pressure increases further, the semilunar valves guarding the pulmonary artery (right side) and the aorta (left side) are forced open, allowing the blood in the ventricles to flow through these vessels...",
+      "ncertPage": 200,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    }
+  ]
+}

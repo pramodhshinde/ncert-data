@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "mcqId": "11_chem_ch3_q1",
+      "chapterId": "chem_ch3",
+      "question": "The elements in which the last electron enters the f-orbital are called:",
+      "options": [
+        "s-block elements",
+        "p-block elements",
+        "d-block elements",
+        "Inner-transition elements"
+      ],
+      "correctIndex": 3,
+      "explanation": "Elements where the 4f and 5f orbitals are being filled are called f-block elements or inner-transition elements.",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "11_chem_ch3_q2",
+      "chapterId": "chem_ch3",
+      "question": "Which of the following properties generally decreases across a period from left to right?",
+      "options": [
+        "Ionization enthalpy",
+        "Electronegativity",
+        "Atomic radius",
+        "Electron gain enthalpy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Atomic radius generally decreases across a period due to increase in effective nuclear charge, which pulls the electrons closer.",
+      "ncertPage": 88,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "11_chem_ch3_q3",
+      "chapterId": "chem_ch3",
+      "question": "Which element has the highest negative electron gain enthalpy?",
+      "options": [
+        "Fluorine",
+        "Chlorine",
+        "Oxygen",
+        "Neon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chlorine has a higher negative electron gain enthalpy than fluorine because the small size of fluorine leads to strong inter-electronic repulsions.",
+      "ncertPage": 92,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    }
+  ]
+}
