@@ -1,8 +1,0 @@
-{
-    "subject": "english",
-    "classNumber": 12,
-    "chapters": [
-        { "id": "eng_ch09", "title": "The Proposal", "file": "eng_ch09.json", "count": 50 }
-    ],
-    "totalChapters": 1
-}
