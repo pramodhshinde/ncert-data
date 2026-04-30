@@ -1,0 +1,17 @@
+{
+  "subject": "science",
+  "classNumber": 9,
+  "totalChapters": 15,
+  "chapters": [
+    {
+      "chapterId": "sci_ch1",
+      "chapterNumber": 1,
+      "title": "Matter in Our Surroundings",
+      "totalQuestions": 10,
+      "easy": 5,
+      "medium": 3,
+      "hard": 2,
+      "file": "sci_ch1.json"
+    }
+  ]
+}

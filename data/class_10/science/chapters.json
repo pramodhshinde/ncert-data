@@ -1,0 +1,35 @@
+﻿{
+    "chapters":  [
+                     {
+                         "pdfUrl":  "https://ncert.nic.in/textbook/pdf/jesc101.pdf",
+                         "id":  100101,
+                         "hasMCQ":  true,
+                         "pageCount":  18,
+                         "hasSolutions":  true,
+                         "title":  "Chemical Reactions and Equations",
+                         "hasNotes":  true,
+                         "chapterNumber":  1,
+                         "questionCount":  20,
+                         "progressPercent":  0,
+                         "notesUrl":  "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_10/science/ch1.pdf",
+                         "solutionsUrl":  "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_10/science/ch1.pdf",
+                         "bookId":  1001,
+                         "estimatedMinutes":  45,
+                         "hasRead":  true,
+                         "status":  "NOT_STARTED",
+                         "topicCount":  5,
+                         "mcqUrl":  "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_10/science/mcqs/sci_ch1.json"
+                     }
+                 ],
+    "book":  {
+                 "chapterCount":  13,
+                 "id":  1001,
+                 "subtitle":  "Class 10 NCERT Textbook",
+                 "classNumber":  "Class 10",
+                 "parts":  1,
+                 "subject":  "Science",
+                 "language":  "english",
+                 "title":  "Science",
+                 "coverUrl":  "https://ncert.nic.in/textbook/pdf/cover/jesc1.jpg"
+             }
+}

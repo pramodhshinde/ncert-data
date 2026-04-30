@@ -1,0 +1,35 @@
+{
+  "book": {
+    "id": 901,
+    "title": "Science",
+    "subtitle": "Class 9 NCERT Textbook",
+    "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/iesc1.jpg",
+    "language": "english",
+    "classNumber": "Class 9",
+    "subject": "Science",
+    "chapterCount": 15,
+    "parts": 1
+  },
+  "chapters": [
+    {
+      "id": 90101,
+      "bookId": 901,
+      "chapterNumber": 1,
+      "title": "Matter in Our Surroundings",
+      "topicCount": 5,
+      "questionCount": 20,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 45,
+      "pageCount": 15,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/iesc101.pdf",
+      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_9/science/ch1.pdf",
+      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_9/science/ch1.pdf",
+      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_9/science/mcqs/sci_ch1.json"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+    "subjects":  [
+                     "science",
+                     "mathematics",
+                     "social_science",
+                     "english",
+                     "hindi"
+                 ],
+    "classNumber":  8,
+    "displayName":  "Class 8",
+    "hasStreams":  false
+}

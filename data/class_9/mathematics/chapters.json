@@ -1,0 +1,35 @@
+﻿{
+    "chapters":  [
+                     {
+                         "pdfUrl":  "https://ncert.nic.in/textbook/pdf/iemh101.pdf",
+                         "id":  90201,
+                         "hasMCQ":  true,
+                         "pageCount":  30,
+                         "hasSolutions":  true,
+                         "title":  "Number Systems",
+                         "hasNotes":  true,
+                         "chapterNumber":  1,
+                         "questionCount":  25,
+                         "progressPercent":  0,
+                         "notesUrl":  "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_9/mathematics/ch1.pdf",
+                         "solutionsUrl":  "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_9/mathematics/ch1.pdf",
+                         "bookId":  902,
+                         "estimatedMinutes":  80,
+                         "hasRead":  true,
+                         "status":  "NOT_STARTED",
+                         "topicCount":  6,
+                         "mcqUrl":  "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_9/mathematics/mcqs/math_ch1.json"
+                     }
+                 ],
+    "book":  {
+                 "chapterCount":  15,
+                 "id":  902,
+                 "subtitle":  "Class 9 NCERT Textbook",
+                 "classNumber":  "Class 9",
+                 "parts":  1,
+                 "subject":  "Mathematics",
+                 "language":  "english",
+                 "title":  "Mathematics",
+                 "coverUrl":  "https://ncert.nic.in/textbook/pdf/cover/iemh1.jpg"
+             }
+}
