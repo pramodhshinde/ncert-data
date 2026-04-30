@@ -1,12 +1,36 @@
 {
-  "latestVersion": "1.0.0",
-  "forceUpdate": false,
-  "maintenance": false,
-  "maintenanceMessage": "App is under maintenance. Please try again later.",
-  "privacyPolicyUrl": "",
-  "termsUrl": "",
-  "contactEmail": "vyankateshshinde44@gmail.com",
-  "youtubeChannelUrl": "",
-  "shareMessage": "Check out this NCERT Study App! Download now.",
-  "telegramUrl": ""
+  "classes": [
+    { "id": 1, "name": "Class 1", "hasStreams": false },
+    { "id": 2, "name": "Class 2", "hasStreams": false },
+    { "id": 3, "name": "Class 3", "hasStreams": false },
+    { "id": 4, "name": "Class 4", "hasStreams": false },
+    { "id": 5, "name": "Class 5", "hasStreams": false },
+    { "id": 6, "name": "Class 6", "hasStreams": false },
+    { "id": 7, "name": "Class 7", "hasStreams": false },
+    { "id": 8, "name": "Class 8", "hasStreams": false },
+    { "id": 9, "name": "Class 9", "hasStreams": false },
+    { "id": 10, "name": "Class 10", "hasStreams": false },
+    { "id": 11, "name": "Class 11", "hasStreams": true, "streams": ["Science", "Commerce", "Arts"] },
+    { "id": 12, "name": "Class 12", "hasStreams": true, "streams": ["Science", "Commerce", "Arts"] }
+  ],
+  "github_base_url": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/",
+  "subjects": {
+    "Physics": "physics",
+    "Chemistry": "chemistry",
+    "Biology": "biology",
+    "Mathematics": "mathematics",
+    "Science": "science",
+    "Social Science": "social_science",
+    "English": "english",
+    "Hindi": "hindi",
+    "History": "history",
+    "Geography": "geography",
+    "Economics": "economics",
+    "Accountancy": "accountancy",
+    "Business Studies": "business_studies",
+    "Fine Arts": "fine_arts",
+    "Biotechnology": "biotechnology",
+    "Political Science": "political_science",
+    "EVS": "evs"
+  }
 }
