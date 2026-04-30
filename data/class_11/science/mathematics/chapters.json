@@ -1,16 +1,27 @@
 ﻿{
-    "chapters":  [
-
-                 ],
-    "book":  {
-                 "chapterCount":  0,
-                 "id":  1101,
-                 "subtitle":  "Class 11",
-                 "classNumber":  "Class 11",
-                 "parts":  1,
-                 "subject":  "mathematics",
-                 "language":  "english",
-                 "title":  "mathematics",
-                 "coverUrl":  ""
-             }
+  "books": [
+    {
+      "id": 1106,
+      "title": "Mathematics Part I",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kemh1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 8,
+      "parts": 2
+    },
+    {
+      "id": 1107,
+      "title": "Mathematics Part II",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kemh2.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 8,
+      "parts": 2
+    }
+  ],
+  "chapters": []
 }

@@ -1,0 +1,48 @@
+{
+  "books": [
+    {
+      "id": 1131,
+      "title": "Hornbill",
+      "subtitle": "Class 11 NCERT English Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehb1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "English",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1132,
+      "title": "Snapshots",
+      "subtitle": "Class 11 NCERT English Supplementary",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kesp1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "English",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1133,
+      "title": "Aroh",
+      "subtitle": "Class 11 NCERT Hindi Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehr1.jpg",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 20,
+      "parts": 1
+    },
+    {
+      "id": 1134,
+      "title": "Vitan",
+      "subtitle": "Class 11 NCERT Hindi Supplementary",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehv1.jpg",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 4,
+      "parts": 1
+    }
+  ]
+}

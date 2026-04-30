@@ -1,15 +1,28 @@
 {
-  "book": {
-    "id": 1101,
-    "title": "Physics Part I",
-    "subtitle": "Class 11 NCERT Textbook",
-    "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keph1.jpg",
-    "language": "english",
-    "classNumber": "Class 11",
-    "subject": "Physics",
-    "chapterCount": 8,
-    "parts": 2
-  },
+  "books": [
+    {
+      "id": 1101,
+      "title": "Physics Part I",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keph1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Physics",
+      "chapterCount": 8,
+      "parts": 2
+    },
+    {
+      "id": 1102,
+      "title": "Physics Part II",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keph2.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Physics",
+      "chapterCount": 7,
+      "parts": 2
+    }
+  ],
   "chapters": [
     {
       "id": 110101,
