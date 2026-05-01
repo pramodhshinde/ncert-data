@@ -21,7 +21,87 @@
       "subject": "Chemistry",
       "chapterCount": 7,
       "parts": 2
+    },
+    {
+      "id": 1113,
+      "title": "Rasayan Vigyan Part I",
+      "subtitle": "Class 11 NCERT Textbook (Hindi)",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khch1.jpg",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Chemistry",
+      "chapterCount": 7,
+      "parts": 2
     }
   ],
-  "chapters": []
+  "chapters": [
+    {
+      "id": 110301,
+      "bookId": 1103,
+      "chapterNumber": 1,
+      "title": "Some Basic Concepts of Chemistry",
+      "topicCount": 8,
+      "questionCount": 20,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 55,
+      "pageCount": 24,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech101.pdf"
+    },
+    {
+      "id": 111301,
+      "bookId": 1113,
+      "chapterNumber": 1,
+      "title": "रसायन विज्ञान की कुछ मूल अवधारणाएँ",
+      "topicCount": 8,
+      "questionCount": 18,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 55,
+      "pageCount": 24,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/khch101.pdf"
+    },
+    {
+      "id": 110302,
+      "bookId": 1103,
+      "chapterNumber": 2,
+      "title": "Structure of Atom",
+      "topicCount": 7,
+      "questionCount": 25,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 60,
+      "pageCount": 28,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech102.pdf"
+    },
+    {
+      "id": 110303,
+      "bookId": 1103,
+      "chapterNumber": 3,
+      "title": "Classification of Elements and Periodicity in Properties",
+      "topicCount": 6,
+      "questionCount": 15,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 45,
+      "pageCount": 20,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kech103.pdf"
+    }
+  ]
 }

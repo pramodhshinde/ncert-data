@@ -1,35 +1,51 @@
 ﻿{
-    "chapters":  [
-      {
-        "pdfUrl":  "https://ncert.nic.in/textbook/pdf/keec101.pdf",
-        "id":  111501,
-        "hasMCQ":  false,
-        "pageCount":  20,
-        "hasSolutions":  false,
-        "title":  "Indian Economy on the Eve of Independence",
-        "hasNotes":  false,
-        "chapterNumber":  1,
-        "questionCount":  15,
-        "progressPercent":  0,
-        "notesUrl":  "",
-        "solutionsUrl":  "",
-        "bookId":  1115,
-        "estimatedMinutes":  60,
-        "hasRead":  true,
-        "status":  "NOT_STARTED",
-        "topicCount":  6,
-        "mcqUrl":  ""
-      }
-                 ],
-    "book":  {
-                 "chapterCount":  0,
-                 "id":  1101,
-                 "subtitle":  "Class 11",
-                 "classNumber":  "Class 11",
-                 "parts":  1,
-                 "subject":  "business_studies",
-                 "language":  "english",
-                 "title":  "business_studies",
-                 "coverUrl":  ""
-             }
+  "books": [
+    {
+      "id": 1123,
+      "title": "Business Studies",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kebs1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Business Studies",
+      "chapterCount": 11,
+      "parts": 1
+    }
+  ],
+  "chapters": [
+    {
+      "id": 112301,
+      "bookId": 1123,
+      "chapterNumber": 1,
+      "title": "Business, Trade and Commerce",
+      "topicCount": 8,
+      "questionCount": 20,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 50,
+      "pageCount": 25,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebs101.pdf"
+    },
+    {
+      "id": 112302,
+      "bookId": 1123,
+      "chapterNumber": 2,
+      "title": "Forms of Business Organisation",
+      "topicCount": 12,
+      "questionCount": 25,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 65,
+      "pageCount": 35,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kebs102.pdf"
+    }
+  ]
 }

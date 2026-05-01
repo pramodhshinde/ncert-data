@@ -21,7 +21,87 @@
       "subject": "Mathematics",
       "chapterCount": 8,
       "parts": 2
+    },
+    {
+      "id": 1116,
+      "title": "Ganit",
+      "subtitle": "Class 11 NCERT Textbook (Hindi)",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khmh1.jpg",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 16,
+      "parts": 1
     }
   ],
-  "chapters": []
+  "chapters": [
+    {
+      "id": 110601,
+      "bookId": 1106,
+      "chapterNumber": 1,
+      "title": "Sets",
+      "topicCount": 6,
+      "questionCount": 20,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 50,
+      "pageCount": 26,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh101.pdf"
+    },
+    {
+      "id": 111601,
+      "bookId": 1116,
+      "chapterNumber": 1,
+      "title": "Samucchaya",
+      "topicCount": 6,
+      "questionCount": 18,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 50,
+      "pageCount": 26,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/khmh101.pdf"
+    },
+    {
+      "id": 110602,
+      "bookId": 1106,
+      "chapterNumber": 2,
+      "title": "Relations and Functions",
+      "topicCount": 5,
+      "questionCount": 25,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 60,
+      "pageCount": 30,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kemh102.pdf"
+    },
+    {
+      "id": 111602,
+      "bookId": 1116,
+      "chapterNumber": 2,
+      "title": "Sambandh evam Phalan",
+      "topicCount": 5,
+      "questionCount": 20,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 60,
+      "pageCount": 30,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/khmh102.pdf"
+    }
+  ]
 }

@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": 1121,
+      "title": "Financial Accounting Part I",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keac1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Accountancy",
+      "chapterCount": 8,
+      "parts": 2
+    },
+    {
+      "id": 1122,
+      "title": "Financial Accounting Part II",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keac2.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Accountancy",
+      "chapterCount": 5,
+      "parts": 2
+    },
+    {
+      "id": 1126,
+      "title": "Vittiya Lekhankan Part I",
+      "subtitle": "Class 11 NCERT Textbook (Hindi)",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khac1.jpg",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Accountancy",
+      "chapterCount": 8,
+      "parts": 2
+    },
+    {
+      "id": 1123,
+      "title": "Business Studies",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kebs1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Business Studies",
+      "chapterCount": 11,
+      "parts": 1
+    },
+    {
+      "id": 1127,
+      "title": "Vyavasay Adhyayan",
+      "subtitle": "Class 11 NCERT Textbook (Hindi)",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khbs1.jpg",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Business Studies",
+      "chapterCount": 11,
+      "parts": 1
+    },
+    {
+      "id": 1124,
+      "title": "Statistics for Economics",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kest1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Economics",
+      "chapterCount": 9,
+      "parts": 2
+    },
+    {
+      "id": 1125,
+      "title": "Indian Economic Development",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keec1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Economics",
+      "chapterCount": 10,
+      "parts": 2
+    },
+    {
+      "id": 1128,
+      "title": "Bhartiya Arthvyavastha ka Vikas",
+      "subtitle": "Class 11 NCERT Textbook (Hindi)",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khec1.jpg",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Economics",
+      "chapterCount": 10,
+      "parts": 2
+    }
+  ]
+}

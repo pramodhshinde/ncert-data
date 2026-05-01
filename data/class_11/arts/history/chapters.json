@@ -1,16 +1,51 @@
 ﻿{
-    "chapters":  [
-
-                 ],
-    "book":  {
-                 "chapterCount":  0,
-                 "id":  1101,
-                 "subtitle":  "Class 11",
-                 "classNumber":  "Class 11",
-                 "parts":  1,
-                 "subject":  "history",
-                 "language":  "english",
-                 "title":  "history",
-                 "coverUrl":  ""
-             }
+  "books": [
+    {
+      "id": 1151,
+      "title": "Themes in World History",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehs1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "History",
+      "chapterCount": 11,
+      "parts": 1
+    }
+  ],
+  "chapters": [
+    {
+      "id": 115101,
+      "bookId": 1151,
+      "chapterNumber": 1,
+      "title": "From the Beginning of Time",
+      "topicCount": 6,
+      "questionCount": 12,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 45,
+      "pageCount": 20,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs101.pdf"
+    },
+    {
+      "id": 115102,
+      "bookId": 1151,
+      "chapterNumber": 2,
+      "title": "Writing and City Life",
+      "topicCount": 8,
+      "questionCount": 15,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 50,
+      "pageCount": 25,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs102.pdf"
+    }
+  ]
 }

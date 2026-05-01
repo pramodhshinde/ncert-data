@@ -1,0 +1,48 @@
+{
+  "books": [
+    {
+      "id": 1151,
+      "title": "Themes in World History",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehs1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "History",
+      "chapterCount": 11,
+      "parts": 1
+    },
+    {
+      "id": 1152,
+      "title": "Fundamentals of Physical Geography",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kegy1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 16,
+      "parts": 2
+    },
+    {
+      "id": 1153,
+      "title": "India: Physical Environment",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kegy2.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 7,
+      "parts": 2
+    },
+    {
+      "id": 1154,
+      "title": "An Introduction to Indian Art",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kefa1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Fine Arts",
+      "chapterCount": 8,
+      "parts": 1
+    }
+  ]
+}
