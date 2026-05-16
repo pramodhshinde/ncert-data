@@ -1,40 +1,95 @@
 {
   "books": [
     {
-      "id": 1151,
+      "id": 1141,
       "title": "Themes in World History",
       "subtitle": "Class 11 NCERT Textbook",
       "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehs1.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "History",
-      "chapterCount": 11,
+      "chapterCount": 7,
       "parts": 1
     },
     {
-      "id": 1152,
+      "id": 1142,
       "title": "Fundamentals of Physical Geography",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kegy1.jpg",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keeg1.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Geography",
-      "chapterCount": 16,
+      "chapterCount": 14,
       "parts": 2
     },
     {
-      "id": 1153,
-      "title": "India: Physical Environment",
+      "id": 1143,
+      "title": "Practical Work in Geography",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kegy2.jpg",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keeg3.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Geography",
-      "chapterCount": 7,
+      "chapterCount": 8,
       "parts": 2
     },
     {
-      "id": 1154,
+      "id": 1144,
+      "title": "Indian Constitution at Work",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keps1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Political Science",
+      "chapterCount": 10,
+      "parts": 2
+    },
+    {
+      "id": 1145,
+      "title": "Political Theory",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keps2.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Political Science",
+      "chapterCount": 8,
+      "parts": 2
+    },
+    {
+      "id": 1146,
+      "title": "Introducing Sociology",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kesy1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Sociology",
+      "chapterCount": 5,
+      "parts": 2
+    },
+    {
+      "id": 1147,
+      "title": "Understanding Society",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kesy2.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Sociology",
+      "chapterCount": 5,
+      "parts": 2
+    },
+    {
+      "id": 1148,
+      "title": "Psychology",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kepy1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Psychology",
+      "chapterCount": 9,
+      "parts": 1
+    },
+    {
+      "id": 1149,
       "title": "An Introduction to Indian Art",
       "subtitle": "Class 11 NCERT Textbook",
       "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kefa1.jpg",
@@ -42,6 +97,17 @@
       "classNumber": "Class 11",
       "subject": "Fine Arts",
       "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1150,
+      "title": "Health and Physical Education",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehe1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Physical Education",
+      "chapterCount": 10,
       "parts": 1
     }
   ]

@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "mcqId": "psy_ch3_q01",
+      "chapterId": "psy_ch3",
+      "question": "Piaget's theory of cognitive development has how many stages?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctIndex": 2,
+      "explanation": "Piaget proposed four stages of cognitive development: sensorimotor, preoperational, concrete operational, and formal operational.",
+      "ncertPage": 1,
+      "difficulty": "EASY",
+      "subject": "Psychology"
+    }
+  ]
+}

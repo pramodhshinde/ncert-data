@@ -1,51 +1,22 @@
 ﻿{
-  "books": [
-    {
-      "id": 1151,
-      "title": "Themes in World History",
-      "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehs1.jpg",
-      "language": "english",
-      "classNumber": "Class 11",
-      "subject": "History",
-      "chapterCount": 11,
-      "parts": 1
-    }
-  ],
+  "books": [{
+    "id": 1141,
+    "title": "Themes in World History",
+    "subtitle": "Class 11 NCERT Textbook",
+    "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehs1.jpg",
+    "language": "english",
+    "classNumber": "Class 11",
+    "subject": "History",
+    "chapterCount": 7,
+    "parts": 1
+  }],
   "chapters": [
-    {
-      "id": 115101,
-      "bookId": 1151,
-      "chapterNumber": 1,
-      "title": "From the Beginning of Time",
-      "topicCount": 6,
-      "questionCount": 12,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 45,
-      "pageCount": 20,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs101.pdf"
-    },
-    {
-      "id": 115102,
-      "bookId": 1151,
-      "chapterNumber": 2,
-      "title": "Writing and City Life",
-      "topicCount": 8,
-      "questionCount": 15,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 50,
-      "pageCount": 25,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs102.pdf"
-    }
+    { "id": 114101, "bookId": 1141, "chapterNumber": 1, "title": "Writing and City Life", "topicCount": 5, "questionCount": 15, "progressPercent": 0, "status": "NOT_STARTED", "estimatedMinutes": 50, "pageCount": 22, "hasRead": true, "hasSolutions": true, "hasNotes": true, "hasMCQ": true, "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs101.pdf", "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/history/ch1.pdf", "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/history/ch1.pdf", "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/arts/history/mcqs/hist_ch1.json" },
+    { "id": 114102, "bookId": 1141, "chapterNumber": 2, "title": "An Empire Across Three Continents", "topicCount": 6, "questionCount": 18, "progressPercent": 0, "status": "NOT_STARTED", "estimatedMinutes": 55, "pageCount": 24, "hasRead": true, "hasSolutions": true, "hasNotes": true, "hasMCQ": true, "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs102.pdf", "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/history/ch2.pdf", "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/history/ch2.pdf", "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/arts/history/mcqs/hist_ch2.json" },
+    { "id": 114103, "bookId": 1141, "chapterNumber": 3, "title": "Nomadic Empires", "topicCount": 4, "questionCount": 12, "progressPercent": 0, "status": "NOT_STARTED", "estimatedMinutes": 45, "pageCount": 20, "hasRead": true, "hasSolutions": true, "hasNotes": true, "hasMCQ": true, "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs103.pdf", "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/history/ch3.pdf", "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/history/ch3.pdf", "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/arts/history/mcqs/hist_ch3.json" },
+    { "id": 114104, "bookId": 1141, "chapterNumber": 4, "title": "The Three Orders", "topicCount": 5, "questionCount": 15, "progressPercent": 0, "status": "NOT_STARTED", "estimatedMinutes": 50, "pageCount": 22, "hasRead": true, "hasSolutions": true, "hasNotes": true, "hasMCQ": true, "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs104.pdf", "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/history/ch4.pdf", "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/history/ch4.pdf", "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/arts/history/mcqs/hist_ch4.json" },
+    { "id": 114105, "bookId": 1141, "chapterNumber": 5, "title": "Changing Cultural Traditions", "topicCount": 6, "questionCount": 18, "progressPercent": 0, "status": "NOT_STARTED", "estimatedMinutes": 55, "pageCount": 24, "hasRead": true, "hasSolutions": true, "hasNotes": true, "hasMCQ": true, "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs105.pdf", "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/history/ch5.pdf", "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/history/ch5.pdf", "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/arts/history/mcqs/hist_ch5.json" },
+    { "id": 114106, "bookId": 1141, "chapterNumber": 6, "title": "Displacing Indigenous Peoples", "topicCount": 4, "questionCount": 12, "progressPercent": 0, "status": "NOT_STARTED", "estimatedMinutes": 45, "pageCount": 20, "hasRead": true, "hasSolutions": true, "hasNotes": true, "hasMCQ": true, "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs106.pdf", "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/history/ch6.pdf", "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/history/ch6.pdf", "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/arts/history/mcqs/hist_ch6.json" },
+    { "id": 114107, "bookId": 1141, "chapterNumber": 7, "title": "Paths to Modernisation", "topicCount": 5, "questionCount": 15, "progressPercent": 0, "status": "NOT_STARTED", "estimatedMinutes": 50, "pageCount": 22, "hasRead": true, "hasSolutions": true, "hasNotes": true, "hasMCQ": true, "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehs107.pdf", "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/history/ch7.pdf", "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/history/ch7.pdf", "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/arts/history/mcqs/hist_ch7.json" }
   ]
 }

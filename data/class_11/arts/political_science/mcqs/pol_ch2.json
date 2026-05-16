@@ -1,0 +1,57 @@
+[
+  {
+    "mcq_id": "pol_rights_q01",
+    "chapter_id": "pol_ch2",
+    "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+    "options": ["Part II", "Part III", "Part IV", "Part V"],
+    "correct_index": 1,
+    "explanation": "Fundamental Rights are enshrined in Part III of the Indian Constitution.",
+    "ncert_page": 28,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_rights_q02",
+    "chapter_id": "pol_ch2",
+    "question": "The Fundamental Rights in the Indian Constitution were inspired by which country's Constitution?",
+    "options": ["United Kingdom", "USA (Bill of Rights)", "USSR", "France"],
+    "correct_index": 1,
+    "explanation": "The Fundamental Rights in the Indian Constitution are inspired by the Bill of Rights of the USA.",
+    "ncert_page": 29,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_rights_q03",
+    "chapter_id": "pol_ch2",
+    "question": "Which Fundamental Right was described by Dr. B.R. Ambedkar as the 'Heart and Soul of the Constitution'?",
+    "options": ["Right to Equality", "Right against Exploitation", "Right to Constitutional Remedies", "Right to Freedom of Religion"],
+    "correct_index": 2,
+    "explanation": "Dr. Ambedkar called the Right to Constitutional Remedies (Article 32) the 'heart and soul of the Constitution'.",
+    "ncert_page": 35,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_rights_q04",
+    "chapter_id": "pol_ch2",
+    "question": "The 'Right to Property' was removed from the list of Fundamental Rights by which amendment?",
+    "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "73rd Amendment"],
+    "correct_index": 1,
+    "explanation": "The 44th Amendment Act (1978) removed the Right to Property from the list of Fundamental Rights.",
+    "ncert_page": 32,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_rights_q05",
+    "chapter_id": "pol_ch2",
+    "question": "Which article of the Constitution abolishes 'Untouchability'?",
+    "options": ["Article 14", "Article 15", "Article 17", "Article 18"],
+    "correct_index": 2,
+    "explanation": "Article 17 of the Indian Constitution abolishes untouchability and forbids its practice in any form.",
+    "ncert_page": 30,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  }
+]

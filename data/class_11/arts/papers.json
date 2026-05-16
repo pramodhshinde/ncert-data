@@ -1,0 +1,46 @@
+{
+  "papers": [
+    {
+      "id": 11411,
+      "subjectId": 41,
+      "subjectName": "History",
+      "year": "2024",
+      "title": "History Annual 2024 Set 1",
+      "boardName": "NCERT / CBSE",
+      "setNumber": "Set 1",
+      "totalMarks": 80,
+      "durationMins": 180,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/arts/history/2024_set1.pdf",
+      "fileSizeKb": 1750,
+      "isPremium": false
+    },
+    {
+      "id": 11421,
+      "subjectId": 42,
+      "subjectName": "Political Science",
+      "year": "2024",
+      "title": "Pol Science Annual 2024 Set 1",
+      "boardName": "NCERT / CBSE",
+      "setNumber": "Set 1",
+      "totalMarks": 80,
+      "durationMins": 180,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/arts/political_science/2024_set1.pdf",
+      "fileSizeKb": 1680,
+      "isPremium": false
+    },
+    {
+      "id": 11431,
+      "subjectId": 43,
+      "subjectName": "Geography",
+      "year": "2024",
+      "title": "Geography Annual 2024 Set 1",
+      "boardName": "NCERT / CBSE",
+      "setNumber": "Set 1",
+      "totalMarks": 70,
+      "durationMins": 180,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/arts/geography/2024_set1.pdf",
+      "fileSizeKb": 1820,
+      "isPremium": false
+    }
+  ]
+}
