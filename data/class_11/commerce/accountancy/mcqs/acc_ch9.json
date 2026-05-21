@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c9_q01",
+    "chapter_id": "c9",
+    "question": "The preparation of final accounts with adjustments is necessitated by which fundamental accounting basis?",
+    "options": [
+      "Cash basis of accounting",
+      "Accrual basis of accounting",
+      "Cost basis of accounting",
+      "Single entry bookkeeping system"
+    ],
+    "correct_index": 1,
+    "explanation": "The complexities of preparing final accounts arise because the process of determining income and financial position is based on the accrual basis of accounting, which requires matching revenues earned with expenses incurred for the period.",
+    "ncert_page": 318,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q02",
+    "chapter_id": "c9",
+    "question": "According to the accrual concept of accounting, the net profit or loss for an accounting year is based on which of the following?",
+    "options": [
+      "Revenues realized in cash and expenses paid in cash during that year",
+      "Revenues earned on an earned basis and expenses considered on an incurred basis, regardless of cash movement",
+      "The change in the current market replacement values of long-term assets",
+      "Strictly the total value of credit purchases made during the year"
+    ],
+    "correct_index": 1,
+    "explanation": "The accrual concept emphasizes that while ascertaining profitability, revenues are considered on an earned basis (not receipt basis) and expenses on an incurred basis (not paid basis).",
+    "ncert_page": 318,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q03",
+    "chapter_id": "c9",
+    "question": "If an item of expense or income relates to the next accounting year but is paid or received in the current year, how is it treated under adjustment rules?",
+    "options": [
+      "It is charged fully to the current year's Profit and Loss Account.",
+      "It must be separated, and the portion belonging to the next year must be adjusted out of the current year's statements.",
+      "It is deleted from the accounts entirely.",
+      "It is added directly to the owner's drawings line."
+    ],
+    "correct_index": 1,
+    "explanation": "To arrive at the true financial performance of a specific year, any portion of expenses or incomes paid or received in advance that belongs to subsequent years must be excluded from the current year's computations.",
+    "ncert_page": 318,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q04",
+    "chapter_id": "c9",
+    "question": "An amount of $1,200$ is paid on July 01, 2016 towards annual insurance premium. If the accounting year ends on March 31, 2017, what amount should be debited as an expense to the Profit and Loss account?",
+    "options": [
+      "$1,200$",
+      "$900$",
+      "$300$",
+      "$600$"
+    ],
+    "correct_index": 1,
+    "explanation": "The premium covers 12 months, so the monthly charge is $1,200 \\div 12 = 100$. From July 01, 2016 to March 31, 2017 is 9 months. Thus, the expense for the current year is $9 \\times 100 = 900$, and the remaining $300$ is prepaid.",
+    "ncert_page": 319,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q05",
+    "chapter_id": "c9",
+    "question": "Why does a text statement or data parameter appearing as a 'debit balance' inside a Trial Balance represent either an asset or an expense/loss?",
+    "options": [
+      "Due to money measurement formatting configurations",
+      "Because both assets and expenses are increased by debit entries under modern accounting rules",
+      "Because liabilities always carry a debit index value",
+      "To comply with cash basis daybook tracking metrics"
+    ],
+    "correct_index": 1,
+    "explanation": "As noted in Example 1, a standard review of a Trial Balance shows that debit balances naturally represent either assets or expenses/losses, while credit balances represent liabilities, capital, or revenues/gains.",
+    "ncert_page": 320,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q06",
+    "chapter_id": "c9",
+    "question": "If Closing Stock is given outside the Trial Balance as an 'Adjustment', where is it recorded in the final financial statements?",
+    "options": [
+      "Only on the credit side of the Trading Account",
+      "Only on the assets side of the Balance Sheet",
+      "On both the credit side of the Trading Account and the assets side of the Balance Sheet",
+      "Only on the debit side of the Profit and Loss Account"
+    ],
+    "correct_index": 2,
+    "explanation": "When closing stock appears as an adjustment outside the trial balance, its double-entry effect requires it to be credited to the Trading Account and listed under current assets in the Balance Sheet.",
+    "ncert_page": 320,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q07",
+    "chapter_id": "c9",
+    "question": "What is the standard adjusting journal entry recorded to bring closing stock into the books of accounts at the end of the period?",
+    "options": [
+      "Debit Trading A/c, Credit Closing Stock A/c",
+      "Debit Closing Stock A/c, Credit Trading A/c",
+      "Debit Profit and Loss A/c, Credit Closing Stock A/c",
+      "Debit Closing Stock A/c, Credit Purchases A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "The journal entry to record closing stock is: `Closing Stock A/c Dr. to Trading A/c`. This creates an asset balance and credits the trading statement.",
+    "ncert_page": 320,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q08",
+    "chapter_id": "c9",
+    "question": "If Closing Stock already appears inside the Trial Balance as a debit balance, what does this imply?",
+    "options": [
+      "An accounting error has occurred during casting.",
+      "The stock has already been adjusted against purchases, and it will be shown only in the Balance Sheet.",
+      "It must be debited to the Trading Account segment.",
+      "It represents a non-current long-term liability."
+    ],
+    "correct_index": 1,
+    "explanation": "If closing stock is inside the trial balance, it means it has already been adjusted through purchases (or cost of goods sold). Therefore, it does not go to the Trading Account and is reported solely on the assets side of the Balance Sheet.",
+    "ncert_page": 320,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q09",
+    "chapter_id": "c9",
+    "question": "What are expenses that have been incurred during the current accounting year but remain unpaid at the end of that year called?",
+    "options": [
+      "Prepaid Expenses",
+      "Outstanding Expenses",
+      "Deferred Expenditures",
+      "Accrued Liabilities"
+    ],
+    "correct_index": 1,
+    "explanation": "Outstanding expenses are those expenses that relate to the current accounting period but have not yet been paid in cash by the end of that period.",
+    "ncert_page": 322,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q10",
+    "chapter_id": "c9",
+    "question": "What is the correct adjusting journal entry to record an outstanding expense, such as unpaid employee wages?",
+    "options": [
+      "Debit Outstanding Wages A/c, Credit Wages A/c",
+      "Debit Wages A/c, Credit Outstanding Wages A/c",
+      "Debit Profit and Loss A/c, Credit Cash A/c",
+      "Debit Wages A/c, Credit Capital A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "To book an unpaid expense, the individual expense account is debited to increase its total, and a liability account (Outstanding Expense A/c) is credited: `Expense A/c Dr. to Outstanding Expense A/c`.",
+    "ncert_page": 322,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q11",
+    "chapter_id": "c9",
+    "question": "How is an Outstanding Expense account classified, and where does it appear in the Balance Sheet?",
+    "options": [
+      "As a Current Asset under debtors",
+      "As a Current Liability under current liabilities & provisions",
+      "As a deduction from the owner's Capital account",
+      "Under the non-current fixed block capital"
+    ],
+    "correct_index": 1,
+    "explanation": "An outstanding expense represents a short-term obligation to pay outsiders within a year, making it a current liability reported on the liabilities side of the Balance Sheet.",
+    "ncert_page": 322,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q12",
+    "chapter_id": "c9",
+    "question": "In the final final accounts layout, how is an outstanding expense item handled in the Profit and Loss or Trading Account?",
+    "options": [
+      "It is completely deducted from the respective expense.",
+      "It is added to the respective expense to reflect the true total expense incurred.",
+      "It is listed under operating revenues on the credit side.",
+      "It is ignored since no cash was physically spent."
+    ],
+    "correct_index": 1,
+    "explanation": "Under accrual rules, the unpaid portion is added to the paid amount of that expense head in the Trading or Profit and Loss account to show the complete cost incurred for that year.",
+    "ncert_page": 322,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q13",
+    "chapter_id": "c9",
+    "question": "Expenses that are paid in cash in the current accounting year but relate to the subsequent financial period are named what?",
+    "options": [
+      "Outstanding Expenses",
+      "Prepaid Expenses",
+      "Accrued Incomes",
+      "Incidental charges"
+    ],
+    "correct_index": 1,
+    "explanation": "Prepaid expenses (or unexpired expenses) are expenses paid in advance during the current period whose economic benefits belong to a future accounting period.",
+    "ncert_page": 323,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q14",
+    "chapter_id": "c9",
+    "question": "What is the appropriate adjusting journal entry to book a prepaid expense at the end of the year?",
+    "options": [
+      "Debit Respective Expense A/c, Credit Prepaid Expense A/c",
+      "Debit Prepaid Expense A/c, Credit Respective Expense A/c",
+      "Debit Profit and Loss A/c, Credit Prepaid Expense A/c",
+      "Debit Prepaid Expense A/c, Credit Cash A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "To reduce the current year's expense and create an advance asset, we debit the Prepaid Expense account and credit the individual expense account: `Prepaid Expense A/c Dr. to Expense A/c`.",
+    "ncert_page": 323,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q15",
+    "chapter_id": "c9",
+    "question": "Where is a Prepaid Expense item presented inside a standard Balance Sheet layout?",
+    "options": [
+      "Under Current Liabilities & Provisions",
+      "Under Current Assets",
+      "As a direct addition to the Capital account",
+      "Under non-current intangible blocks"
+    ],
+    "correct_index": 1,
+    "explanation": "A prepaid expense represents an economic resource whose utility carries forward to the next period, making it a current asset reported on the assets side of the Balance Sheet.",
+    "ncert_page": 323,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q16",
+    "chapter_id": "c9",
+    "question": "How is a prepaid expense item treated in the final Profit and Loss Account?",
+    "options": [
+      "It is added to the respective expense total.",
+      "It is deducted from the total paid amount of that expense head.",
+      "It is placed on the credit side as an operating income.",
+      "It is ignored until the next year begins."
+    ],
+    "correct_index": 1,
+    "explanation": "The advance portion is subtracted from the total paid amount of that expense in the Profit and Loss account, ensuring only the current period's cost is charged against revenue.",
+    "ncert_page": 323,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q17",
+    "chapter_id": "c9",
+    "question": "What is an income that has been earned during the current accounting year but has not been physically received in cash by period-end termed as?",
+    "options": [
+      "Unearned Income",
+      "Accrued Income",
+      "Prepaid Revenue",
+      "Incidental gain"
+    ],
+    "correct_index": 1,
+    "explanation": "Accrued income (or income earned but not received) is an item of revenue that belongs to the current accounting period but has not been collected in cash.",
+    "ncert_page": 325,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q18",
+    "chapter_id": "c9",
+    "question": "What adjusting entry is passed to incorporate an accrued income, such as accrued commission, into the accounts?",
+    "options": [
+      "Debit Respective Income A/c, Credit Accrued Income A/c",
+      "Debit Accrued Income A/c, Credit Respective Income A/c",
+      "Debit Cash A/c, Credit Accrued Income A/c",
+      "Debit Accrued Income A/c, Credit Suspense A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "To record accrued income, we debit the Accrued Income account (creating an asset) and credit the individual income head (increasing current revenue): `Accrued Income A/c Dr. to Income A/c`.",
+    "ncert_page": 325,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q19",
+    "chapter_id": "c9",
+    "question": "Where is an Accrued Income item reported on the face of a corporate Balance Sheet?",
+    "options": [
+      "Under Current Liabilities",
+      "Under Current Assets",
+      "Under Non-Current Long-term Liabilities",
+      "As a direct reduction from the Capital fund"
+    ],
+    "correct_index": 1,
+    "explanation": "Accrued income represents a right to receive money in the near future, which satisfies the definition of a current asset reported on the assets side of the Balance Sheet.",
+    "ncert_page": 325,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q20",
+    "chapter_id": "c9",
+    "question": "In the Income Statement, how is an accrued income item displayed in the Profit and Loss Account?",
+    "options": [
+      "It is subtracted from the respective income head on the credit side.",
+      "It is added to the respective income head on the credit side to reflect total revenue earned.",
+      "It is debited as an operational loss expense.",
+      "It is completely omitted until the cash arrives next year."
+    ],
+    "correct_index": 1,
+    "explanation": "To show the complete revenue earned during the year under accrual accounting, the accrued amount is added to the received amount of that income head on the credit side of the Profit and Loss Account.",
+    "ncert_page": 325,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q21",
+    "chapter_id": "c9",
+    "question": "What is income that is received in cash during the current accounting period but belongs fully or partially to a subsequent financial period called?",
+    "options": [
+      "Accrued Income",
+      "Income Received in Advance (or Unearned Income)",
+      "Operating revenue turnover",
+      "Capital premium receipt"
+    ],
+    "correct_index": 1,
+    "explanation": "Income received in advance refers to cash collected in the current year for which the performance of services or delivery of goods belongs to a future accounting period.",
+    "ncert_page": 327,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q22",
+    "chapter_id": "c9",
+    "question": "What adjusting journal entry is passed at year-end to record an item of unearned income received in advance?",
+    "options": [
+      "Debit Income Received in Advance A/c, Credit Respective Income A/c",
+      "Debit Respective Income A/c, Credit Income Received in Advance A/c",
+      "Debit Profit and Loss A/c, Credit Income Received in Advance A/c",
+      "Debit Cash A/c, Credit Income Received in Advance A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "To reduce current revenue and record a deferred liability, the individual income account is debited and the Income Received in Advance account is credited: `Income A/c Dr. to Income Received in Advance A/c`.",
+    "ncert_page": 327,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q23",
+    "chapter_id": "c9",
+    "question": "An item of income received in advance represents what type of balance, and where is it reported in the Balance Sheet?",
+    "options": [
+      "An asset balance reported under current assets",
+      "A liability balance reported under current liabilities",
+      "An equity addition added straight to capital",
+      "A long-term provision footnote item"
+    ],
+    "correct_index": 1,
+    "explanation": "Receiving cash before delivering a service creates an obligation or liability to perform the service in the future, making it a current liability reported on the liabilities side of the Balance Sheet.",
+    "ncert_page": 327,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q24",
+    "chapter_id": "c9",
+    "question": "How is an item of income received in advance adjusted within the Profit and Loss Account?",
+    "options": [
+      "It is added to the respective income head on the credit side.",
+      "It is subtracted from the respective income head on the credit side.",
+      "It is debited as a non-operating financial expense.",
+      "It is completely written off to zero instantly."
+    ],
+    "correct_index": 1,
+    "explanation": "The portion received in advance is subtracted from the total income received on the credit side of the Profit and Loss account, ensuring that only current-year earnings are recorded.",
+    "ncert_page": 327,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q25",
+    "chapter_id": "c9",
+    "question": "What is the correct annual adjusting journal entry to record depreciation on a fixed asset when no accumulated provision account is used?",
+    "options": [
+      "Debit Asset A/c, Credit Depreciation A/c",
+      "Debit Depreciation A/c, Credit Asset A/c",
+      "Debit Profit and Loss A/c, Credit Capital A/c",
+      "Debit Depreciation A/c, Credit Provision for Depreciation A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "The direct entry to book depreciation is: `Depreciation A/c Dr. to Asset A/c`. This increases the depreciation expense and lowers the book value of the fixed asset.",
+    "ncert_page": 328,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q26",
+    "chapter_id": "c9",
+    "question": "How are the two elements of the adjusting entry for depreciation represented in the final financial statements?",
+    "options": [
+      "Both elements are shown strictly inside the Balance Sheet columns.",
+      "Depreciation is debited to the Profit and Loss account, and the asset value is reduced by that amount on the assets side of the Balance Sheet.",
+      "Depreciation is credited to the Trading account, and listed as a liability.",
+      "They are handled exclusively within the opening entry lines."
+    ],
+    "correct_index": 1,
+    "explanation": "Depreciation is an operational expense debited to the Profit and Loss Account. Concurrently, it is deducted from the cost of the corresponding fixed asset on the assets side of the Balance Sheet.",
+    "ncert_page": 328,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q27",
+    "chapter_id": "c9",
+    "question": "What does the term 'Bad Debts' refer to in the context of accounting adjustments?",
+    "options": [
+      "The value of raw stock lost due to a fire accident",
+      "The amount that a business firm has not been able to realize from its debtors",
+      "The service charges deducted by a bank on current accounts",
+      "The value of trade discounts granted to a client"
+    ],
+    "correct_index": 1,
+    "explanation": "Bad debts refer to the unrecoverable or dead amounts that a business firm has failed to collect from credit customers (sundry debtors).",
+    "ncert_page": 329,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q28",
+    "chapter_id": "c9",
+    "question": "When bad debts occur as an adjustment outside the Trial Balance ('Further Bad Debts'), what is the correct adjusting journal entry?",
+    "options": [
+      "Debit Debtors A/c, Credit Bad Debts A/c",
+      "Debit Bad Debts A/c, Credit Debtors A/c",
+      "Debit Profit and Loss A/c, Credit Suspense A/c",
+      "Debit Bad Debts A/c, Credit Provision for Doubtful Debts A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "To write off unrecorded bad debts, the Bad Debts account is debited (increasing an expense/loss) and the Sundry Debtors account is credited (reducing the asset claim): `Bad Debts A/c Dr. to Sundry Debtors A/c`.",
+    "ncert_page": 329,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q29",
+    "chapter_id": "c9",
+    "question": "How are unrecorded further bad debts processed in the final financial statements?",
+    "options": [
+      "Added to debtors in the Balance Sheet, and credited to Profit & Loss",
+      "Debited to the Profit and Loss Account, and deducted from Sundry Debtors on the assets side of the Balance Sheet",
+      "Ignored since an old provision always covers them automatically",
+      "Moved straight into a capital reserve fund account"
+    ],
+    "correct_index": 1,
+    "explanation": "Further bad debts represent an additional loss that must be debited to the Profit and Loss account and subtracted from the Sundry Debtors balance under current assets in the Balance Sheet.",
+    "ncert_page": 329,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q30",
+    "chapter_id": "c9",
+    "question": "Why do business enterprises systematically create a 'Provision for Bad and Doubtful Debts' at the close of an accounting period?",
+    "options": [
+      "To accelerate ledger processing computation limits",
+      "To guard against potential future defaults by debtors in accordance with the principle of conservatism",
+      "To increase the reported value of current assets artificially",
+      "To comply with legal mandates regarding sales returns"
+    ],
+    "correct_index": 1,
+    "explanation": "In accordance with the principle of conservatism (prudence), a provision is created to ensure that possible future losses from doubtful collections are provided for in the current period.",
+    "ncert_page": 330,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q31",
+    "chapter_id": "c9",
+    "question": "What is the standard adjusting journal entry to record a fresh Provision for Doubtful Debts at the end of a financial year?",
+    "options": [
+      "Debit Provision for Doubtful Debts A/c, Credit Profit and Loss A/c",
+      "Debit Profit and Loss A/c, Credit Provision for Doubtful Debts A/c",
+      "Debit Sundry Debtors A/c, Credit Provision for Doubtful Debts A/c",
+      "Debit Provision for Doubtful Debts A/c, Credit Suspense A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "To create or increase a provision from earnings, the Profit and Loss Account is debited, and the Provision for Doubtful Debts account is credited: `Profit & Loss A/c Dr. to Provision for Doubtful Debts A/c`.",
+    "ncert_page": 330,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q32",
+    "chapter_id": "c9",
+    "question": "When calculating a new percentage Provision for Doubtful Debts based on an adjustment instruction, to what value should the percentage rate be applied?",
+    "options": [
+      "The gross Sundry Debtors balance given inside the Trial Balance directly",
+      "The net Sundry Debtors balance *after* subtracting any unrecorded further bad debts",
+      "The total credit sales revenue generated during the cycle",
+      "The value of closing inventory stock hand"
+    ],
+    "correct_index": 1,
+    "explanation": "If there are further bad debts outside the trial balance, they must be deducted from debtors first. The doubtful provision percentage rate is then applied to the remaining net debtors.",
+    "ncert_page": 330,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q33",
+    "chapter_id": "c9",
+    "question": "How is a fresh Provision for Doubtful Debts presented inside a standard Balance Sheet layout?",
+    "options": [
+      "As an addition to current liabilities under creditors",
+      "As a negative deduction from the Sundry Debtors balance on the assets side",
+      "As a direct addition to the owner's Capital account balance",
+      "Under the non-current fixed block capital assets"
+    ],
+    "correct_index": 1,
+    "explanation": "In the Balance Sheet, the newly created Provision for Doubtful Debts is shown as a deduction from Sundry Debtors on the assets side, presenting debtors at their estimated realizable value.",
+    "ncert_page": 330,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q34",
+    "chapter_id": "c9",
+    "question": "Given: Bad debts inside Trial Balance = $1,000$; Further bad debts outside = $500$; New Provision required = $1,600$; Old Provision inside Trial Balance = $2,000$. What net amount is debited or credited to the Profit and Loss Account?",
+    "options": [
+      "Debited with $3,100$",
+      "Debited with $1,100$",
+      "Credited with $900$",
+      "Debited with $1,500$"
+    ],
+    "correct_index": 1,
+    "explanation": "Total requirement = $\\text{Bad Debts (Internal)} + \\text{Further Bad Debts} + \\text{New Provision} = 1,000 + 500 + 1,600 = 3,100$. Subtract the existing Old Provision ($2,000$), leaving a net debit of $3,100 - 2,000 = 1,100$.",
+    "ncert_page": 330,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q35",
+    "chapter_id": "c9",
+    "question": "If the existing Old Provision for Doubtful Debts is larger than the total of actual bad debts and the required New Provision combined, how is the net difference reported?",
+    "options": [
+      "It is still debited as an operational expense.",
+      "It represents an excess provision and is credited to the Profit and Loss Account.",
+      "It is added directly to Sundry Debtors in the Balance Sheet.",
+      "It is transferred into a long-term capital reserve fund."
+    ],
+    "correct_index": 1,
+    "explanation": "When the old provision exceeds the total required losses and fresh provision, it means an excess provision exists from the past, which is credited to the Profit and Loss account.",
+    "ncert_page": 330,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q36",
+    "chapter_id": "c9",
+    "question": "Why does a business enterprise create a 'Provision for Discount on Debtors' at the close of a period?",
+    "options": [
+      "To record actual cash discounts already allowed during the year",
+      "To provide for expected discounts that will be allowed to debtors to encourage prompt payments in the next year",
+      "To penalize debtors who default on payments",
+      "To comply with banking current account overdraft mandates"
+    ],
+    "correct_index": 1,
+    "explanation": "A provision for discount on debtors is created to account for the expected cash discounts that will be allowed to current debtors when they pay their balances in the next financial year.",
+    "ncert_page": 333,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q37",
+    "chapter_id": "c9",
+    "question": "When calculating a percentage Provision for Discount on Debtors, on what specific value must the discount rate be computed?",
+    "options": [
+      "The gross Sundry Debtors balance given in the Trial Balance",
+      "The net debtors remaining *after* deducting further bad debts and the fresh provision for doubtful debts",
+      "The cumulative credit turnover value row",
+      "The total value of closing stock items"
+    ],
+    "correct_index": 1,
+    "explanation": "Discounts are only estimated for safe, non-defaulting debtors. Therefore, the discount percentage must be applied to net debtors after subtracting both further bad debts and the provision for doubtful debts.",
+    "ncert_page": 333,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q38",
+    "chapter_id": "c9",
+    "question": "What adjusting journal entry is recorded to create a fresh Provision for Discount on Debtors?",
+    "options": [
+      "Debit Provision for Discount on Debtors A/c, Credit Profit and Loss A/c",
+      "Debit Profit and Loss A/c, Credit Provision for Discount on Debtors A/c",
+      "Debit Sundry Debtors A/c, Credit Provision for Discount on Debtors A/c",
+      "Debit Provision for Discount on Debtors A/c, Credit Suspense A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "Like other fresh provisions, creating a provision for discount requires a debit to the Profit and Loss Account and a credit to the Provision for Discount on Debtors Account.",
+    "ncert_page": 333,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q39",
+    "chapter_id": "c9",
+    "question": "Where is the Provision for Discount on Debtors presented in the final Balance Sheet?",
+    "options": [
+      "Under Current Liabilities under creditors",
+      "As a deduction from Sundry Debtors on the assets side",
+      "Added to the Capital account balance",
+      "As a separate intangible asset line"
+    ],
+    "correct_index": 1,
+    "explanation": "In the Balance Sheet, the provision for discount on debtors is shown as a deduction from the Sundry Debtors balance under current assets.",
+    "ncert_page": 335,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q40",
+    "chapter_id": "c9",
+    "question": "If no specific clarifying information is given in an adjustment instruction, how is a manager's commission percentage assumed to be applied?",
+    "options": [
+      "On the net profit after charging such commission",
+      "On the net profit before charging such commission",
+      "On the gross profit computed in the trading account",
+      "On the total sales turnover receipts of the firm"
+    ],
+    "correct_index": 1,
+    "explanation": "As noted in section 9.11, in the absence of any specific info, it is always assumed that commission is allowed as a straight percentage of the net profit before charging such commission.",
+    "ncert_page": 335,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q41",
+    "chapter_id": "c9",
+    "question": "If a manager is entitled to a $10\\%$ commission on net profit *after* charging such commission, and the profit before commission is $11,000$, what is the commission amount?",
+    "options": [
+      "$1,100$",
+      "$1,000$",
+      "$1,210$",
+      "$900$"
+    ],
+    "correct_index": 1,
+    "explanation": "The formula for commission 'after charging' is: $\\text{Profit before commission} \\times \\frac{\\text{Rate}}{100 + \\text{Rate}} = 11,000 \\times \\frac{10}{110} = 1,000$.",
+    "ncert_page": 336,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q42",
+    "chapter_id": "c9",
+    "question": "What is the appropriate adjusting journal entry to record a manager's commission that remains outstanding at the end of the year?",
+    "options": [
+      "Debit Manager’s Commission A/c, Credit Profit and Loss A/c",
+      "Debit Profit and Loss A/c, Credit Outstanding Manager’s Commission A/c",
+      "Debit Cash A/c, Credit Manager’s Commission A/c",
+      "Debit Outstanding Manager’s Commission A/c, Credit Capital A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "The commission is an expense charged against the year's earnings (debit Profit and Loss A/c) and creates a short-term liability (credit Outstanding Manager’s Commission A/c).",
+    "ncert_page": 336,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q43",
+    "chapter_id": "c9",
+    "question": "Where does the Outstanding Manager's Commission account appear in the final Balance Sheet layout?",
+    "options": [
+      "Under Current Assets",
+      "Under Current Liabilities & Provisions",
+      "As a direct reduction from the owner's Capital account",
+      "Under non-current intangible fixed assets"
+    ],
+    "correct_index": 1,
+    "explanation": "Since the outstanding manager's commission is an unpaid short-term obligation, it is reported under current liabilities on the liabilities side of the Balance Sheet.",
+    "ncert_page": 335,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q44",
+    "chapter_id": "c9",
+    "question": "Why does a proprietor sometimes opt to allow 'Interest on Capital' within their business accounting records?",
+    "options": [
+      "To avoid paying local commercial bank transaction fees",
+      "To find out the true profit made by the business after providing a return for the capital deployed",
+      "To increase the firm's physical cash balances directly",
+      "To automatically lower the valuation of fixed machinery assets"
+    ],
+    "correct_index": 1,
+    "explanation": "Interest on capital is provided so that the proprietor can evaluate the business's actual profitability after accounting for the opportunity cost of the capital invested.",
+    "ncert_page": 338,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q45",
+    "chapter_id": "c9",
+    "question": "What is the standard adjusting journal entry to record interest on capital allowed to the proprietor?",
+    "options": [
+      "Debit Capital A/c, Credit Interest on Capital A/c",
+      "Debit Interest on Capital A/c, Credit Capital A/c",
+      "Debit Profit and Loss A/c, Credit Cash A/c",
+      "Debit Interest on Capital A/c, Credit Drawings A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "Allowing interest on capital is an expense to the business entity (debit Interest on Capital A/c) and increases the amount owed back to the owner (credit Capital A/c).",
+    "ncert_page": 338,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q46",
+    "chapter_id": "c9",
+    "question": "How are the two legs of the adjustment for Interest on Capital presented across the final statements?",
+    "options": [
+      "Both legs are recorded strictly within the Trading account rows.",
+      "Debited to the Profit and Loss Account, and added to the Capital account on the liabilities side of the Balance Sheet",
+      "Credited to the Profit and Loss Account, and listed as a Current Asset",
+      "Handled exclusively as a reduction from drawings"
+    ],
+    "correct_index": 1,
+    "explanation": "Interest on capital is an expense debited to the Profit and Loss account. In the Balance Sheet, it is added to the Capital account balance because it increases the owner's financial stake.",
+    "ncert_page": 338,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q47",
+    "chapter_id": "c9",
+    "question": "If a business firm charges interest on personal cash withdrawals made by the owner, what is this called, and how is it recorded?",
+    "options": [
+      "Interest on Capital; debited to Profit and Loss",
+      "Interest on Drawings; credited to the Profit and Loss Account and deducted from Capital",
+      "Operating revenue turnover; credited to the Trading account",
+      "Deferred non-cash receipt; listed as an asset"
+    ],
+    "correct_index": 1,
+    "explanation": "Interest on drawings is an income for the business entity (credited to the Profit and Loss Account) and reduces the owner's capital balance (deducted from Capital in the Balance Sheet).",
+    "ncert_page": 357,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q48",
+    "chapter_id": "c9",
+    "question": "What is the correct journal entry to close out the Interest on Drawings account at the end of the year?",
+    "options": [
+      "Debit Profit and Loss A/c, Credit Interest on Drawings A/c",
+      "Debit Interest on Drawings A/c, Credit Profit and Loss A/c",
+      "Debit Capital A/c, Credit Interest on Drawings A/c",
+      "Debit Interest on Drawings A/c, Credit Drawings A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "To transfer the interest on drawings revenue to the income statement, the Interest on Drawings account is debited and the Profit and Loss Account is credited.",
+    "ncert_page": 357,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q49",
+    "chapter_id": "c9",
+    "question": "If an item of adjustment like 'Depreciation' appears *inside* the Trial Balance rather than as additional information outside, how is it posted?",
+    "options": [
+      "It must be recorded in both the Profit & Loss A/c and the Balance Sheet.",
+      "It is posted only to the debit side of the Profit and Loss Account, and the asset inside the Trial Balance is already at its reduced value.",
+      "It is credited to the Trading Account segment.",
+      "It requires a direct entry into the opening journal proper."
+    ],
+    "correct_index": 1,
+    "explanation": "Items inside the trial balance have already completed their double-entry routing. If depreciation is inside the trial balance, it is treated simply as an expense in the Profit & Loss account, and the asset requires no further deduction.",
+    "ncert_page": 320,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c9_q50",
+    "chapter_id": "c9",
+    "question": "What primary objective is achieved by systematically incorporating adjustments into final financial reports?",
+    "options": [
+      "Bypassing the double-entry bookkeeping requirements fully",
+      "Ensuring financial statements present a true and fair view of periodic profitability and net financial position",
+      "Eliminating the need to record credit transactions row parameters",
+      "Replacing individual principal ledger accounts with subsidiary daybooks"
+    ],
+    "correct_index": 1,
+    "explanation": "Incorporating adjustments ensures that all revenues earned and expenses incurred during the year are fully matched, allowing the financial statements to present a true and fair view of performance and position.",
+    "ncert_page": 320,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  }
+]

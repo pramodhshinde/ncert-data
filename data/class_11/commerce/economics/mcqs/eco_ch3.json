@@ -1,0 +1,592 @@
+[
+  {
+    "mcq_id": "eco_od_q01",
+    "chapter_id": "c3",
+    "question": "What is the primary purpose of classifying raw data in statistics?",
+    "options": [
+      "To increase the volume of data",
+      "To bring order and make data suitable for further analysis",
+      "To hide sensitive information",
+      "To replace the original values"
+    ],
+    "correct_index": 1,
+    "explanation": "The purpose of classifying raw data is to bring order in them so that they can be subjected to further statistical analysis easily.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q02",
+    "chapter_id": "c3",
+    "question": "Data in its original form, as collected by the investigator, is known as:",
+    "options": ["Processed Data", "Raw Data", "Classified Data", "Summary Data"],
+    "correct_index": 1,
+    "explanation": "Unclassified data, also known as raw data, is highly disorganised and often too large to handle.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q03",
+    "chapter_id": "c3",
+    "question": "When data is classified on the basis of attributes like gender, literacy, or religion, it is called:",
+    "options": ["Chronological Classification", "Spatial Classification", "Qualitative Classification", "Quantitative Classification"],
+    "correct_index": 2,
+    "explanation": "Classification according to attributes such as nationality, literacy, or religion is called Qualitative Classification.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q04",
+    "chapter_id": "c3",
+    "question": "What type of classification groups data according to time (years, months, or weeks)?",
+    "options": ["Spatial", "Chronological", "Numerical", "Qualitative"],
+    "correct_index": 1,
+    "explanation": "In chronological classification, data are grouped according to time, such as years, months, or weeks.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q05",
+    "chapter_id": "c3",
+    "question": "Classification based on geographical location is known as:",
+    "options": ["Temporal Classification", "Spatial Classification", "Numerical Classification", "Categorical Classification"],
+    "correct_index": 1,
+    "explanation": "In spatial classification, the data are classified according to geographical locations or areas.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q06",
+    "chapter_id": "c3",
+    "question": "When data is classified according to numerical characteristics like height, weight, or income, it is called:",
+    "options": ["Chronological", "Spatial", "Quantitative", "Qualitative"],
+    "correct_index": 2,
+    "explanation": "Quantitative classification is based on characteristics that can be measured, such as height, weight, income, or marks.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q07",
+    "chapter_id": "c3",
+    "question": "A characteristic that can be expressed numerically and varies across individuals is called a/an:",
+    "options": ["Attribute", "Variable", "Class", "Frequency"],
+    "correct_index": 1,
+    "explanation": "A variable refers to a characteristic or a phenomenon which is capable of being measured and changes its value over time.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q08",
+    "chapter_id": "c3",
+    "question": "Which of the following is an example of a 'Discrete Variable'?",
+    "options": ["Height", "Weight", "Number of family members", "Temperature"],
+    "correct_index": 2,
+    "explanation": "Discrete variables can take only certain values; its value changes only by finite 'jumps' (e.g., 1, 2, 3 members).",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q09",
+    "chapter_id": "c3",
+    "question": "A 'Continuous Variable' is one that can take:",
+    "options": ["Only whole numbers", "Any value within a specific range (including fractions)", "Only qualitative values", "No values at all"],
+    "correct_index": 1,
+    "explanation": "A continuous variable can take any numerical value (integral or fractional) within a certain range.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q10",
+    "chapter_id": "c3",
+    "question": "What is a 'Frequency Distribution'?",
+    "options": [
+      "The total sum of all data points",
+      "A table showing how many times different values or classes occur in a dataset",
+      "A list of names in alphabetical order",
+      "A graphical map of a region"
+    ],
+    "correct_index": 1,
+    "explanation": "A frequency distribution is a comprehensive way to classify raw data of a quantitative variable.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q11",
+    "chapter_id": "c3",
+    "question": "The lower and upper values that define a class are called:",
+    "options": ["Class Width", "Class Frequency", "Class Limits", "Class Marks"],
+    "correct_index": 2,
+    "explanation": "Each class in a frequency distribution table is bounded by Class Limits.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q12",
+    "chapter_id": "c3",
+    "question": "In the class 10-20, '20' is the:",
+    "options": ["Lower Class Limit", "Upper Class Limit", "Class Mark", "Mid-value"],
+    "correct_index": 1,
+    "explanation": "The larger value is the upper class limit (l2), and the smaller value is the lower class limit (l1).",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q13",
+    "chapter_id": "c3",
+    "question": "The difference between the upper class limit and the lower class limit is the:",
+    "options": ["Class Interval (Magnitude)", "Class Mark", "Class Ratio", "Class Total"],
+    "correct_index": 0,
+    "explanation": "Class interval or class width is the difference between the upper class limit and the lower class limit.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q14",
+    "chapter_id": "c3",
+    "question": "The central value or the middle of a class is known as the:",
+    "options": ["Class Boundary", "Class Mark (Mid-value)", "Class Limit", "Class Magnitude"],
+    "correct_index": 1,
+    "explanation": "The mid-value or class mark is the value halfway between the lower and upper limits.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q15",
+    "chapter_id": "c3",
+    "question": "Which method of classification includes the upper limit of a class in the next class interval?",
+    "options": ["Inclusive Method", "Exclusive Method", "Open-end Method", "Discrete Method"],
+    "correct_index": 1,
+    "explanation": "In the exclusive method, an observation equal to the upper class limit is excluded from the current class and placed in the next.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q16",
+    "chapter_id": "c3",
+    "question": "The method of classification where the upper limit of a class is included within the same class is called the:",
+    "options": ["Exclusive Method", "Inclusive Method", "Continuous Method", "Spatial Method"],
+    "correct_index": 1,
+    "explanation": "In the inclusive method, the upper class limit is included in the class.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q17",
+    "chapter_id": "c3",
+    "question": "What is 'Loss of Information' in classified data?",
+    "options": [
+      "When the investigator forgets to write the data",
+      "When individual values are replaced by the class mark in frequency distributions",
+      "When the data is stolen",
+      "When the computer crashes"
+    ],
+    "correct_index": 1,
+    "explanation": "Classification summarises the raw data but at the cost of losing the exact values of individual observations.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q18",
+    "chapter_id": "c3",
+    "question": "A frequency distribution where the first class has no lower limit or the last class has no upper limit is called:",
+    "options": ["Inclusive distribution", "Exclusive distribution", "Open-end distribution", "Unequal distribution"],
+    "correct_index": 2,
+    "explanation": "An open-end distribution is one in which the lower limit of the first class or the upper limit of the last class is not specified.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q19",
+    "chapter_id": "c3",
+    "question": "The frequency distribution of a single variable is called:",
+    "options": ["Univariate Distribution", "Bivariate Distribution", "Multivariate Distribution", "Tally Distribution"],
+    "correct_index": 0,
+    "explanation": "The frequency distribution of a single variable is called a univariate distribution.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q20",
+    "chapter_id": "c3",
+    "question": "A 'Bivariate Frequency Distribution' shows the frequency distribution of:",
+    "options": ["One variable", "Two variables simultaneously", "Three variables", "Qualitative data only"],
+    "correct_index": 1,
+    "explanation": "A bivariate frequency distribution is the frequency distribution of two variables.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q21",
+    "chapter_id": "c3",
+    "question": "Sturgis' Rule is often used to determine the ________.",
+    "options": ["Total sum of data", "Number of classes (n)", "Class Mark", "Mode of data"],
+    "correct_index": 1,
+    "explanation": "The text mentions that usually the number of classes should be between 5 and 15, and rules like Sturgis' Rule can be used to decide this.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q22",
+    "chapter_id": "c3",
+    "question": "Which mark is used to count the occurrences of values while preparing a frequency distribution?",
+    "options": ["Check mark", "Cross mark", "Tally mark", "Star mark"],
+    "correct_index": 2,
+    "explanation": "A tally mark is used to keep track of the frequency of observations in each class.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q23",
+    "chapter_id": "c3",
+    "question": "In tally marking, every ________ count is represented by a diagonal line crossing the previous four marks.",
+    "options": ["Third", "Fourth", "Fifth", "Tenth"],
+    "correct_index": 2,
+    "explanation": "The fifth tally mark is represented by a diagonal line crossing the first four tally marks.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q24",
+    "chapter_id": "c3",
+    "question": "A 'Frequency Array' is usually prepared for which type of variable?",
+    "options": ["Continuous", "Discrete", "Qualitative", "Geographical"],
+    "correct_index": 1,
+    "explanation": "For a discrete variable, a classification of its raw data is known as a Frequency Array.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q25",
+    "chapter_id": "c3",
+    "question": "Class magnitude is represented by which formula?",
+    "options": ["l2 + l1", "l2 - l1", "(l2+l1)/2", "l1 / l2"],
+    "correct_index": 1,
+    "explanation": "The class interval or class magnitude (i) is l2 – l1.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q26",
+    "chapter_id": "c3",
+    "question": "The range of a variable is the difference between:",
+    "options": ["Lower limits of first and last class", "Maximum and minimum values of the variable", "Frequencies of first and last class", "Mean and Median"],
+    "correct_index": 1,
+    "explanation": "The range is the difference between the largest and smallest values in the data.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q27",
+    "chapter_id": "c3",
+    "question": "If the mid-values are 5, 15, 25, 35, the class interval is:",
+    "options": ["5", "10", "15", "20"],
+    "correct_index": 1,
+    "explanation": "The difference between consecutive mid-values indicates the class interval (15-5=10).",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q28",
+    "chapter_id": "c3",
+    "question": "In the inclusive method, to make class intervals continuous, we subtract ________ from the lower limit and add it to the upper limit.",
+    "options": ["1", "0.5", "0.1", "Range"],
+    "correct_index": 1,
+    "explanation": "Adjustment involves adding/subtracting half of the gap (usually 0.5) to make classes continuous.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q29",
+    "chapter_id": "c3",
+    "question": "Which type of classification uses a 'Tally Mark' system to organize raw data?",
+    "options": ["Chronological", "Frequency Distribution", "Attribute classification", "Spatial"],
+    "correct_index": 1,
+    "explanation": "Preparing a frequency distribution involves assigning tally marks to observations.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q30",
+    "chapter_id": "c3",
+    "question": "The sum of all frequencies in a frequency distribution table must be equal to:",
+    "options": ["Total number of classes", "Total number of observations (N)", "The class mark", "The range"],
+    "correct_index": 1,
+    "explanation": "The total frequency must equal the total number of items in the raw data.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q31",
+    "chapter_id": "c3",
+    "question": "According to the text, 'Data classification' is like ________.",
+    "options": [
+      "Creating new numbers",
+      "Grouping junk in a junk dealer's shop",
+      "Deleting disorganised facts",
+      "Writing a history book"
+    ],
+    "correct_index": 1,
+    "explanation": "The introduction uses the example of a kabadiwallah grouping newspapers and bottles to explain classification.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q32",
+    "chapter_id": "c3",
+    "question": "Attributes like 'Honesty' or 'Beauty' are handled in:",
+    "options": ["Quantitative Classification", "Qualitative Classification", "Numerical Classification", "Temporal Classification"],
+    "correct_index": 1,
+    "explanation": "Qualitative classification handles data that cannot be measured numerically but only in terms of attributes.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q33",
+    "chapter_id": "c3",
+    "question": "Classification based on the variable 'Production of wheat over 10 years' is:",
+    "options": ["Spatial", "Temporal/Chronological", "Qualitative", "Open-end"],
+    "correct_index": 1,
+    "explanation": "Since the data is categorized over time, it is chronological.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q34",
+    "chapter_id": "c3",
+    "question": "Class limits in an 'exclusive' frequency distribution are ________.",
+    "options": ["Non-continuous", "Continuous", "Fixed at 10", "Only whole numbers"],
+    "correct_index": 1,
+    "explanation": "Exclusive method produces continuous classes (e.g., 0-10, 10-20).",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q35",
+    "chapter_id": "c3",
+    "question": "In the inclusive method class 10-19, the lower limit is 10 and upper limit is 19. If an observation is 19, where is it placed?",
+    "options": [
+      "In class 10-19",
+      "In class 20-29",
+      "It is excluded",
+      "In both classes"
+    ],
+    "correct_index": 0,
+    "explanation": "In the inclusive method, the upper class limit (19) is included in the same class.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q36",
+    "chapter_id": "c3",
+    "question": "Mid-point is calculated as:",
+    "options": ["(l1 - l2) / 2", "(l1 + l2) / 2", "l2 - l1", "l1 * l2"],
+    "correct_index": 1,
+    "explanation": "Mid-value = (Upper Class Limit + Lower Class Limit) / 2.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q37",
+    "chapter_id": "c3",
+    "question": "Which of these variables is typically 'Continuous'?",
+    "options": ["Number of children", "Number of cars", "Weight of students", "Pages in a book"],
+    "correct_index": 2,
+    "explanation": "Weight can take any fractional value, making it continuous.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q38",
+    "chapter_id": "c3",
+    "question": "Classification should be done in a way that classes are ________.",
+    "options": ["Overlapping", "Mutually exclusive and exhaustive", "Variable in width only", "All the same frequency"],
+    "correct_index": 1,
+    "explanation": "An item should belong to only one class and every item must be included.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q39",
+    "chapter_id": "c3",
+    "question": "The number of observations in a particular class is called its:",
+    "options": ["Class mark", "Class width", "Class frequency", "Class limit"],
+    "correct_index": 2,
+    "explanation": "Frequency refers to the number of times an observation occurs or the number of items in a class.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q40",
+    "chapter_id": "c3",
+    "question": "Raw data is also called ________ data.",
+    "options": ["Organised", "Disorganised/Unclassified", "Numerical", "Bi-variable"],
+    "correct_index": 1,
+    "explanation": "Unclassified data is called raw data.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q41",
+    "chapter_id": "c3",
+    "question": "In a Bivariate Frequency Distribution, frequencies are shown in a ________.",
+    "options": ["Single row", "Table (Two-way table)", "Single column", "Circle"],
+    "correct_index": 1,
+    "explanation": "Bivariate distributions are represented in a two-way table.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q42",
+    "chapter_id": "c3",
+    "question": "A discrete variable changes in ________.",
+    "options": ["Smooth curves", "Finite jumps", "Infinite decimals", "Qualitative steps"],
+    "correct_index": 1,
+    "explanation": "Discrete variables jump from one value to another without intermediate values.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q43",
+    "chapter_id": "c3",
+    "question": "Why are unequal class intervals sometimes used?",
+    "options": [
+      "To make the math harder",
+      "When data is concentrated in some parts of the range and sparse in others",
+      "Because tally marks don't work",
+      "To save paper"
+    ],
+    "correct_index": 1,
+    "explanation": "Unequal intervals are used when observations are not evenly distributed over the range.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q44",
+    "chapter_id": "c3",
+    "question": "The process of condensing data into a few classes is called ________.",
+    "options": ["Expansion", "Summarisation", "Encryption", "Manipulation"],
+    "correct_index": 1,
+    "explanation": "Classification involves summarising disorganised raw data into classes.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q45",
+    "chapter_id": "c3",
+    "question": "In the exclusive method, the upper limit of one class is ________ as the lower limit of the next.",
+    "options": ["Greater", "Smaller", "Same", "Twice"],
+    "correct_index": 2,
+    "explanation": "Upper limit of one class becomes the lower limit of the next (e.g. 10-20, 20-30).",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q46",
+    "chapter_id": "c3",
+    "question": "Tally marks are converted into ________ to finish the frequency distribution.",
+    "options": ["Percentages", "Numerical frequencies", "Class marks", "Alphabetical codes"],
+    "correct_index": 1,
+    "explanation": "After marking all data, tallies are counted to give the numerical frequency.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q47",
+    "chapter_id": "c3",
+    "question": "Which of these is NOT a criterion for a good classification?",
+    "options": [
+      "Classes should be exhaustive",
+      "Classes should be non-overlapping",
+      "Class width must always be exactly 10",
+      "Objective must be clear"
+    ],
+    "correct_index": 2,
+    "explanation": "While 10 is a common width, there is no hard rule; it depends on the range and number of classes.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q48",
+    "chapter_id": "c3",
+    "question": "A univariate frequency distribution is also known as a ________ distribution.",
+    "options": ["Simple", "One-way", "Compound", "Spatial"],
+    "correct_index": 1,
+    "explanation": "It classifies data according to one variable only.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q49",
+    "chapter_id": "c3",
+    "question": "Is classified data always better than raw data?",
+    "options": [
+      "No, raw data is more detailed",
+      "Yes, for analysis and comparison",
+      "Only if it is qualitative",
+      "Only if it has unequal intervals"
+    ],
+    "correct_index": 1,
+    "explanation": "Classified data is better because it is organised, though it loses some individual detail.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_od_q50",
+    "chapter_id": "c3",
+    "question": "The number of tally marks in a group 'IIII/' is equal to:",
+    "options": ["4", "5", "6", "10"],
+    "correct_index": 1,
+    "explanation": "Four vertical lines and one diagonal line represents a frequency of 5.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Economics"
+  }
+]

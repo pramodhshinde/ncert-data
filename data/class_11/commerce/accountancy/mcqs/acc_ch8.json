@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c8_q01",
+    "chapter_id": "c8",
+    "question": "Which of the following sequential stages represents the immediate next activity in financial accounting after the preparation of a Trial Balance?",
+    "options": [
+      "Journalising transactions",
+      "Ledger posting",
+      "Preparation of Financial Statements",
+      "Source document identification"
+    ],
+    "correct_index": 2,
+    "explanation": "Financial accounting is a well-defined sequential activity that begins with the Journal, moves to the Ledger, compiles a Trial Balance, and culminates in the preparation of Financial Statements.",
+    "ncert_page": 277,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q02",
+    "chapter_id": "c8",
+    "question": "Which accounting user group explicitly requires a firm's financial statements to judge its performance, profitability, and general creditworthiness before extending a loan or credit line?",
+    "options": [
+      "Internal factory supervisors",
+      "Suppliers and Lenders",
+      "Product development engineers",
+      "Human resource coordinators"
+    ],
+    "correct_index": 1,
+    "explanation": "Suppliers of credit and lenders (such as a banker) are external users who are intensely interested in the performance, profitability, and liquidity position of an enterprise before providing funds.",
+    "ncert_page": 278,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q03",
+    "chapter_id": "c8",
+    "question": "Which internal group requires highly specific accounting summaries to plan, organize, and evaluate the ongoing operational efficiency of a corporate firm?",
+    "options": [
+      "External tax auditors",
+      "Social responsibility clubs",
+      "Management",
+      "Potential stock investors"
+    ],
+    "correct_index": 2,
+    "explanation": "Management requires precise information from financial statements to plan, organize, and coordinate business operations efficiently and make sound decisions.",
+    "ncert_page": 278,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q04",
+    "chapter_id": "c8",
+    "question": "Whenever a payment or an incurrence of an outlay is made for a purpose other than settling an existing liability, what is it officially termed?",
+    "options": [
+      "Revenue receipt",
+      "Expenditure",
+      "Capital injection",
+      "Drawings entry"
+    ],
+    "correct_index": 1,
+    "explanation": "As defined in section 8.2.1, whenever a payment and/or incurrence of an outlay are made for a purpose other than the settlement of an existing liability, it is called an expenditure.",
+    "ncert_page": 279,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q05",
+    "chapter_id": "c8",
+    "question": "An expenditure whose economic utility and benefit is completely exhausted within the span of a single current accounting period is classified as a what?",
+    "options": [
+      "Capital Expenditure",
+      "Revenue Expenditure",
+      "Deferred Asset outlay",
+      "Non-Current Expenditure"
+    ],
+    "correct_index": 1,
+    "explanation": "An expenditure whose benefit is fully consumed within one accounting year is a revenue expenditure, which is transferred directly to the trading and profit and loss account.",
+    "ncert_page": 280,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q06",
+    "chapter_id": "c8",
+    "question": "An expenditure that increases the long-term earning capacity of a business enterprise and yields economic benefits across multiple accounting periods is known as a what?",
+    "options": [
+      "Revenue Expenditure",
+      "Capital Expenditure",
+      "Current Liability",
+      "Operating expense"
+    ],
+    "correct_index": 1,
+    "explanation": "Capital expenditure increases the long-term earning capacity of a business and benefits more than one accounting year, such as outlays to acquire fixed assets or make extensions to them.",
+    "ncert_page": 280,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q07",
+    "chapter_id": "c8",
+    "question": "Paying cash to acquire brand new office furniture that will be used productively inside a firm for several successive years is an explicit example of which item?",
+    "options": [
+      "Revenue Expenditure",
+      "Capital Expenditure",
+      "Revenue Receipt",
+      "Deferred Liability"
+    ],
+    "correct_index": 1,
+    "explanation": "Acquiring furniture for business use is a capital expenditure because it creates a fixed asset that will provide benefits across many subsequent accounting years.",
+    "ncert_page": 280,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q08",
+    "chapter_id": "c8",
+    "question": "In normal bookkeeping usage, how is a heavy, exceptional advertisement expenditure that is expected to benefit a firm's sales trajectory over three to five years classified?",
+    "options": [
+      "Pure Capital Expenditure",
+      "Deferred Revenue Expenditure",
+      "Current Revenue Receipt",
+      "Intangible Fixed Capital"
+    ],
+    "correct_index": 1,
+    "explanation": "Heavy advertising expenditure is an operational revenue item by nature, but because its benefits span multiple years, it is classified as a deferred revenue expenditure.",
+    "ncert_page": 280,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q09",
+    "chapter_id": "c8",
+    "question": "If an inbound business receipt implies a long-term obligation to return the money or results from the sale of a fixed asset, it is classified as a what?",
+    "options": [
+      "Revenue receipt",
+      "Capital receipt",
+      "Deferred expenditure",
+      "Operating revenue"
+    ],
+    "correct_index": 1,
+    "explanation": "Section 8.2.2 establishes that if receipts imply an obligation to return the money (such as a bank loan) or represent the liquidation sale of a fixed asset, they are capital receipts.",
+    "ncert_page": 281,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q10",
+    "chapter_id": "c8",
+    "question": "Receipts that do not incur any future obligation to return the money and arise from day-to-day core business transactions are officially termed what?",
+    "options": [
+      "Capital receipts",
+      "Revenue receipts",
+      "Non-operating expenditures",
+      "Owner's equity additions"
+    ],
+    "correct_index": 1,
+    "explanation": "If a receipt does not incur a future obligation to return money and is not in the form of a sale of a fixed asset, it is a revenue receipt, such as regular sales turnover.",
+    "ncert_page": 281,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q11",
+    "chapter_id": "c8",
+    "question": "Additional capital brought in by the owner (equity) or a long-term loan raised from a commercial bank are examples of which accounting field?",
+    "options": [
+      "Revenue Receipts",
+      "Capital Receipts",
+      "Revenue Expenditures",
+      "Operating Incomes"
+    ],
+    "correct_index": 1,
+    "explanation": "Both additional capital and bank loans lead to financial obligations—the first to the owner and the second to outsiders—making them capital receipts.",
+    "ncert_page": 281,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q12",
+    "chapter_id": "c8",
+    "question": "Gross inflows of cash derived from regular merchandise sales made to clients and interest earned on fixed investments are classified as what?",
+    "options": [
+      "Capital Receipts",
+      "Revenue Receipts",
+      "Capital Expenditures",
+      "Deferred Liabilities"
+    ],
+    "correct_index": 1,
+    "explanation": "Sales turnover and interest received on investments are recurring results of standard business operations and do not create repayment obligations, placing them under revenue receipts.",
+    "ncert_page": 281,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q13",
+    "chapter_id": "c8",
+    "question": "What is the primary structural consequence if an item of revenue nature is wrongly classified and recorded as a capital item?",
+    "options": [
+      "The trial balance will fail to tally arithmetically.",
+      "The ascertainment of periodic net profit or loss will be incorrect.",
+      "The cash book column will show a temporary bank overdraft.",
+      "The historical cost of all fixed assets will drop to zero."
+    ],
+    "correct_index": 1,
+    "explanation": "As stated in section 8.2.3, if any item is wrongly classified (revenue treated as capital or vice versa), the matching costs are skewed, and the ascertainment of profit or loss will be incorrect.",
+    "ncert_page": 281,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q14",
+    "chapter_id": "c8",
+    "question": "Which financial statement is designed specifically to summarize revenues and costs to present a true and fair view of a firm's financial performance?",
+    "options": [
+      "Balance Sheet",
+      "Trading and Profit and Loss Account",
+      "Trial balance statement",
+      "Source voucher sheet"
+    ],
+    "correct_index": 1,
+    "explanation": "The Trading and Profit and Loss Account, also known as the Income Statement, displays the financial performance in the form of gross and net profits earned or losses sustained.",
+    "ncert_page": 282,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q15",
+    "chapter_id": "c8",
+    "question": "Which core financial statement is prepared to show a true and fair view of the financial position of a business enterprise at a given specific date?",
+    "options": [
+      "Income statement",
+      "Balance Sheet",
+      "Manufacturing journal proper",
+      "Cash book ledger"
+    ],
+    "correct_index": 1,
+    "explanation": "The Balance Sheet is a statement prepared to depict the true and fair financial position of a business by listing its assets, liabilities, and capital on a specific date.",
+    "ncert_page": 282,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q16",
+    "chapter_id": "c8",
+    "question": "While the income statement reflects financial performance, the Balance Sheet presents the financial position using which core components?",
+    "options": [
+      "Revenues, expenses, and cash discounts",
+      "Assets, liabilities, and capital",
+      "Opening stock, net purchases, and direct costs",
+      "Operating profits, EBIT, and tax rates"
+    ],
+    "correct_index": 1,
+    "explanation": "The Income statement details operational performance, while the Balance Sheet structures financial position in the form of assets, liabilities, and owner's capital equity.",
+    "ncert_page": 282,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q17",
+    "chapter_id": "c8",
+    "question": "What items form the primary structural input basis from which an accountant compiles the final financial statements?",
+    "options": [
+      "Raw source memos and cash checks stubs strictly",
+      "Trial Balance and additional information (adjustments)",
+      "Bank clearing statements logs rows",
+      "The preceding year's opening vouchers entries"
+    ],
+    "correct_index": 1,
+    "explanation": "Financial statements (the Income statement and Balance Sheet) are compiled at the end of an interval on the basis of the finalized Trial Balance along with required additional information.",
+    "ncert_page": 282,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q18",
+    "chapter_id": "c8",
+    "question": "What is the primary operational objective of preparing the first segment of the income statement, known as the Trading Account?",
+    "options": [
+      "To calculate the total non-operating financial expenses",
+      "To determine the gross profit or gross loss arising from core trading activities",
+      "To marshall assets in the strict order of liquidity",
+      "To audit the opening balances entries brought forward"
+    ],
+    "correct_index": 1,
+    "explanation": "The Trading Account is prepared to isolate the gross result of regular buying and selling activities before factoring in indirect administrative or financial overheads.",
+    "ncert_page": 283,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q19",
+    "chapter_id": "c8",
+    "question": "Which of the following expenditures is classified as a direct cost and recorded on the debit side of a Trading Account?",
+    "options": [
+      "Office administrative salaries",
+      "Wages and Carriage Inwards",
+      "Interest on a long-term loan",
+      "Depreciation on showroom furniture"
+    ],
+    "correct_index": 1,
+    "explanation": "Direct expenses incurred to bring merchandise into a sellable condition, such as factory wages and carriage inwards, are debited to the Trading Account segment.",
+    "ncert_page": 283,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q20",
+    "chapter_id": "c8",
+    "question": "How are the outstanding period-end balances of nominal accounts (revenues and costs) systematically closed out at the conclusion of a financial cycle?",
+    "options": [
+      "They are balanced and carried forward via 'Balance c/d' to next year's sheet.",
+      "They are closed by transferring their totals to the Trading and Profit & Loss Account through closing entries.",
+      "They are deducted from current assets directly.",
+      "They are converted into intangible brand values."
+    ],
+    "correct_index": 1,
+    "explanation": "Nominal accounts do not persist across cycles; section 8.4.2 notes that their balances are fully transferred and closed into the Trading and Profit and Loss account via formal closing entries.",
+    "ncert_page": 285,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q21",
+    "chapter_id": "c8",
+    "question": "What is the correct formal closing journal entry to transfer the debit balance of the Purchases account to the Trading Account?",
+    "options": [
+      "Debit Purchases A/c, Credit Trading A/c",
+      "Debit Trading A/c, Credit Purchases A/c",
+      "Debit Trading A/c, Credit Cash A/c",
+      "Debit Purchases A/c, Credit Capital A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "Since Purchases carries a normal debit balance, transferring it requires crediting the Purchases account and debiting the Trading Account: `Trading A/c Dr. to Purchases A/c`.",
+    "ncert_page": 285,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q22",
+    "chapter_id": "c8",
+    "question": "What is the correct closing journal entry to transfer the credit balance of the Sales account into the Trading Account?",
+    "options": [
+      "Debit Trading A/c, Credit Sales A/c",
+      "Debit Sales A/c, Credit Trading A/c",
+      "Debit Sales A/c, Credit Debtors A/c",
+      "Debit Capital A/c, Credit Trading A/c"
+    ],
+    "correct_index": 1,
+    "explanation": "Sales carries a normal credit balance. To close it out, the Sales account is debited, and the Trading Account is credited: `Sales A/c Dr. to Trading A/c`.",
+    "ncert_page": 285,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q23",
+    "chapter_id": "c8",
+    "question": "The comprehensive Income Statement can be split and analyzed as a structural combination of how many distinct accounts?",
+    "options": [
+      "Exactly one unified account with zero sub-divisions",
+      "Two accounts (Trading Account segment and Profit & Loss Account segment)",
+      "Three accounts including an explicit capital ledger",
+      "Four separate daybooks columns rows"
+    ],
+    "correct_index": 1,
+    "explanation": "The income statement is prepared as a combined account divided into two distinct sections: the Trading Account (yielding gross metrics) and the Profit and Loss Account (yielding net metrics).",
+    "ncert_page": 288,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q24",
+    "chapter_id": "c8",
+    "question": "What type of profit represents the pure excess of net sales revenue over the raw Cost of Goods Sold ($\text{COGS}$) before indirect overheads are factored in?",
+    "options": [
+      "Net Profit",
+      "Gross Profit",
+      "Operating Profit",
+      "Capital Gain margin"
+    ],
+    "correct_index": 1,
+    "explanation": "Gross profit represents the basic result of primary manufacturing and trading operations, computed as the direct excess of sales revenue over the cost of goods sold.",
+    "ncert_page": 290,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q25",
+    "chapter_id": "c8",
+    "question": "Which of the following equations correctly expresses the mathematical derivation of Gross Profit?",
+    "options": [
+      "$\\text{Gross Profit} = \\text{Net Profit} - \\text{Operating Expenses}$",
+      "$\\text{Gross Profit} = \\text{Net Sales} - \\text{Cost of Goods Sold}$",
+      "$\\text{Gross Profit} = \\text{Purchases} + \\text{Wages}$",
+      "$\\text{Gross Profit} = \\text{Revenues} - \\text{Liabilities}$"
+    ],
+    "correct_index": 1,
+    "explanation": "Gross profit is mathematically derived by subtracting the direct Cost of Goods Sold from the net sales revenue generated during the cycle: $\\text{Gross Profit} = \\text{Net Sales} - \\text{Cost of Goods Sold}$.",
+    "ncert_page": 290,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q26",
+    "chapter_id": "c8",
+    "question": "Net Profit is derived by subtracting indirect operating/financial expenses from and adding indirect miscellaneous incomes to which element?",
+    "options": [
+      "Opening Stock",
+      "Gross Profit",
+      "Long-term liabilities",
+      "Net Purchases column"
+    ],
+    "correct_index": 1,
+    "explanation": "Net profit is the final residue of profit left after all indirect administrative, selling, and distribution expenses are subtracted from Gross Profit, and non-operating incomes are added.",
+    "ncert_page": 290,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q27",
+    "chapter_id": "c8",
+    "question": "What is the foundational mathematical formula used to determine the Cost of Goods Sold ($\text{COGS}$)?",
+    "options": [
+      "$\\text{COGS} = \\text{Purchases} - \\text{Sales} + \\text{Closing Stock}$",
+      "$\\text{COGS} = \\text{Opening Stock} + \\text{Net Purchases} + \\text{Direct Expenses} - \\text{Closing Stock}$",
+      "$\\text{COGS} = \\text{Assets} - \\text{Current Liabilities} + \\text{Wages}$",
+      "$\\text{COGS} = \\text{Opening Stock} + \\text{Net Sales} - \\text{Depreciation}$"
+    ],
+    "correct_index": 1,
+    "explanation": "The standard cost of goods sold is computed by taking opening stock, adding net purchases and all direct expenses (like wages/carriage), and subtracting the value of unsold closing stock.",
+    "ncert_page": 293,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q28",
+    "chapter_id": "c8",
+    "question": "Operating Profit, which denotes the profits earned from core business activities, is alternative known by which technical financial acronym?",
+    "options": [
+      "$\\text{FIFO}$",
+      "$\\text{EBIT}$ (Earnings Before Interest and Tax)",
+      "$\\text{GAAP}$ principle",
+      "$\\text{COGS}$ cost"
+    ],
+    "correct_index": 1,
+    "explanation": "Operating profit represents earnings generated strictly via the normal operations of a firm before accounting for financial expenses like interest or tax, and is termed $\text{EBIT}$.",
+    "ncert_page": 297,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q29",
+    "chapter_id": "c8",
+    "question": "Operating profit is structurally defined as the mathematical excess of operating revenue over what?",
+    "options": [
+      "Total current liabilities",
+      "Operating expenses",
+      "Net profit margins",
+      "Long term bank loans"
+    ],
+    "correct_index": 1,
+    "explanation": "Section 8.5 states that operating profit focuses strictly on operational metrics, representing the excess of operating revenue over matching operating expenses.",
+    "ncert_page": 297,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q30",
+    "chapter_id": "c8",
+    "question": "Which of the following components is strictly EXCLUDED when computing the Operating Profit ($\text{EBIT}$) of a business firm?",
+    "options": [
+      "Direct factory labor wages",
+      "Incomes and expenses of a purely financial nature (e.g. interest) and abnormal accident items",
+      "Standard product sales revenues receipts",
+      "Ordinary day-to-day administrative salaries"
+    ],
+    "correct_index": 1,
+    "explanation": "While calculating operating profit, incomes and expenses of a purely financial nature (like interest paid) or abnormal items (like loss by fire) are completely excluded.",
+    "ncert_page": 297,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q31",
+    "chapter_id": "c8",
+    "question": "What is the standard formula used to compute Operating Profit when starting from Net Profit figures?",
+    "options": [
+      "$\\text{Operating Profit} = \\text{Net Profit} - \\text{Revenues}$",
+      "$\\text{Operating Profit} = \\text{Net Profit} + \\text{Non-Operating Expenses} - \\text{Non-Operating Incomes}$",
+      "$\\text{Operating Profit} = \\text{Net Profit} + \\text{Gross Profit} + \\text{Tax}$",
+      "$\\text{Operating Profit} = \\text{Net Profit} - \\text{Current Liabilities}$"
+    ],
+    "correct_index": 1,
+    "explanation": "To backtrack from net profit to operating profit, you must add back the non-operating expenses (like interest) that reduced it, and subtract non-operating incomes: $\\text{Operating Profit} = \\text{Net Profit} + \\text{Non-Operating Expenses} - \\text{Non-Operating Incomes}$.",
+    "ncert_page": 297,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q32",
+    "chapter_id": "c8",
+    "question": "Interest paid on a long-term bank loan raised to finance general operations belongs to which category in an income statement?",
+    "options": [
+      "Direct trading cost",
+      "Non-Operating Expense of a financial nature",
+      "Operating revenue item",
+      "Deferred capital receipt"
+    ],
+    "correct_index": 1,
+    "explanation": "Interest on a long-term loan is an expense of a purely financial nature, which makes it a non-operating expense that does not affect core operating profit calculations.",
+    "ncert_page": 297,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q33",
+    "chapter_id": "c8",
+    "question": "According to Test Your Understanding-II, what is the correct chronological sequence of profits as they are calculated down the Income Statement sections?",
+    "options": [
+      "Operating Profit $\\rightarrow$ Net Profit $\\rightarrow$ Gross Profit",
+      "Gross Profit $\\rightarrow$ Operating Profit $\\rightarrow$ Net Profit",
+      "Gross Profit $\\rightarrow$ Net Profit $\\rightarrow$ Operating Profit",
+      "Operating Profit $\\rightarrow$ Gross Profit $\\rightarrow$ Net Profit"
+    ],
+    "correct_index": 1,
+    "explanation": "The sequential flow of profit calculation in final accounts starts with Gross Profit (Trading segment), moves to Operating Profit (EBIT stage), and arrives finally at Net Profit.",
+    "ncert_page": 298,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q34",
+    "chapter_id": "c8",
+    "question": "What is a Balance Sheet fundamentally defined as in section 8.6?",
+    "options": [
+      "A chronological daybook used to record raw entries cash transactions",
+      "A statement prepared for showing the financial position of the business summarising its assets and liabilities at a given date",
+      "An adjustment worksheet used to reconcile bank statements entries",
+      "A listing of nominal revenue balances closed out at year-end"
+    ],
+    "correct_index": 1,
+    "explanation": "The balance sheet is a static snapshot statement detailing the economic resources (assets) and funding claims (liabilities and capital) of an enterprise at a specific point in time.",
+    "ncert_page": 299,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q35",
+    "chapter_id": "c8",
+    "question": "When Net Profit is successfully calculated at the bottom of a Profit and Loss Account, how is it transferred into the Balance Sheet columns?",
+    "options": [
+      "Recorded as a current liability row",
+      "Transferred and added directly to the owner's Capital account",
+      "Subtracted from non-current fixed assets",
+      "Placed inside a temporary suspense account folder"
+    ],
+    "correct_index": 1,
+    "explanation": "Net profit represents the net return belonging to the owners. Therefore, it is added straight to the Capital account balance on the liabilities side of the Balance Sheet.",
+    "ncert_page": 300,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q36",
+    "chapter_id": "c8",
+    "question": "Assets that are expected to be converted back into liquid cash or consumed within a brief period, typically under twelve months, are classified as what?",
+    "options": [
+      "Fixed Assets",
+      "Current Assets",
+      "Intangible Assets",
+      "Long-term Investments"
+    ],
+    "correct_index": 1,
+    "explanation": "Current assets are dynamic operating assets held for short-term consumption or cash conversion within an annual cycle, like debtors, stock, or cash balances.",
+    "ncert_page": 301,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q37",
+    "chapter_id": "c8",
+    "question": "Bank overdraft, trade bills payable, and sundry creditors are standard examples of which element grouping?",
+    "options": [
+      "Fixed Block Capital",
+      "Current Liabilities",
+      "Long-term obligations",
+      "Intangible Equity items"
+    ],
+    "correct_index": 1,
+    "explanation": "Current liabilities are short-term financial obligations expected to be discharged within a year using current assets or by creating other current balances.",
+    "ncert_page": 302,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q38",
+    "chapter_id": "c8",
+    "question": "Fixed assets are held on a long-term basis in a business enterprise and are primarily acquired for which explicit purpose?",
+    "options": [
+      "For regular resale to earn quick speculative cash profits",
+      "For operational use to earn revenue, without any intention of immediate resale",
+      "To settle outstanding short-term debts with suppliers",
+      "To be stored permanently in locked safety deposit vaults"
+    ],
+    "correct_index": 1,
+    "explanation": "Fixed assets (such as machinery or buildings) are acquired to serve as production resources over multiple cycles to earn revenue, not to be sold as regular inventory.",
+    "ncert_page": 302,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q39",
+    "chapter_id": "c8",
+    "question": "What alternative descriptive accounting terms are sometimes applied interchangeably to designate Fixed Assets?",
+    "options": [
+      "'Liquid Capital' or 'Cash Equivalents'",
+      "'Fixed Block' or 'Block Capital'",
+      "'Current Debits' or 'Voucher balances'",
+      "'Deferred Revenues' or 'Gains matrix'"
+    ],
+    "correct_index": 1,
+    "explanation": "Section 8.6.2 notes that fixed assets are also referred to as a company's 'Fixed Block' or its 'Block Capital' configuration.",
+    "ncert_page": 302,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q40",
+    "chapter_id": "c8",
+    "question": "Assets that carry significant financial value and legal utility but completely lack a visible, touchable physical form are classified as what?",
+    "options": [
+      "Liquid Investments",
+      "Intangible Assets",
+      "Current Inventory",
+      "Tangible Fixed Blocks"
+    ],
+    "correct_index": 1,
+    "explanation": "Intangible assets are long-term operational resources that have no physical substance but provide real competitive and financial value to a firm.",
+    "ncert_page": 302,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q41",
+    "chapter_id": "c8",
+    "question": "Goodwill, manufacturing patents, and product trademarks fall directly under which asset classification row?",
+    "options": [
+      "Current Assets",
+      "Intangible Assets",
+      "Long-term Investments",
+      "Favorable Bank balances"
+    ],
+    "correct_index": 1,
+    "explanation": "Goodwill, patents, and trademarks are standard textbook examples of non-physical intangible assets that cannot be seen or touched but carry legal values.",
+    "ncert_page": 302,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q42",
+    "chapter_id": "c8",
+    "question": "At what specific valuation baseline are external corporate investments (like government securities or company shares) standardly recorded on a Balance Sheet?",
+    "options": [
+      "Fluctuating spot market price always",
+      "Cost price",
+      "Liquidation auction value limits",
+      "An arbitrary index value estimated by directors"
+    ],
+    "correct_index": 1,
+    "explanation": "Investments represent corporate funds deployed into external securities or shares and are standardly shown in the balance sheet columns at their cost price.",
+    "ncert_page": 302,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q43",
+    "chapter_id": "c8",
+    "question": "All liabilities that do not fall under current short-term liabilities and are usually payable after one year from the balance sheet date are named what?",
+    "options": [
+      "Current Debtors obligations",
+      "Long-term Liabilities",
+      "Deferred Drawings outlays",
+      "Owner's Capital equity"
+    ],
+    "correct_index": 1,
+    "explanation": "Long-term liabilities are non-current obligations payable over a longer horizon exceeding twelve months, such as term bank loans or debentures.",
+    "ncert_page": 302,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q44",
+    "chapter_id": "c8",
+    "question": "Capital, which reflects the financial stake of the proprietor inside the business, is accounting-wise defined as the excess of total assets over what?",
+    "options": [
+      "Gross profit totals",
+      "Liabilities due to outsiders",
+      "The value of closing inventory stock",
+      "Net sales revenue cash flows"
+    ],
+    "correct_index": 1,
+    "explanation": "Capital represents the net internal equity of a firm, mathematically calculated by subtracting all external claims (liabilities due to outsiders) from overall total assets.",
+    "ncert_page": 302,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q45",
+    "chapter_id": "c8",
+    "question": "What is the specialized accounting process of arranging and presenting distinct asset and liability heads in a specific, standardized structural sequence called?",
+    "options": [
+      "Posting",
+      "Marshalling",
+      "Balancing",
+      "Journalising"
+    ],
+    "correct_index": 1,
+    "explanation": "Marshalling refers to the systematic arrangement of various balance sheet items in a specific chosen pattern to make the statement legible and uniform.",
+    "ncert_page": 302,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q46",
+    "chapter_id": "c8",
+    "question": "What are the two alternative structural order options available to an accountant when marshalling items inside a Balance Sheet?",
+    "options": [
+      "Debit order and Credit order",
+      "Order of Permanence and Order of Liquidity",
+      "Chronological order and Size order",
+      "Asset format and Liability format"
+    ],
+    "correct_index": 1,
+    "explanation": "A balance sheet can be marshalled following either the Order of Permanence (least changeable items first) or the Order of Liquidity (most easily cash convertible items first).",
+    "ncert_page": 302,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q47",
+    "chapter_id": "c8",
+    "question": "Under the Order of Permanence marshalling framework, which type of assets must be listed right at the top of the column?",
+    "options": [
+      "The most liquid asset (Cash in hand)",
+      "The most permanent fixed asset (e.g. Furniture or Land)",
+      "Current accounts debtors claims",
+      "Unsold warehouse inventory stock"
+    ],
+    "correct_index": 1,
+    "explanation": "In the order of permanence, items that tend to remain permanently locked within business operations are arranged first at the top, pushing liquid assets like cash to the bottom.",
+    "ncert_page": 303,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q48",
+    "chapter_id": "c8",
+    "question": "Under the Order of Liquidity marshalling format, which asset is positioned at the very top of the assets column?",
+    "options": [
+      "The most permanent machinery block",
+      "The most liquid asset (Cash in hand / Cash at bank)",
+      "Long-term corporate investments",
+      "Intangible goodwill brand value"
+    ],
+    "correct_index": 1,
+    "explanation": "The order of liquidity reverses permanence rules completely, positioning the most liquid item (Cash, which requires zero conversion time) at the top of the assets side.",
+    "ncert_page": 303,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q49",
+    "chapter_id": "c8",
+    "question": "What is the technical journal entry passed inside the Journal Proper on the very first day of a new accounting year to open the new books of accounts?",
+    "options": [
+      "Closing Entry",
+      "Opening Entry",
+      "Adjustment Entry",
+      "Rectification Entry"
+    ],
+    "correct_index": 1,
+    "explanation": "The balance sheet balances are carried forward from one year to another. To enter them into the new books on day one, an Opening Entry is systematically passed.",
+    "ncert_page": 308,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c8_q50",
+    "chapter_id": "c8",
+    "question": "How is a standard Opening Entry structurally recorded in the Journal Proper daybook?",
+    "options": [
+      "All liability accounts are debited, while asset accounts are credited.",
+      "All asset accounts are debited, while all liability and capital accounts are credited.",
+      "Trading account is debited, and profit & loss account is credited.",
+      "Cash account is debited, and all non-current assets are credited."
+    ],
+    "correct_index": 1,
+    "explanation": "An opening entry formalizes balance sheet positions on day one: it debits all individual asset accounts separately and credits all individual external liability and capital accounts.",
+    "ncert_page": 308,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  }
+]

@@ -1,0 +1,637 @@
+[
+  {
+    "mcq_id": "eco_c6_q01",
+    "chapter_id": "c6",
+    "question": "What defines a 'worker' according to the text?",
+    "options": [
+      "Only those who receive a monthly salary",
+      "All those who are engaged in economic activities",
+      "Only those who work in factories",
+      "People who are looking for work but haven't found any"
+    ],
+    "correct_index": 1,
+    "explanation": "A worker is an individual who is engaged in some economic activity to earn a living.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q02",
+    "chapter_id": "c6",
+    "question": "Which of the following are included in the definition of 'workers'?",
+    "options": [
+      "Self-employed people",
+      "People who temporarily abstain from work due to illness",
+      "People who help the main workers",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "Workers include self-employed people, those who help main workers, and those who are temporarily absent due to illness or injury.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q03",
+    "chapter_id": "c6",
+    "question": "What was the total workforce in India during 2017-18?",
+    "options": [
+      "100 million",
+      "471 million",
+      "250 million",
+      "600 million"
+    ],
+    "correct_index": 1,
+    "explanation": "In 2017-18, the total workforce in India was about 471 million.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q04",
+    "chapter_id": "c6",
+    "question": "What is the Worker-Population Ratio?",
+    "options": [
+      "The total number of workers divided by the number of unemployed people",
+      "The percentage of total population actually contributing to production",
+      "The ratio of male workers to female workers",
+      "The number of workers in the industrial sector"
+    ],
+    "correct_index": 1,
+    "explanation": "Worker-Population Ratio is an indicator used for analyzing the employment situation; it is the proportion of population that is actively contributing to the production of goods and services.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q05",
+    "chapter_id": "c6",
+    "question": "Why is the worker-population ratio higher in rural areas compared to urban areas?",
+    "options": [
+      "Rural people are richer",
+      "Rural people have limited resources and higher poverty, forcing more members to work",
+      "Urban people don't like working",
+      "There are no schools in rural areas"
+    ],
+    "correct_index": 1,
+    "explanation": "People in rural areas cannot stay at home as their economic condition may not allow it, whereas urbanites have better opportunities for education and look for specific jobs.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q06",
+    "chapter_id": "c6",
+    "question": "Workers who own and operate an enterprise to earn their livelihood are known as:",
+    "options": ["Casual wage laborers", "Regular salaried employees", "Self-employed", "Unemployed"],
+    "correct_index": 2,
+    "explanation": "Workers who own and operate an enterprise to earn their livelihood are called self-employed.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q07",
+    "chapter_id": "c6",
+    "question": "What is the major source of livelihood for more than half of the Indian workforce?",
+    "options": ["Casual work", "Regular salary", "Self-employment", "Government jobs"],
+    "correct_index": 2,
+    "explanation": "Self-employment is a major source of livelihood for both men and women, accounting for 52% of total employment.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q08",
+    "chapter_id": "c6",
+    "question": "Workers who are engaged by others and, in return, are paid wages on a permanent basis are called:",
+    "options": ["Casual wage laborers", "Regular salaried employees", "Self-employed", "Seasonal workers"],
+    "correct_index": 1,
+    "explanation": "When a worker is engaged by someone or an enterprise and paid wages on a regular basis, they are regular salaried employees.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q09",
+    "chapter_id": "c6",
+    "question": "Which of the following categories of workers do NOT get social security benefits like pension or provident fund?",
+    "options": ["Regular salaried employees", "Casual wage laborers", "Government officials", "Public sector bank employees"],
+    "correct_index": 1,
+    "explanation": "Casual wage laborers are not on regular rolls and do not receive social security benefits.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q10",
+    "chapter_id": "c6",
+    "question": "What percentage of the workforce was engaged in the Primary sector in 2017-18?",
+    "options": ["10%", "24%", "44.6%", "60%"],
+    "correct_index": 2,
+    "explanation": "In 2017-18, the primary sector (agriculture and allied) was the main source of employment for 44.6% of the workforce.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q11",
+    "chapter_id": "c6",
+    "question": "In urban areas, which sector is the main provider of employment?",
+    "options": ["Primary Sector", "Secondary Sector", "Service Sector", "Mining Sector"],
+    "correct_index": 2,
+    "explanation": "In urban areas, the service sector provides employment to about 60% of the workforce.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q12",
+    "chapter_id": "c6",
+    "question": "What is meant by the 'Jobless Growth' phenomenon?",
+    "options": [
+      "Economy is not growing and unemployment is high",
+      "Economy is growing but it is not generating sufficient employment opportunities",
+      "People are working but not getting paid",
+      "Population is decreasing faster than job creation"
+    ],
+    "correct_index": 1,
+    "explanation": "Jobless growth occurs when the economy produces more goods and services without generating additional employment.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q13",
+    "chapter_id": "c6",
+    "question": "The shift of workers from self-employment and regular salaried jobs to casual wage work is called:",
+    "options": ["Industrialization", "Formalization", "Casualisation of workforce", "Urbanization"],
+    "correct_index": 2,
+    "explanation": "The process of moving from self-employment and regular salaried employment to casual wage work is known as casualisation of workforce.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q14",
+    "chapter_id": "c6",
+    "question": "Which sector includes all public sector establishments and private sector establishments that employ 10 or more hired workers?",
+    "options": ["Informal Sector", "Formal Sector", "Agricultural Sector", "Unorganized Sector"],
+    "correct_index": 1,
+    "explanation": "The formal or organized sector consists of all public sector and private establishments employing 10 or more workers.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q15",
+    "chapter_id": "c6",
+    "question": "What percentage of the total workforce in India is employed in the formal sector?",
+    "options": ["6%", "20%", "50%", "90%"],
+    "correct_index": 0,
+    "explanation": "Only about 6% of the total workforce in India is in the formal sector.",
+    "ncert_page": 12,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q16",
+    "chapter_id": "c6",
+    "question": "Workers in which sector are protected by labor laws and receive social security benefits?",
+    "options": ["Informal sector", "Formal sector", "Street vendors", "Small farm laborers"],
+    "correct_index": 1,
+    "explanation": "Workers in the formal sector earn more and have social security and legal protection.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q17",
+    "chapter_id": "c6",
+    "question": "What does the 'Informalization' of employment mean?",
+    "options": [
+      "More people are getting government jobs",
+      "The share of the informal sector in total employment is increasing",
+      "People are working in formal offices without uniforms",
+      "Decrease in the number of self-employed people"
+    ],
+    "correct_index": 1,
+    "explanation": "Informalization refers to the trend where a larger portion of the workforce works in the unorganized sector without benefits.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q18",
+    "chapter_id": "c6",
+    "question": "According to the NSSO, when is a person considered 'unemployed'?",
+    "options": [
+      "When they are sleeping",
+      "When they are not working but are seeking and available for work",
+      "When they are studying in college",
+      "When they have retired from their job"
+    ],
+    "correct_index": 1,
+    "explanation": "Unemployment is a situation where people are willing and able to work at the prevailing wage rate but do not find work.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q19",
+    "chapter_id": "c6",
+    "question": "Which type of unemployment is common in the agricultural sector where more people are working than required?",
+    "options": ["Open unemployment", "Disguised unemployment", "Seasonal unemployment", "Frictional unemployment"],
+    "correct_index": 1,
+    "explanation": "Disguised unemployment occurs when more people are engaged in an activity than actually needed.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q20",
+    "chapter_id": "c6",
+    "question": "What is 'Seasonal Unemployment'?",
+    "options": [
+      "Being unemployed during a pandemic",
+      "Unemployment that occurs because work is available only during certain months of the year",
+      "Unemployment due to lack of skills",
+      "Unemployment in the software industry"
+    ],
+    "correct_index": 1,
+    "explanation": "Seasonal unemployment is common in agriculture where workers find jobs only during busy seasons like sowing and harvesting.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q21",
+    "chapter_id": "c6",
+    "question": "In India, which organization collects data on unemployment?",
+    "options": [
+      "Reserve Bank of India",
+      "National Sample Survey Office (NSSO)",
+      "Census of India",
+      "Both 2 and 3"
+    ],
+    "correct_index": 3,
+    "explanation": "Data on unemployment is collected by the Census of India, NSSO, and Directorate General of Employment and Training.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q22",
+    "chapter_id": "c6",
+    "question": "The 'Mahatma Gandhi National Rural Employment Guarantee Act' (MGNREGA) guarantees how many days of work in a year?",
+    "options": ["50 days", "100 days", "200 days", "365 days"],
+    "correct_index": 1,
+    "explanation": "MGNREGA provides at least 100 days of guaranteed wage employment in a financial year to every household whose adult members volunteer to do unskilled manual work.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q23",
+    "chapter_id": "c6",
+    "question": "What is the primary objective of the government's employment generation programs?",
+    "options": [
+      "To increase the salary of formal sector workers",
+      "Poverty alleviation and generating livelihoods for the poor",
+      "To encourage more people to move to cities",
+      "To reduce the number of schools"
+    ],
+    "correct_index": 1,
+    "explanation": "Employment generation is linked to poverty alleviation through various government-sponsored programs.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q24",
+    "chapter_id": "c6",
+    "question": "The GDP of a country is the sum of:",
+    "options": [
+      "All people in the country",
+      "All money in the banks",
+      "Value of all final goods and services produced in the country in a year",
+      "All taxes collected by the government"
+    ],
+    "correct_index": 2,
+    "explanation": "The total value of all final goods and services produced within the country is GDP.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q25",
+    "chapter_id": "c6",
+    "question": "What percentage of the workforce are women in India?",
+    "options": ["10%", "One-third", "Half", "75%"],
+    "correct_index": 1,
+    "explanation": "Women constitute about one-third of the total workforce in India.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q26",
+    "chapter_id": "c6",
+    "question": "Most female workers are concentrated in which area?",
+    "options": ["Urban offices", "Rural areas", "Large factories", "Foreign countries"],
+    "correct_index": 1,
+    "explanation": "Nearly 70% of the workforce is rural and among them, women have a significant presence though often in low-paid jobs.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q27",
+    "chapter_id": "c6",
+    "question": "Underestimation of women's work in India occurs because:",
+    "options": [
+      "They don't work at all",
+      "A large number of women's house-related activities are not recognized as economic activities",
+      "They only work for a few hours",
+      "They refuse to give data"
+    ],
+    "correct_index": 1,
+    "explanation": "Many women perform activities like fuel wood collection and household work which are not categorized as economic activities, leading to underestimation.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q28",
+    "chapter_id": "c6",
+    "question": "Which category of workers has increased the most between 1972 and 2018?",
+    "options": ["Self-employed", "Regular salaried", "Casual wage laborers", "Both 2 and 3"],
+    "correct_index": 2,
+    "explanation": "Casualization has been a notable trend where the share of casual laborers has increased significantly.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q29",
+    "chapter_id": "c6",
+    "question": "Establishments in the informal sector are usually ________.",
+    "options": ["Regulated by the government", "Large scale", "Not on any government rolls and have no social security for workers", "Only in the IT industry"],
+    "correct_index": 2,
+    "explanation": "Informal sector enterprises are small, unregulated, and do not provide job security or social benefits.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q30",
+    "chapter_id": "c6",
+    "question": "What is the status of a person who is working but is 'unproductive' for the economy?",
+    "options": ["Openly unemployed", "Disguisedly unemployed", "Formally employed", "Fully productive"],
+    "correct_index": 1,
+    "explanation": "In disguised unemployment, the person appears to be working but their marginal productivity is zero.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q31",
+    "chapter_id": "c6",
+    "question": "Which international organization defines 'Informal Sector' as part of its statistical system?",
+    "options": ["World Bank", "International Labour Organization (ILO)", "UNICEF", "UNESCO"],
+    "correct_index": 1,
+    "explanation": "The ILO and the Indian government have categorized workers into formal and informal sectors for better data collection.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q32",
+    "chapter_id": "c6",
+    "question": "Self-employment in urban areas accounts for what percentage of the workforce?",
+    "options": ["10%", "33%", "50%", "80%"],
+    "correct_index": 1,
+    "explanation": "About 33% of the urban workforce is self-employed.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q33",
+    "chapter_id": "c6",
+    "question": "Why do regular salaried employees earn more than casual laborers?",
+    "options": [
+      "They are luckier",
+      "They usually have higher educational qualifications and skills",
+      "They work for fewer hours",
+      "There is no difference in their earnings"
+    ],
+    "correct_index": 1,
+    "explanation": "Salaried jobs in formal sectors require specific expertise and qualifications, leading to better pay and stability.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q34",
+    "chapter_id": "c6",
+    "question": "Primary sector employment is higher in ________ areas.",
+    "options": ["Urban", "Rural", "Both are equal", "Foreign"],
+    "correct_index": 1,
+    "explanation": "In rural areas, nearly 60% of workforce is in the primary sector.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q35",
+    "chapter_id": "c6",
+    "question": "When a firm increases its output using better technology without hiring more people, it leads to:",
+    "options": ["Labor-intensive growth", "Employment growth", "Jobless growth", "Economic decline"],
+    "correct_index": 2,
+    "explanation": "Technology-driven growth that doesn't increase employment is called jobless growth.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q36",
+    "chapter_id": "c6",
+    "question": "The service sector accounts for ________ of employment in India overall.",
+    "options": ["10%", "31%", "50%", "90%"],
+    "correct_index": 1,
+    "explanation": "The service sector provides employment to about 31% of the total workforce.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q37",
+    "chapter_id": "c6",
+    "question": "What is the primary reason why casual workers are highly vulnerable?",
+    "options": [
+      "They have too many jobs",
+      "They can be dismissed at any time without compensation",
+      "They earn too much money",
+      "They work only in the public sector"
+    ],
+    "correct_index": 1,
+    "explanation": "Casual laborers lack job security and social security benefits.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q38",
+    "chapter_id": "c6",
+    "question": "Government policy since the 1990s has focused on making the Indian economy more ________.",
+    "options": ["Regulated", "Competitive and globalized", "Self-sufficient in terms of zero imports", "Agrarian"],
+    "correct_index": 1,
+    "explanation": "Economic reforms aimed at increasing efficiency and competitiveness.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q39",
+    "chapter_id": "c6",
+    "question": "Open unemployment is a situation where:",
+    "options": [
+      "People work but for low pay",
+      "People have work only in summer",
+      "People are completely without work and are visibly looking for jobs",
+      "People are working more than required"
+    ],
+    "correct_index": 2,
+    "explanation": "Open unemployment is visible where the individual is clearly without any work.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q40",
+    "chapter_id": "c6",
+    "question": "The 'craze' for machinery was objected to by ________ because it saves labor at the cost of jobs.",
+    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "B.R. Ambedkar"],
+    "correct_index": 1,
+    "explanation": "Mahatma Gandhi's quote at the start of the chapter highlights his concern about labor-saving machinery.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q41",
+    "chapter_id": "c6",
+    "question": "Regular salaried employees in the formal sector have access to:",
+    "options": ["Trade unions", "Sick leave", "Provident fund", "All of the above"],
+    "correct_index": 3,
+    "explanation": "Formal sector workers enjoy social security and collective bargaining rights.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q42",
+    "chapter_id": "c6",
+    "question": "Most formal sector workers in India are:",
+    "options": ["Men", "Women", "Children", "Foreigners"],
+    "correct_index": 0,
+    "explanation": "Out of 30 million formal sector workers, only 6 million are women.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q43",
+    "chapter_id": "c6",
+    "question": "Which sector's share in GDP has remained high while its share in employment has declined?",
+    "options": ["Primary sector", "Secondary sector", "Service sector", "Tertiary sector"],
+    "correct_index": 0,
+    "explanation": "The primary sector's contribution to GDP has fallen significantly, while it still employs a large part of the population.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q44",
+    "chapter_id": "c6",
+    "question": "Educated unemployment is most common in which group?",
+    "options": ["Rural uneducated", "Urban youth with degrees", "Migrant laborers", "Small farmers"],
+    "correct_index": 1,
+    "explanation": "Many urban youths with educational qualifications struggle to find suitable jobs.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q45",
+    "chapter_id": "c6",
+    "question": "Employment generation programs often target ________ infrastructure development.",
+    "options": ["Physical and social", "Only military", "Only foreign", "Only urban"],
+    "correct_index": 0,
+    "explanation": "Programs like asset creation in villages help in long-term rural development.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q46",
+    "chapter_id": "c6",
+    "question": "The 'self-employed' category includes a street vendor who owns their cart.",
+    "options": ["True", "False", "Only if they have a license", "Only in rural areas"],
+    "correct_index": 0,
+    "explanation": "Owning and operating one's own small trade is self-employment.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q47",
+    "chapter_id": "c6",
+    "question": "Data for 2017-18 shows that the worker-population ratio for females is ________ than for males.",
+    "options": ["Higher", "Lower", "Exactly equal", "Double"],
+    "correct_index": 1,
+    "explanation": "The ratio for women is significantly lower (16.5%) compared to men (52.1%).",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q48",
+    "chapter_id": "c6",
+    "question": "Which state implemented 'work-from-home' extensively during the 2020-21 pandemic?",
+    "options": ["Only Kerala", "Only Maharashtra", "All of India (millions of workers)", "Only Delhi"],
+    "correct_index": 2,
+    "explanation": "Technology enabled work-from-home across the country for millions.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q49",
+    "chapter_id": "c6",
+    "question": "Casualization is often seen as a sign of ________ job quality.",
+    "options": ["Improving", "Deteriorating", "Stable", "High security"],
+    "correct_index": 1,
+    "explanation": "It indicates a move towards less secure and unprotected work.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c6_q50",
+    "chapter_id": "c6",
+    "question": "What is the primary reason why workers in the informal sector cannot form trade unions easily?",
+    "options": [
+      "They are not allowed to talk",
+      "They are unorganized and work in small, dispersed units",
+      "They are all too rich",
+      "They have no interest in unions"
+    ],
+    "correct_index": 1,
+    "explanation": "Informal workers lack the collective bargaining power that formal sector workers have.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  }
+]

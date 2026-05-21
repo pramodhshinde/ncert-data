@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c1_q01",
+    "chapter_id": "c1",
+    "question": "Which of the following defines the traditional role of accounting before the advent of modern rapidly changing business environments?",
+    "options": [
+      "Providing financial planning and forensic evaluation",
+      "Designing complex web-based payment structures",
+      "Mere record-keeping and book-keeping functions of financial transactions",
+      "Formulating environmental impact responsibility data"
+    ],
+    "correct_index": 2,
+    "explanation": "Over the centuries, accounting remained confined to the financial record-keeping or book-keeping functions of the accountant before shifting to providing relevant quantitative data to decision-making teams.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q02",
+    "chapter_id": "c1",
+    "question": "What exciting growth area of modern accounting involves solving crimes such as computer hacking and the theft of large amounts of money on the internet?",
+    "options": [
+      "Environmental accounting",
+      "E-commerce payment layout",
+      "Forensic accounting",
+      "Financial book-keeping"
+    ],
+    "correct_index": 2,
+    "explanation": "Forensic accounting is an exciting growth area capable of solving financial crimes such as computer hacking and the theft of large amounts of money over the internet.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q03",
+    "chapter_id": "c1",
+    "question": "The American Institute of Certified Public Accountants (AICPA) defined accounting as the art of recording, classifying, and summarizing in a significant manner and in terms of what specific unit?",
+    "options": [
+      "Labor hours spent",
+      "Money, transactions and events",
+      "Production output dimensions",
+      "Percentage growth metrics"
+    ],
+    "correct_index": 1,
+    "explanation": "The AICPA defined accounting as the art of recording, classifying, and summarizing in a significant manner and in terms of money, transactions and events which are, in part at least, of financial character.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q04",
+    "chapter_id": "c1",
+    "question": "In 1966, the American Accounting Association (AAA) defined accounting as the process of identifying, measuring, and communicating economic information to permit what outcome?",
+    "options": [
+      "Informed judgments and decisions by users of the information",
+      "Maximum tax avoidance structures by the corporate firm",
+      "Automatic ledger auditing loops generation",
+      "The implicit type promotion of variable matrix allocations"
+    ],
+    "correct_index": 0,
+    "explanation": "The AAA defined accounting as the process of identifying, measuring, and communicating economic information to permit informed judgments and decisions by users of the information.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q05",
+    "chapter_id": "c1",
+    "question": "Which of the following is explicitly listed as a core attribute or characteristic in the definition of an 'Economic Event'?",
+    "options": [
+      "It must be a subjective feeling or moral choice.",
+      "It involves a consequence to a business enterprise consisting of transactions that are measurable in monetary terms.",
+      "It occurs strictly without any external human interactions or exchanges.",
+      "It must span a minimum duration of one calendar year before being logged."
+    ],
+    "correct_index": 1,
+    "explanation": "An economic event is a happening of consequence to a business enterprise which consists of transactions that are completely measurable in monetary terms.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q06",
+    "chapter_id": "c1",
+    "question": "An economic event that involves a transfer of value or exchange between a business enterprise and an entirely separate outside entity is classified as what?",
+    "options": [
+      "An internal event",
+      "An external event",
+      "An analytical sequence conversion",
+      "An implicit allocation promotion"
+    ],
+    "correct_index": 1,
+    "explanation": "An external event involves transfer of value between a business enterprise and an outside entity, such as sale of merchandise or purchase of materials from a supplier.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q07",
+    "chapter_id": "c1",
+    "question": "Which of the following represents an explicit example of an 'Internal Event' within a business enterprise?",
+    "options": [
+      "Purchase of raw materials from an outside vendor",
+      "Payment of monthly rent to the building landlord",
+      "Supply of raw materials from the store department to the manufacturing department",
+      "Providing catering services to an external customer"
+    ],
+    "correct_index": 2,
+    "explanation": "An internal event is an economic event that occurs entirely within a business enterprise, such as supply of raw materials from the store department to the manufacturing department.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q08",
+    "chapter_id": "c1",
+    "question": "What is a specific exchange or performance of an economic event between two or more entities that is recorded as the basic input unit of accounting called?",
+    "options": [
+      "A parameter token",
+      "A transaction",
+      "An auditing verification row",
+      "A structural commentary"
+    ],
+    "correct_index": 1,
+    "explanation": "A transaction is an economic event that involves a specific exchange or transfer of value between two or more entities.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q09",
+    "chapter_id": "c1",
+    "question": "What is the primary step in the process of identification in accounting?",
+    "options": [
+      "Recording everything in chronologically sorted notebooks",
+      "Determining what transactions to record by observing activities and selecting those that are of financial character",
+      "Communicating the summaries through statistical graph formats",
+      "Calculating asset differences via matrix evaluation logic"
+    ],
+    "correct_index": 1,
+    "explanation": "Identification means determining what transactions to record, i.e., selecting those activities that are considered of financial character and relevant to the organization.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q10",
+    "chapter_id": "c1",
+    "question": "If an event cannot be quantified or measured in monetary terms, how is it handled in the formal accounting books?",
+    "options": [
+      "It is estimated using a proxy float calculation.",
+      "It is completely omitted and not recorded in the books of account.",
+      "It is recorded using an arbitrary value of one unit.",
+      "It is added as a permanent global header comment text."
+    ],
+    "correct_index": 1,
+    "explanation": "Measurement in accounting requires quantifying business transactions in financial terms using a monetary unit. If an event cannot be quantified in monetary terms, it is not recorded.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q11",
+    "chapter_id": "c1",
+    "question": "In what specific order must identified and measured economic transactions be recorded into the books of account?",
+    "options": [
+      "Sorted by transaction size or value amount",
+      "Alphabetical order based on customer names",
+      "Chronological order (the order in which they occur)",
+      "Random sequence allocation layout"
+    ],
+    "correct_index": 2,
+    "explanation": "Recording means entering the identified and measured financial transactions in the books of account systematically in a chronological order.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q12",
+    "chapter_id": "c1",
+    "question": "What final phase of the accounting process involves preparing reports and distributing financial metrics to interested users?",
+    "options": [
+      "Identification phase",
+      "Measurement calculation step",
+      "Communication through financial statements and reports",
+      "Chronological ledger entries sorting"
+    ],
+    "correct_index": 2,
+    "explanation": "Communication is the phase where economic information is systematically compiled and presented through financial statements or reports to internal and external users.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q13",
+    "chapter_id": "c1",
+    "question": "According to the systematic flow diagram in Figure 1.1, what forms the crucial intermediate step that connects 'Economic Events' to 'Communication'?",
+    "options": [
+      "Accounting Process (Identification, Measurement, Recording, and Classification)",
+      "Taxation code revisions algorithm",
+      "External market asset shifts logs",
+      "Environmental balance allocations evaluation"
+    ],
+    "correct_index": 0,
+    "explanation": "Figure 1.1 establishes that the Accounting Process—which handles identification, measurement, recording, and classification—links economic events directly to information communication.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q14",
+    "chapter_id": "c1",
+    "question": "Which group constitutes the primary 'Internal Users' of accounting information within an organization?",
+    "options": [
+      "Shareholders and potential investors",
+      "Management (such as Chief Executive, product managers, and departmental heads)",
+      "Tax authorities and labor trade unions",
+      "Suppliers, creditors and credit rating bureaus"
+    ],
+    "correct_index": 1,
+    "explanation": "Internal users are those inside the organization who plan, organize, and run the business, which includes corporate managers and departmental heads.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q15",
+    "chapter_id": "c1",
+    "question": "Why do 'External Users' such as banks, financial lenders, and creditors require access to a firm's accounting summaries?",
+    "options": [
+      "To inspect the internal code indentation logic of payment structures",
+      "To judge the performance, profitability, and creditworthiness of the business before granting loans or lines of credit",
+      "To manage the day-to-day employee shifts allocation records",
+      "To calculate the raw material consumption speeds of factory machines"
+    ],
+    "correct_index": 1,
+    "explanation": "External users like banks and financial institutions require accounting data to assess creditworthiness, safety of their principal investment, and performance metrics.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q16",
+    "chapter_id": "c1",
+    "question": "Which qualitative characteristic of accounting information ensures that users can rely on its truthfulness, verifiability, and neutrality?",
+    "options": [
+      "Relevance",
+      "Understandability",
+      "Reliability",
+      "Comparability"
+    ],
+    "correct_index": 2,
+    "explanation": "Reliability means that the information must be free from significant error and bias, faithfully representing what it purports to show, and must be verifiable.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q17",
+    "chapter_id": "c1",
+    "question": "To satisfy the characteristic of 'Relevance', accounting information must be available to decision-makers in what time frame?",
+    "options": [
+      "Within 10 years following an audited cycle",
+      "In a timely manner, before it loses its capacity to influence decisions",
+      "Strictly after all competitors publish their yearly balances",
+      "Only when requested explicitly by judicial courts during a dispute"
+    ],
+    "correct_index": 1,
+    "explanation": "To be relevant, information must be available in time to influence the decisions of users, helping them form predictions or confirm past evaluations.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q18",
+    "chapter_id": "c1",
+    "question": "What qualitative characteristic requires accounting information to be presented clearly so that interpreted meanings can match between the accountant and the end-user?",
+    "options": [
+      "Neutrality attribute",
+      "Understandability",
+      "Comparability vector",
+      "Materiality limit"
+    ],
+    "correct_index": 1,
+    "explanation": "Understandability means decision-makers must interpret accounting information in the same sense as it is prepared and conveyed to them.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q19",
+    "chapter_id": "c1",
+    "question": "What type of comparison allows evaluating a firm's financial statements over different successive financial years?",
+    "options": [
+      "Inter-firm comparison",
+      "Intra-firm comparison",
+      "Cross-sectional comparison",
+      "External baseline comparison"
+    ],
+    "correct_index": 1,
+    "explanation": "Intra-firm comparison involves analyzing a single firm's accounting metrics across different periods to observe performance trends.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q20",
+    "chapter_id": "c1",
+    "question": "Which of the following is considered a primary core objective of systematic accounting?",
+    "options": [
+      "Maximizing the market value of competitor stocks",
+      "Maintenance of systematic records of financial transactions",
+      "Eliminating the need to pay wages to labor departments",
+      "Replacing all internal human staff with tracking script layers"
+    ],
+    "correct_index": 1,
+    "explanation": "The primary objectives of accounting include maintaining systematic records of transactions, calculating profit or loss, and depicting the financial position.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q21",
+    "chapter_id": "c1",
+    "question": "What financial statement is prepared to summarize the revenues and expenses of an enterprise to determine the net profit or loss earned over an accounting period?",
+    "options": [
+      "Balance Sheet",
+      "Profit and Loss Account (or Income Statement)",
+      "Cash Flow Statement",
+      "Statement of Heritage Assets"
+    ],
+    "correct_index": 1,
+    "explanation": "The profit or loss earned or suffered during an accounting period is determined by preparing a Profit and Loss Account (Income Statement).",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q22",
+    "chapter_id": "c1",
+    "question": "Which statement matches assets on one side against liabilities and capital on the other side to depict the precise financial position of an enterprise?",
+    "options": [
+      "Profit and Loss Statement",
+      "Balance Sheet",
+      "Trial Balance sheet",
+      "Ledger index matrix"
+    ],
+    "correct_index": 1,
+    "explanation": "The true financial position of a business is depicted through a statement of assets and liabilities called the Balance Sheet.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q23",
+    "chapter_id": "c1",
+    "question": "What specific branch of accounting is concerned with identifying, collecting, and allocating detailed operational expenses associated with manufacturing products?",
+    "options": [
+      "Financial Accounting",
+      "Cost Accounting",
+      "Management Accounting",
+      "Forensic Valuation"
+    ],
+    "correct_index": 1,
+    "explanation": "Cost accounting is the branch of accounting that deals with classifying, recording, allocating, and summarizing costs to determine the expense of products or activities.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q24",
+    "chapter_id": "c1",
+    "question": "Which specialized branch of accounting focuses on generating customized financial data and budgets specifically to assist managers in internal planning and control?",
+    "options": [
+      "Financial Accounting",
+      "Management Accounting",
+      "Historical Book-keeping",
+      "Taxation Audit branch"
+    ],
+    "correct_index": 1,
+    "explanation": "Management accounting is concerned with generating accounting information relating to funds, costs, and profits to enable management to make internal decisions.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q25",
+    "chapter_id": "c1",
+    "question": "In accounting terms, what is an economic resource owned by a business enterprise that is expected to provide future benefit or generate cash inflows called?",
+    "options": [
+      "A liability",
+      "An asset",
+      "A voucher",
+      "A capital deficit"
+    ],
+    "correct_index": 1,
+    "explanation": "Assets are economic resources of an enterprise that can be expressed in monetary terms and are expected to provide future benefits to operations.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q26",
+    "chapter_id": "c1",
+    "question": "Assets that are held by an enterprise for long-term production or operational use, rather than for short-term resale or conversion to cash within one year, are called what?",
+    "options": [
+      "Current Assets",
+      "Non-Current Fixed Assets",
+      "Liquid Assets",
+      "Deferred Liabilities"
+    ],
+    "correct_index": 1,
+    "explanation": "Non-current assets are assets held not for resale but for long-term utility in business operations, such as land, buildings, and machinery.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q27",
+    "chapter_id": "c1",
+    "question": "Which of the following represents an 'Intangible Asset' that has value but lacks a physical, touchable form?",
+    "options": [
+      "Delivery truck vans",
+      "Computers and factory equipment",
+      "Goodwill, trademarks and computer software patents",
+      "Office furniture sets"
+    ],
+    "correct_index": 2,
+    "explanation": "Intangible assets are assets that do not have a physical existence but carry financial value, such as patents, trademarks, and goodwill.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q28",
+    "chapter_id": "c1",
+    "question": "What defines 'Current Assets' in terms of their standard lifecycle and conversion expectation?",
+    "options": [
+      "Assets that can never be sold or transferred legally.",
+      "Assets held for a brief period and expected to be converted to cash or consumed within one year.",
+      "Assets that remain locked up in production for at least ten years.",
+      "Assets owned entirely by the government regulators."
+    ],
+    "correct_index": 1,
+    "explanation": "Current assets are those expected to be converted into cash or consumed within a short span, typically twelve months, like cash, inventory, and debtors.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q29",
+    "chapter_id": "c1",
+    "question": "What is an explicit obligation or financial debt owed by a business enterprise to external outsiders or lenders payable at some point in the future called?",
+    "options": [
+      "An asset",
+      "A liability",
+      "A revenue item",
+      "A dynamic drawing vector"
+    ],
+    "correct_index": 1,
+    "explanation": "Liabilities are obligations or debts that an enterprise has to pay at some time in the future to outsiders or creditors.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q30",
+    "chapter_id": "c1",
+    "question": "An obligation or debt that a business enterprise is expected to settle or pay off within a short duration, usually within twelve months, is classified as what?",
+    "options": [
+      "Long-term liability",
+      "Current Liability",
+      "Fixed Asset vector",
+      "Owner's Equity fund"
+    ],
+    "correct_index": 1,
+    "explanation": "Current liabilities are short-term obligations that are expected to be settled within one year, such as accounts payable or short-term loans.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q31",
+    "chapter_id": "c1",
+    "question": "What is the amount of money or value invested into a business enterprise by its actual owner or proprietor to start operations known as?",
+    "options": [
+      "Current Debt",
+      "Capital",
+      "Revenue sales",
+      "Voucher allowance"
+    ],
+    "correct_index": 1,
+    "explanation": "Capital is the amount invested in an enterprise by its owner(s), representing their financial stake or equity in the assets.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q32",
+    "chapter_id": "c1",
+    "question": "What term defines any cash withdrawals or removal of goods from the business by the owner for their personal private use?",
+    "options": [
+      "Capital promotion",
+      "Drawings",
+      "Operational expenditure",
+      "Deferred liability"
+    ],
+    "correct_index": 1,
+    "explanation": "Withdrawal of money and/or goods by the owner from the business for personal use is known as drawings, which reduces their overall capital.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q33",
+    "chapter_id": "c1",
+    "question": "What is the gross inflow of cash, receivables, or other consideration arising in the course of the ordinary activities of an enterprise from the sale of goods or rendering of services called?",
+    "options": [
+      "Expenditure investment",
+      "Revenues",
+      "Capital injections",
+      "Voucher balances"
+    ],
+    "correct_index": 1,
+    "explanation": "Revenues are the gross inflows of cash or receivables resulting from the primary operations of the business, such as sales of merchandise or rendering services.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q34",
+    "chapter_id": "c1",
+    "question": "What is any deliberate spending of money or incurring of a liability to acquire assets, goods, or services classified as?",
+    "options": [
+      "Revenue earnings",
+      "Expenditure",
+      "Drawings allocation",
+      "Discount received"
+    ],
+    "correct_index": 1,
+    "explanation": "Expenditure is the amount spent or liability incurred for acquiring assets, goods, or services to generate benefits.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q35",
+    "chapter_id": "c1",
+    "question": "What term represents the operational cost incurred by a business in the process of earning revenue, such as raw materials used, salaries paid, and depreciation?",
+    "options": [
+      "Capital gains",
+      "Expenses",
+      "Drawings entries",
+      "Voucher values"
+    ],
+    "correct_index": 1,
+    "explanation": "Expenses are the costs incurred by a business in the process of earning revenue, representing resources consumed during operations.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q36",
+    "chapter_id": "c1",
+    "question": "The excess of total revenues over total matching expenses of a business enterprise during a specific accounting year is defined as what?",
+    "options": [
+      "Loss deficit",
+      "Profit",
+      "Capital investment",
+      "Liability expansion"
+    ],
+    "correct_index": 1,
+    "explanation": "Profit is the excess of total revenues over total expenses of a business enterprise during an accounting period.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q37",
+    "chapter_id": "c1",
+    "question": "What is a monetary profit or financial reward resulting from incidental, non-regular activities of a business, such as the sale of a fixed asset like old machinery at a premium price, called?",
+    "options": [
+      "Operating revenue",
+      "Gain",
+      "Sales turnover",
+      "Current voucher"
+    ],
+    "correct_index": 1,
+    "explanation": "A gain is a profit that arises from events or transactions which are incidental to business, such as sale of fixed assets or winning a court case.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q38",
+    "chapter_id": "c1",
+    "question": "If total expenses over an accounting period outstrip and exceed total matching revenues, what is the resulting negative outcome termed as?",
+    "options": [
+      "Capital surge",
+      "Loss",
+      "Gain profile",
+      "Asset promotion"
+    ],
+    "correct_index": 1,
+    "explanation": "Loss is the excess of expenses over matching revenues during an accounting period, or can refer to cash lost in incidental events.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q39",
+    "chapter_id": "c1",
+    "question": "What are total goods, merchandise, or raw materials remaining unsold or unused in a business warehouse at the conclusion of an accounting year called?",
+    "options": [
+      "Current Debtors",
+      "Stock (or Inventory)",
+      "Fixed Liabilities",
+      "Operating Revenues"
+    ],
+    "correct_index": 1,
+    "explanation": "Stock or inventory is a measure of something on hand, such as goods or raw materials remaining unsold or unused at the end of a period.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q40",
+    "chapter_id": "c1",
+    "question": "A person, customer, or separate enterprise who owes money to a business for purchasing goods or services on credit is officially classified as a what?",
+    "options": [
+      "Creditor",
+      "Debtor",
+      "Supplier",
+      "Voucher issuer"
+    ],
+    "correct_index": 1,
+    "explanation": "Debtors are persons and/or other entities who owe to an enterprise an amount for buying goods and services on credit.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q41",
+    "chapter_id": "c1",
+    "question": "An outside individual, firm, or supplier to whom a business owes money for purchasing goods or services on credit is classified as a what?",
+    "options": [
+      "Debtor",
+      "Creditor",
+      "Investor shareholder",
+      "Internal manager"
+    ],
+    "correct_index": 1,
+    "explanation": "Creditors are persons and/or other entities who must be paid by an enterprise for providing goods and services on credit.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q42",
+    "chapter_id": "c1",
+    "question": "What is the formal written documentary evidence or proof that confirms an economic transaction has occurred called?",
+    "options": [
+      "Ledger parameter",
+      "Voucher",
+      "Drawing sheet",
+      "Asset matrix text"
+    ],
+    "correct_index": 1,
+    "explanation": "A voucher is the documentary evidence in support of a business transaction, providing formal proof of an economic exchange.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q43",
+    "chapter_id": "c1",
+    "question": "What term defines a standard deduction or price reduction allowed from the gross list price of goods when sold?",
+    "options": [
+      "Premium surcharge",
+      "Discount",
+      "Operational expense",
+      "Revenue markup"
+    ],
+    "correct_index": 1,
+    "explanation": "Discount is the reduction in the price of goods or from the amount to be paid, allowed by a seller to a buyer.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q44",
+    "chapter_id": "c1",
+    "question": "According to the historical context provided, in what century was the first formal treatise on double-entry book-keeping published by Fra Luca Pacioli?",
+    "options": [
+      "12th Century (1192)",
+      "15th Century (1494)",
+      "18th Century (1776)",
+      "20th Century (1930)"
+    ],
+    "correct_index": 1,
+    "explanation": "The first formal system of double-entry book-keeping was published by Fra Luca Pacioli in the year 1494 in Venice, Italy.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q45",
+    "chapter_id": "c1",
+    "question": "What socio-economic revolution in England catalyzed the expansion of professional accounting by creating corporate structures requiring vast capital investments?",
+    "options": [
+      "The Agricultural Enclosure Movement",
+      "The Industrial Revolution",
+      "The Digital Technology Shift",
+      "The Forensic Reform Era"
+    ],
+    "correct_index": 1,
+    "explanation": "The Industrial Revolution in the 19th century stimulated the development of accounting as ownership separated from management, requiring advanced financial oversight.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q46",
+    "chapter_id": "c1",
+    "question": "The accounting process acts as a crucial communication link that transforms raw transaction data into what final product?",
+    "options": [
+      "System command codes loops",
+      "Structured accounting reports and financial insights for info users",
+      "Raw physical inventory items",
+      "Arbitrary float baseline entries"
+    ],
+    "correct_index": 1,
+    "explanation": "Accounting acts as an information system, taking raw financial data inputs, processing them, and outputting meaningful statements and reports for users.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q47",
+    "chapter_id": "c1",
+    "question": "Which of the following bodies is categorized as an interested 'External User' representing public safety and economic regulation concerns?",
+    "options": [
+      "Corporate Chief Financial Officer",
+      "Government and regulatory agencies (like MCA, SEBI, and Tax departments)",
+      "Internal factory assembly floor managers",
+      "The product development engineers"
+    ],
+    "correct_index": 1,
+    "explanation": "Government and other regulatory bodies are external users who require financial information to ensure compliance with laws, taxation, and economic welfare.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q48",
+    "chapter_id": "c1",
+    "question": "What qualitative trait is violated if an accountant intentionally alters balance parameters to favor one group of stakeholders over another?",
+    "options": [
+      "Understandability attribute",
+      "Neutrality and freedom from bias",
+      "Timeliness criterion",
+      "Materiality framework"
+    ],
+    "correct_index": 1,
+    "explanation": "Reliability demands neutrality, meaning that financial statements must be free from deliberate bias and must not be manipulated to achieve a predetermined result.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q49",
+    "chapter_id": "c1",
+    "question": "When a firm can evaluate its performance metrics directly against an outside competing enterprise in the same industry, it is performing what?",
+    "options": [
+      "Intra-firm comparison",
+      "Inter-firm comparison",
+      "Historical proxy promotion",
+      "Internal code verification"
+    ],
+    "correct_index": 1,
+    "explanation": "Inter-firm comparison is the analysis of financial performance between different distinct enterprises to evaluate relative industry standing.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c1_q50",
+    "chapter_id": "c1",
+    "question": "What core element forms the foundation of accounting records by representing actual goods or services acquired for sale or raw consumption?",
+    "options": [
+      "Vouchers sheets",
+      "Purchases of Purchases/Goods",
+      "Drawings entries",
+      "Capital gains deficit"
+    ],
+    "correct_index": 1,
+    "explanation": "Purchases represent the total value of raw materials or merchandise brought into the firm for secondary processing or direct commercial resale.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "papers": [
+    {
+      "id": 11211,
+      "subjectId": 21,
+      "subjectName": "Accountancy",
+      "year": "2024",
+      "title": "Accountancy Annual 2024 Set 1",
+      "boardName": "NCERT / CBSE",
+      "setNumber": "Set 1",
+      "totalMarks": 80,
+      "durationMins": 180,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/commerce/accountancy/2024_set1.pdf",
+      "fileSizeKb": 1550,
+      "isPremium": false
+    },
+    {
+      "id": 11231,
+      "subjectId": 23,
+      "subjectName": "Business Studies",
+      "year": "2024",
+      "title": "Business Studies Annual 2024 Set 1",
+      "boardName": "NCERT / CBSE",
+      "setNumber": "Set 1",
+      "totalMarks": 80,
+      "durationMins": 180,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/commerce/business_studies/2024_set1.pdf",
+      "fileSizeKb": 1480,
+      "isPremium": false
+    },
+    {
+      "id": 11241,
+      "subjectId": 24,
+      "subjectName": "Economics",
+      "year": "2024",
+      "title": "Economics Annual 2024 Set 1",
+      "boardName": "NCERT / CBSE",
+      "setNumber": "Set 1",
+      "totalMarks": 80,
+      "durationMins": 180,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/commerce/economics/2024_set1.pdf",
+      "fileSizeKb": 1620,
+      "isPremium": false
+    }
+  ]
+}
