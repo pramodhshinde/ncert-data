@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "com_q01",
+    "chapter_id": "c11",
+    "question": "Who is the poet of the poem 'Coming'?",
+    "options": ["William Shakespeare", "Sujata Bhatt", "Philip Larkin", "Arundhati Roy"],
+    "correct_index": 2,
+    "explanation": "The poem 'Coming' is written by the English poet Philip Larkin.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q02",
+    "chapter_id": "c11",
+    "question": "The poem describes the transition into which season?",
+    "options": ["Autumn", "Winter", "Spring", "Summer"],
+    "correct_index": 2,
+    "explanation": "The poem explicitly states, 'It will be spring soon'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q03",
+    "chapter_id": "c11",
+    "question": "On what kind of evenings does the light 'bathe the serene foreheads of houses'?",
+    "options": ["Shorter evenings", "Longer evenings", "Rainy evenings", "Dark evenings"],
+    "correct_index": 1,
+    "explanation": "The poem opens with the line, 'On longer evenings'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q04",
+    "chapter_id": "c11",
+    "question": "What colors are used to describe the light in the first stanza?",
+    "options": ["Red and orange", "Blue and grey", "Chill and yellow", "Bright and white"],
+    "correct_index": 2,
+    "explanation": "The light is described as 'chill and yellow'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q05",
+    "chapter_id": "c11",
+    "question": "Which bird is mentioned as singing in the 'deep bare garden'?",
+    "options": ["A nightingale", "A thrush", "A peacock", "A sparrow"],
+    "correct_index": 1,
+    "explanation": "The poem says, 'A thrush sings, Laurel-surrounded'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q06",
+    "chapter_id": "c11",
+    "question": "The thrush's voice is described using which unusual metaphor?",
+    "options": ["Fresh-peeled", "Golden-toned", "Sharp-edged", "Deep-echoing"],
+    "correct_index": 0,
+    "explanation": "Larkin uses the phrase 'fresh-peeled voice' to describe the thrush.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q07",
+    "chapter_id": "c11",
+    "question": "The bird's voice is said to be 'astonishing' which part of the house?",
+    "options": ["The windows", "The roof", "The brickwork", "The door"],
+    "correct_index": 2,
+    "explanation": "The poem states the voice is 'Astonishing the brickwork'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q08",
+    "chapter_id": "c11",
+    "question": "How does the speaker describe their own childhood?",
+    "options": ["A joyous memory", "A forgotten boredom", "A painful struggle", "A magical time"],
+    "correct_index": 1,
+    "explanation": "The speaker says, 'And I, whose childhood / Is a forgotten boredom'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q09",
+    "chapter_id": "c11",
+    "question": "The speaker feels like a child coming onto a scene of:",
+    "options": ["Adult conflict", "Adult reconciling", "A birthday party", "A funeral"],
+    "correct_index": 1,
+    "explanation": "The speaker compares their feeling to a child witnessing 'adult reconciling'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q10",
+    "chapter_id": "c11",
+    "question": "What is the only thing the 'child' (speaker) can understand in this scene?",
+    "options": ["The complex words", "The weather", "The unusual laughter", "The reason for the fight"],
+    "correct_index": 2,
+    "explanation": "The text says the speaker 'can understand nothing / But the unusual laughter'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q11",
+    "chapter_id": "c11",
+    "question": "What is the final emotion the speaker expresses at the end of the poem?",
+    "options": ["Boredom", "Sadness", "Starts to be happy", "Confusion"],
+    "correct_index": 2,
+    "explanation": "The poem ends with the line, 'And starts to be happy'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q12",
+    "chapter_id": "c11",
+    "question": "Philip Larkin was a leader of which group in English Poetry in the fifties?",
+    "options": ["The Romantics", "The Movement", "The Modernists", "The Surrealists"],
+    "correct_index": 1,
+    "explanation": "He is well-known as a leader of 'Movement' in English Poetry.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q13",
+    "chapter_id": "c11",
+    "question": "From which volume of Larkin's poetry is 'Coming' taken?",
+    "options": ["The North Ship", "High Windows", "The Less Deceived", "The Whitsun Weddings"],
+    "correct_index": 2,
+    "explanation": "The poem has been taken from the volume 'The Less Deceived'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q14",
+    "chapter_id": "c11",
+    "question": "Where was Philip Larkin born?",
+    "options": ["London", "Coventry", "Oxford", "Stratford"],
+    "correct_index": 1,
+    "explanation": "Philip Larkin was born in Coventry, England.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q15",
+    "chapter_id": "c11",
+    "question": "Which of the following is NOT a theme mentioned in Larkin's work?",
+    "options": ["Love and change", "Death's inevitability", "Space exploration", "Disenchantment"],
+    "correct_index": 2,
+    "explanation": "Themes mentioned are love, change, disenchantment, mystery, and death.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q16",
+    "chapter_id": "c11",
+    "question": "What does the thrush being 'Laurel-surrounded' imply about the setting?",
+    "options": ["It is in a forest", "It is in a suburban or domestic garden", "It is on a mountain", "It is at sea"],
+    "correct_index": 1,
+    "explanation": "Laurel bushes are common in English gardens, fitting the 'deep bare garden' description.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q17",
+    "chapter_id": "c11",
+    "question": "The phrase 'serene foreheads of houses' is an example of:",
+    "options": ["Simile", "Personification", "Onomatopoeia", "Alliteration"],
+    "correct_index": 1,
+    "explanation": "Attributing a 'forehead' and 'serenity' to houses is personification.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q18",
+    "chapter_id": "c11",
+    "question": "The repetition of 'It will be spring soon' emphasizes:",
+    "options": ["The poet's boredom", "Anticipation and the certainty of nature", "The bird's hunger", "The coldness of winter"],
+    "correct_index": 1,
+    "explanation": "The repetition reinforces the announcement of the coming season.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q19",
+    "chapter_id": "c11",
+    "question": "What is a 'Haiku' according to the document's additional section?",
+    "options": ["A 14-line poem", "A Japanese three-line poem", "A humorous 5-line poem", "A narrative ballad"],
+    "correct_index": 1,
+    "explanation": "Haiku is defined as a Japanese three-line poem expressing a single thought.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q20",
+    "chapter_id": "c11",
+    "question": "How many syllables are usually in a traditional Haiku?",
+    "options": ["10", "14", "17", "21"],
+    "correct_index": 2,
+    "explanation": "A Haiku usually has 17 syllables.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q21",
+    "chapter_id": "c11",
+    "question": "In the provided Haiku 'COBRA', what does the 'jewelled crown' represent?",
+    "options": ["Actual jewels", "The snake's hood", "A king", "A trap"],
+    "correct_index": 1,
+    "explanation": "The 'jewelled crown' refers to the markings and head of the cobra.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q22",
+    "chapter_id": "c11",
+    "question": "The Haiku 'NIGHT' mentions that clouds bring a chance to rest while looking at:",
+    "options": ["The sun", "The stars", "The moon", "The rain"],
+    "correct_index": 2,
+    "explanation": "The Haiku ends with the phrase 'looking at the moon'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q23",
+    "chapter_id": "c11",
+    "question": "What feeling does the 'chill and yellow' light evoke?",
+    "options": ["Extreme heat", "A sense of late winter/early spring coolness", "Terror", "Blindness"],
+    "correct_index": 1,
+    "explanation": "Yellow light is associated with the evening sun, and 'chill' with the temperature of the season.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q24",
+    "chapter_id": "c11",
+    "question": "The 'deep bare garden' suggests that nature is:",
+    "options": ["Lush and green", "Just beginning to wake up from winter", "Completely dead", "Full of summer fruit"],
+    "correct_index": 1,
+    "explanation": "'Bare' implies the lack of leaves or flowers before spring fully arrives.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q25",
+    "chapter_id": "c11",
+    "question": "The speaker's comparison to a child witnessing 'adult reconciling' suggests that spring is:",
+    "options": ["A time of war", "A time of restoration and healing", "A time of confusion", "A time of sleeping"],
+    "correct_index": 1,
+    "explanation": "Reconciling implies putting aside differences and starting fresh, much like spring.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q26",
+    "chapter_id": "c11",
+    "question": "In what year did Philip Larkin die?",
+    "options": ["1922", "1950", "1985", "2000"],
+    "correct_index": 2,
+    "explanation": "Larkin lived from 1922 to 1985.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q27",
+    "chapter_id": "c11",
+    "question": "What does 'Movement' refer to in the context of Larkin's biography?",
+    "options": ["A dance step", "A trend in English Poetry in the fifties", "A political party", "A migration of birds"],
+    "correct_index": 1,
+    "explanation": "Larkin is described as a leader of the 'Movement' in poetry.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q28",
+    "chapter_id": "c11",
+    "question": "The word 'reconciling' means:",
+    "options": ["Fighting again", "Restoring friendly relations", "Forgetting everything", "Running away"],
+    "correct_index": 1,
+    "explanation": "To reconcile is to resolve differences.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q29",
+    "chapter_id": "c11",
+    "question": "The thrush is a type of:",
+    "options": ["Flower", "Bird", "Tree", "Building material"],
+    "correct_index": 1,
+    "explanation": "The thrush is the bird singing in the garden.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q30",
+    "chapter_id": "c11",
+    "question": "Why might the bird's voice be 'astonishing the brickwork'?",
+    "options": ["It is too loud", "It breaks the silence of the winter garden", "The bricks are falling", "The bird is hitting the house"],
+    "correct_index": 1,
+    "explanation": "The vibrancy of the song contrasts with the stillness of the urban structure.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q31",
+    "chapter_id": "c11",
+    "question": "The 'longer evenings' indicate that:",
+    "options": ["The sun is setting earlier", "The days are getting longer as winter ends", "It is midnight", "Time has stopped"],
+    "correct_index": 1,
+    "explanation": "Longer daylight hours are a hallmark of approaching spring.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q32",
+    "chapter_id": "c11",
+    "question": "Larkin's themes include the 'inexplicableness' of which event?",
+    "options": ["The poet's survival", "The industrial revolution", "World War II", "Marriage"],
+    "correct_index": 0,
+    "explanation": "Larkin explores the 'inexplicableness of the poet's survival'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q33",
+    "chapter_id": "c11",
+    "question": "Which work by Larkin is NOT mentioned in the text?",
+    "options": ["The North Ship", "The Waste Land", "High Windows", "The Whitsun Weddings"],
+    "correct_index": 1,
+    "explanation": "'The Waste Land' is by T.S. Eliot; the others are by Larkin.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q34",
+    "chapter_id": "c11",
+    "question": "The light 'bathes' the houses. This verb suggests the light is:",
+    "options": ["Harsh", "Soaking or covering everything gently", "Dirty", "Hidden"],
+    "correct_index": 1,
+    "explanation": "To bathe something in light means to envelope it.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q35",
+    "chapter_id": "c11",
+    "question": "In the Haiku 'COBRA', what is the warning given?",
+    "options": ["The snake is sleeping", "Beware the lethal fangs", "The crown is stolen", "Don't look at the jewels"],
+    "correct_index": 1,
+    "explanation": "The Haiku says, 'beware the lethal fangs'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q36",
+    "chapter_id": "c11",
+    "question": "Larkin's poetry volume 'The Less Deceived' establishes a kinship with:",
+    "options": ["Politics", "The environment", "Ancient history", "Science"],
+    "correct_index": 1,
+    "explanation": "The text states the volume 'establishes a kinship with the environment'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q37",
+    "chapter_id": "c11",
+    "question": "The laughter in the 'adult reconciling' scene is described as:",
+    "options": ["Normal", "Loud", "Unusual", "Angry"],
+    "correct_index": 2,
+    "explanation": "The poem uses the adjective 'unusual'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q38",
+    "chapter_id": "c11",
+    "question": "The 'child' in the final lines understands ________ about the scene.",
+    "options": ["Everything", "Nothing (except the laughter)", "The date", "The location"],
+    "correct_index": 1,
+    "explanation": "The poem states, 'And can understand nothing'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q39",
+    "chapter_id": "c11",
+    "question": "A 'laurel' is most likely a type of:",
+    "options": ["Building", "Shrub or tree", "Bird", "Cloud"],
+    "correct_index": 1,
+    "explanation": "Laurel is a plant often found in gardens.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q40",
+    "chapter_id": "c11",
+    "question": "Which decade was Philip Larkin's leader of 'Movement' prominent?",
+    "options": ["Forties", "Fifties", "Sixties", "Eighties"],
+    "correct_index": 1,
+    "explanation": "The text specifies 'in the fifties'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q41",
+    "chapter_id": "c11",
+    "question": "The 'fresh-peeled' voice suggests a sound that is:",
+    "options": ["Muffled", "Raw, vibrant, and new", "Old and tired", "Artificially made"],
+    "correct_index": 1,
+    "explanation": "It evokes the idea of something new and stripped of winter's dullness.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q42",
+    "chapter_id": "c11",
+    "question": "The laughter of the adults is 'unusual' because:",
+    "options": ["They are crying", "It replaces previous tension or silence", "They are tickling each other", "They are in a library"],
+    "correct_index": 1,
+    "explanation": "In 'reconciling', laughter marks the end of a conflict, making it distinct.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q43",
+    "chapter_id": "c11",
+    "question": "What two things are compared in the poem according to the study question?",
+    "options": ["Bird and House", "Light and Water", "Approaching Spring and Adult Reconciling", "Boredom and Laughter"],
+    "correct_index": 2,
+    "explanation": "The poem draws an analogy between the arrival of spring and a domestic scene of reconciliation.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q44",
+    "chapter_id": "c11",
+    "question": "Is the thrush's voice 'surrounded' by anything?",
+    "options": ["Other birds", "Laurel", "Water", "People"],
+    "correct_index": 1,
+    "explanation": "The poem describes the thrush as 'Laurel-surrounded'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q45",
+    "chapter_id": "c11",
+    "question": "The poem 'Coming' title refers to:",
+    "options": ["A person arriving at a house", "The arrival of Spring", "A train coming", "The end of the world"],
+    "correct_index": 1,
+    "explanation": "The poem focuses on the anticipation of the next season.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q46",
+    "chapter_id": "c11",
+    "question": "The adjective 'bare' is used to describe the garden to show:",
+    "options": ["It is summer", "It is still devoid of growth from winter", "It is a desert", "It has no walls"],
+    "correct_index": 1,
+    "explanation": "Bareness highlights the state of the garden before spring bloom.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q47",
+    "chapter_id": "c11",
+    "question": "Larkin's poetry is described as being 'universally liked' by:",
+    "options": ["Only critics", "Readers", "Only other poets", "Children"],
+    "correct_index": 1,
+    "explanation": "The text says his themes are 'universally liked by the readers'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q48",
+    "chapter_id": "c11",
+    "question": "In the Haiku 'COBRA', the cobra 'enthrals' with its 'hypnotic' ________.",
+    "options": ["Fangs", "Sway", "Crown", "Eyes"],
+    "correct_index": 1,
+    "explanation": "The Haiku mentions 'hypnotic sway enthral'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q49",
+    "chapter_id": "c11",
+    "question": "What time of day is evoked by 'Light, chill and yellow'?",
+    "options": ["Dawn", "Noon", "Late afternoon/Evening", "Midnight"],
+    "correct_index": 2,
+    "explanation": "Longer evenings imply late day light.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "com_q50",
+    "chapter_id": "c11",
+    "question": "The word 'forgotten' in 'forgotten boredom' suggests the speaker has ________ their childhood feelings.",
+    "options": ["Cherished", "Distant or suppressed", "Never had", "Recorded"],
+    "correct_index": 1,
+    "explanation": "It implies a lack of connection or warmth toward that period of life.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  }
+]

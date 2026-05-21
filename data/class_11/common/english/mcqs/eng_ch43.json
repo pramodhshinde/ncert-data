@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "ts_q01",
+    "chapter_id": "c26",
+    "question": "Who is the author of the essay 'The Story'?",
+    "options": ["E.M. Forster", "Percy Lubbock", "John Ruskin", "Virginia Woolf"],
+    "correct_index": 0,
+    "explanation": "The essay is written by E.M. Forster, a famous British novelist and essayist.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q02",
+    "chapter_id": "c26",
+    "question": "The essay is an extract from which famous book of literary criticism by Forster?",
+    "options": ["A Passage to India", "Aspects of the Novel", "Howards End", "The Craft of Fiction"],
+    "correct_index": 1,
+    "explanation": "The text is an extract from 'Aspects of the Novel'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q03",
+    "chapter_id": "c26",
+    "question": "According to Forster, what is the fundamental aspect of the novel?",
+    "options": ["Character development", "Story-telling", "Political themes", "Social satire"],
+    "correct_index": 1,
+    "explanation": "Forster states that the fundamental aspect of the novel is its story-telling aspect.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q04",
+    "chapter_id": "c26",
+    "question": "The man Forster visualises on a 'golf-course' has which attitude toward the story?",
+    "options": ["Placid and vague", "Aggressive and brisk", "Drooping and regretful", "Bored and indifferent"],
+    "correct_index": 1,
+    "explanation": "The second voice belongs to an aggressive and brisk man who likes a story for the sake of the story.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q05",
+    "chapter_id": "c26",
+    "question": "Which speaker does Forster admit to detesting because they admit a story is necessary with regret?",
+    "options": ["The first speaker", "The second speaker", "The third speaker", "The fourth speaker"],
+    "correct_index": 2,
+    "explanation": "He detests the third speaker who says 'Yes-oh dear yes-the novel tells a story' with a drooping voice.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q06",
+    "chapter_id": "c26",
+    "question": "Forster compares the story to which part of the human anatomy to show its necessity?",
+    "options": ["The heart", "The brain", "The backbone", "The skin"],
+    "correct_index": 2,
+    "explanation": "He describes the story as the 'backbone' of the novel, even if it is a 'low and atavistic form'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q07",
+    "chapter_id": "c26",
+    "question": "What is the basic definition of a story according to the essay?",
+    "options": ["A collection of moral lessons", "A narrative of events arranged in their time-sequence", "A series of complex characters", "A set of political arguments"],
+    "correct_index": 1,
+    "explanation": "A story is defined as a narrative of events arranged in time-sequence.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q08",
+    "chapter_id": "c26",
+    "question": "Who is the famous narrator from 'The Thousand and One Nights' used as an example of a story-teller?",
+    "options": ["Sinbad", "Scheherazade", "Aladdin", "Ali Baba"],
+    "correct_index": 1,
+    "explanation": "Scheherazade is mentioned as the legendary narrator who saved her life by telling stories to the King.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q09",
+    "chapter_id": "c26",
+    "question": "Why did Scheherazade tell stories to the King?",
+    "options": ["To entertain her children", "To save her life from being executed at dawn", "To win a prize", "To teach him history"],
+    "correct_index": 1,
+    "explanation": "She tell stories to keep the King curious so he would delay her execution.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q10",
+    "chapter_id": "c26",
+    "question": "Forster describes the primitive audience for stories as ________.",
+    "options": ["Scholars", "Shock-heads", "Kings", "Students"],
+    "correct_index": 1,
+    "explanation": "He visualizes primitive audiences as 'shock-heads' sitting around a fire.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q11",
+    "chapter_id": "c26",
+    "question": "What is the only question a story, as such, can answer?",
+    "options": ["'Why?'", "'And then?'", "'Where?'", "'Who?'"],
+    "correct_index": 1,
+    "explanation": "A story can only answer the question 'And then?', which is the query of curiosity.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q12",
+    "chapter_id": "c26",
+    "question": "According to Forster, the only merit of a story is its ability to make the audience want to know:",
+    "options": ["The moral", "What happens next", "The character's name", "The setting"],
+    "correct_index": 1,
+    "explanation": "The merit is keeping the reader interested in the sequence of events.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q13",
+    "chapter_id": "c26",
+    "question": "Forster says that while 'The Story' is a low form, it supports ________.",
+    "options": ["Finer growths", "Financial gain", "Political power", "Scientific facts"],
+    "correct_index": 0,
+    "explanation": "He argues that the simple story supports more complex artistic elements in a novel.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q14",
+    "chapter_id": "c26",
+    "question": "The term 'atavistic' as used in the essay refers to:",
+    "options": ["Something futuristic", "A characteristic of a remote ancestor (primitive)", "A complex writing style", "A type of bird"],
+    "correct_index": 1,
+    "explanation": "Forster uses 'atavistic' to describe the ancient, primitive roots of story-telling.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q15",
+    "chapter_id": "c26",
+    "question": "Which of the following does Forster identify as the 'organism' of the novel?",
+    "options": ["The Paper", "The Story", "The Library", "The Critic"],
+    "correct_index": 1,
+    "explanation": "He treats the novel as an organism with the story as its essential support system.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q16",
+    "chapter_id": "c26",
+    "question": "What happens to the primitive listener if the story-teller stops?",
+    "options": ["He goes to sleep", "He kills the story-teller", "He starts singing", "He leaves the fire"],
+    "correct_index": 1,
+    "explanation": "Forster notes that in primitive times, the listener would kill the speaker if they failed to keep up the interest.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q17",
+    "chapter_id": "c26",
+    "question": "E.M. Forster is famous for his novel set in India called:",
+    "options": ["The Story", "A Passage to India", "The Guide", "Train to Pakistan"],
+    "correct_index": 1,
+    "explanation": "While 'The Story' is an essay, 'A Passage to India' is his most famous novel.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q18",
+    "chapter_id": "c26",
+    "question": "The essay suggests that curiosity is the '________' of the audience.",
+    "options": ["Only tool", "Lowest human faculty", "Highest virtue", "Secret weapon"],
+    "correct_index": 1,
+    "explanation": "Curiosity is linked to the basic, almost mindless level of story interest.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q19",
+    "chapter_id": "c26",
+    "question": "Which author is mentioned in the discussion of time and values?",
+    "options": ["Emily Bronte", "Virginia Woolf", "Charles Dickens", "Leo Tolstoy"],
+    "correct_index": 0,
+    "explanation": "Emily Bronte is mentioned in the 'Appreciation' section regarding the treatment of time.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q20",
+    "chapter_id": "c26",
+    "question": "Forster says that our daily life reflects a double allegiance to 'the life in time' and:",
+    "options": ["The life by values", "The life in dreams", "The life in books", "The life in society"],
+    "correct_index": 0,
+    "explanation": "We exist both in the sequence of time and in the context of personal values.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q21",
+    "chapter_id": "c26",
+    "question": "What is the meaning of 'ingenious' in the context of Scheherazade?",
+    "options": ["Honest", "Clever and inventive", "Old", "Rich"],
+    "correct_index": 1,
+    "explanation": "Scheherazade was ingenious in how she linked her stories to stay alive.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q22",
+    "chapter_id": "c26",
+    "question": "The king in 'The Thousand and One Nights' was named:",
+    "options": ["Sultan", "Shahryar", "Akbar", "Harun al-Rashid"],
+    "correct_index": 1,
+    "explanation": "The essay refers to the King who was kept in suspense by Scheherazade.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q23",
+    "chapter_id": "c26",
+    "question": "Forster states that if we do not agree that the novel tells a story, we are '________'.",
+    "options": ["Wise", "Fools", "Not listening", "Mad"],
+    "correct_index": 3,
+    "explanation": "He says even if we dislike the fact, we cannot deny the novel's storytelling nature.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q24",
+    "chapter_id": "c26",
+    "question": "What does the first speaker (motor-bus driver type) represent?",
+    "options": ["The literary critic", "The casual, unrefined reader", "The intellectual elite", "The professional writer"],
+    "correct_index": 1,
+    "explanation": "He is good-tempered, vague, and doesn't pay much attention to art.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q25",
+    "chapter_id": "c26",
+    "question": "The aggressive man likes a story to be '________'.",
+    "options": ["A story, mind", "Artistic", "Long", "Short"],
+    "correct_index": 0,
+    "explanation": "He wants a straightforward narrative without 'artistic' distractions.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q26",
+    "chapter_id": "c26",
+    "question": "Forster compares the novel to a '________' in terms of its varied aspects.",
+    "options": ["Building", "Machine", "Organism", "Flower"],
+    "correct_index": 2,
+    "explanation": "He views the novel as a living, integrated entity.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q27",
+    "chapter_id": "c26",
+    "question": "In the phrase 'qua story', what does 'qua' mean?",
+    "options": ["Before", "In the capacity of / as", "After", "Against"],
+    "correct_index": 1,
+    "explanation": "The word 'qua' is used to evaluate the novel specifically 'as' a story.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q28",
+    "chapter_id": "c26",
+    "question": "Scheherazade's stories are described as having a '________' effect on the King.",
+    "options": ["Hypnotic", "Suspenseful", "Boring", "Angry"],
+    "correct_index": 1,
+    "explanation": "Curiosity about the next event kept him from killing her.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q29",
+    "chapter_id": "c26",
+    "question": "The 'shock-heads' are listeners from which era?",
+    "options": ["Victorian", "Medieval", "Neolithic/Primitive", "Modern"],
+    "correct_index": 2,
+    "explanation": "They represent the earliest humans listening to tales.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q30",
+    "chapter_id": "c26",
+    "question": "Forster says that a story is the '________' element of the novel.",
+    "options": ["Highest", "Lowest", "Optional", "Newest"],
+    "correct_index": 1,
+    "explanation": "He admits it is a low form compared to other artistic aspects, yet essential.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q31",
+    "chapter_id": "c26",
+    "question": "What happens at 'dawn' in the story of Scheherazade?",
+    "options": ["She starts a new story", "Execution of a wife would normally occur", "They go to sleep", "The King goes to war"],
+    "correct_index": 1,
+    "explanation": "The King usually executed his wives at dawn.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q32",
+    "chapter_id": "c26",
+    "question": "Curiosity is described as '________' but effective.",
+    "options": ["Intelligent", "Mindless/Fundamental", "Complex", "Modern"],
+    "correct_index": 1,
+    "explanation": "It is the most basic reaction to a narrative.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q33",
+    "chapter_id": "c26",
+    "question": "Forster believes that even if we are 'highly ________', we still want to know what happens next.",
+    "options": ["Rich", "Educated/Cultivated", "Angry", "Tired"],
+    "correct_index": 1,
+    "explanation": "The primitive pull of the story affects everyone.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q34",
+    "chapter_id": "c26",
+    "question": "The phrase 'oh dear yes' shows a sense of ________ in the third speaker.",
+    "options": ["Joy", "Reluctance/Regret", "Fear", "Pride"],
+    "correct_index": 1,
+    "explanation": "The third speaker finds the story a tedious but necessary part of the novel.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q35",
+    "chapter_id": "c26",
+    "question": "Forster's 'Aspects of the Novel' was originally a series of:",
+    "options": ["Letters", "Lectures", "Poems", "Radio plays"],
+    "correct_index": 1,
+    "explanation": "They were delivered as talks at Cambridge.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q36",
+    "chapter_id": "c26",
+    "question": "The motor-bus driver speaker is described as:",
+    "options": ["Vague and good-tempered", "Brilliant and sharp", "Sad and lonely", "Angry and loud"],
+    "correct_index": 0,
+    "explanation": "His response is placid and non-committal.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q37",
+    "chapter_id": "c26",
+    "question": "What 'merit' do most people want in a novel according to the aggressive speaker?",
+    "options": ["A good story", "High art", "Beautiful language", "Historical truth"],
+    "correct_index": 0,
+    "explanation": "He values the story above all other 'literary' qualities.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q38",
+    "chapter_id": "c26",
+    "question": "The 'backbone' metaphor suggests that without the story, the novel would:",
+    "options": ["Fly", "Collapse", "Shine", "Be better"],
+    "correct_index": 1,
+    "explanation": "The story provides the necessary structure.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q39",
+    "chapter_id": "c26",
+    "question": "Who does the aggessive speaker say 'is the same' as him in liking a good story?",
+    "options": ["His boss", "His wife", "The King", "The critic"],
+    "correct_index": 1,
+    "explanation": "He says 'And I like a story to be a story, mind, and my wife's the same.'",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q40",
+    "chapter_id": "c26",
+    "question": "Forster traces the human interest in the story back to ________ times.",
+    "options": ["Modern", "Medieval", "Primitive/Ancient", "Future"],
+    "correct_index": 2,
+    "explanation": "The urge to hear a sequence of events is primal.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q41",
+    "chapter_id": "c26",
+    "question": "What kind of voice does the third speaker have?",
+    "options": ["Aggressive", "Placid", "Drooping and regretful", "Brisk"],
+    "correct_index": 2,
+    "explanation": "He speaks with a 'drooping regretful voice'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q42",
+    "chapter_id": "c26",
+    "question": "A story is a 'narrative of ________'.",
+    "options": ["Words", "Events", "Theories", "Pictures"],
+    "correct_index": 1,
+    "explanation": "The text uses 'events' in its formal definition.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q43",
+    "chapter_id": "c26",
+    "question": "Forster says that storytelling is a '________ and atavistic' aspect.",
+    "options": ["High", "Low", "Recent", "Complex"],
+    "correct_index": 1,
+    "explanation": "He uses the word 'low' to contrast it with higher artistic elements.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q44",
+    "chapter_id": "c26",
+    "question": "Scheherazade is a character from which collection of stories?",
+    "options": ["The Canterbury Tales", "The Decameron", "The Thousand and One Nights", "Grimm's Fairy Tales"],
+    "correct_index": 2,
+    "explanation": "Her name is synonymous with this famous Persian/Arabic collection.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q45",
+    "chapter_id": "c26",
+    "question": "The motor-bus driver pays 'no more attention to literature than it ________'.",
+    "options": ["Needs", "Merits", "Wants", "Costs"],
+    "correct_index": 1,
+    "explanation": "He is a purely functional, non-literary reader.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q46",
+    "chapter_id": "c26",
+    "question": "What 'merit' does a novel possess if it has a good story?",
+    "options": ["Truth", "Utility", "The merit of curiosity", "None"],
+    "correct_index": 2,
+    "explanation": "Curiosity is the engine of the story form.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q47",
+    "chapter_id": "c26",
+    "question": "The Aggressive speaker tells the 'intellectuals' they can take their ________.",
+    "options": ["Art, literature, and music", "Money and fame", "Books and pens", "Golf clubs"],
+    "correct_index": 0,
+    "explanation": "He rejects traditional artistic categories for the pure story.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q48",
+    "chapter_id": "c26",
+    "question": "Forster says 'We shall all ________' that the fundamental aspect is the story.",
+    "options": ["Disagree", "Agree", "Forget", "Argue"],
+    "correct_index": 1,
+    "explanation": "Agreement on the story's importance is the starting point of the essay.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q49",
+    "chapter_id": "c26",
+    "question": "The essay is located in which section of the textbook?",
+    "options": ["Short Stories", "Poetry", "Essays", "Drama"],
+    "correct_index": 2,
+    "explanation": "It is unit 6 of the 'Essays' section.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ts_q50",
+    "chapter_id": "c26",
+    "question": "Which word from the context means 'ancient or ancestral'?",
+    "options": ["Atavistic", "Ingenious", "Shock-heads", "Fundamental"],
+    "correct_index": 0,
+    "explanation": "Atavistic is defined in the context as related to early ancestors.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  }
+]

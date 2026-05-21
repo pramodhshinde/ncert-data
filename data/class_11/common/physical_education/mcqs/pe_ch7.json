@@ -1,0 +1,18 @@
+[
+  {
+    "mcq_id": "pe_ch7_q01",
+    "chapter_id": "pe_ch7",
+    "question": "Which test measures cardiovascular endurance?",
+    "options": [
+      "Sit and reach test",
+      "Cooper 12-minute run test",
+      "Standing broad jump",
+      "Grip strength test"
+    ],
+    "correct_index": 1,
+    "explanation": "The Cooper 12-minute run test measures cardiovascular (aerobic) endurance.",
+    "ncert_page": 1,
+    "difficulty": "EASY",
+    "subject": "Physical Education"
+  }
+]

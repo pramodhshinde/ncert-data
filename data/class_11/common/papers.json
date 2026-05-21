@@ -1,0 +1,32 @@
+{
+  "papers": [
+    {
+      "id": 11311,
+      "subjectId": 31,
+      "subjectName": "English",
+      "year": "2024",
+      "title": "English Annual 2024 Set 1",
+      "boardName": "NCERT / CBSE",
+      "setNumber": "Set 1",
+      "totalMarks": 80,
+      "durationMins": 180,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/common/english/2024_set1.pdf",
+      "fileSizeKb": 1500,
+      "isPremium": false
+    },
+    {
+      "id": 11331,
+      "subjectId": 33,
+      "subjectName": "Hindi",
+      "year": "2024",
+      "title": "Hindi Annual 2024 Set 1",
+      "boardName": "NCERT / CBSE",
+      "setNumber": "Set 1",
+      "totalMarks": 80,
+      "durationMins": 180,
+      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/common/hindi/2024_set1.pdf",
+      "fileSizeKb": 1580,
+      "isPremium": false
+    }
+  ]
+}

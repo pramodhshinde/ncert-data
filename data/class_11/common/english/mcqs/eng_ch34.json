@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "rb_q01",
+    "chapter_id": "c17",
+    "question": "Who is the poet of 'Refugee Blues'?",
+    "options": ["W.B. Yeats", "W.H. Auden", "T.S. Eliot", "Stephen Spender"],
+    "correct_index": 1,
+    "explanation": "The poem 'Refugee Blues' is written by Wystan Hugh Auden (W.H. Auden).",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q02",
+    "chapter_id": "c17",
+    "question": "W.H. Auden was a Professor of Poetry at which university?",
+    "options": ["Cambridge University", "London University", "Oxford University", "Harvard University"],
+    "correct_index": 2,
+    "explanation": "Auden was a student and later a Professor of Poetry at Oxford University.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q03",
+    "chapter_id": "c17",
+    "question": "What is the primary theme of 'Refugee Blues'?",
+    "options": ["The beauty of nature", "The joy of travel", "The plight of Jewish refugees during the Holocaust", "The history of European cities"],
+    "correct_index": 2,
+    "explanation": "The poem depicts the suffering and displacement of Jewish refugees fleeing Nazi Germany.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q04",
+    "chapter_id": "c17",
+    "question": "The city mentioned in the first stanza is said to have how many 'souls'?",
+    "options": ["One million", "Five million", "Ten million", "A hundred thousand"],
+    "correct_index": 2,
+    "explanation": "The poem begins: 'Say this city has ten million souls'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q05",
+    "chapter_id": "c17",
+    "question": "In the city, while some live in mansions, where do others live?",
+    "options": ["In parks", "In holes", "In factories", "In tents"],
+    "correct_index": 1,
+    "explanation": "The poet contrasts those in 'mansions' with those 'living in holes'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q06",
+    "chapter_id": "c17",
+    "question": "What does the poet suggest the reader look at to find their old country?",
+    "options": ["A history book", "The newspaper", "An atlas", "A globe"],
+    "correct_index": 2,
+    "explanation": "The text says: 'Look in the atlas and you'll find it there'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q07",
+    "chapter_id": "c17",
+    "question": "What tree grows in the village churchyard that blossoms anew every spring?",
+    "options": ["Oak", "Pine", "Yew", "Maple"],
+    "correct_index": 2,
+    "explanation": "The poet mentions: 'In the village churchyard there grows an old yew'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q08",
+    "chapter_id": "c17",
+    "question": "The yew tree is contrasted with what object that cannot blossom or renew itself?",
+    "options": ["Old passports", "Rusty keys", "Broken clocks", "Tattered clothes"],
+    "correct_index": 0,
+    "explanation": "The poet laments that 'Old passports can't do that' (blossom anew).",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q09",
+    "chapter_id": "c17",
+    "question": "According to the consul, what are you if you have no passport?",
+    "options": ["An illegal alien", "Officially dead", "A traveler", "A ghost"],
+    "correct_index": 1,
+    "explanation": "The consul tells the narrator: 'If you've got no passport you're officially dead'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q10",
+    "chapter_id": "c17",
+    "question": "When the speaker goes to a committee, when are they asked to return?",
+    "options": ["Tomorrow", "Next week", "Next year", "Never"],
+    "correct_index": 2,
+    "explanation": "The committee asked him 'politely to return next year'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q11",
+    "chapter_id": "c17",
+    "question": "What does the speaker at the public meeting claim the refugees will steal?",
+    "options": ["Jobs", "Houses", "Daily bread", "Money"],
+    "correct_index": 2,
+    "explanation": "The speaker says: 'If we let them in, they will steal our daily bread'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q12",
+    "chapter_id": "c17",
+    "question": "Who is the 'thunder rumbling in the sky' representing in the poem?",
+    "options": ["A storm", "Hitler over Europe", "A war tank", "God's anger"],
+    "correct_index": 1,
+    "explanation": "The poet writes: 'It was Hitler over Europe, saying: \"they must die\"'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q13",
+    "chapter_id": "c17",
+    "question": "Which animal did the speaker see wearing a jacket fastened with a pin?",
+    "options": ["A cat", "A poodle", "A monkey", "A horse"],
+    "correct_index": 1,
+    "explanation": "The poem mentions: 'Saw a poodle in a jacket fastened with a pin'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q14",
+    "chapter_id": "c17",
+    "question": "What did the speaker see the door opened for, which highlighted their own exclusion?",
+    "options": ["A rich man", "A cat", "A soldier", "A child"],
+    "correct_index": 1,
+    "explanation": "The poet notes: 'Saw a door opened and a cat let in'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q15",
+    "chapter_id": "c17",
+    "question": "The fish in the water are described as being how far away from the speaker?",
+    "options": ["Ten yards", "A mile", "Five feet", "Too far to see"],
+    "correct_index": 0,
+    "explanation": "The line is: 'Saw the fish swimming as if they were free: Only ten feet away, my dear'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q16",
+    "chapter_id": "c17",
+    "question": "The birds in the trees are noted for having no:",
+    "options": ["Nests", "Song", "Politicians", "Wings"],
+    "correct_index": 2,
+    "explanation": "The poet observes birds sang 'at their ease: They weren't the human race, my dear, they had no politicians'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q17",
+    "chapter_id": "c17",
+    "question": "In the speaker's dream, how many floors did the building have?",
+    "options": ["Ten", "A hundred", "A thousand", "Infinity"],
+    "correct_index": 2,
+    "explanation": "The dream describes 'a building with a thousand floors'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q18",
+    "chapter_id": "c17",
+    "question": "What were the speaker and the beloved looking for when they went to the station?",
+    "options": ["A train to Paris", "Two tickets to Happiness", "A job", "Food"],
+    "correct_index": 1,
+    "explanation": "The line is: 'Asked for two tickets to Happiness'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q19",
+    "chapter_id": "c17",
+    "question": "How many soldiers were marching on the great plain in the falling snow?",
+    "options": ["A hundred", "A thousand", "Ten thousand", "A million"],
+    "correct_index": 2,
+    "explanation": "The final stanza describes soldiers marching 'Looking for you and me' - the specific number mentioned in the poem is ten thousand.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q20",
+    "chapter_id": "c17",
+    "question": "Although it is a modern poem, 'Refugee Blues' uses which traditional narrative form?",
+    "options": ["Sonnet", "Epic", "Ballad", "Haiku"],
+    "correct_index": 2,
+    "explanation": "The note states that 'Refugee Blues' uses the ballad form of narration.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q21",
+    "chapter_id": "c17",
+    "question": "The phrase 'my dear' at the end of each stanza acts as a ________.",
+    "options": ["Simile", "Refrain", "Metaphor", "Onomatopoeia"],
+    "correct_index": 1,
+    "explanation": "The repetition of 'my dear' at the end of stanzas is a characteristic refrain of the ballad/blues form.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q22",
+    "chapter_id": "c17",
+    "question": "What is the tone of the poem?",
+    "options": ["Cheerful", "Plaintive and sorrowful", "Scientific", "Aggressive"],
+    "correct_index": 1,
+    "explanation": "The poem is a 'blues' song, conveying deep sadness and the pain of exclusion.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q23",
+    "chapter_id": "c17",
+    "question": "W.H. Auden lived between which years?",
+    "options": ["1885-1922", "1907-1973", "1934-2000", "1564-1616"],
+    "correct_index": 1,
+    "explanation": "Auden was born in 1907 and died in 1973.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q24",
+    "chapter_id": "c17",
+    "question": "The reference to 'Hitler' places the poem in the historical context of ________.",
+    "options": ["World War I", "The French Revolution", "World War II", "The Cold War"],
+    "correct_index": 2,
+    "explanation": "Hitler's rise and the persecution of Jews led to the refugee crisis described.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q25",
+    "chapter_id": "c17",
+    "question": "The contrast between the 'poodle in a jacket' and the refugees shows the ________ of the situation.",
+    "options": ["Equality", "Absurdity and cruelty", "Beauty", "Kindness"],
+    "correct_index": 1,
+    "explanation": "Animals are shown receiving more care or having more freedom than the human refugees.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q26",
+    "chapter_id": "c17",
+    "question": "What is 'the blues' in music and poetry?",
+    "options": ["A happy song", "A melancholy song originating among African-Americans", "A type of opera", "A fast dance"],
+    "correct_index": 1,
+    "explanation": "The title uses 'Blues' to indicate the mournful, rhythmic style of the poem.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q27",
+    "chapter_id": "c17",
+    "question": "The line 'Old passports can't do that' refers to the fact that refugees cannot ________.",
+    "options": ["Renew their nationality or home", "Travel for free", "Eat", "Sing"],
+    "correct_index": 0,
+    "explanation": "Unlike nature (the yew tree), the refugees' legal status is dead and cannot be easily reborn.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q28",
+    "chapter_id": "c17",
+    "question": "The soldiers are 'marching to and fro' in which weather condition?",
+    "options": ["Heatwave", "Rain", "Falling snow", "Fog"],
+    "correct_index": 2,
+    "explanation": "The poem mentions 'a great plain in the falling snow'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q29",
+    "chapter_id": "c17",
+    "question": "What does the building with 'a thousand windows and a thousand doors' lack?",
+    "options": ["Glass", "A roof", "A place that belongs to the refugees", "Light"],
+    "correct_index": 2,
+    "explanation": "The poet says: 'Not one of them was ours, my dear'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q30",
+    "chapter_id": "c17",
+    "question": "The consul 'banged the table'. This gesture shows ________.",
+    "options": ["Happiness", "Impatience and bureaucratic coldness", "Fear", "Love"],
+    "correct_index": 1,
+    "explanation": "It emphasizes the harsh, indifferent authority the refugees face.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q31",
+    "chapter_id": "c17",
+    "question": "The speaker at the meeting says 'they will steal our daily bread'. This is an example of:",
+    "options": ["A fact", "Xenophobic propaganda/Prejudice", "A joke", "Kindness"],
+    "correct_index": 1,
+    "explanation": "It represents the common fear-mongering used against refugees.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q32",
+    "chapter_id": "c17",
+    "question": "Where are the refugees in Hitler's 'mind'?",
+    "options": ["As friends", "As people to be saved", "As people who must die", "As workers"],
+    "correct_index": 2,
+    "explanation": "The poem states Hitler was saying: 'they must die'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q33",
+    "chapter_id": "c17",
+    "question": "The 'ballad' form is usually used for ________.",
+    "options": ["Scientific reports", "Storytelling/Narration", "Short jokes", "Legal codes"],
+    "correct_index": 1,
+    "explanation": "Ballads are traditional narrative poems that tell a story.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q34",
+    "chapter_id": "c17",
+    "question": "How many stanzas are in the provided text of 'Refugee Blues'?",
+    "options": ["5", "8", "12", "15"],
+    "correct_index": 2,
+    "explanation": "Counting the stanzas in the document reveals there are 12.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q35",
+    "chapter_id": "c17",
+    "question": "The 'committee' offering a chair but asking the refugee to 'return next year' represents:",
+    "options": ["True hospitality", "Bureaucratic delay and avoidance", "A party", "Good news"],
+    "correct_index": 1,
+    "explanation": "It shows how institutions effectively reject refugees while appearing 'polite'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q36",
+    "chapter_id": "c17",
+    "question": "In the line 'but we are still alive', what does 'still' imply?",
+    "options": ["They are quiet", "They have survived despite the odds/laws saying they are 'dead'", "They are old", "They are sleeping"],
+    "correct_index": 1,
+    "explanation": "It contrasts their biological life with their lack of legal existence.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q37",
+    "chapter_id": "c17",
+    "question": "The 'fish swimming as if they were free' emphasizes the refugees' lack of ________.",
+    "options": ["Water", "Food", "Freedom of movement and safety", "Clothes"],
+    "correct_index": 2,
+    "explanation": "Even simple creatures in nature have more freedom than the persecuted refugees.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q38",
+    "chapter_id": "c17",
+    "question": "The soldiers are 'looking for you and me'. This creates a sense of:",
+    "options": ["Protection", "Imminent threat and terror", "Celebration", "Boredom"],
+    "correct_index": 1,
+    "explanation": "The poem ends on a chilling note of being hunted.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q39",
+    "chapter_id": "c17",
+    "question": "Auden's poems are noted for their irony, compassion, and ________.",
+    "options": ["Anger", "Wit", "Brevity", "Romance"],
+    "correct_index": 1,
+    "explanation": "The biographical note highlights irony, compassion, and wit.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q40",
+    "chapter_id": "c17",
+    "question": "Which of these is NOT a location or object mentioned in the refugees' search for a home?",
+    "options": ["Atlas", "Committee", "Public meeting", "Cinema"],
+    "correct_index": 3,
+    "explanation": "Atlas, committee, and public meetings are mentioned; cinema is not.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q41",
+    "chapter_id": "c17",
+    "question": "The 'ten million souls' in the city highlights the ________ of the two refugees.",
+    "options": ["Wealth", "Isolation and insignificance in a crowded world", "Popularity", "Power"],
+    "correct_index": 1,
+    "explanation": "Despite being among millions, they are totally alone and unwanted.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q42",
+    "chapter_id": "c17",
+    "question": "The rhyme scheme of each stanza is generally:",
+    "options": ["ABAB", "AAB", "AABB", "ABCA"],
+    "correct_index": 1,
+    "explanation": "Each stanza has three lines where the first two rhyme and the third repeats the ending (AAB pattern in sense).",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q43",
+    "chapter_id": "c17",
+    "question": "Auden's work often deals with the 'human ________'.",
+    "options": ["Body", "Condition", "Skeleton", "History"],
+    "correct_index": 1,
+    "explanation": "The study questions mention juxtaposing the human condition with politics.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q44",
+    "chapter_id": "c17",
+    "question": "The 'plaintive' theme means it is:",
+    "options": ["Happy", "Expressing sorrow or mournful", "Very loud", "Angry"],
+    "correct_index": 1,
+    "explanation": "Plaintive describes the mournful quality of the poem's message.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q45",
+    "chapter_id": "c17",
+    "question": "The 'tickets to Happiness' being full suggests that happiness is ________ for the refugees.",
+    "options": ["Free", "Impossible or unavailable", "Cheap", "Coming soon"],
+    "correct_index": 1,
+    "explanation": "It symbolizes the total closure of all avenues for a better life.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q46",
+    "chapter_id": "c17",
+    "question": "The 'great plain' in the end suggests a feeling of:",
+    "options": ["Cosiness", "Vast, cold exposure and lack of hiding places", "Lush beauty", "Safety"],
+    "correct_index": 1,
+    "explanation": "It emphasizes the vulnerability of the refugees.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q47",
+    "chapter_id": "c17",
+    "question": "Why does the poet use the word 'souls' instead of 'people'?",
+    "options": ["To be religious", "To emphasize their shared humanity and spiritual value", "Because they are ghosts", "It is shorter"],
+    "correct_index": 1,
+    "explanation": "Souls evokes a deeper sense of human worth and tragedy.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q48",
+    "chapter_id": "c17",
+    "question": "The 'atlas' shows the country 'once we had'. This implies the country is now ________.",
+    "options": ["Bigger", "Destroyed or taken away from them", "Better", "A secret"],
+    "correct_index": 1,
+    "explanation": "They have been stripped of their homeland.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q49",
+    "chapter_id": "c17",
+    "question": "Which scheduling schedules is NOT part of 'Try This Out' for this poem?",
+    "options": ["Simile", "Metaphor", "Ballad", "Sonnet"],
+    "correct_index": 3,
+    "explanation": "Refugee Blues is a ballad; Sonnet 116 was the focus of the previous chapter.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "rb_q50",
+    "chapter_id": "c17",
+    "question": "The 'Old yew' tree blossoms 'anew'. What does 'anew' mean?",
+    "options": ["Badly", "Again or in a new way", "Never", "Slowly"],
+    "correct_index": 1,
+    "explanation": "Anew means starting again, fresh.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  }
+]

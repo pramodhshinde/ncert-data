@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "peacock_q01",
+    "chapter_id": "c9",
+    "question": "Who is the poet of the poem 'The Peacock'?",
+    "options": ["Anita Desai", "Sujata Bhatt", "Arundhati Roy", "Kamala Das"],
+    "correct_index": 1,
+    "explanation": "The poem 'The Peacock' is written by Sujata Bhatt.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q02",
+    "chapter_id": "c9",
+    "question": "In which tree is the 'flash of turquoise' first noticed?",
+    "options": ["Banyan tree", "Pipal tree", "Mango tree", "Neem tree"],
+    "correct_index": 1,
+    "explanation": "The poem mentions 'a flash of turquoise in the pipal tree'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q03",
+    "chapter_id": "c9",
+    "question": "The peacock's call is described as being:",
+    "options": ["Soft and melodic", "Loud and sharp", "Deep and booming", "A gentle whistle"],
+    "correct_index": 1,
+    "explanation": "The poet describes it as 'His loud sharp call'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q04",
+    "chapter_id": "c9",
+    "question": "What is the specific color used to describe the flash in the pipal tree?",
+    "options": ["Azure", "Turquoise", "Indigo", "Emerald"],
+    "correct_index": 1,
+    "explanation": "The poet uses the word 'turquoise' to describe the sudden sight of the bird.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q05",
+    "chapter_id": "c9",
+    "question": "According to the poem, what should one be doing in the veranda to see the peacock?",
+    "options": ["Sleeping", "Reading a book", "Drinking tea", "Gardening"],
+    "correct_index": 1,
+    "explanation": "The speaker was told one has to sit in the veranda and read a book with great concentration.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q06",
+    "chapter_id": "c9",
+    "question": "What happens to the bees in the bushes when the peacock is nearby?",
+    "options": ["They fly away", "Their steady hum stops", "They become louder", "They attack the peacock"],
+    "correct_index": 1,
+    "explanation": "The poem says 'The steady hum of bees in the bushes nearby will stop.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q07",
+    "chapter_id": "c9",
+    "question": "The 'blue shadow' falls over the reader the moment they:",
+    "options": ["Close the book", "Begin to live inside the book", "Fall asleep", "Step into the garden"],
+    "correct_index": 1,
+    "explanation": "The poem states a blue shadow falls when you 'begin to live inside the book'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q08",
+    "chapter_id": "c9",
+    "question": "Which animal awakens and stretches as a cue to the peacock's presence?",
+    "options": ["The dog", "The cat", "The squirrel", "The cow"],
+    "correct_index": 1,
+    "explanation": "The text states, 'The cat will awaken and stretch.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q09",
+    "chapter_id": "c9",
+    "question": "What part of the peacock's body is described as 'arched away'?",
+    "options": ["The tail", "The slender neck", "The wing", "The leg"],
+    "correct_index": 1,
+    "explanation": "The poet mentions 'The slender neck arched away from you'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q10",
+    "chapter_id": "c9",
+    "question": "The eyes on the peacock's tail are described as being:",
+    "options": ["Blinking", "Always open", "Sleeping", "Red"],
+    "correct_index": 1,
+    "explanation": "The poem concludes by referring to 'eyes that are always open'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q11",
+    "chapter_id": "c9",
+    "question": "According to the closing lines, what is it that 'has to blink'?",
+    "options": ["The bird's real eyes", "The tail", "The reader", "The cat"],
+    "correct_index": 1,
+    "explanation": "The poem says 'It is the tail that has to blink'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q12",
+    "chapter_id": "c9",
+    "question": "Where was the poet Sujata Bhatt educated?",
+    "options": ["India", "USA", "Germany", "UK"],
+    "correct_index": 1,
+    "explanation": "The biographical note says she was educated in the USA.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q13",
+    "chapter_id": "c9",
+    "question": "Sujata Bhatt currently lives in which country?",
+    "options": ["India", "USA", "Germany", "France"],
+    "correct_index": 2,
+    "explanation": "The biographical note states she 'now lives in Germany'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q14",
+    "chapter_id": "c9",
+    "question": "In which collection was the poem 'The Peacock' originally published?",
+    "options": ["Monkey Shadows", "The Stinking Rose", "Brunizem", "Gujarat Songs"],
+    "correct_index": 2,
+    "explanation": "'The Peacock' is taken from the collection 'Brunizem' (1988).",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q15",
+    "chapter_id": "c9",
+    "question": "What prize did the collection 'Brunizem' win for the Asia section?",
+    "options": ["Booker Prize", "Commonwealth Poetry Prize", "Sahitya Akademi Award", "Pulitzer Prize"],
+    "correct_index": 1,
+    "explanation": "She won the Commonwealth Poetry Prize for the Asia section for 'Brunizem'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q16",
+    "chapter_id": "c9",
+    "question": "Sujata Bhatt has translated poetry from which language into English?",
+    "options": ["Hindi", "Bengali", "Gujarati", "Marathi"],
+    "correct_index": 2,
+    "explanation": "She has also translated Gujarati poetry into English.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q17",
+    "chapter_id": "c9",
+    "question": "The peacock is described as 'turning away' which part of its body as it gathers its tail?",
+    "options": ["Its head", "Its wings", "Its 'tail-feathers'", "Its 'slender neck'"],
+    "correct_index": 0,
+    "explanation": "The poem mentions 'You might see the peacock turning his head'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q18",
+    "chapter_id": "c9",
+    "question": "The word 'darts' in the poem suggests the peacock's movement is:",
+    "options": ["Slow and heavy", "Sudden and rapid", "Clumsy", "Lazy"],
+    "correct_index": 1,
+    "explanation": "In the poem, 'darts away' implies a quick, swift movement.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q19",
+    "chapter_id": "c9",
+    "question": "The peacock's eyes are associated with which color pattern?",
+    "options": ["Red and yellow", "Violet and golden", "Black and white", "Grey and brown"],
+    "correct_index": 1,
+    "explanation": "The poem describes the patterns as 'those dark glowing eyes violet fringed with golden amber'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q20",
+    "chapter_id": "c9",
+    "question": "Which of these is a 'cue' that the peacock is in the vicinity?",
+    "options": ["Thunder", "The cat awakening", "The dog barking", "Leaves falling"],
+    "correct_index": 1,
+    "explanation": "The cat awakening and stretching is one of the behavioral cues mentioned.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q21",
+    "chapter_id": "c9",
+    "question": "The term 'turquoise' refers to:",
+    "options": ["The sound of the call", "A blue-green color", "The shape of the bird", "The speed of the bird"],
+    "correct_index": 1,
+    "explanation": "Turquoise is a blue-green color used to describe the peacock's plumage.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q22",
+    "chapter_id": "c9",
+    "question": "What is 'amber' according to the poem's description of the tail?",
+    "options": ["A shade of blue", "A yellowish-brown color", "A deep violet", "A sharp sound"],
+    "correct_index": 1,
+    "explanation": "The poet mentions 'golden amber' regarding the fringe of the tail's eyes.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q23",
+    "chapter_id": "c9",
+    "question": "The poet says 'Something has broken your attention'. What is this 'something'?",
+    "options": ["A phone call", "The presence/arrival of the peacock", "A rainstorm", "The cat's meow"],
+    "correct_index": 1,
+    "explanation": "The sensory changes associated with the peacock's arrival break the reader's concentration.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q24",
+    "chapter_id": "c9",
+    "question": "The poem suggests that the peacock is ________ because it is hard to catch a full view of him.",
+    "options": ["Brave", "Elusive", "Noisy", "Domesticated"],
+    "correct_index": 1,
+    "explanation": "The 'glimpse' and 'darting away' emphasize the bird's elusive nature.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q25",
+    "chapter_id": "c9",
+    "question": "The poet's instruction to 'sit in the veranda' and 'read a book' highlights the need for ________ to notice the bird.",
+    "options": ["Noise", "Quiet and stillness", "Many people", "Fast movement"],
+    "correct_index": 1,
+    "explanation": "The quiet concentration allows one to notice the subtle changes in nature.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q26",
+    "chapter_id": "c9",
+    "question": "According to the biographical note, in what year was Sujata Bhatt born?",
+    "options": ["1947", "1956", "1960", "1988"],
+    "correct_index": 1,
+    "explanation": "She was born in 1956.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q27",
+    "chapter_id": "c9",
+    "question": "Which word is used in the poem to describe the peacock's descent from the tree?",
+    "options": ["Falls", "Descends", "Jumps", "Glides"],
+    "correct_index": 1,
+    "explanation": "The poet says 'as he descends'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q28",
+    "chapter_id": "c9",
+    "question": "The phrase 'slender neck' emphasizes the bird's:",
+    "options": ["Strength", "Elegance and delicacy", "Weight", "Length only"],
+    "correct_index": 1,
+    "explanation": "Slender indicates a graceful, thin shape.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q29",
+    "chapter_id": "c9",
+    "question": "What breaks the 'steady hum' described in the poem?",
+    "options": ["The wind", "The peacock's arrival", "The reader shouting", "The pipal tree shaking"],
+    "correct_index": 1,
+    "explanation": "The arrival of the peacock stops the hum of the bees.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q30",
+    "chapter_id": "c9",
+    "question": "The 'eyes' on the tail feathers are described as 'glowing'. This means they are:",
+    "options": ["Dim", "Bright and luminous", "Faded", "Closed"],
+    "correct_index": 1,
+    "explanation": "Glowing suggests a rich, bright quality.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q31",
+    "chapter_id": "c9",
+    "question": "What is the common English simile associated with the peacock mentioned in the 'Try This Out' section?",
+    "options": ["As fast as a peacock", "As proud as a peacock", "As blue as a peacock", "As loud as a peacock"],
+    "correct_index": 1,
+    "explanation": "The text mentions the simile 'As proud as a peacock'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q32",
+    "chapter_id": "c9",
+    "question": "What is the 'national bird of India' according to the document?",
+    "options": ["Parrot", "Peacock", "Eagle", "Sparrow"],
+    "correct_index": 1,
+    "explanation": "The 'Try This Out' section states the peacock is the national bird of India.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q33",
+    "chapter_id": "c9",
+    "question": "The poet uses the term 'golden amber' to describe:",
+    "options": ["The sunset", "The tree bark", "The fringe of the tail's 'eyes'", "The cat's fur"],
+    "correct_index": 2,
+    "explanation": "It describes the 'violet fringed with golden amber' of the tail's eyes.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q34",
+    "chapter_id": "c9",
+    "question": "The peacock's call 'seems to come from nowhere'. This adds to the sense of:",
+    "options": ["Fear", "Mystery and surprise", "Boredom", "Annoyance"],
+    "correct_index": 1,
+    "explanation": "The suddenness and unknown origin create a sense of wonder/mystery.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q35",
+    "chapter_id": "c9",
+    "question": "What happens to the 'wind' when the bird is near?",
+    "options": ["It stops", "It will change direction", "It gets colder", "It becomes a storm"],
+    "correct_index": 1,
+    "explanation": "The poem states, 'The wind will change direction'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q36",
+    "chapter_id": "c9",
+    "question": "The word 'pipal' in the poem refers to a type of:",
+    "options": ["Bird", "Tree", "Color", "Stone"],
+    "correct_index": 1,
+    "explanation": "The pipal is a well-known Indian tree mentioned in the poem.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q37",
+    "chapter_id": "c9",
+    "question": "When the peacock 'darts away', the observer gets a glimpse of:",
+    "options": ["His head", "His claws", "The very end of his tail", "His wings"],
+    "correct_index": 2,
+    "explanation": "The observer only gets a 'glimpse of the very end of his tail'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q38",
+    "chapter_id": "c9",
+    "question": "The poem describes the reader's concentration as:",
+    "options": ["Small", "Great", "Missing", "Weak"],
+    "correct_index": 1,
+    "explanation": "The text says 'with great concentration'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q39",
+    "chapter_id": "c9",
+    "question": "What does the peacock do to his tail as he gathers it?",
+    "options": ["Shakes it", "Drops it", "Gathering those tail-feathers", "Loses it"],
+    "correct_index": 2,
+    "explanation": "The poem describes him 'gathering those tail-feathers'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q40",
+    "chapter_id": "c9",
+    "question": "The poet uses the word 'violet' to describe:",
+    "options": ["The pipal tree", "The reader's book", "The fringe of the peacock's 'eyes'", "The bees"],
+    "correct_index": 2,
+    "explanation": "The tail's eyes are described as 'violet fringed'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q41",
+    "chapter_id": "c9",
+    "question": "The 'blue shadow' is a metaphor for:",
+    "options": ["The coming of night", "The peacock's presence", "The reader's sadness", "The ink in the book"],
+    "correct_index": 1,
+    "explanation": "The shadow indicates the bird is physically close to the reader.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q42",
+    "chapter_id": "c9",
+    "question": "The phrase 'live inside the book' means to be ________ in reading.",
+    "options": ["Bored", "Fully absorbed/immersed", "Confused", "Fast"],
+    "correct_index": 1,
+    "explanation": "It refers to deep concentration where one loses track of their surroundings.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q43",
+    "chapter_id": "c9",
+    "question": "In the poem, the peacock is described as having a ________ neck.",
+    "options": ["Thick", "Slender", "Short", "Powerful"],
+    "correct_index": 1,
+    "explanation": "The poet uses the adjective 'slender'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q44",
+    "chapter_id": "c9",
+    "question": "The pipal tree is where the 'flash' is seen. This tree is common in:",
+    "options": ["Europe", "The Arctic", "India/South Asia", "North America"],
+    "correct_index": 2,
+    "explanation": "The pipal tree and the peacock are both characteristic symbols of the Indian landscape.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q45",
+    "chapter_id": "c9",
+    "question": "The eyes on the tail are described as 'always open', suggesting a sense of:",
+    "options": ["Vigilance or constant gaze", "Blindness", "Sleep", "Anger"],
+    "correct_index": 0,
+    "explanation": "The 'always open' eyes create a mystical, watchful imagery.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q46",
+    "chapter_id": "c9",
+    "question": "What is the name of the poem book published in 1991 by Sujata Bhatt?",
+    "options": ["Brunizem", "Monkey Shadows", "The Stinking Rose", "The Peacock"],
+    "correct_index": 1,
+    "explanation": "Monkey Shadows was published in 1991.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q47",
+    "chapter_id": "c9",
+    "question": "What is the name of the poem book published in 1994 by Sujata Bhatt?",
+    "options": ["Brunizem", "Monkey Shadows", "The Stinking Rose", "The Peacock"],
+    "correct_index": 2,
+    "explanation": "The Stinking Rose was published in 1994.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q48",
+    "chapter_id": "c9",
+    "question": "The 'loud sharp call' appears in which part of the poem?",
+    "options": ["The beginning", "The middle", "The end", "It's not in the poem"],
+    "correct_index": 0,
+    "explanation": "The poem opens with the mention of the call.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q49",
+    "chapter_id": "c9",
+    "question": "The reader is advised to read which kind of book?",
+    "options": ["A textbook", "A newspaper", "One of your favourites", "A mystery"],
+    "correct_index": 2,
+    "explanation": "The poet suggests reading 'preferably one of your favourites'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "peacock_q50",
+    "chapter_id": "c9",
+    "question": "The poem captures the bird through ________ imagery.",
+    "options": ["Only auditory", "Only visual", "Both auditory and visual", "No sensory"],
+    "correct_index": 2,
+    "explanation": "The poem uses sounds (call, hum) and colors (turquoise, violet, amber) to describe the peacock.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  }
+]

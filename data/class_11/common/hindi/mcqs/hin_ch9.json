@@ -1,0 +1,18 @@
+[
+  {
+    "mcq_id": "hin_ch9_q01",
+    "chapter_id": "hin_ch9",
+    "question": "हिंदी में 'वाक्य' के कितने अनिवार्य तत्व माने जाते हैं?",
+    "options": [
+      "एक",
+      "दो",
+      "तीन",
+      "चार"
+    ],
+    "correct_index": 1,
+    "explanation": "वाक्य के दो अनिवार्य तत्व होते हैं: उद्देश्य (कर्ता) और विधेय (क्रिया)।",
+    "ncert_page": 1,
+    "difficulty": "EASY",
+    "subject": "Hindi"
+  }
+]

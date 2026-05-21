@@ -1,0 +1,18 @@
+[
+  {
+    "mcq_id": "pe_ch3_q01",
+    "chapter_id": "pe_ch3",
+    "question": "BMI stands for:",
+    "options": [
+      "Body Mass Index",
+      "Body Muscle Indicator",
+      "Basic Metabolism Index",
+      "Biological Mass Indicator"
+    ],
+    "correct_index": 0,
+    "explanation": "BMI (Body Mass Index) is a measure of body fat based on height and weight.",
+    "ncert_page": 1,
+    "difficulty": "EASY",
+    "subject": "Physical Education"
+  }
+]
