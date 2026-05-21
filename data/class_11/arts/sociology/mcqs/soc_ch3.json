@@ -1,1 +1,682 @@
-{"questions":[{"mcqId":"soc_ch3_q01","chapterId":"soc_ch3","question":"Which of the following is a primary social institution?","options":["Stock market","Family","Political party","Bank"],"correctIndex":1,"explanation":"Family is a primary social institution that fulfills basic social functions like reproduction and socialization.","ncertPage":1,"difficulty":"EASY","subject":"Sociology"}]}
+[
+  {
+    "mcq_id": "soc_c3_q01",
+    "chapter_id": "c3",
+    "question": "In the broadest sense, what defines a social institution according to the text?",
+    "options": [
+      "A large physical building for public use",
+      "Something that works according to rules established by law or custom",
+      "A group of people with the same hobby",
+      "The personal choices made by individuals"
+    ],
+    "correct_index": 1,
+    "explanation": "In the broadest sense, an institution is something that works according to rules established or at least acknowledged by law or by custom.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q02",
+    "chapter_id": "c3",
+    "question": "Which of the following is classified as a 'macro' social institution?",
+    "options": ["The Family", "A group of friends", "The State", "The Peer group"],
+    "correct_index": 2,
+    "explanation": "Social institutions can be 'macro' like the state or 'micro' ones like the family.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q03",
+    "chapter_id": "c3",
+    "question": "The functionalist view of social institutions suggests that they exist to:",
+    "options": [
+      "Serve the interests of the powerful elite",
+      "Satisfy social needs and maintain order/stability",
+      "Create conflict between different classes",
+      "Abolish all social rules"
+    ],
+    "correct_index": 1,
+    "explanation": "A functionalist view understands social institutions as a system of social norms and roles that satisfy social needs and maintain order.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q04",
+    "chapter_id": "c3",
+    "question": "A conflict perspective on social institutions argues that:",
+    "options": [
+      "Institutions operate for the benefit of all members equally",
+      "Institutions operate in the interest of the dominant sections of society",
+      "Societies have no institutions",
+      "Conflict is impossible in a social institution"
+    ],
+    "correct_index": 1,
+    "explanation": "A conflict view holds that social institutions operate in the interest of the dominant sections of society, such as the ruling class or men.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q05",
+    "chapter_id": "c3",
+    "question": "A 'Nuclear Family' consists of:",
+    "options": [
+      "Grandparents, parents, and children",
+      "One adult and his or her children",
+      "One set of parents and their children",
+      "A group of related families living together"
+    ],
+    "correct_index": 2,
+    "explanation": "A nuclear family consists of one set of parents and their children.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q06",
+    "chapter_id": "c3",
+    "question": "What is the term for a family where the mother is the head of the household?",
+    "options": ["Patrilocal", "Matrilineal", "Matriarchal", "Patriarchal"],
+    "correct_index": 2,
+    "explanation": "Matriarchal societies are those where women exercise authority and dominance.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q07",
+    "chapter_id": "c3",
+    "question": "Which form of marriage allows a woman to have more than one husband at a time?",
+    "options": ["Polygyny", "Polyandry", "Monogamy", "Endogamy"],
+    "correct_index": 1,
+    "explanation": "Polyandry denotes the marriage of one woman with more than one man.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q08",
+    "chapter_id": "c3",
+    "question": "Endogamy refers to a rule that requires an individual to marry:",
+    "options": [
+      "Outside of one's own group",
+      "Within one's own social group",
+      "Only one person for life",
+      "Any person of their choice"
+    ],
+    "correct_index": 1,
+    "explanation": "Endogamy requires an individual to marry within a culturally defined group of which he or she is already a member.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q09",
+    "chapter_id": "c3",
+    "question": "Exogamy requires an individual to marry ________.",
+    "options": ["Within the family", "Outside of one's own group", "Within the same caste", "Someone of the same age"],
+    "correct_index": 1,
+    "explanation": "Exogamy requires the individual to marry outside of his or her own group.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q10",
+    "chapter_id": "c3",
+    "question": "What is 'Kinship' according to the text?",
+    "options": [
+      "A political alliance between nations",
+      "Social ties derived from blood or marriage",
+      "The study of ancient religions",
+      "A type of economic contract"
+    ],
+    "correct_index": 1,
+    "explanation": "Kinship ties are connections between individuals, established either through marriage or through the lines of descent.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q11",
+    "chapter_id": "c3",
+    "question": "Consanguineous kin are relatives through ________.",
+    "options": ["Marriage", "Blood", "Adoption", "Friendship"],
+    "correct_index": 1,
+    "explanation": "Consanguineous kin are relatives through blood, like mothers, fathers, and siblings.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q12",
+    "chapter_id": "c3",
+    "question": "Affinal kin are related through ________.",
+    "options": ["Direct descent", "Blood only", "Marriage", "Religion"],
+    "correct_index": 2,
+    "explanation": "Affinal kin are relatives through marriage, such as a husband or a brother-in-law.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q13",
+    "chapter_id": "c3",
+    "question": "Max Weber defined 'the State' as an organization that has a monopoly on the legitimate use of ________.",
+    "options": ["Wealth", "Physical force", "Education", "Religion"],
+    "correct_index": 1,
+    "explanation": "Max Weber defines the state as a body that successfully claims a monopoly of legitimate longevity of physical force within a given territory.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q14",
+    "chapter_id": "c3",
+    "question": "In a 'Modern State', the sovereignty is defined by:",
+    "options": [
+      "The divine right of kings",
+      "Authority within a clearly demarcated territory",
+      "Global religious leadership",
+      "Lack of borders"
+    ],
+    "correct_index": 1,
+    "explanation": "Modern states are defined by sovereignty—the undisputed political rule of a state over a given territorial area.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q15",
+    "chapter_id": "c3",
+    "question": "Which of the following is an example of a 'Civil Right' in a modern state?",
+    "options": ["Right to vote", "Freedom of speech and religion", "Right to unemployment benefits", "Right to a minimum wage"],
+    "correct_index": 1,
+    "explanation": "Civil rights include the freedom of individuals to live where they choose, freedom of speech and religion, and the right to own property.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q16",
+    "chapter_id": "c3",
+    "question": "Social rights involve which of the following?",
+    "options": [
+      "The right to own property",
+      "The right to participate in political elections",
+      "The right to a minimum standard of economic welfare and security",
+      "The right to bear arms"
+    ],
+    "correct_index": 2,
+    "explanation": "Social rights include the right of every individual to enjoy a minimum standard of economic welfare and security.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q17",
+    "chapter_id": "c3",
+    "question": "According to the text, 'Economics' as a social institution is primarily about:",
+    "options": [
+      "Printing money",
+      "The production, distribution, and consumption of goods and services",
+      "Predicting the stock market",
+      "Calculating individual bank balances only"
+    ],
+    "correct_index": 1,
+    "explanation": "Economic institutions are concerned with the production, distribution, and consumption of goods and services.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q18",
+    "chapter_id": "c3",
+    "question": "What is the key characteristic of 'Work' in modern industrial societies compared to traditional ones?",
+    "options": [
+      "Everyone works from home",
+      "Most work is done in the fields",
+      "Highly complex division of labor and specialization",
+      "Lack of technology"
+    ],
+    "correct_index": 2,
+    "explanation": "Modern industrial societies have a highly complex division of labor and high degree of specialization.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q19",
+    "chapter_id": "c3",
+    "question": "In a 'Formal' economic sector, the work is characterized by:",
+    "options": [
+      "Lack of records and taxes",
+      "Organized structures, fixed hours, and legal protections",
+      "Casual daily labor with no contracts",
+      "Selling goods on the street only"
+    ],
+    "correct_index": 1,
+    "explanation": "Formal work takes place in an organized setting with fixed hours and legal frameworks, unlike the informal sector.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q20",
+    "chapter_id": "c3",
+    "question": "Emile Durkheim defined religion as focusing on the distinction between the ________ and the ________.",
+    "options": ["Good; Evil", "Rich; Poor", "Sacred; Profane", "Natural; Unnatural"],
+    "correct_index": 2,
+    "explanation": "Durkheim defined religion in terms of a distinction between the sacred and the profane.",
+    "ncert_page": 15,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q21",
+    "chapter_id": "c3",
+    "question": "Sociology studies religion to understand:",
+    "options": [
+      "Which religion is the true one",
+      "The social organization of religion and its influence on other institutions",
+      "The nature of God",
+      "How to perform specific rituals"
+    ],
+    "correct_index": 1,
+    "explanation": "Sociology studies religion as a social phenomenon, looking at its organization and its relationship with other social institutions.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q22",
+    "chapter_id": "c3",
+    "question": "What is the sociological meaning of 'Education' as an institution?",
+    "options": [
+      "Only the teaching done in schools",
+      "A lifelong social process through which individuals acquire knowledge and skills",
+      "Reading books only",
+      "Getting a college degree"
+    ],
+    "correct_index": 1,
+    "explanation": "Education is a social process through which knowledge and skills are transmitted from one generation to the next.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q23",
+    "chapter_id": "c3",
+    "question": "Sociologists argue that schools function as agents of 'Socialization' which means they:",
+    "options": [
+      "Teach people how to be alone",
+      "Prepare children for their future social and economic roles",
+      "Only teach math and science",
+      "Abolish social differences"
+    ],
+    "correct_index": 1,
+    "explanation": "Schools socialize children into the values and norms of the wider society, preparing them for future adult roles.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q24",
+    "chapter_id": "c3",
+    "question": "The 'Hidden Curriculum' in schools refers to:",
+    "options": [
+      "The list of subjects that are not tested",
+      "Unintended lessons about social hierarchy, gender, and discipline",
+      "The secret syllabus of the government",
+      "The games played during break time"
+    ],
+    "correct_index": 1,
+    "explanation": "Sociologists use the term hidden curriculum to describe the subtle and unintended social lessons taught in school.",
+    "ncert_page": 20,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q25",
+    "chapter_id": "c3",
+    "question": "Which system of descent traces kinship through the father's line?",
+    "options": ["Matrilineal", "Bilateral", "Patrilineal", "Ambilineal"],
+    "correct_index": 2,
+    "explanation": "Patrilineal societies trace descent through the male line.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q26",
+    "chapter_id": "c3",
+    "question": "A 'Joint Family' is characterized by:",
+    "options": [
+      "Only parents and children",
+      "Multiple generations and related families living together/sharing resources",
+      "A group of unrelated friends",
+      "Two people living alone"
+    ],
+    "correct_index": 1,
+    "explanation": "Joint families usually comprise several generations or related nuclear families living under one roof or sharing a hearth.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q27",
+    "chapter_id": "c3",
+    "question": "According to the text, the 'Empowerment' of women within the family is often linked to:",
+    "options": [
+      "Staying at home",
+      "Education and economic independence",
+      "Having many children",
+      "Ignoring family traditions"
+    ],
+    "correct_index": 1,
+    "explanation": "The text suggests that education and independent income are key factors in changing gender dynamics within the family.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q28",
+    "chapter_id": "c3",
+    "question": "Polygyny denotes:",
+    "options": [
+      "The marriage of one man with more than one woman",
+      "The marriage of one woman with more than one man",
+      "Marriage within the same family",
+      "The choice to never marry"
+    ],
+    "correct_index": 0,
+    "explanation": "Polygyny denotes the marriage of one man with more than one woman.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q29",
+    "chapter_id": "c3",
+    "question": "Politics in sociology is primarily the study of ________ and ________.",
+    "options": ["Elections; Wealth", "Power; State", "Laws; Religion", "Names; History"],
+    "correct_index": 1,
+    "explanation": "Sociological study of politics is concerned with the distribution of power and the nature of the state.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q30",
+    "chapter_id": "c3",
+    "question": "Which right allows citizens to participate in the formation of government?",
+    "options": ["Civil Rights", "Social Rights", "Political Rights", "Economic Rights"],
+    "correct_index": 2,
+    "explanation": "Political rights, like the right to vote or stand for office, allow participation in the political process.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q31",
+    "chapter_id": "c3",
+    "question": "The 'Welfare State' is a system where the state provides:",
+    "options": [
+      "Only for the rich",
+      "A safety net of social services like health and education to ensure well-being",
+      "Weapons for all citizens",
+      "No services at all"
+    ],
+    "correct_index": 1,
+    "explanation": "Welfare states take responsibility for the economic and social well-being of their citizens.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q32",
+    "chapter_id": "c3",
+    "question": "What is the primary difference between 'Work' and 'Leisure' in sociology?",
+    "options": [
+      "Work is always paid; Leisure is always free",
+      "Work involves productive tasks; Leisure is for relaxation/personal time",
+      "Work is only for men; Leisure for women",
+      "There is no difference"
+    ],
+    "correct_index": 1,
+    "explanation": "Work refers to carrying out tasks that require mental and physical effort to produce goods/services, while leisure is time spent for oneself.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q33",
+    "chapter_id": "c3",
+    "question": "Sociology views 'Religion' as a source of social ________ as well as social ________.",
+    "options": ["Wealth; Poverty", "Order; Conflict", "History; Future", "Laws; Art"],
+    "correct_index": 1,
+    "explanation": "Sociological analysis shows religion can act as a force for social cohesion or a source of deep conflict.",
+    "ncert_page": 17,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q34",
+    "chapter_id": "c3",
+    "question": "In the functionalist view, education promotes ________ by rewarding talent and hard work.",
+    "options": ["Inequality", "Meritocracy", "Monarchy", "Chaos"],
+    "correct_index": 1,
+    "explanation": "Functionalists believe that education helps achieve meritocracy by providing opportunity based on ability.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q35",
+    "chapter_id": "c3",
+    "question": "The 'Patrilocal' rule of residence requires a couple to live with:",
+    "options": [
+      "The wife's parents",
+      "The husband's parents",
+      "Separately from both sets of parents",
+      "With siblings"
+    ],
+    "correct_index": 1,
+    "explanation": "Patrilocal residence means the newly married couple lives with the husband's family.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q36",
+    "chapter_id": "c3",
+    "question": "What is 'Neolocal' residence?",
+    "options": [
+      "Living with the mother's brother",
+      "The couple sets up a new independent household",
+      "Living with the maternal grandparents",
+      "Living in a village"
+    ],
+    "correct_index": 1,
+    "explanation": "Neolocal residence occurs when a couple establishes a new household separate from their parents.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q37",
+    "chapter_id": "c3",
+    "question": "The term 'Incest Taboo' refers to:",
+    "options": [
+      "A law about property",
+      "Social prohibition of sexual relations between close relatives",
+      "A ritual during marriage",
+      "The name of a kinship group"
+    ],
+    "correct_index": 1,
+    "explanation": "Incest taboo is the cultural prohibition of marriage or sexual relations between close kin.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q38",
+    "chapter_id": "c3",
+    "question": "Political science traditionally focuses on 'Governance', whereas Sociology focuses on:",
+    "options": [
+      "Only the laws",
+      "The social context of political behavior and power in everyday life",
+      "Only the military",
+      "Building bridges"
+    ],
+    "correct_index": 1,
+    "explanation": "Sociology examines how politics is embedded in social structures and everyday life.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q39",
+    "chapter_id": "c3",
+    "question": "Work in the 'Informal' sector is often characterized by:",
+    "options": [
+      "High salaries",
+      "Job security and medical benefits",
+      "Vulnerability, lack of regulation, and no social security",
+      "Clear advancement paths"
+    ],
+    "correct_index": 2,
+    "explanation": "Workers in the informal sector lack the legal protections and benefits found in the formal sector.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q40",
+    "chapter_id": "c3",
+    "question": "Max Weber's study of 'The Protestant Ethic' showed how religion influenced:",
+    "options": ["Politics", "Capitalism and economic behavior", "Education only", "Marriage rituals"],
+    "correct_index": 1,
+    "explanation": "Weber argued that certain religious values (like those of Calvinism) were central to the development of modern capitalism.",
+    "ncert_page": 16,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q41",
+    "chapter_id": "c3",
+    "question": "Which of these is a 'sacred' object in a religious sense?",
+    "options": [
+      "A standard kitchen table",
+      "An object or place treated with awe and set apart from daily life",
+      "A piece of waste paper",
+      "Any mass-produced item"
+    ],
+    "correct_index": 1,
+    "explanation": "The sacred consists of things set apart as special, forbidden, or treated with awe.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q42",
+    "chapter_id": "c3",
+    "question": "According to conflict theorists, education can reinforce ________ by favouring children from dominant backgrounds.",
+    "options": ["Equality", "Social inequality", "Order", "Happiness"],
+    "correct_index": 1,
+    "explanation": "Conflict theorists argue that education reproduces existing social class inequalities.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q43",
+    "chapter_id": "c3",
+    "question": "Family, religion, and the state are all described as ________ that control and reward.",
+    "options": ["Individual choices", "Social institutions", "Economic contracts", "Temporary groups"],
+    "correct_index": 1,
+    "explanation": "Social institutions act as powerful structures that constrain and regulate human behavior.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q44",
+    "chapter_id": "c3",
+    "question": "The matrilineal system of descent is practiced by which community mentioned in the text?",
+    "options": ["Khasi of Meghalaya", "Nairs of Kerala", "Both 1 and 2", "Rajputs of Rajasthan"],
+    "correct_index": 2,
+    "explanation": "The text mentions both Khasi and Nairs as examples of matrilineal descent groups.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q45",
+    "chapter_id": "c3",
+    "question": "Marriage within one's own 'Gotra' is often prohibited in India. This is an example of:",
+    "options": ["Caste endogamy", "Gotra exogamy", "Village endogamy", "Religious monogamy"],
+    "correct_index": 1,
+    "explanation": "The rule to marry outside one's gotra is a rule of exogamy.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q46",
+    "chapter_id": "c3",
+    "question": "In modern societies, citizenship rights are often divided into Civil, Political, and ________ rights.",
+    "options": ["Economic", "Social", "Religious", "Personal"],
+    "correct_index": 1,
+    "explanation": "T.H. Marshall identified three stages of citizenship: civil, political, and social.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q47",
+    "chapter_id": "c3",
+    "question": "Self-provisioning or producing for one's own needs is a characteristic of ________.",
+    "options": ["Modern markets", "Subsistence economies", "Industrial capitalism", "Global trade"],
+    "correct_index": 1,
+    "explanation": "Traditional or subsistence economies often focus on production for self-consumption rather than exchange.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q48",
+    "chapter_id": "c3",
+    "question": "A set of religious beliefs and rituals shared by a community is called a/an:",
+    "options": ["Education", "Sect", "Religion", "Cult"],
+    "correct_index": 2,
+    "explanation": "Religion involves a common set of beliefs and practices.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q49",
+    "chapter_id": "c3",
+    "question": "The concept that individuals can rise in social status based on their own hard work through education is called:",
+    "options": ["Social mobility", "Stagnation", "Isolation", "Discrimination"],
+    "correct_index": 0,
+    "explanation": "Education is often viewed as a key channel for social mobility.",
+    "ncert_page": 19,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c3_q50",
+    "chapter_id": "c3",
+    "question": "The ultimate goal of studying social institutions is to understand how they ________ and ________ human life.",
+    "options": ["Destroy; Create", "Limit; Enable", "Ignore; Forget", "Collect; Spend"],
+    "correct_index": 1,
+    "explanation": "Institutions impose constraints but also provide opportunities and frameworks for living.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  }
+]

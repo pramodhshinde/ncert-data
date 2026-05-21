@@ -1,1 +1,592 @@
-{"questions":[{"mcqId":"pe_arts_ch10_q01","chapterId":"pe_arts_ch10","question":"Doping in sports refers to:","options":["Using proper nutrition","Using prohibited substances to enhance performance","Training extra hard","Warming up before a game"],"correctIndex":1,"explanation":"Doping is the use of banned substances or methods to artificially enhance athletic performance.","ncertPage":1,"difficulty":"EASY","subject":"Physical Education"}]}
+[
+  {
+    "mcq_id": "c10_q01",
+    "chapter_id": "c10",
+    "question": "What is the primary definition of a 'tournament' according to the text?",
+    "options": [
+      "A friendly match between two teams",
+      "A competition among different teams in a sport according to a fixed schedule where a winner is decided",
+      "A series of practice sessions for athletes",
+      "A meeting of sports officials to discuss rules"
+    ],
+    "correct_index": 1,
+    "explanation": "A tournament is a competition held among different teams in a particular game or sport according to a fixed schedule where a winner is decided.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q02",
+    "chapter_id": "c10",
+    "question": "Which type of tournament is also known as an 'Elimination Tournament'?",
+    "options": ["League", "Round Robin", "Knock-out", "Challenge"],
+    "correct_index": 2,
+    "explanation": "Knock-out tournaments are also termed as Elimination Tournaments because a team is eliminated once it loses a match.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q03",
+    "chapter_id": "c10",
+    "question": "In a Single Knock-out tournament with 16 teams, what is the total number of matches to be played?",
+    "options": ["16", "15", "8", "31"],
+    "correct_index": 1,
+    "explanation": "The formula for total matches in a single knock-out tournament is N-1. So, 16 - 1 = 15.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q04",
+    "chapter_id": "c10",
+    "question": "A 'Bye' in a knock-out tournament means that a team:",
+    "options": [
+      "Is eliminated from the tournament",
+      "Plays against the previous year's winner",
+      "Plays in the first round automatically",
+      "Does not play in the first round but plays in the second round"
+    ],
+    "correct_index": 3,
+    "explanation": "A Bye is a privilege given to a team which is decided by lot, and it does not play in the first round but directly plays in the second round.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q05",
+    "chapter_id": "c10",
+    "question": "If the number of teams (N) is 11, how many 'Byes' will be given in a Single Knock-out tournament?",
+    "options": ["3", "5", "1", "4"],
+    "correct_index": 1,
+    "explanation": "Byes are calculated by subtracting N from the next power of 2. Next power of 2 after 11 is 16. So, 16 - 11 = 5.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q06",
+    "chapter_id": "c10",
+    "question": "The 'Berger System' is another name for which type of tournament?",
+    "options": ["Knock-out", "League", "Combination", "Challenge"],
+    "correct_index": 1,
+    "explanation": "League tournament is also termed as Round Robin Tournament or Berger System.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q07",
+    "chapter_id": "c10",
+    "question": "In a Single League tournament with 6 teams, the total number of matches is:",
+    "options": ["30", "12", "15", "6"],
+    "correct_index": 2,
+    "explanation": "The formula for a single league is N(N-1)/2. So, 6(5)/2 = 15.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q08",
+    "chapter_id": "c10",
+    "question": "Which method of deciding the winner in a league tournament is based on the percentage of points obtained?",
+    "options": ["American Method", "British Method", "Cyclic Method", "Staircase Method"],
+    "correct_index": 1,
+    "explanation": "In the British Method, the percentage of points is calculated as (Total points obtained / Total possible points) x 100.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q09",
+    "chapter_id": "c10",
+    "question": "Ladder and Pyramid are types of:",
+    "options": ["Elimination Tournaments", "Combination Tournaments", "Challenge Tournaments", "League Tournaments"],
+    "correct_index": 2,
+    "explanation": "Challenge Tournaments include Ladder and Pyramid types.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q10",
+    "chapter_id": "c10",
+    "question": "In a Single Knock-out fixture of 21 teams, how many teams will be in the Upper Half?",
+    "options": ["10", "11", "12", "21"],
+    "correct_index": 1,
+    "explanation": "For odd numbers, Upper Half = (N+1)/2. So, (21+1)/2 = 11.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q11",
+    "chapter_id": "c10",
+    "question": "The procedure of keeping strong teams in separate halves so they meet only in later stages is called:",
+    "options": ["Bye", "Seeding", "Special Seeding", "Consolation"],
+    "correct_index": 1,
+    "explanation": "Seeding is the procedure by which good teams are placed in fixtures in such a way that stronger teams do not meet each other at the very start.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q12",
+    "chapter_id": "c10",
+    "question": "In which type of seeding do teams directly participate in the quarter-final or semi-final?",
+    "options": ["Standard Seeding", "Bye", "Special Seeding", "Round Robin"],
+    "correct_index": 2,
+    "explanation": "In Special Seeding, seeded players/teams directly participate in the quarter-final or semi-final.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q13",
+    "chapter_id": "c10",
+    "question": "The modern Olympic Games were started in which year and city?",
+    "options": ["1896, Athens", "776 BC, Olympia", "1900, Paris", "1924, Chamonix"],
+    "correct_index": 0,
+    "explanation": "Modern Olympic Games were started in 1896 at Athens (Greece).",
+    "ncert_page": 17,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q14",
+    "chapter_id": "c10",
+    "question": "Who is considered the father of the modern Olympic Games?",
+    "options": ["Sir Dorabji Tata", "Baron Pierre de Coubertin", "Dr. Ludwig Guttmann", "Melville Marks Robinson"],
+    "correct_index": 1,
+    "explanation": "Modern Olympic Games were started... due to the effort of Baron Pierre de Coubertin.",
+    "ncert_page": 17,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q15",
+    "chapter_id": "c10",
+    "question": "The Paralympic Games are organized for which group of athletes?",
+    "options": ["Youth under 18", "Elite university students", "Athletes with physical disabilities", "Retired professional athletes"],
+    "correct_index": 2,
+    "explanation": "The Paralympic Games is a major international multi-sport event involving athletes with a range of physical disabilities.",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q16",
+    "chapter_id": "c10",
+    "question": "In which city were the first Commonwealth Games held in 1930?",
+    "options": ["London", "New Delhi", "Hamilton", "Sydney"],
+    "correct_index": 2,
+    "explanation": "The first Commonwealth Games were held in 1930 in Hamilton, Canada.",
+    "ncert_page": 22,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q17",
+    "chapter_id": "c10",
+    "question": "The first National Games in India (Indian Olympic Games) were held in 1924 in:",
+    "options": ["Delhi", "Mumbai", "Lahore", "Kolkata"],
+    "correct_index": 2,
+    "explanation": "The first edition of the Indian Olympic Games at Lahore in 1924.",
+    "ncert_page": 23,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q18",
+    "chapter_id": "c10",
+    "question": "Which body organizes the National School Games in India?",
+    "options": ["IOA", "SGFI", "SAI", "Ministry of Education"],
+    "correct_index": 1,
+    "explanation": "School games in India are organised by the School Games Federation of India (SGFI).",
+    "ncert_page": 24,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q19",
+    "chapter_id": "c10",
+    "question": "What is the motto of the modern Olympic Games?",
+    "options": ["Citius, Altius, Fortius", "Faster, Higher, Stronger - Together", "Play for India", "Health is Wealth"],
+    "correct_index": 1,
+    "explanation": "The Olympic motto... was recently changed to 'Citius, Altius, Fortius – Communiter' (Faster, Higher, Stronger – Together).",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q20",
+    "chapter_id": "c10",
+    "question": "In a knock-out tournament, if a team gets the first 'Bye', where is it placed in the fixture?",
+    "options": ["Top of the Upper Half", "Bottom of the Upper Half", "Top of the Lower Half", "Bottom of the Lower Half"],
+    "correct_index": 3,
+    "explanation": "The first Bye shall be given to the last team of the lower half.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q21",
+    "chapter_id": "c10",
+    "question": "The second 'Bye' in a knock-out fixture is given to:",
+    "options": [
+      "The last team of the lower half",
+      "The first team of the upper half",
+      "The last team of the upper half",
+      "The first team of the lower half"
+    ],
+    "correct_index": 1,
+    "explanation": "The second Bye shall be given to the first team of the upper half.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q22",
+    "chapter_id": "c10",
+    "question": "A Consolation Tournament Type-I is organized to:",
+    "options": [
+      "Decide the second runner-up",
+      "Give a second chance to teams defeated in the first round",
+      "Decide who gets a bye",
+      "Replace the main tournament"
+    ],
+    "correct_index": 1,
+    "explanation": "Consolation Tournament Type-I: In this type of tournament, a second chance is given to all the teams who have been defeated in the first round of the regular knock-out tournament.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q23",
+    "chapter_id": "c10",
+    "question": "In a league tournament using the 'Cyclic Method' with 5 teams (odd number), how many rounds will be played?",
+    "options": ["4", "5", "6", "10"],
+    "correct_index": 1,
+    "explanation": "For an odd number of teams in a league tournament, the number of rounds = N. So, 5.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q24",
+    "chapter_id": "c10",
+    "question": "In which league method are matches arranged like steps, where team 1 plays all others, then team 2 plays all others except team 1?",
+    "options": ["Cyclic Method", "Staircase Method", "Tabular Method", "Pyramid Method"],
+    "correct_index": 1,
+    "explanation": "In the staircase method, matches are arranged in a staircase shape... Team 1 plays all... then Team 2...",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q25",
+    "chapter_id": "c10",
+    "question": "In a Double League tournament with 4 teams, what is the total number of matches?",
+    "options": ["6", "12", "16", "8"],
+    "correct_index": 1,
+    "explanation": "The formula for a double league is N(N-1). So, 4(3) = 12.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q26",
+    "chapter_id": "c10",
+    "question": "What happens if two teams score equal points in a league tournament?",
+    "options": [
+      "They share the trophy",
+      "They play a tie-breaker match",
+      "The winner is decided by toss",
+      "The winner of the match between them is declared the winner of the tournament"
+    ],
+    "correct_index": 3,
+    "explanation": "If points of two teams are equal, the team which won the match between them is declared the winner.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q27",
+    "chapter_id": "c10",
+    "question": "A tournament where matches are played in groups first, and then group winners play each other, is a:",
+    "options": ["League Tournament", "Combination Tournament", "Challenge Tournament", "Knock-out Tournament"],
+    "correct_index": 1,
+    "explanation": "Combination tournaments are conducted when the matches are to be played on group or zonal basis (e.g., League cum Knock-out).",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q28",
+    "chapter_id": "c10",
+    "question": "Which of the following is an advantage of a League tournament?",
+    "options": [
+      "It takes less time",
+      "Even a team that loses once can still win the tournament",
+      "Fewer officials are required",
+      "It is cheaper to organize"
+    ],
+    "correct_index": 1,
+    "explanation": "In a league tournament, a team can still win the tournament even if it loses a match, unlike in a knock-out tournament.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q29",
+    "chapter_id": "c10",
+    "question": "The Olympic flag has how many interlocking rings?",
+    "options": ["3", "4", "5", "6"],
+    "correct_index": 2,
+    "explanation": "The Olympic flag has five interlocking rings of different colors.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q30",
+    "chapter_id": "c10",
+    "question": "What do the five rings of the Olympic flag represent?",
+    "options": [
+      "Five major sports",
+      "Five founding members",
+      "Five continents of the world",
+      "Five Olympic values"
+    ],
+    "correct_index": 2,
+    "explanation": "The five rings of the Olympic flag represent the five continents of the world.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q31",
+    "chapter_id": "c10",
+    "question": "Which color is NOT present in the rings of the Olympic flag?",
+    "options": ["Blue", "Yellow", "Orange", "Green"],
+    "correct_index": 2,
+    "explanation": "The rings are blue, yellow, black, green, and red.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q32",
+    "chapter_id": "c10",
+    "question": "The Olympic flame is lit using:",
+    "options": ["A matchstick", "Electricity", "Sun rays", "Gas burner"],
+    "correct_index": 2,
+    "explanation": "The Olympic flame is lit in Olympia with the help of sun rays.",
+    "ncert_page": 19,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q33",
+    "chapter_id": "c10",
+    "question": "Who was the first Indian to win an individual gold medal in the Olympic Games (2008)?",
+    "options": ["Neeraj Chopra", "Abhinav Bindra", "Milkha Singh", "Major Dhyan Chand"],
+    "correct_index": 1,
+    "explanation": "Abhinav Bindra won a gold medal in Shooting in the 2008 Beijing Olympics.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q34",
+    "chapter_id": "c10",
+    "question": "Who won the first individual Olympic medal for independent India (1952)?",
+    "options": ["Leander Paes", "K.D. Jadhav", "Karnam Malleswari", "Dhyan Chand"],
+    "correct_index": 1,
+    "explanation": "K.D. Jadhav won the first individual medal (Bronze in Wrestling) for independent India in 1952.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q35",
+    "chapter_id": "c10",
+    "question": "Who was the first Indian woman to win an Olympic medal?",
+    "options": ["P.T. Usha", "Saina Nehwal", "Karnam Malleswari", "Mary Kom"],
+    "correct_index": 2,
+    "explanation": "Karnam Malleswari won a Bronze medal in Weightlifting in 2000, becoming the first Indian woman to win an Olympic medal.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q36",
+    "chapter_id": "c10",
+    "question": "The Paralympic motto is:",
+    "options": ["Spirit in Motion", "Mind, Body, Spirit", "Humanity, Equality, Destiny", "Faster Together"],
+    "correct_index": 0,
+    "explanation": "The motto of the Paralympic movement is 'Spirit in Motion'.",
+    "ncert_page": 21,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q37",
+    "chapter_id": "c10",
+    "question": "Which Indian athlete won two Gold medals in Javelin Throw in the Paralympics (2004 and 2016)?",
+    "options": ["Mariyappan Thangavelu", "Deepa Malik", "Devendra Jhajharia", "Pramod Bhagat"],
+    "correct_index": 2,
+    "explanation": "Devendra Jhajharia won Gold medals in Javelin throw in 2004 and 2016 Paralympic games.",
+    "ncert_page": 21,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q38",
+    "chapter_id": "c10",
+    "question": "National Games in India are currently organized by which body?",
+    "options": ["SGFI", "SAI", "IOA", "Ministry of Youth Affairs"],
+    "correct_index": 2,
+    "explanation": "The National Games of India... are organised by the Indian Olympic Association (IOA).",
+    "ncert_page": 23,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q39",
+    "chapter_id": "c10",
+    "question": "The Khelo India Programme was introduced by the Ministry of Youth Affairs and Sports in which year?",
+    "options": ["2014-15", "2018-19", "2017-18", "2020-21"],
+    "correct_index": 2,
+    "explanation": "Ministry of Youth Affairs and Sports... introduced the 'Khelo India' programme in 2017-18.",
+    "ncert_page": 25,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q40",
+    "chapter_id": "c10",
+    "question": "In a knock-out tournament for 11 teams, how many rounds will be played?",
+    "options": ["3", "4", "5", "10"],
+    "correct_index": 1,
+    "explanation": "The number of rounds is the power of 2 that equals or exceeds N. For 11 teams, it is 2^4 = 16. So, 4 rounds.",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q41",
+    "chapter_id": "c10",
+    "question": "In a knock-out fixture of 27 teams, how many matches are in the first round?",
+    "options": ["12", "11", "13", "5"],
+    "correct_index": 1,
+    "explanation": "Next power of 2 is 32. Byes = 32 - 27 = 5. Teams playing in 1st round = (N - No. of Byes) = 27 - 5 = 22. Matches in 1st round = 22/2 = 11.",
+    "ncert_page": 28,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q42",
+    "chapter_id": "c10",
+    "question": "League tournaments are also known as:",
+    "options": ["Knock-out", "Round Robin", "Elimination", "Ladder"],
+    "correct_index": 1,
+    "explanation": "League tournament is also termed as Round Robin Tournament.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q43",
+    "chapter_id": "c10",
+    "question": "What is the primary disadvantage of a League tournament?",
+    "options": [
+      "Good teams can be eliminated early",
+      "It requires a long time and more money",
+      "It is difficult to decide a winner",
+      "Only the winner gets to play multiple matches"
+    ],
+    "correct_index": 1,
+    "explanation": "Disadvantages include: (i) It requires more time; (ii) It involves more money.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q44",
+    "chapter_id": "c10",
+    "question": "Special Olympics Bharat is specifically for people with:",
+    "options": ["Physical disabilities", "Visual impairment", "Intellectual disabilities", "Hearing impairment"],
+    "correct_index": 2,
+    "explanation": "Special Olympics Bharat... is an officially recognised programme... for people with intellectual disabilities.",
+    "ncert_page": 21,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q45",
+    "chapter_id": "c10",
+    "question": "How often are the National Games in India supposed to be held?",
+    "options": ["Every year", "Every two years", "Every four years", "Every five years"],
+    "correct_index": 1,
+    "explanation": "National games in India are held at an interval of two years.",
+    "ncert_page": 28,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q46",
+    "chapter_id": "c10",
+    "question": "In a Single League of 8 teams, what is the total number of matches?",
+    "options": ["28", "56", "32", "14"],
+    "correct_index": 0,
+    "explanation": "Formula N(N-1)/2. So, 8(7)/2 = 28.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q47",
+    "chapter_id": "c10",
+    "question": "Which of these is NOT a combination tournament?",
+    "options": ["Knock-out cum Knock-out", "League cum League", "Ladder cum Pyramid", "Knock-out cum League"],
+    "correct_index": 2,
+    "explanation": "Ladder and Pyramid are challenge tournaments, not combination.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q48",
+    "chapter_id": "c10",
+    "question": "The formula for calculating Byes in the Lower Half when the total number of Byes (NB) is odd is:",
+    "options": ["(NB+1)/2", "(NB-1)/2", "NB/2", "(NB+2)/2"],
+    "correct_index": 0,
+    "explanation": "For an odd number of Byes, Byes in Lower Half = (NB+1)/2.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q49",
+    "chapter_id": "c10",
+    "question": "Winning the 'Asian Games' or 'Olympic Games' is considered what level of competition?",
+    "options": ["Zonal", "National", "International", "Local"],
+    "correct_index": 2,
+    "explanation": "Tournaments like Asian and Olympic games are international level competitions.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c10_q50",
+    "chapter_id": "c10",
+    "question": "When were the first Ancient Olympic Games held?",
+    "options": ["1896", "1930", "776 BC", "1924"],
+    "correct_index": 2,
+    "explanation": "The first recorded Ancient Olympic Games were held in 776 BC.",
+    "ncert_page": 27,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  }
+]

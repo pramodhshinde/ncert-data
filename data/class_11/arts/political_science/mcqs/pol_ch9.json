@@ -1,1 +1,712 @@
-{"questions":[{"mcqId":"pol_ch9_q01","chapterId":"pol_ch9","question":"The Indian Constitution can be called a living document because:","options":["It is written on leather","It can be amended to meet changing needs","It is very old","It is very short"],"correctIndex":1,"explanation":"The Constitution is a living document as it can be amended through specified procedures to adapt to changing times.","ncertPage":1,"difficulty":"EASY","subject":"Political Science"}]}
+[
+  {
+    "mcq_id": "pol_c9_q01",
+    "chapter_id": "c9",
+    "question": "Which of the following countries is mentioned as having rewritten its constitution four times within 74 years?",
+    "options": ["India", "South Africa", "Soviet Union", "France"],
+    "correct_index": 2,
+    "explanation": "The text states that the Soviet Union had four constitutions in its life of 74 years (1918, 1924, 1936, and 1977).",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q02",
+    "chapter_id": "c9",
+    "question": "What is the primary reason the Indian Constitution is called a 'Living Document'?",
+    "options": [
+      "It was written on handmade paper",
+      "It remains static and never changes",
+      "It evolves and responds to changing situations and needs of the time",
+      "It is kept in a special library in Delhi"
+    ],
+    "correct_index": 2,
+    "explanation": "The Constitution is a document that keeps evolving and responding to changing situations, making it a 'living' document.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q03",
+    "chapter_id": "c9",
+    "question": "Article 368 of the Indian Constitution deals with:",
+    "options": [
+      "Emergency provisions",
+      "Fundamental Rights",
+      "The power of Parliament to amend the Constitution",
+      "Appointment of the Prime Minister"
+    ],
+    "correct_index": 2,
+    "explanation": "Article 368 contains the provisions regarding the power of Parliament to amend the Constitution and its procedure.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q04",
+    "chapter_id": "c9",
+    "question": "How many ways of amending the Constitution are provided in the Indian Constitution?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correct_index": 2,
+    "explanation": "There are three types of amendments: by simple majority, by special majority, and by special majority plus ratification by half of the states.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q05",
+    "chapter_id": "c9",
+    "question": "Which type of amendment requires a 'Special Majority' as per Article 368?",
+    "options": [
+      "Creation of new states",
+      "Most articles of the Constitution including Fundamental Rights",
+      "Changing the name of a city",
+      "Salary of the President"
+    ],
+    "correct_index": 1,
+    "explanation": "Most parts of the Constitution are amended by a special majority of both houses of Parliament.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q06",
+    "chapter_id": "c9",
+    "question": "A 'Special Majority' in the context of an amendment means:",
+    "options": [
+      "50% of the members present",
+      "Two-thirds of those present and voting AND a majority of the total strength of the House",
+      "All members of the Lok Sabha",
+      "Approval by the Prime Minister only"
+    ],
+    "correct_index": 1,
+    "explanation": "Amendment bills must be supported by a majority of total membership and two-thirds of those present and voting in each house separately.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q07",
+    "chapter_id": "c9",
+    "question": "For which of the following is the ratification by half of the State Legislatures required?",
+    "options": [
+      "Changing the name of a state",
+      "Provisions related to the distribution of powers between Union and States",
+      "Adding a new Fundamental Duty",
+      "Reducing the voting age"
+    ],
+    "correct_index": 1,
+    "explanation": "Provisions that affect the federal structure require ratification by at least half of the state legislatures.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q08",
+    "chapter_id": "c9",
+    "question": "Approximately how many amendments were made to the Indian Constitution in its first 69 years (as per text)?",
+    "options": ["50", "75", "103", "200"],
+    "correct_index": 2,
+    "explanation": "The text notes that as of January 2019, there were 103 amendments.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q09",
+    "chapter_id": "c9",
+    "question": "The 15th amendment, which increased the retirement age of High Court judges from 60 to 62, is an example of:",
+    "options": [
+      "A controversial political change",
+      "A technical amendment to clarify or improve the working of the Constitution",
+      "A violation of the Basic Structure",
+      "An amendment required by the President"
+    ],
+    "correct_index": 1,
+    "explanation": "Amendments like the 15th are often seen as technical or administrative clarifications.",
+    "ncert_page": 12,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q10",
+    "chapter_id": "c9",
+    "question": "The 42nd Amendment is often called the 'Mini-Constitution'. In which year was it passed?",
+    "options": ["1950", "1973", "1976", "1978"],
+    "correct_index": 2,
+    "explanation": "The 42nd amendment was a large-scale amendment passed in 1976 during the Emergency.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q11",
+    "chapter_id": "c9",
+    "question": "Which landmark Supreme Court case gave birth to the 'Theory of Basic Structure'?",
+    "options": ["Golaknath case", "Shah Bano case", "Kesavananda Bharati case", "Minerva Mills case"],
+    "correct_index": 2,
+    "explanation": "The theory of basic structure was first expressed in the Kesavananda Bharati case in 1973.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q12",
+    "chapter_id": "c9",
+    "question": "What does the 'Basic Structure' doctrine imply?",
+    "options": [
+      "Parliament can change any part of the Constitution",
+      "Certain core features of the Constitution cannot be amended by Parliament",
+      "The Constitution is invalid",
+      "Only the Supreme Court can write new laws"
+    ],
+    "correct_index": 1,
+    "explanation": "The doctrine sets a limit on Parliament's power to amend the Constitution by protecting its basic spirit.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q13",
+    "chapter_id": "c9",
+    "question": "Who has the final power to decide which elements constitute the 'Basic Structure'?",
+    "options": ["Parliament", "The President", "The Judiciary", "The Prime Minister"],
+    "correct_index": 2,
+    "explanation": "The judiciary has defined and interpreted which aspects form the basic structure.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q14",
+    "chapter_id": "c9",
+    "question": "The 44th Amendment (1978) was primarily intended to:",
+    "options": [
+      "Add 'Secular' to the Preamble",
+      "Cancel or reverse several changes made by the 42nd Amendment",
+      "Abolish the Rajya Sabha",
+      "Increase taxes"
+    ],
+    "correct_index": 1,
+    "explanation": "The 43rd and 44th amendments were passed to correct the 'imbalances' introduced during the Emergency by the 42nd amendment.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q15",
+    "chapter_id": "c9",
+    "question": "Which of the following describes the 'rigidity' of a constitution?",
+    "options": [
+      "It is written on stone",
+      "It is very difficult to amend",
+      "It has many pages",
+      "It is only for the military"
+    ],
+    "correct_index": 1,
+    "explanation": "Rigid constitutions (like the US) have very difficult procedures for amendment.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q16",
+    "chapter_id": "c9",
+    "question": "The 'Simple Majority' method of amendment is similar to:",
+    "options": [
+      "The process of making ordinary laws",
+      "The process of electing the President",
+      "A military order",
+      "A referendum"
+    ],
+    "correct_index": 0,
+    "explanation": "In many parts of the Indian Constitution, amendments can be made by simple majority, just like ordinary law-making.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q17",
+    "chapter_id": "c9",
+    "question": "What was the main reason for the large number of amendments between 1970 and 1980?",
+    "options": [
+      "Economic boom",
+      "Political instability and the conflict between Judiciary and Parliament",
+      "A new computer system",
+      "Requests from foreign countries"
+    ],
+    "correct_index": 1,
+    "explanation": "The decade was marked by intense legal and political struggle between the government and the courts.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q18",
+    "chapter_id": "c9",
+    "question": "According to the text, the Indian Constitution is a balance between:",
+    "options": [
+      "The North and South",
+      "Rigidity and Flexibility",
+      "English and Hindi",
+      "Past and Future"
+    ],
+    "correct_index": 1,
+    "explanation": "The makers of the Constitution wanted a document that was both flexible (to adapt) and rigid (to protect basic values).",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q19",
+    "chapter_id": "c9",
+    "question": "The 61st amendment reduced the voting age from 21 to:",
+    "options": ["16", "18", "20", "25"],
+    "correct_index": 1,
+    "explanation": "The 61st amendment lowered the voting age to 18 years.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q20",
+    "chapter_id": "c9",
+    "question": "The 73rd and 74th amendments are related to:",
+    "options": [
+      "Fundamental Rights",
+      "Local Self-Government (Panchayats and Municipalities)",
+      "High Court judges",
+      "Defense budget"
+    ],
+    "correct_index": 1,
+    "explanation": "These amendments brought changes to the local government structure.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q21",
+    "chapter_id": "c9",
+    "question": "Which of the following is NOT part of the 'Special Majority' requirement?",
+    "options": [
+      "Approval by the President first",
+      "Separate voting in both houses",
+      "Majority of total membership of the House",
+      "Two-thirds of members present and voting"
+    ],
+    "correct_index": 0,
+    "explanation": "The procedure starts in Parliament; President's approval comes at the end.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q22",
+    "chapter_id": "c9",
+    "question": "The Constitution of India was formally implemented from:",
+    "options": ["15 August 1947", "26 November 1949", "26 January 1950", "30 January 1948"],
+    "correct_index": 2,
+    "explanation": "The formal implementation started from 26 January 1950.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q23",
+    "chapter_id": "c9",
+    "question": "Amendments through 'Judicial Interpretation' occur when:",
+    "options": [
+      "The Supreme Court changes the wording of the Constitution",
+      "The Supreme Court gives a new meaning to existing provisions through judgments",
+      "Judges vote in Parliament",
+      "Laws are ignored"
+    ],
+    "correct_index": 1,
+    "explanation": "Judiciary has often changed the understanding of the Constitution without any formal change in wording.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q24",
+    "chapter_id": "c9",
+    "question": "A flexible constitution is one that:",
+    "options": [
+      "Can be easily amended",
+      "Is never amended",
+      "Is only used during holidays",
+      "Is written in pencil"
+    ],
+    "correct_index": 0,
+    "explanation": "Flexible constitutions (like the UK) can be changed easily by the legislature.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q25",
+    "chapter_id": "c9",
+    "question": "Provisions of the Constitution that are amended by 'Simple Majority' include:",
+    "options": [
+      "Fundamental Rights",
+      "Election of the President",
+      "Admission of new states",
+      "Directive Principles"
+    ],
+    "correct_index": 2,
+    "explanation": "Admission of new states and changing state boundaries are done by simple majority.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q26",
+    "chapter_id": "c9",
+    "question": "What is the 'Rule of Law' in the context of the basic structure?",
+    "options": [
+      "The rule that only lawyers can be ministers",
+      "A core feature that ensures the government acts according to law and is not above it",
+      "A law that is very basic",
+      "The right to own property"
+    ],
+    "correct_index": 1,
+    "explanation": "Rule of Law is generally accepted as a part of the basic structure of the Constitution.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q27",
+    "chapter_id": "c9",
+    "question": "Can an amendment be initiated in the State Legislatures in India?",
+    "options": [
+      "Yes, for all articles",
+      "No, all amendments must be initiated in Parliament",
+      "Only for fundamental rights",
+      "Only if the Governor agrees"
+    ],
+    "correct_index": 1,
+    "explanation": "Amendment can only be initiated in one of the houses of Parliament.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q28",
+    "chapter_id": "c9",
+    "question": "What happened in the Soviet Union in 1991 regarding its constitution?",
+    "options": [
+      "It became a world power",
+      "It celebrated its 100th anniversary",
+      "The federation disintegrated and the constitution became invalid",
+      "It adopted India's constitution"
+    ],
+    "correct_index": 2,
+    "explanation": "The disintegration of the Soviet Union led to the adoption of a new Russian constitution in 1993.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q29",
+    "chapter_id": "c9",
+    "question": "The 'Majority of total membership' requirement ensures that:",
+    "options": [
+      "A small number of members present cannot pass an amendment",
+      "The Prime Minister must be present",
+      "Only the majority party votes",
+      "Elections are held frequently"
+    ],
+    "correct_index": 0,
+    "explanation": "This requires that at least half the total members of the house must support the bill.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q30",
+    "chapter_id": "c9",
+    "question": "Why is the ratification of states needed for some amendments?",
+    "options": [
+      "To make the process faster",
+      "To ensure that the federal balance of power is not changed without the consent of the states",
+      "To give states more money",
+      "Because states have more members than Parliament"
+    ],
+    "correct_index": 1,
+    "explanation": "Ratification ensures that the Union government cannot unilaterally change provisions affecting state interests.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q31",
+    "chapter_id": "c9",
+    "question": "The 10th amendment related to 'anti-defection' is an example of an amendment based on:",
+    "options": [
+      "Technical errors",
+      "Political consensus to protect the democratic process",
+      "Judicial orders",
+      "A request from the President"
+    ],
+    "correct_index": 1,
+    "explanation": "It was passed to prevent elected representatives from switching parties for personal gain.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q32",
+    "chapter_id": "c9",
+    "question": "What is the 'Spirit' of the Constitution?",
+    "options": [
+      "The physical paper",
+      "The underlying values and philosophy like democracy and secularism",
+      "A ghost",
+      "The ink used"
+    ],
+    "correct_index": 1,
+    "explanation": "The basic structure is often identified with the fundamental spirit of the Constitution.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q33",
+    "chapter_id": "c9",
+    "question": "The French Constitution of the Fifth Republic was adopted in which year?",
+    "options": ["1789", "1848", "1946", "1958"],
+    "correct_index": 3,
+    "explanation": "The text mentions that France had many constitutions, with the current Fifth Republic's starting in 1958.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q34",
+    "chapter_id": "c9",
+    "question": "In the Kesavananda case, the Supreme Court ruled that 'Property' was:",
+    "options": [
+      "Part of the basic structure",
+      "Not part of the basic structure and could be restricted",
+      "Sacred and unchangeable",
+      "Only for the government"
+    ],
+    "correct_index": 1,
+    "explanation": "The court ruled that while some features are basic, the right to property is not one of them.",
+    "ncert_page": 16,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q35",
+    "chapter_id": "c9",
+    "question": "The 'Procedure established by law' vs 'Due process of law' is a distinction primarily made by:",
+    "options": ["Parliament", "The Judiciary", "The Police", "Tax collectors"],
+    "correct_index": 1,
+    "explanation": "Judicial interpretation has expanded 'procedure established by law' to mean something closer to 'due process'.",
+    "ncert_page": 18,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q36",
+    "chapter_id": "c9",
+    "question": "Which of these is NOT a reason for amending a constitution?",
+    "options": [
+      "Society changes",
+      "New problems arise",
+      "To make the book look newer",
+      "Political values change"
+    ],
+    "correct_index": 2,
+    "explanation": "Physical appearance is not a reason for constitutional change.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q37",
+    "chapter_id": "c9",
+    "question": "The 24th amendment was passed to:",
+    "options": [
+      "Give more power to states",
+      "Declare that Parliament has the power to amend any part including fundamental rights",
+      "Abolish the Supreme Court",
+      "Change the flag"
+    ],
+    "correct_index": 1,
+    "explanation": "The 24th amendment was a response to the Golaknath case judgment.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q38",
+    "chapter_id": "c9",
+    "question": "Between 2001 and 2003, there was a ________ in the number of amendments.",
+    "options": ["Decrease", "Spurt/Increase", "Complete stop", "Fluctuation"],
+    "correct_index": 1,
+    "explanation": "In those three years, ten amendments were passed.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q39",
+    "chapter_id": "c9",
+    "question": "The 'Sacredness' of a constitution means it should be:",
+    "options": [
+      "Worshipped in a temple",
+      "Respected as a fundamental document while allowing for necessary change",
+      "Never touched",
+      "Hidden from public"
+    ],
+    "correct_index": 1,
+    "explanation": "A constitution is a sacred document but not so static that it cannot change with time.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q40",
+    "chapter_id": "c9",
+    "question": "Which of these features is generally included in the 'Basic Structure'?",
+    "options": ["Secularism", "Federalism", "Judicial Review", "All of the above"],
+    "correct_index": 3,
+    "explanation": "The text lists several features like secularism and federalism that the court has upheld as basic.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q41",
+    "chapter_id": "c9",
+    "question": "An amendment bill ________ a joint session if there is a disagreement between houses.",
+    "options": ["Can trigger", "Does not have the provision for", "Must always lead to", "Can only trigger in Lok Sabha"],
+    "correct_index": 1,
+    "explanation": "Unlike ordinary bills, amendment bills must be passed by both houses separately; there is no joint session.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q42",
+    "chapter_id": "c9",
+    "question": "The 'Ratification' by states for an amendment must be by:",
+    "options": ["Simple majority of state legislatures", "Two-thirds of state legislatures", "Unanimous vote", "The Governor's signature"],
+    "correct_index": 0,
+    "explanation": "The ratification by states only requires a simple majority in the state legislatures.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q43",
+    "chapter_id": "c9",
+    "question": "Constitutional longevity is often linked to:",
+    "options": [
+      "The color of the ink",
+      "The ability to balance stability with change",
+      "The number of lawyers in the country",
+      "Strictness of the police"
+    ],
+    "correct_index": 1,
+    "explanation": "A document that is too rigid or too flexible is less likely to survive long-term.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q44",
+    "chapter_id": "c9",
+    "question": "The 52nd amendment (Anti-defection) was passed in which decade?",
+    "options": ["1950s", "1970s", "1980s", "2000s"],
+    "correct_index": 2,
+    "explanation": "The 52nd amendment was passed in 1985.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q45",
+    "chapter_id": "c9",
+    "question": "In the US, how many states must ratify an amendment?",
+    "options": ["Half", "Two-thirds", "Three-fourths", "All states"],
+    "correct_index": 2,
+    "explanation": "The text mentions the US procedure requires three-fourths of the states to ratify.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q46",
+    "chapter_id": "c9",
+    "question": "Who said the Constitution is a 'Common property of the people'?",
+    "options": ["Jawaharlal Nehru", "Dr. Ambedkar", "Mahatma Gandhi", "Sardar Patel"],
+    "correct_index": 0,
+    "explanation": "The text quotes Nehru's view that the Constitution should not be made so rigid that it stops a nation's growth.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q47",
+    "chapter_id": "c9",
+    "question": "The 'Basic Structure' theory has increased the power of ________.",
+    "options": ["The Police", "The Judiciary", "The Prime Minister", "Political Parties"],
+    "correct_index": 1,
+    "explanation": "The theory has given the judiciary the power to strike down even constitutional amendments.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q48",
+    "chapter_id": "c9",
+    "question": "Technical amendments are often required because of:",
+    "options": [
+      "Typing mistakes in the original",
+      "Clerical errors or need for procedural clarity",
+      "New inventions like the internet",
+      "Change of King"
+    ],
+    "correct_index": 1,
+    "explanation": "These are non-controversial changes to smooth out the working of the document.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q49",
+    "chapter_id": "c9",
+    "question": "What is the 'Aspirations' of the people in a living constitution?",
+    "options": [
+      "To get free food",
+      "The evolving social and economic goals of the society",
+      "To move to the moon",
+      "To win a cricket match"
+    ],
+    "correct_index": 1,
+    "explanation": "A living document must accommodate the changing aspirations of its people.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c9_q50",
+    "chapter_id": "c9",
+    "question": "Amendment bills go to the President for assent ________.",
+    "options": [
+      "After being passed by both houses",
+      "Before being introduced in Parliament",
+      "Only if the Supreme Court allows",
+      "Only if states reject it"
+    ],
+    "correct_index": 0,
+    "explanation": "The final stage of the amendment process is the President's signature.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  }
+]

@@ -1,1 +1,682 @@
-{"questions":[{"mcqId":"pol_ch6_q01","chapterId":"pol_ch6","question":"Judicial review means courts can:","options":["Make new laws","Review executive salaries","Examine constitutionality of laws","Appoint judges"],"correctIndex":2,"explanation":"Judicial review is the power of courts to examine whether laws conform to the Constitution.","ncertPage":1,"difficulty":"EASY","subject":"Political Science"}]}
+[
+  {
+    "mcq_id": "pol_c6_q01",
+    "chapter_id": "c6",
+    "question": "What is the primary function of the 'Rule of Law' as mentioned in the text?",
+    "options": [
+      "To give the police absolute power",
+      "To ensure that all individuals are subjected to the same law regardless of status",
+      "To allow the rich to make their own rules",
+      "To replace the Constitution with judicial decrees"
+    ],
+    "correct_index": 1,
+    "explanation": "The idea of rule of law implies that all individuals — rich and poor, men or women, forward or backward castes — are subjected to the same law.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q02",
+    "chapter_id": "c6",
+    "question": "Independence of the judiciary means that:",
+    "options": [
+      "Judges are not accountable to anyone",
+      "The executive and legislature must not restrain the functioning of the judiciary",
+      "Judges can make laws instead of the Parliament",
+      "The judiciary can ignore the Constitution"
+    ],
+    "correct_index": 1,
+    "explanation": "Independence of judiciary means that the other organs of the government like the executive and legislature must not restrain the functioning of the judiciary in such a way that it is unable to do justice.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q03",
+    "chapter_id": "c6",
+    "question": "Who appoints the Chief Justice of India (CJI)?",
+    "options": [
+      "The Prime Minister",
+      "The Parliament",
+      "The President of India",
+      "The outgoing Chief Justice"
+    ],
+    "correct_index": 2,
+    "explanation": "The Chief Justice of India is appointed by the President.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q04",
+    "chapter_id": "c6",
+    "question": "What is the 'convention' usually followed in the appointment of the Chief Justice of India?",
+    "options": [
+      "The youngest judge is appointed",
+      "The senior-most judge of the Supreme Court is appointed",
+      "The President chooses a judge from their own state",
+      "A judge is chosen through a national election"
+    ],
+    "correct_index": 1,
+    "explanation": "Over the years, a convention had developed whereby the senior-most judge of the Supreme Court was appointed as the Chief Justice of India.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q05",
+    "chapter_id": "c6",
+    "question": "In which years was the convention of appointing the senior-most judge as CJI broken?",
+    "options": ["1950 and 1960", "1973 and 1977", "1980 and 1990", "1993 and 1998"],
+    "correct_index": 1,
+    "explanation": "This convention was broken twice: in 1973 A. N. Ray was appointed superseding three senior judges, and in 1977 Justice M.U. Beg was appointed superseding Justice H.R. Khanna.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q06",
+    "chapter_id": "c6",
+    "question": "The 'Collegium' system for appointing judges involves the CJI and how many senior-most judges?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correct_index": 2,
+    "explanation": "The Supreme Court has come up with the novel procedure: it suggested that the Chief Justice should recommend names of persons to be appointed in consultation with four senior-most judges of the Court.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q07",
+    "chapter_id": "c6",
+    "question": "Supreme Court judges retire at the age of ________ years.",
+    "options": ["60", "62", "65", "70"],
+    "correct_index": 2,
+    "explanation": "The judges of the Supreme Court hold office till they reach the age of 65 years.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q08",
+    "chapter_id": "c6",
+    "question": "High Court judges retire at the age of ________ years.",
+    "options": ["60", "62", "65", "68"],
+    "correct_index": 1,
+    "explanation": "Judges of the High Court hold office till they reach the age of 62 years.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q09",
+    "chapter_id": "c6",
+    "question": "A judge of the Supreme Court or High Court can be removed only on the ground of:",
+    "options": [
+      "Losing a case",
+      "Proved misbehaviour or incapacity",
+      "Political disagreement with the PM",
+      "Retirement by the President at any time"
+    ],
+    "correct_index": 1,
+    "explanation": "A judge can be removed only on the ground of 'proved misbehaviour or incapacity'.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q10",
+    "chapter_id": "c6",
+    "question": "The motion for removal of a judge must be supported by which type of majority in Parliament?",
+    "options": [
+      "Simple majority",
+      "Special majority (two-thirds of members present and voting and majority of total strength)",
+      "Unanimous vote",
+      "Majority of the Rajya Sabha only"
+    ],
+    "correct_index": 1,
+    "explanation": "A motion of removal must be supported by a special majority of both Houses of Parliament.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q11",
+    "chapter_id": "c6",
+    "question": "Who was the first judge of the Supreme Court to face a removal motion in Parliament?",
+    "options": ["Justice H.R. Khanna", "Justice V. Ramaswami", "Justice A.N. Ray", "Justice M.U. Beg"],
+    "correct_index": 1,
+    "explanation": "In 1991, the first-ever motion to remove a Supreme Court Justice (Justice V. Ramaswami) was signed by 108 MPs.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q12",
+    "chapter_id": "c6",
+    "question": "Why did the removal motion against Justice V. Ramaswami fail in the Lok Sabha?",
+    "options": [
+      "The motion was withdrawn",
+      "The Congress party abstained from voting, and the motion didn't get the required two-thirds majority",
+      "The President vetoed it",
+      "The charges were found false"
+    ],
+    "correct_index": 1,
+    "explanation": "While the motion got a majority of those present and voting, the Congress party abstained from voting... therefore, the motion did not get the support of two-thirds of the members present and voting.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q13",
+    "chapter_id": "c6",
+    "question": "What is the single integrated judicial system in India?",
+    "options": [
+      "Separate laws for every state",
+      "A structure where the Supreme Court is at the top and its decisions bind all lower courts",
+      "A system where only the High Court can hear appeals",
+      "A system where the President manages the courts"
+    ],
+    "correct_index": 1,
+    "explanation": "The Constitution of India provides for a single integrated judicial system... the decisions of the Supreme Court are binding on all other courts of the country.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q14",
+    "chapter_id": "c6",
+    "question": "Which court has the power to transfer a judge of a High Court?",
+    "options": ["The Governor", "The Parliament", "The Supreme Court", "The State Legislature"],
+    "correct_index": 2,
+    "explanation": "The Supreme Court can transfer a Judge of a High Court.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q15",
+    "chapter_id": "c6",
+    "question": "Which jurisdiction allows the Supreme Court to hear disputes between the Union and the States?",
+    "options": ["Appellate Jurisdiction", "Advisory Jurisdiction", "Original Jurisdiction", "Special Powers"],
+    "correct_index": 2,
+    "explanation": "Original jurisdiction means cases that can be directly considered by the Supreme Court... It settles disputes between the Union and States.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q16",
+    "chapter_id": "c6",
+    "question": "The power of the Supreme Court to review a judgment of a High Court or lower court is called:",
+    "options": ["Original Jurisdiction", "Appellate Jurisdiction", "Advisory Jurisdiction", "Writ Jurisdiction"],
+    "correct_index": 1,
+    "explanation": "Appellate jurisdiction means that the Supreme Court is the highest court of appeal... and will review the case and the legal issues involved.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q17",
+    "chapter_id": "c6",
+    "question": "Under Advisory Jurisdiction, who can seek the opinion of the Supreme Court on a matter of public importance?",
+    "options": ["The Prime Minister", "The Parliament", "The President", "The Chief Justice"],
+    "correct_index": 2,
+    "explanation": "The President of India can refer any matter which is of public importance... to the Supreme Court for advice.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q18",
+    "chapter_id": "c6",
+    "question": "The Supreme Court's 'Writ Jurisdiction' is primarily used for:",
+    "options": [
+      "Settling property disputes",
+      "Protection of Fundamental Rights",
+      "Advising the President",
+      "Transferring judges"
+    ],
+    "correct_index": 1,
+    "explanation": "Any individual, whose fundamental right has been violated, can directly move the Supreme Court... The Supreme Court can give special orders in the form of writs.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q19",
+    "chapter_id": "c6",
+    "question": "What is Public Interest Litigation (PIL)?",
+    "options": [
+      "A law passed by Parliament",
+      "A case where an individual or organization files a petition on behalf of those whose rights are violated but cannot approach the court",
+      "A private contract between two companies",
+      "A government investigation into a crime"
+    ],
+    "correct_index": 1,
+    "explanation": "A person can also approach the courts on behalf of others... when it involves a point of public interest. This is known as Public Interest Litigation (PIL).",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q20",
+    "chapter_id": "c6",
+    "question": "Which period in India saw the emergence of PIL and Judicial Activism?",
+    "options": ["1950s", "1960s", "Late 1970s (around 1979)", "After 2010"],
+    "correct_index": 2,
+    "explanation": "The chief instrument through which judicial activism has flourished in India is Public Interest Litigation... and it started around 1979.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q21",
+    "chapter_id": "c6",
+    "question": "The 'Bhagalpur blinded prisoners' case (1980) is an early example of:",
+    "options": ["Advisory Jurisdiction", "Judicial Review of an Amendment", "Judicial Activism through PIL", "Removal of a judge"],
+    "correct_index": 2,
+    "explanation": "In 1980, the court heard a case about blinded prisoners in Bihar based on a newspaper report/petition, marking the start of PIL.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q22",
+    "chapter_id": "c6",
+    "question": "What has been the most significant impact of PIL on the judicial system?",
+    "options": [
+      "It has made justice more expensive",
+      "It has democratised the judicial system by giving the poor access to courts",
+      "It has reduced the number of cases in courts",
+      "It has given the President more power"
+    ],
+    "correct_index": 1,
+    "explanation": "PIL has democratised the entire judicial system. Justice became available to not just individuals but also to groups.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q23",
+    "chapter_id": "c6",
+    "question": "One negative aspect of judicial activism/PIL is:",
+    "options": [
+      "It is too slow",
+      "It has overburdened the courts with cases",
+      "It prevents the poor from getting justice",
+      "It is only for religious issues"
+    ],
+    "correct_index": 1,
+    "explanation": "It has overburdened the courts... and has blurred the line of distinction between the executive and legislature on the one hand and the judiciary on the other.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q24",
+    "chapter_id": "c6",
+    "question": "The power of the judiciary to examine the constitutionality of any law or executive order is called:",
+    "options": ["Judicial Review", "Writ Jurisdiction", "Appellate Review", "Legal Audit"],
+    "correct_index": 0,
+    "explanation": "Judicial Review means the power of the Supreme Court (or High Courts) to examine the constitutionality of any law.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q25",
+    "chapter_id": "c6",
+    "question": "In which case did the Supreme Court give the 'Basic Structure' doctrine?",
+    "options": ["Golaknath case", "Kesavananda Bharati case", "Minerva Mills case", "Maneka Gandhi case"],
+    "correct_index": 1,
+    "explanation": "The most famous is the Kesavananda Bharati case (1973). In this case, the Court ruled that there is a 'basic structure' of the Constitution.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q26",
+    "chapter_id": "c6",
+    "question": "What is the relationship between the Judiciary and Rights?",
+    "options": [
+      "The Judiciary can take away rights",
+      "The Judiciary acts as the protector of Fundamental Rights through writs and judicial review",
+      "Rights are only protected by the Parliament",
+      "Judges don't have rights"
+    ],
+    "correct_index": 1,
+    "explanation": "The Supreme Court can restore fundamental rights by issuing writs and can declare laws as unconstitutional if they violate rights.",
+    "ncert_page": 17,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q27",
+    "chapter_id": "c6",
+    "question": "According to the text, what happened during the 'Emergency' (1975-1977) regarding the judiciary?",
+    "options": [
+      "The judiciary became more powerful than ever",
+      "The court could not protect the personal liberty of a person, according to its own ruling (ADM Jabalpur case)",
+      "The Parliament was abolished by the court",
+      "All judges resigned in protest"
+    ],
+    "correct_index": 1,
+    "explanation": "In 1975, the court in the ADM Jabalpur case ruled that during emergency, the government could take away a person's right to life and liberty.",
+    "ncert_page": 15,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q28",
+    "chapter_id": "c6",
+    "question": "The 'Single Integrated Judicial System' implies that:",
+    "options": [
+      "Every state has its own Supreme Court",
+      "Lower courts must follow the rules set by the High Court and Supreme Court",
+      "High Courts are not part of the system",
+      "Judges are elected by the people"
+    ],
+    "correct_index": 1,
+    "explanation": "Decisions of the Supreme Court are binding on all courts. High Courts can hear appeals from lower courts and exercise control over them.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q29",
+    "chapter_id": "c6",
+    "question": "Which of these is NOT a level of court in the Indian judicial structure?",
+    "options": ["Supreme Court of India", "High Courts", "District Courts", "International Court of Justice in India"],
+    "correct_index": 3,
+    "explanation": "The hierarchy is Supreme Court, High Court, District Court, and Subordinate Courts.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q30",
+    "chapter_id": "c6",
+    "question": "The 'District Court' primarily deals with:",
+    "options": [
+      "Disputes between two states",
+      "Cases arising in the district and appeals from lower courts",
+      "Appointing Supreme Court judges",
+      "Issuing writs to protect fundamental rights"
+    ],
+    "correct_index": 1,
+    "explanation": "District Courts deal with cases arising in the District and hear appeals from lower courts.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q31",
+    "chapter_id": "c6",
+    "question": "How does the Constitution ensure the 'Financial Independence' of the judiciary?",
+    "options": [
+      "Judges can tax the people",
+      "The salaries of judges are not subject to the vote of the legislature",
+      "Judges are the richest people in India",
+      "Judges get paid in gold"
+    ],
+    "correct_index": 1,
+    "explanation": "The salaries and allowances of the judges are not subjected to the vote of the legislature.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q32",
+    "chapter_id": "c6",
+    "question": "Can the conduct of a judge be discussed in the Parliament?",
+    "options": [
+      "Yes, at any time",
+      "No, except when the Parliament is considering a removal motion",
+      "Only if the judge allows it",
+      "Only in the Rajya Sabha"
+    ],
+    "correct_index": 1,
+    "explanation": "The conduct of the judges cannot be discussed in the Parliament except when the Parliament is considering a removal motion.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q33",
+    "chapter_id": "c6",
+    "question": "The Supreme Court has 'Contempt of Court' power to:",
+    "options": [
+      "Arrest anyone they don't like",
+      "Punish those who are found guilty of its contempt",
+      "Change the Prime Minister",
+      "Abolish a law without review"
+    ],
+    "correct_index": 1,
+    "explanation": "The judiciary has the power to penalise those who are found guilty of contempt of court.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q34",
+    "chapter_id": "c6",
+    "question": "In which case did the Supreme Court rule that Parliament cannot amend Fundamental Rights?",
+    "options": ["Golaknath case (1967)", "Kesavananda Bharati case", "ADM Jabalpur case", "Shah Bano case"],
+    "correct_index": 0,
+    "explanation": "In the Golaknath case, the court ruled that the Parliament cannot take away fundamental rights.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q35",
+    "chapter_id": "c6",
+    "question": "High Courts can issue writs under which Article of the Constitution?",
+    "options": ["Article 32", "Article 131", "Article 226", "Article 143"],
+    "correct_index": 2,
+    "explanation": "High Courts have the power to issue writs for enforcing fundamental rights (Article 226).",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q36",
+    "chapter_id": "c6",
+    "question": "The 'Advisory' opinion given by the Supreme Court is:",
+    "options": [
+      "Binding on the President",
+      "Not binding on the President",
+      "Final law of the land",
+      "Given by the junior-most judge"
+    ],
+    "correct_index": 1,
+    "explanation": "The Supreme Court is not bound to give an opinion on such matters and the President is not bound to accept such an advice.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q37",
+    "chapter_id": "c6",
+    "question": "What is the primary utility of the 'Advisory Jurisdiction'?",
+    "options": [
+      "To punish the President",
+      "To help the government get a legal opinion before taking an action",
+      "To increase the work of the court",
+      "To delay elections"
+    ],
+    "correct_index": 1,
+    "explanation": "It allows the government to seek legal opinion on a matter of importance before taking action.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q38",
+    "chapter_id": "c6",
+    "question": "In a PIL, a petition can be filed based on:",
+    "options": ["Only a legal document", "A newspaper report or even a letter to the court", "Only if the victim signs it", "A government order only"],
+    "correct_index": 1,
+    "explanation": "Courts even considered cases on the basis of newspaper reports and postal letters received by the court.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q39",
+    "chapter_id": "c6",
+    "question": "Judicial activism has forced which of the following to be more accountable?",
+    "options": ["Schools", "Hospitals", "The Executive (including jails, police, etc.)", "Foreign countries"],
+    "correct_index": 2,
+    "explanation": "It has forced executive accountability by monitoring the working of institutions like jails and police.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q40",
+    "chapter_id": "c6",
+    "question": "The power of 'Judicial Review' belongs to:",
+    "options": [
+      "Only the Supreme Court",
+      "Both Supreme Court and High Courts",
+      "District Courts",
+      "The Parliament"
+    ],
+    "correct_index": 1,
+    "explanation": "Both the Supreme Court and the High Courts have the power of Judicial Review.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q41",
+    "chapter_id": "c6",
+    "question": "Which Article says that the law declared by the Supreme Court shall be binding on all courts?",
+    "options": ["Article 32", "Article 141", "Article 226", "Article 124"],
+    "correct_index": 1,
+    "explanation": "Article 141 states the law declared by the Supreme Court shall be binding on all courts within the territory of India.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q42",
+    "chapter_id": "c6",
+    "question": "The conflict between Parliament and Judiciary in the early years was over:",
+    "options": ["Right to Freedom", "Right to Property", "Right to Religion", "Election rules"],
+    "correct_index": 1,
+    "explanation": "In the period 1967 and 1973, this controversy became very serious... particularly over the right to property and land reform laws.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q43",
+    "chapter_id": "c6",
+    "question": "The 'Basic Structure' doctrine implies that:",
+    "options": [
+      "Parliament can change any part of the Constitution",
+      "Parliament cannot change certain core features of the Constitution",
+      "The Constitution must be rewritten every 20 years",
+      "Only the President can amend the Constitution"
+    ],
+    "correct_index": 1,
+    "explanation": "The Court ruled that the Parliament could not amend those parts which were part of the 'basic structure' of the Constitution.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q44",
+    "chapter_id": "c6",
+    "question": "The Supreme Court is a 'Court of Record'. This means:",
+    "options": [
+      "It records every song in India",
+      "Its decisions are recorded for evidence and testimony and are binding on lower courts",
+      "It keeps records of all birthdays",
+      "It is the only court allowed to use paper"
+    ],
+    "correct_index": 1,
+    "explanation": "As a Court of Record, all the decisions and proceedings of the Supreme Court are kept as records for future reference and carry evidentiary value.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q45",
+    "chapter_id": "c6",
+    "question": "Which functionary is at the top of the 'State Judiciary'?",
+    "options": ["The Governor", "The Chief Justice of the High Court", "The District Judge", "The Advocate General"],
+    "correct_index": 1,
+    "explanation": "The High Court is at the top of the judicial hierarchy in each state.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q46",
+    "chapter_id": "c6",
+    "question": "Under Appellate Jurisdiction, the Supreme Court can hear which types of cases?",
+    "options": ["Civil cases", "Criminal cases", "Constitutional cases", "All of the above"],
+    "correct_index": 3,
+    "explanation": "Appeals can be made to the Supreme Court in constitutional, civil, and criminal matters.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q47",
+    "chapter_id": "c6",
+    "question": "The 'Coloured Glasses' example in the text refers to:",
+    "options": [
+      "Judges having to wear glasses",
+      "How the Constitution is seen through the 'coloured glasses' of Fundamental Rights",
+      "The color of the courtroom walls",
+      "How people should view the President"
+    ],
+    "correct_index": 1,
+    "explanation": "Judicial review is like looking at laws through the coloured glasses of Fundamental Rights to see if they match.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q48",
+    "chapter_id": "c6",
+    "question": "What is the primary goal of the 'Independence of Judiciary' according to the conclusion?",
+    "options": [
+      "To make judges powerful",
+      "To protect democracy and human rights",
+      "To defeat the Prime Minister",
+      "To increase the speed of trials"
+    ],
+    "correct_index": 1,
+    "explanation": "Independence of the judiciary is necessary for protecting the rights of the people and for the successful working of democracy.",
+    "ncert_page": 21,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q49",
+    "chapter_id": "c6",
+    "question": "A dispute between two states like Tamil Nadu and Karnataka over river water goes to:",
+    "options": ["High Court of Tamil Nadu", "High Court of Karnataka", "Supreme Court's Original Jurisdiction", "A District Court"],
+    "correct_index": 2,
+    "explanation": "Disputes between two or more states come under the Original Jurisdiction of the Supreme Court.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c6_q50",
+    "chapter_id": "c6",
+    "question": "Who is the 'Final Interpreter' of the Indian Constitution?",
+    "options": ["The President", "The Parliament", "The Supreme Court", "The Prime Minister"],
+    "correct_index": 2,
+    "explanation": "The judiciary, especially the Supreme Court, is the final interpreter of the Constitution.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  }
+]

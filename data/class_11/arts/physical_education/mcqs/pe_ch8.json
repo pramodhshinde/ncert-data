@@ -1,1 +1,597 @@
-{"questions":[{"mcqId":"pe_arts_ch8_q01","chapterId":"pe_arts_ch8","question":"The study of the structure of the human body is called:","options":["Physiology","Anatomy","Biology","Psychology"],"correctIndex":1,"explanation":"Anatomy is the science studying the structure and organization of living organisms including the human body.","ncertPage":1,"difficulty":"EASY","subject":"Physical Education"}]}
+[
+  {
+    "mcq_id": "c8_q01",
+    "chapter_id": "c8",
+    "question": "What is the primary definition of 'Physical Fitness' according to the text?",
+    "options": [
+      "The ability to lift maximum weight",
+      "A state of health and well-being achieved through activity, diet, and recovery",
+      "The capacity to run a marathon without training",
+      "Having a body with very low fat percentage"
+    ],
+    "correct_index": 1,
+    "explanation": "Physical fitness is defined as a state of health and well-being that develops capacity to perform better in sports, jobs, and daily work through moderate/vigorous activity, balanced diet, and recovery.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q02",
+    "chapter_id": "c8",
+    "question": "Which of the following is NOT one of the five components of health-related physical fitness mentioned in the text?",
+    "options": ["Muscular Strength", "Muscular Endurance", "Flexibility", "Agility"],
+    "correct_index": 3,
+    "explanation": "The text lists Muscular Strength, Muscular Endurance, Flexibility, Body Composition, and Cardiovascular Endurance. Agility is usually considered a skill-related component.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q03",
+    "chapter_id": "c8",
+    "question": "Muscular strength is directly related to:",
+    "options": ["Oxygen consumption", "Force production", "Range of motion", "Heart rate"],
+    "correct_index": 1,
+    "explanation": "Muscular strength is directly related to force production, which is necessary for every movement of body parts.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q04",
+    "chapter_id": "c8",
+    "question": "What is 'Muscular Endurance'?",
+    "options": [
+      "The ability of a muscle to exert maximum force once",
+      "The ability of a muscle to perform repeated contractions against resistance",
+      "The ratio of fat to lean body mass",
+      "The maximum range of motion in a joint"
+    ],
+    "correct_index": 1,
+    "explanation": "Muscular endurance is the ability of a muscle or group of muscles to perform repeated contractions against a resistance for an extended period of time.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q05",
+    "chapter_id": "c8",
+    "question": "Which type of muscle fibers are more helpful in developing 'Endurance'?",
+    "options": ["Fast twitch fibers", "Slow twitch fibers", "Cardiac fibers", "Intermediate fibers"],
+    "correct_index": 1,
+    "explanation": "Slow twitch fibers (Type I) are more efficient at using oxygen to generate more fuel for continuous, extended muscle contractions over a long time.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q06",
+    "chapter_id": "c8",
+    "question": "Which component of physical fitness involves the range of motion of a joint?",
+    "options": ["Body Composition", "Cardiovascular Endurance", "Flexibility", "Muscular Strength"],
+    "correct_index": 2,
+    "explanation": "Flexibility is the range of motion (ROM) of a joint or series of joints.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q07",
+    "chapter_id": "c8",
+    "question": "Flexibility is primarily influenced by which of the following internal factors?",
+    "options": ["Time of day", "Structure of the joint", "Atmospheric pressure", "Social environment"],
+    "correct_index": 1,
+    "explanation": "Factors affecting flexibility include the structure of the joint, ligaments, tendons, and muscle mass.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q08",
+    "chapter_id": "c8",
+    "question": "Which method of stretching is considered the most universally practiced and safe?",
+    "options": ["Ballistic Method", "Dynamic Method", "Static Stretching", "PNF"],
+    "correct_index": 2,
+    "explanation": "Static stretching is the most common and universally practiced method where a position is held for 10-30 seconds.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q09",
+    "chapter_id": "c8",
+    "question": "What does PNF stand for in the context of flexibility training?",
+    "options": [
+      "Peripheral Nerve Function",
+      "Proprioceptive Neuromuscular Facilitation",
+      "Positive Neural Feedback",
+      "Physical Neurological Fitness"
+    ],
+    "correct_index": 1,
+    "explanation": "PNF stands for Proprioceptive Neuromuscular Facilitation, which is an advanced form of flexibility training.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q10",
+    "chapter_id": "c8",
+    "question": "Which stretching method involves rhythmic movements and swinging of limbs to increase range of motion?",
+    "options": ["Static Method", "Passive Method", "Ballistic Method", "Isometric Method"],
+    "correct_index": 2,
+    "explanation": "Ballistic method uses momentum from repeated rhythmic movements or swinging to increase the range of motion.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q11",
+    "chapter_id": "c8",
+    "question": "'Body Composition' refers to the ratio of:",
+    "options": [
+      "Height to Weight",
+      "Muscle mass to bone mass",
+      "Fat to lean body mass (water, bone, muscle, and organs)",
+      "Upper body strength to lower body strength"
+    ],
+    "correct_index": 2,
+    "explanation": "Body composition is used to describe the percentage of fat, bone, water, and muscle in human bodies.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q12",
+    "chapter_id": "c8",
+    "question": "Which of the following is a common method for measuring body composition?",
+    "options": ["Stopwatch", "Skinfold Caliper", "Ruler", "Thermometer"],
+    "correct_index": 1,
+    "explanation": "Methods like Skinfold Calipers and Body Mass Index (BMI) are used to measure body composition.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q13",
+    "chapter_id": "c8",
+    "question": "What is the formula to calculate Body Mass Index (BMI)?",
+    "options": [
+      "Weight (kg) / Height (m)",
+      "Weight (kg) / Height (m)²",
+      "Height (m) / Weight (kg)",
+      "Weight (lbs) / Height (inches)"
+    ],
+    "correct_index": 1,
+    "explanation": "BMI is calculated by dividing weight in kilograms by the square of height in meters.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q14",
+    "chapter_id": "c8",
+    "question": "A person with a BMI between 25.0 and 29.9 is categorized as:",
+    "options": ["Underweight", "Healthy Weight", "Overweight", "Obese"],
+    "correct_index": 2,
+    "explanation": "According to standard BMI categories, 25.0–29.9 is considered overweight.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q15",
+    "chapter_id": "c8",
+    "question": "Which component is defined as the ability of the heart and lungs to supply oxygen to muscles during physical activity?",
+    "options": ["Muscular Strength", "Cardiovascular Endurance", "Flexibility", "Body Composition"],
+    "correct_index": 1,
+    "explanation": "Cardiovascular endurance is the ability of the heart, lungs, and blood vessels to deliver oxygen to your body tissues.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q16",
+    "chapter_id": "c8",
+    "question": "Aerobic capacity refers to:",
+    "options": [
+      "The ability to work without oxygen",
+      "The ability of muscles to consume oxygen while working",
+      "The maximum force a muscle can exert",
+      "The ratio of bone to fat"
+    ],
+    "correct_index": 1,
+    "explanation": "Aerobic capacity is the ability of muscles to consume oxygen while working.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q17",
+    "chapter_id": "c8",
+    "question": "Which exercise is most effective for developing Cardiovascular Endurance?",
+    "options": ["Weight lifting", "100m sprint", "Long-distance running", "Push-ups"],
+    "correct_index": 2,
+    "explanation": "Long-distance running is an aerobic activity that improves cardiovascular endurance.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q18",
+    "chapter_id": "c8",
+    "question": "Continuous training method for endurance involves activities performed for a minimum of:",
+    "options": ["5 minutes", "10 minutes", "30 minutes", "1 hour"],
+    "correct_index": 2,
+    "explanation": "Continuous training involves aerobic exercise performed for a minimum of 30 minutes.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q19",
+    "chapter_id": "c8",
+    "question": "Which training method uses 'incomplete recovery' to develop endurance?",
+    "options": ["Continuous Method", "Interval Method", "Static Method", "Passive Method"],
+    "correct_index": 1,
+    "explanation": "Interval training is based on periods of high-intensity work followed by periods of incomplete recovery.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q20",
+    "chapter_id": "c8",
+    "question": "The 'Fartlek Method' is a Swedish training system that means:",
+    "options": ["Speed play", "Long run", "Strength training", "Steady heart rate"],
+    "correct_index": 0,
+    "explanation": "Fartlek is a Swedish word meaning 'speed play', involving variations in speed and intensity based on the terrain.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q21",
+    "chapter_id": "c8",
+    "question": "Strength training leads to an increase in the number and size of ________ in the muscles.",
+    "options": ["Leukocytes", "Mitochondria", "Platelets", "Dendrites"],
+    "correct_index": 1,
+    "explanation": "Regular strength training helps in increasing the number and size of mitochondria, the powerhouses of cells.",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q22",
+    "chapter_id": "c8",
+    "question": "Which type of muscular strength refers to the ability to overcome resistance with high speed?",
+    "options": ["Maximum Strength", "Explosive Strength", "Strength Endurance", "Static Strength"],
+    "correct_index": 1,
+    "explanation": "Explosive strength is the ability to overcome resistance with high velocity or speed.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q23",
+    "chapter_id": "c8",
+    "question": "Static flexibility is the ability to perform a movement while:",
+    "options": ["Running", "Jumping", "Remaining in a fixed position", "Swimming"],
+    "correct_index": 2,
+    "explanation": "Static flexibility is the range of motion achieved while in a stationary or fixed position.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q24",
+    "chapter_id": "c8",
+    "question": "The 'Cooper Test' is commonly used to measure:",
+    "options": ["Muscular Strength", "Flexibility", "Cardiovascular Endurance", "Body Composition"],
+    "correct_index": 2,
+    "explanation": "The Cooper 12-minute run test is used to evaluate cardiovascular endurance.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q25",
+    "chapter_id": "c8",
+    "question": "Passive flexibility is achieved with the help of:",
+    "options": ["Individual's own effort", "External help (partner or apparatus)", "Maximum speed", "Breath control"],
+    "correct_index": 1,
+    "explanation": "Passive flexibility is the range of motion attained with external assistance.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q26",
+    "chapter_id": "c8",
+    "question": "Which category of BMI is considered 'Healthy' for an adult?",
+    "options": ["Below 18.5", "18.5 – 24.9", "25.0 – 29.9", "30.0 and above"],
+    "correct_index": 1,
+    "explanation": "A BMI of 18.5–24.9 is considered the healthy weight range.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q27",
+    "chapter_id": "c8",
+    "question": "Flexibility decreases as a person gets older primarily due to:",
+    "options": ["Loss of bone density", "Dehydration of tissues and stiffening of joints", "Increase in height", "Lack of vitamins"],
+    "correct_index": 1,
+    "explanation": "Age is a factor in flexibility; as individuals age, joints and connective tissues tend to stiffen.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q28",
+    "chapter_id": "c8",
+    "question": "Post-Isometric stretch involves:",
+    "options": [
+      "Stretching without warming up",
+      "An isometric contraction followed by a static stretch",
+      "Fast swinging movements",
+      "Stretching while sleeping"
+    ],
+    "correct_index": 1,
+    "explanation": "Post-Isometric Stretch (often related to PNF) involves a muscle contraction followed by a relaxation and stretch phase.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q29",
+    "chapter_id": "c8",
+    "question": "What is the primary role of 'mitochondria' mentioned in the context of strength training?",
+    "options": [
+      "Contracting the muscle",
+      "Protecting the joints",
+      "Energy production in cells",
+      "Carrying oxygen in blood"
+    ],
+    "correct_index": 2,
+    "explanation": "Strength training increases mitochondria, which are responsible for generating energy within the muscle cells.",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q30",
+    "chapter_id": "c8",
+    "question": "Physical fitness reduces the risk of which 'lifestyle disease'?",
+    "options": ["Malaria", "Type II Diabetes", "Chickenpox", "Tuberculosis"],
+    "correct_index": 1,
+    "explanation": "Physical activity reduces risks of lifestyle diseases like heart disease, diabetes, and hypertension.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q31",
+    "chapter_id": "c8",
+    "question": "The ratio of lean body mass to fat mass is part of:",
+    "options": ["Muscular Endurance", "Body Composition", "Cardiovascular Endurance", "Flexibility"],
+    "correct_index": 1,
+    "explanation": "Body composition describes the percentage of fat and lean body mass (bone, water, muscle).",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q32",
+    "chapter_id": "c8",
+    "question": "Dynamic flexibility is used during:",
+    "options": ["Stretching after waking up", "Sports activities like gymnastics and jumping", "Holding a yoga pose", "Sitting at a desk"],
+    "correct_index": 1,
+    "explanation": "Dynamic flexibility is the ability to use a range of joint movement in a performance of a physical activity at normal or high speed.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q33",
+    "chapter_id": "c8",
+    "question": "Which training method uses heart rate as a guide for 'incomplete recovery'?",
+    "options": ["Static Method", "Interval Method", "Fartlek Method", "Passive Method"],
+    "correct_index": 1,
+    "explanation": "In interval training, a second set of work usually starts when the heart rate returns to a specific level (like 120-140 bpm).",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q34",
+    "chapter_id": "c8",
+    "question": "Active flexibility can be further divided into:",
+    "options": ["Direct and Indirect", "Static and Dynamic", "Fast and Slow", "Internal and External"],
+    "correct_index": 1,
+    "explanation": "Active flexibility is categorized into static and dynamic flexibility.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q35",
+    "chapter_id": "c8",
+    "question": "Which stretching method is specifically warned against if not done under expert supervision due to risk of injury?",
+    "options": ["Static Stretching", "Dynamic Stretching", "Ballistic Method", "PNF"],
+    "correct_index": 2,
+    "explanation": "Ballistic method has a high risk of muscle soreness and injury because it may exceed muscle limits.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q36",
+    "chapter_id": "c8",
+    "question": "Bones are attached to each other by:",
+    "options": ["Tendons", "Ligaments", "Mitochondria", "Fibers"],
+    "correct_index": 1,
+    "explanation": "Ligaments attach bone to bone and play a role in joint stability and flexibility.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q37",
+    "chapter_id": "c8",
+    "question": "Maximum strength is the ability to exert force against:",
+    "options": ["A lightweight object", "Maximum resistance in a single effort", "Light resistance for a long time", "No resistance"],
+    "correct_index": 1,
+    "explanation": "Maximum strength is the ability of an individual to work against maximum resistance.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q38",
+    "chapter_id": "c8",
+    "question": "Which of these is NOT a factor affecting Body Composition?",
+    "options": ["Genetics", "Age", "Metabolism", "Eye color"],
+    "correct_index": 3,
+    "explanation": "Factors like lifestyle, genetics, age, and metabolism affect body composition. Eye color is irrelevant.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q39",
+    "chapter_id": "c8",
+    "question": "Which type of activity is 'continuous' in nature and focuses on aerobic capacity?",
+    "options": ["Sprinting", "Walking", "Heavy lifting", "Wrestling"],
+    "correct_index": 1,
+    "explanation": "Walking, jogging, and cycling are aerobic activities that can be performed continuously for endurance.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q40",
+    "chapter_id": "c8",
+    "question": "Strength endurance is the ability to overcome resistance under conditions of:",
+    "options": ["Maximum energy", "Fatigue", "Cold weather", "Inactivity"],
+    "correct_index": 1,
+    "explanation": "Strength endurance is the product of strength and endurance, allowing one to work against resistance during fatigue.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q41",
+    "chapter_id": "c8",
+    "question": "A BMI below 18.5 is categorized as:",
+    "options": ["Healthy", "Overweight", "Obese", "Underweight"],
+    "correct_index": 3,
+    "explanation": "A BMI below 18.5 is considered underweight.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q42",
+    "chapter_id": "c8",
+    "question": "Ligaments and tendons are types of ________ tissue that affect flexibility.",
+    "options": ["Nervous", "Connective", "Epithelial", "Blood"],
+    "correct_index": 1,
+    "explanation": "Ligaments and tendons are connective tissues that determine the stability and range of motion of joints.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q43",
+    "chapter_id": "c8",
+    "question": "What is the main benefit of Cardiovascular Endurance training?",
+    "options": [
+      "Making muscles larger",
+      "Improving the heart's ability to pump blood efficiently",
+      "Reducing height",
+      "Decreasing water weight"
+    ],
+    "correct_index": 1,
+    "explanation": "It helps increase the capacity of the heart and lungs to supply oxygen to tissues.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q44",
+    "chapter_id": "c8",
+    "question": "Dynamic stretching involves:",
+    "options": ["Holding a stretch perfectly still", "Slow, controlled movements through the full ROM", "A partner pushing your legs", "Lying down"],
+    "correct_index": 1,
+    "explanation": "Dynamic stretching involves active movements that take joints through their full range of motion.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q45",
+    "chapter_id": "c8",
+    "question": "The Fartlek method is most useful for developing:",
+    "options": ["Muscular Strength", "Endurance", "Flexibility", "Body mass"],
+    "correct_index": 1,
+    "explanation": "Fartlek is a training system specifically designed to develop cardiovascular endurance.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q46",
+    "chapter_id": "c8",
+    "question": "Tendons attach:",
+    "options": ["Bone to bone", "Muscle to bone", "Skin to muscle", "Organ to organ"],
+    "correct_index": 1,
+    "explanation": "Tendons are connective tissues that attach muscles to bones.",
+    "ncert_page": 4,
+    "difficulty": "hard",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q47",
+    "chapter_id": "c8",
+    "question": "Explosive strength is a combination of:",
+    "options": ["Strength and Endurance", "Strength and Speed", "Speed and Flexibility", "Endurance and Speed"],
+    "correct_index": 1,
+    "explanation": "Explosive strength is the ability to overcome resistance with high velocity (strength + speed).",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q48",
+    "chapter_id": "c8",
+    "question": "Wholesome development of an individual is a goal of:",
+    "options": ["Physical fitness", "Only weight lifting", "Sleeping", "Passive stretching"],
+    "correct_index": 0,
+    "explanation": "Physical fitness is related to well-being and wholesome development of an individual.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q49",
+    "chapter_id": "c8",
+    "question": "Interval training is often used because it allows athletes to:",
+    "options": ["Sleep during breaks", "Perform more work at higher intensity than continuous training", "Avoid sweating", "Finish in 5 minutes"],
+    "correct_index": 1,
+    "explanation": "The rest intervals allow for partial recovery, enabling the athlete to maintain a higher intensity during work phases.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  },
+  {
+    "mcq_id": "c8_q50",
+    "chapter_id": "c8",
+    "question": "Which factor affecting flexibility is 'hereditary'?",
+    "options": ["Surrounding temperature", "Age", "Joint structure", "Time of day"],
+    "correct_index": 2,
+    "explanation": "Structure of the joint and the nature of connective tissue are largely determined by genetics (heredity).",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Physical Education"
+  }
+]

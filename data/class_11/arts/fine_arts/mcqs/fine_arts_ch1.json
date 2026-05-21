@@ -1,804 +1,552 @@
-{
-  "questions": [
-    {
-      "mcqId": "11_fine_arts_ch1_q1",
-      "chapterId": "fine_arts_ch1",
-      "question": "What is the distant past called when there was no paper, language, or written word?",
-      "options": [
-        "Historic times",
-        "Ancient times",
-        "Prehistoric times",
-        "Medieval times"
-      ],
-      "correctIndex": 2,
-      "explanation": "The distant past when there was no paper or language or the written word is called prehistory or prehistoric times.",
-      "ncertPage": 1,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q2",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which of the following were the oldest art forms practised by human beings to express themselves?",
-      "options": [
-        "Sculpting and carving",
-        "Painting and drawing",
-        "Pottery and weaving",
-        "Singing and dancing"
-      ],
-      "correctIndex": 1,
-      "explanation": "Painting and drawing were the oldest art forms practised by early human beings to express themselves, using cave walls as their canvas.",
-      "ncertPage": 1,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q3",
-      "chapterId": "fine_arts_ch1",
-      "question": "What is the early development period of human beings commonly known as?",
-      "options": [
-        "Neolithic Age",
-        "Chalcolithic Age",
-        "Mesolithic Age",
-        "Palaeolithic Age"
-      ],
-      "correctIndex": 3,
-      "explanation": "The prehistoric period in the early development of human beings is commonly known as the Old Stone Age or the Palaeolithic Age.",
-      "ncertPage": 1,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q4",
-      "chapterId": "fine_arts_ch1",
-      "question": "In which period do we see a proliferation of artistic activities in prehistoric times?",
-      "options": [
-        "Lower Palaeolithic",
-        "Upper Palaeolithic",
-        "Neolithic",
-        "Iron Age"
-      ],
-      "correctIndex": 1,
-      "explanation": "While it is unknown if Lower Palaeolithic people produced art, by the Upper Palaeolithic times we see a clear proliferation of artistic activities.",
-      "ncertPage": 1,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q5",
-      "chapterId": "fine_arts_ch1",
-      "question": "When were the earliest paintings in India reported to have been created?",
-      "options": [
-        "Mesolithic times",
-        "Lower Palaeolithic times",
-        "Upper Palaeolithic times",
-        "Chalcolithic times"
-      ],
-      "correctIndex": 2,
-      "explanation": "In India, the earliest paintings have been reported from the Upper Palaeolithic times.",
-      "ncertPage": 1,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q6",
-      "chapterId": "fine_arts_ch1",
-      "question": "In which year was the first discovery of rock paintings made in India?",
-      "options": [
-        "1857-58",
-        "1867-68",
-        "1957-58",
-        "1901-02"
-      ],
-      "correctIndex": 1,
-      "explanation": "The first discovery of rock paintings was made in India in the years 1867-68.",
-      "ncertPage": 2,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q7",
-      "chapterId": "fine_arts_ch1",
-      "question": "Who made the first discovery of rock paintings in India?",
-      "options": [
-        "V.S. Wakankar",
-        "Archibold Carlleyle",
-        "Cockburn",
-        "Anderson"
-      ],
-      "correctIndex": 1,
-      "explanation": "The first discovery of rock paintings in India was made by an archaeologist named Archibold Carlleyle.",
-      "ncertPage": 2,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q8",
-      "chapterId": "fine_arts_ch1",
-      "question": "The discovery of rock paintings in India happened how many years before the discovery of Altamira in Spain?",
-      "options": [
-        "10 years",
-        "12 years",
-        "15 years",
-        "20 years"
-      ],
-      "correctIndex": 1,
-      "explanation": "Archibold Carlleyle discovered the rock paintings twelve years before the famous discovery of Altamira in Spain.",
-      "ncertPage": 2,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q9",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which of the following archaeologists was among the early discoverers of rock painting sites in the Indian sub-continent?",
-      "options": [
-        "John Marshall",
-        "Alexander Cunningham",
-        "Cockburn",
-        "Dayaram Sahni"
-      ],
-      "correctIndex": 2,
-      "explanation": "Cockburn, Anderson, Mitra, and Ghosh were the early archaeologists who discovered a large number of sites in the Indian sub-continent.",
-      "ncertPage": 2,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q10",
-      "chapterId": "fine_arts_ch1",
-      "question": "On the banks of which river are the Lakhudiyar rock shelters situated?",
-      "options": [
-        "Ganga",
-        "Narmada",
-        "Suyal",
-        "Yamuna"
-      ],
-      "correctIndex": 2,
-      "explanation": "The rock shelters on the banks of the River Suyal at Lakhudiyar bear these prehistoric paintings.",
-      "ncertPage": 2,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q11",
-      "chapterId": "fine_arts_ch1",
-      "question": "What does the word 'Lakhudiyar' literally mean?",
-      "options": [
-        "One lakh paintings",
-        "One lakh caves",
-        "One lakh stones",
-        "One lakh rivers"
-      ],
-      "correctIndex": 1,
-      "explanation": "The term Lakhudiyar literally translates to one lakh caves.",
-      "ncertPage": 2,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q12",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which of the following is NOT one of the broad categories of paintings found at Lakhudiyar?",
-      "options": [
-        "Man",
-        "Animal",
-        "Floral patterns",
-        "Geometric patterns"
-      ],
-      "correctIndex": 2,
-      "explanation": "The paintings here are divided into three categories: man, animal, and geometric patterns. Floral patterns are absent.",
-      "ncertPage": 2,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q13",
-      "chapterId": "fine_arts_ch1",
-      "question": "How are humans represented in the Lakhudiyar rock paintings?",
-      "options": [
-        "As highly detailed portraits",
-        "In stick-like forms",
-        "As purely geometric shapes",
-        "In silhouette profiles only"
-      ],
-      "correctIndex": 1,
-      "explanation": "Humans are distinctly represented in stick-like forms at the Lakhudiyar site.",
-      "ncertPage": 2,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q14",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which of these animals is a main motif at the Lakhudiyar caves?",
-      "options": [
-        "Elephant",
-        "Tiger",
-        "Multiple legged lizard",
-        "Horse"
-      ],
-      "correctIndex": 2,
-      "explanation": "A long-snouted animal, a fox, and a multiple legged lizard are noted as the main animal motifs at Lakhudiyar.",
-      "ncertPage": 2,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q15",
-      "chapterId": "fine_arts_ch1",
-      "question": "What colors were primarily used for the paintings at Lakhudiyar?",
-      "options": [
-        "Blue, green, and yellow",
-        "White, black, and red ochre",
-        "Purple, orange, and brown",
-        "Gold, silver, and copper"
-      ],
-      "correctIndex": 1,
-      "explanation": "The paintings at Lakhudiyar are done using white, black, and red ochre.",
-      "ncertPage": 2,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q16",
-      "chapterId": "fine_arts_ch1",
-      "question": "In the superimposition of paintings at Lakhudiyar, which color represents the earliest layer?",
-      "options": [
-        "Red ochre",
-        "White",
-        "Black",
-        "Green"
-      ],
-      "correctIndex": 2,
-      "explanation": "The earliest paintings are in black; over these are red ochre paintings, and the last group comprises white paintings.",
-      "ncertPage": 2,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q17",
-      "chapterId": "fine_arts_ch1",
-      "question": "What type of artistic findings have been reported from Kashmir?",
-      "options": [
-        "Cave paintings in red ochre",
-        "Two slabs with engravings",
-        "Terracotta figurines",
-        "Bronze sculptures"
-      ],
-      "correctIndex": 1,
-      "explanation": "From Kashmir, two slabs with engravings have been reported by archaeologists.",
-      "ncertPage": 2,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q18",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which stone provided a suitable canvas for Neolithic men in Karnataka and Andhra Pradesh?",
-      "options": [
-        "Sandstone",
-        "Limestone",
-        "Granite rocks",
-        "Marble"
-      ],
-      "correctIndex": 2,
-      "explanation": "The granite rocks of Karnataka and Andhra Pradesh provided highly suitable canvases to the Neolithic man for his paintings.",
-      "ncertPage": 2,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q19",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which of the following is a famous rock painting site in South India?",
-      "options": [
-        "Bhimbetka",
-        "Piklihal",
-        "Lakhudiyar",
-        "Pachmarhi"
-      ],
-      "correctIndex": 1,
-      "explanation": "There are several sites in South India, but the more famous among them are Kupgallu, Piklihal, and Tekkalkota.",
-      "ncertPage": 2,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q20",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which motif is rarely found in the rock paintings of South India?",
-      "options": [
-        "Bulls",
-        "Elephants",
-        "Vegetal motifs",
-        "Tridents"
-      ],
-      "correctIndex": 2,
-      "explanation": "The subjects depicted include bulls, elephants, sambhars, sheep, and tridents, but rarely vegetal motifs.",
-      "ncertPage": 3,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q21",
-      "chapterId": "fine_arts_ch1",
-      "question": "The richest rock paintings in India are reported from which mountain ranges?",
-      "options": [
-        "Himalayas",
-        "Western Ghats",
-        "Vindhya ranges",
-        "Aravalli ranges"
-      ],
-      "correctIndex": 2,
-      "explanation": "The richest rock paintings are reported from the Vindhya ranges of Madhya Pradesh and their Kaimurean extensions.",
-      "ncertPage": 3,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q22",
-      "chapterId": "fine_arts_ch1",
-      "question": "Where is the largest and most spectacular rock-shelter located in India?",
-      "options": [
-        "Pachmarhi",
-        "Bhimbetka",
-        "Lakhudiyar",
-        "Kupgallu"
-      ],
-      "correctIndex": 1,
-      "explanation": "The largest and most spectacular rock-shelter in India is located in the Vindhya hills at Bhimbetka.",
-      "ncertPage": 3,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q23",
-      "chapterId": "fine_arts_ch1",
-      "question": "How far is Bhimbetka located from Bhopal?",
-      "options": [
-        "10 kilometres south",
-        "45 kilometres south",
-        "100 kilometres north",
-        "20 kilometres east"
-      ],
-      "correctIndex": 1,
-      "explanation": "Bhimbetka is geographically located forty-five kilometres south of Bhopal.",
-      "ncertPage": 3,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q24",
-      "chapterId": "fine_arts_ch1",
-      "question": "Approximately how many rock shelters have been found in the Bhimbetka area?",
-      "options": [
-        "One hundred",
-        "Five hundred",
-        "Eight hundred",
-        "One thousand"
-      ],
-      "correctIndex": 2,
-      "explanation": "The Bhimbetka area contains approximately eight hundred rock shelters spread over ten square kilometres.",
-      "ncertPage": 3,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q25",
-      "chapterId": "fine_arts_ch1",
-      "question": "Out of the rock shelters discovered at Bhimbetka, how many bear paintings?",
-      "options": [
-        "Two hundred",
-        "Four hundred",
-        "Five hundred",
-        "Eight hundred"
-      ],
-      "correctIndex": 2,
-      "explanation": "Out of the eight hundred rock shelters at Bhimbetka, five hundred of them bear paintings.",
-      "ncertPage": 3,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q26",
-      "chapterId": "fine_arts_ch1",
-      "question": "Who discovered the caves of Bhimbetka in 1957-58?",
-      "options": [
-        "Archibold Carlleyle",
-        "V.S. Wakankar",
-        "Cockburn",
-        "Anderson"
-      ],
-      "correctIndex": 1,
-      "explanation": "The caves of Bhimbetka were discovered in 1957-58 by the eminent archaeologist V.S. Wakankar.",
-      "ncertPage": 3,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q27",
-      "chapterId": "fine_arts_ch1",
-      "question": "The rock art of Bhimbetka has been classified into how many historical periods?",
-      "options": [
-        "Three",
-        "Five",
-        "Seven",
-        "Nine"
-      ],
-      "correctIndex": 2,
-      "explanation": "Based on style, technique, and superimposition, the drawings and paintings are categorised into seven historical periods.",
-      "ncertPage": 3,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q28",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which period does Period I of the Bhimbetka paintings belong to?",
-      "options": [
-        "Mesolithic",
-        "Chalcolithic",
-        "Neolithic",
-        "Upper Palaeolithic"
-      ],
-      "correctIndex": 3,
-      "explanation": "Period I of the Bhimbetka historical classification belongs to the Upper Palaeolithic era.",
-      "ncertPage": 3,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q29",
-      "chapterId": "fine_arts_ch1",
-      "question": "What colors were primarily used in the Upper Palaeolithic phase of Bhimbetka paintings?",
-      "options": [
-        "Green and dark red",
-        "Black and white",
-        "Yellow and purple",
-        "Orange and brown"
-      ],
-      "correctIndex": 0,
-      "explanation": "The paintings of the Upper Palaeolithic phase are primarily linear representations in green and dark red.",
-      "ncertPage": 3,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q30",
-      "chapterId": "fine_arts_ch1",
-      "question": "In the Upper Palaeolithic phase at Bhimbetka, what did the green paintings typically depict?",
-      "options": [
-        "Hunters",
-        "Animals",
-        "Dancers",
-        "Geometric patterns"
-      ],
-      "correctIndex": 2,
-      "explanation": "During this phase, the green paintings specifically depicted dancers.",
-      "ncertPage": 4,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q31",
-      "chapterId": "fine_arts_ch1",
-      "question": "In the Upper Palaeolithic phase at Bhimbetka, what did the red paintings typically depict?",
-      "options": [
-        "Dancers",
-        "Hunters",
-        "Gatherers",
-        "Birds"
-      ],
-      "correctIndex": 1,
-      "explanation": "While green was used for dancers, the red paintings were used to depict hunters.",
-      "ncertPage": 4,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q32",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which historical period has the largest number of paintings at Bhimbetka?",
-      "options": [
-        "Upper Palaeolithic (Period I)",
-        "Mesolithic (Period II)",
-        "Chalcolithic (Period III)",
-        "Neolithic (Period IV)"
-      ],
-      "correctIndex": 1,
-      "explanation": "The largest number of paintings at the Bhimbetka site belong to Period II, which is the Mesolithic period.",
-      "ncertPage": 4,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q33",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which theme predominates the paintings of the Mesolithic Period at Bhimbetka?",
-      "options": [
-        "Farming",
-        "Hunting scenes",
-        "Religious rituals",
-        "Pottery making"
-      ],
-      "correctIndex": 1,
-      "explanation": "During the Mesolithic period, although themes are multiple, hunting scenes heavily predominate the artwork.",
-      "ncertPage": 4,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q34",
-      "chapterId": "fine_arts_ch1",
-      "question": "In Mesolithic hunting scenes, primitive men are sometimes shown with what tools besides weapons to catch animals?",
-      "options": [
-        "Nets and cages",
-        "Traps and snares",
-        "Lassos and ropes",
-        "Pits and fire"
-      ],
-      "correctIndex": 1,
-      "explanation": "In some Mesolithic paintings, primitive men are shown equipped with traps and snares to catch animals.",
-      "ncertPage": 4,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q35",
-      "chapterId": "fine_arts_ch1",
-      "question": "How are humans depicted stylistically in Mesolithic paintings as compared to animals?",
-      "options": [
-        "Both were highly naturalistic",
-        "Humans were naturalistic, animals were stylistic",
-        "Animals were naturalistic, humans were stylistic",
-        "Both were highly abstract"
-      ],
-      "correctIndex": 2,
-      "explanation": "The artists painted animals in a naturalistic style, whereas humans were depicted only in a stylistic manner.",
-      "ncertPage": 4,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q36",
-      "chapterId": "fine_arts_ch1",
-      "question": "What common theme involving children is depicted in the Mesolithic paintings?",
-      "options": [
-        "Attending schooling",
-        "Running, jumping and playing",
-        "Hunting large animals",
-        "Making stone tools"
-      ],
-      "correctIndex": 1,
-      "explanation": "Children are often painted engaging in activities like running, jumping, and playing.",
-      "ncertPage": 4,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q37",
-      "chapterId": "fine_arts_ch1",
-      "question": "Apart from human and animal figures, what specific prints are found in many of the rock-shelters?",
-      "options": [
-        "Footprints and animal tracks",
-        "Hand prints and fist prints",
-        "Leaf and bark prints",
-        "Tool and weapon impressions"
-      ],
-      "correctIndex": 1,
-      "explanation": "In many of the rock-shelters, artists left hand prints, fist prints, and dots made by their fingertips.",
-      "ncertPage": 4,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q38",
-      "chapterId": "fine_arts_ch1",
-      "question": "What were the favourite colours of the artists of Bhimbetka?",
-      "options": [
-        "Green and black",
-        "Yellow and purple",
-        "White and red",
-        "Orange and brown"
-      ],
-      "correctIndex": 2,
-      "explanation": "While they used many colours, white and red were the absolute favourite colours of the Bhimbetka artists.",
-      "ncertPage": 4,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q39",
-      "chapterId": "fine_arts_ch1",
-      "question": "From which material did the prehistoric artists obtain their red colour?",
-      "options": [
-        "Chalcedony",
-        "Limestone",
-        "Haematite (geru)",
-        "Crushed berries"
-      ],
-      "correctIndex": 2,
-      "explanation": "The red colour was obtained by grinding haematite, commonly known as geru in India.",
-      "ncertPage": 4,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q40",
-      "chapterId": "fine_arts_ch1",
-      "question": "What stone provided the green colour for the prehistoric artists?",
-      "options": [
-        "Emerald",
-        "Jade",
-        "Chalcedony",
-        "Malachite"
-      ],
-      "correctIndex": 2,
-      "explanation": "The green colour was derived from a green variety of a stone called chalcedony.",
-      "ncertPage": 4,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q41",
-      "chapterId": "fine_arts_ch1",
-      "question": "What mineral was likely used to make the white paint in prehistoric times?",
-      "options": [
-        "Chalk",
-        "Limestone",
-        "Gypsum",
-        "Talc"
-      ],
-      "correctIndex": 1,
-      "explanation": "It is believed that the white colour might have been made out of limestone.",
-      "ncertPage": 5,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q42",
-      "chapterId": "fine_arts_ch1",
-      "question": "To make paint, the powdered minerals were mixed with water and what other possible substances?",
-      "options": [
-        "Honey or nectar",
-        "Animal fat, gum or resin",
-        "Crushed leaves",
-        "Sand and clay"
-      ],
-      "correctIndex": 1,
-      "explanation": "The mineral powder was mixed with water and thick or sticky substances such as animal fat, gum, or tree resin.",
-      "ncertPage": 5,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q43",
-      "chapterId": "fine_arts_ch1",
-      "question": "What material did prehistoric artists use to make their brushes?",
-      "options": [
-        "Animal hair",
-        "Plant fibre",
-        "Feathers",
-        "Human hair"
-      ],
-      "correctIndex": 1,
-      "explanation": "The artists made their painting brushes out of plant fibre.",
-      "ncertPage": 5,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q44",
-      "chapterId": "fine_arts_ch1",
-      "question": "Why is it believed that the colours of these rock paintings have survived thousands of years?",
-      "options": [
-        "They were hidden deep underground",
-        "Because of the chemical reaction of the oxide present on the surface of the rocks",
-        "They were continuously retouched by later generations",
-        "They were protected by advanced varnishes"
-      ],
-      "correctIndex": 1,
-      "explanation": "The colours have remained intact largely due to the chemical reaction of the oxide present on the surface of the rocks.",
-      "ncertPage": 5,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q45",
-      "chapterId": "fine_arts_ch1",
-      "question": "Why did early humans likely paint high up on uncomfortable parts of the rock shelters?",
-      "options": [
-        "To avoid predators",
-        "For the paintings to be noticed from a distance",
-        "To protect them from floodwaters",
-        "Because the lower walls were too rough"
-      ],
-      "correctIndex": 1,
-      "explanation": "Paintings made in high, uncomfortable positions were likely placed there so people could easily notice them from a distance.",
-      "ncertPage": 5,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q46",
-      "chapterId": "fine_arts_ch1",
-      "question": "In the hunting scenes depicted at Bhimbetka, what emotion might a group of dancing men feel when an animal is shown dying?",
-      "options": [
-        "A sense of sorrow",
-        "A sense of power over the animals",
-        "Fear and panic",
-        "Hunger and desperation"
-      ],
-      "correctIndex": 1,
-      "explanation": "Paintings showing men dancing while an animal is in the agony of death might have given man a sense of power over the animals they faced.",
-      "ncertPage": 5,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q47",
-      "chapterId": "fine_arts_ch1",
-      "question": "How are the animals generally represented in the prehistoric paintings regarding their physical state?",
-      "options": [
-        "Weak and emaciated",
-        "Stylised and abstract",
-        "Youthful and majestic",
-        "Small and insignificant"
-      ],
-      "correctIndex": 2,
-      "explanation": "The artists tended to show the animals as more youthful and majestic than they perhaps actually were in reality.",
-      "ncertPage": 5,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q48",
-      "chapterId": "fine_arts_ch1",
-      "question": "At Bhimbetka, what is a notable feature regarding the placement of new paintings over time?",
-      "options": [
-        "They never painted in the same spot twice",
-        "They carved away old paintings before making new ones",
-        "A new painting is often painted on top of an older painting",
-        "They strictly separated paintings by historical period"
-      ],
-      "correctIndex": 2,
-      "explanation": "At many rock-art sites, including Bhimbetka, it is common to see a new painting painted directly on top of an older painting.",
-      "ncertPage": 7,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q49",
-      "chapterId": "fine_arts_ch1",
-      "question": "In some places at Bhimbetka, up to how many layers of paintings can be found one on top of another?",
-      "options": [
-        "5 layers",
-        "10 layers",
-        "20 layers",
-        "50 layers"
-      ],
-      "correctIndex": 2,
-      "explanation": "There are places at Bhimbetka where as many as 20 distinct layers of paintings are stacked one on top of another.",
-      "ncertPage": 7,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch1_q50",
-      "chapterId": "fine_arts_ch1",
-      "question": "Which of the following is considered a possible reason for early humans superimposing paintings on top of older ones?",
-      "options": [
-        "They ran out of space in the cave",
-        "The area may have been considered sacred and used by different generations",
-        "They wanted to hide the older paintings from enemies",
-        "They were practicing their brushwork"
-      ],
-      "correctIndex": 1,
-      "explanation": "Superimposition may have occurred because certain spaces were considered sacred or special, leading different generations to use the exact same area.",
-      "ncertPage": 7,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    }
-  ]
-}
+[
+  {
+    "mcq_id": "c1_q01",
+    "chapter_id": "c1",
+    "question": "What is the distant past called when there was no paper, language, or written word?",
+    "options": ["Historic times", "Ancient times", "Prehistoric times", "Medieval times"],
+    "correct_index": 2,
+    "explanation": "The distant past when there was no paper or language or the written word is called prehistory or prehistoric times.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q02",
+    "chapter_id": "c1",
+    "question": "Which of the following were the oldest art forms practised by human beings to express themselves?",
+    "options": ["Sculpting and carving", "Painting and drawing", "Pottery and weaving", "Singing and dancing"],
+    "correct_index": 1,
+    "explanation": "Painting and drawing were the oldest art forms practised by early human beings to express themselves, using cave walls as their canvas.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q03",
+    "chapter_id": "c1",
+    "question": "What is the early development period of human beings commonly known as?",
+    "options": ["Neolithic Age", "Chalcolithic Age", "Mesolithic Age", "Palaeolithic Age"],
+    "correct_index": 3,
+    "explanation": "The prehistoric period in the early development of human beings is commonly known as the Old Stone Age or the Palaeolithic Age.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q04",
+    "chapter_id": "c1",
+    "question": "In which period do we see a proliferation of artistic activities in prehistoric times?",
+    "options": ["Lower Palaeolithic", "Upper Palaeolithic", "Neolithic", "Iron Age"],
+    "correct_index": 1,
+    "explanation": "While it is unknown if Lower Palaeolithic people produced art, by the Upper Palaeolithic times we see a clear proliferation of artistic activities.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q05",
+    "chapter_id": "c1",
+    "question": "When were the earliest paintings in India reported to have been created?",
+    "options": ["Mesolithic times", "Lower Palaeolithic times", "Upper Palaeolithic times", "Chalcolithic times"],
+    "correct_index": 2,
+    "explanation": "In India, the earliest paintings have been reported from the Upper Palaeolithic times.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q06",
+    "chapter_id": "c1",
+    "question": "In which year was the first discovery of rock paintings made in India?",
+    "options": ["1857-58", "1867-68", "1957-58", "1901-02"],
+    "correct_index": 1,
+    "explanation": "The first discovery of rock paintings was made in India in the years 1867-68.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q07",
+    "chapter_id": "c1",
+    "question": "Who made the first discovery of rock paintings in India?",
+    "options": ["V.S. Wakankar", "Archibold Carlleyle", "Cockburn", "Anderson"],
+    "correct_index": 1,
+    "explanation": "The first discovery of rock paintings in India was made by an archaeologist named Archibold Carlleyle.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q08",
+    "chapter_id": "c1",
+    "question": "The discovery of rock paintings in India happened how many years before the discovery of Altamira in Spain?",
+    "options": ["10 years", "12 years", "15 years", "20 years"],
+    "correct_index": 1,
+    "explanation": "Archibold Carlleyle discovered the rock paintings twelve years before the famous discovery of Altamira in Spain.",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q09",
+    "chapter_id": "c1",
+    "question": "Which of the following archaeologists was among the early discoverers of rock painting sites in the Indian sub-continent?",
+    "options": ["John Marshall", "Alexander Cunningham", "Cockburn", "Dayaram Sahni"],
+    "correct_index": 2,
+    "explanation": "Cockburn, Anderson, Mitra, and Ghosh were the early archaeologists who discovered a large number of sites in the Indian sub-continent.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q10",
+    "chapter_id": "c1",
+    "question": "On the banks of which river are the Lakhudiyar rock shelters situated?",
+    "options": ["Ganga", "Narmada", "Suyal", "Yamuna"],
+    "correct_index": 2,
+    "explanation": "The rock shelters on the banks of the River Suyal at Lakhudiyar bear these prehistoric paintings.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q11",
+    "chapter_id": "c1",
+    "question": "What does the word 'Lakhudiyar' literally mean?",
+    "options": ["One lakh paintings", "One lakh caves", "One lakh stones", "One lakh rivers"],
+    "correct_index": 1,
+    "explanation": "The term Lakhudiyar literally translates to one lakh caves.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q12",
+    "chapter_id": "c1",
+    "question": "Which of the following is NOT one of the broad categories of paintings found at Lakhudiyar?",
+    "options": ["Man", "Animal", "Floral patterns", "Geometric patterns"],
+    "correct_index": 2,
+    "explanation": "The paintings here are divided into three categories: man, animal, and geometric patterns. Floral patterns are absent.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q13",
+    "chapter_id": "c1",
+    "question": "How are humans represented in the Lakhudiyar rock paintings?",
+    "options": ["As highly detailed portraits", "In stick-like forms", "As purely geometric shapes", "In silhouette profiles only"],
+    "correct_index": 1,
+    "explanation": "Humans are distinctly represented in stick-like forms at the Lakhudiyar site.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q14",
+    "chapter_id": "c1",
+    "question": "Which of these animals is a main motif at the Lakhudiyar caves?",
+    "options": ["Elephant", "Tiger", "Multiple legged lizard", "Horse"],
+    "correct_index": 2,
+    "explanation": "A long-snouted animal, a fox, and a multiple legged lizard are noted as the main animal motifs at Lakhudiyar.",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q15",
+    "chapter_id": "c1",
+    "question": "What colors were primarily used for the paintings at Lakhudiyar?",
+    "options": ["Blue, green, and yellow", "White, black, and red ochre", "Purple, orange, and brown", "Gold, silver, and copper"],
+    "correct_index": 1,
+    "explanation": "The paintings at Lakhudiyar are done using white, black, and red ochre.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q16",
+    "chapter_id": "c1",
+    "question": "In the superimposition of paintings at Lakhudiyar, which color represents the earliest layer?",
+    "options": ["Red ochre", "White", "Black", "Green"],
+    "correct_index": 2,
+    "explanation": "The earliest paintings are in black; over these are red ochre paintings, and the last group comprises white paintings.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q17",
+    "chapter_id": "c1",
+    "question": "What type of artistic findings have been reported from Kashmir?",
+    "options": ["Cave paintings in red ochre", "Two slabs with engravings", "Terracotta figurines", "Bronze sculptures"],
+    "correct_index": 1,
+    "explanation": "From Kashmir, two slabs with engravings have been reported by archaeologists.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q18",
+    "chapter_id": "c1",
+    "question": "Which stone provided a suitable canvas for Neolithic men in Karnataka and Andhra Pradesh?",
+    "options": ["Sandstone", "Limestone", "Granite rocks", "Marble"],
+    "correct_index": 2,
+    "explanation": "The granite rocks of Karnataka and Andhra Pradesh provided highly suitable canvases to the Neolithic man for his paintings.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q19",
+    "chapter_id": "c1",
+    "question": "Which of the following is a famous rock painting site in South India?",
+    "options": ["Bhimbetka", "Piklihal", "Lakhudiyar", "Pachmarhi"],
+    "correct_index": 1,
+    "explanation": "There are several sites in South India, but the more famous among them are Kupgallu, Piklihal, and Tekkalkota.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q20",
+    "chapter_id": "c1",
+    "question": "Which motif is rarely found in the rock paintings of South India?",
+    "options": ["Bulls", "Elephants", "Vegetal motifs", "Tridents"],
+    "correct_index": 2,
+    "explanation": "The subjects depicted include bulls, elephants, sambhars, sheep, and tridents, but rarely vegetal motifs.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q21",
+    "chapter_id": "c1",
+    "question": "The richest rock paintings in India are reported from which mountain ranges?",
+    "options": ["Himalayas", "Western Ghats", "Vindhya ranges", "Aravalli ranges"],
+    "correct_index": 2,
+    "explanation": "The richest rock paintings are reported from the Vindhya ranges of Madhya Pradesh and their Kaimurean extensions.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q22",
+    "chapter_id": "c1",
+    "question": "Where is the largest and most spectacular rock-shelter located in India?",
+    "options": ["Pachmarhi", "Bhimbetka", "Lakhudiyar", "Kupgallu"],
+    "correct_index": 1,
+    "explanation": "The largest and most spectacular rock-shelter in India is located in the Vindhya hills at Bhimbetka.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q23",
+    "chapter_id": "c1",
+    "question": "How far is Bhimbetka located from Bhopal?",
+    "options": ["10 kilometres south", "45 kilometres south", "100 kilometres north", "20 kilometres east"],
+    "correct_index": 1,
+    "explanation": "Bhimbetka is geographically located forty-five kilometres south of Bhopal.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q24",
+    "chapter_id": "c1",
+    "question": "Approximately how many rock shelters have been found in the Bhimbetka area?",
+    "options": ["One hundred", "Five hundred", "Eight hundred", "One thousand"],
+    "correct_index": 2,
+    "explanation": "The Bhimbetka area contains approximately eight hundred rock shelters spread over ten square kilometres.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q25",
+    "chapter_id": "c1",
+    "question": "Out of the rock shelters discovered at Bhimbetka, how many bear paintings?",
+    "options": ["Two hundred", "Four hundred", "Five hundred", "Eight hundred"],
+    "correct_index": 2,
+    "explanation": "Out of the eight hundred rock shelters at Bhimbetka, five hundred of them bear paintings.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q26",
+    "chapter_id": "c1",
+    "question": "Who discovered the caves of Bhimbetka in 1957-58?",
+    "options": ["Archibold Carlleyle", "V.S. Wakankar", "Cockburn", "Anderson"],
+    "correct_index": 1,
+    "explanation": "The caves of Bhimbetka were discovered in 1957-58 by the eminent archaeologist V.S. Wakankar.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q27",
+    "chapter_id": "c1",
+    "question": "The rock art of Bhimbetka has been classified into how many historical periods?",
+    "options": ["Three", "Five", "Seven", "Nine"],
+    "correct_index": 2,
+    "explanation": "Based on style, technique, and superimposition, the drawings and paintings are categorised into seven historical periods.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q28",
+    "chapter_id": "c1",
+    "question": "Which period does Period I of the Bhimbetka paintings belong to?",
+    "options": ["Mesolithic", "Chalcolithic", "Neolithic", "Upper Palaeolithic"],
+    "correct_index": 3,
+    "explanation": "Period I of the Bhimbetka historical classification belongs to the Upper Palaeolithic era.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q29",
+    "chapter_id": "c1",
+    "question": "What colors were primarily used in the Upper Palaeolithic phase of Bhimbetka paintings?",
+    "options": ["Green and dark red", "Black and white", "Yellow and purple", "Orange and brown"],
+    "correct_index": 0,
+    "explanation": "The paintings of the Upper Palaeolithic phase are primarily linear representations in green and dark red.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q30",
+    "chapter_id": "c1",
+    "question": "In the Upper Palaeolithic phase at Bhimbetka, what did the green paintings typically depict?",
+    "options": ["Hunters", "Animals", "Dancers", "Geometric patterns"],
+    "correct_index": 2,
+    "explanation": "During this phase, the green paintings specifically depicted dancers.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q31",
+    "chapter_id": "c1",
+    "question": "In the Upper Palaeolithic phase at Bhimbetka, what did the red paintings typically depict?",
+    "options": ["Dancers", "Hunters", "Gatherers", "Birds"],
+    "correct_index": 1,
+    "explanation": "While green was used for dancers, the red paintings were used to depict hunters.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q32",
+    "chapter_id": "c1",
+    "question": "Which historical period has the largest number of paintings at Bhimbetka?",
+    "options": ["Upper Palaeolithic (Period I)", "Mesolithic (Period II)", "Chalcolithic (Period III)", "Neolithic (Period IV)"],
+    "correct_index": 1,
+    "explanation": "The largest number of paintings at the Bhimbetka site belong to Period II, which is the Mesolithic period.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q33",
+    "chapter_id": "c1",
+    "question": "Which theme predominates the paintings of the Mesolithic Period at Bhimbetka?",
+    "options": ["Farming", "Hunting scenes", "Religious rituals", "Pottery making"],
+    "correct_index": 1,
+    "explanation": "During the Mesolithic period, although themes are multiple, hunting scenes heavily predominate the artwork.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q34",
+    "chapter_id": "c1",
+    "question": "In Mesolithic hunting scenes, primitive men are sometimes shown with what tools besides weapons to catch animals?",
+    "options": ["Nets and cages", "Traps and snares", "Lassos and ropes", "Pits and fire"],
+    "correct_index": 1,
+    "explanation": "In some Mesolithic paintings, primitive men are shown equipped with traps and snares to catch animals.",
+    "ncert_page": 4,
+    "difficulty": "hard",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q35",
+    "chapter_id": "c1",
+    "question": "How are humans depicted stylistically in Mesolithic paintings as compared to animals?",
+    "options": ["Both were highly naturalistic", "Humans were naturalistic, animals were stylistic", "Animals were naturalistic, humans were stylistic", "Both were highly abstract"],
+    "correct_index": 2,
+    "explanation": "The artists painted animals in a naturalistic style, whereas humans were depicted only in a stylistic manner.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q36",
+    "chapter_id": "c1",
+    "question": "What common theme involving children is depicted in the Mesolithic paintings?",
+    "options": ["Attending schooling", "Running, jumping and playing", "Hunting large animals", "Making stone tools"],
+    "correct_index": 1,
+    "explanation": "Children are often painted engaging in activities like running, jumping, and playing.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q37",
+    "chapter_id": "c1",
+    "question": "Apart from human and animal figures, what specific prints are found in many of the rock-shelters?",
+    "options": ["Footprints and animal tracks", "Hand prints and fist prints", "Leaf and bark prints", "Tool and weapon impressions"],
+    "correct_index": 1,
+    "explanation": "In many of the rock-shelters, artists left hand prints, fist prints, and dots made by their fingertips.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q38",
+    "chapter_id": "c1",
+    "question": "What were the favourite colours of the artists of Bhimbetka?",
+    "options": ["Green and black", "Yellow and purple", "White and red", "Orange and brown"],
+    "correct_index": 2,
+    "explanation": "While they used many colours, white and red were the absolute favourite colours of the Bhimbetka artists.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q39",
+    "chapter_id": "c1",
+    "question": "From which material did the prehistoric artists obtain their red colour?",
+    "options": ["Chalcedony", "Limestone", "Haematite (geru)", "Crushed berries"],
+    "correct_index": 2,
+    "explanation": "The red colour was obtained by grinding haematite, commonly known as geru in India.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q40",
+    "chapter_id": "c1",
+    "question": "What stone provided the green colour for the prehistoric artists?",
+    "options": ["Emerald", "Jade", "Chalcedony", "Malachite"],
+    "correct_index": 2,
+    "explanation": "The green colour was derived from a green variety of a stone called chalcedony.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q41",
+    "chapter_id": "c1",
+    "question": "What mineral was likely used to make the white paint in prehistoric times?",
+    "options": ["Chalk", "Limestone", "Gypsum", "Talc"],
+    "correct_index": 1,
+    "explanation": "It is believed that the white colour might have been made out of limestone.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q42",
+    "chapter_id": "c1",
+    "question": "To make paint, the powdered minerals were mixed with water and what other possible substances?",
+    "options": ["Honey or nectar", "Animal fat, gum or resin", "Crushed leaves", "Sand and clay"],
+    "correct_index": 1,
+    "explanation": "The mineral powder was mixed with water and thick or sticky substances such as animal fat, gum, or tree resin.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q43",
+    "chapter_id": "c1",
+    "question": "What material did prehistoric artists use to make their brushes?",
+    "options": ["Animal hair", "Plant fibre", "Feathers", "Human hair"],
+    "correct_index": 1,
+    "explanation": "The artists made their painting brushes out of plant fibre.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q44",
+    "chapter_id": "c1",
+    "question": "Why is it believed that the colours of these rock paintings have survived thousands of years?",
+    "options": ["They were hidden deep underground", "Because of the chemical reaction of the oxide present on the surface of the rocks", "They were continuously retouched by later generations", "They were protected by advanced varnishes"],
+    "correct_index": 1,
+    "explanation": "The colours have remained intact largely due to the chemical reaction of the oxide present on the surface of the rocks.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q45",
+    "chapter_id": "c1",
+    "question": "Why did early humans likely paint high up on uncomfortable parts of the rock shelters?",
+    "options": ["To avoid predators", "For the paintings to be noticed from a distance", "To protect them from floodwaters", "Because the lower walls were too rough"],
+    "correct_index": 1,
+    "explanation": "Paintings made in high, uncomfortable positions were likely placed there so people could easily notice them from a distance.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q46",
+    "chapter_id": "c1",
+    "question": "In the hunting scenes depicted at Bhimbetka, what emotion might a group of dancing men feel when an animal is shown dying?",
+    "options": ["A sense of sorrow", "A sense of power over the animals", "Fear and panic", "Hunger and desperation"],
+    "correct_index": 1,
+    "explanation": "Paintings showing men dancing while an animal is in the agony of death might have given man a sense of power over the animals they faced.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q47",
+    "chapter_id": "c1",
+    "question": "How are the animals generally represented in the prehistoric paintings regarding their physical state?",
+    "options": ["Weak and emaciated", "Stylised and abstract", "Youthful and majestic", "Small and insignificant"],
+    "correct_index": 2,
+    "explanation": "The artists tended to show the animals as more youthful and majestic than they perhaps actually were in reality.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q48",
+    "chapter_id": "c1",
+    "question": "At Bhimbetka, what is a notable feature regarding the placement of new paintings over time?",
+    "options": ["They never painted in the same spot twice", "They carved away old paintings before making new ones", "A new painting is often painted on top of an older painting", "They strictly separated paintings by historical period"],
+    "correct_index": 2,
+    "explanation": "At many rock-art sites, including Bhimbetka, it is common to see a new painting painted directly on top of an older painting.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q49",
+    "chapter_id": "c1",
+    "question": "In some places at Bhimbetka, up to how many layers of paintings can be found one on top of another?",
+    "options": ["5 layers", "10 layers", "20 layers", "50 layers"],
+    "correct_index": 2,
+    "explanation": "There are places at Bhimbetka where as many as 20 distinct layers of paintings are stacked one on top of another.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  },
+  {
+    "mcq_id": "c1_q50",
+    "chapter_id": "c1",
+    "question": "Which of the following is considered a possible reason for early humans superimposing paintings on top of older ones?",
+    "options": ["They ran out of space in the cave", "The area may have been considered sacred and used by different generations", "They wanted to hide the older paintings from enemies", "They were practicing their brushwork"],
+    "correct_index": 1,
+    "explanation": "Superimposition may have occurred because certain spaces were considered sacred or special, leading different generations to use the exact same area.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Fine Arts"
+  }
+]

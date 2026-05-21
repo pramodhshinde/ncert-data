@@ -1,1 +1,677 @@
-{"questions":[{"mcqId":"pol_ch7_q01","chapterId":"pol_ch7","question":"India is described as a federal state because:","options":["It has one level of government","Powers are divided between Centre and States","States can leave the union","All power rests with states"],"correctIndex":1,"explanation":"Federalism in India means powers are constitutionally divided between the Union and State governments.","ncertPage":1,"difficulty":"EASY","subject":"Political Science"}]}
+[
+  {
+    "mcq_id": "pol_c7_q01",
+    "chapter_id": "c7",
+    "question": "What is the basic principle of Federalism as described in the text?",
+    "options": [
+      "Concentration of all powers in the Central government",
+      "Distribution of powers between a central authority and various constituent units",
+      "A system where states have no independent powers",
+      "Rule by a single monarch across all provinces"
+    ],
+    "correct_index": 1,
+    "explanation": "Federalism is a system of government in which the power is divided between a central authority and various constituent units of the country.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q02",
+    "chapter_id": "c7",
+    "question": "Which of the following is a key feature of the Indian federal system?",
+    "options": [
+      "Single tier of government",
+      "Written Constitution",
+      "No division of powers",
+      "Subordination of State governments to the Centre in all matters"
+    ],
+    "correct_index": 1,
+    "explanation": "A written constitution is a fundamental feature of federalism to ensure that the division of powers is clearly defined and protected.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q03",
+    "chapter_id": "c7",
+    "question": "The 'Union List' contains subjects of national importance. Which of these is a subject in the Union List?",
+    "options": ["Police", "Agriculture", "Defense", "Education"],
+    "correct_index": 2,
+    "explanation": "Defense is a subject of national importance and falls under the exclusive jurisdiction of the Union government.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q04",
+    "chapter_id": "c7",
+    "question": "How many subjects were originally in the Union List?",
+    "options": ["66", "47", "97", "100"],
+    "correct_index": 2,
+    "explanation": "The Union List originally contained 97 subjects (now 100).",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q05",
+    "chapter_id": "c7",
+    "question": "Which list includes subjects like 'Police' and 'Agriculture' over which States have jurisdiction?",
+    "options": ["Union List", "State List", "Concurrent List", "Residuary List"],
+    "correct_index": 1,
+    "explanation": "The State List contains subjects of local and state importance like police, trade, commerce, agriculture, and irrigation.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q06",
+    "chapter_id": "c7",
+    "question": "In case of a conflict between a Union law and a State law on a subject in the 'Concurrent List', which law prevails?",
+    "options": ["The State law", "The Union law", "Both are cancelled", "The Supreme Court makes a new law"],
+    "correct_index": 1,
+    "explanation": "If there is a conflict between the Union law and the State law on a subject in the Concurrent List, the Union law prevails.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q07",
+    "chapter_id": "c7",
+    "question": "What are 'Residuary Powers'?",
+    "options": [
+      "Powers belonging to the Princely States",
+      "Powers on subjects not mentioned in any of the three lists",
+      "Powers of the local Panchayats",
+      "Powers to tax agricultural income"
+    ],
+    "correct_index": 1,
+    "explanation": "Residuary powers refer to subjects that do not fall in any of the three lists, and in India, these belong to the Union government.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q08",
+    "chapter_id": "c7",
+    "question": "The Indian Constitution is often described as 'Federal in form but Unitary in spirit'. Why?",
+    "options": [
+      "States have more power than the Centre",
+      "The Centre has several overriding powers over the States",
+      "There is only one government for the whole country",
+      "Judges are elected by the people"
+    ],
+    "correct_index": 1,
+    "explanation": "The Indian Constitution provides for a strong central government with powers to intervene in state matters, especially during emergencies.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q09",
+    "chapter_id": "c7",
+    "question": "Article 356 of the Constitution allows for the imposition of:",
+    "options": ["National Emergency", "President’s Rule in a State", "Financial Emergency", "Military Rule"],
+    "correct_index": 1,
+    "explanation": "Article 356 deals with the failure of constitutional machinery in a State, leading to the imposition of President's Rule.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q10",
+    "chapter_id": "c7",
+    "question": "Which body is responsible for settling disputes between the Union and the States or between two States?",
+    "options": ["The President", "The Parliament", "The Judiciary (Supreme Court)", "The Finance Commission"],
+    "correct_index": 2,
+    "explanation": "The judiciary has the power to resolve disputes between different levels of government in a federal system.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q11",
+    "chapter_id": "c7",
+    "question": "Which commission was appointed in 1983 to examine the relationship between the Centre and the States?",
+    "options": ["Mandal Commission", "Sarkaria Commission", "Shah Commission", "Planning Commission"],
+    "correct_index": 1,
+    "explanation": "The Sarkaria Commission was set up to review the working of federalism and Centre-State relations in India.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q12",
+    "chapter_id": "c7",
+    "question": "What is the primary role of the Governor of a State in India?",
+    "options": [
+      "To act as the real executive head of the state",
+      "To represent the President and act as a link between the Centre and the State",
+      "To lead the state's ruling party",
+      "To appoint Supreme Court judges"
+    ],
+    "correct_index": 1,
+    "explanation": "The Governor is an appointee of the central government and acts as a representative of the Union in the State.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q13",
+    "chapter_id": "c7",
+    "question": "Demands for 'State Autonomy' usually involve which of the following?",
+    "options": [
+      "Total independence from India",
+      "Assignment of more powers and financial resources to the States",
+      "Abolishing the State legislatures",
+      "Handing over all taxes to the Centre"
+    ],
+    "correct_index": 1,
+    "explanation": "State autonomy demands refer to the desire of States for more administrative, legislative, and financial powers.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q14",
+    "chapter_id": "c7",
+    "question": "The 'Inter-State Council' was established to:",
+    "options": [
+      "Make laws for all states",
+      "Promote coordination and resolve disputes between the Union and States",
+      "Collect income tax",
+      "Manage the Indian Army"
+    ],
+    "correct_index": 1,
+    "explanation": "The Inter-State Council is a constitutional body intended to foster coordination between the Centre and the States.",
+    "ncert_page": 18,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q15",
+    "chapter_id": "c7",
+    "question": "Which article of the Constitution provides for special provisions for the state of Jammu and Kashmir (now abrogated)?",
+    "options": ["Article 356", "Article 360", "Article 370", "Article 371"],
+    "correct_index": 2,
+    "explanation": "Article 370 formerly gave special autonomous status to Jammu and Kashmir.",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q16",
+    "chapter_id": "c7",
+    "question": "Article 371 contains special provisions for which of the following regions?",
+    "options": [
+      "Only North Indian states",
+      "Northeastern states, Maharashtra, and Gujarat",
+      "Only the Union Territories",
+      "States with the highest population"
+    ],
+    "correct_index": 1,
+    "explanation": "Article 371 (A to J) provides special provisions for various states like Nagaland, Assam, Manipur, Maharashtra, etc., due to their unique historical or social features.",
+    "ncert_page": 21,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q17",
+    "chapter_id": "c7",
+    "question": "The 'Planning Commission' (now NITI Aayog) was often criticized by States because:",
+    "options": [
+      "It gave too much money to all states",
+      "It centralized economic decision-making and resource allocation",
+      "It had no power",
+      "It was led by the Chief Ministers"
+    ],
+    "correct_index": 1,
+    "explanation": "States often felt that the Planning Commission undermined their autonomy by making centralized plans for the whole country.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q18",
+    "chapter_id": "c7",
+    "question": "Disputes over 'River Water' between states like Karnataka and Tamil Nadu are examples of:",
+    "options": ["Union-State disputes", "Inter-State disputes", "International disputes", "Local disputes"],
+    "correct_index": 1,
+    "explanation": "Disputes between two or more states over resources like water are Inter-State disputes.",
+    "ncert_page": 19,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q19",
+    "chapter_id": "c7",
+    "question": "Federalism helps in accommodating:",
+    "options": [
+      "Only the majority culture",
+      "Diversity and regional aspirations within a single political framework",
+      "A single language policy",
+      "Religious uniformity"
+    ],
+    "correct_index": 1,
+    "explanation": "Federalism is a mechanism for accommodating both regional diversity and national unity.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q20",
+    "chapter_id": "c7",
+    "question": "Which of the following is NOT a Union Territory mentioned in the text?",
+    "options": ["Delhi", "Chandigarh", "Goa", "Lakshadweep"],
+    "correct_index": 2,
+    "explanation": "Goa is a full-fledged State, while the others are Union Territories.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q21",
+    "chapter_id": "c7",
+    "question": "Under a 'Unitary' system, where is the power located?",
+    "options": ["Divided between Centre and States", "Concentrated in the Central government", "With the local Panchayats only", "In the hands of the Judiciary"],
+    "correct_index": 1,
+    "explanation": "In a unitary system, there is only one level of government or the sub-units are subordinate to the central government.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q22",
+    "chapter_id": "c7",
+    "question": "In India, who has the power to create a new State or change the boundary of an existing State?",
+    "options": ["The State government", "The Parliament", "The Supreme Court", "The People via referendum"],
+    "correct_index": 1,
+    "explanation": "The Parliament has the power to create new states or alter boundaries of existing ones.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q23",
+    "chapter_id": "c7",
+    "question": "Federalism in India was heavily influenced by the experience of:",
+    "options": ["The American Revolution", "The Partition of India and the need for unity", "The French Revolution", "The Russian Revolution"],
+    "correct_index": 1,
+    "explanation": "The trauma of Partition led the makers of the Constitution to favor a strong central government to prevent further disintegration.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q24",
+    "chapter_id": "c7",
+    "question": "How many subjects are currently in the Concurrent List (as per the text reference)?",
+    "options": ["47", "52", "61", "97"],
+    "correct_index": 1,
+    "explanation": "The Concurrent List originally had 47 subjects and now has 52.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q25",
+    "chapter_id": "c7",
+    "question": "Which of these is a 'Financial' provision that makes the Centre stronger?",
+    "options": [
+      "States can print their own money",
+      "The Centre has all the major sources of revenue and States depend on Central grants",
+      "States do not pay any taxes to the Centre",
+      "All taxes are collected by local bodies"
+    ],
+    "correct_index": 1,
+    "explanation": "The distribution of financial resources is heavily skewed in favor of the Union government.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q26",
+    "chapter_id": "c7",
+    "question": "The 'All India Services' (IAS, IPS) contribute to a strong Centre because:",
+    "options": [
+      "They are elected by the people",
+      "They are recruited by the Centre but work for the State governments",
+      "They only work for the Prime Minister",
+      "They are above the law"
+    ],
+    "correct_index": 1,
+    "explanation": "IAS and IPS officers are under the ultimate control of the central government, which creates a unitary link in the federal system.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q27",
+    "chapter_id": "c7",
+    "question": "The demand for 'New States' in India is usually based on:",
+    "options": ["Religion", "Language and cultural distinctness", "Wealth", "The number of trees in the region"],
+    "correct_index": 1,
+    "explanation": "Many states were created or demanded based on common language (e.g., Andhra Pradesh) or distinct culture (e.g., Jharkhand).",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q28",
+    "chapter_id": "c7",
+    "question": "Which state was the first to be created on a linguistic basis in 1953?",
+    "options": ["Gujarat", "Andhra Pradesh", "Punjab", "Tamil Nadu"],
+    "correct_index": 1,
+    "explanation": "Andhra Pradesh was the first state created on linguistic grounds after a long struggle.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q29",
+    "chapter_id": "c7",
+    "question": "The Governor’s power to 'reserve a bill for the President’s assent' is seen by States as:",
+    "options": [
+      "A helpful suggestion",
+      "An interference in their legislative autonomy",
+      "A way to get more money",
+      "A religious requirement"
+    ],
+    "correct_index": 1,
+    "explanation": "States feel that the Governor uses this power to delay or block laws passed by the State legislature on behalf of the Centre.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q30",
+    "chapter_id": "c7",
+    "question": "In a federation, 'Dual Identity' means people are:",
+    "options": [
+      "Both male and female",
+      "Both citizens of their state/region and citizens of the whole country",
+      "Both rich and poor",
+      "Using two different names"
+    ],
+    "correct_index": 1,
+    "explanation": "Federalism allows people to have a regional identity and a national identity simultaneously.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q31",
+    "chapter_id": "c7",
+    "question": "Which of the following describes the 'Westphalian' model of a state?",
+    "options": [
+      "States with no boundaries",
+      "Sovereign states with clear territory and no external interference",
+      "States ruled by the Church",
+      "Groups of nomadic people"
+    ],
+    "correct_index": 1,
+    "explanation": "The Westphalian model emphasizes the sovereignty and territorial integrity of states.",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q32",
+    "chapter_id": "c7",
+    "question": "The 1947 map of India showed many 'Princely States'. What happened to them?",
+    "options": [
+      "They became independent countries",
+      "They merged with the Indian Union",
+      "They remained under British rule",
+      "They were sold to other nations"
+    ],
+    "correct_index": 1,
+    "explanation": "After independence, princely states merged with provinces to form the Indian Union.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q33",
+    "chapter_id": "c7",
+    "question": "The conflict in 'Nigeria' mentioned in the text resulted from:",
+    "options": [
+      "Lack of oil",
+      "Religious and ethnic differences between the North and South",
+      "A invasion by Europe",
+      "Too much democracy"
+    ],
+    "correct_index": 1,
+    "explanation": "Nigerian federalism has struggled with tensions between its diverse religious and ethnic groups.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q34",
+    "chapter_id": "c7",
+    "question": "What does 'Symmetrical Federalism' mean?",
+    "options": [
+      "All states have equal powers",
+      "States have different powers based on size",
+      "Only the Centre has power",
+      "No states exist"
+    ],
+    "correct_index": 0,
+    "explanation": "Symmetrical federalism treats all constituent units equally. India, however, has elements of 'Asymmetrical Federalism' due to special provisions.",
+    "ncert_page": 20,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q35",
+    "chapter_id": "c7",
+    "question": "The Sarkaria Commission recommended that Governors should be:",
+    "options": [
+      "Active politicians from the ruling party",
+      "Eminent persons from outside the state who are not active in politics",
+      "Appointed for life",
+      "Abolished"
+    ],
+    "correct_index": 1,
+    "explanation": "To ensure impartiality, the commission suggested Governors should be non-political figures from outside the state.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q36",
+    "chapter_id": "c7",
+    "question": "Which of the following subjects is in the 'Concurrent List'?",
+    "options": ["Defense", "Police", "Forests and Education", "Foreign Affairs"],
+    "correct_index": 2,
+    "explanation": "Forests, education, and marriage are subjects on which both the Centre and States can legislate.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q37",
+    "chapter_id": "c7",
+    "question": "Federalism is a system that allows for 'Unity in ________'.",
+    "options": ["Sameness", "Diversity", "Isolation", "Poverty"],
+    "correct_index": 1,
+    "explanation": "The core goal of federalism in India is to maintain national unity while respecting regional diversity.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q38",
+    "chapter_id": "c7",
+    "question": "What is the 'Governor's Discretion'?",
+    "options": [
+      "The power to spend money",
+      "The power to act independently of the advice of the State Council of Ministers in certain cases",
+      "The power to choose the Prime Minister",
+      "The power to change the Constitution"
+    ],
+    "correct_index": 1,
+    "explanation": "Governors have certain discretionary powers, such as recommending President's rule, which can lead to friction with State governments.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q39",
+    "chapter_id": "c7",
+    "question": "The role of the 'Finance Commission' is to:",
+    "options": [
+      "Collect all taxes",
+      "Recommend the distribution of financial resources between the Centre and the States",
+      "Print currency",
+      "Manage the stock market"
+    ],
+    "correct_index": 1,
+    "explanation": "The Finance Commission is a statutory body that advises on the sharing of tax revenues.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q40",
+    "chapter_id": "c7",
+    "question": "The creation of states like 'Uttarakhand' and 'Chhattisgarh' was based on:",
+    "options": ["Language", "Developmental and cultural needs", "Religion", "Foreign pressure"],
+    "correct_index": 1,
+    "explanation": "These states were carved out of larger states in 2000 to address specific regional developmental and cultural aspirations.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q41",
+    "chapter_id": "c7",
+    "question": "Which House of Parliament represents the States in India?",
+    "options": ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Gram Sabha"],
+    "correct_index": 1,
+    "explanation": "The Rajya Sabha is the 'Council of States' and is designed to protect the interests of the states at the national level.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q42",
+    "chapter_id": "c7",
+    "question": "Special provisions under Article 371 are mainly intended to protect:",
+    "options": [
+      "The wealth of the rich",
+      "The unique culture, traditions, and land rights of tribal and indigenous populations",
+      "Foreign investors",
+      "The power of the Prime Minister"
+    ],
+    "correct_index": 1,
+    "explanation": "These provisions help in managing regions with distinct identities and historical baggage.",
+    "ncert_page": 21,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q43",
+    "chapter_id": "c7",
+    "question": "The term 'Quasi-Federal' is used for India because:",
+    "options": [
+      "It is a perfect federation",
+      "It has federal features but a very strong central bias",
+      "It is a unitary state",
+      "It has no constitution"
+    ],
+    "correct_index": 1,
+    "explanation": "Constitutional experts often use this term to describe the unique Indian mix of federal and unitary elements.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q44",
+    "chapter_id": "c7",
+    "question": "Which of the following is an example of an 'Inter-State' boundary dispute?",
+    "options": [
+      "India vs Pakistan",
+      "Belgaum dispute between Maharashtra and Karnataka",
+      "Delhi vs Central government over services",
+      "Dispute between two local villages"
+    ],
+    "correct_index": 1,
+    "explanation": "Disputes over territory between two states are Inter-State boundary disputes.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q45",
+    "chapter_id": "c7",
+    "question": "In the Canadian federal system, which level of government is stronger?",
+    "options": ["Provinces", "Central (Federal) government", "Both are equal", "Local cities"],
+    "correct_index": 1,
+    "explanation": "The Canadian model, which India followed, provides for a strong central government.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q46",
+    "chapter_id": "c7",
+    "question": "Why do some states demand 'Administrative Autonomy'?",
+    "options": [
+      "To have their own army",
+      "To have independent control over the state machinery without central interference",
+      "To stop all development",
+      "To appoint the President"
+    ],
+    "correct_index": 1,
+    "explanation": "Administrative autonomy refers to the desire of state governments to manage their own affairs without central 'overlordship'.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q47",
+    "chapter_id": "c7",
+    "question": "Which list was the subject of the 42nd Amendment changing 'Education' from State to Concurrent?",
+    "options": ["Union List", "State List", "Concurrent List", "Residuary List"],
+    "correct_index": 1,
+    "explanation": "Education was moved from the State List to the Concurrent List by the 42nd Amendment in 1976.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q48",
+    "chapter_id": "c7",
+    "question": "Federalism requires a ________ culture to be successful.",
+    "options": ["Violent", "Democratic and Negotiating", "Dictatorial", "Silent"],
+    "correct_index": 1,
+    "explanation": "The functioning of federalism depends on political practice, negotiation, and a democratic spirit.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q49",
+    "chapter_id": "c7",
+    "question": "The 'Governor' can be removed by:",
+    "options": ["The State legislature", "The President of India", "The Chief Minister", "The High Court"],
+    "correct_index": 1,
+    "explanation": "Since the Governor is appointed by the President, he/she can also be removed by the President.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c7_q50",
+    "chapter_id": "c7",
+    "question": "Federalism is not a set of 'fixed' rules but a ________ relationship.",
+    "options": ["Static", "Dynamic and evolving", "Dead", "Secret"],
+    "correct_index": 1,
+    "explanation": "The relationship between the Centre and States changes over time due to political and social factors.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  }
+]

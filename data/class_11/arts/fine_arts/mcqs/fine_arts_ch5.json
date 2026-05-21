@@ -1,324 +1,802 @@
-{
-  "questions": [
-    {
-      "mcqId": "11_fine_arts_ch5_q1",
-      "chapterId": "fine_arts_ch5",
-      "question": "Even after Ajanta, very few sites with paintings have survived. What other art forms were also traditionally plastered and painted?",
-      "options": [
-        "Pottery",
-        "Manuscripts",
-        "Sculptures",
-        "Coins"
-      ],
-      "correctIndex": 2,
-      "explanation": "It may also be noted that the sculptures too were plastered and painted.",
-      "ncertPage": 61,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q2",
-      "chapterId": "fine_arts_ch5",
-      "question": "Which dynasty ruled the Badami region from 543 to 598 CE?",
-      "options": [
-        "Pallava dynasty",
-        "Vakataka dynasty",
-        "Early Chalukyan dynasty",
-        "Chola dynasty"
-      ],
-      "correctIndex": 2,
-      "explanation": "Badami was the capital of the early Chalukyan dynasty which ruled the region from 543 to 598 CE.",
-      "ncertPage": 61,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q3",
-      "chapterId": "fine_arts_ch5",
-      "question": "The Chalukyas established their power in the Deccan following the decline of which rule?",
-      "options": [
-        "Mauryan rule",
-        "Vakataka rule",
-        "Pandya rule",
-        "Gupta rule"
-      ],
-      "correctIndex": 1,
-      "explanation": "With the decline of the Vakataka rule, the Chalukyas established their power in the Deccan.",
-      "ncertPage": 61,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q4",
-      "chapterId": "fine_arts_ch5",
-      "question": "Which Chalukya king patronised the excavation of the Badami caves?",
-      "options": [
-        "Pulakesi I",
-        "Kirtivarman I",
-        "Mangalesha",
-        "Rajsimha"
-      ],
-      "correctIndex": 2,
-      "explanation": "The Chalukya king, Mangalesha, patronised the excavation of the Badami caves.",
-      "ncertPage": 61,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q5",
-      "chapterId": "fine_arts_ch5",
-      "question": "To which deity is Cave No.4 at Badami dedicated, giving it its popular name?",
-      "options": [
-        "Shiva",
-        "Brahma",
-        "Vishnu",
-        "Indra"
-      ],
-      "correctIndex": 2,
-      "explanation": "The patron records his Vaishnava affiliation. Therefore, the cave is popularly known as the Vishnu Cave.",
-      "ncertPage": 61,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q6",
-      "chapterId": "fine_arts_ch5",
-      "question": "Where exactly has a fragment of the painting survived in the Vishnu Cave at Badami?",
-      "options": [
-        "On the exterior facade",
-        "On the vaulted roof of the front mandapa",
-        "Inside the inner sanctum",
-        "On the floor of the cave"
-      ],
-      "correctIndex": 1,
-      "explanation": "Only a fragment of the painting has survived on the vaulted roof of the front mandapa.",
-      "ncertPage": 61,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q7",
-      "chapterId": "fine_arts_ch5",
-      "question": "Who is the figure shown seated inside the palace watching a dance scene in the Badami cave paintings?",
-      "options": [
-        "Mangalesha",
-        "Pulakesi I",
-        "Kirtivarman",
-        "Indra"
-      ],
-      "correctIndex": 2,
-      "explanation": "One shows Kirtivarman, the son of Pulakesi I and the elder brother of Mangalesha, seated inside the palace with his wife and feudatories watching a dance scene.",
-      "ncertPage": 61,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q8",
-      "chapterId": "fine_arts_ch5",
-      "question": "Which figures are depicted towards the corner of the palace panel in the Badami cave?",
-      "options": [
-        "Shiva and Parvati",
-        "Indra and his retinue",
-        "A group of musicians",
-        "Dancing nymphs"
-      ],
-      "correctIndex": 1,
-      "explanation": "Towards the corner of the panel are figures of Indra and his retinue.",
-      "ncertPage": 61,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q9",
-      "chapterId": "fine_arts_ch5",
-      "question": "Stylistically speaking, the Badami cave paintings represent an extension of the mural tradition from which earlier site?",
-      "options": [
-        "Ellora",
-        "Ajanta",
-        "Elephanta",
-        "Sittanvasal"
-      ],
-      "correctIndex": 1,
-      "explanation": "Stylistically speaking, the painting represents an extension of the tradition of mural painting from Ajanta to Badami in South India.",
-      "ncertPage": 62,
-      "difficulty": "EASY",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q10",
-      "chapterId": "fine_arts_ch5",
-      "question": "How did the artists at Badami create protruding structures and volume on the faces?",
-      "options": [
-        "With heavy shading and cross-hatching",
-        "With simple line treatment",
-        "By carving deep into the rock",
-        "By using multiple thick layers of paint"
-      ],
-      "correctIndex": 1,
-      "explanation": "It is noteworthy to observe that the contours of different parts of the face create protruding structures of the face itself. Thus, with simple line treatment artists could create volume.",
-      "ncertPage": 62,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q11",
-      "chapterId": "fine_arts_ch5",
-      "question": "Which kings succeeded the Chalukya kings in parts of South India and continued to patronise the arts?",
-      "options": [
-        "Chola kings",
-        "Pallava kings",
-        "Nayaka kings",
-        "Pandya kings"
-      ],
-      "correctIndex": 1,
-      "explanation": "The Pallava kings who succeeded the Chalukya kings in parts of South India, were also patrons of arts.",
-      "ncertPage": 62,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q12",
-      "chapterId": "fine_arts_ch5",
-      "question": "Which Pallava king was responsible for building temples at Panamalai, Mandagapattu, and Kanchipuram?",
-      "options": [
-        "Rajaraja Chola",
-        "Mahendravarma I",
-        "Rajsimha",
-        "Kirtivarman I"
-      ],
-      "correctIndex": 1,
-      "explanation": "Mahendravarma I who ruled in the seventh century was responsible for building temples at Panamalai, Mandagapattu and Kanchipuram.",
-      "ncertPage": 62,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q13",
-      "chapterId": "fine_arts_ch5",
-      "question": "What does the title 'Vichitrachitta', given to Mahendravarman I, mean?",
-      "options": [
-        "Temple builder",
-        "Tiger among artists",
-        "Curious-minded",
-        "Great conqueror"
-      ],
-      "correctIndex": 2,
-      "explanation": "The inscription at Mandagapattu mentions Mahendravarman I with numerous titles such as Vichitrachitta (curious-minded).",
-      "ncertPage": 62,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q14",
-      "chapterId": "fine_arts_ch5",
-      "question": "Which title given to Mahendravarman I translates to 'tiger among artists'?",
-      "options": [
-        "Vichitrachitta",
-        "Chaityakari",
-        "Chitrakarapuli",
-        "Nataraja"
-      ],
-      "correctIndex": 2,
-      "explanation": "Chitrakarapuli (tiger among artists).",
-      "ncertPage": 63,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q15",
-      "chapterId": "fine_arts_ch5",
-      "question": "Which Pallava king patronised the paintings at the Kanchipuram temple?",
-      "options": [
-        "Mahendravarma I",
-        "Rajsimha",
-        "Pulakesi I",
-        "Rajaraja Chola II"
-      ],
-      "correctIndex": 1,
-      "explanation": "Paintings at the Kanchipuram temple were patronised by the Pallava king, Rajsimha.",
-      "ncertPage": 63,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q16",
-      "chapterId": "fine_arts_ch5",
-      "question": "The remaining traces of paintings at the Kanchipuram temple primarily depict which deity?",
-      "options": [
-        "Vishnu",
-        "Indra",
-        "Somaskanda",
-        "Ganesha"
-      ],
-      "correctIndex": 2,
-      "explanation": "Only traces of paintings remain now which depict Somaskanda.",
-      "ncertPage": 63,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q17",
-      "chapterId": "fine_arts_ch5",
-      "question": "Which of the following is an example of a Jaina cave patronised by the Pandya kings?",
-      "options": [
-        "Elephanta",
-        "Tirumalaipuram",
-        "Sittanvasal",
-        "Badami Cave 4"
-      ],
-      "correctIndex": 2,
-      "explanation": "Tirumalaipuram caves and Jaina caves at Sittanvasal are some of the surviving examples.",
-      "ncertPage": 63,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q18",
-      "chapterId": "fine_arts_ch5",
-      "question": "Where are the dancing figures of celestial nymphs prominently seen in the Sittanvasal caves?",
-      "options": [
-        "On the outer courtyard walls",
-        "On the pillars of the veranda",
-        "On the main stupa",
-        "On the floor of the shrine"
-      ],
-      "correctIndex": 1,
-      "explanation": "On the pillars of the veranda are seen dancing figures of celestial nymphs.",
-      "ncertPage": 63,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q19",
-      "chapterId": "fine_arts_ch5",
-      "question": "What color is used for the firmly drawn contours of the figures at Sittanvasal?",
-      "options": [
-        "Yellow",
-        "Vermilion red",
-        "Black",
-        "Green"
-      ],
-      "correctIndex": 1,
-      "explanation": "The contours of figures are firmly drawn and painted in vermilion red on a lighter background.",
-      "ncertPage": 63,
-      "difficulty": "HARD",
-      "subject": "Fine Arts"
-    },
-    {
-      "mcqId": "11_fine_arts_ch5_q20",
-      "chapterId": "fine_arts_ch5",
-      "question": "In what color is the body rendered with subtle modelling in the Sittanvasal paintings?",
-      "options": [
-        "Blue",
-        "Vermilion red",
-        "White",
-        "Yellow"
-      ],
-      "correctIndex": 3,
-      "explanation": "The body is rendered in yellow with subtle modelling.",
-      "ncertPage": 63,
-      "difficulty": "MEDIUM",
-      "subject": "Fine Arts"
-    }
-  ]
-}
+[
+  {
+    "mcq_id": "c5_q01",
+    "chapter_id": "c5",
+    "question": "What emerged from the conversation in Madam Lyngdoh's class regarding democracy?",
+    "options": [
+      "It is a flawless system",
+      "It is a better form of government compared with dictatorship",
+      "It is less efficient than monarchy",
+      "It guarantees economic equality"
+    ],
+    "correct_index": 1,
+    "explanation": "It emerged from that conversation that democracy is a better form of government when compared with dictatorship or any other alternative.",
+    "ncert_page": 64,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q02",
+    "chapter_id": "c5",
+    "question": "Which of the following is NOT an argument supporting that democracy is a better form of government?",
+    "options": [
+      "Promotes equality among citizens",
+      "Enhances the dignity of the individual",
+      "Guarantees high economic growth",
+      "Provides a method to resolve conflicts"
+    ],
+    "correct_index": 2,
+    "explanation": "We felt that democracy was better because it: Promotes equality among citizens; Enhances the dignity of the individual; Improves the quality of decision-making; Provides a method to resolve conflicts; and Allows room to correct mistakes. It does not guarantee high economic growth.",
+    "ncert_page": 64,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q03",
+    "chapter_id": "c5",
+    "question": "The dilemma faced when assessing democracy is that it is:",
+    "options": [
+      "Seen to be good in principle, but felt to be not so good in its practice",
+      "Good in practice but bad in principle",
+      "Only suitable for rich countries",
+      "Always economically successful"
+    ],
+    "correct_index": 0,
+    "explanation": "So we face a dilemma: democracy is seen to be good in principle, but felt to be not so good in its practice.",
+    "ncert_page": 64,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q04",
+    "chapter_id": "c5",
+    "question": "The first step towards thinking carefully about the outcomes of democracy is to recognise that:",
+    "options": [
+      "It is a magical solution to all problems",
+      "It is just a form of government",
+      "It guarantees economic equality",
+      "It prevents all social conflicts"
+    ],
+    "correct_index": 1,
+    "explanation": "The first step towards thinking carefully about the outcomes of democracy is to recognise that democracy is just a form of government. It can only create conditions for achieving something.",
+    "ncert_page": 64,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q05",
+    "chapter_id": "c5",
+    "question": "The most basic outcome of democracy should be that it produces a government that is:",
+    "options": [
+      "Extremely fast in decision making",
+      "Wealthy and powerful",
+      "Accountable to the citizens and responsive to their needs",
+      "Led by the military"
+    ],
+    "correct_index": 2,
+    "explanation": "Therefore, the most basic outcome of democracy should be that it produces a government that is accountable to the citizens, and responsive to the needs and expectations of the citizens.",
+    "ncert_page": 65,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q06",
+    "chapter_id": "c5",
+    "question": "Why are non-democratic rulers often very quick and efficient in decision making?",
+    "options": [
+      "They are highly educated",
+      "They do not have to bother about deliberation in assemblies or worry about majorities",
+      "They use advanced technology",
+      "They consult all citizens directly"
+    ],
+    "correct_index": 1,
+    "explanation": "It is, of course, true that non-democratic rulers do not have to bother about deliberation in assemblies or worry about majorities and public opinion. So, they can be very quick and efficient in decision making and implementation.",
+    "ncert_page": 65,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q07",
+    "chapter_id": "c5",
+    "question": "Why is the cost of time that democracy pays for decision making perhaps worth it?",
+    "options": [
+      "Because it saves money",
+      "Because its decisions may be both more acceptable to the people and more effective",
+      "Because it guarantees economic growth",
+      "Because it eliminates all opposition"
+    ],
+    "correct_index": 1,
+    "explanation": "But because it has followed procedures, its decisions may be both more acceptable to the people and more effective. So, the cost of time that democracy pays is perhaps worth it.",
+    "ncert_page": 65,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q08",
+    "chapter_id": "c5",
+    "question": "What is 'transparency' in a democratic government?",
+    "options": [
+      "The government's ability to hide secrets",
+      "The citizen's right and the means to examine the process of decision making",
+      "The use of clear glass in parliament buildings",
+      "The absence of any political parties"
+    ],
+    "correct_index": 1,
+    "explanation": "So, a citizen who wants to know if a decision was taken through the correct procedures can find this out. She has the right and the means to examine the process of decision making. This is known as transparency.",
+    "ncert_page": 65,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q09",
+    "chapter_id": "c5",
+    "question": "Which of the following is an expected practice and institution to measure democracies?",
+    "options": [
+      "Regular, free and fair elections",
+      "A single-party system",
+      "Hereditary leadership",
+      "Absence of public debate"
+    ],
+    "correct_index": 0,
+    "explanation": "If you wanted to measure democracies on the basis of this expected outcome, you would look for the following practices and institutions: regular, free and fair elections...",
+    "ncert_page": 65,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q10",
+    "chapter_id": "c5",
+    "question": "What is the actual record of democracies when it comes to sharing information with citizens?",
+    "options": [
+      "They have a perfect record",
+      "They always share all secrets",
+      "They do not have a very good record",
+      "They are completely transparent at all times"
+    ],
+    "correct_index": 2,
+    "explanation": "Democratic governments do not have a very good record when it comes to sharing information with citizens.",
+    "ncert_page": 66,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q11",
+    "chapter_id": "c5",
+    "question": "There is one respect in which a democratic government is certainly better than its alternatives. What is it?",
+    "options": [
+      "It is completely free of corruption",
+      "It is highly efficient",
+      "It is a legitimate government",
+      "It guarantees economic equality"
+    ],
+    "correct_index": 2,
+    "explanation": "There is one respect in which democratic government is certainly better than its alternatives: democratic government is legitimate government.",
+    "ncert_page": 66,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q12",
+    "chapter_id": "c5",
+    "question": "Evidence from South Asia shows that support for democracy exists:",
+    "options": [
+      "Only in countries with democratic regimes",
+      "Only in rich countries",
+      "In countries with democratic regimes as well as countries without democratic regimes",
+      "Only in Western nations"
+    ],
+    "correct_index": 2,
+    "explanation": "As the accompanying evidence from South Asia shows, the support exists in countries with democratic regimes as well as countries without democratic regimes.",
+    "ncert_page": 66,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q13",
+    "chapter_id": "c5",
+    "question": "According to evidence gathered between 1950 and 2000, which type of regime had a slightly higher rate of economic growth overall?",
+    "options": [
+      "Democracies",
+      "Dictatorships",
+      "Communist regimes",
+      "Monarchy"
+    ],
+    "correct_index": 1,
+    "explanation": "If you consider all democracies and all dictatorships for the fifty years between 1950 and 2000, dictatorships have slightly higher rate of economic growth.",
+    "ncert_page": 67,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q14",
+    "chapter_id": "c5",
+    "question": "Economic development depends on several factors. Which of the following is NOT mentioned as one of these factors?",
+    "options": [
+      "Country's population size",
+      "Global situation",
+      "The official religion of the country",
+      "Economic priorities adopted by the country"
+    ],
+    "correct_index": 2,
+    "explanation": "As you have already studied in economics, economic development depends on several factors: country's population size, global situation, cooperation from other countries, economic priorities adopted by the country, etc.",
+    "ncert_page": 67,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q15",
+    "chapter_id": "c5",
+    "question": "The difference in the rates of economic development between less developed countries with dictatorships and democracies is:",
+    "options": [
+      "Extremely large",
+      "Negligible",
+      "In favour of democracies",
+      "Unknown"
+    ],
+    "correct_index": 1,
+    "explanation": "However, the difference in the rates of economic development between less developed countries with dictatorships and democracies is negligible.",
+    "ncert_page": 67,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q16",
+    "chapter_id": "c5",
+    "question": "Why should we prefer democracy over dictatorship even if there is a slight difference in economic growth?",
+    "options": [
+      "Because democracy has several other positive outcomes",
+      "Because democracy guarantees wealth",
+      "Because dictatorships always collapse",
+      "Because democracies are faster"
+    ],
+    "correct_index": 0,
+    "explanation": "When we find such significant difference in the rates of economic growth between countries under dictatorship and democracy, it is better to prefer democracy as it has several other positive outcomes.",
+    "ncert_page": 67,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q17",
+    "chapter_id": "c5",
+    "question": "Democracies are based on:",
+    "options": [
+      "Economic equality",
+      "Political equality",
+      "Social hierarchy",
+      "Absolute freedom"
+    ],
+    "correct_index": 1,
+    "explanation": "Democracies are based on political equality. All individuals have equal weight in electing representatives.",
+    "ncert_page": 69,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q18",
+    "chapter_id": "c5",
+    "question": "What trend is observed regarding the wealth of the ultra-rich in growing democracies?",
+    "options": [
+      "Their wealth is evenly distributed",
+      "They enjoy a highly disproportionate share of wealth and incomes",
+      "Their share in the total income has been decreasing",
+      "They pay zero taxes"
+    ],
+    "correct_index": 1,
+    "explanation": "A small number of ultra-rich enjoy a highly disproportionate share of wealth and incomes. Not only that, their share in the total income of the country has been increasing.",
+    "ncert_page": 69,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q19",
+    "chapter_id": "c5",
+    "question": "What is the condition of people at the bottom of the society in terms of income?",
+    "options": [
+      "Their incomes have been increasing rapidly",
+      "Their incomes have been declining",
+      "They receive equal share of national wealth",
+      "They are not affected by economic changes"
+    ],
+    "correct_index": 1,
+    "explanation": "Those at the bottom of the society have very little to depend upon. Their incomes have been declining.",
+    "ncert_page": 69,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q20",
+    "chapter_id": "c5",
+    "question": "In which country does more than half of its population live in poverty?",
+    "options": [
+      "United Kingdom",
+      "Denmark",
+      "Bangladesh",
+      "USA"
+    ],
+    "correct_index": 2,
+    "explanation": "The situation is much worse in some other countries. In Bangladesh, more than half of its population lives in poverty.",
+    "ncert_page": 69,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q21",
+    "chapter_id": "c5",
+    "question": "In actual life, democracies do not appear to be very successful in:",
+    "options": [
+      "Holding regular elections",
+      "Reducing economic inequalities",
+      "Drafting a constitution",
+      "Forming political parties"
+    ],
+    "correct_index": 1,
+    "explanation": "In actual life, democracies do not appear to be very successful in reducing economic inequalities.",
+    "ncert_page": 69,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q22",
+    "chapter_id": "c5",
+    "question": "Ability to handle social differences, divisions and conflicts is a definite plus point of:",
+    "options": [
+      "Dictatorial regimes",
+      "Democratic regimes",
+      "Totalitarian regimes",
+      "Military rule"
+    ],
+    "correct_index": 1,
+    "explanation": "Ability to handle social differences, divisions and conflicts is thus a definite plus point of democratic regimes.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q23",
+    "chapter_id": "c5",
+    "question": "Can any society fully and permanently resolve conflicts among different groups?",
+    "options": [
+      "Yes, easily",
+      "Yes, through force",
+      "No society can fully and permanently resolve conflicts",
+      "Only rich societies can"
+    ],
+    "correct_index": 2,
+    "explanation": "No society can fully and permanently resolve conflicts among different groups. But we can certainly learn to respect these differences...",
+    "ncert_page": 70,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q24",
+    "chapter_id": "c5",
+    "question": "Democracy is not simply rule by majority opinion. The majority always needs to work with:",
+    "options": [
+      "The military",
+      "The minority",
+      "The international community",
+      "The monarchy"
+    ],
+    "correct_index": 1,
+    "explanation": "It is necessary to understand that democracy is not simply rule by majority opinion. The majority always needs to work with the minority so that governments function to represent the general view.",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q25",
+    "chapter_id": "c5",
+    "question": "Rule by majority means that in case of every decision or in case of every election:",
+    "options": [
+      "The same linguistic group forms the majority",
+      "Different persons and groups may and can form a majority",
+      "The rich form the majority",
+      "Men form the majority"
+    ],
+    "correct_index": 1,
+    "explanation": "Rule by majority means that in case of every decision or in case of every election, different persons and groups may and can form a majority.",
+    "ncert_page": 70,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q26",
+    "chapter_id": "c5",
+    "question": "Democratic rule ceases to be accommodative for a person or group if they are barred from being in the majority on the basis of:",
+    "options": [
+      "Education",
+      "Wealth",
+      "Birth",
+      "Political ideology"
+    ],
+    "correct_index": 2,
+    "explanation": "If someone is barred from being in majority on the basis of birth, then the democratic rule ceases to be accommodative for that person or group.",
+    "ncert_page": 70,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q27",
+    "chapter_id": "c5",
+    "question": "Democracy stands much superior to any other form of government in promoting:",
+    "options": [
+      "Economic equality",
+      "Dignity and freedom of the individual",
+      "Quick decision making",
+      "Secrecy in government"
+    ],
+    "correct_index": 1,
+    "explanation": "Democracy stands much superior to any other form of government in promoting dignity and freedom of the individual.",
+    "ncert_page": 71,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q28",
+    "chapter_id": "c5",
+    "question": "What are considered the basis of democracy?",
+    "options": [
+      "Wealth and power",
+      "The passion for respect and freedom",
+      "Military strength and discipline",
+      "Hierarchy and subordination"
+    ],
+    "correct_index": 1,
+    "explanation": "The passion for respect and freedom are the basis of democracy. Democracies throughout the world have recognised this, at least in principle.",
+    "ncert_page": 71,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q29",
+    "chapter_id": "c5",
+    "question": "What has created some sensitivity today that respect to and equal treatment of women are necessary ingredients of a democratic society?",
+    "options": [
+      "Economic growth",
+      "Long struggles by women",
+      "Dictatorial decrees",
+      "International trade"
+    ],
+    "correct_index": 1,
+    "explanation": "Long struggles by women have created some sensitivity today that respect to and equal treatment of women are necessary ingredients of a democratic society.",
+    "ncert_page": 71,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q30",
+    "chapter_id": "c5",
+    "question": "In a non-democratic setup, why would unacceptability of women's unequal treatment lack legal and moral force?",
+    "options": [
+      "Because women do not protest",
+      "Because the principle of individual freedom and dignity would not have the legal and moral force there",
+      "Because everyone is equal automatically",
+      "Because the ruler protects everyone"
+    ],
+    "correct_index": 1,
+    "explanation": "In a non-democratic set up, this unacceptability would not have legal basis because the principle of individual freedom and dignity would not have the legal and moral force there.",
+    "ncert_page": 71,
+    "difficulty": "hard",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q31",
+    "chapter_id": "c5",
+    "question": "Democracy in India has strengthened the claims of the disadvantaged and discriminated castes for:",
+    "options": [
+      "Separate nationhood",
+      "Equal status and equal opportunity",
+      "Complete dominance over others",
+      "Financial compensation only"
+    ],
+    "correct_index": 1,
+    "explanation": "Democracy in India has strengthened the claims of the disadvantaged and discriminated castes for equal status and equal opportunity.",
+    "ncert_page": 71,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q32",
+    "chapter_id": "c5",
+    "question": "What is most distinctive about democracy?",
+    "options": [
+      "Its examination never gets over",
+      "It completely eliminates poverty",
+      "It never faces protests",
+      "It makes decisions instantly"
+    ],
+    "correct_index": 0,
+    "explanation": "What is most distinctive about democracy is that its examination never gets over. As democracy passes one test, it produces another test.",
+    "ncert_page": 72,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q33",
+    "chapter_id": "c5",
+    "question": "What does the fact that people are complaining about democracy show?",
+    "options": [
+      "That democracy is failing",
+      "That people want dictatorship",
+      "That people have developed awareness and the ability to look critically at power holders",
+      "That the government is perfect"
+    ],
+    "correct_index": 2,
+    "explanation": "The fact that people are complaining is itself a testimony to the success of democracy: it shows that people have developed awareness and the ability to expect and to look critically at power holders and the high and the mighty.",
+    "ncert_page": 72,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q34",
+    "chapter_id": "c5",
+    "question": "A public expression of dissatisfaction with democracy transforms people from the status of a 'subject' into that of a:",
+    "options": [
+      "Rebel",
+      "Citizen",
+      "Dictator",
+      "Monarch"
+    ],
+    "correct_index": 1,
+    "explanation": "A public expression of dissatisfaction with democracy shows the success of the democratic project: it transforms people from the status of a subject into that of a citizen.",
+    "ncert_page": 72,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q35",
+    "chapter_id": "c5",
+    "question": "Most individuals today believe that their vote makes a difference to:",
+    "options": [
+      "The weather",
+      "The way the government is run and to their own self-interest",
+      "The global economy",
+      "Nothing at all"
+    ],
+    "correct_index": 1,
+    "explanation": "Most individuals today believe that their vote makes a difference to the way the government is run and to their own self-interest.",
+    "ncert_page": 72,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q36",
+    "chapter_id": "c5",
+    "question": "According to the South Asia survey, which country had the highest percentage of respondents strongly agreeing or agreeing with the rule of leaders elected by the people?",
+    "options": [
+      "India",
+      "Sri Lanka",
+      "Pakistan",
+      "Nepal"
+    ],
+    "correct_index": 1,
+    "explanation": "According to the chart 'Overwhelming support for democracy', Sri Lanka has the highest total agreement at 98%.",
+    "ncert_page": 66,
+    "difficulty": "hard",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q37",
+    "chapter_id": "c5",
+    "question": "In the South Asia survey, what percentage of people in Pakistan felt that 'Sometimes dictatorship is better'?",
+    "options": [
+      "6%",
+      "9%",
+      "14%",
+      "25%"
+    ],
+    "correct_index": 2,
+    "explanation": "According to the table on page 66, 14% of people in Pakistan agreed that 'Sometimes dictatorship is better'.",
+    "ncert_page": 66,
+    "difficulty": "hard",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q38",
+    "chapter_id": "c5",
+    "question": "According to Table 1, what was the growth rate for all democratic regimes between 1950 and 2000?",
+    "options": [
+      "3.95%",
+      "4.42%",
+      "4.34%",
+      "4.28%"
+    ],
+    "correct_index": 0,
+    "explanation": "Table 1 'Rates of economic growth for different countries, 1950-2000' shows 'All democratic regimes' at a Growth Rate of 3.95.",
+    "ncert_page": 68,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q39",
+    "chapter_id": "c5",
+    "question": "According to Table 2 (Inequality of income), in which country does the top 20% hold 64.8% of the national income?",
+    "options": [
+      "Brazil",
+      "Russia",
+      "USA",
+      "South Africa"
+    ],
+    "correct_index": 3,
+    "explanation": "According to Table 2, in South Africa, the Top 20% holds 64.8% of the national income.",
+    "ncert_page": 68,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q40",
+    "chapter_id": "c5",
+    "question": "According to Table 2, what percentage of the national income does the bottom 20% hold in Brazil?",
+    "options": [
+      "2.6%",
+      "2.9%",
+      "4.0%",
+      "6.0%"
+    ],
+    "correct_index": 0,
+    "explanation": "Table 2 shows that in Brazil, the Bottom 20% holds 2.6% of the national income.",
+    "ncert_page": 68,
+    "difficulty": "hard",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q41",
+    "chapter_id": "c5",
+    "question": "According to Table 2, which of the following countries has a relatively better distribution of income, with the bottom 20% holding 10.0% of the national income?",
+    "options": [
+      "South Africa",
+      "USA",
+      "United Kingdom",
+      "Hungary"
+    ],
+    "correct_index": 3,
+    "explanation": "In Hungary, the Bottom 20% holds 10.0% of the national income, which is the highest share among the countries listed for the bottom 20%.",
+    "ncert_page": 68,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q42",
+    "chapter_id": "c5",
+    "question": "What does Nannu's story about getting his ration card illustrate?",
+    "options": [
+      "The efficiency of food departments",
+      "The power of the Right to Information Act (RTI) in holding officials accountable",
+      "The high cost of duplicate cards",
+      "The need to bribe officials"
+    ],
+    "correct_index": 1,
+    "explanation": "Nannu used the Right to Information Act to ask for daily progress on his application, which forced the officials to act quickly and issue his ration card.",
+    "ncert_page": 74,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q43",
+    "chapter_id": "c5",
+    "question": "In Nannu's story, within how much time was he visited by an inspector after filing his RTI application?",
+    "options": [
+      "One month",
+      "Six months",
+      "Within a week",
+      "The next day"
+    ],
+    "correct_index": 2,
+    "explanation": "Within a week of filing application under the Right to Information Act, he was visited by an inspector from the Food Department.",
+    "ncert_page": 74,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q44",
+    "chapter_id": "c5",
+    "question": "What did the Food and Supply Officer (FSO) request Nannu to do when he came to collect his card?",
+    "options": [
+      "Pay a fine",
+      "Re-apply for the card",
+      "Withdraw his application under the Right to Information",
+      "File another complaint"
+    ],
+    "correct_index": 2,
+    "explanation": "The FSO offered him tea and requested him to withdraw his application under the Right to Information, since his work had already been done.",
+    "ncert_page": 74,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q45",
+    "chapter_id": "c5",
+    "question": "When expectations from democracy are not met, people tend to start blaming:",
+    "options": [
+      "The rich people",
+      "The idea of democracy itself",
+      "The global market",
+      "The opposition party only"
+    ],
+    "correct_index": 1,
+    "explanation": "If some of our expectations are not met, we start blaming the idea of democracy. Or, we start doubting if we are living in a democracy.",
+    "ncert_page": 64,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q46",
+    "chapter_id": "c5",
+    "question": "Is democracy a guarantee of economic development?",
+    "options": [
+      "Yes, always",
+      "No, we cannot say that democracy is a guarantee of economic development",
+      "It guarantees development only in poor countries",
+      "It guarantees development only in rich countries"
+    ],
+    "correct_index": 1,
+    "explanation": "Overall, we cannot say that democracy is a guarantee of economic development. But we can expect democracy not to lag behind dictatorships in this respect.",
+    "ncert_page": 67,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q47",
+    "chapter_id": "c5",
+    "question": "Why do some people prefer dictatorship over democracy?",
+    "options": [
+      "Because it allows public debate",
+      "Because it guarantees freedom of speech",
+      "Because they believe it can be very quick and efficient in decision making and implementation",
+      "Because it holds regular elections"
+    ],
+    "correct_index": 2,
+    "explanation": "Some people think that democracy produces less effective government. Non-democratic rulers do not have to bother about deliberation... So, they can be very quick and efficient in decision making and implementation.",
+    "ncert_page": 65,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q48",
+    "chapter_id": "c5",
+    "question": "The routine tales of corruption are enough to convince us that:",
+    "options": [
+      "Dictatorships are completely clean",
+      "Democracy is not free of this evil",
+      "Corruption is a myth",
+      "Only poor countries have corruption"
+    ],
+    "correct_index": 1,
+    "explanation": "The routine tales of corruption are enough to convince us that democracy is not free of this evil. At the same time, there is nothing to show that non-democracies are less corrupt...",
+    "ncert_page": 66,
+    "difficulty": "easy",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q49",
+    "chapter_id": "c5",
+    "question": "How do democracies usually handle competition between different social groups?",
+    "options": [
+      "By suppressing minority groups",
+      "By developing a procedure to conduct their competition",
+      "By handing over power to the military",
+      "By banning political parties"
+    ],
+    "correct_index": 1,
+    "explanation": "Democracies usually develop a procedure to conduct their competition. This reduces the possibility of these tensions becoming explosive or violent.",
+    "ncert_page": 70,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  },
+  {
+    "mcq_id": "c5_q50",
+    "chapter_id": "c5",
+    "question": "Democracy remains a democracy only as long as:",
+    "options": [
+      "One party stays in power forever",
+      "The richest people rule",
+      "Every citizen has a chance of being in majority at some point of time",
+      "There is no opposition"
+    ],
+    "correct_index": 2,
+    "explanation": "Democracy remains democracy only as long as every citizen has a chance of being in majority at some point of time.",
+    "ncert_page": 70,
+    "difficulty": "medium",
+    "subject": "Democratic Politics"
+  }
+]
