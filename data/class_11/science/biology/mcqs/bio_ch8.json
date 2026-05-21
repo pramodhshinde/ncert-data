@@ -1,804 +1,552 @@
-{
-  "questions": [
-    {
-      "mcqId": "11_bio_ch8_q1",
-      "chapterId": "bio_ch8",
-      "question": "Who first saw and described a live cell?",
-      "options": [
-        "Robert Brown",
-        "Matthias Schleiden",
-        "Theodore Schwann",
-        "Antonie Von Leeuwenhoek"
-      ],
-      "correctIndex": 3,
-      "explanation": "Antonie Von Leeuwenhoek first saw and described a live cell.",
-      "ncertPage": 87,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q2",
-      "chapterId": "bio_ch8",
-      "question": "Who discovered the nucleus?",
-      "options": [
-        "Robert Brown",
-        "Antonie Von Leeuwenhoek",
-        "Rudolf Virchow",
-        "George Palade"
-      ],
-      "correctIndex": 0,
-      "explanation": "Robert Brown later discovered the nucleus.",
-      "ncertPage": 87,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q3",
-      "chapterId": "bio_ch8",
-      "question": "Which botanist observed that all plants are composed of different kinds of cells?",
-      "options": [
-        "Theodore Schwann",
-        "Matthias Schleiden",
-        "Rudolf Virchow",
-        "Camillo Golgi"
-      ],
-      "correctIndex": 1,
-      "explanation": "In 1838, Matthias Schleiden, a German botanist, examined a large number of plants and observed that all plants are composed of different kinds of cells which form the tissues of the plant.",
-      "ncertPage": 87,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q4",
-      "chapterId": "bio_ch8",
-      "question": "Who reported that animal cells had a thin outer layer, which is today known as the 'plasma membrane'?",
-      "options": [
-        "Matthias Schleiden",
-        "Robert Brown",
-        "Theodore Schwann",
-        "Rudolf Virchow"
-      ],
-      "correctIndex": 2,
-      "explanation": "Theodore Schwann (1839), a German Zoologist, studied different types of animal cells and reported that cells had a thin outer layer which is today known as the 'plasma membrane'.",
-      "ncertPage": 88,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q5",
-      "chapterId": "bio_ch8",
-      "question": "Which scientist concluded that the presence of a cell wall is a unique character of plant cells?",
-      "options": [
-        "Matthias Schleiden",
-        "Theodore Schwann",
-        "Rudolf Virchow",
-        "Antonie Von Leeuwenhoek"
-      ],
-      "correctIndex": 1,
-      "explanation": "He [Theodore Schwann] also concluded, based on his studies on plant tissues, that the presence of cell wall is a unique character of the plant cells.",
-      "ncertPage": 88,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q6",
-      "chapterId": "bio_ch8",
-      "question": "Who modified the hypothesis of Schleiden and Schwann to give the cell theory a final shape?",
-      "options": [
-        "Robert Brown",
-        "Camillo Golgi",
-        "Rudolf Virchow",
-        "Singer and Nicolson"
-      ],
-      "correctIndex": 2,
-      "explanation": "He [Rudolf Virchow] modified the hypothesis of Schleiden and Schwann to give the cell theory a final shape.",
-      "ncertPage": 88,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q7",
-      "chapterId": "bio_ch8",
-      "question": "The statement 'Omnis cellula-e cellula' means:",
-      "options": [
-        "All cells have a nucleus",
-        "All cells arise from pre-existing cells",
-        "All plants are composed of cells",
-        "Cells are the basic unit of life"
-      ],
-      "correctIndex": 1,
-      "explanation": "Rudolf Virchow (1855) first explained that cells divided and new cells are formed from pre-existing cells (Omnis cellula-e cellula).",
-      "ncertPage": 88,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q8",
-      "chapterId": "bio_ch8",
-      "question": "Which of the following is a non-membrane bound organelle found in all cells, both eukaryotic and prokaryotic?",
-      "options": [
-        "Mitochondria",
-        "Lysosome",
-        "Ribosome",
-        "Golgi complex"
-      ],
-      "correctIndex": 2,
-      "explanation": "Ribosomes are non-membrane bound organelles found in all cells both eukaryotic as well as prokaryotic.",
-      "ncertPage": 88,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q9",
-      "chapterId": "bio_ch8",
-      "question": "Which non-membrane bound organelle found in animal cells helps in cell division?",
-      "options": [
-        "Ribosome",
-        "Centrosome",
-        "Nucleolus",
-        "Vacuole"
-      ],
-      "correctIndex": 1,
-      "explanation": "Animal cells contain another non-membrane bound organelle called centrosome which helps in cell division.",
-      "ncertPage": 88,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q10",
-      "chapterId": "bio_ch8",
-      "question": "What is the length of Mycoplasmas, the smallest known cells?",
-      "options": [
-        "0.3 µm",
-        "1.0 µm",
-        "3.0 µm",
-        "7.0 µm"
-      ],
-      "correctIndex": 0,
-      "explanation": "For example, Mycoplasmas, the smallest cells, are only 0.3 µm in length...",
-      "ncertPage": 88,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q11",
-      "chapterId": "bio_ch8",
-      "question": "What is the diameter of human red blood cells?",
-      "options": [
-        "3.0 µm",
-        "5.0 µm",
-        "7.0 µm",
-        "10.0 µm"
-      ],
-      "correctIndex": 2,
-      "explanation": "Among multicellular organisms, human red blood cells are about 7.0 µm in diameter.",
-      "ncertPage": 89,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q12",
-      "chapterId": "bio_ch8",
-      "question": "What is the shape of a Bacillus bacterium?",
-      "options": [
-        "Spherical",
-        "Rod like",
-        "Comma shaped",
-        "Spiral"
-      ],
-      "correctIndex": 1,
-      "explanation": "The four basic shapes of bacteria are bacillus (rod like), coccus (spherical), vibrio (comma shaped) and spirillum (spiral).",
-      "ncertPage": 89,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q13",
-      "chapterId": "bio_ch8",
-      "question": "Small circular DNA molecules found outside the genomic DNA in many bacteria are called:",
-      "options": [
-        "Nucleoids",
-        "Chromatophores",
-        "Plasmids",
-        "Mesosomes"
-      ],
-      "correctIndex": 2,
-      "explanation": "In addition to the genomic DNA (the single chromosome/circular DNA), many bacteria have small circular DNA outside the genomic DNA. These smaller DNA are called plasmids.",
-      "ncertPage": 90,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q14",
-      "chapterId": "bio_ch8",
-      "question": "What is the specialised differentiated form of cell membrane characteristic of prokaryotes?",
-      "options": [
-        "Plasmid",
-        "Mesosome",
-        "Chromatophore",
-        "Lysosome"
-      ],
-      "correctIndex": 1,
-      "explanation": "A specialised differentiated form of cell membrane called mesosome is the characteristic of prokaryotes.",
-      "ncertPage": 90,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q15",
-      "chapterId": "bio_ch8",
-      "question": "The outermost layer of the bacterial cell envelope is called the:",
-      "options": [
-        "Cell wall",
-        "Plasma membrane",
-        "Glycocalyx",
-        "Capsule"
-      ],
-      "correctIndex": 2,
-      "explanation": "The cell envelope consists of a tightly bound three layered structure i.e., the outermost glycocalyx followed by the cell wall and then the plasma membrane.",
-      "ncertPage": 90,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q16",
-      "chapterId": "bio_ch8",
-      "question": "If the glycocalyx of a bacterium is a loose sheath, what is it called?",
-      "options": [
-        "Capsule",
-        "Slime layer",
-        "Cell wall",
-        "Pellicle"
-      ],
-      "correctIndex": 1,
-      "explanation": "It could be a loose sheath called the slime layer in some, while in others it may be thick and tough, called the capsule.",
-      "ncertPage": 90,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q17",
-      "chapterId": "bio_ch8",
-      "question": "Membranous extensions into the cytoplasm of cyanobacteria that contain pigments are called:",
-      "options": [
-        "Mesosomes",
-        "Thylakoids",
-        "Chromatophores",
-        "Fimbriae"
-      ],
-      "correctIndex": 2,
-      "explanation": "In some prokaryotes like cyanobacteria, there are other membranous extensions into the cytoplasm called chromatophores which contain pigments.",
-      "ncertPage": 91,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q18",
-      "chapterId": "bio_ch8",
-      "question": "Which of the following is NOT one of the three parts of a bacterial flagellum?",
-      "options": [
-        "Filament",
-        "Hook",
-        "Basal body",
-        "Pilus"
-      ],
-      "correctIndex": 3,
-      "explanation": "Bacterial flagellum is composed of three parts - filament, hook and basal body.",
-      "ncertPage": 91,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q19",
-      "chapterId": "bio_ch8",
-      "question": "Which surface structures of bacteria are small bristle-like fibres that help attach the bacteria to rocks or host tissues?",
-      "options": [
-        "Pili",
-        "Fimbriae",
-        "Flagella",
-        "Cilia"
-      ],
-      "correctIndex": 1,
-      "explanation": "The fimbriae are small bristle like fibres sprouting out of the cell. In some bacteria, they are known to help attach the bacteria to rocks in streams and also to the host tissues.",
-      "ncertPage": 91,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q20",
-      "chapterId": "bio_ch8",
-      "question": "What are the two subunits of the 70S prokaryotic ribosome?",
-      "options": [
-        "60S and 40S",
-        "50S and 30S",
-        "40S and 30S",
-        "50S and 20S"
-      ],
-      "correctIndex": 1,
-      "explanation": "They are about 15 nm by 20 nm in size and are made of two subunits 50S and 30S units which when present together form 70S prokaryotic ribosomes.",
-      "ncertPage": 91,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q21",
-      "chapterId": "bio_ch8",
-      "question": "A chain formed by several ribosomes attaching to a single mRNA is called a:",
-      "options": [
-        "Polysome",
-        "Nucleosome",
-        "Centrosome",
-        "Spliceosome"
-      ],
-      "correctIndex": 0,
-      "explanation": "Several ribosomes may attach to a single mRNA and form a chain called polyribosomes or polysome.",
-      "ncertPage": 91,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q22",
-      "chapterId": "bio_ch8",
-      "question": "In prokaryotic cells, reserve materials are stored in the cytoplasm in the form of:",
-      "options": [
-        "Vacuoles",
-        "Inclusion bodies",
-        "Plastids",
-        "Lysosomes"
-      ],
-      "correctIndex": 1,
-      "explanation": "Reserve material in prokaryotic cells are stored in the cytoplasm in the form of inclusion bodies.",
-      "ncertPage": 91,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q23",
-      "chapterId": "bio_ch8",
-      "question": "Which of the following structures is absent in almost all plant cells but present in animal cells?",
-      "options": [
-        "Large central vacuole",
-        "Plastids",
-        "Cell wall",
-        "Centrioles"
-      ],
-      "correctIndex": 3,
-      "explanation": "On the other hand, animal cells have centrioles which are absent in almost all plant cells.",
-      "ncertPage": 91,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q24",
-      "chapterId": "bio_ch8",
-      "question": "Chemical studies on the cell membrane, which enabled scientists to deduce its possible structure, were primarily conducted on:",
-      "options": [
-        "Plant epidermal cells",
-        "Human red blood cells",
-        "Bacterial cells",
-        "Amoeba"
-      ],
-      "correctIndex": 1,
-      "explanation": "Meanwhile, chemical studies on the cell membrane, especially in human red blood cells (RBCs), enabled the scientists to deduce the possible structure of plasma membrane.",
-      "ncertPage": 93,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q25",
-      "chapterId": "bio_ch8",
-      "question": "In the cell membrane, how are the lipids arranged?",
-      "options": [
-        "Polar head towards the inner part",
-        "Hydrophobic tails towards the outer sides",
-        "Polar head towards the outer sides and hydrophobic tails towards the inner part",
-        "Both heads and tails face the outer sides"
-      ],
-      "correctIndex": 2,
-      "explanation": "Also, the lipids are arranged within the membrane with the polar head towards the outer sides and the hydrophobic tails towards the inner part.",
-      "ncertPage": 93,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q26",
-      "chapterId": "bio_ch8",
-      "question": "In human beings, what is the approximate percentage of protein and lipid in the membrane of an erythrocyte?",
-      "options": [
-        "40% protein and 52% lipid",
-        "52% protein and 40% lipid",
-        "60% protein and 40% lipid",
-        "50% protein and 50% lipid"
-      ],
-      "correctIndex": 1,
-      "explanation": "In human beings, the membrane of the erythrocyte has approximately 52 per cent protein and 40 per cent lipids.",
-      "ncertPage": 93,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q27",
-      "chapterId": "bio_ch8",
-      "question": "Who proposed the widely accepted fluid mosaic model of the cell membrane in 1972?",
-      "options": [
-        "Schleiden and Schwann",
-        "Singer and Nicolson",
-        "Watson and Crick",
-        "Camillo Golgi"
-      ],
-      "correctIndex": 1,
-      "explanation": "An improved model of the structure of cell membrane was proposed by Singer and Nicolson (1972) widely accepted as fluid mosaic model.",
-      "ncertPage": 94,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q28",
-      "chapterId": "bio_ch8",
-      "question": "The movement of water across the cell membrane by diffusion is called:",
-      "options": [
-        "Active transport",
-        "Osmosis",
-        "Facilitated diffusion",
-        "Endocytosis"
-      ],
-      "correctIndex": 1,
-      "explanation": "Movement of water by diffusion is called osmosis.",
-      "ncertPage": 94,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q29",
-      "chapterId": "bio_ch8",
-      "question": "The Na+/K+ pump is an example of which type of transport?",
-      "options": [
-        "Passive transport",
-        "Simple diffusion",
-        "Active transport",
-        "Osmosis"
-      ],
-      "correctIndex": 2,
-      "explanation": "Such a transport is an energy dependent process, in which ATP is utilised and is called active transport, e.g., Na+/K+ Pump.",
-      "ncertPage": 94,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q30",
-      "chapterId": "bio_ch8",
-      "question": "The cell wall of algae is made of cellulose, galactans, mannans, and:",
-      "options": [
-        "Hemicellulose",
-        "Calcium carbonate",
-        "Pectins",
-        "Chitin"
-      ],
-      "correctIndex": 1,
-      "explanation": "Algae have cell wall, made of cellulose, galactans, mannans and minerals like calcium carbonate...",
-      "ncertPage": 94,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q31",
-      "chapterId": "bio_ch8",
-      "question": "The layer that mainly holds or glues the different neighbouring plant cells together is the:",
-      "options": [
-        "Primary wall",
-        "Secondary wall",
-        "Middle lamella",
-        "Plasmodesmata"
-      ],
-      "correctIndex": 2,
-      "explanation": "The middle lamella is a layer mainly of calcium pectate which holds or glues the different neighbouring cells together.",
-      "ncertPage": 94,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q32",
-      "chapterId": "bio_ch8",
-      "question": "Which of the following organelles is NOT considered a part of the endomembrane system?",
-      "options": [
-        "Endoplasmic reticulum",
-        "Golgi complex",
-        "Lysosomes",
-        "Peroxisomes"
-      ],
-      "correctIndex": 3,
-      "explanation": "Since the functions of the mitochondria, chloroplast and peroxisomes are not coordinated with the above components, these are not considered as part of the endomembrane system.",
-      "ncertPage": 95,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q33",
-      "chapterId": "bio_ch8",
-      "question": "The endoplasmic reticulum bearing ribosomes on its surface is called:",
-      "options": [
-        "Smooth endoplasmic reticulum",
-        "Rough endoplasmic reticulum",
-        "Sarcoplasmic reticulum",
-        "Golgi apparatus"
-      ],
-      "correctIndex": 1,
-      "explanation": "The endoplasmic reticulum bearing ribosomes on their surface is called rough endoplasmic reticulum (RER).",
-      "ncertPage": 95,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q34",
-      "chapterId": "bio_ch8",
-      "question": "In animal cells, lipid-like steroidal hormones are synthesised in the:",
-      "options": [
-        "Rough endoplasmic reticulum",
-        "Golgi apparatus",
-        "Smooth endoplasmic reticulum",
-        "Mitochondria"
-      ],
-      "correctIndex": 2,
-      "explanation": "In animal cells lipid-like steroidal hormones are synthesised in SER.",
-      "ncertPage": 95,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q35",
-      "chapterId": "bio_ch8",
-      "question": "What is the diameter of the flat, disc-shaped sacs or cisternae of the Golgi apparatus?",
-      "options": [
-        "0.1µm to 0.5µm",
-        "0.5µm to 1.0µm",
-        "1.0µm to 2.0µm",
-        "2.0µm to 5.0µm"
-      ],
-      "correctIndex": 1,
-      "explanation": "They consist of many flat, disc-shaped sacs or cisternae of 0.5µm to 1.0µm diameter.",
-      "ncertPage": 95,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q36",
-      "chapterId": "bio_ch8",
-      "question": "The Golgi apparatus is the important site of formation of:",
-      "options": [
-        "Proteins and lipids",
-        "Glycoproteins and glycolipids",
-        "ATP and NADPH",
-        "Nucleic acids"
-      ],
-      "correctIndex": 1,
-      "explanation": "Golgi apparatus is the important site of formation of glycoproteins and glycolipids.",
-      "ncertPage": 96,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q37",
-      "chapterId": "bio_ch8",
-      "question": "Lysosomes are very rich in hydrolytic enzymes that are optimally active at which pH?",
-      "options": [
-        "Acidic pH",
-        "Neutral pH",
-        "Basic pH",
-        "Highly alkaline pH"
-      ],
-      "correctIndex": 0,
-      "explanation": "The isolated lysosomal vesicles have been found to be very rich in almost all types of hydrolytic enzymes... optimally active at the acidic pH.",
-      "ncertPage": 96,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q38",
-      "chapterId": "bio_ch8",
-      "question": "What is the single membrane bounding the vacuole in a plant cell called?",
-      "options": [
-        "Plasmalemma",
-        "Tonoplast",
-        "Cell wall",
-        "Nuclear envelope"
-      ],
-      "correctIndex": 1,
-      "explanation": "The vacuole is bound by a single membrane called tonoplast.",
-      "ncertPage": 96,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q39",
-      "chapterId": "bio_ch8",
-      "question": "In plant cells, vacuoles can occupy up to what percentage of the volume of the cell?",
-      "options": [
-        "50 per cent",
-        "70 per cent",
-        "90 per cent",
-        "30 per cent"
-      ],
-      "correctIndex": 2,
-      "explanation": "In plant cells the vacuoles can occupy up to 90 per cent of the volume of the cell.",
-      "ncertPage": 96,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q40",
-      "chapterId": "bio_ch8",
-      "question": "The inner membrane of a mitochondrion forms a number of infoldings called:",
-      "options": [
-        "Cisternae",
-        "Cristae",
-        "Thylakoids",
-        "Tubules"
-      ],
-      "correctIndex": 1,
-      "explanation": "The inner membrane forms a number of infoldings called the cristae (sing.: crista) towards the matrix.",
-      "ncertPage": 97,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q41",
-      "chapterId": "bio_ch8",
-      "question": "Mitochondria produce cellular energy in the form of:",
-      "options": [
-        "Glucose",
-        "NADPH",
-        "ATP",
-        "FADH2"
-      ],
-      "correctIndex": 2,
-      "explanation": "They produce cellular energy in the form of ATP, hence they are called 'power houses' of the cell.",
-      "ncertPage": 97,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q42",
-      "chapterId": "bio_ch8",
-      "question": "The colourless plastids of varied shapes and sizes that store nutrients are called:",
-      "options": [
-        "Chloroplasts",
-        "Chromoplasts",
-        "Leucoplasts",
-        "Amyloplasts"
-      ],
-      "correctIndex": 2,
-      "explanation": "The leucoplasts are the colourless plastids of varied shapes and sizes with stored nutrients:",
-      "ncertPage": 97,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q43",
-      "chapterId": "bio_ch8",
-      "question": "Which type of leucoplast specifically stores oils and fats?",
-      "options": [
-        "Amyloplasts",
-        "Elaioplasts",
-        "Aleuroplasts",
-        "Chromoplasts"
-      ],
-      "correctIndex": 1,
-      "explanation": "...elaioplasts store oils and fats whereas the aleuroplasts store proteins.",
-      "ncertPage": 97,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q44",
-      "chapterId": "bio_ch8",
-      "question": "In chloroplasts, a number of organised flattened membranous sacs are present in the stroma. These are called:",
-      "options": [
-        "Cristae",
-        "Cisternae",
-        "Thylakoids",
-        "Granules"
-      ],
-      "correctIndex": 2,
-      "explanation": "A number of organised flattened membranous sacs called the thylakoids, are present in the stroma.",
-      "ncertPage": 98,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q45",
-      "chapterId": "bio_ch8",
-      "question": "Ribosomes of the chloroplasts are:",
-      "options": [
-        "Larger (80S) than the cytoplasmic ribosomes",
-        "Smaller (70S) than the cytoplasmic ribosomes (80S)",
-        "The same size (80S) as the cytoplasmic ribosomes",
-        "Smaller (50S) than the cytoplasmic ribosomes (70S)"
-      ],
-      "correctIndex": 1,
-      "explanation": "The ribosomes of the chloroplasts are smaller (70S) than the cytoplasmic ribosomes (80S).",
-      "ncertPage": 98,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q46",
-      "chapterId": "bio_ch8",
-      "question": "What are the two subunits of the 80S eukaryotic ribosome?",
-      "options": [
-        "50S and 30S",
-        "60S and 40S",
-        "40S and 40S",
-        "70S and 10S"
-      ],
-      "correctIndex": 1,
-      "explanation": "The two subunits of 80S ribosomes are 60S and 40S...",
-      "ncertPage": 98,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q47",
-      "chapterId": "bio_ch8",
-      "question": "The arrangement of axonemal microtubules in cilia and flagella is referred to as the:",
-      "options": [
-        "9+0 array",
-        "9+2 array",
-        "1+9 array",
-        "2+9 array"
-      ],
-      "correctIndex": 1,
-      "explanation": "Such an arrangement of axonemal microtubules is referred to as the 9+2 array.",
-      "ncertPage": 99,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q48",
-      "chapterId": "bio_ch8",
-      "question": "Both the cilium and flagellum emerge from a centriole-like structure called the:",
-      "options": [
-        "Basal body",
-        "Axoneme",
-        "Kinetochore",
-        "Centromere"
-      ],
-      "correctIndex": 0,
-      "explanation": "Both the cilium and flagellum emerge from centriole-like structure called the basal bodies.",
-      "ncertPage": 99,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q49",
-      "chapterId": "bio_ch8",
-      "question": "Who first described the nucleus as a cell organelle in 1831?",
-      "options": [
-        "Flemming",
-        "Camillo Golgi",
-        "Robert Brown",
-        "George Palade"
-      ],
-      "correctIndex": 2,
-      "explanation": "Nucleus as a cell organelle was first described by Robert Brown as early as 1831.",
-      "ncertPage": 100,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch8_q50",
-      "chapterId": "bio_ch8",
-      "question": "A chromosome that has a terminal centromere is called:",
-      "options": [
-        "Metacentric",
-        "Sub-metacentric",
-        "Acrocentric",
-        "Telocentric"
-      ],
-      "correctIndex": 3,
-      "explanation": "...whereas the telocentric chromosome has a terminal centromere.",
-      "ncertPage": 101,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    }
-  ]
-}
+[
+  {
+    "mcq_id": "c8_q01",
+    "chapter_id": "c8",
+    "question": "Who first saw and described a live cell?",
+    "options": ["Robert Brown", "Matthias Schleiden", "Theodore Schwann", "Antonie Von Leeuwenhoek"],
+    "correct_index": 3,
+    "explanation": "Antonie Von Leeuwenhoek first saw and described a live cell.",
+    "ncert_page": 87,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q02",
+    "chapter_id": "c8",
+    "question": "Who discovered the nucleus?",
+    "options": ["Robert Brown", "Antonie Von Leeuwenhoek", "Rudolf Virchow", "George Palade"],
+    "correct_index": 0,
+    "explanation": "Robert Brown later discovered the nucleus.",
+    "ncert_page": 87,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q03",
+    "chapter_id": "c8",
+    "question": "Which botanist observed that all plants are composed of different kinds of cells?",
+    "options": ["Theodore Schwann", "Matthias Schleiden", "Rudolf Virchow", "Camillo Golgi"],
+    "correct_index": 1,
+    "explanation": "In 1838, Matthias Schleiden, a German botanist, examined a large number of plants and observed that all plants are composed of different kinds of cells which form the tissues of the plant.",
+    "ncert_page": 87,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q04",
+    "chapter_id": "c8",
+    "question": "Who reported that animal cells had a thin outer layer, which is today known as the 'plasma membrane'?",
+    "options": ["Matthias Schleiden", "Robert Brown", "Theodore Schwann", "Rudolf Virchow"],
+    "correct_index": 2,
+    "explanation": "Theodore Schwann (1839), a German Zoologist, studied different types of animal cells and reported that cells had a thin outer layer which is today known as the 'plasma membrane'.",
+    "ncert_page": 88,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q05",
+    "chapter_id": "c8",
+    "question": "Which scientist concluded that the presence of a cell wall is a unique character of plant cells?",
+    "options": ["Matthias Schleiden", "Theodore Schwann", "Rudolf Virchow", "Antonie Von Leeuwenhoek"],
+    "correct_index": 1,
+    "explanation": "He [Theodore Schwann] also concluded, based on his studies on plant tissues, that the presence of cell wall is a unique character of the plant cells.",
+    "ncert_page": 88,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q06",
+    "chapter_id": "c8",
+    "question": "Who modified the hypothesis of Schleiden and Schwann to give the cell theory a final shape?",
+    "options": ["Robert Brown", "Camillo Golgi", "Rudolf Virchow", "Singer and Nicolson"],
+    "correct_index": 2,
+    "explanation": "He [Rudolf Virchow] modified the hypothesis of Schleiden and Schwann to give the cell theory a final shape.",
+    "ncert_page": 88,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q07",
+    "chapter_id": "c8",
+    "question": "The statement 'Omnis cellula-e cellula' means:",
+    "options": ["All cells have a nucleus", "All cells arise from pre-existing cells", "All plants are composed of cells", "Cells are the basic unit of life"],
+    "correct_index": 1,
+    "explanation": "Rudolf Virchow (1855) first explained that cells divided and new cells are formed from pre-existing cells (Omnis cellula-e cellula).",
+    "ncert_page": 88,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q08",
+    "chapter_id": "c8",
+    "question": "Which of the following is a non-membrane bound organelle found in all cells, both eukaryotic and prokaryotic?",
+    "options": ["Mitochondria", "Lysosome", "Ribosome", "Golgi complex"],
+    "correct_index": 2,
+    "explanation": "Ribosomes are non-membrane bound organelles found in all cells both eukaryotic as well as prokaryotic.",
+    "ncert_page": 88,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q09",
+    "chapter_id": "c8",
+    "question": "Which non-membrane bound organelle found in animal cells helps in cell division?",
+    "options": ["Ribosome", "Centrosome", "Nucleolus", "Vacuole"],
+    "correct_index": 1,
+    "explanation": "Animal cells contain another non-membrane bound organelle called centrosome which helps in cell division.",
+    "ncert_page": 88,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q10",
+    "chapter_id": "c8",
+    "question": "What is the length of Mycoplasmas, the smallest known cells?",
+    "options": ["0.3 µm", "1.0 µm", "3.0 µm", "7.0 µm"],
+    "correct_index": 0,
+    "explanation": "For example, Mycoplasmas, the smallest cells, are only 0.3 µm in length...",
+    "ncert_page": 88,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q11",
+    "chapter_id": "c8",
+    "question": "What is the diameter of human red blood cells?",
+    "options": ["3.0 µm", "5.0 µm", "7.0 µm", "10.0 µm"],
+    "correct_index": 2,
+    "explanation": "Among multicellular organisms, human red blood cells are about 7.0 µm in diameter.",
+    "ncert_page": 89,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q12",
+    "chapter_id": "c8",
+    "question": "What is the shape of a Bacillus bacterium?",
+    "options": ["Spherical", "Rod like", "Comma shaped", "Spiral"],
+    "correct_index": 1,
+    "explanation": "The four basic shapes of bacteria are bacillus (rod like), coccus (spherical), vibrio (comma shaped) and spirillum (spiral).",
+    "ncert_page": 89,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q13",
+    "chapter_id": "c8",
+    "question": "Small circular DNA molecules found outside the genomic DNA in many bacteria are called:",
+    "options": ["Nucleoids", "Chromatophores", "Plasmids", "Mesosomes"],
+    "correct_index": 2,
+    "explanation": "In addition to the genomic DNA (the single chromosome/circular DNA), many bacteria have small circular DNA outside the genomic DNA. These smaller DNA are called plasmids.",
+    "ncert_page": 90,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q14",
+    "chapter_id": "c8",
+    "question": "What is the specialised differentiated form of cell membrane characteristic of prokaryotes?",
+    "options": ["Plasmid", "Mesosome", "Chromatophore", "Lysosome"],
+    "correct_index": 1,
+    "explanation": "A specialised differentiated form of cell membrane called mesosome is the characteristic of prokaryotes.",
+    "ncert_page": 90,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q15",
+    "chapter_id": "c8",
+    "question": "The outermost layer of the bacterial cell envelope is called the:",
+    "options": ["Cell wall", "Plasma membrane", "Glycocalyx", "Capsule"],
+    "correct_index": 2,
+    "explanation": "The cell envelope consists of a tightly bound three layered structure i.e., the outermost glycocalyx followed by the cell wall and then the plasma membrane.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q16",
+    "chapter_id": "c8",
+    "question": "If the glycocalyx of a bacterium is a loose sheath, what is it called?",
+    "options": ["Capsule", "Slime layer", "Cell wall", "Pellicle"],
+    "correct_index": 1,
+    "explanation": "It could be a loose sheath called the slime layer in some, while in others it may be thick and tough, called the capsule.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q17",
+    "chapter_id": "c8",
+    "question": "Membranous extensions into the cytoplasm of cyanobacteria that contain pigments are called:",
+    "options": ["Mesosomes", "Thylakoids", "Chromatophores", "Fimbriae"],
+    "correct_index": 2,
+    "explanation": "In some prokaryotes like cyanobacteria, there are other membranous extensions into the cytoplasm called chromatophores which contain pigments.",
+    "ncert_page": 91,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q18",
+    "chapter_id": "c8",
+    "question": "Which of the following is NOT one of the three parts of a bacterial flagellum?",
+    "options": ["Filament", "Hook", "Basal body", "Pilus"],
+    "correct_index": 3,
+    "explanation": "Bacterial flagellum is composed of three parts - filament, hook and basal body.",
+    "ncert_page": 91,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q19",
+    "chapter_id": "c8",
+    "question": "Which surface structures of bacteria are small bristle-like fibres that help attach the bacteria to rocks or host tissues?",
+    "options": ["Pili", "Fimbriae", "Flagella", "Cilia"],
+    "correct_index": 1,
+    "explanation": "The fimbriae are small bristle like fibres sprouting out of the cell. In some bacteria, they are known to help attach the bacteria to rocks in streams and also to the host tissues.",
+    "ncert_page": 91,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q20",
+    "chapter_id": "c8",
+    "question": "What are the two subunits of the 70S prokaryotic ribosome?",
+    "options": ["60S and 40S", "50S and 30S", "40S and 30S", "50S and 20S"],
+    "correct_index": 1,
+    "explanation": "They are about 15 nm by 20 nm in size and are made of two subunits 50S and 30S units which when present together form 70S prokaryotic ribosomes.",
+    "ncert_page": 91,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q21",
+    "chapter_id": "c8",
+    "question": "A chain formed by several ribosomes attaching to a single mRNA is called a:",
+    "options": ["Polysome", "Nucleosome", "Centrosome", "Spliceosome"],
+    "correct_index": 0,
+    "explanation": "Several ribosomes may attach to a single mRNA and form a chain called polyribosomes or polysome.",
+    "ncert_page": 91,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q22",
+    "chapter_id": "c8",
+    "question": "In prokaryotic cells, reserve materials are stored in the cytoplasm in the form of:",
+    "options": ["Vacuoles", "Inclusion bodies", "Plastids", "Lysosomes"],
+    "correct_index": 1,
+    "explanation": "Reserve material in prokaryotic cells are stored in the cytoplasm in the form of inclusion bodies.",
+    "ncert_page": 91,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q23",
+    "chapter_id": "c8",
+    "question": "Which of the following structures is absent in almost all plant cells but present in animal cells?",
+    "options": ["Large central vacuole", "Plastids", "Cell wall", "Centrioles"],
+    "correct_index": 3,
+    "explanation": "On the other hand, animal cells have centrioles which are absent in almost all plant cells.",
+    "ncert_page": 91,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q24",
+    "chapter_id": "c8",
+    "question": "Chemical studies on the cell membrane, which enabled scientists to deduce its possible structure, were primarily conducted on:",
+    "options": ["Plant epidermal cells", "Human red blood cells", "Bacterial cells", "Amoeba"],
+    "correct_index": 1,
+    "explanation": "Meanwhile, chemical studies on the cell membrane, especially in human red blood cells (RBCs), enabled the scientists to deduce the possible structure of plasma membrane.",
+    "ncert_page": 93,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q25",
+    "chapter_id": "c8",
+    "question": "In the cell membrane, how are the lipids arranged?",
+    "options": ["Polar head towards the inner part", "Hydrophobic tails towards the outer sides", "Polar head towards the outer sides and hydrophobic tails towards the inner part", "Both heads and tails face the outer sides"],
+    "correct_index": 2,
+    "explanation": "Also, the lipids are arranged within the membrane with the polar head towards the outer sides and the hydrophobic tails towards the inner part.",
+    "ncert_page": 93,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q26",
+    "chapter_id": "c8",
+    "question": "In human beings, what is the approximate percentage of protein and lipid in the membrane of an erythrocyte?",
+    "options": ["40% protein and 52% lipid", "52% protein and 40% lipid", "60% protein and 40% lipid", "50% protein and 50% lipid"],
+    "correct_index": 1,
+    "explanation": "In human beings, the membrane of the erythrocyte has approximately 52 per cent protein and 40 per cent lipids.",
+    "ncert_page": 93,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q27",
+    "chapter_id": "c8",
+    "question": "Who proposed the widely accepted fluid mosaic model of the cell membrane in 1972?",
+    "options": ["Schleiden and Schwann", "Singer and Nicolson", "Watson and Crick", "Camillo Golgi"],
+    "correct_index": 1,
+    "explanation": "An improved model of the structure of cell membrane was proposed by Singer and Nicolson (1972) widely accepted as fluid mosaic model.",
+    "ncert_page": 94,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q28",
+    "chapter_id": "c8",
+    "question": "The movement of water across the cell membrane by diffusion is called:",
+    "options": ["Active transport", "Osmosis", "Facilitated diffusion", "Endocytosis"],
+    "correct_index": 1,
+    "explanation": "Movement of water by diffusion is called osmosis.",
+    "ncert_page": 94,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q29",
+    "chapter_id": "c8",
+    "question": "The Na+/K+ pump is an example of which type of transport?",
+    "options": ["Passive transport", "Simple diffusion", "Active transport", "Osmosis"],
+    "correct_index": 2,
+    "explanation": "Such a transport is an energy dependent process, in which ATP is utilised and is called active transport, e.g., Na+/K+ Pump.",
+    "ncert_page": 94,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q30",
+    "chapter_id": "c8",
+    "question": "The cell wall of algae is made of cellulose, galactans, mannans, and:",
+    "options": ["Hemicellulose", "Calcium carbonate", "Pectins", "Chitin"],
+    "correct_index": 1,
+    "explanation": "Algae have cell wall, made of cellulose, galactans, mannans and minerals like calcium carbonate...",
+    "ncert_page": 94,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q31",
+    "chapter_id": "c8",
+    "question": "The layer that mainly holds or glues the different neighbouring plant cells together is the:",
+    "options": ["Primary wall", "Secondary wall", "Middle lamella", "Plasmodesmata"],
+    "correct_index": 2,
+    "explanation": "The middle lamella is a layer mainly of calcium pectate which holds or glues the different neighbouring cells together.",
+    "ncert_page": 94,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q32",
+    "chapter_id": "c8",
+    "question": "Which of the following organelles is NOT considered a part of the endomembrane system?",
+    "options": ["Endoplasmic reticulum", "Golgi complex", "Lysosomes", "Peroxisomes"],
+    "correct_index": 3,
+    "explanation": "Since the functions of the mitochondria, chloroplast and peroxisomes are not coordinated with the above components, these are not considered as part of the endomembrane system.",
+    "ncert_page": 95,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q33",
+    "chapter_id": "c8",
+    "question": "The endoplasmic reticulum bearing ribosomes on its surface is called:",
+    "options": ["Smooth endoplasmic reticulum", "Rough endoplasmic reticulum", "Sarcoplasmic reticulum", "Golgi apparatus"],
+    "correct_index": 1,
+    "explanation": "The endoplasmic reticulum bearing ribosomes on their surface is called rough endoplasmic reticulum (RER).",
+    "ncert_page": 95,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q34",
+    "chapter_id": "c8",
+    "question": "In animal cells, lipid-like steroidal hormones are synthesised in the:",
+    "options": ["Rough endoplasmic reticulum", "Golgi apparatus", "Smooth endoplasmic reticulum", "Mitochondria"],
+    "correct_index": 2,
+    "explanation": "In animal cells lipid-like steroidal hormones are synthesised in SER.",
+    "ncert_page": 95,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q35",
+    "chapter_id": "c8",
+    "question": "What is the diameter of the flat, disc-shaped sacs or cisternae of the Golgi apparatus?",
+    "options": ["0.1µm to 0.5µm", "0.5µm to 1.0µm", "1.0µm to 2.0µm", "2.0µm to 5.0µm"],
+    "correct_index": 1,
+    "explanation": "They consist of many flat, disc-shaped sacs or cisternae of 0.5µm to 1.0µm diameter.",
+    "ncert_page": 95,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q36",
+    "chapter_id": "c8",
+    "question": "The Golgi apparatus is the important site of formation of:",
+    "options": ["Proteins and lipids", "Glycoproteins and glycolipids", "ATP and NADPH", "Nucleic acids"],
+    "correct_index": 1,
+    "explanation": "Golgi apparatus is the important site of formation of glycoproteins and glycolipids.",
+    "ncert_page": 96,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q37",
+    "chapter_id": "c8",
+    "question": "Lysosomes are very rich in hydrolytic enzymes that are optimally active at which pH?",
+    "options": ["Acidic pH", "Neutral pH", "Basic pH", "Highly alkaline pH"],
+    "correct_index": 0,
+    "explanation": "The isolated lysosomal vesicles have been found to be very rich in almost all types of hydrolytic enzymes... optimally active at the acidic pH.",
+    "ncert_page": 96,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q38",
+    "chapter_id": "c8",
+    "question": "What is the single membrane bounding the vacuole in a plant cell called?",
+    "options": ["Plasmalemma", "Tonoplast", "Cell wall", "Nuclear envelope"],
+    "correct_index": 1,
+    "explanation": "The vacuole is bound by a single membrane called tonoplast.",
+    "ncert_page": 96,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q39",
+    "chapter_id": "c8",
+    "question": "In plant cells, vacuoles can occupy up to what percentage of the volume of the cell?",
+    "options": ["50 per cent", "70 per cent", "90 per cent", "30 per cent"],
+    "correct_index": 2,
+    "explanation": "In plant cells the vacuoles can occupy up to 90 per cent of the volume of the cell.",
+    "ncert_page": 96,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q40",
+    "chapter_id": "c8",
+    "question": "The inner membrane of a mitochondrion forms a number of infoldings called:",
+    "options": ["Cisternae", "Cristae", "Thylakoids", "Tubules"],
+    "correct_index": 1,
+    "explanation": "The inner membrane forms a number of infoldings called the cristae (sing.: crista) towards the matrix.",
+    "ncert_page": 97,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q41",
+    "chapter_id": "c8",
+    "question": "Mitochondria produce cellular energy in the form of:",
+    "options": ["Glucose", "NADPH", "ATP", "FADH2"],
+    "correct_index": 2,
+    "explanation": "They produce cellular energy in the form of ATP, hence they are called 'power houses' of the cell.",
+    "ncert_page": 97,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q42",
+    "chapter_id": "c8",
+    "question": "The colourless plastids of varied shapes and sizes that store nutrients are called:",
+    "options": ["Chloroplasts", "Chromoplasts", "Leucoplasts", "Amyloplasts"],
+    "correct_index": 2,
+    "explanation": "The leucoplasts are the colourless plastids of varied shapes and sizes with stored nutrients:",
+    "ncert_page": 97,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q43",
+    "chapter_id": "c8",
+    "question": "Which type of leucoplast specifically stores oils and fats?",
+    "options": ["Amyloplasts", "Elaioplasts", "Aleuroplasts", "Chromoplasts"],
+    "correct_index": 1,
+    "explanation": "...elaioplasts store oils and fats whereas the aleuroplasts store proteins.",
+    "ncert_page": 97,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q44",
+    "chapter_id": "c8",
+    "question": "In chloroplasts, a number of organised flattened membranous sacs are present in the stroma. These are called:",
+    "options": ["Cristae", "Cisternae", "Thylakoids", "Granules"],
+    "correct_index": 2,
+    "explanation": "A number of organised flattened membranous sacs called the thylakoids, are present in the stroma.",
+    "ncert_page": 98,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q45",
+    "chapter_id": "c8",
+    "question": "Ribosomes of the chloroplasts are:",
+    "options": ["Larger (80S) than the cytoplasmic ribosomes", "Smaller (70S) than the cytoplasmic ribosomes (80S)", "The same size (80S) as the cytoplasmic ribosomes", "Smaller (50S) than the cytoplasmic ribosomes (70S)"],
+    "correct_index": 1,
+    "explanation": "The ribosomes of the chloroplasts are smaller (70S) than the cytoplasmic ribosomes (80S).",
+    "ncert_page": 98,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q46",
+    "chapter_id": "c8",
+    "question": "What are the two subunits of the 80S eukaryotic ribosome?",
+    "options": ["50S and 30S", "60S and 40S", "40S and 40S", "70S and 10S"],
+    "correct_index": 1,
+    "explanation": "The two subunits of 80S ribosomes are 60S and 40S...",
+    "ncert_page": 98,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q47",
+    "chapter_id": "c8",
+    "question": "The arrangement of axonemal microtubules in cilia and flagella is referred to as the:",
+    "options": ["9+0 array", "9+2 array", "1+9 array", "2+9 array"],
+    "correct_index": 1,
+    "explanation": "Such an arrangement of axonemal microtubules is referred to as the 9+2 array.",
+    "ncert_page": 99,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q48",
+    "chapter_id": "c8",
+    "question": "Both the cilium and flagellum emerge from a centriole-like structure called the:",
+    "options": ["Basal body", "Axoneme", "Kinetochore", "Centromere"],
+    "correct_index": 0,
+    "explanation": "Both the cilium and flagellum emerge from centriole-like structure called the basal bodies.",
+    "ncert_page": 99,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q49",
+    "chapter_id": "c8",
+    "question": "Who first described the nucleus as a cell organelle in 1831?",
+    "options": ["Flemming", "Camillo Golgi", "Robert Brown", "George Palade"],
+    "correct_index": 2,
+    "explanation": "Nucleus as a cell organelle was first described by Robert Brown as early as 1831.",
+    "ncert_page": 100,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c8_q50",
+    "chapter_id": "c8",
+    "question": "A chromosome that has a terminal centromere is called:",
+    "options": ["Metacentric", "Sub-metacentric", "Acrocentric", "Telocentric"],
+    "correct_index": 3,
+    "explanation": "...whereas the telocentric chromosome has a terminal centromere.",
+    "ncert_page": 101,
+    "difficulty": "medium",
+    "subject": "Biology"
+  }
+]

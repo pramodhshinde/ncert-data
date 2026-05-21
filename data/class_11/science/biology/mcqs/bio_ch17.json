@@ -1,804 +1,552 @@
-{
-  "questions": [
-    {
-      "mcqId": "11_bio_ch17_q1",
-      "chapterId": "bio_ch17",
-      "question": "Which of the following types of movements are exhibited by the cells of the human body?",
-      "options": [
-        "Amoeboid, ciliary, and flagellar",
-        "Amoeboid, ciliary, and muscular",
-        "Ciliary, muscular, and flagellar",
-        "Amoeboid, muscular, and flagellar"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cells of the human body exhibit three main types of movements, namely, amoeboid, ciliary and muscular.",
-      "ncertPage": 217,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q2",
-      "chapterId": "bio_ch17",
-      "question": "Which specialised cells in the human body exhibit amoeboid movement?",
-      "options": [
-        "Erythrocytes and platelets",
-        "Neurons and neuroglia",
-        "Macrophages and leucocytes",
-        "Spermatozoa and ova"
-      ],
-      "correctIndex": 2,
-      "explanation": "Some specialised cells in our body like macrophages and leucocytes in blood exhibit amoeboid movement.",
-      "ncertPage": 218,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q3",
-      "chapterId": "bio_ch17",
-      "question": "Which cytoskeletal elements are involved in amoeboid movement?",
-      "options": [
-        "Microtubules",
-        "Microfilaments",
-        "Intermediate filaments",
-        "Cilia"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cytoskeletal elements like microfilaments are also involved in amoeboid movement.",
-      "ncertPage": 218,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q4",
-      "chapterId": "bio_ch17",
-      "question": "What type of movement occurs in most of our internal tubular organs that are lined by ciliated epithelium?",
-      "options": [
-        "Amoeboid movement",
-        "Muscular movement",
-        "Ciliary movement",
-        "Flagellar movement"
-      ],
-      "correctIndex": 2,
-      "explanation": "Ciliary movement occurs in most of our internal tubular organs which are lined by ciliated epithelium. The coordinated movements of cilia in the trachea help us in removing dust particles...",
-      "ncertPage": 218,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q5",
-      "chapterId": "bio_ch17",
-      "question": "Approximately what percentage of the body weight of a human adult is contributed by muscles?",
-      "options": [
-        "20-30 per cent",
-        "30-40 per cent",
-        "40-50 per cent",
-        "50-60 per cent"
-      ],
-      "correctIndex": 2,
-      "explanation": "About 40-50 per cent of the body weight of a human adult is contributed by muscles.",
-      "ncertPage": 218,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q6",
-      "chapterId": "bio_ch17",
-      "question": "Which of the following is NOT a special property of muscles?",
-      "options": [
-        "Excitability",
-        "Contractility",
-        "Extensibility",
-        "Rigidity"
-      ],
-      "correctIndex": 3,
-      "explanation": "They have special properties like excitability, contractility, extensibility and elasticity.",
-      "ncertPage": 218,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q7",
-      "chapterId": "bio_ch17",
-      "question": "Based on their location, muscles are classified into which three types?",
-      "options": [
-        "Striated, non-striated, and cardiac",
-        "Skeletal, visceral, and cardiac",
-        "Voluntary, involuntary, and cardiac",
-        "Red, white, and mixed"
-      ],
-      "correctIndex": 1,
-      "explanation": "Based on their location, three types of muscles are identified: (i) Skeletal (ii) Visceral and (iii) Cardiac.",
-      "ncertPage": 218,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q8",
-      "chapterId": "bio_ch17",
-      "question": "Why are skeletal muscles also known as voluntary muscles?",
-      "options": [
-        "They are located in hollow visceral organs.",
-        "They have a striped appearance under a microscope.",
-        "Their activities are under the voluntary control of the nervous system.",
-        "They contract involuntarily during locomotion."
-      ],
-      "correctIndex": 2,
-      "explanation": "As their activities are under the voluntary control of the nervous system, they are known as voluntary muscles too.",
-      "ncertPage": 218,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q9",
-      "chapterId": "bio_ch17",
-      "question": "Visceral muscles are smooth in appearance and are hence called:",
-      "options": [
-        "Striated muscles",
-        "Skeletal muscles",
-        "Smooth muscles (nonstriated muscle)",
-        "Cardiac muscles"
-      ],
-      "correctIndex": 2,
-      "explanation": "They do not exhibit any striation and are smooth in appearance. Hence, they are called smooth muscles (nonstriated muscle).",
-      "ncertPage": 218,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q10",
-      "chapterId": "bio_ch17",
-      "question": "Which layer of collagenous connective tissue holds together the muscle bundles (fascicles) in an organised skeletal muscle?",
-      "options": [
-        "Sarcolemma",
-        "Fascia",
-        "Myofibril",
-        "Sarcoplasm"
-      ],
-      "correctIndex": 1,
-      "explanation": "Each organised skeletal muscle in our body is made of a number of muscle bundles or fascicles held together by a common collagenous connective tissue layer called fascia.",
-      "ncertPage": 219,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q11",
-      "chapterId": "bio_ch17",
-      "question": "The plasma membrane lining a muscle fibre is called the:",
-      "options": [
-        "Plasmalemma",
-        "Sarcolemma",
-        "Endomysium",
-        "Myomembrane"
-      ],
-      "correctIndex": 1,
-      "explanation": "Each muscle fibre is lined by the plasma membrane called sarcolemma enclosing the sarcoplasm.",
-      "ncertPage": 219,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q12",
-      "chapterId": "bio_ch17",
-      "question": "In a muscle fibre, what serves as the store house of calcium ions?",
-      "options": [
-        "Sarcoplasm",
-        "Sarcolemma",
-        "Sarcoplasmic reticulum",
-        "Mitochondria"
-      ],
-      "correctIndex": 2,
-      "explanation": "The endoplasmic reticulum, i.e., sarcoplasmic reticulum of the muscle fibres is the store house of calcium ions.",
-      "ncertPage": 219,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q13",
-      "chapterId": "bio_ch17",
-      "question": "The light bands of a myofibril contain which important protein?",
-      "options": [
-        "Myosin",
-        "Actin",
-        "Troponin",
-        "Tropomyosin"
-      ],
-      "correctIndex": 1,
-      "explanation": "The light bands contain actin and is called I-band or Isotropic band...",
-      "ncertPage": 219,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q14",
-      "chapterId": "bio_ch17",
-      "question": "The dark band of a myofibril is called the 'A' or Anisotropic band. What protein does it contain?",
-      "options": [
-        "Myosin",
-        "Actin",
-        "Troponin",
-        "Collagen"
-      ],
-      "correctIndex": 0,
-      "explanation": "...whereas the dark band called 'A' or Anisotropic band contains myosin.",
-      "ncertPage": 219,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q15",
-      "chapterId": "bio_ch17",
-      "question": "What is the elastic fibre that bisects the centre of each 'I' band called?",
-      "options": [
-        "M line",
-        "Z line",
-        "H zone",
-        "A band"
-      ],
-      "correctIndex": 1,
-      "explanation": "In the centre of each 'I' band is an elastic fibre called 'Z' line which bisects it.",
-      "ncertPage": 220,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q16",
-      "chapterId": "bio_ch17",
-      "question": "What holds the thick filaments in the 'A' band together in the middle of the band?",
-      "options": [
-        "Z line",
-        "Fascia",
-        "M line",
-        "Sarcomere"
-      ],
-      "correctIndex": 2,
-      "explanation": "The thick filaments in the 'A' band are also held together in the middle of this band by a thin fibrous membrane called 'M' line.",
-      "ncertPage": 220,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q17",
-      "chapterId": "bio_ch17",
-      "question": "The portion of the myofibril between two successive 'Z' lines is considered the functional unit of contraction. What is it called?",
-      "options": [
-        "Fascicle",
-        "Sarcomere",
-        "Myofilament",
-        "H zone"
-      ],
-      "correctIndex": 1,
-      "explanation": "The portion of the myofibril between two successive 'Z' lines is considered as the functional unit of contraction and is called a sarcomere.",
-      "ncertPage": 220,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q18",
-      "chapterId": "bio_ch17",
-      "question": "In a resting state, the central part of the thick filament that is not overlapped by thin filaments is called the:",
-      "options": [
-        "A band",
-        "Z line",
-        "H zone",
-        "I band"
-      ],
-      "correctIndex": 2,
-      "explanation": "This central part of thick filament, not overlapped by thin filaments is called the 'H' zone.",
-      "ncertPage": 220,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q19",
-      "chapterId": "bio_ch17",
-      "question": "Each actin (thin) filament is composed of two helically wound filamentous ('F') actins. What are these 'F' actins polymers of?",
-      "options": [
-        "Meromyosins",
-        "Monomeric 'G' (Globular) actins",
-        "Troponin complexes",
-        "Tropomyosin strands"
-      ],
-      "correctIndex": 1,
-      "explanation": "Each 'F' actin is a polymer of monomeric 'G' (Globular) actins.",
-      "ncertPage": 221,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q20",
-      "chapterId": "bio_ch17",
-      "question": "In the resting state, which protein masks the active binding sites for myosin on the actin filaments?",
-      "options": [
-        "Tropomyosin",
-        "Meromyosin",
-        "Troponin",
-        "G-actin"
-      ],
-      "correctIndex": 2,
-      "explanation": "In the resting state a subunit of troponin masks the active binding sites for myosin on the actin filaments.",
-      "ncertPage": 221,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q21",
-      "chapterId": "bio_ch17",
-      "question": "What are the monomeric proteins that polymerise to constitute one thick (myosin) filament called?",
-      "options": [
-        "G-actins",
-        "F-actins",
-        "Meromyosins",
-        "Troponins"
-      ],
-      "correctIndex": 2,
-      "explanation": "Each myosin (thick) filament is also a polymerised protein. Many monomeric proteins called Meromyosins constitute one thick filament.",
-      "ncertPage": 221,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q22",
-      "chapterId": "bio_ch17",
-      "question": "In a meromyosin molecule, the globular head and short arm are referred to as:",
-      "options": [
-        "Light meromyosin (LMM)",
-        "Heavy meromyosin (HMM)",
-        "Cross bridge",
-        "Active ATPase"
-      ],
-      "correctIndex": 1,
-      "explanation": "Each meromyosin has two important parts, a globular head with a short arm and a tail, the former being called the heavy meromyosin (HMM) and the latter, the light meromyosin (LMM).",
-      "ncertPage": 221,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q23",
-      "chapterId": "bio_ch17",
-      "question": "The globular head of heavy meromyosin is an active enzyme that acts as:",
-      "options": [
-        "A kinase",
-        "A phosphatase",
-        "An ATPase",
-        "A synthase"
-      ],
-      "correctIndex": 2,
-      "explanation": "The globular head is an active ATPase enzyme and has binding sites for ATP and active sites for actin.",
-      "ncertPage": 221,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q24",
-      "chapterId": "bio_ch17",
-      "question": "A motor neuron along with the muscle fibres connected to it constitute a:",
-      "options": [
-        "Neuromuscular junction",
-        "Motor-end plate",
-        "Motor unit",
-        "Sarcomere"
-      ],
-      "correctIndex": 2,
-      "explanation": "A motor neuron along with the muscle fibres connected to it constitute a motor unit.",
-      "ncertPage": 222,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q25",
-      "chapterId": "bio_ch17",
-      "question": "What is the junction between a motor neuron and the sarcolemma of the muscle fibre called?",
-      "options": [
-        "Motor unit",
-        "Neuromuscular junction or motor-end plate",
-        "Synaptic cleft",
-        "Action potential site"
-      ],
-      "correctIndex": 1,
-      "explanation": "The junction between a motor neuron and the sarcolemma of the muscle fibre is called the neuromuscular junction or motor-end plate.",
-      "ncertPage": 222,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q26",
-      "chapterId": "bio_ch17",
-      "question": "Which neurotransmitter is released when a neural signal reaches the neuromuscular junction?",
-      "options": [
-        "Dopamine",
-        "Serotonin",
-        "Acetyl choline",
-        "Adrenaline"
-      ],
-      "correctIndex": 2,
-      "explanation": "A neural signal reaching this junction releases a neurotransmitter (Acetyl choline) which generates an action potential in the sarcolemma.",
-      "ncertPage": 222,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q27",
-      "chapterId": "bio_ch17",
-      "question": "During muscle contraction, utilizing energy from ATP hydrolysis, the myosin head binds to exposed active sites on actin to form a:",
-      "options": [
-        "Z line",
-        "H zone",
-        "Cross bridge",
-        "Motor unit"
-      ],
-      "correctIndex": 2,
-      "explanation": "Utilising the energy from ATP hydrolysis, the myosin head now binds to the exposed active sites on actin to form a cross bridge.",
-      "ncertPage": 222,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q28",
-      "chapterId": "bio_ch17",
-      "question": "According to the sliding filament theory, what happens to the length of the 'I' and 'A' bands during muscle contraction?",
-      "options": [
-        "Both 'I' and 'A' bands get reduced.",
-        "The 'I' bands retain their length while the 'A' bands get reduced.",
-        "The 'I' bands get reduced, whereas the 'A' bands retain their length.",
-        "Both 'I' and 'A' bands expand."
-      ],
-      "correctIndex": 2,
-      "explanation": "It is clear from the above steps, that during shortening of the muscle, i.e., contraction, the 'I' bands get reduced, whereas the 'A' bands retain the length.",
-      "ncertPage": 222,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q29",
-      "chapterId": "bio_ch17",
-      "question": "Muscle fatigue is caused by the anaerobic breakdown of glycogen leading to the accumulation of:",
-      "options": [
-        "Carbon dioxide",
-        "Lactic acid",
-        "Pyruvic acid",
-        "ATP"
-      ],
-      "correctIndex": 1,
-      "explanation": "Repeated activation of the muscles can lead to the accumulation of lactic acid due to anaerobic breakdown of glycogen in them, causing fatigue.",
-      "ncertPage": 223,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q30",
-      "chapterId": "bio_ch17",
-      "question": "Which of the following describes 'Red fibres' in muscles?",
-      "options": [
-        "They have low myoglobin content and rely on anaerobic processes.",
-        "They have high myoglobin content, plenty of mitochondria, and are aerobic.",
-        "They have high sarcoplasmic reticulum and few mitochondria.",
-        "They appear pale or whitish in colour."
-      ],
-      "correctIndex": 1,
-      "explanation": "Myoglobin content is high in some of the muscles which gives a reddish appearance. Such muscles are called the Red fibres. These muscles also contain plenty of mitochondria which can utilise the large amount of oxygen stored in them for ATP production.",
-      "ncertPage": 223,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q31",
-      "chapterId": "bio_ch17",
-      "question": "How many bones make up the adult human skeletal system?",
-      "options": [
-        "200",
-        "206",
-        "212",
-        "300"
-      ],
-      "correctIndex": 1,
-      "explanation": "In human beings, this system is made up of 206 bones and a few cartilages.",
-      "ncertPage": 224,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q32",
-      "chapterId": "bio_ch17",
-      "question": "The axial skeleton comprises how many bones distributed along the main axis of the body?",
-      "options": [
-        "60",
-        "80",
-        "100",
-        "126"
-      ],
-      "correctIndex": 1,
-      "explanation": "Axial skeleton comprises 80 bones distributed along the main axis of the body.",
-      "ncertPage": 224,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q33",
-      "chapterId": "bio_ch17",
-      "question": "The skull is composed of two sets of bones: cranial and facial. What is the total number of bones in the skull?",
-      "options": [
-        "8",
-        "14",
-        "22",
-        "26"
-      ],
-      "correctIndex": 2,
-      "explanation": "The skull (Figure 17.6) is composed of two sets of bones - cranial and facial, that totals to 22 bones. Cranial bones are 8 in number... The facial region is made up of 14 skeletal elements...",
-      "ncertPage": 224,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q34",
-      "chapterId": "bio_ch17",
-      "question": "A single U-shaped bone present at the base of the buccal cavity is called the:",
-      "options": [
-        "Mandible",
-        "Hyoid",
-        "Maxilla",
-        "Sphenoid"
-      ],
-      "correctIndex": 1,
-      "explanation": "A single U-shaped bone called hyoid is present at the base of the buccal cavity.",
-      "ncertPage": 224,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q35",
-      "chapterId": "bio_ch17",
-      "question": "Which of the following bones are collectively called the Ear Ossicles?",
-      "options": [
-        "Atlas, Axis, Coccyx",
-        "Ilium, Ischium, Pubis",
-        "Malleus, Incus, Stapes",
-        "Radius, Ulna, Humerus"
-      ],
-      "correctIndex": 2,
-      "explanation": "Each middle ear contains three tiny bones - Malleus, Incus and Stapes, collectively called Ear Ossicles.",
-      "ncertPage": 224,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q36",
-      "chapterId": "bio_ch17",
-      "question": "The human skull is called 'dicondylic' because it articulates with the vertebral column using two:",
-      "options": [
-        "Occipital condyles",
-        "Parietal bones",
-        "Temporal bones",
-        "Frontal condyles"
-      ],
-      "correctIndex": 0,
-      "explanation": "The skull region articulates with the superior region of the vertebral column with the help of two occipital condyles (dicondylic skull).",
-      "ncertPage": 225,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q37",
-      "chapterId": "bio_ch17",
-      "question": "Our vertebral column is formed by how many serially arranged units called vertebrae?",
-      "options": [
-        "12",
-        "26",
-        "30",
-        "33"
-      ],
-      "correctIndex": 1,
-      "explanation": "Our vertebral column (Figure 17.7) is formed by 26 serially arranged units called vertebrae and is dorsally placed.",
-      "ncertPage": 225,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q38",
-      "chapterId": "bio_ch17",
-      "question": "What is the first vertebra that articulates with the occipital condyles called?",
-      "options": [
-        "Axis",
-        "Atlas",
-        "Cervical 7",
-        "Sacrum"
-      ],
-      "correctIndex": 1,
-      "explanation": "First vertebra is the atlas and it articulates with the occipital condyles.",
-      "ncertPage": 225,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q39",
-      "chapterId": "bio_ch17",
-      "question": "How many cervical vertebrae are present in almost all mammals, including human beings?",
-      "options": [
-        "5",
-        "7",
-        "12",
-        "14"
-      ],
-      "correctIndex": 1,
-      "explanation": "The number of cervical vertebrae are seven in almost all mammals including human beings.",
-      "ncertPage": 225,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q40",
-      "chapterId": "bio_ch17",
-      "question": "There are 12 pairs of ribs. The first seven pairs are called:",
-      "options": [
-        "Floating ribs",
-        "False ribs",
-        "True ribs",
-        "Vertebrochondral ribs"
-      ],
-      "correctIndex": 2,
-      "explanation": "First seven pairs of ribs are called true ribs. Dorsally, they are attached to the thoracic vertebrae and ventrally connected to the sternum...",
-      "ncertPage": 225,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q41",
-      "chapterId": "bio_ch17",
-      "question": "The 8th, 9th, and 10th pairs of ribs do not articulate directly with the sternum but join the seventh rib with the help of hyaline cartilage. These are called:",
-      "options": [
-        "True ribs",
-        "Floating ribs",
-        "Cervical ribs",
-        "Vertebrochondral (false) ribs"
-      ],
-      "correctIndex": 3,
-      "explanation": "The 8th, 9th and 10th pairs of ribs do not articulate directly with the sternum but join the seventh rib with the help of hyaline cartilage. These are called vertebrochondral (false) ribs.",
-      "ncertPage": 225,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q42",
-      "chapterId": "bio_ch17",
-      "question": "Why are the 11th and 12th pairs of ribs called 'floating ribs'?",
-      "options": [
-        "Because they articulate only with the sternum and not the vertebral column.",
-        "Because they are not connected ventrally.",
-        "Because they are made entirely of cartilage.",
-        "Because they only exist in aquatic animals."
-      ],
-      "correctIndex": 1,
-      "explanation": "Last 2 pairs (11th and 12th) of ribs are not connected ventrally and are therefore, called floating ribs.",
-      "ncertPage": 225,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q43",
-      "chapterId": "bio_ch17",
-      "question": "Each limb of the appendicular skeleton is made up of how many bones?",
-      "options": [
-        "14",
-        "22",
-        "30",
-        "40"
-      ],
-      "correctIndex": 2,
-      "explanation": "Each limb is made of 30 bones.",
-      "ncertPage": 225,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q44",
-      "chapterId": "bio_ch17",
-      "question": "Which of the following sets represents the bones of the fore limb (hand)?",
-      "options": [
-        "Femur, tibia, fibula, tarsals, metatarsals, phalanges",
-        "Humerus, radius, ulna, carpals, metacarpals, phalanges",
-        "Ilium, ischium, pubis, patella",
-        "Clavicle, scapula, sternum, ribs"
-      ],
-      "correctIndex": 1,
-      "explanation": "The bones of the hand (fore limb) are humerus, radius and ulna, carpals (wrist bones - 8 in number), metacarpals (palm bones - 5 in number) and phalanges (digits - 14 in number)...",
-      "ncertPage": 225,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q45",
-      "chapterId": "bio_ch17",
-      "question": "Which cup-shaped bone covers the knee ventrally (knee cap)?",
-      "options": [
-        "Femur",
-        "Tibia",
-        "Patella",
-        "Fibula"
-      ],
-      "correctIndex": 2,
-      "explanation": "A cup shaped bone called patella cover the knee ventrally (knee cap).",
-      "ncertPage": 226,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q46",
-      "chapterId": "bio_ch17",
-      "question": "In the pectoral girdle, the depression below the acromion that articulates with the head of the humerus is called the:",
-      "options": [
-        "Acetabulum",
-        "Glenoid cavity",
-        "Symphysis",
-        "Ilium"
-      ],
-      "correctIndex": 1,
-      "explanation": "Below the acromion is a depression called the glenoid cavity which articulates with the head of the humerus to form the shoulder joint.",
-      "ncertPage": 226,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q47",
-      "chapterId": "bio_ch17",
-      "question": "Each coxal bone of the pelvic girdle is formed by the fusion of three bones: the ilium, ischium, and:",
-      "options": [
-        "Pubis",
-        "Sacrum",
-        "Clavicle",
-        "Scapula"
-      ],
-      "correctIndex": 0,
-      "explanation": "Each coxal bone is formed by the fusion of three bones - ilium, ischium and pubis.",
-      "ncertPage": 226,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q48",
-      "chapterId": "bio_ch17",
-      "question": "Fibrous joints do not allow any movement. An example of a fibrous joint is the:",
-      "options": [
-        "Joint between the adjacent vertebrae",
-        "Joint between carpal and metacarpal of the thumb",
-        "Sutures forming the cranium between flat skull bones",
-        "Knee joint"
-      ],
-      "correctIndex": 2,
-      "explanation": "Fibrous joints do not allow any movement. This type of joint is shown by the flat skull bones which fuse end-to-end with the help of dense fibrous connective tissues in the form of sutures, to form the cranium.",
-      "ncertPage": 227,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q49",
-      "chapterId": "bio_ch17",
-      "question": "Which disorder is an autoimmune condition that affects the neuromuscular junction, leading to fatigue, weakening, and paralysis of skeletal muscle?",
-      "options": [
-        "Muscular dystrophy",
-        "Myasthenia gravis",
-        "Osteoporosis",
-        "Tetany"
-      ],
-      "correctIndex": 1,
-      "explanation": "Myasthenia gravis: Auto immune disorder affecting neuromuscular junction leading to fatigue, weakening and paralysis of skeletal muscle.",
-      "ncertPage": 227,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch17_q50",
-      "chapterId": "bio_ch17",
-      "question": "Gout is characterized by the inflammation of joints due to the accumulation of:",
-      "options": [
-        "Calcium salts",
-        "Lactic acid",
-        "Uric acid crystals",
-        "Auto-antibodies"
-      ],
-      "correctIndex": 2,
-      "explanation": "Gout: Inflammation of joints due to accumulation of uric acid crystals.",
-      "ncertPage": 227,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    }
-  ]
-}
+[
+  {
+    "mcq_id": "c17_q01",
+    "chapter_id": "c17",
+    "question": "Which of the following types of movements are exhibited by the cells of the human body?",
+    "options": ["Amoeboid, ciliary, and flagellar", "Amoeboid, ciliary, and muscular", "Ciliary, muscular, and flagellar", "Amoeboid, muscular, and flagellar"],
+    "correct_index": 1,
+    "explanation": "Cells of the human body exhibit three main types of movements, namely, amoeboid, ciliary and muscular.",
+    "ncert_page": 217,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q02",
+    "chapter_id": "c17",
+    "question": "Which specialised cells in the human body exhibit amoeboid movement?",
+    "options": ["Erythrocytes and platelets", "Neurons and neuroglia", "Macrophages and leucocytes", "Spermatozoa and ova"],
+    "correct_index": 2,
+    "explanation": "Some specialised cells in our body like macrophages and leucocytes in blood exhibit amoeboid movement.",
+    "ncert_page": 218,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q03",
+    "chapter_id": "c17",
+    "question": "Which cytoskeletal elements are involved in amoeboid movement?",
+    "options": ["Microtubules", "Microfilaments", "Intermediate filaments", "Cilia"],
+    "correct_index": 1,
+    "explanation": "Cytoskeletal elements like microfilaments are also involved in amoeboid movement.",
+    "ncert_page": 218,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q04",
+    "chapter_id": "c17",
+    "question": "What type of movement occurs in most of our internal tubular organs that are lined by ciliated epithelium?",
+    "options": ["Amoeboid movement", "Muscular movement", "Ciliary movement", "Flagellar movement"],
+    "correct_index": 2,
+    "explanation": "Ciliary movement occurs in most of our internal tubular organs which are lined by ciliated epithelium. The coordinated movements of cilia in the trachea help us in removing dust particles...",
+    "ncert_page": 218,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q05",
+    "chapter_id": "c17",
+    "question": "Approximately what percentage of the body weight of a human adult is contributed by muscles?",
+    "options": ["20-30 per cent", "30-40 per cent", "40-50 per cent", "50-60 per cent"],
+    "correct_index": 2,
+    "explanation": "About 40-50 per cent of the body weight of a human adult is contributed by muscles.",
+    "ncert_page": 218,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q06",
+    "chapter_id": "c17",
+    "question": "Which of the following is NOT a special property of muscles?",
+    "options": ["Excitability", "Contractility", "Extensibility", "Rigidity"],
+    "correct_index": 3,
+    "explanation": "They have special properties like excitability, contractility, extensibility and elasticity.",
+    "ncert_page": 218,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q07",
+    "chapter_id": "c17",
+    "question": "Based on their location, muscles are classified into which three types?",
+    "options": ["Striated, non-striated, and cardiac", "Skeletal, visceral, and cardiac", "Voluntary, involuntary, and cardiac", "Red, white, and mixed"],
+    "correct_index": 1,
+    "explanation": "Based on their location, three types of muscles are identified: (i) Skeletal (ii) Visceral and (iii) Cardiac.",
+    "ncert_page": 218,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q08",
+    "chapter_id": "c17",
+    "question": "Why are skeletal muscles also known as voluntary muscles?",
+    "options": ["They are located in hollow visceral organs.", "They have a striped appearance under a microscope.", "Their activities are under the voluntary control of the nervous system.", "They contract involuntarily during locomotion."],
+    "correct_index": 2,
+    "explanation": "As their activities are under the voluntary control of the nervous system, they are known as voluntary muscles too.",
+    "ncert_page": 218,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q09",
+    "chapter_id": "c17",
+    "question": "Visceral muscles are smooth in appearance and are hence called:",
+    "options": ["Striated muscles", "Skeletal muscles", "Smooth muscles (nonstriated muscle)", "Cardiac muscles"],
+    "correct_index": 2,
+    "explanation": "They do not exhibit any striation and are smooth in appearance. Hence, they are called smooth muscles (nonstriated muscle).",
+    "ncert_page": 218,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q10",
+    "chapter_id": "c17",
+    "question": "Which layer of collagenous connective tissue holds together the muscle bundles (fascicles) in an organised skeletal muscle?",
+    "options": ["Sarcolemma", "Fascia", "Myofibril", "Sarcoplasm"],
+    "correct_index": 1,
+    "explanation": "Each organised skeletal muscle in our body is made of a number of muscle bundles or fascicles held together by a common collagenous connective tissue layer called fascia.",
+    "ncert_page": 219,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q11",
+    "chapter_id": "c17",
+    "question": "The plasma membrane lining a muscle fibre is called the:",
+    "options": ["Plasmalemma", "Sarcolemma", "Endomysium", "Myomembrane"],
+    "correct_index": 1,
+    "explanation": "Each muscle fibre is lined by the plasma membrane called sarcolemma enclosing the sarcoplasm.",
+    "ncert_page": 219,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q12",
+    "chapter_id": "c17",
+    "question": "In a muscle fibre, what serves as the store house of calcium ions?",
+    "options": ["Sarcoplasm", "Sarcolemma", "Sarcoplasmic reticulum", "Mitochondria"],
+    "correct_index": 2,
+    "explanation": "The endoplasmic reticulum, i.e., sarcoplasmic reticulum of the muscle fibres is the store house of calcium ions.",
+    "ncert_page": 219,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q13",
+    "chapter_id": "c17",
+    "question": "The light bands of a myofibril contain which important protein?",
+    "options": ["Myosin", "Actin", "Troponin", "Tropomyosin"],
+    "correct_index": 1,
+    "explanation": "The light bands contain actin and is called I-band or Isotropic band...",
+    "ncert_page": 219,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q14",
+    "chapter_id": "c17",
+    "question": "The dark band of a myofibril is called the 'A' or Anisotropic band. What protein does it contain?",
+    "options": ["Myosin", "Actin", "Troponin", "Collagen"],
+    "correct_index": 0,
+    "explanation": "...whereas the dark band called 'A' or Anisotropic band contains myosin.",
+    "ncert_page": 219,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q15",
+    "chapter_id": "c17",
+    "question": "What is the elastic fibre that bisects the centre of each 'I' band called?",
+    "options": ["M line", "Z line", "H zone", "A band"],
+    "correct_index": 1,
+    "explanation": "In the centre of each 'I' band is an elastic fibre called 'Z' line which bisects it.",
+    "ncert_page": 220,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q16",
+    "chapter_id": "c17",
+    "question": "What holds the thick filaments in the 'A' band together in the middle of the band?",
+    "options": ["Z line", "Fascia", "M line", "Sarcomere"],
+    "correct_index": 2,
+    "explanation": "The thick filaments in the 'A' band are also held together in the middle of this band by a thin fibrous membrane called 'M' line.",
+    "ncert_page": 220,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q17",
+    "chapter_id": "c17",
+    "question": "The portion of the myofibril between two successive 'Z' lines is considered the functional unit of contraction. What is it called?",
+    "options": ["Fascicle", "Sarcomere", "Myofilament", "H zone"],
+    "correct_index": 1,
+    "explanation": "The portion of the myofibril between two successive 'Z' lines is considered as the functional unit of contraction and is called a sarcomere.",
+    "ncert_page": 220,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q18",
+    "chapter_id": "c17",
+    "question": "In a resting state, the central part of the thick filament that is not overlapped by thin filaments is called the:",
+    "options": ["A band", "Z line", "H zone", "I band"],
+    "correct_index": 2,
+    "explanation": "This central part of thick filament, not overlapped by thin filaments is called the 'H' zone.",
+    "ncert_page": 220,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q19",
+    "chapter_id": "c17",
+    "question": "Each actin (thin) filament is composed of two helically wound filamentous ('F') actins. What are these 'F' actins polymers of?",
+    "options": ["Meromyosins", "Monomeric 'G' (Globular) actins", "Troponin complexes", "Tropomyosin strands"],
+    "correct_index": 1,
+    "explanation": "Each 'F' actin is a polymer of monomeric 'G' (Globular) actins.",
+    "ncert_page": 221,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q20",
+    "chapter_id": "c17",
+    "question": "In the resting state, which protein masks the active binding sites for myosin on the actin filaments?",
+    "options": ["Tropomyosin", "Meromyosin", "Troponin", "G-actin"],
+    "correct_index": 2,
+    "explanation": "In the resting state a subunit of troponin masks the active binding sites for myosin on the actin filaments.",
+    "ncert_page": 221,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q21",
+    "chapter_id": "c17",
+    "question": "What are the monomeric proteins that polymerise to constitute one thick (myosin) filament called?",
+    "options": ["G-actins", "F-actins", "Meromyosins", "Troponins"],
+    "correct_index": 2,
+    "explanation": "Each myosin (thick) filament is also a polymerised protein. Many monomeric proteins called Meromyosins constitute one thick filament.",
+    "ncert_page": 221,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q22",
+    "chapter_id": "c17",
+    "question": "In a meromyosin molecule, the globular head and short arm are referred to as:",
+    "options": ["Light meromyosin (LMM)", "Heavy meromyosin (HMM)", "Cross bridge", "Active ATPase"],
+    "correct_index": 1,
+    "explanation": "Each meromyosin has two important parts, a globular head with a short arm and a tail, the former being called the heavy meromyosin (HMM) and the latter, the light meromyosin (LMM).",
+    "ncert_page": 221,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q23",
+    "chapter_id": "c17",
+    "question": "The globular head of heavy meromyosin is an active enzyme that acts as:",
+    "options": ["A kinase", "A phosphatase", "An ATPase", "A synthase"],
+    "correct_index": 2,
+    "explanation": "The globular head is an active ATPase enzyme and has binding sites for ATP and active sites for actin.",
+    "ncert_page": 221,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q24",
+    "chapter_id": "c17",
+    "question": "A motor neuron along with the muscle fibres connected to it constitute a:",
+    "options": ["Neuromuscular junction", "Motor-end plate", "Motor unit", "Sarcomere"],
+    "correct_index": 2,
+    "explanation": "A motor neuron along with the muscle fibres connected to it constitute a motor unit.",
+    "ncert_page": 222,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q25",
+    "chapter_id": "c17",
+    "question": "What is the junction between a motor neuron and the sarcolemma of the muscle fibre called?",
+    "options": ["Motor unit", "Neuromuscular junction or motor-end plate", "Synaptic cleft", "Action potential site"],
+    "correct_index": 1,
+    "explanation": "The junction between a motor neuron and the sarcolemma of the muscle fibre is called the neuromuscular junction or motor-end plate.",
+    "ncert_page": 222,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q26",
+    "chapter_id": "c17",
+    "question": "Which neurotransmitter is released when a neural signal reaches the neuromuscular junction?",
+    "options": ["Dopamine", "Serotonin", "Acetyl choline", "Adrenaline"],
+    "correct_index": 2,
+    "explanation": "A neural signal reaching this junction releases a neurotransmitter (Acetyl choline) which generates an action potential in the sarcolemma.",
+    "ncert_page": 222,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q27",
+    "chapter_id": "c17",
+    "question": "During muscle contraction, utilizing energy from ATP hydrolysis, the myosin head binds to exposed active sites on actin to form a:",
+    "options": ["Z line", "H zone", "Cross bridge", "Motor unit"],
+    "correct_index": 2,
+    "explanation": "Utilising the energy from ATP hydrolysis, the myosin head now binds to the exposed active sites on actin to form a cross bridge.",
+    "ncert_page": 222,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q28",
+    "chapter_id": "c17",
+    "question": "According to the sliding filament theory, what happens to the length of the 'I' and 'A' bands during muscle contraction?",
+    "options": ["Both 'I' and 'A' bands get reduced.", "The 'I' bands retain their length while the 'A' bands get reduced.", "The 'I' bands get reduced, whereas the 'A' bands retain their length.", "Both 'I' and 'A' bands expand."],
+    "correct_index": 2,
+    "explanation": "It is clear from the above steps, that during shortening of the muscle, i.e., contraction, the 'I' bands get reduced, whereas the 'A' bands retain the length.",
+    "ncert_page": 222,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q29",
+    "chapter_id": "c17",
+    "question": "Muscle fatigue is caused by the anaerobic breakdown of glycogen leading to the accumulation of:",
+    "options": ["Carbon dioxide", "Lactic acid", "Pyruvic acid", "ATP"],
+    "correct_index": 1,
+    "explanation": "Repeated activation of the muscles can lead to the accumulation of lactic acid due to anaerobic breakdown of glycogen in them, causing fatigue.",
+    "ncert_page": 223,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q30",
+    "chapter_id": "c17",
+    "question": "Which of the following describes 'Red fibres' in muscles?",
+    "options": ["They have low myoglobin content and rely on anaerobic processes.", "They have high myoglobin content, plenty of mitochondria, and are aerobic.", "They have high sarcoplasmic reticulum and few mitochondria.", "They appear pale or whitish in colour."],
+    "correct_index": 1,
+    "explanation": "Myoglobin content is high in some of the muscles which gives a reddish appearance. Such muscles are called the Red fibres. These muscles also contain plenty of mitochondria which can utilise the large amount of oxygen stored in them for ATP production.",
+    "ncert_page": 223,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q31",
+    "chapter_id": "c17",
+    "question": "How many bones make up the adult human skeletal system?",
+    "options": ["200", "206", "212", "300"],
+    "correct_index": 1,
+    "explanation": "In human beings, this system is made up of 206 bones and a few cartilages.",
+    "ncert_page": 224,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q32",
+    "chapter_id": "c17",
+    "question": "The axial skeleton comprises how many bones distributed along the main axis of the body?",
+    "options": ["60", "80", "100", "126"],
+    "correct_index": 1,
+    "explanation": "Axial skeleton comprises 80 bones distributed along the main axis of the body.",
+    "ncert_page": 224,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q33",
+    "chapter_id": "c17",
+    "question": "The skull is composed of two sets of bones: cranial and facial. What is the total number of bones in the skull?",
+    "options": ["8", "14", "22", "26"],
+    "correct_index": 2,
+    "explanation": "The skull (Figure 17.6) is composed of two sets of bones - cranial and facial, that totals to 22 bones. Cranial bones are 8 in number... The facial region is made up of 14 skeletal elements...",
+    "ncert_page": 224,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q34",
+    "chapter_id": "c17",
+    "question": "A single U-shaped bone present at the base of the buccal cavity is called the:",
+    "options": ["Mandible", "Hyoid", "Maxilla", "Sphenoid"],
+    "correct_index": 1,
+    "explanation": "A single U-shaped bone called hyoid is present at the base of the buccal cavity.",
+    "ncert_page": 224,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q35",
+    "chapter_id": "c17",
+    "question": "Which of the following bones are collectively called the Ear Ossicles?",
+    "options": ["Atlas, Axis, Coccyx", "Ilium, Ischium, Pubis", "Malleus, Incus, Stapes", "Radius, Ulna, Humerus"],
+    "correct_index": 2,
+    "explanation": "Each middle ear contains three tiny bones - Malleus, Incus and Stapes, collectively called Ear Ossicles.",
+    "ncert_page": 224,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q36",
+    "chapter_id": "c17",
+    "question": "The human skull is called 'dicondylic' because it articulates with the vertebral column using two:",
+    "options": ["Occipital condyles", "Parietal bones", "Temporal bones", "Frontal condyles"],
+    "correct_index": 0,
+    "explanation": "The skull region articulates with the superior region of the vertebral column with the help of two occipital condyles (dicondylic skull).",
+    "ncert_page": 225,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q37",
+    "chapter_id": "c17",
+    "question": "Our vertebral column is formed by how many serially arranged units called vertebrae?",
+    "options": ["12", "26", "30", "33"],
+    "correct_index": 1,
+    "explanation": "Our vertebral column (Figure 17.7) is formed by 26 serially arranged units called vertebrae and is dorsally placed.",
+    "ncert_page": 225,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q38",
+    "chapter_id": "c17",
+    "question": "What is the first vertebra that articulates with the occipital condyles called?",
+    "options": ["Axis", "Atlas", "Cervical 7", "Sacrum"],
+    "correct_index": 1,
+    "explanation": "First vertebra is the atlas and it articulates with the occipital condyles.",
+    "ncert_page": 225,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q39",
+    "chapter_id": "c17",
+    "question": "How many cervical vertebrae are present in almost all mammals, including human beings?",
+    "options": ["5", "7", "12", "14"],
+    "correct_index": 1,
+    "explanation": "The number of cervical vertebrae are seven in almost all mammals including human beings.",
+    "ncert_page": 225,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q40",
+    "chapter_id": "c17",
+    "question": "There are 12 pairs of ribs. The first seven pairs are called:",
+    "options": ["Floating ribs", "False ribs", "True ribs", "Vertebrochondral ribs"],
+    "correct_index": 2,
+    "explanation": "First seven pairs of ribs are called true ribs. Dorsally, they are attached to the thoracic vertebrae and ventrally connected to the sternum...",
+    "ncert_page": 225,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q41",
+    "chapter_id": "c17",
+    "question": "The 8th, 9th, and 10th pairs of ribs do not articulate directly with the sternum but join the seventh rib with the help of hyaline cartilage. These are called:",
+    "options": ["True ribs", "Floating ribs", "Cervical ribs", "Vertebrochondral (false) ribs"],
+    "correct_index": 3,
+    "explanation": "The 8th, 9th and 10th pairs of ribs do not articulate directly with the sternum but join the seventh rib with the help of hyaline cartilage. These are called vertebrochondral (false) ribs.",
+    "ncert_page": 225,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q42",
+    "chapter_id": "c17",
+    "question": "Why are the 11th and 12th pairs of ribs called 'floating ribs'?",
+    "options": ["Because they articulate only with the sternum and not the vertebral column.", "Because they are not connected ventrally.", "Because they are made entirely of cartilage.", "Because they only exist in aquatic animals."],
+    "correct_index": 1,
+    "explanation": "Last 2 pairs (11th and 12th) of ribs are not connected ventrally and are therefore, called floating ribs.",
+    "ncert_page": 225,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q43",
+    "chapter_id": "c17",
+    "question": "Each limb of the appendicular skeleton is made up of how many bones?",
+    "options": ["14", "22", "30", "40"],
+    "correct_index": 2,
+    "explanation": "Each limb is made of 30 bones.",
+    "ncert_page": 225,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q44",
+    "chapter_id": "c17",
+    "question": "Which of the following sets represents the bones of the fore limb (hand)?",
+    "options": ["Femur, tibia, fibula, tarsals, metatarsals, phalanges", "Humerus, radius, ulna, carpals, metacarpals, phalanges", "Ilium, ischium, pubis, patella", "Clavicle, scapula, sternum, ribs"],
+    "correct_index": 1,
+    "explanation": "The bones of the hand (fore limb) are humerus, radius and ulna, carpals (wrist bones - 8 in number), metacarpals (palm bones - 5 in number) and phalanges (digits - 14 in number)...",
+    "ncert_page": 225,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q45",
+    "chapter_id": "c17",
+    "question": "Which cup-shaped bone covers the knee ventrally (knee cap)?",
+    "options": ["Femur", "Tibia", "Patella", "Fibula"],
+    "correct_index": 2,
+    "explanation": "A cup shaped bone called patella cover the knee ventrally (knee cap).",
+    "ncert_page": 226,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q46",
+    "chapter_id": "c17",
+    "question": "In the pectoral girdle, the depression below the acromion that articulates with the head of the humerus is called the:",
+    "options": ["Acetabulum", "Glenoid cavity", "Symphysis", "Ilium"],
+    "correct_index": 1,
+    "explanation": "Below the acromion is a depression called the glenoid cavity which articulates with the head of the humerus to form the shoulder joint.",
+    "ncert_page": 226,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q47",
+    "chapter_id": "c17",
+    "question": "Each coxal bone of the pelvic girdle is formed by the fusion of three bones: the ilium, ischium, and:",
+    "options": ["Pubis", "Sacrum", "Clavicle", "Scapula"],
+    "correct_index": 0,
+    "explanation": "Each coxal bone is formed by the fusion of three bones - ilium, ischium and pubis.",
+    "ncert_page": 226,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q48",
+    "chapter_id": "c17",
+    "question": "Fibrous joints do not allow any movement. An example of a fibrous joint is the:",
+    "options": ["Joint between the adjacent vertebrae", "Joint between carpal and metacarpal of the thumb", "Sutures forming the cranium between flat skull bones", "Knee joint"],
+    "correct_index": 2,
+    "explanation": "Fibrous joints do not allow any movement. This type of joint is shown by the flat skull bones which fuse end-to-end with the help of dense fibrous connective tissues in the form of sutures, to form the cranium.",
+    "ncert_page": 227,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q49",
+    "chapter_id": "c17",
+    "question": "Which disorder is an autoimmune condition that affects the neuromuscular junction, leading to fatigue, weakening, and paralysis of skeletal muscle?",
+    "options": ["Muscular dystrophy", "Myasthenia gravis", "Osteoporosis", "Tetany"],
+    "correct_index": 1,
+    "explanation": "Myasthenia gravis: Auto immune disorder affecting neuromuscular junction leading to fatigue, weakening and paralysis of skeletal muscle.",
+    "ncert_page": 227,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c17_q50",
+    "chapter_id": "c17",
+    "question": "Gout is characterized by the inflammation of joints due to the accumulation of:",
+    "options": ["Calcium salts", "Lactic acid", "Uric acid crystals", "Auto-antibodies"],
+    "correct_index": 2,
+    "explanation": "Gout: Inflammation of joints due to accumulation of uric acid crystals.",
+    "ncert_page": 227,
+    "difficulty": "medium",
+    "subject": "Biology"
+  }
+]

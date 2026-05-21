@@ -1,804 +1,552 @@
-{
-  "questions": [
-    {
-      "mcqId": "11_bio_ch19_q1",
-      "chapterId": "bio_ch19",
-      "question": "What is the current scientific definition of hormones?",
-      "options": [
-        "Nutrient chemicals produced in large amounts to regulate cellular functions",
-        "Proteins secreted by exocrine glands through ducts into the blood",
-        "Non-nutrient chemicals which act as intercellular messengers and are produced in trace amounts",
-        "Enzymes that catalyse metabolic reactions within target cells"
-      ],
-      "correctIndex": 2,
-      "explanation": "Hormones are non-nutrient chemicals which act as intercellular messengers and are produced in trace amounts.",
-      "ncertPage": 239,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q2",
-      "chapterId": "bio_ch19",
-      "question": "Endocrine glands are commonly referred to as:",
-      "options": [
-        "Exocrine glands",
-        "Ductless glands",
-        "Sebaceous glands",
-        "Lymphatic glands"
-      ],
-      "correctIndex": 1,
-      "explanation": "Endocrine glands lack ducts and are hence, called ductless glands.",
-      "ncertPage": 239,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q3",
-      "chapterId": "bio_ch19",
-      "question": "Where is the hypothalamus anatomically located in the brain?",
-      "options": [
-        "Basal part of diencephalon, forebrain",
-        "Dorsal side of midbrain",
-        "Cerebellar hemisphere of hindbrain",
-        "Outer cortex of the cerebrum"
-      ],
-      "correctIndex": 0,
-      "explanation": "As you know, the hypothalamus is the basal part of diencephalon, forebrain and it regulates a wide spectrum of body functions.",
-      "ncertPage": 240,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q4",
-      "chapterId": "bio_ch19",
-      "question": "Which hormone from the hypothalamus inhibits the release of growth hormone from the pituitary?",
-      "options": [
-        "Gonadotrophin releasing hormone (GnRH)",
-        "Somatostatin",
-        "Oxytocin",
-        "Prolactin"
-      ],
-      "correctIndex": 1,
-      "explanation": "On the other hand, somatostatin from the hypothalamus inhibits the release of growth hormone from the pituitary.",
-      "ncertPage": 240,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q5",
-      "chapterId": "bio_ch19",
-      "question": "How do hypothalamic hormones regulating the anterior pituitary reach it?",
-      "options": [
-        "Through the cerebrospinal fluid",
-        "Via direct neural connections through axons",
-        "Through a portal circulatory system",
-        "Via the lymphatic system"
-      ],
-      "correctIndex": 2,
-      "explanation": "These hormones reach the pituitary gland through a portal circulatory system and regulate the functions of the anterior pituitary.",
-      "ncertPage": 240,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q6",
-      "chapterId": "bio_ch19",
-      "question": "The posterior pituitary is under the direct neural regulation of the:",
-      "options": [
-        "Thalamus",
-        "Cerebellum",
-        "Hypothalamus",
-        "Medulla oblongata"
-      ],
-      "correctIndex": 2,
-      "explanation": "The posterior pituitary is under the direct neural regulation of the hypothalamus.",
-      "ncertPage": 240,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q7",
-      "chapterId": "bio_ch19",
-      "question": "The pituitary gland is located in a bony cavity called:",
-      "options": [
-        "Glenoid cavity",
-        "Sella tursica",
-        "Acetabulum",
-        "Foramen magnum"
-      ],
-      "correctIndex": 1,
-      "explanation": "The pituitary gland is located in a bony cavity called sella tursica and is attached to hypothalamus by a stalk.",
-      "ncertPage": 241,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q8",
-      "chapterId": "bio_ch19",
-      "question": "Adenohypophysis consists of which two portions?",
-      "options": [
-        "Pars distalis and pars nervosa",
-        "Pars intermedia and pars nervosa",
-        "Pars distalis and pars intermedia",
-        "Anterior and posterior pituitary"
-      ],
-      "correctIndex": 2,
-      "explanation": "Adenohypophysis consists of two portions, pars distalis and pars intermedia.",
-      "ncertPage": 241,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q9",
-      "chapterId": "bio_ch19",
-      "question": "Which hormone is exclusively secreted by the pars intermedia?",
-      "options": [
-        "Luteinizing hormone (LH)",
-        "Follicle stimulating hormone (FSH)",
-        "Melanocyte stimulating hormone (MSH)",
-        "Adrenocorticotrophic hormone (ACTH)"
-      ],
-      "correctIndex": 2,
-      "explanation": "Pars intermedia secretes only one hormone called melanocyte stimulating hormone (MSH).",
-      "ncertPage": 241,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q10",
-      "chapterId": "bio_ch19",
-      "question": "Which hormones are stored and released by the neurohypophysis (posterior pituitary)?",
-      "options": [
-        "Prolactin and Growth Hormone",
-        "Oxytocin and Vasopressin",
-        "LH and FSH",
-        "Thyroxine and Calcitonin"
-      ],
-      "correctIndex": 1,
-      "explanation": "Neurohypophysis (pars nervosa) also known as posterior pituitary, stores and releases two hormones called oxytocin and vasopressin...",
-      "ncertPage": 241,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q11",
-      "chapterId": "bio_ch19",
-      "question": "Where are oxytocin and vasopressin actually synthesised?",
-      "options": [
-        "Anterior pituitary",
-        "Pars intermedia",
-        "Hypothalamus",
-        "Pineal gland"
-      ],
-      "correctIndex": 2,
-      "explanation": "...oxytocin and vasopressin, which are actually synthesised by the hypothalamus and are transported axonally to neurohypophysis.",
-      "ncertPage": 241,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q12",
-      "chapterId": "bio_ch19",
-      "question": "Over-secretion of Growth Hormone (GH) in childhood stimulates abnormal growth of the body leading to:",
-      "options": [
-        "Dwarfism",
-        "Acromegaly",
-        "Gigantism",
-        "Cretinism"
-      ],
-      "correctIndex": 2,
-      "explanation": "Over-secretion of GH stimulates abnormal growth of the body leading to gigantism...",
-      "ncertPage": 241,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q13",
-      "chapterId": "bio_ch19",
-      "question": "Excess secretion of growth hormone in adults, especially in middle age, can result in severe disfigurement called:",
-      "options": [
-        "Graves' disease",
-        "Acromegaly",
-        "Addison's disease",
-        "Diabetes mellitus"
-      ],
-      "correctIndex": 1,
-      "explanation": "Excess secretion of growth hormone in adults especially in middle age can result in severe disfigurement (especially of the face) called Acromegaly...",
-      "ncertPage": 241,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q14",
-      "chapterId": "11_bio_ch19",
-      "question": "Which hormone regulates the growth of the mammary glands and formation of milk in them?",
-      "options": [
-        "Oxytocin",
-        "Prolactin",
-        "Progesterone",
-        "Estrogen"
-      ],
-      "correctIndex": 1,
-      "explanation": "Prolactin regulates the growth of the mammary glands and formation of milk in them.",
-      "ncertPage": 241,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q15",
-      "chapterId": "bio_ch19",
-      "question": "Adrenocorticotrophic hormone (ACTH) stimulates the synthesis and secretion of which hormones from the adrenal cortex?",
-      "options": [
-        "Catecholamines",
-        "Glucocorticoids",
-        "Androgens",
-        "Thyroxine"
-      ],
-      "correctIndex": 1,
-      "explanation": "ACTH stimulates the synthesis and secretion of steroid hormones called glucocorticoids from the adrenal cortex.",
-      "ncertPage": 241,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q16",
-      "chapterId": "bio_ch19",
-      "question": "What is the primary function of Luteinizing Hormone (LH) in human males?",
-      "options": [
-        "It regulates spermatogenesis directly.",
-        "It stimulates the synthesis and secretion of androgens from testis.",
-        "It maintains the corpus luteum.",
-        "It stimulates the prostate gland to secrete seminal fluid."
-      ],
-      "correctIndex": 1,
-      "explanation": "In males, LH stimulates the synthesis and secretion of hormones called androgens from testis.",
-      "ncertPage": 241,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q17",
-      "chapterId": "bio_ch19",
-      "question": "Which hormone induces the ovulation of fully mature follicles (Graafian follicles) in females?",
-      "options": [
-        "FSH",
-        "Estrogen",
-        "Progesterone",
-        "LH"
-      ],
-      "correctIndex": 3,
-      "explanation": "In females, LH induces ovulation of fully mature follicles (graafian follicles)...",
-      "ncertPage": 241,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q18",
-      "chapterId": "bio_ch19",
-      "question": "In females, which structure is maintained by LH after ovulation?",
-      "options": [
-        "Growing ovarian follicles",
-        "Graafian follicle",
-        "Corpus luteum",
-        "Endometrium"
-      ],
-      "correctIndex": 2,
-      "explanation": "...and maintains the corpus luteum, formed from the remnants of the graafian follicles after ovulation.",
-      "ncertPage": 241,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q19",
-      "chapterId": "bio_ch19",
-      "question": "Which hormone stimulates a vigorous contraction of the uterus at the time of child birth?",
-      "options": [
-        "Prolactin",
-        "Progesterone",
-        "Oxytocin",
-        "Relaxin"
-      ],
-      "correctIndex": 2,
-      "explanation": "Oxytocin acts on the smooth muscles... In females, it stimulates a vigorous contraction of uterus at the time of child birth...",
-      "ncertPage": 242,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q20",
-      "chapterId": "bio_ch19",
-      "question": "Vasopressin prevents water loss through urine (diuresis) by stimulating resorption of water and electrolytes in the:",
-      "options": [
-        "Proximal convoluted tubule",
-        "Distal tubules of the kidney",
-        "Glomerulus",
-        "Bowman's capsule"
-      ],
-      "correctIndex": 1,
-      "explanation": "Vasopressin acts mainly at the kidney and stimulates resorption of water and electrolytes by the distal tubules...",
-      "ncertPage": 242,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q21",
-      "chapterId": "bio_ch19",
-      "question": "An impairment affecting the synthesis or release of ADH leads to a condition called:",
-      "options": [
-        "Diabetes mellitus",
-        "Acromegaly",
-        "Diabetes insipidus",
-        "Addison's disease"
-      ],
-      "correctIndex": 2,
-      "explanation": "An impairment affecting synthesis or release of ADH results in a diminished ability of the kidney to conserve water... This condition is known as Diabetes Insipidus.",
-      "ncertPage": 242,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q22",
-      "chapterId": "bio_ch19",
-      "question": "Which gland secretes melatonin, a hormone that regulates the 24-hour diurnal rhythm of the body?",
-      "options": [
-        "Pituitary gland",
-        "Thyroid gland",
-        "Thymus",
-        "Pineal gland"
-      ],
-      "correctIndex": 3,
-      "explanation": "The pineal gland is located on the dorsal side of forebrain. Pineal secretes a hormone called melatonin. Melatonin plays a very important role in the regulation of a 24-hour (diurnal) rhythm of our body.",
-      "ncertPage": 242,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q23",
-      "chapterId": "bio_ch19",
-      "question": "The two lobes of the thyroid gland are interconnected with a thin flap of connective tissue known as the:",
-      "options": [
-        "Frenulum",
-        "Isthmus",
-        "Corpus callosum",
-        "Infundibulum"
-      ],
-      "correctIndex": 1,
-      "explanation": "Both the lobes are interconnected with a thin flap of connective tissue called isthmus.",
-      "ncertPage": 242,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q24",
-      "chapterId": "bio_ch19",
-      "question": "Deficiency of iodine in the diet results in hypothyroidism and enlargement of the thyroid gland, commonly called:",
-      "options": [
-        "Cretinism",
-        "Goitre",
-        "Graves' disease",
-        "Tetany"
-      ],
-      "correctIndex": 1,
-      "explanation": "Deficiency of iodine in our diet results in hypothyroidism and enlargement of the thyroid gland, commonly called goitre.",
-      "ncertPage": 242,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q25",
-      "chapterId": "bio_ch19",
-      "question": "Hypothyroidism during pregnancy can cause defective development of the baby, leading to stunted growth known as:",
-      "options": [
-        "Dwarfism",
-        "Cretinism",
-        "Myxedema",
-        "Gigantism"
-      ],
-      "correctIndex": 1,
-      "explanation": "Hypothyroidism during pregnancy causes defective development and maturation of the growing baby leading to stunted growth (cretinism)...",
-      "ncertPage": 242,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q26",
-      "chapterId": "bio_ch19",
-      "question": "Exopthalmic goitre, a form of hyperthyroidism characterised by protrusion of the eyeballs and weight loss, is also called:",
-      "options": [
-        "Addison's disease",
-        "Hashimoto's disease",
-        "Graves' disease",
-        "Cushing's syndrome"
-      ],
-      "correctIndex": 2,
-      "explanation": "Exopthalmic goitre is a form of hyperthyroidism, characterised by enlargement of the thyroid gland, protrusion of the eyeballs, increased basal metabolic rate, and weight loss, also called Graves' disease.",
-      "ncertPage": 243,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q27",
-      "chapterId": "bio_ch19",
-      "question": "Which of the following hormones secreted by the thyroid gland regulates blood calcium levels?",
-      "options": [
-        "Triiodothyronine (T3)",
-        "Thyroxine (T4)",
-        "Thyrocalcitonin (TCT)",
-        "Parathyroid hormone (PTH)"
-      ],
-      "correctIndex": 2,
-      "explanation": "Thyroid gland also secretes a protein hormone called thyrocalcitonin (TCT) which regulates the blood calcium levels.",
-      "ncertPage": 243,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q28",
-      "chapterId": "bio_ch19",
-      "question": "How many parathyroid glands are present in human beings?",
-      "options": [
-        "Two",
-        "Four",
-        "Six",
-        "Eight"
-      ],
-      "correctIndex": 1,
-      "explanation": "In humans, four parathyroid glands are present on the back side of the thyroid gland...",
-      "ncertPage": 243,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q29",
-      "chapterId": "bio_ch19",
-      "question": "Parathyroid hormone (PTH) acts on bones to stimulate the process of:",
-      "options": [
-        "Bone mineralisation",
-        "Bone synthesis",
-        "Bone resorption (dissolution)",
-        "Bone marrow production"
-      ],
-      "correctIndex": 2,
-      "explanation": "PTH acts on bones and stimulates the process of bone resorption (dissolution/ demineralisation).",
-      "ncertPage": 243,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q30",
-      "chapterId": "bio_ch19",
-      "question": "PTH increases blood Ca2+ levels, making it a:",
-      "options": [
-        "Hypoglycemic hormone",
-        "Hypercalcemic hormone",
-        "Hypocalcemic hormone",
-        "Hyperglycemic hormone"
-      ],
-      "correctIndex": 1,
-      "explanation": "It is, thus, clear that PTH is a hypercalcemic hormone, i.e., it increases the blood Ca2+ levels.",
-      "ncertPage": 243,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q31",
-      "chapterId": "bio_ch19",
-      "question": "Where is the thymus gland located in the body?",
-      "options": [
-        "On the dorsal side of the forebrain",
-        "Between lungs behind sternum on the ventral side of aorta",
-        "Above each kidney",
-        "In the scrotal sac"
-      ],
-      "correctIndex": 1,
-      "explanation": "The thymus gland is a lobular structure located between lungs behind sternum on the ventral side of aorta.",
-      "ncertPage": 243,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q32",
-      "chapterId": "bio_ch19",
-      "question": "Thymosins, secreted by the thymus gland, play a major role in providing cell-mediated immunity by promoting the differentiation of:",
-      "options": [
-        "B-lymphocytes",
-        "Erythrocytes",
-        "T-lymphocytes",
-        "Macrophages"
-      ],
-      "correctIndex": 2,
-      "explanation": "Thymosins play a major role in the differentiation of T-lymphocytes, which provide cell-mediated immunity.",
-      "ncertPage": 243,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q33",
-      "chapterId": "bio_ch19",
-      "question": "Why do the immune responses of older persons become weaker?",
-      "options": [
-        "Increase in the production of thymosins",
-        "Degeneration of the thymus gland in old individuals",
-        "Overactivity of the adrenal cortex",
-        "Hypersecretion of cortisol"
-      ],
-      "correctIndex": 1,
-      "explanation": "Thymus is degenerated in old individuals resulting in a decreased production of thymosins. As a result, the immune responses of old persons become weak.",
-      "ncertPage": 243,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q34",
-      "chapterId": "bio_ch19",
-      "question": "The adrenal gland is composed of two types of tissues. The centrally located tissue is called the:",
-      "options": [
-        "Adrenal cortex",
-        "Zona glomerulosa",
-        "Adrenal medulla",
-        "Zona fasciculata"
-      ],
-      "correctIndex": 2,
-      "explanation": "The centrally located tissue is called the adrenal medulla, and outside this lies the adrenal cortex.",
-      "ncertPage": 244,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q35",
-      "chapterId": "bio_ch19",
-      "question": "Underproduction of hormones by the adrenal cortex alters carbohydrate metabolism and causes acute weakness and fatigue, leading to a disease called:",
-      "options": [
-        "Addison's disease",
-        "Graves' disease",
-        "Acromegaly",
-        "Diabetes insipidus"
-      ],
-      "correctIndex": 0,
-      "explanation": "Underproduction of hormones by the adrenal cortex alters carbohydrate metabolism causing acute weakness and fatigue leading to a disease called Addison's disease.",
-      "ncertPage": 244,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q36",
-      "chapterId": "bio_ch19",
-      "question": "Adrenaline and noradrenaline, commonly called catecholamines, are secreted by the:",
-      "options": [
-        "Anterior pituitary",
-        "Adrenal cortex",
-        "Adrenal medulla",
-        "Thyroid gland"
-      ],
-      "correctIndex": 2,
-      "explanation": "The adrenal medulla secretes two hormones called adrenaline or epinephrine and noradrenaline or norepinephrine. These are commonly called as catecholamines.",
-      "ncertPage": 244,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q37",
-      "chapterId": "bio_ch19",
-      "question": "Which hormones are known as 'emergency hormones' or hormones of 'Fight or Flight'?",
-      "options": [
-        "Glucocorticoids and mineralocorticoids",
-        "Adrenaline and noradrenaline",
-        "Insulin and glucagon",
-        "Thyroxine and triiodothyronine"
-      ],
-      "correctIndex": 1,
-      "explanation": "Adrenaline and noradrenaline are rapidly secreted in response to stress of any kind and during emergency situations and are called emergency hormones or hormones of Fight or Flight.",
-      "ncertPage": 244,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q38",
-      "chapterId": "bio_ch19",
-      "question": "The middle layer of the adrenal cortex is called:",
-      "options": [
-        "Zona reticularis",
-        "Zona glomerulosa",
-        "Zona fasciculata",
-        "Adrenal medulla"
-      ],
-      "correctIndex": 2,
-      "explanation": "The adrenal cortex can be divided into three layers, called zona reticularis (inner layer), zona fasciculata (middle layer) and zona glomerulosa (outer layer).",
-      "ncertPage": 245,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q39",
-      "chapterId": "bio_ch19",
-      "question": "Which of the following is the main glucocorticoid secreted by the adrenal cortex in the human body?",
-      "options": [
-        "Aldosterone",
-        "Cortisol",
-        "Adrenaline",
-        "Testosterone"
-      ],
-      "correctIndex": 1,
-      "explanation": "The corticoids, which are involved in carbohydrate metabolism are called glucocorticoids. In our body, cortisol is the main glucocorticoid.",
-      "ncertPage": 245,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q40",
-      "chapterId": "bio_ch19",
-      "question": "The main mineralocorticoid in the human body that regulates the balance of water and electrolytes is:",
-      "options": [
-        "Cortisol",
-        "Aldosterone",
-        "Glucagon",
-        "Vasopressin"
-      ],
-      "correctIndex": 1,
-      "explanation": "Corticoids, which regulate the balance of water and electrolytes in our body are called mineralocorticoids. Aldosterone is the main mineralocorticoid in our body.",
-      "ncertPage": 245,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q41",
-      "chapterId": "bio_ch19",
-      "question": "Which hormone acts mainly at the renal tubules and stimulates the reabsorption of Na+ and water?",
-      "options": [
-        "Aldosterone",
-        "Cortisol",
-        "Glucagon",
-        "Insulin"
-      ],
-      "correctIndex": 0,
-      "explanation": "Aldosterone acts mainly at the renal tubules and stimulates the reabsorption of Na+ and water and excretion of K+ and phosphate ions.",
-      "ncertPage": 245,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q42",
-      "chapterId": "bio_ch19",
-      "question": "Which cells in the Islets of Langerhans secrete the hormone glucagon?",
-      "options": [
-        "Alpha cells (\u03b1-cells)",
-        "Beta cells (\u03b2-cells)",
-        "Delta cells",
-        "F cells"
-      ],
-      "correctIndex": 0,
-      "explanation": "The a-cells secrete a hormone called glucagon, while the b-cells secrete insulin.",
-      "ncertPage": 245,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q43",
-      "chapterId": "bio_ch19",
-      "question": "Glucagon is a hyperglycemic hormone because it acts on liver cells to stimulate:",
-      "options": [
-        "Glycogenesis",
-        "Glycogenolysis",
-        "Cellular glucose uptake",
-        "Protein synthesis"
-      ],
-      "correctIndex": 1,
-      "explanation": "Glucagon acts mainly on the liver cells (hepatocytes) and stimulates glycogenolysis resulting in an increased blood sugar (hyperglycemia).",
-      "ncertPage": 245,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q44",
-      "chapterId": "bio_ch19",
-      "question": "Insulin acts mainly on hepatocytes and adipocytes and enhances cellular glucose uptake, resulting in:",
-      "options": [
-        "Hyperglycemia",
-        "Hypoglycemia",
-        "Gluconeogenesis",
-        "Glycogenolysis"
-      ],
-      "correctIndex": 1,
-      "explanation": "Insulin acts mainly on hepatocytes and adipocytes... As a result, there is a rapid movement of glucose from blood to hepatocytes and adipocytes resulting in decreased blood glucose levels (hypoglycemia).",
-      "ncertPage": 245,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q45",
-      "chapterId": "bio_ch19",
-      "question": "Prolonged hyperglycemia leads to a complex disorder associated with loss of glucose through urine, known as:",
-      "options": [
-        "Diabetes insipidus",
-        "Addison's disease",
-        "Diabetes mellitus",
-        "Goitre"
-      ],
-      "correctIndex": 2,
-      "explanation": "Prolonged hyperglycemia leads to a complex disorder called diabetes mellitus which is associated with loss of glucose through urine...",
-      "ncertPage": 246,
-      "difficulty": "EASY",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q46",
-      "chapterId": "bio_ch19",
-      "question": "In the testis, which cells produce the group of hormones called androgens (mainly testosterone)?",
-      "options": [
-        "Sertoli cells",
-        "Spermatogonia",
-        "Leydig cells or interstitial cells",
-        "Follicular cells"
-      ],
-      "correctIndex": 2,
-      "explanation": "The Leydig cells or interstitial cells, which are present in the intertubular spaces produce a group of hormones called androgens mainly testosterone.",
-      "ncertPage": 246,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q47",
-      "chapterId": "bio_ch19",
-      "question": "After ovulation in females, the ruptured follicle is converted into a structure that secretes mainly progesterone. What is this structure called?",
-      "options": [
-        "Corpus callosum",
-        "Corpus luteum",
-        "Corpus albicans",
-        "Graafian follicle"
-      ],
-      "correctIndex": 1,
-      "explanation": "After ovulation, the ruptured follicle is converted to a structure called corpus luteum, which secretes mainly progesterone.",
-      "ncertPage": 246,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q48",
-      "chapterId": "bio_ch19",
-      "question": "The atrial wall of the heart secretes a peptide hormone that decreases blood pressure. Name the hormone.",
-      "options": [
-        "Erythropoietin",
-        "Angiotensin",
-        "Atrial Natriuretic Factor (ANF)",
-        "Gastrin"
-      ],
-      "correctIndex": 2,
-      "explanation": "For example, the atrial wall of our heart secretes a very important peptide hormone called atrial natriuretic factor (ANF), which decreases blood pressure.",
-      "ncertPage": 247,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q49",
-      "chapterId": "bio_ch19",
-      "question": "Which hormone produced by the juxtaglomerular cells of the kidney stimulates the formation of red blood cells (erythropoiesis)?",
-      "options": [
-        "Erythropoietin",
-        "Renin",
-        "Aldosterone",
-        "Cholecystokinin (CCK)"
-      ],
-      "correctIndex": 0,
-      "explanation": "The juxtaglomerular cells of kidney produce a peptide hormone called erythropoietin which stimulates erythropoiesis (formation of RBC).",
-      "ncertPage": 247,
-      "difficulty": "MEDIUM",
-      "subject": "Biology"
-    },
-    {
-      "mcqId": "11_bio_ch19_q50",
-      "chapterId": "bio_ch19",
-      "question": "Hormones that interact with membrane-bound receptors normally do not enter the target cell, but instead generate:",
-      "options": [
-        "Intracellular receptors",
-        "Second messengers (e.g., cyclic AMP, IP3, Ca++)",
-        "Steroid-receptor complexes",
-        "Gene expression regulators directly"
-      ],
-      "correctIndex": 1,
-      "explanation": "Hormones which interact with membrane-bound receptors normally do not enter the target cell, but generate second messengers (e.g., cyclic AMP, IP3, Ca++ etc) which in turn regulate cellular metabolism.",
-      "ncertPage": 248,
-      "difficulty": "HARD",
-      "subject": "Biology"
-    }
-  ]
-}
+[
+  {
+    "mcq_id": "c19_q01",
+    "chapter_id": "c19",
+    "question": "What is the current scientific definition of hormones?",
+    "options": ["Nutrient chemicals produced in large amounts to regulate cellular functions", "Proteins secreted by exocrine glands through ducts into the blood", "Non-nutrient chemicals which act as intercellular messengers and are produced in trace amounts", "Enzymes that catalyse metabolic reactions within target cells"],
+    "correct_index": 2,
+    "explanation": "Hormones are non-nutrient chemicals which act as intercellular messengers and are produced in trace amounts.",
+    "ncert_page": 239,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q02",
+    "chapter_id": "c19",
+    "question": "Endocrine glands are commonly referred to as:",
+    "options": ["Exocrine glands", "Ductless glands", "Sebaceous glands", "Lymphatic glands"],
+    "correct_index": 1,
+    "explanation": "Endocrine glands lack ducts and are hence, called ductless glands.",
+    "ncert_page": 239,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q03",
+    "chapter_id": "c19",
+    "question": "Where is the hypothalamus anatomically located in the brain?",
+    "options": ["Basal part of diencephalon, forebrain", "Dorsal side of midbrain", "Cerebellar hemisphere of hindbrain", "Outer cortex of the cerebrum"],
+    "correct_index": 0,
+    "explanation": "As you know, the hypothalamus is the basal part of diencephalon, forebrain and it regulates a wide spectrum of body functions.",
+    "ncert_page": 240,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q04",
+    "chapter_id": "c19",
+    "question": "Which hormone from the hypothalamus inhibits the release of growth hormone from the pituitary?",
+    "options": ["Gonadotrophin releasing hormone (GnRH)", "Somatostatin", "Oxytocin", "Prolactin"],
+    "correct_index": 1,
+    "explanation": "On the other hand, somatostatin from the hypothalamus inhibits the release of growth hormone from the pituitary.",
+    "ncert_page": 240,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q05",
+    "chapter_id": "c19",
+    "question": "How do hypothalamic hormones regulating the anterior pituitary reach it?",
+    "options": ["Through the cerebrospinal fluid", "Via direct neural connections through axons", "Through a portal circulatory system", "Via the lymphatic system"],
+    "correct_index": 2,
+    "explanation": "These hormones reach the pituitary gland through a portal circulatory system and regulate the functions of the anterior pituitary.",
+    "ncert_page": 240,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q06",
+    "chapter_id": "c19",
+    "question": "The posterior pituitary is under the direct neural regulation of the:",
+    "options": ["Thalamus", "Cerebellum", "Hypothalamus", "Medulla oblongata"],
+    "correct_index": 2,
+    "explanation": "The posterior pituitary is under the direct neural regulation of the hypothalamus.",
+    "ncert_page": 240,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q07",
+    "chapter_id": "c19",
+    "question": "The pituitary gland is located in a bony cavity called:",
+    "options": ["Glenoid cavity", "Sella tursica", "Acetabulum", "Foramen magnum"],
+    "correct_index": 1,
+    "explanation": "The pituitary gland is located in a bony cavity called sella tursica and is attached to hypothalamus by a stalk.",
+    "ncert_page": 241,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q08",
+    "chapter_id": "c19",
+    "question": "Adenohypophysis consists of which two portions?",
+    "options": ["Pars distalis and pars nervosa", "Pars intermedia and pars nervosa", "Pars distalis and pars intermedia", "Anterior and posterior pituitary"],
+    "correct_index": 2,
+    "explanation": "Adenohypophysis consists of two portions, pars distalis and pars intermedia.",
+    "ncert_page": 241,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q09",
+    "chapter_id": "c19",
+    "question": "Which hormone is exclusively secreted by the pars intermedia?",
+    "options": ["Luteinizing hormone (LH)", "Follicle stimulating hormone (FSH)", "Melanocyte stimulating hormone (MSH)", "Adrenocorticotrophic hormone (ACTH)"],
+    "correct_index": 2,
+    "explanation": "Pars intermedia secretes only one hormone called melanocyte stimulating hormone (MSH).",
+    "ncert_page": 241,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q10",
+    "chapter_id": "c19",
+    "question": "Which hormones are stored and released by the neurohypophysis (posterior pituitary)?",
+    "options": ["Prolactin and Growth Hormone", "Oxytocin and Vasopressin", "LH and FSH", "Thyroxine and Calcitonin"],
+    "correct_index": 1,
+    "explanation": "Neurohypophysis (pars nervosa) also known as posterior pituitary, stores and releases two hormones called oxytocin and vasopressin...",
+    "ncert_page": 241,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q11",
+    "chapter_id": "c19",
+    "question": "Where are oxytocin and vasopressin actually synthesised?",
+    "options": ["Anterior pituitary", "Pars intermedia", "Hypothalamus", "Pineal gland"],
+    "correct_index": 2,
+    "explanation": "...oxytocin and vasopressin, which are actually synthesised by the hypothalamus and are transported axonally to neurohypophysis.",
+    "ncert_page": 241,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q12",
+    "chapter_id": "c19",
+    "question": "Over-secretion of Growth Hormone (GH) in childhood stimulates abnormal growth of the body leading to:",
+    "options": ["Dwarfism", "Acromegaly", "Gigantism", "Cretinism"],
+    "correct_index": 2,
+    "explanation": "Over-secretion of GH stimulates abnormal growth of the body leading to gigantism...",
+    "ncert_page": 241,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q13",
+    "chapter_id": "c19",
+    "question": "Excess secretion of growth hormone in adults, especially in middle age, can result in severe disfigurement called:",
+    "options": ["Graves' disease", "Acromegaly", "Addison's disease", "Diabetes mellitus"],
+    "correct_index": 1,
+    "explanation": "Excess secretion of growth hormone in adults especially in middle age can result in severe disfigurement (especially of the face) called Acromegaly...",
+    "ncert_page": 241,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q14",
+    "chapter_id": "c19",
+    "question": "Which hormone regulates the growth of the mammary glands and formation of milk in them?",
+    "options": ["Oxytocin", "Prolactin", "Progesterone", "Estrogen"],
+    "correct_index": 1,
+    "explanation": "Prolactin regulates the growth of the mammary glands and formation of milk in them.",
+    "ncert_page": 241,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q15",
+    "chapter_id": "c19",
+    "question": "Adrenocorticotrophic hormone (ACTH) stimulates the synthesis and secretion of which hormones from the adrenal cortex?",
+    "options": ["Catecholamines", "Glucocorticoids", "Androgens", "Thyroxine"],
+    "correct_index": 1,
+    "explanation": "ACTH stimulates the synthesis and secretion of steroid hormones called glucocorticoids from the adrenal cortex.",
+    "ncert_page": 241,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q16",
+    "chapter_id": "c19",
+    "question": "What is the primary function of Luteinizing Hormone (LH) in human males?",
+    "options": ["It regulates spermatogenesis directly.", "It stimulates the synthesis and secretion of androgens from testis.", "It maintains the corpus luteum.", "It stimulates the prostate gland to secrete seminal fluid."],
+    "correct_index": 1,
+    "explanation": "In males, LH stimulates the synthesis and secretion of hormones called androgens from testis.",
+    "ncert_page": 241,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q17",
+    "chapter_id": "c19",
+    "question": "Which hormone induces the ovulation of fully mature follicles (Graafian follicles) in females?",
+    "options": ["FSH", "Estrogen", "Progesterone", "LH"],
+    "correct_index": 3,
+    "explanation": "In females, LH induces ovulation of fully mature follicles (graafian follicles)...",
+    "ncert_page": 241,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q18",
+    "chapter_id": "c19",
+    "question": "In females, which structure is maintained by LH after ovulation?",
+    "options": ["Growing ovarian follicles", "Graafian follicle", "Corpus luteum", "Endometrium"],
+    "correct_index": 2,
+    "explanation": "...and maintains the corpus luteum, formed from the remnants of the graafian follicles after ovulation.",
+    "ncert_page": 241,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q19",
+    "chapter_id": "c19",
+    "question": "Which hormone stimulates a vigorous contraction of the uterus at the time of child birth?",
+    "options": ["Prolactin", "Progesterone", "Oxytocin", "Relaxin"],
+    "correct_index": 2,
+    "explanation": "Oxytocin acts on the smooth muscles... In females, it stimulates a vigorous contraction of uterus at the time of child birth...",
+    "ncert_page": 242,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q20",
+    "chapter_id": "c19",
+    "question": "Vasopressin prevents water loss through urine (diuresis) by stimulating resorption of water and electrolytes in the:",
+    "options": ["Proximal convoluted tubule", "Distal tubules of the kidney", "Glomerulus", "Bowman's capsule"],
+    "correct_index": 1,
+    "explanation": "Vasopressin acts mainly at the kidney and stimulates resorption of water and electrolytes by the distal tubules...",
+    "ncert_page": 242,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q21",
+    "chapter_id": "c19",
+    "question": "An impairment affecting the synthesis or release of ADH leads to a condition called:",
+    "options": ["Diabetes mellitus", "Acromegaly", "Diabetes insipidus", "Addison's disease"],
+    "correct_index": 2,
+    "explanation": "An impairment affecting synthesis or release of ADH results in a diminished ability of the kidney to conserve water... This condition is known as Diabetes Insipidus.",
+    "ncert_page": 242,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q22",
+    "chapter_id": "c19",
+    "question": "Which gland secretes melatonin, a hormone that regulates the 24-hour diurnal rhythm of the body?",
+    "options": ["Pituitary gland", "Thyroid gland", "Thymus", "Pineal gland"],
+    "correct_index": 3,
+    "explanation": "The pineal gland is located on the dorsal side of forebrain. Pineal secretes a hormone called melatonin. Melatonin plays a very important role in the regulation of a 24-hour (diurnal) rhythm of our body.",
+    "ncert_page": 242,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q23",
+    "chapter_id": "c19",
+    "question": "The two lobes of the thyroid gland are interconnected with a thin flap of connective tissue known as the:",
+    "options": ["Frenulum", "Isthmus", "Corpus callosum", "Infundibulum"],
+    "correct_index": 1,
+    "explanation": "Both the lobes are interconnected with a thin flap of connective tissue called isthmus.",
+    "ncert_page": 242,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q24",
+    "chapter_id": "c19",
+    "question": "Deficiency of iodine in the diet results in hypothyroidism and enlargement of the thyroid gland, commonly called:",
+    "options": ["Cretinism", "Goitre", "Graves' disease", "Tetany"],
+    "correct_index": 1,
+    "explanation": "Deficiency of iodine in our diet results in hypothyroidism and enlargement of the thyroid gland, commonly called goitre.",
+    "ncert_page": 242,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q25",
+    "chapter_id": "c19",
+    "question": "Hypothyroidism during pregnancy can cause defective development of the baby, leading to stunted growth known as:",
+    "options": ["Dwarfism", "Cretinism", "Myxedema", "Gigantism"],
+    "correct_index": 1,
+    "explanation": "Hypothyroidism during pregnancy causes defective development and maturation of the growing baby leading to stunted growth (cretinism)...",
+    "ncert_page": 242,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q26",
+    "chapter_id": "c19",
+    "question": "Exopthalmic goitre, a form of hyperthyroidism characterised by protrusion of the eyeballs and weight loss, is also called:",
+    "options": ["Addison's disease", "Hashimoto's disease", "Graves' disease", "Cushing's syndrome"],
+    "correct_index": 2,
+    "explanation": "Exopthalmic goitre is a form of hyperthyroidism, characterised by enlargement of the thyroid gland, protrusion of the eyeballs, increased basal metabolic rate, and weight loss, also called Graves' disease.",
+    "ncert_page": 243,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q27",
+    "chapter_id": "c19",
+    "question": "Which of the following hormones secreted by the thyroid gland regulates blood calcium levels?",
+    "options": ["Triiodothyronine (T3)", "Thyroxine (T4)", "Thyrocalcitonin (TCT)", "Parathyroid hormone (PTH)"],
+    "correct_index": 2,
+    "explanation": "Thyroid gland also secretes a protein hormone called thyrocalcitonin (TCT) which regulates the blood calcium levels.",
+    "ncert_page": 243,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q28",
+    "chapter_id": "c19",
+    "question": "How many parathyroid glands are present in human beings?",
+    "options": ["Two", "Four", "Six", "Eight"],
+    "correct_index": 1,
+    "explanation": "In humans, four parathyroid glands are present on the back side of the thyroid gland...",
+    "ncert_page": 243,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q29",
+    "chapter_id": "c19",
+    "question": "Parathyroid hormone (PTH) acts on bones to stimulate the process of:",
+    "options": ["Bone mineralisation", "Bone synthesis", "Bone resorption (dissolution)", "Bone marrow production"],
+    "correct_index": 2,
+    "explanation": "PTH acts on bones and stimulates the process of bone resorption (dissolution/ demineralisation).",
+    "ncert_page": 243,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q30",
+    "chapter_id": "c19",
+    "question": "PTH increases blood Ca2+ levels, making it a:",
+    "options": ["Hypoglycemic hormone", "Hypercalcemic hormone", "Hypocalcemic hormone", "Hyperglycemic hormone"],
+    "correct_index": 1,
+    "explanation": "It is, thus, clear that PTH is a hypercalcemic hormone, i.e., it increases the blood Ca2+ levels.",
+    "ncert_page": 243,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q31",
+    "chapter_id": "c19",
+    "question": "Where is the thymus gland located in the body?",
+    "options": ["On the dorsal side of the forebrain", "Between lungs behind sternum on the ventral side of aorta", "Above each kidney", "In the scrotal sac"],
+    "correct_index": 1,
+    "explanation": "The thymus gland is a lobular structure located between lungs behind sternum on the ventral side of aorta.",
+    "ncert_page": 243,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q32",
+    "chapter_id": "c19",
+    "question": "Thymosins, secreted by the thymus gland, play a major role in providing cell-mediated immunity by promoting the differentiation of:",
+    "options": ["B-lymphocytes", "Erythrocytes", "T-lymphocytes", "Macrophages"],
+    "correct_index": 2,
+    "explanation": "Thymosins play a major role in the differentiation of T-lymphocytes, which provide cell-mediated immunity.",
+    "ncert_page": 243,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q33",
+    "chapter_id": "c19",
+    "question": "Why do the immune responses of older persons become weaker?",
+    "options": ["Increase in the production of thymosins", "Degeneration of the thymus gland in old individuals", "Overactivity of the adrenal cortex", "Hypersecretion of cortisol"],
+    "correct_index": 1,
+    "explanation": "Thymus is degenerated in old individuals resulting in a decreased production of thymosins. As a result, the immune responses of old persons become weak.",
+    "ncert_page": 243,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q34",
+    "chapter_id": "c19",
+    "question": "The adrenal gland is composed of two types of tissues. The centrally located tissue is called the:",
+    "options": ["Adrenal cortex", "Zona glomerulosa", "Adrenal medulla", "Zona fasciculata"],
+    "correct_index": 2,
+    "explanation": "The centrally located tissue is called the adrenal medulla, and outside this lies the adrenal cortex.",
+    "ncert_page": 244,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q35",
+    "chapter_id": "c19",
+    "question": "Underproduction of hormones by the adrenal cortex alters carbohydrate metabolism and causes acute weakness and fatigue, leading to a disease called:",
+    "options": ["Addison's disease", "Graves' disease", "Acromegaly", "Diabetes insipidus"],
+    "correct_index": 0,
+    "explanation": "Underproduction of hormones by the adrenal cortex alters carbohydrate metabolism causing acute weakness and fatigue leading to a disease called Addison's disease.",
+    "ncert_page": 244,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q36",
+    "chapter_id": "c19",
+    "question": "Adrenaline and noradrenaline, commonly called catecholamines, are secreted by the:",
+    "options": ["Anterior pituitary", "Adrenal cortex", "Adrenal medulla", "Thyroid gland"],
+    "correct_index": 2,
+    "explanation": "The adrenal medulla secretes two hormones called adrenaline or epinephrine and noradrenaline or norepinephrine. These are commonly called as catecholamines.",
+    "ncert_page": 244,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q37",
+    "chapter_id": "c19",
+    "question": "Which hormones are known as 'emergency hormones' or hormones of 'Fight or Flight'?",
+    "options": ["Glucocorticoids and mineralocorticoids", "Adrenaline and noradrenaline", "Insulin and glucagon", "Thyroxine and triiodothyronine"],
+    "correct_index": 1,
+    "explanation": "Adrenaline and noradrenaline are rapidly secreted in response to stress of any kind and during emergency situations and are called emergency hormones or hormones of Fight or Flight.",
+    "ncert_page": 244,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q38",
+    "chapter_id": "c19",
+    "question": "The middle layer of the adrenal cortex is called:",
+    "options": ["Zona reticularis", "Zona glomerulosa", "Zona fasciculata", "Adrenal medulla"],
+    "correct_index": 2,
+    "explanation": "The adrenal cortex can be divided into three layers, called zona reticularis (inner layer), zona fasciculata (middle layer) and zona glomerulosa (outer layer).",
+    "ncert_page": 245,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q39",
+    "chapter_id": "c19",
+    "question": "Which of the following is the main glucocorticoid secreted by the adrenal cortex in the human body?",
+    "options": ["Aldosterone", "Cortisol", "Adrenaline", "Testosterone"],
+    "correct_index": 1,
+    "explanation": "The corticoids, which are involved in carbohydrate metabolism are called glucocorticoids. In our body, cortisol is the main glucocorticoid.",
+    "ncert_page": 245,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q40",
+    "chapter_id": "c19",
+    "question": "The main mineralocorticoid in the human body that regulates the balance of water and electrolytes is:",
+    "options": ["Cortisol", "Aldosterone", "Glucagon", "Vasopressin"],
+    "correct_index": 1,
+    "explanation": "Corticoids, which regulate the balance of water and electrolytes in our body are called mineralocorticoids. Aldosterone is the main mineralocorticoid in our body.",
+    "ncert_page": 245,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q41",
+    "chapter_id": "c19",
+    "question": "Which hormone acts mainly at the renal tubules and stimulates the reabsorption of Na+ and water?",
+    "options": ["Aldosterone", "Cortisol", "Glucagon", "Insulin"],
+    "correct_index": 0,
+    "explanation": "Aldosterone acts mainly at the renal tubules and stimulates the reabsorption of Na+ and water and excretion of K+ and phosphate ions.",
+    "ncert_page": 245,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q42",
+    "chapter_id": "c19",
+    "question": "Which cells in the Islets of Langerhans secrete the hormone glucagon?",
+    "options": ["Alpha cells (\u03b1-cells)", "Beta cells (\u03b2-cells)", "Delta cells", "F cells"],
+    "correct_index": 0,
+    "explanation": "The a-cells secrete a hormone called glucagon, while the b-cells secrete insulin.",
+    "ncert_page": 245,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q43",
+    "chapter_id": "c19",
+    "question": "Glucagon is a hyperglycemic hormone because it acts on liver cells to stimulate:",
+    "options": ["Glycogenesis", "Glycogenolysis", "Cellular glucose uptake", "Protein synthesis"],
+    "correct_index": 1,
+    "explanation": "Glucagon acts mainly on the liver cells (hepatocytes) and stimulates glycogenolysis resulting in an increased blood sugar (hyperglycemia).",
+    "ncert_page": 245,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q44",
+    "chapter_id": "c19",
+    "question": "Insulin acts mainly on hepatocytes and adipocytes and enhances cellular glucose uptake, resulting in:",
+    "options": ["Hyperglycemia", "Hypoglycemia", "Gluconeogenesis", "Glycogenolysis"],
+    "correct_index": 1,
+    "explanation": "Insulin acts mainly on hepatocytes and adipocytes... As a result, there is a rapid movement of glucose from blood to hepatocytes and adipocytes resulting in decreased blood glucose levels (hypoglycemia).",
+    "ncert_page": 245,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q45",
+    "chapter_id": "c19",
+    "question": "Prolonged hyperglycemia leads to a complex disorder associated with loss of glucose through urine, known as:",
+    "options": ["Diabetes insipidus", "Addison's disease", "Diabetes mellitus", "Goitre"],
+    "correct_index": 2,
+    "explanation": "Prolonged hyperglycemia leads to a complex disorder called diabetes mellitus which is associated with loss of glucose through urine...",
+    "ncert_page": 246,
+    "difficulty": "easy",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q46",
+    "chapter_id": "c19",
+    "question": "In the testis, which cells produce the group of hormones called androgens (mainly testosterone)?",
+    "options": ["Sertoli cells", "Spermatogonia", "Leydig cells or interstitial cells", "Follicular cells"],
+    "correct_index": 2,
+    "explanation": "The Leydig cells or interstitial cells, which are present in the intertubular spaces produce a group of hormones called androgens mainly testosterone.",
+    "ncert_page": 246,
+    "difficulty": "hard",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q47",
+    "chapter_id": "c19",
+    "question": "After ovulation in females, the ruptured follicle is converted into a structure that secretes mainly progesterone. What is this structure called?",
+    "options": ["Corpus callosum", "Corpus luteum", "Corpus albicans", "Graafian follicle"],
+    "correct_index": 1,
+    "explanation": "After ovulation, the ruptured follicle is converted to a structure called corpus luteum, which secretes mainly progesterone.",
+    "ncert_page": 246,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q48",
+    "chapter_id": "c19",
+    "question": "The atrial wall of the heart secretes a peptide hormone that decreases blood pressure. Name the hormone.",
+    "options": ["Erythropoietin", "Angiotensin", "Atrial Natriuretic Factor (ANF)", "Gastrin"],
+    "correct_index": 2,
+    "explanation": "For example, the atrial wall of our heart secretes a very important peptide hormone called atrial natriuretic factor (ANF), which decreases blood pressure.",
+    "ncert_page": 247,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q49",
+    "chapter_id": "c19",
+    "question": "Which hormone produced by the juxtaglomerular cells of the kidney stimulates the formation of red blood cells (erythropoiesis)?",
+    "options": ["Erythropoietin", "Renin", "Aldosterone", "Cholecystokinin (CCK)"],
+    "correct_index": 0,
+    "explanation": "The juxtaglomerular cells of kidney produce a peptide hormone called erythropoietin which stimulates erythropoiesis (formation of RBC).",
+    "ncert_page": 247,
+    "difficulty": "medium",
+    "subject": "Biology"
+  },
+  {
+    "mcq_id": "c19_q50",
+    "chapter_id": "c19",
+    "question": "Hormones that interact with membrane-bound receptors normally do not enter the target cell, but instead generate:",
+    "options": ["Intracellular receptors", "Second messengers (e.g., cyclic AMP, IP3, Ca++)", "Steroid-receptor complexes", "Gene expression regulators directly"],
+    "correct_index": 1,
+    "explanation": "Hormones which interact with membrane-bound receptors normally do not enter the target cell, but generate second messengers (e.g., cyclic AMP, IP3, Ca++ etc) which in turn regulate cellular metabolism.",
+    "ncert_page": 248,
+    "difficulty": "hard",
+    "subject": "Biology"
+  }
+]

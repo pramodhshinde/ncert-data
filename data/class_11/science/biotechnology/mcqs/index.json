@@ -1,13 +1,21 @@
-﻿{
-    "subject":  "biotechnology",
-    "classNumber":  11,
-    "chapters":  [
-        { "id": "biotech_ch1", "title": "Introduction to Biotechnology", "file": "biotech_ch1.json", "count": 50 },
-        { "id": "biotech_ch2", "title": "Cellular Organelles", "file": "biotech_ch2.json", "count": 50 },
-        { "id": "biotech_ch3", "title": "Biomolecules", "file": "biotech_ch3.json", "count": 50 },
-        { "id": "biotech_ch4", "title": "Enzymes and Bioenergetics", "file": "biotech_ch4.json", "count": 50 },
-        { "id": "biotech_ch5", "title": "Cell Metabolism", "file": "biotech_ch5.json", "count": 50 },
-        { "id": "biotech_ch6", "title": "Genetics and Molecular Biology", "file": "biotech_ch6.json", "count": 50 }
-    ],
-    "totalChapters": 6
+{
+  "subject": "biotechnology",
+  "classNumber": 11,
+  "bookId": 1108,
+  "chapters": [
+    { "chapterNumber": 1, "chapterId": "biotech_ch1", "title": "Biotechnology: An Introduction", "fileName": "biotech_ch1.json", "questionCount": 50 },
+    { "chapterNumber": 2, "chapterId": "biotech_ch2", "title": "Biomolecules", "fileName": "biotech_ch2.json", "questionCount": 50 },
+    { "chapterNumber": 3, "chapterId": "biotech_ch3", "title": "Macromolecules", "fileName": "biotech_ch3.json", "questionCount": 50 },
+    { "chapterNumber": 4, "chapterId": "biotech_ch4", "title": "Cell: The Basic Unit of Life", "fileName": "biotech_ch4.json", "questionCount": 50 },
+    { "chapterNumber": 5, "chapterId": "biotech_ch5", "title": "Enzymes", "fileName": "biotech_ch5.json", "questionCount": 50 },
+    { "chapterNumber": 6, "chapterId": "biotech_ch6", "title": "Principles of Genetics", "fileName": "biotech_ch6.json", "questionCount": 50 },
+    { "chapterNumber": 7, "chapterId": "biotech_ch7", "title": "Genetic Material", "fileName": "biotech_ch7.json", "questionCount": 50 },
+    { "chapterNumber": 8, "chapterId": "biotech_ch8", "title": "Techniques in Molecular Biology", "fileName": "biotech_ch8.json", "questionCount": 50 },
+    { "chapterNumber": 9, "chapterId": "biotech_ch9", "title": "Recombinant DNA Technology", "fileName": "biotech_ch9.json", "questionCount": 50 },
+    { "chapterNumber": 10, "chapterId": "biotech_ch10", "title": "Microbiology", "fileName": "biotech_ch10.json", "questionCount": 50 },
+    { "chapterNumber": 11, "chapterId": "biotech_ch11", "title": "Immunology", "fileName": "biotech_ch11.json", "questionCount": 50 },
+    { "chapterNumber": 12, "chapterId": "biotech_ch12", "title": "Bioinformatics", "fileName": "biotech_ch12.json", "questionCount": 50 }
+  ],
+  "totalChapters": 12,
+  "totalQuestions": 600
 }

@@ -1,52 +1,802 @@
-{
-  "questions": [
-    {
-      "mcqId": "11_chem_ch3_q1",
-      "chapterId": "chem_ch3",
-      "question": "The elements in which the last electron enters the f-orbital are called:",
-      "options": [
-        "s-block elements",
-        "p-block elements",
-        "d-block elements",
-        "Inner-transition elements"
-      ],
-      "correctIndex": 3,
-      "explanation": "Elements where the 4f and 5f orbitals are being filled are called f-block elements or inner-transition elements.",
-      "ncertPage": 82,
-      "difficulty": "EASY",
-      "subject": "Chemistry"
-    },
-    {
-      "mcqId": "11_chem_ch3_q2",
-      "chapterId": "chem_ch3",
-      "question": "Which of the following properties generally decreases across a period from left to right?",
-      "options": [
-        "Ionization enthalpy",
-        "Electronegativity",
-        "Atomic radius",
-        "Electron gain enthalpy"
-      ],
-      "correctIndex": 2,
-      "explanation": "Atomic radius generally decreases across a period due to increase in effective nuclear charge, which pulls the electrons closer.",
-      "ncertPage": 88,
-      "difficulty": "MEDIUM",
-      "subject": "Chemistry"
-    },
-    {
-      "mcqId": "11_chem_ch3_q3",
-      "chapterId": "chem_ch3",
-      "question": "Which element has the highest negative electron gain enthalpy?",
-      "options": [
-        "Fluorine",
-        "Chlorine",
-        "Oxygen",
-        "Neon"
-      ],
-      "correctIndex": 1,
-      "explanation": "Chlorine has a higher negative electron gain enthalpy than fluorine because the small size of fluorine leads to strong inter-electronic repulsions.",
-      "ncertPage": 92,
-      "difficulty": "HARD",
-      "subject": "Chemistry"
-    }
-  ]
-}
+[
+  {
+    "mcq_id": "c3_q01",
+    "chapter_id": "c3",
+    "question": "Who made the first significant attempt to classify elements by grouping them into 'Triads'?",
+    "options": [
+      "John Newlands",
+      "Johann Dobereiner",
+      "Dmitri Mendeleev",
+      "Lothar Meyer"
+    ],
+    "correct_index": 1,
+    "explanation": "Johann Dobereiner was the first to consider the idea of trends among properties of elements and grouped them into Triads, where the middle element had an atomic weight roughly the average of the other two.",
+    "ncert_page": 74,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q02",
+    "chapter_id": "c3",
+    "question": "The 'Law of Octaves' for the classification of elements was proposed by:",
+    "options": [
+      "A.E.B. de Chancourtois",
+      "Johann Dobereiner",
+      "John Alexander Newlands",
+      "Dmitri Mendeleev"
+    ],
+    "correct_index": 2,
+    "explanation": "The English chemist John Alexander Newlands proposed the Law of Octaves in 1865, stating that every eighth element has properties similar to the first.",
+    "ncert_page": 74,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q03",
+    "chapter_id": "c3",
+    "question": "Which scientist arranged the then known elements in order of increasing atomic weights and made a cylindrical table of elements?",
+    "options": [
+      "Lothar Meyer",
+      "A.E.B. de Chancourtois",
+      "John Newlands",
+      "Henry Moseley"
+    ],
+    "correct_index": 1,
+    "explanation": "The French geologist A.E.B. de Chancourtois in 1862 arranged the elements in order of increasing atomic weights and made a cylindrical table of elements to display the periodic recurrence of properties.",
+    "ncert_page": 74,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q04",
+    "chapter_id": "c3",
+    "question": "Mendeleev's Periodic Law states that the properties of the elements are a periodic function of their:",
+    "options": [
+      "Atomic number",
+      "Atomic mass",
+      "Electronic configuration",
+      "Valency"
+    ],
+    "correct_index": 1,
+    "explanation": "Mendeleev's Periodic Law states that the properties of the elements are a periodic function of their atomic weights (masses).",
+    "ncert_page": 75,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q05",
+    "chapter_id": "c3",
+    "question": "Mendeleev left gaps in his periodic table for undiscovered elements. He named one of them 'Eka-aluminium', which was later discovered as:",
+    "options": [
+      "Germanium",
+      "Gallium",
+      "Scandium",
+      "Indium"
+    ],
+    "correct_index": 1,
+    "explanation": "Mendeleev predicted the existence of an element he called 'Eka-aluminium', which was later discovered and named Gallium.",
+    "ncert_page": 76,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q06",
+    "chapter_id": "c3",
+    "question": "The element predicted by Mendeleev as 'Eka-silicon' is known today as:",
+    "options": [
+      "Gallium",
+      "Germanium",
+      "Arsenic",
+      "Tin"
+    ],
+    "correct_index": 1,
+    "explanation": "Mendeleev predicted the properties of an undiscovered element under silicon, naming it 'Eka-silicon', which was later discovered as Germanium.",
+    "ncert_page": 76,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q07",
+    "chapter_id": "c3",
+    "question": "Who showed that the atomic number is a more fundamental property of an element than its atomic mass?",
+    "options": [
+      "Dmitri Mendeleev",
+      "J.J. Thomson",
+      "Henry Moseley",
+      "Niels Bohr"
+    ],
+    "correct_index": 2,
+    "explanation": "In 1913, the English physicist Henry Moseley observed regularities in the characteristic X-ray spectra of the elements and showed that atomic number is a more fundamental property than atomic mass.",
+    "ncert_page": 77,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q08",
+    "chapter_id": "c3",
+    "question": "The Modern Periodic Law states that the physical and chemical properties of the elements are periodic functions of their:",
+    "options": [
+      "Atomic mass",
+      "Atomic number",
+      "Number of neutrons",
+      "Atomic volume"
+    ],
+    "correct_index": 1,
+    "explanation": "The Modern Periodic Law states that the physical and chemical properties of the elements are periodic functions of their atomic numbers.",
+    "ncert_page": 77,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q09",
+    "chapter_id": "c3",
+    "question": "How many groups and periods are there in the long form of the Modern Periodic Table?",
+    "options": [
+      "7 groups and 18 periods",
+      "18 groups and 7 periods",
+      "8 groups and 7 periods",
+      "18 groups and 8 periods"
+    ],
+    "correct_index": 1,
+    "explanation": "The long form of the Periodic Table consists of 18 vertical columns called groups and 7 horizontal rows called periods.",
+    "ncert_page": 78,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q10",
+    "chapter_id": "c3",
+    "question": "In the modern periodic table, the period number corresponds to the highest:",
+    "options": [
+      "Azimuthal quantum number",
+      "Principal quantum number",
+      "Magnetic quantum number",
+      "Spin quantum number"
+    ],
+    "correct_index": 1,
+    "explanation": "Each period begins with the filling of a new principal quantum shell. Thus, the period number corresponds to the highest principal quantum number (n) of the elements in that period.",
+    "ncert_page": 78,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q11",
+    "chapter_id": "c3",
+    "question": "What is the IUPAC name for the element with atomic number 104?",
+    "options": [
+      "Unnilquadium",
+      "Ununquadium",
+      "Unnilpentium",
+      "Unnilunium"
+    ],
+    "correct_index": 0,
+    "explanation": "For Z = 104, the roots are un (1), nil (0), and quad (4). Adding '-ium' gives the name Unnilquadium.",
+    "ncert_page": 80,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q12",
+    "chapter_id": "c3",
+    "question": "What is the IUPAC symbol for the element with atomic number 115?",
+    "options": [
+      "Uup",
+      "Uuq",
+      "Unp",
+      "Uuu"
+    ],
+    "correct_index": 0,
+    "explanation": "For Z = 115, the name is Ununpentium. Its three-letter symbol is Uup.",
+    "ncert_page": 80,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q13",
+    "chapter_id": "c3",
+    "question": "The element with atomic number 118 has the IUPAC name:",
+    "options": [
+      "Ununseptium",
+      "Ununoctium",
+      "Unniloctium",
+      "Ununennium"
+    ],
+    "correct_index": 1,
+    "explanation": "For Z = 118, the roots are un (1), un (1), and oct (8). Thus, the name is Ununoctium.",
+    "ncert_page": 80,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q14",
+    "chapter_id": "c3",
+    "question": "How many elements are present in the sixth period of the periodic table?",
+    "options": [
+      "8",
+      "18",
+      "32",
+      "50"
+    ],
+    "correct_index": 2,
+    "explanation": "The sixth period (n = 6) contains 32 elements as it fills the 6s, 4f, 5d, and 6p orbitals (in that order).",
+    "ncert_page": 81,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q15",
+    "chapter_id": "c3",
+    "question": "Which of the following periods is incomplete and theoretically accommodates 32 elements?",
+    "options": [
+      "Fourth period",
+      "Fifth period",
+      "Sixth period",
+      "Seventh period"
+    ],
+    "correct_index": 3,
+    "explanation": "The seventh period (n = 7) is similar to the sixth period and would accommodate 32 elements when completely filled, involving 7s, 5f, 6d, and 7p orbitals.",
+    "ncert_page": 81,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q16",
+    "chapter_id": "c3",
+    "question": "The elements of Group 1 and Group 2 collectively constitute the:",
+    "options": [
+      "p-block",
+      "d-block",
+      "s-block",
+      "f-block"
+    ],
+    "correct_index": 2,
+    "explanation": "The elements of Group 1 (alkali metals) and Group 2 (alkaline earth metals) have their outermost electron entering the s-orbital, making them s-block elements.",
+    "ncert_page": 82,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q17",
+    "chapter_id": "c3",
+    "question": "What is the general outer electronic configuration of p-block elements?",
+    "options": [
+      "ns^1-2",
+      "ns^2 np^1-6",
+      "(n-1)d^1-10 ns^0-2",
+      "(n-2)f^1-14 ns^2"
+    ],
+    "correct_index": 1,
+    "explanation": "The p-block elements comprise those belonging to Groups 13 to 18 and have the general outer electronic configuration ns^2 np^1-6.",
+    "ncert_page": 82,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q18",
+    "chapter_id": "c3",
+    "question": "The elements of the s-block and p-block are collectively called:",
+    "options": [
+      "Transition elements",
+      "Inner transition elements",
+      "Representative elements",
+      "Noble gases"
+    ],
+    "correct_index": 2,
+    "explanation": "The s-block and p-block elements together are known as Representative elements or Main group elements.",
+    "ncert_page": 83,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q19",
+    "chapter_id": "c3",
+    "question": "What is the general outer electronic configuration of transition (d-block) elements?",
+    "options": [
+      "ns^1-2",
+      "ns^2 np^1-6",
+      "(n-1)d^1-10 ns^0-2",
+      "(n-2)f^1-14 (n-1)d^0-1 ns^2"
+    ],
+    "correct_index": 2,
+    "explanation": "The d-block elements have the general outer electronic configuration (n-1)d^1-10 ns^0-2.",
+    "ncert_page": 83,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q20",
+    "chapter_id": "c3",
+    "question": "Which block elements are known as Inner Transition Elements?",
+    "options": [
+      "s-block",
+      "p-block",
+      "d-block",
+      "f-block"
+    ],
+    "correct_index": 3,
+    "explanation": "The f-block elements, comprising the lanthanoids and actinoids, are called the Inner Transition Elements.",
+    "ncert_page": 83,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q21",
+    "chapter_id": "c3",
+    "question": "The elements after Uranium (Z = 92) are known as:",
+    "options": [
+      "Rare earth elements",
+      "Transuranium elements",
+      "Noble metals",
+      "Alkaline earth metals"
+    ],
+    "correct_index": 1,
+    "explanation": "The elements beyond uranium (atomic number 92) are man-made and are referred to as transuranium elements.",
+    "ncert_page": 83,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q22",
+    "chapter_id": "c3",
+    "question": "Which group of elements is characterized by completely filled s and p orbitals in their outermost shell?",
+    "options": [
+      "Alkali metals",
+      "Halogens",
+      "Chalcogens",
+      "Noble gases"
+    ],
+    "correct_index": 3,
+    "explanation": "Noble gases (Group 18) have completely filled s and p orbitals (ns^2 np^6), resulting in high stability and very low chemical reactivity.",
+    "ncert_page": 83,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q23",
+    "chapter_id": "c3",
+    "question": "Silicon, Germanium, Arsenic, Antimony, and Tellurium are classified as:",
+    "options": [
+      "Metals",
+      "Non-metals",
+      "Metalloids",
+      "Noble gases"
+    ],
+    "correct_index": 2,
+    "explanation": "These elements show properties of both metals and non-metals and border the zig-zag line in the p-block; they are known as metalloids or semi-metals.",
+    "ncert_page": 84,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q24",
+    "chapter_id": "c3",
+    "question": "As we move from left to right across a period, the non-metallic character:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains constant",
+      "First increases then decreases"
+    ],
+    "correct_index": 1,
+    "explanation": "Across a period from left to right, metallic character decreases while non-metallic character increases as elements gain a stronger tendency to accept electrons.",
+    "ncert_page": 84,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q25",
+    "chapter_id": "c3",
+    "question": "As we move down a group, the metallic character of elements:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains constant",
+      "First decreases then increases"
+    ],
+    "correct_index": 1,
+    "explanation": "Metallic character increases as we go down a group because the ionization enthalpy decreases, making it easier to lose electrons.",
+    "ncert_page": 84,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q26",
+    "chapter_id": "c3",
+    "question": "Which of the following is NOT a way to estimate atomic size?",
+    "options": [
+      "Covalent radius",
+      "Metallic radius",
+      "Van der Waals radius",
+      "Nuclear radius"
+    ],
+    "correct_index": 3,
+    "explanation": "Atomic size is typically estimated using covalent radius, metallic radius, or van der Waals radius depending on the element's state. Nuclear radius only estimates the size of the nucleus, not the atom.",
+    "ncert_page": 85,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q27",
+    "chapter_id": "c3",
+    "question": "What is the trend of atomic radius across a period from left to right?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains constant",
+      "It fluctuates"
+    ],
+    "correct_index": 1,
+    "explanation": "Atomic radius decreases across a period from left to right because electrons are added to the same principal shell, while the effective nuclear charge increases, pulling the electrons closer.",
+    "ncert_page": 86,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q28",
+    "chapter_id": "c3",
+    "question": "What happens to the atomic radius as we descend a group in the periodic table?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It stays the same",
+      "It becomes unpredictable"
+    ],
+    "correct_index": 1,
+    "explanation": "Atomic radius increases down a group because new principal quantum shells are added, which outweighs the increase in nuclear charge due to the shielding effect of inner electrons.",
+    "ncert_page": 86,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q29",
+    "chapter_id": "c3",
+    "question": "Which of the following is true about the size of a cation compared to its parent atom?",
+    "options": [
+      "Cation is larger than its parent atom",
+      "Cation is smaller than its parent atom",
+      "Cation is the same size as its parent atom",
+      "Cation size is completely unrelated"
+    ],
+    "correct_index": 1,
+    "explanation": "A cation is smaller than its parent atom because it has fewer electrons while the nuclear charge remains the same, resulting in greater effective nuclear pull on the remaining electrons.",
+    "ncert_page": 87,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q30",
+    "chapter_id": "c3",
+    "question": "Which of the following is true about the size of an anion compared to its parent atom?",
+    "options": [
+      "Anion is smaller than its parent atom",
+      "Anion is the same size as its parent atom",
+      "Anion is larger than its parent atom",
+      "Anion size is completely unrelated"
+    ],
+    "correct_index": 2,
+    "explanation": "An anion is larger than its parent atom because the addition of one or more electrons increases electron-electron repulsion and decreases effective nuclear charge, causing the electron cloud to expand.",
+    "ncert_page": 87,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q31",
+    "chapter_id": "c3",
+    "question": "Species containing the same number of electrons but different nuclear charges are called:",
+    "options": [
+      "Isotopes",
+      "Isobars",
+      "Isotones",
+      "Isoelectronic species"
+    ],
+    "correct_index": 3,
+    "explanation": "Atoms and ions which contain the same number of electrons are known as isoelectronic species.",
+    "ncert_page": 87,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q32",
+    "chapter_id": "c3",
+    "question": "Among the isoelectronic species O^2-, F^-, Na^+, and Mg^2+, which has the smallest ionic radius?",
+    "options": [
+      "O^2-",
+      "F^-",
+      "Na^+",
+      "Mg^2+"
+    ],
+    "correct_index": 3,
+    "explanation": "For isoelectronic species, the ionic radius decreases with an increase in nuclear charge. Mg^2+ has the highest nuclear charge (+12) among them, so it has the strongest pull on the 10 electrons and thus the smallest radius.",
+    "ncert_page": 87,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q33",
+    "chapter_id": "c3",
+    "question": "The energy required to remove an electron from an isolated gaseous atom in its ground state is termed as:",
+    "options": [
+      "Electron gain enthalpy",
+      "Electronegativity",
+      "Ionization enthalpy",
+      "Lattice enthalpy"
+    ],
+    "correct_index": 2,
+    "explanation": "Ionization enthalpy represents the energy required to remove an electron from an isolated gaseous atom in its ground state.",
+    "ncert_page": 88,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q34",
+    "chapter_id": "c3",
+    "question": "The second ionization enthalpy (IE2) is always ________ the first ionization enthalpy (IE1).",
+    "options": [
+      "Equal to",
+      "Lower than",
+      "Higher than",
+      "Double"
+    ],
+    "correct_index": 2,
+    "explanation": "The second ionization enthalpy is higher than the first because it is more difficult to remove an electron from a positively charged ion than from a neutral atom.",
+    "ncert_page": 88,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q35",
+    "chapter_id": "c3",
+    "question": "What is the general trend for first ionization enthalpy as we move across a period from left to right?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It remains constant",
+      "It fluctuates randomly"
+    ],
+    "correct_index": 1,
+    "explanation": "The first ionization enthalpy generally increases across a period because the effective nuclear charge increases, making it harder to remove an electron.",
+    "ncert_page": 88,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q36",
+    "chapter_id": "c3",
+    "question": "What is the general trend for first ionization enthalpy as we move down a group?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains constant",
+      "It fluctuates randomly"
+    ],
+    "correct_index": 1,
+    "explanation": "Ionization enthalpy generally decreases down a group due to the increase in atomic size and the shielding effect, which weakens the effective nuclear charge on the outermost electrons.",
+    "ncert_page": 88,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q37",
+    "chapter_id": "c3",
+    "question": "Why does Beryllium (Be) have a higher first ionization enthalpy than Boron (B)?",
+    "options": [
+      "Boron has a smaller size.",
+      "Beryllium has a higher nuclear charge.",
+      "The 2s electron in Be is more penetrating and harder to remove than the 2p electron in B.",
+      "Boron has half-filled orbitals."
+    ],
+    "correct_index": 2,
+    "explanation": "In Be, the electron is removed from a fully filled 2s orbital, which is more penetrating and strongly attracted to the nucleus than the 2p electron in B.",
+    "ncert_page": 89,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q38",
+    "chapter_id": "c3",
+    "question": "Why does Nitrogen (N) have a higher first ionization enthalpy than Oxygen (O)?",
+    "options": [
+      "Oxygen has a smaller size.",
+      "Nitrogen has a higher nuclear charge.",
+      "Nitrogen has a stable exactly half-filled 2p subshell configuration.",
+      "Oxygen has a stable fully-filled 2p subshell configuration."
+    ],
+    "correct_index": 2,
+    "explanation": "Nitrogen has a stable exactly half-filled 2p configuration (2s^2 2p^3), requiring more energy to remove an electron compared to Oxygen (2s^2 2p^4), where electron-electron repulsion makes removal easier.",
+    "ncert_page": 89,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q39",
+    "chapter_id": "c3",
+    "question": "The enthalpy change when an electron is added to a neutral gaseous atom to convert it into a negative ion is called:",
+    "options": [
+      "Ionization enthalpy",
+      "Electron gain enthalpy",
+      "Electronegativity",
+      "Lattice enthalpy"
+    ],
+    "correct_index": 1,
+    "explanation": "Electron gain enthalpy provides a measure of the ease with which an atom adds an electron to form an anion.",
+    "ncert_page": 89,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q40",
+    "chapter_id": "c3",
+    "question": "What kind of electron gain enthalpy do noble gases possess?",
+    "options": [
+      "Highly negative",
+      "Slightly negative",
+      "Zero",
+      "Large positive"
+    ],
+    "correct_index": 3,
+    "explanation": "Noble gases have completely filled subshells, making the addition of an electron highly unfavorable, resulting in large positive electron gain enthalpies.",
+    "ncert_page": 89,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q41",
+    "chapter_id": "c3",
+    "question": "Halogens have very high negative electron gain enthalpies because:",
+    "options": [
+      "They have large atomic radii.",
+      "They can easily attain a stable noble gas configuration by accepting one electron.",
+      "They have low effective nuclear charge.",
+      "They possess empty d-orbitals."
+    ],
+    "correct_index": 1,
+    "explanation": "Halogens (Group 17) have very high negative electron gain enthalpies because they require only one electron to attain a highly stable noble gas electronic configuration.",
+    "ncert_page": 90,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q42",
+    "chapter_id": "c3",
+    "question": "Which of the following elements has the most negative electron gain enthalpy?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correct_index": 1,
+    "explanation": "Chlorine has the most negative electron gain enthalpy. Fluorine has a less negative electron gain enthalpy than Chlorine due to strong inter-electronic repulsions in the small 2p orbital of Fluorine.",
+    "ncert_page": 90,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q43",
+    "chapter_id": "c3",
+    "question": "The ability of an atom in a chemical compound to attract shared electrons to itself is termed:",
+    "options": [
+      "Electron gain enthalpy",
+      "Electronegativity",
+      "Ionization enthalpy",
+      "Electron affinity"
+    ],
+    "correct_index": 1,
+    "explanation": "Electronegativity is defined as the qualitative measure of the ability of an atom in a chemical compound to attract shared electrons to itself.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q44",
+    "chapter_id": "c3",
+    "question": "On the Pauling scale, which element is assigned the highest electronegativity value of 4.0?",
+    "options": [
+      "Chlorine",
+      "Oxygen",
+      "Nitrogen",
+      "Fluorine"
+    ],
+    "correct_index": 3,
+    "explanation": "Fluorine is the most electronegative element and is arbitrarily assigned a value of 4.0 on the Pauling scale.",
+    "ncert_page": 90,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q45",
+    "chapter_id": "c3",
+    "question": "What is the general trend of electronegativity across a period?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It remains constant",
+      "It shows no regular trend"
+    ],
+    "correct_index": 1,
+    "explanation": "Electronegativity generally increases across a period from left to right because the atomic radius decreases and effective nuclear charge increases, enhancing the attraction for shared electrons.",
+    "ncert_page": 91,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q46",
+    "chapter_id": "c3",
+    "question": "How does electronegativity change down a group?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It remains constant",
+      "It increases then decreases"
+    ],
+    "correct_index": 0,
+    "explanation": "Electronegativity generally decreases down a group because atomic size increases, which outweighs the increase in nuclear charge, lowering the attraction for shared electrons.",
+    "ncert_page": 91,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q47",
+    "chapter_id": "c3",
+    "question": "The similarity in properties between elements in the second and third periods that are diagonally adjacent (e.g., Li and Mg) is called:",
+    "options": [
+      "Vertical relationship",
+      "Diagonal relationship",
+      "Horizontal relationship",
+      "Periodicity"
+    ],
+    "correct_index": 1,
+    "explanation": "The similarity between diagonally adjacent elements in the second and third periods (like Li-Mg, Be-Al, B-Si) is referred to as a diagonal relationship, largely due to their similar charge-to-size ratios.",
+    "ncert_page": 93,
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q48",
+    "chapter_id": "c3",
+    "question": "What is the maximum covalency typically observed for elements in the second period?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct_index": 1,
+    "explanation": "The elements of the second period have a maximum covalency of 4 (one 2s and three 2p orbitals available). Unlike third period elements, they do not possess d-orbitals to expand their valence shell.",
+    "ncert_page": 93,
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q49",
+    "chapter_id": "c3",
+    "question": "Across a period from left to right, the nature of oxides formed by elements changes from:",
+    "options": [
+      "Acidic to basic",
+      "Basic to acidic",
+      "Amphoteric to basic",
+      "Neutral to basic"
+    ],
+    "correct_index": 1,
+    "explanation": "Across a period, metallic character decreases and non-metallic character increases, causing the nature of their oxides to change from strongly basic on the left to strongly acidic on the right.",
+    "ncert_page": 94,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "mcq_id": "c3_q50",
+    "chapter_id": "c3",
+    "question": "Which of the following oxides is considered most basic?",
+    "options": [
+      "Cl2O7",
+      "Al2O3",
+      "Na2O",
+      "SO3"
+    ],
+    "correct_index": 2,
+    "explanation": "Na2O is formed by a highly metallic element on the far left of the period, making it strongly basic. Al2O3 is amphoteric, while Cl2O7 and SO3 are strongly acidic.",
+    "ncert_page": 94,
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  }
+]

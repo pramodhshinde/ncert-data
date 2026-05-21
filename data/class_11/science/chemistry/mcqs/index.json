@@ -1,8 +1,21 @@
-﻿{
-    "subject":  "chemistry",
-    "classNumber":  11,
-    "chapters":  [
-
-                 ],
-    "totalChapters":  0
+{
+  "subject": "chemistry",
+  "classNumber": 11,
+  "bookId": [1103, 1104],
+  "chapters": [
+    { "chapterNumber": 1,  "chapterId": "chem_ch1",  "title": "Some Basic Concepts of Chemistry",                          "fileName": "chem_ch1.json",  "questionCount": 50 },
+    { "chapterNumber": 2,  "chapterId": "chem_ch2",  "title": "Structure of Atom",                                          "fileName": "chem_ch2.json",  "questionCount": 50 },
+    { "chapterNumber": 3,  "chapterId": "chem_ch3",  "title": "Classification of Elements and Periodicity in Properties",   "fileName": "chem_ch3.json",  "questionCount": 10 },
+    { "chapterNumber": 4,  "chapterId": "chem_ch4",  "title": "Chemical Bonding and Molecular Structure",                   "fileName": "chem_ch4.json",  "questionCount": 50 },
+    { "chapterNumber": 5,  "chapterId": "chem_ch5",  "title": "States of Matter",                                           "fileName": "chem_ch5.json",  "questionCount": 50 },
+    { "chapterNumber": 6,  "chapterId": "chem_ch6",  "title": "Thermodynamics",                                             "fileName": "chem_ch6.json",  "questionCount": 50 },
+    { "chapterNumber": 7,  "chapterId": "chem_ch7",  "title": "Equilibrium",                                                "fileName": "chem_ch7.json",  "questionCount": 0  },
+    { "chapterNumber": 8,  "chapterId": "chem_ch8",  "title": "Redox Reactions",                                            "fileName": "chem_ch8.json",  "questionCount": 0  },
+    { "chapterNumber": 9,  "chapterId": "chem_ch10", "title": "The s-Block Elements",                                       "fileName": "chem_ch9.json", "questionCount": 0  },
+    { "chapterNumber": 10, "chapterId": "chem_ch11", "title": "The p-Block Elements",                                       "fileName": "chem_ch10.json", "questionCount": 0  },
+    { "chapterNumber": 11, "chapterId": "chem_ch12", "title": "Organic Chemistry: Some Basic Principles and Techniques",    "fileName": "chem_ch11.json", "questionCount": 0  },
+    { "chapterNumber": 12, "chapterId": "chem_ch13", "title": "Hydrocarbons",                                               "fileName": "chem_ch12.json", "questionCount": 0  }
+  ],
+  "totalChapters": 12,
+  "totalQuestions": 260
 }
