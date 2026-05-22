@@ -1,0 +1,35 @@
+{
+  "classNumber": 11,
+  "displayName": "Class 11",
+  "hasStreams": true,
+  "streams": {
+    "science": [
+      "physics",
+      "chemistry",
+      "biology",
+      "mathematics",
+      "computer_science",
+      "informatics_practices",
+      "biotechnology"
+    ],
+    "commerce": [
+      "accountancy",
+      "business_studies",
+      "economics",
+      "entrepreneurship"
+    ],
+    "arts": [
+      "history",
+      "political_science",
+      "psychology",
+      "sociology",
+      "geography",
+      "fine_arts"
+    ],
+    "common": [
+      "english",
+      "hindi",
+      "physical_education"
+    ]
+  }
+}
