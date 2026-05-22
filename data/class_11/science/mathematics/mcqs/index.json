@@ -1,8 +1,103 @@
-﻿{
-    "subject":  "mathematics",
-    "classNumber":  11,
-    "chapters":  [
-
-                 ],
-    "totalChapters":  0
+{
+  "subject": "mathematics",
+  "classNumber": 11,
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "Sets",
+      "fileName": "math_ch1.json",
+      "questionCount": 5
+    },
+    {
+      "chapterNumber": 2,
+      "title": "Relations and Functions",
+      "fileName": "math_ch2.json",
+      "questionCount": 5
+    },
+    {
+      "chapterNumber": 3,
+      "title": "Trigonometric Functions",
+      "fileName": "math_ch3.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 4,
+      "title": "Principle of Mathematical Induction",
+      "fileName": "math_ch4.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 5,
+      "title": "Complex Numbers and Quadratic Equations",
+      "fileName": "math_ch5.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 6,
+      "title": "Linear Inequalities",
+      "fileName": "math_ch6.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 7,
+      "title": "Permutations and Combinations",
+      "fileName": "math_ch7.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 8,
+      "title": "Binomial Theorem",
+      "fileName": "math_ch8.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 9,
+      "title": "Sequences and Series",
+      "fileName": "math_ch9.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 10,
+      "title": "Straight Lines",
+      "fileName": "math_ch10.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 11,
+      "title": "Conic Sections",
+      "fileName": "math_ch11.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 12,
+      "title": "Introduction to Three-Dimensional Geometry",
+      "fileName": "math_ch12.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 13,
+      "title": "Limits and Derivatives",
+      "fileName": "math_ch13.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 14,
+      "title": "Mathematical Reasoning",
+      "fileName": "math_ch14.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 15,
+      "title": "Statistics",
+      "fileName": "math_ch15.json",
+      "questionCount": 0
+    },
+    {
+      "chapterNumber": 16,
+      "title": "Probability",
+      "fileName": "math_ch16.json",
+      "questionCount": 0
+    }
+  ],
+  "totalChapters": 16
 }

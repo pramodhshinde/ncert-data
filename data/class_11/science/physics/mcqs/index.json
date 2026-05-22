@@ -1,17 +1,22 @@
 {
   "subject": "physics",
   "classNumber": 11,
-  "totalChapters": 8,
   "chapters": [
-    {
-      "chapterId": "phys_ch1",
-      "chapterNumber": 1,
-      "title": "Physical World",
-      "totalQuestions": 10,
-      "easy": 4,
-      "medium": 4,
-      "hard": 2,
-      "file": "phys_ch1.json"
-    }
-  ]
+    { "chapterNumber": 1, "title": "Physical World", "fileName": "phys_ch1.json", "questionCount": 5 },
+    { "chapterNumber": 2, "title": "Units and Measurements", "fileName": "phys_ch2.json", "questionCount": 5 },
+    { "chapterNumber": 3, "title": "Motion in a Straight Line", "fileName": "phys_ch3.json", "questionCount": 0 },
+    { "chapterNumber": 4, "title": "Motion in a Plane", "fileName": "phys_ch4.json", "questionCount": 0 },
+    { "chapterNumber": 5, "title": "Laws of Motion", "fileName": "phys_ch5.json", "questionCount": 0 },
+    { "chapterNumber": 6, "title": "Work, Energy and Power", "fileName": "phys_ch6.json", "questionCount": 0 },
+    { "chapterNumber": 7, "title": "System of Particles and Rotational Motion", "fileName": "phys_ch7.json", "questionCount": 0 },
+    { "chapterNumber": 8, "title": "Gravitation", "fileName": "phys_ch8.json", "questionCount": 0 },
+    { "chapterNumber": 9, "title": "Mechanical Properties of Solids", "fileName": "phys_ch9.json", "questionCount": 0 },
+    { "chapterNumber": 10, "title": "Mechanical Properties of Fluids", "fileName": "phys_ch10.json", "questionCount": 0 },
+    { "chapterNumber": 11, "title": "Thermal Properties of Matter", "fileName": "phys_ch11.json", "questionCount": 0 },
+    { "chapterNumber": 12, "title": "Thermodynamics", "fileName": "phys_ch12.json", "questionCount": 0 },
+    { "chapterNumber": 13, "title": "Kinetic Theory", "fileName": "phys_ch13.json", "questionCount": 0 },
+    { "chapterNumber": 14, "title": "Oscillations", "fileName": "phys_ch14.json", "questionCount": 0 },
+    { "chapterNumber": 15, "title": "Waves", "fileName": "phys_ch15.json", "questionCount": 0 }
+  ],
+  "totalChapters": 15
 }

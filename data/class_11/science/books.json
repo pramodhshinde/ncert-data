@@ -15,22 +15,11 @@
       "id": 1102,
       "title": "Physics Part II",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=15mSa9J65nNX9q9wChgUSvQPDDHqQVYb",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=15mSa9J65nNX9q9wChgUSvQPDDHqQVYbI",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Physics",
       "chapterCount": 7,
-      "parts": 2
-    },
-    {
-      "id": 1111,
-      "title": "Bhautiki Part I",
-      "subtitle": "Class 11 NCERT Textbook (Hindi)",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=15mSa9J65nNX9q9wChgUSvQPDDHqQVYb",
-      "language": "hindi",
-      "classNumber": "Class 11",
-      "subject": "Physics",
-      "chapterCount": 8,
       "parts": 2
     },
     {
@@ -48,19 +37,8 @@
       "id": 1104,
       "title": "Chemistry Part II",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=15mSa9J65nNX9q9wChgUSvQPDDHqQVYb",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kech2.jpg",
       "language": "english",
-      "classNumber": "Class 11",
-      "subject": "Chemistry",
-      "chapterCount": 7,
-      "parts": 2
-    },
-    {
-      "id": 1113,
-      "title": "Rasayan Vigyan Part I",
-      "subtitle": "Class 11 NCERT Textbook (Hindi)",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khch1.jpg",
-      "language": "hindi",
       "classNumber": "Class 11",
       "subject": "Chemistry",
       "chapterCount": 7,
@@ -72,17 +50,6 @@
       "subtitle": "Class 11 NCERT Textbook",
       "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kebo1.jpg",
       "language": "english",
-      "classNumber": "Class 11",
-      "subject": "Biology",
-      "chapterCount": 22,
-      "parts": 1
-    },
-    {
-      "id": 1115,
-      "title": "Jeev Vigyan",
-      "subtitle": "Class 11 NCERT Textbook (Hindi)",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khbo1.jpg",
-      "language": "hindi",
       "classNumber": "Class 11",
       "subject": "Biology",
       "chapterCount": 22,
@@ -111,17 +78,6 @@
       "parts": 2
     },
     {
-      "id": 1116,
-      "title": "Ganit",
-      "subtitle": "Class 11 NCERT Textbook (Hindi)",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/khmh1.jpg",
-      "language": "hindi",
-      "classNumber": "Class 11",
-      "subject": "Mathematics",
-      "chapterCount": 16,
-      "parts": 1
-    },
-    {
       "id": 1108,
       "title": "Biotechnology",
       "subtitle": "Class 11 NCERT Textbook",
@@ -130,6 +86,28 @@
       "classNumber": "Class 11",
       "subject": "Biotechnology",
       "chapterCount": 6,
+      "parts": 1
+    },
+    {
+      "id": 1109,
+      "title": "Computer Science",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kecs1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Computer Science",
+      "chapterCount": 11,
+      "parts": 1
+    },
+    {
+      "id": 1110,
+      "title": "Informatics Practices",
+      "subtitle": "Class 11 NCERT Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keip1.jpg",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Informatics Practices",
+      "chapterCount": 8,
       "parts": 1
     }
   ]
