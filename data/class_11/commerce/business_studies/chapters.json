@@ -4,12 +4,12 @@
       "id": 1123,
       "title": "Business Studies",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kebs1.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Business Studies",
       "chapterCount": 11,
-      "parts": 1
+      "parts": 1,
+      "coverUrl": ""
     }
   ],
   "chapters": [
@@ -28,10 +28,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1Dxcjx8UbDYF15XjZdAfgYKK2-wngFLjQ/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1bVW5MsBKwa_NajyFzaVJfMAHDqduwfWl/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch1.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch1.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112302,
@@ -48,10 +48,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1TjOIRSF-l1uI2oIP9HLGMd6e2vUZOqSd/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/17b1zXC98_qrlcVQfm0Ses3RDU0Rpg0Qh/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch2.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch2.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112303,
@@ -68,10 +68,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1C27gNQODNM4ML69GAGdAId-JaTVWFso-/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1-uMwXmoVVrLquC6wgsuhYDKfqapdBC9D/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch3.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch3.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112304,
@@ -88,10 +88,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1WezpkmOAzG7H0cFMWChKesV7gz4_oX8B/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1yPFCddlQbbewvo8YfD8xudWbpx0a5Azv/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch4.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch4.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112305,
@@ -108,10 +108,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1A8eiLDKwliEM-anUrSacVv6Ua42o_a7T/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1kql8F5DPct8Hr0DtdBTQG-v68XYqau8i/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch5.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch5.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112306,
@@ -128,10 +128,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/19a1GSBt3jMe3bTks-wkn_IPCoS3iwE2c/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1zSdDi6JeFOgNxf0SSBegXNWe1YOerqtd/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch6.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch6.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112307,
@@ -148,10 +148,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/11xo3f9XQ9CMCF0nkLjbtmPX2NnINsZ6w/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1TU0GcHK4U6tcXHnM4kPqIvY8xUsUxKCa/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch7.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch7.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112308,
@@ -168,10 +168,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1x8xO6WxfE-WZtTJcl4SwbkhqEXDqP3AM/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1YIroORpB4eeQfidYUOTLwUjLlSlPaPhy/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch8.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch8.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112309,
@@ -188,10 +188,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1tGs5GdMeup4zm82WDy4g9MTD7__hhP_3/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1Nmd_mP4QiB1w6tA1YvKE04eRRdMxUeA1/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch9.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch9.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112310,
@@ -208,10 +208,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1lDaZy4iTHAvjXmdCYDSB2CpZb69JVJCF/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1KdEkATgAH-qieOz_y_G0qmKXVXOCKPxc/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch10.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch10.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112311,
@@ -228,10 +228,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/110DhjtDon_GGV5Tw-UOVyVmw3VAyQHeA/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1SH2ThaTuGuPQDJeIfa161rqLTq-BoIDB/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/business_studies/ch11.pdf",
-      "mcqUrl": "class_11/commerce/business_studies/mcqs/bs_ch11.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     }
   ]
 }

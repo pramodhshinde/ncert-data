@@ -4,23 +4,23 @@
       "id": 1121,
       "title": "Financial Accounting Part 1",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keac1.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Accountancy",
       "chapterCount": 7,
-      "parts": 2
+      "parts": 2,
+      "coverUrl": ""
     },
     {
       "id": 1122,
       "title": "Financial Accounting Part 2",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/keac2.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Accountancy",
-      "chapterCount": 8,
-      "parts": 2
+      "chapterCount": 2,
+      "parts": 2,
+      "coverUrl": ""
     }
   ],
   "chapters": [
@@ -39,16 +39,16 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1zFiUBXeDox7jqopbp7TJfFg-MUmy0G8G/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/19CXQ75zPdmnKtYpsnDVDAXM4yapvjby6/view?usp=drivesdk",
-      "notesUrl": "https://drive.google.com/file/d/1YcNI-as5JpCRqM5caqFZNVk7wJNHoxKl/view?usp=drivesdk",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch1.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112102,
       "bookId": 1121,
       "chapterNumber": 2,
-      "title": "Theory Base of Accounting",
+      "title": "Theoretical Base of Accounting",
       "topicCount": 5,
       "questionCount": 50,
       "progressPercent": 0,
@@ -59,10 +59,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1hCwYvQyB9gmEWwxN4fzMHdVKv3gkLg35/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/10lntBr7UTXC2VpQHU9ksWbIZjN7wnJU4/view?usp=drivesdk",
-      "notesUrl": "https://drive.google.com/file/d/1jnm7RXZf3jP4KERUP3aDDyMK-Q5WB72O/view?usp=drivesdk",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch2.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112103,
@@ -79,10 +79,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1P5ChZLE-2dt3VhnTRIQBm3ed9_aXiH2U/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1HX633nGjj7lIL8sDipdKVeYuTPLH8LmC/view?usp=drivesdk",
-      "notesUrl": "https://drive.google.com/file/d/1jesasExjUETYhTR2Vo9-Tfx_xht2PjOf/view?usp=drivesdk",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch3.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112104,
@@ -99,10 +99,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1PNK7OzsUd9Pir9SPn4pU6BrUN9umWtvF/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1NYk0c35O4j-vg0OPbZlG4ItdGU3ClTmF/view?usp=drivesdk",
-      "notesUrl": "https://drive.google.com/file/d/1C0R7FTqOTOj6yfZSbTGrC9_PMtKHX9JM/view?usp=drivesdk",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch4.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112105,
@@ -119,10 +119,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1eGygMRDmmQX7sOL_0tnl_cy9i1RXQ7va/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1Nnjy9Ndy2YeNOaQGxr5LoiulINRUBllJ/view?usp=drivesdk",
-      "notesUrl": "https://drive.google.com/file/d/1YvzyGkNT5ZzZydFQMOsRfoZaKvnI4ya3/view?usp=drivesdk",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch5.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112106,
@@ -139,10 +139,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/19vbTHwYuKb30HZyFOCVa-l4muKX2p7Pf/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/16ekg_YWw5yC7fQFvvNdVrhFRxnXEr__m/view?usp=drivesdk",
-      "notesUrl": "https://drive.google.com/file/d/1iAXZTNZ5g--ICx0MVzO-bSRg3wn2JUer/view?usp=drivesdk",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch6.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112107,
@@ -159,10 +159,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/19R4rM5niwH0KBbeg0SgVOCBV_14hXix5/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1MkXhJBhvPezbC59UFdCYmObqBKw9V36u/view?usp=drivesdk",
-      "notesUrl": "https://drive.google.com/file/d/1bVTQIwQV4PGqfspeFvabXUb7BfLeqaw3/view?usp=drivesdk",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch7.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112201,
@@ -179,10 +179,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1cr7piezlehyf6Kn7QXH71QZ8rhQ4IJMz/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1yDyZAH-qMJe4-XT1l0zkZuKWeW5raJOM/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/accountancy/ch9.pdf",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch8.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 112202,
@@ -199,130 +199,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1_Mt003Up48aPBj12QKFixJOBU80Ui_T7/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1NP4UN1DTTN4J0bNXdl-ZOhcOkuf_9cNJ/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/accountancy/ch10.pdf",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch9.json"
-    },
-    {
-      "id": 112203,
-      "bookId": 1122,
-      "chapterNumber": 3,
-      "title": "Accounts from Incomplete Records",
-      "topicCount": 4,
-      "questionCount": 1,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 45,
-      "pageCount": 15,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/keac203.pdf",
-      "solutionsUrl": "https://drive.google.com/file/d/1sQse5vUBVPsFkytfKADQv2bGmiGE_qKK/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/accountancy/ch11.pdf",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch10.json"
-    },
-    {
-      "id": 112204,
-      "bookId": 1122,
-      "chapterNumber": 4,
-      "title": "Accounting for Not-for-Profit Organisation",
-      "topicCount": 5,
-      "questionCount": 1,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 55,
-      "pageCount": 24,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
       "pdfUrl": "",
-      "solutionsUrl": "https://drive.google.com/file/d/1110tET4llWEfgvH7B5XSs0PrQGRbvgEH/view?usp=drivesdk",
+      "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch11.json"
-    },
-    {
-      "id": 112205,
-      "bookId": 1122,
-      "chapterNumber": 5,
-      "title": "Applications of Computers in Accounting",
-      "topicCount": 3,
-      "questionCount": 1,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 35,
-      "pageCount": 12,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/keac204.pdf",
-      "solutionsUrl": "https://drive.google.com/file/d/1in5WRKxEonkznYu9f8wbFLHEervNe361/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/accountancy/ch12.pdf",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch12.json"
-    },
-    {
-      "id": 112206,
-      "bookId": 1122,
-      "chapterNumber": 6,
-      "title": "Computerised Accounting System",
-      "topicCount": 4,
-      "questionCount": 1,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 40,
-      "pageCount": 16,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/keac205.pdf",
-      "solutionsUrl": "https://drive.google.com/file/d/1Wes2eVlJGXNa31oFDCdBWH7mNYpQ0CH5/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/accountancy/ch13.pdf",
-      "mcqUrl": "class_11/commerce/accountancy/mcqs/acc_ch13.json"
-    },
-    {
-      "id": 112207,
-      "bookId": 1122,
-      "chapterNumber": 7,
-      "title": "Structuring Database for Accounting",
-      "topicCount": 5,
-      "questionCount": 15,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 50,
-      "pageCount": 20,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/keac206.pdf",
-      "solutionsUrl": "https://drive.google.com/file/d/1k3J5XrwycmIhpBA6ceqnJcyV2H9QQR1U/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/accountancy/ch14.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/commerce/accountancy/mcqs/acc_ch14.json"
-    },
-    {
-      "id": 112208,
-      "bookId": 1122,
-      "chapterNumber": 8,
-      "title": "Accounting System Using Database Management System",
-      "topicCount": 6,
-      "questionCount": 18,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 60,
-      "pageCount": 24,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/keac207.pdf",
-      "solutionsUrl": "https://drive.google.com/file/d/1lmYrS58aLaB4xgN9Og9R_AlOQ2Et8tAN/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/commerce/accountancy/ch15.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/commerce/accountancy/mcqs/acc_ch15.json"
+      "mcqUrl": ""
     }
   ]
 }

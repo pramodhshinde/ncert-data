@@ -1,0 +1,622 @@
+[
+  {
+    "mcq_id": "eco_c1_q01",
+    "chapter_id": "c1",
+    "question": "What was the primary objective of the British colonial economic policies in India?",
+    "options": [
+      "To develop the Indian economy for the benefit of Indians",
+      "To protect and promote the economic interests of Great Britain",
+      "To make India a global industrial power",
+      "To establish a balanced trade between India and Europe"
+    ],
+    "correct_index": 1,
+    "explanation": "The text states that the economic policies pursued by the colonial government in India were concerned more with the protection and promotion of the economic interests of their home country than with the development of the Indian economy.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q02",
+    "chapter_id": "c1",
+    "question": "Which industry was India particularly well-known for before the advent of British rule?",
+    "options": ["Heavy Machinery", "Information Technology", "Textile Industries", "Automobile Industry"],
+    "correct_index": 2,
+    "explanation": "India was particularly well known for its textile industries, which enjoyed a worldwide market based on the reputation of the fine quality of material and high standards of craftsmanship.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q03",
+    "chapter_id": "c1",
+    "question": "Who was among the first notable individuals to estimate India's national income during the colonial period?",
+    "options": ["Jawaharlal Nehru", "Dadabhai Naoroji", "Mahatma Gandhi", "Sardar Patel"],
+    "correct_index": 1,
+    "explanation": "Though the colonial government made no sincere attempt to estimate India’s national income, some individual attempts were made by Dadabhai Naoroji, William Digby, Findlay Shirras, V.K.R.V. Rao and R.C. Desai.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q04",
+    "chapter_id": "c1",
+    "question": "Whose estimates of national income during the colonial period were considered the most significant by experts?",
+    "options": ["Dadabhai Naoroji", "William Digby", "V.K.R.V. Rao", "Findlay Shirras"],
+    "correct_index": 2,
+    "explanation": "The text mentions that among the various estimates, those of V.K.R.V. Rao were considered very significant.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q05",
+    "chapter_id": "c1",
+    "question": "During the first half of the 20th century, the aggregate real output of the Indian economy grew at less than ________ percent.",
+    "options": ["2%", "5%", "10%", "15%"],
+    "correct_index": 0,
+    "explanation": "Most studies find that the country’s aggregate real output during the first half of the twentieth century was less than two per cent.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q06",
+    "chapter_id": "c1",
+    "question": "What percentage of India's population lived mostly in villages and derived their livelihood from agriculture at the time of independence?",
+    "options": ["50%", "70%", "85%", "95%"],
+    "correct_index": 2,
+    "explanation": "India’s economy under the British colonial rule remained fundamentally agrarian — about 85 per cent of the country’s population lived mostly in villages and derived livelihood from agriculture.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q07",
+    "chapter_id": "c1",
+    "question": "The stagnant condition of the agricultural sector was mainly due to which system of land settlement?",
+    "options": ["Ryotwari system", "Mahalwari system", "Zamindari system", "Collective farming"],
+    "correct_index": 2,
+    "explanation": "This stagnation was caused mainly because of the various systems of land settlement that were introduced by the colonial government, particularly the zamindari system.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q08",
+    "chapter_id": "c1",
+    "question": "Under the Zamindari system, the main interest of the zamindars was:",
+    "options": [
+      "To improve the condition of agriculture",
+      "To collect rent regardless of the economic condition of the cultivators",
+      "To provide fertilizers to farmers",
+      "To build irrigation canals"
+    ],
+    "correct_index": 1,
+    "explanation": "The main interest of the zamindars was only to collect rent regardless of the economic condition of the cultivators.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q09",
+    "chapter_id": "c1",
+    "question": "What was the primary reason for the 'de-industrialisation' of India by the British?",
+    "options": [
+      "To promote Indian handicrafts in Britain",
+      "To reduce India to a mere exporter of raw materials and an importer of British finished goods",
+      "To encourage the growth of heavy industries in India",
+      "To modernize Indian traditional industries"
+    ],
+    "correct_index": 1,
+    "explanation": "The primary motive was to reduce India to a mere exporter of raw materials for Britain’s modern industries and to turn India into a sprawling market for the finished products of those industries.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q10",
+    "chapter_id": "c1",
+    "question": "In which year was the Tata Iron and Steel Company (TISCO) incorporated?",
+    "options": ["1850", "1901", "1907", "1921"],
+    "correct_index": 2,
+    "explanation": "The Tata Iron and Steel Company (TISCO) was incorporated in 1907.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q11",
+    "chapter_id": "c1",
+    "question": "The cotton textile mills, which were mainly dominated by Indians, were primarily located in which part of the country?",
+    "options": [
+      "Bengal and Bihar",
+      "Maharashtra and Gujarat",
+      "Tamil Nadu and Kerala",
+      "Punjab and Haryana"
+    ],
+    "correct_index": 1,
+    "explanation": "The cotton textile mills, mainly dominated by Indians, were located in the western parts of the country, namely, Maharashtra and Gujarat.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q12",
+    "chapter_id": "c1",
+    "question": "The jute mills, which were mainly dominated by foreigners, were concentrated in:",
+    "options": ["Bombay", "Madras", "Bengal", "United Provinces"],
+    "correct_index": 2,
+    "explanation": "The jute mills dominated by foreigners were mainly concentrated in Bengal.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q13",
+    "chapter_id": "c1",
+    "question": "One of the major drawbacks of the industrial sector was the lack of which type of industry?",
+    "options": ["Handicrafts", "Capital Goods", "Service", "Textile"],
+    "correct_index": 1,
+    "explanation": "A major drawback was the lack of 'capital goods' industry which can help in further industrialisation in India.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q14",
+    "chapter_id": "c1",
+    "question": "What was the status of India's foreign trade during the colonial period regarding exports?",
+    "options": [
+      "Importer of raw materials",
+      "Exporter of finished consumer goods",
+      "Exporter of primary products like raw silk, cotton, and wool",
+      "Importer of wool and silk from the UK"
+    ],
+    "correct_index": 2,
+    "explanation": "India became an exporter of primary products such as raw silk, cotton, wool, sugar, indigo, jute etc.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q15",
+    "chapter_id": "c1",
+    "question": "The opening of which canal in 1869 intensified British control over India’s foreign trade?",
+    "options": ["Panama Canal", "Suez Canal", "Erie Canal", "Kiel Canal"],
+    "correct_index": 1,
+    "explanation": "The opening of the Suez Canal in 1869 further intensified British control over India’s foreign trade.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q16",
+    "chapter_id": "c1",
+    "question": "More than half of India's foreign trade was restricted to:",
+    "options": ["China", "Ceylon (Sri Lanka)", "Britain", "Persia (Iran)"],
+    "correct_index": 2,
+    "explanation": "Britain maintained a monopoly control over India’s exports and imports. As a result, more than half of India’s foreign trade was restricted to Britain.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q17",
+    "chapter_id": "c1",
+    "question": "The most important characteristic of India's foreign trade throughout the colonial period?",
+    "options": [
+      "Large import surplus",
+      "Generation of a large export surplus",
+      "Zero trade balance",
+      "Import of raw materials"
+    ],
+    "correct_index": 1,
+    "explanation": "The most important characteristic of India’s foreign trade throughout the colonial period was the generation of a large export surplus.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q18",
+    "chapter_id": "c1",
+    "question": "The 'export surplus' generated during the British rule was used for:",
+    "options": [
+      "Investing in Indian industries",
+      "Improving Indian agriculture",
+      "Making payments for expenses incurred by an office set up by the colonial government in Britain",
+      "Reducing taxes for Indian peasants"
+    ],
+    "correct_index": 2,
+    "explanation": "The export surplus did not result in any inflow of gold or silver into India. Rather, this was used to make payments for the expenses incurred by an office set up by the colonial government in Britain.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q19",
+    "chapter_id": "c1",
+    "question": "In which year was the first official census of India conducted?",
+    "options": ["1850", "1881", "1901", "1921"],
+    "correct_index": 1,
+    "explanation": "Details about the population of British India were first collected through a census in 1881.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q20",
+    "chapter_id": "c1",
+    "question": "Which year is described as the 'year of great divide' in India's demographic history?",
+    "options": ["1881", "1901", "1921", "1947"],
+    "correct_index": 2,
+    "explanation": "Before 1921, India was in the first stage of demographic transition. The year 1921 is regarded as the defining year, the 'year of great divide'.",
+    "ncert_page": 12,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q21",
+    "chapter_id": "c1",
+    "question": "What was the overall literacy level of India at the time of independence?",
+    "options": ["Less than 16%", "About 30%", "50%", "75%"],
+    "correct_index": 0,
+    "explanation": "The overall literacy level was less than 16 per cent.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q22",
+    "chapter_id": "c1",
+    "question": "What was the female literacy level in India around the time of independence?",
+    "options": ["7%", "16%", "25%", "2%"],
+    "correct_index": 0,
+    "explanation": "The female literacy level was at a neglected low of about seven per cent.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q23",
+    "chapter_id": "c1",
+    "question": "The 'Infant Mortality Rate' during British rule was quite alarming, at about ________ per thousand.",
+    "options": ["50", "100", "218", "400"],
+    "correct_index": 2,
+    "explanation": "The overall infant mortality rate was very high—particularly in comparison to 33 per thousand in 2017-18, it was 218 per thousand.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q24",
+    "chapter_id": "c1",
+    "question": "What was the average life expectancy in India during the colonial period?",
+    "options": ["32 years", "44 years", "55 years", "68 years"],
+    "correct_index": 1,
+    "explanation": "Life expectancy was also very low—44 years in contrast to the present 69 years (the text notes 32 years in older data/context provided in the box). Note: Text says 44 years in the main paragraph compared to present 69.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q25",
+    "chapter_id": "c1",
+    "question": "Which sector of the economy accounted for the largest share of the workforce during the colonial period?",
+    "options": ["Manufacturing", "Services", "Agriculture", "Mining"],
+    "correct_index": 2,
+    "explanation": "The agricultural sector accounted for the largest share of workforce, which usually remained at a high of 70-75 per cent.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q26",
+    "chapter_id": "c1",
+    "question": "The manufacturing and service sectors accounted for what percentage of the workforce respectively?",
+    "options": [
+      "10% and 15-20%",
+      "20% and 30%",
+      "5% and 10%",
+      "50% and 50%"
+    ],
+    "correct_index": 0,
+    "explanation": "The manufacturing and the service sectors accounted for only 10 and 15-20 per cent respectively.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q27",
+    "chapter_id": "c1",
+    "question": "The introduction of which infrastructure is considered one of the most important contributions of the British?",
+    "options": ["Dams", "Railways", "Electricity", "Telephones"],
+    "correct_index": 1,
+    "explanation": "The British introduced the railways in India in 1850 and it is considered as one of their most important contributions.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q28",
+    "chapter_id": "c1",
+    "question": "In which year did the first train run in India?",
+    "options": ["1850", "1853", "1869", "1881"],
+    "correct_index": 1,
+    "explanation": "The first railway bridge linking Bombay with Thane was built in 1853 (representing the first journey).",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q29",
+    "chapter_id": "c1",
+    "question": "What was the main purpose behind the development of roads by the colonial administration?",
+    "options": [
+      "To provide transport for the rural population",
+      "To mobilize the army and move raw materials to the nearest railway station or port",
+      "To promote tourism",
+      "To connect all villages to main cities"
+    ],
+    "correct_index": 1,
+    "explanation": "The roads that were built primarily served the interests of mobilising the army within India and drawing out raw materials from the countryside.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q30",
+    "chapter_id": "c1",
+    "question": "Which of the following was a negative effect of the railways on the Indian economy?",
+    "options": [
+      "It broke geographical barriers",
+      "It fostered commercialisation of Indian agriculture",
+      "It helped in national integration",
+      "It led to the self-sufficiency of village economies"
+    ],
+    "correct_index": 1,
+    "explanation": "While it broke barriers, the commercialisation of Indian agriculture adversely affected the self-sufficiency of the village economies in India.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q31",
+    "chapter_id": "c1",
+    "question": "The introduction of the expensive system of ________ was used to maintain law and order.",
+    "options": ["Inland waterways", "Electric telegraph", "Postal services", "Public works department"],
+    "correct_index": 1,
+    "explanation": "The introduction of the expensive system of electric telegraph in India served the purpose of maintaining law and order.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q32",
+    "chapter_id": "c1",
+    "question": "By the time India won its independence, the impact of the two-century long British rule was already showing in all sectors. This state is described as:",
+    "options": ["Developed", "Stagnant and lopsided", "Prosperous", "Self-sufficient"],
+    "correct_index": 1,
+    "explanation": "The text concludes that the agricultural sector was saddled with surplus labour and low productivity, and the industrial sector needed modernisation and diversification. The economy was stagnant.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q33",
+    "chapter_id": "c1",
+    "question": "What does 'Muslin' refer to in the text?",
+    "options": [
+      "A type of silk",
+      "A type of cotton textile of Bengal origin",
+      "A variety of jute",
+      "A handmade carpet"
+    ],
+    "correct_index": 1,
+    "explanation": "Muslin is a type of cotton textile which had its origin in Bengal, particularly Dacca.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q34",
+    "chapter_id": "c1",
+    "question": "The finest variety of muslin was called:",
+    "options": ["Kora", "Malmal", "Khadi", "Chanderi"],
+    "correct_index": 1,
+    "explanation": "The finest variety of muslin was called malmal.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q35",
+    "chapter_id": "c1",
+    "question": "Commercialisation of agriculture led to the production of ________ crops instead of food crops.",
+    "options": ["Cereal", "Cash", "Vegetable", "Fruit"],
+    "correct_index": 1,
+    "explanation": "There was some progress in terms of the yield of cash crops, but this did nothing to help farmers.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q36",
+    "chapter_id": "c1",
+    "question": "Why did the 'export surplus' lead to a drain of Indian wealth?",
+    "options": [
+      "Indians bought too many foreign goods",
+      "Gold and silver flowed out of India to pay for British administrative and war expenses",
+      "Surplus was destroyed in fires",
+      "Foreigners stole the grains"
+    ],
+    "correct_index": 1,
+    "explanation": "The surplus was used to pay for expenses of an office in London, war expenses, and import of invisible services, leading to a drain of wealth.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q37",
+    "chapter_id": "c1",
+    "question": "Which of the following was NOT an individual who estimated India's per capita income during British rule?",
+    "options": ["William Digby", "Findlay Shirras", "V.K.R.V. Rao", "Amartya Sen"],
+    "correct_index": 3,
+    "explanation": "The text lists Naoroji, Digby, Shirras, Rao, and Desai. Amartya Sen is mentioned in the references for later work.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q38",
+    "chapter_id": "c1",
+    "question": "The partition of the country created a shortage of raw materials for which industry?",
+    "options": ["Cotton", "Jute", "Sugar", "Both Cotton and Jute"],
+    "correct_index": 3,
+    "explanation": "The text notes that the jute industry and cotton industry were particularly hard hit by the partition (e.g., jute mills remained in India while fertile areas went to East Pakistan).",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q39",
+    "chapter_id": "c1",
+    "question": "What was the role of the public sector in the industrial sector during British rule?",
+    "options": [
+      "It was the leader of industrial growth",
+      "Its area of operation remained very limited (Railways, Ports, etc.)",
+      "It developed heavy machinery",
+      "It competed with British private industries"
+    ],
+    "correct_index": 1,
+    "explanation": "The area of operation of the public sector remained very limited, confined only to the railways, power generation, communications, and ports.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q40",
+    "chapter_id": "c1",
+    "question": "The decline of the indigenous handicraft industries created which problem in India?",
+    "options": ["Over-employment", "Massive unemployment and a new demand in the consumer market", "Increased exports", "Lowering of food prices"],
+    "correct_index": 1,
+    "explanation": "The decline of handicrafts created massive unemployment and a new demand which was profitably met by increasing imports of cheap manufactured goods from Britain.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q41",
+    "chapter_id": "c1",
+    "question": "In the Zamindari system, if the zamindars failed to deposit fixed sums of revenue to the government on specified dates, what would happen?",
+    "options": [
+      "They would get a loan",
+      "They would lose their rights",
+      "The farmers would be arrested",
+      "The sum was waived"
+    ],
+    "correct_index": 1,
+    "explanation": "The revenue settlement terms were very rigid; failing to deposit sums on fixed dates meant the zamindars would lose their rights.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q42",
+    "chapter_id": "c1",
+    "question": "The 'stagnation' in agriculture was also caused by a lack of:",
+    "options": ["Irrigation and fertilizers", "Sunlight", "Labour", "Land area"],
+    "correct_index": 0,
+    "explanation": "Low levels of technology, lack of irrigation facilities and negligible use of fertilisers all added up to the dismal level of agricultural productivity.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q43",
+    "chapter_id": "c1",
+    "question": "Which of these crops was a major export from India during colonial times?",
+    "options": ["Wheat", "Indigo", "Apples", "Potatoes"],
+    "correct_index": 1,
+    "explanation": "India became an exporter of primary products such as raw silk, cotton, wool, sugar, indigo etc.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q44",
+    "chapter_id": "c1",
+    "question": "According to the census of 1881, the growth of population was described as:",
+    "options": ["Very fast", "Uneven", "Zero", "Declining"],
+    "correct_index": 1,
+    "explanation": "Though suffering from certain limitations, the census revealed very unevenness in India’s population growth.",
+    "ncert_page": 12,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q45",
+    "chapter_id": "c1",
+    "question": "Poor health facilities made the population highly vulnerable to:",
+    "options": ["Accidents", "Water and air-borne diseases", "Obesity", "Old age only"],
+    "correct_index": 1,
+    "explanation": "Public health facilities were largely unavailable... and water and air-borne diseases were widespread.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q46",
+    "chapter_id": "c1",
+    "question": "Regional variation in occupational structure saw a decrease in agricultural dependence in which areas?",
+    "options": ["Madras Presidency, Bombay and Bengal", "Orissa and Rajasthan", "Punjab", "Bihar"],
+    "correct_index": 0,
+    "explanation": "Parts of Madras Presidency, Bombay and Bengal witnessed a decline in the dependence of the workforce on the agricultural sector with a commensurate increase in the manufacturing and services sectors.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q47",
+    "chapter_id": "c1",
+    "question": "Which state showed a significant increase in the share of workforce in agriculture during the colonial period?",
+    "options": ["Maharashtra", "Orissa and Rajasthan", "Gujarat", "West Bengal"],
+    "correct_index": 1,
+    "explanation": "There had been an increase in the share of workforce in agriculture in states such as Orissa, Rajasthan and Punjab.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q48",
+    "chapter_id": "c1",
+    "question": "What was the impact of the Suez Canal on transport costs between Britain and India?",
+    "options": ["It increased costs", "It reduced costs and time", "It had no effect", "It made transport impossible"],
+    "correct_index": 1,
+    "explanation": "The Suez Canal provided a direct route for ships... and reduced the cost of transportation.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q49",
+    "chapter_id": "c1",
+    "question": "During colonial rule, the 'drain of Indian wealth' primarily benefited:",
+    "options": ["Indian farmers", "Indian industrialists", "The British economy", "The global economy equally"],
+    "correct_index": 2,
+    "explanation": "The wealth was used to meet Britain's administrative and military needs, directly benefiting the British economy at the cost of India.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c1_q50",
+    "chapter_id": "c1",
+    "question": "Overall, the Indian economy at independence was characterized as:",
+    "options": ["Vibrant", "Underdeveloped and stagnant", "Industrialized", "Modern"],
+    "correct_index": 1,
+    "explanation": "The summary mentions the economy was stagnant with low productivity and needed massive investment and reform.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Economics"
+  }
+]
