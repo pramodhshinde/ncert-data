@@ -290,7 +290,7 @@
   {
     "mcq_id": "c2_q19",
     "chapter_id": "c2",
-    "question": "Convert the binary number $(1101)_2$ into its equivalent decimal representation.",
+    "question": "Convert the binary number (1101)2 into its equivalent decimal representation.",
     "options": [
       "11",
       "12",
@@ -298,7 +298,7 @@
       "15"
     ],
     "correct_index": 2,
-    "explanation": "$1 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 8 + 4 + 0 + 1 = 13$.",
+    "explanation": "1x2^3 + 1x2^2 + 0x2^1 + 1x2^0 = 8 + 4 + 0 + 1 = 13.",
     "ncert_page": 1,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -306,7 +306,7 @@
   {
     "mcq_id": "c2_q20",
     "chapter_id": "c2",
-    "question": "What is the decimal equivalent of the octal number $(145)_8$?",
+    "question": "What is the decimal equivalent of the octal number (145)8?",
     "options": [
       "101",
       "125",
@@ -314,7 +314,7 @@
       "201"
     ],
     "correct_index": 0,
-    "explanation": "$1 \times 8^2 + 4 \times 8^1 + 5 \times 8^0 = 64 + 32 + 5 = 101$.",
+    "explanation": "1x8^2 + 4x8^1 + 5x8^0 = 64 + 32 + 5 = 101.",
     "ncert_page": 18,
     "difficulty": "hard",
     "subject": "Computer Science"
@@ -322,7 +322,7 @@
   {
     "mcq_id": "c2_q21",
     "chapter_id": "c2",
-    "question": "What is the decimal value of the hexadecimal number $(4A2)_{16}$?",
+    "question": "What is the decimal value of the hexadecimal number (4A2)16?",
     "options": [
       "1186",
       "1074",
@@ -330,7 +330,7 @@
       "1162"
     ],
     "correct_index": 1,
-    "explanation": "$4 \times 16^2 + 10 \times 16^1 + 2 \times 16^0 = 1024 + 160 + 2 = 1074$.",
+    "explanation": "4x16^2 + 10x16^1 + 2x16^0 = 1024 + 160 + 2 = 1074.",
     "ncert_page": 18,
     "difficulty": "hard",
     "subject": "Computer Science"
@@ -338,7 +338,7 @@
   {
     "mcq_id": "c2_q22",
     "chapter_id": "c2",
-    "question": "To convert a integer decimal number directly into an alternative positional number system, what mathematical approach is continuously applied?",
+    "question": "To convert an integer decimal number directly into an alternative positional number system, what mathematical approach is continuously applied?",
     "options": [
       "Repeated multiplication by the target base",
       "Repeated division by the target base",
@@ -362,7 +362,7 @@
       "8 bits"
     ],
     "correct_index": 1,
-    "explanation": "Because $2^3 = 8$, exactly three binary digits are needed to represent any given octal digit.",
+    "explanation": "Because 2^3 = 8, exactly three binary digits are needed to represent any given octal digit.",
     "ncert_page": 1,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -378,7 +378,7 @@
       "16 bits"
     ],
     "correct_index": 1,
-    "explanation": "Since $2^4 = 16$, a 4-bit binary combination uniquely represents any single hexadecimal literal.",
+    "explanation": "Since 2^4 = 16, a 4-bit binary combination uniquely represents any single hexadecimal literal.",
     "ncert_page": 1,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -386,7 +386,7 @@
   {
     "mcq_id": "c2_q25",
     "chapter_id": "c2",
-    "question": "What is the binary representation of the octal number $(2306)_8$?",
+    "question": "What is the binary representation of the octal number (2306)8?",
     "options": [
       "010011000110",
       "010011100110",
@@ -394,7 +394,7 @@
       "011010000110"
     ],
     "correct_index": 0,
-    "explanation": "Converting each digit individually to 3-bit binary: 2 $\\rightarrow$ 010, 3 $\\rightarrow$ 011, 0 $\\rightarrow$ 000, 6 $\\rightarrow$ 110. Concatenation results in 010011000110.",
+    "explanation": "Converting each digit to 3-bit binary: 2->010, 3->011, 0->000, 6->110. Concatenation gives 010011000110.",
     "ncert_page": 18,
     "difficulty": "hard",
     "subject": "Computer Science"
@@ -402,7 +402,7 @@
   {
     "mcq_id": "c2_q26",
     "chapter_id": "c2",
-    "question": "When group partitioning binary bits to match hexadecimal layouts, what direction should the bits be grouped from for the integer portion?",
+    "question": "When group partitioning binary bits to match hexadecimal layouts, what direction should bits be grouped from for the integer portion?",
     "options": [
       "From left to right",
       "From right to left",
@@ -413,6 +413,390 @@
     "explanation": "For the integer part of a binary string, bits are grouped into clusters of four starting from the right (least significant bit) towards the left.",
     "ncert_page": 1,
     "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q27",
+    "chapter_id": "c2",
+    "question": "If a binary segment falls short of completing a full group of 4 bits on the far-left of an integer, what action is taken?",
+    "options": [
+      "The conversion fails with an error",
+      "Pad with required leading zeros on the left",
+      "Pad with trailing zeros on the right",
+      "Truncate the incomplete bit fragments"
+    ],
+    "correct_index": 1,
+    "explanation": "Leading zeros are added to the leftmost group of an integer if it does not contain exactly four bits.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q28",
+    "chapter_id": "c2",
+    "question": "What is the hexadecimal equivalent of the binary number (11010110)2?",
+    "options": [
+      "C6",
+      "D6",
+      "E6",
+      "B6"
+    ],
+    "correct_index": 1,
+    "explanation": "Group into 4-bit sets: 1101 = D and 0110 = 6, giving hexadecimal D6.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q29",
+    "chapter_id": "c2",
+    "question": "The process of converting a fractional decimal number to binary uses which repeated operation?",
+    "options": [
+      "Repeated division by 2",
+      "Repeated multiplication by 2",
+      "Repeated subtraction of 0.5",
+      "Repeated addition of binary fractions"
+    ],
+    "correct_index": 1,
+    "explanation": "Fractional decimal to binary conversion uses repeated multiplication by 2, collecting the integer parts of each product.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q30",
+    "chapter_id": "c2",
+    "question": "What is the binary representation of the decimal fraction 0.625?",
+    "options": [
+      "0.101",
+      "0.110",
+      "0.011",
+      "0.111"
+    ],
+    "correct_index": 0,
+    "explanation": "0.625 x 2 = 1.25 (bit 1), 0.25 x 2 = 0.5 (bit 0), 0.5 x 2 = 1.0 (bit 1). Result is 0.101.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q31",
+    "chapter_id": "c2",
+    "question": "Which of the following best describes a nibble in computing?",
+    "options": [
+      "8 bits",
+      "4 bits",
+      "16 bits",
+      "2 bits"
+    ],
+    "correct_index": 1,
+    "explanation": "A nibble consists of 4 bits, which is exactly half a byte and can represent one hexadecimal digit.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q32",
+    "chapter_id": "c2",
+    "question": "How many bytes make up one Kilobyte (KB) in computing?",
+    "options": [
+      "100",
+      "1000",
+      "1024",
+      "2048"
+    ],
+    "correct_index": 2,
+    "explanation": "In computing, 1 Kilobyte equals 1024 bytes (2^10 bytes), not the decimal 1000.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q33",
+    "chapter_id": "c2",
+    "question": "The addition of binary numbers 1011 and 0110 gives:",
+    "options": [
+      "10001",
+      "10010",
+      "10011",
+      "11001"
+    ],
+    "correct_index": 0,
+    "explanation": "Binary addition: 1011 + 0110 = 10001. Adding column by column with carries gives 10001.",
+    "ncert_page": 20,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q34",
+    "chapter_id": "c2",
+    "question": "The 1's complement of the binary number 10110 is:",
+    "options": [
+      "01001",
+      "01010",
+      "10001",
+      "11001"
+    ],
+    "correct_index": 0,
+    "explanation": "1's complement is obtained by inverting all bits. 10110 becomes 01001.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q35",
+    "chapter_id": "c2",
+    "question": "The 2's complement of a binary number is obtained by:",
+    "options": [
+      "Inverting all bits only",
+      "Adding 1 to the 1's complement",
+      "Subtracting 1 from the 1's complement",
+      "Shifting all bits one position left"
+    ],
+    "correct_index": 1,
+    "explanation": "2's complement is formed by first obtaining the 1's complement (invert all bits) and then adding 1 to the result.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q36",
+    "chapter_id": "c2",
+    "question": "What is the octal equivalent of the decimal number 255?",
+    "options": [
+      "373",
+      "377",
+      "357",
+      "371"
+    ],
+    "correct_index": 1,
+    "explanation": "255 divided repeatedly by 8: 255 / 8 = 31 rem 7, 31 / 8 = 3 rem 7, 3 / 8 = 0 rem 3. Reading remainders in reverse: 377.",
+    "ncert_page": 18,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q37",
+    "chapter_id": "c2",
+    "question": "What is the hexadecimal equivalent of decimal 255?",
+    "options": [
+      "EF",
+      "FF",
+      "FE",
+      "F0"
+    ],
+    "correct_index": 1,
+    "explanation": "255 = 15 x 16 + 15 = FF in hexadecimal, where F represents the decimal value 15.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q38",
+    "chapter_id": "c2",
+    "question": "Unicode standard UTF-16 uses how many bytes per character (for the Basic Multilingual Plane)?",
+    "options": [
+      "1 byte",
+      "2 bytes",
+      "3 bytes",
+      "4 bytes"
+    ],
+    "correct_index": 1,
+    "explanation": "UTF-16 uses 2 bytes (16 bits) for characters in the Basic Multilingual Plane, and 4 bytes for supplementary characters.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q39",
+    "chapter_id": "c2",
+    "question": "Which of the following is the correct hexadecimal representation of the binary number (10111100)2?",
+    "options": [
+      "AB",
+      "BA",
+      "BC",
+      "CB"
+    ],
+    "correct_index": 2,
+    "explanation": "Split into nibbles: 1011 = B (11 decimal) and 1100 = C (12 decimal), giving hexadecimal BC.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q40",
+    "chapter_id": "c2",
+    "question": "The decimal number system has a base of:",
+    "options": [
+      "2",
+      "8",
+      "10",
+      "16"
+    ],
+    "correct_index": 2,
+    "explanation": "The decimal number system uses ten distinct digits (0-9) and operates on a base of 10.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q41",
+    "chapter_id": "c2",
+    "question": "To convert an octal number directly to hexadecimal, what intermediate step is typically used?",
+    "options": [
+      "Convert octal to decimal first",
+      "Convert octal to binary first, then binary to hexadecimal",
+      "Add 8 to each octal digit",
+      "Multiply each digit by 16/8"
+    ],
+    "correct_index": 1,
+    "explanation": "The standard method is to first convert octal to binary (each octal digit = 3 bits), then regroup into 4-bit groups for hexadecimal.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q42",
+    "chapter_id": "c2",
+    "question": "What does the term 'bit' stand for in computing?",
+    "options": [
+      "Binary Information Transfer",
+      "Binary Digit",
+      "Byte Integer Type",
+      "Basic Integrated Token"
+    ],
+    "correct_index": 1,
+    "explanation": "The word 'bit' is a contraction of 'binary digit' and is the smallest unit of data in computing, taking value 0 or 1.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q43",
+    "chapter_id": "c2",
+    "question": "In the ASCII table, the decimal codes for digits '0' through '9' start from:",
+    "options": [
+      "0",
+      "32",
+      "48",
+      "64"
+    ],
+    "correct_index": 2,
+    "explanation": "In ASCII, the character '0' is encoded as decimal 48, '1' as 49, and so on up to '9' as 57.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q44",
+    "chapter_id": "c2",
+    "question": "The lowercase letter 'a' in ASCII has the decimal value:",
+    "options": [
+      "65",
+      "90",
+      "97",
+      "122"
+    ],
+    "correct_index": 2,
+    "explanation": "In ASCII, lowercase 'a' has decimal value 97, which is 32 more than uppercase 'A' (65).",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q45",
+    "chapter_id": "c2",
+    "question": "Which number system is most commonly used in computer memory addressing due to its compact representation of binary?",
+    "options": [
+      "Decimal",
+      "Octal",
+      "Hexadecimal",
+      "Binary"
+    ],
+    "correct_index": 2,
+    "explanation": "Hexadecimal is preferred for memory addressing because one hex digit represents exactly 4 bits, making binary values much more compact.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q46",
+    "chapter_id": "c2",
+    "question": "How many characters can UTF-32 potentially represent?",
+    "options": [
+      "128",
+      "65,536",
+      "Over 1 million",
+      "Exactly 1,114,112"
+    ],
+    "correct_index": 3,
+    "explanation": "Unicode defines 1,114,112 code points (U+0000 to U+10FFFF). UTF-32 can represent all of them using 4 bytes per character.",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q47",
+    "chapter_id": "c2",
+    "question": "What is the octal equivalent of the binary number (110101)2?",
+    "options": [
+      "53",
+      "63",
+      "65",
+      "55"
+    ],
+    "correct_index": 2,
+    "explanation": "Group from right into 3-bit groups: 110 = 6 and 101 = 5. So the octal equivalent is 65.",
+    "ncert_page": 18,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q48",
+    "chapter_id": "c2",
+    "question": "The positional value of a digit in a number system depends on its:",
+    "options": [
+      "Absolute value only",
+      "Position and the base of the number system",
+      "Color code representation",
+      "Relationship to decimal value alone"
+    ],
+    "correct_index": 1,
+    "explanation": "In a positional number system, the value of a digit is determined by its position and the base (radix) of the system.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q49",
+    "chapter_id": "c2",
+    "question": "The Most Significant Bit (MSB) in a binary number is located at:",
+    "options": [
+      "The rightmost position",
+      "The leftmost position",
+      "The middle of the number",
+      "Any position with value 1"
+    ],
+    "correct_index": 1,
+    "explanation": "The Most Significant Bit (MSB) is always at the leftmost position of a binary number and carries the highest place value.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c2_q50",
+    "chapter_id": "c2",
+    "question": "When performing binary subtraction using 2's complement method, we essentially:",
+    "options": [
+      "Divide the subtrahend by 2 and subtract",
+      "Add the 2's complement of the subtrahend to the minuend",
+      "Shift the minuend right by the subtrahend value",
+      "XOR both numbers and count the bits"
+    ],
+    "correct_index": 1,
+    "explanation": "Binary subtraction using 2's complement converts subtraction to addition: we add the 2's complement of the subtrahend to the minuend.",
+    "ncert_page": 20,
+    "difficulty": "hard",
     "subject": "Computer Science"
   }
 ]

@@ -3,12 +3,7 @@
     "mcq_id": "cs_c1_q01",
     "chapter_id": "c1",
     "question": "What is the primary function of a computer as an electronic device?",
-    "options": [
-      "To store data only",
-      "To accept data, process it, and generate results",
-      "To replace human intelligence",
-      "To connect to the internet only"
-    ],
+    "options": ["To store data only", "To accept data, process it, and generate results", "To replace human intelligence", "To connect to the internet only"],
     "correct_index": 1,
     "explanation": "A computer is an electronic device that can be programmed to accept data (input), process it, and generate results (output).",
     "ncert_page": 1,
@@ -19,12 +14,7 @@
     "mcq_id": "cs_c1_q02",
     "chapter_id": "c1",
     "question": "Which component is usually referred to as the 'brain' of the computer?",
-    "options": [
-      "RAM",
-      "Hard Disk",
-      "Central Processing Unit (CPU)",
-      "Monitor"
-    ],
+    "options": ["RAM", "Hard Disk", "Central Processing Unit (CPU)", "Monitor"],
     "correct_index": 2,
     "explanation": "The Central Processing Unit (CPU) is the electronic circuitry that carries out actual processing and is usually referred to as the brain of the computer.",
     "ncert_page": 2,
@@ -35,12 +25,7 @@
     "mcq_id": "cs_c1_q03",
     "chapter_id": "c1",
     "question": "What are the two main components of the CPU?",
-    "options": [
-      "RAM and ROM",
-      "Input and Output devices",
-      "Control Unit (CU) and Arithmetic Logic Unit (ALU)",
-      "Hard Disk and SSD"
-    ],
+    "options": ["RAM and ROM", "Input and Output devices", "Control Unit (CU) and Arithmetic Logic Unit (ALU)", "Hard Disk and SSD"],
     "correct_index": 2,
     "explanation": "The CPU comprises the Control Unit (CU) and the Arithmetic Logic Unit (ALU).",
     "ncert_page": 2,
@@ -51,12 +36,7 @@
     "mcq_id": "cs_c1_q04",
     "chapter_id": "c1",
     "question": "Which unit of the CPU performs logical operations like AND, OR, and NOT?",
-    "options": [
-      "Control Unit",
-      "Arithmetic Logic Unit (ALU)",
-      "Memory Unit",
-      "Storage Unit"
-    ],
+    "options": ["Control Unit", "Arithmetic Logic Unit (ALU)", "Memory Unit", "Storage Unit"],
     "correct_index": 1,
     "explanation": "The ALU performs all the arithmetic and logical operations that need to be done as per the instruction in a program.",
     "ncert_page": 2,
@@ -67,12 +47,7 @@
     "mcq_id": "cs_c1_q05",
     "chapter_id": "c1",
     "question": "Who proposed the 'von Neumann architecture', which is the basis for modern digital computers?",
-    "options": [
-      "Alan Turing",
-      "John von Neumann",
-      "Charles Babbage",
-      "Blaise Pascal"
-    ],
+    "options": ["Alan Turing", "John von Neumann", "Charles Babbage", "Blaise Pascal"],
     "correct_index": 1,
     "explanation": "John von Neumann introduced the 'Stored Program Concept' where both data and programs are stored in the same memory.",
     "ncert_page": 4,
@@ -83,12 +58,7 @@
     "mcq_id": "cs_c1_q06",
     "chapter_id": "c1",
     "question": "Which of the following is the smallest unit of digital data?",
-    "options": [
-      "Byte",
-      "Nibble",
-      "Bit",
-      "Kilobyte"
-    ],
+    "options": ["Byte", "Nibble", "Bit", "Kilobyte"],
     "correct_index": 2,
     "explanation": "A bit is the smallest unit of data in a computer, representing either a 0 or a 1.",
     "ncert_page": 5,
@@ -99,12 +69,7 @@
     "mcq_id": "cs_c1_q07",
     "chapter_id": "c1",
     "question": "How many bits make up one Byte?",
-    "options": [
-      "4 bits",
-      "8 bits",
-      "16 bits",
-      "1024 bits"
-    ],
+    "options": ["4 bits", "8 bits", "16 bits", "1024 bits"],
     "correct_index": 1,
     "explanation": "A group of 8 bits is called a byte.",
     "ncert_page": 5,
@@ -115,12 +80,7 @@
     "mcq_id": "cs_c1_q08",
     "chapter_id": "c1",
     "question": "Which type of memory is volatile, meaning data is lost when power is turned off?",
-    "options": [
-      "ROM",
-      "Hard Disk",
-      "RAM",
-      "Flash Memory"
-    ],
+    "options": ["ROM", "Hard Disk", "RAM", "Flash Memory"],
     "correct_index": 2,
     "explanation": "RAM (Random Access Memory) is volatile as long as the power is supplied; data is lost when it is switched off.",
     "ncert_page": 6,
@@ -131,12 +91,7 @@
     "mcq_id": "cs_c1_q09",
     "chapter_id": "c1",
     "question": "Which memory stores the basic input/output system (BIOS)?",
-    "options": [
-      "RAM",
-      "ROM",
-      "Cache",
-      "Secondary Memory"
-    ],
+    "options": ["RAM", "ROM", "Cache", "Secondary Memory"],
     "correct_index": 1,
     "explanation": "ROM (Read Only Memory) is non-volatile and used for storing small programs that start the computer, like BIOS.",
     "ncert_page": 7,
@@ -147,12 +102,7 @@
     "mcq_id": "cs_c1_q10",
     "chapter_id": "c1",
     "question": "What is the purpose of 'Cache Memory'?",
-    "options": [
-      "To store large files permanently",
-      "To speed up the CPU by storing frequently used data",
-      "To provide backup for the hard disk",
-      "To manage input devices"
-    ],
+    "options": ["To store large files permanently", "To speed up the CPU by storing frequently used data", "To provide backup for the hard disk", "To manage input devices"],
     "correct_index": 1,
     "explanation": "Cache memory is a high-speed memory placed between the CPU and RAM to speed up the CPU's operation.",
     "ncert_page": 7,
@@ -163,12 +113,7 @@
     "mcq_id": "cs_c1_q11",
     "chapter_id": "c1",
     "question": "Which secondary storage device uses electronic circuits and has no moving parts?",
-    "options": [
-      "Hard Disk Drive (HDD)",
-      "Solid State Drive (SSD)",
-      "CD-ROM",
-      "DVD"
-    ],
+    "options": ["Hard Disk Drive (HDD)", "Solid State Drive (SSD)", "CD-ROM", "DVD"],
     "correct_index": 1,
     "explanation": "SSD is a secondary storage device based on electronic circuits and has no moving parts.",
     "ncert_page": 8,
@@ -179,12 +124,7 @@
     "mcq_id": "cs_c1_q12",
     "chapter_id": "c1",
     "question": "What is the full form of USB?",
-    "options": [
-      "Universal Serial Bus",
-      "United Service Block",
-      "Universal Secondary Backup",
-      "Unit Serial Binary"
-    ],
+    "options": ["Universal Serial Bus", "United Service Block", "Universal Secondary Backup", "Unit Serial Binary"],
     "correct_index": 0,
     "explanation": "USB stands for Universal Serial Bus.",
     "ncert_page": 8,
@@ -195,12 +135,7 @@
     "mcq_id": "cs_c1_q13",
     "chapter_id": "c1",
     "question": "Which of the following is categorized as 'System Software'?",
-    "options": [
-      "Web Browser",
-      "Operating System",
-      "Word Processor",
-      "Media Player"
-    ],
+    "options": ["Web Browser", "Operating System", "Word Processor", "Media Player"],
     "correct_index": 1,
     "explanation": "Software that provides basic functionality to the computer and controls hardware is system software, e.g., the Operating System.",
     "ncert_page": 9,
@@ -211,12 +146,7 @@
     "mcq_id": "cs_c1_q14",
     "chapter_id": "c1",
     "question": "What is the role of an 'Interpreter' in programming?",
-    "options": [
-      "To translate the entire program at once",
-      "To execute a program line by line",
-      "To design the user interface",
-      "To store data in a database"
-    ],
+    "options": ["To translate the entire program at once", "To execute a program line by line", "To design the user interface", "To store data in a database"],
     "correct_index": 1,
     "explanation": "An interpreter translates source code into machine code line by line and executes it immediately.",
     "ncert_page": 10,
@@ -227,12 +157,7 @@
     "mcq_id": "cs_c1_q15",
     "chapter_id": "c1",
     "question": "Which of the following is an example of an 'Open Source' operating system?",
-    "options": [
-      "Windows",
-      "macOS",
-      "Ubuntu (Linux)",
-      "iOS"
-    ],
+    "options": ["Windows", "macOS", "Ubuntu (Linux)", "iOS"],
     "correct_index": 2,
     "explanation": "Ubuntu is a popular open-source operating system.",
     "ncert_page": 12,
@@ -243,12 +168,7 @@
     "mcq_id": "cs_c1_q16",
     "chapter_id": "c1",
     "question": "Software that is available for free but whose source code is NOT available is called:",
-    "options": [
-      "Proprietary Software",
-      "Freeware",
-      "FOSS",
-      "System Software"
-    ],
+    "options": ["Proprietary Software", "Freeware", "FOSS", "System Software"],
     "correct_index": 1,
     "explanation": "Freeware is software available free of cost, but its source code is not provided.",
     "ncert_page": 12,
@@ -259,12 +179,7 @@
     "mcq_id": "cs_c1_q17",
     "chapter_id": "c1",
     "question": "1 Petabyte (PB) is equal to how many Terabytes (TB)?",
-    "options": [
-      "1000 TB",
-      "1024 TB",
-      "100 TB",
-      "1024 GB"
-    ],
+    "options": ["1000 TB", "1024 TB", "100 TB", "1024 GB"],
     "correct_index": 1,
     "explanation": "As per the memory units table, 1 PB = 1024 TB.",
     "ncert_page": 5,
@@ -275,12 +190,7 @@
     "mcq_id": "cs_c1_q18",
     "chapter_id": "c1",
     "question": "Which generation of computers used 'Vacuum Tubes'?",
-    "options": [
-      "First Generation",
-      "Second Generation",
-      "Third Generation",
-      "Fourth Generation"
-    ],
+    "options": ["First Generation", "Second Generation", "Third Generation", "Fourth Generation"],
     "correct_index": 0,
     "explanation": "The first generation of computers (1940-1950s) utilized vacuum tubes.",
     "ncert_page": 4,
@@ -291,12 +201,7 @@
     "mcq_id": "cs_c1_q19",
     "chapter_id": "c1",
     "question": "What is the function of a 'Device Driver'?",
-    "options": [
-      "To provide internet access",
-      "To allow the operating system to communicate with hardware devices",
-      "To protect against viruses",
-      "To manage spreadsheets"
-    ],
+    "options": ["To provide internet access", "To allow the operating system to communicate with hardware devices", "To protect against viruses", "To manage spreadsheets"],
     "correct_index": 1,
     "explanation": "A device driver is system software that acts as an interface between the OS and a specific hardware device.",
     "ncert_page": 11,
@@ -307,12 +212,7 @@
     "mcq_id": "cs_c1_q20",
     "chapter_id": "c1",
     "question": "Which of the following is a 'General Purpose' application software?",
-    "options": [
-      "Inventory Management System",
-      "Banking Software",
-      "Word Processor (MS Word)",
-      "Reservation System"
-    ],
+    "options": ["Inventory Management System", "Banking Software", "Word Processor (MS Word)", "Reservation System"],
     "correct_index": 2,
     "explanation": "General-purpose software is developed for a wide range of users for common tasks, like MS Word.",
     "ncert_page": 11,
@@ -323,12 +223,7 @@
     "mcq_id": "cs_c1_q21",
     "chapter_id": "c1",
     "question": "A group of 4 bits is called a:",
-    "options": [
-      "Byte",
-      "Nibble",
-      "Kilo",
-      "Chunk"
-    ],
+    "options": ["Byte", "Nibble", "Kilo", "Chunk"],
     "correct_index": 1,
     "explanation": "A nibble is a group of 4 bits.",
     "ncert_page": 5,
@@ -339,12 +234,7 @@
     "mcq_id": "cs_c1_q22",
     "chapter_id": "c1",
     "question": "Which memory unit consists of registers?",
-    "options": [
-      "Secondary Memory",
-      "CPU",
-      "Monitor",
-      "Printer"
-    ],
+    "options": ["Secondary Memory", "CPU", "Monitor", "Printer"],
     "correct_index": 1,
     "explanation": "CPU also has local memory called registers, which are very high-speed for temporary storage.",
     "ncert_page": 2,
@@ -355,12 +245,7 @@
     "mcq_id": "cs_c1_q23",
     "chapter_id": "c1",
     "question": "Which input device is commonly used for a visually impaired person to interact with a computer?",
-    "options": [
-      "Scanner",
-      "Braille keyboard",
-      "Mouse",
-      "Joystick"
-    ],
+    "options": ["Scanner", "Braille keyboard", "Mouse", "Joystick"],
     "correct_index": 1,
     "explanation": "Special input devices like Braille keyboards are used to assist people with disabilities.",
     "ncert_page": 14,
@@ -371,12 +256,7 @@
     "mcq_id": "cs_c1_q24",
     "chapter_id": "c1",
     "question": "What is 'Machine Code'?",
-    "options": [
-      "English-like language",
-      "Binary language consisting of 0s and 1s",
-      "Python script",
-      "C++ code"
-    ],
+    "options": ["English-like language", "Binary language consisting of 0s and 1s", "Python script", "C++ code"],
     "correct_index": 1,
     "explanation": "A computer understands only binary language (0s and 1s), which is called machine code.",
     "ncert_page": 10,
@@ -387,12 +267,7 @@
     "mcq_id": "cs_c1_q25",
     "chapter_id": "c1",
     "question": "The time taken by the CPU to access data from RAM is ________ than from a Hard Disk.",
-    "options": [
-      "Much slower",
-      "Much faster",
-      "Same",
-      "Twice as slow"
-    ],
+    "options": ["Much slower", "Much faster", "Same", "Twice as slow"],
     "correct_index": 1,
     "explanation": "Primary memory (RAM) is much faster to access than secondary storage like Hard Disks.",
     "ncert_page": 6,
@@ -403,12 +278,7 @@
     "mcq_id": "cs_c1_q26",
     "chapter_id": "c1",
     "question": "Which era is associated with the 4th generation of computers using Microprocessors?",
-    "options": [
-      "1940-1950",
-      "1960-1970",
-      "1970-Present",
-      "Future"
-    ],
+    "options": ["1940-1950", "1960-1970", "1970-Present", "Future"],
     "correct_index": 2,
     "explanation": "The 4th generation (1970s onwards) saw the introduction of microprocessors and VLSI circuits.",
     "ncert_page": 4,
@@ -419,12 +289,7 @@
     "mcq_id": "cs_c1_q27",
     "chapter_id": "c1",
     "question": "FOSS stands for:",
-    "options": [
-      "Free and Open Source Software",
-      "Fast Online System Software",
-      "First Office Service Solution",
-      "Formal Open Script Storage"
-    ],
+    "options": ["Free and Open Source Software", "Fast Online System Software", "First Office Service Solution", "Formal Open Script Storage"],
     "correct_index": 0,
     "explanation": "FOSS stands for Free and Open Source Software.",
     "ncert_page": 12,
@@ -435,12 +300,7 @@
     "mcq_id": "cs_c1_q28",
     "chapter_id": "c1",
     "question": "What is the primary security threat of throwing away non-functional electronic gadgets (e-waste)?",
-    "options": [
-      "They might explode",
-      "Personal and sensitive data can be recovered by unauthorized persons",
-      "They occupy too much space",
-      "They attract bugs"
-    ],
+    "options": ["They might explode", "Personal and sensitive data can be recovered by unauthorized persons", "They occupy too much space", "They attract bugs"],
     "correct_index": 1,
     "explanation": "E-waste often contains data that can be retrieved even if the device seems non-functional, posing a security threat.",
     "ncert_page": 14,
@@ -451,12 +311,7 @@
     "mcq_id": "cs_c1_q29",
     "chapter_id": "c1",
     "question": "How many Gigabytes (GB) make up 1 Terabyte (TB)?",
-    "options": [
-      "100 GB",
-      "512 GB",
-      "1024 GB",
-      "1000 GB"
-    ],
+    "options": ["100 GB", "512 GB", "1024 GB", "1000 GB"],
     "correct_index": 2,
     "explanation": "1 TB = 1024 GB.",
     "ncert_page": 5,
@@ -467,12 +322,7 @@
     "mcq_id": "cs_c1_q30",
     "chapter_id": "c1",
     "question": "What is 'Proprietary Software'?",
-    "options": [
-      "Software that is free for everyone",
-      "Software whose source code is available",
-      "Software that must be purchased and whose source code is not available",
-      "Software only used by the government"
-    ],
+    "options": ["Software that is free for everyone", "Software whose source code is available", "Software that must be purchased and whose source code is not available", "Software only used by the government"],
     "correct_index": 2,
     "explanation": "Proprietary software is software for which a license fee must be paid and whose source code is hidden.",
     "ncert_page": 12,
@@ -483,12 +333,7 @@
     "mcq_id": "cs_c1_q31",
     "chapter_id": "c1",
     "question": "Which logic gate gives output 1 only when both inputs are 1?",
-    "options": [
-      "OR",
-      "NOT",
-      "AND",
-      "NAND"
-    ],
+    "options": ["OR", "NOT", "AND", "NAND"],
     "correct_index": 2,
     "explanation": "The AND gate provides high output (1) only if all inputs are high.",
     "ncert_page": 5,
@@ -499,12 +344,7 @@
     "mcq_id": "cs_c1_q32",
     "chapter_id": "c1",
     "question": "Which of the following is NOT an input device?",
-    "options": [
-      "Printer",
-      "Speaker",
-      "Touchscreen",
-      "Microphone"
-    ],
+    "options": ["Printer", "Speaker", "Touchscreen", "Microphone"],
     "correct_index": 3,
     "explanation": "A microphone is an input device used to enter audio.",
     "ncert_page": 14,
@@ -515,12 +355,7 @@
     "mcq_id": "cs_c1_q33",
     "chapter_id": "c1",
     "question": "Which unit is used to measure computer memory speed?",
-    "options": [
-      "Hertz",
-      "Kilograms",
-      "Bytes per second",
-      "Nanoseconds"
-    ],
+    "options": ["Hertz", "Kilograms", "Bytes per second", "Nanoseconds"],
     "correct_index": 3,
     "explanation": "Memory access time is typically measured in nanoseconds (ns).",
     "ncert_page": 7,
@@ -531,12 +366,7 @@
     "mcq_id": "cs_c1_q34",
     "chapter_id": "c1",
     "question": "What is the difference between a Compiler and an Interpreter?",
-    "options": [
-      "They are the same",
-      "Compiler translates line by line; Interpreter translates at once",
-      "Compiler translates the whole program at once; Interpreter translates line by line",
-      "Compiler is for hardware; Interpreter is for software"
-    ],
+    "options": ["They are the same", "Compiler translates line by line; Interpreter translates at once", "Compiler translates the whole program at once; Interpreter translates line by line", "Compiler is for hardware; Interpreter is for software"],
     "correct_index": 2,
     "explanation": "A compiler translates the entire source code into object code at once, while an interpreter translates and executes it line by line.",
     "ncert_page": 10,
@@ -547,12 +377,7 @@
     "mcq_id": "cs_c1_q35",
     "chapter_id": "c1",
     "question": "Which generation of computers introduced Integrated Circuits (ICs)?",
-    "options": [
-      "First",
-      "Second",
-      "Third",
-      "Fifth"
-    ],
+    "options": ["First", "Second", "Third", "Fifth"],
     "correct_index": 2,
     "explanation": "The third generation (1960s) of computers used integrated circuits.",
     "ncert_page": 4,
@@ -563,12 +388,7 @@
     "mcq_id": "cs_c1_q36",
     "chapter_id": "c1",
     "question": "Data stored in ________ is permanent even after power is lost.",
-    "options": [
-      "RAM",
-      "Register",
-      "Cache",
-      "Secondary Storage"
-    ],
+    "options": ["RAM", "Register", "Cache", "Secondary Storage"],
     "correct_index": 3,
     "explanation": "Secondary storage (like Hard Disks) is non-volatile and stores data permanently.",
     "ncert_page": 7,
@@ -579,12 +399,7 @@
     "mcq_id": "cs_c1_q37",
     "chapter_id": "c1",
     "question": "Which software helps in 'Cleaning' or 'Optimizing' the computer system?",
-    "options": [
-      "Compiler",
-      "Application software",
-      "System Utility",
-      "Media player"
-    ],
+    "options": ["Compiler", "Application software", "System Utility", "Media player"],
     "correct_index": 2,
     "explanation": "System utilities are used for maintenance and configuration of the computer system, like disk defragmenters.",
     "ncert_page": 11,
@@ -595,12 +410,7 @@
     "mcq_id": "cs_c1_q38",
     "chapter_id": "c1",
     "question": "What is 'Source Code'?",
-    "options": [
-      "Instructions written by the programmer in a high-level language",
-      "Language understood by the computer hardware",
-      "Code for a specific website",
-      "The power cord of the computer"
-    ],
+    "options": ["Instructions written by the programmer in a high-level language", "Language understood by the computer hardware", "Code for a specific website", "The power cord of the computer"],
     "correct_index": 0,
     "explanation": "A program written in a high-level language like Python or C++ is called source code.",
     "ncert_page": 10,
@@ -611,12 +421,7 @@
     "mcq_id": "cs_c1_q39",
     "chapter_id": "c1",
     "question": "Which of the following is an example of an 'Input' device used for games?",
-    "options": [
-      "Printer",
-      "Joystick",
-      "Monitor",
-      "Plotter"
-    ],
+    "options": ["Printer", "Joystick", "Monitor", "Plotter"],
     "correct_index": 1,
     "explanation": "A joystick is an input device commonly used for video games.",
     "ncert_page": 2,
@@ -627,12 +432,7 @@
     "mcq_id": "cs_c1_q40",
     "chapter_id": "c1",
     "question": "What is the purpose of 'BIOS'?",
-    "options": [
-      "To play music",
-      "To manage web browsing",
-      "To load the operating system during computer startup",
-      "To calculate math problems"
-    ],
+    "options": ["To play music", "To manage web browsing", "To load the operating system during computer startup", "To calculate math problems"],
     "correct_index": 2,
     "explanation": "BIOS (Basic Input Output System) is a program stored in ROM that starts the computer and loads the OS.",
     "ncert_page": 7,
@@ -643,12 +443,7 @@
     "mcq_id": "cs_c1_q41",
     "chapter_id": "c1",
     "question": "Which storage capacity is larger: 1 MB or 1024 KB?",
-    "options": [
-      "1 MB",
-      "1024 KB",
-      "They are equal",
-      "1024 KB is larger"
-    ],
+    "options": ["1 MB", "1024 KB", "They are equal", "1024 KB is larger"],
     "correct_index": 2,
     "explanation": "1 MB is exactly equal to 1024 KB.",
     "ncert_page": 5,
@@ -659,12 +454,7 @@
     "mcq_id": "cs_c1_q42",
     "chapter_id": "c1",
     "question": "Computers with multiple CPUs for faster processing are called ________ systems.",
-    "options": [
-      "Single-user",
-      "Multiprocessing",
-      "Time-sharing",
-      "Batch"
-    ],
+    "options": ["Single-user", "Multiprocessing", "Time-sharing", "Batch"],
     "correct_index": 1,
     "explanation": "Multiprocessing systems use more than one processor to increase speed and efficiency.",
     "ncert_page": 4,
@@ -675,12 +465,7 @@
     "mcq_id": "cs_c1_q43",
     "chapter_id": "c1",
     "question": "Which of the following is a task of the 'Operating System'?",
-    "options": [
-      "Drawing pictures",
-      "Writing letters",
-      "Managing memory and CPU scheduling",
-      "Sending emails"
-    ],
+    "options": ["Drawing pictures", "Writing letters", "Managing memory and CPU scheduling", "Sending emails"],
     "correct_index": 2,
     "explanation": "Operating systems manage the system resources like memory, processor, and files.",
     "ncert_page": 10,
@@ -691,12 +476,7 @@
     "mcq_id": "cs_c1_q44",
     "chapter_id": "c1",
     "question": "Which of the following is NOT a storage device?",
-    "options": [
-      "Hard Disk",
-      "Pen Drive",
-      "RAM",
-      "CD"
-    ],
+    "options": ["Hard Disk", "Pen Drive", "RAM", "CD"],
     "correct_index": 2,
     "explanation": "RAM is primary memory, not a permanent storage device like the others listed.",
     "ncert_page": 6,
@@ -707,12 +487,7 @@
     "mcq_id": "cs_c1_q45",
     "chapter_id": "c1",
     "question": "Software used to manage specific business processes like payroll is ________ software.",
-    "options": [
-      "General purpose",
-      "Customized/Specific purpose",
-      "System software",
-      "Open source"
-    ],
+    "options": ["General purpose", "Customized/Specific purpose", "System software", "Open source"],
     "correct_index": 1,
     "explanation": "Customized software is developed for specific business requirements.",
     "ncert_page": 11,
@@ -723,12 +498,7 @@
     "mcq_id": "cs_c1_q46",
     "chapter_id": "c1",
     "question": "A smartphone can be considered a 'computer system'.",
-    "options": [
-      "True",
-      "False",
-      "Only if it has a keyboard",
-      "Only if it is made by Apple"
-    ],
+    "options": ["True", "False", "Only if it has a keyboard", "Only if it is made by Apple"],
     "correct_index": 0,
     "explanation": "Computer systems come in various sizes, including smartphones and tablets.",
     "ncert_page": 2,
@@ -739,12 +509,7 @@
     "mcq_id": "cs_c1_q47",
     "chapter_id": "c1",
     "question": "Which logic gate reverses the input signal (e.g., 0 becomes 1)?",
-    "options": [
-      "AND",
-      "OR",
-      "NOT",
-      "XOR"
-    ],
+    "options": ["AND", "OR", "NOT", "XOR"],
     "correct_index": 2,
     "explanation": "The NOT gate (inverter) gives an output that is the opposite of the input.",
     "ncert_page": 5,
@@ -755,12 +520,7 @@
     "mcq_id": "cs_c1_q48",
     "chapter_id": "c1",
     "question": "What is the 'ALU' responsible for?",
-    "options": [
-      "Coordinating all devices",
-      "Executing arithmetic and logic operations",
-      "Storing data",
-      "Displaying output"
-    ],
+    "options": ["Coordinating all devices", "Executing arithmetic and logic operations", "Storing data", "Displaying output"],
     "correct_index": 1,
     "explanation": "The ALU performs calculations and logical comparisons.",
     "ncert_page": 2,
@@ -771,12 +531,7 @@
     "mcq_id": "cs_c1_q49",
     "chapter_id": "c1",
     "question": "Which of the following describes 'Big Data'?",
-    "options": [
-      "Large file size",
-      "Large volumes of diverse data that is difficult to process using traditional methods",
-      "Data only used by large companies",
-      "Data stored in big computers"
-    ],
+    "options": ["Large file size", "Large volumes of diverse data that is difficult to process using traditional methods", "Data only used by large companies", "Data stored in big computers"],
     "correct_index": 1,
     "explanation": "Big data refers to massive volumes of structured and unstructured data.",
     "ncert_page": 1,
@@ -787,12 +542,7 @@
     "mcq_id": "cs_c1_q50",
     "chapter_id": "c1",
     "question": "Computers with the ability to simulate human-like intelligence are categorized under ________.",
-    "options": [
-      "Cloud Computing",
-      "Artificial Intelligence (AI)",
-      "Cryptography",
-      "Nanotechnology"
-    ],
+    "options": ["Cloud Computing", "Artificial Intelligence (AI)", "Cryptography", "Nanotechnology"],
     "correct_index": 1,
     "explanation": "Artificial Intelligence is the branch of computer science focused on creating intelligent machines.",
     "ncert_page": 1,

@@ -20,13 +20,13 @@
     "chapter_id": "c7",
     "question": "In Program 7-1, what expression is used to calculate the curved surface area of the conical part of the tent?",
     "options": [
-      "`csa_conical = 2 * 3.14 * r * h`",
-      "`csa_conical = 3.14 * r * l`",
-      "`csa_conical = 3.14 * r * r`",
-      "`csa_conical = 2 * 3.14 * r * l`"
+      "'csa_conical = 2 * 3.14 * r * h'",
+      "'csa_conical = 3.14 * r * l'",
+      "'csa_conical = 3.14 * r * r'",
+      "'csa_conical = 2 * 3.14 * r * l'"
     ],
     "correct_index": 1,
-    "explanation": "In Program 7-1, the curved surface area of the conical part is calculated using the formula `csa_conical = 3.14 * r * l`.",
+    "explanation": "In Program 7-1, the curved surface area of the conical part is calculated using the formula 'csa_conical = 3.14 * r * l'.",
     "ncert_page": 2,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -68,13 +68,13 @@
     "chapter_id": "c7",
     "question": "Which keyword is used to mark the beginning of a function definition block in Python?",
     "options": [
-      "`func`",
-      "`define`",
-      "`def`",
-      "`function`"
+      "'func'",
+      "'define'",
+      "'def'",
+      "'function'"
     ],
     "correct_index": 2,
-    "explanation": "A function definition begins with the keyword `def` (short for define).",
+    "explanation": "A function definition begins with the keyword 'def' (short for define).",
     "ncert_page": 5,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -132,13 +132,13 @@
     "chapter_id": "c7",
     "question": "According to the formal syntax rules of Python, what character must a function header always end with?",
     "options": [
-      "Semicolon (`;`)",
-      "Colon (`:`)",
-      "Period (`.`)",
-      "An open parenthesis (`(`)"
+      "Semicolon (';')",
+      "Colon (':')",
+      "Period ('.')",
+      "An open parenthesis ('(')"
     ],
     "correct_index": 1,
-    "explanation": "A function header always ends with a colon (`:`).",
+    "explanation": "A function header always ends with a colon (':').",
     "ncert_page": 5,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -154,7 +154,7 @@
       "Every function header must have at least one explicit string parameter."
     ],
     "correct_index": 2,
-    "explanation": "Parameters are enclosed in brackets `[]` in syntax meaning they are optional. Hence, a function may or may not have parameters, and a function may or may not return a value.",
+    "explanation": "Parameters are enclosed in brackets '[]' in syntax meaning they are optional. Hence, a function may or may not have parameters, and a function may or may not return a value.",
     "ncert_page": 5,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -194,7 +194,7 @@
   {
     "mcq_id": "c7_q13",
     "chapter_id": "c7",
-    "question": "What is shown in Figure 7.3 regarding the relationship between an argument variable like `num` and its parameter variable `n` during a function call?",
+    "question": "What is shown in Figure 7.3 regarding the relationship between an argument variable like 'num' and its parameter variable 'n' during a function call?",
     "options": [
       "They occupy completely separate isolated float values.",
       "Both the argument and parameter refer to the exact same value.",
@@ -212,13 +212,13 @@
     "chapter_id": "c7",
     "question": "Which built-in Python function can a programmer use to prove that an argument and an un-incremented parameter point to the same object in memory?",
     "options": [
-      "`type()`",
-      "`identity()`",
-      "`id()`",
-      "`address()`"
+      "'type()'",
+      "'identity()'",
+      "'id()'",
+      "'address()'"
     ],
     "correct_index": 2,
-    "explanation": "We can use the `id()` function to find the identity of the object that the argument and parameter are referring to.",
+    "explanation": "We can use the 'id()' function to find the identity of the object that the argument and parameter are referring to.",
     "ncert_page": 7,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -226,7 +226,7 @@
   {
     "mcq_id": "c7_q15",
     "chapter_id": "c7",
-    "question": "In Program 7-5, what happens to the identity of the parameter `num` after executing the statement `num = num + 5`?",
+    "question": "In Program 7-5, what happens to the identity of the parameter 'num' after executing the statement 'num = num + 5'?",
     "options": [
       "Its ID remains unchanged since integers are mutable types.",
       "Its ID changes because integers are immutable types, causing a new memory location allocation.",
@@ -234,7 +234,7 @@
       "It adopts the permanent global identity address of the whole program block."
     ],
     "correct_index": 1,
-    "explanation": "As integers are an immutable type, when a modification is made like `num = num + 5`, the parameter is assigned a new memory location and its ID changes.",
+    "explanation": "As integers are an immutable type, when a modification is made like 'num = num + 5', the parameter is assigned a new memory location and its ID changes.",
     "ncert_page": 7,
     "difficulty": "hard",
     "subject": "Computer Science"
@@ -242,7 +242,7 @@
   {
     "mcq_id": "c7_q16",
     "chapter_id": "c7",
-    "question": "In Program 7-6, what data type parameter is expected by the user-defined function `myMean()` to calculate the arithmetic average?",
+    "question": "In Program 7-6, what data type parameter is expected by the user-defined function 'myMean()' to calculate the arithmetic average?",
     "options": [
       "A dictionary containing alphanumeric key pairs",
       "A list containing floating-point values",
@@ -250,7 +250,7 @@
       "A string separated by comma delimiters"
     ],
     "correct_index": 1,
-    "explanation": "The function `myMean(myList)` has one parameter which is a list containing floating-point values.",
+    "explanation": "The function 'myMean(myList)' has one parameter which is a list containing floating-point values.",
     "ncert_page": 8,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -258,15 +258,15 @@
   {
     "mcq_id": "c7_q17",
     "chapter_id": "c7",
-    "question": "Which operator is applied inside the user-defined function `fullname()` in Program 7-8 to merge the first and last name parameters?",
+    "question": "Which operator is applied inside the user-defined function 'fullname()' in Program 7-8 to merge the first and last name parameters?",
     "options": [
-      "The multiplication operator (`*`) acting as a repetition flag",
-      "The plus operator (`+`) acting as a string concatenation operator",
-      "The colon delimiter (`:`) acting as a sequence binder",
-      "The modular operator (`%`) acting as an extraction layout step"
+      "The multiplication operator ('*') acting as a repetition flag",
+      "The plus operator ('+') acting as a string concatenation operator",
+      "The colon delimiter (':') acting as a sequence binder",
+      "The modular operator ('%') acting as an extraction layout step"
     ],
     "correct_index": 1,
-    "explanation": "In Program 7-8, the `+` operator is used to concatenate strings: `fullname = first + ' ' + last`.",
+    "explanation": "In Program 7-8, the '+' operator is used to concatenate strings: 'fullname = first + ' ' + last'.",
     "ncert_page": 9,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -290,7 +290,7 @@
   {
     "mcq_id": "c7_q19",
     "chapter_id": "c7",
-    "question": "What default value is specified for the parameter `deno` in the function header `def mixedFraction(num, deno = 1):` found in Program 7-9?",
+    "question": "What default value is specified for the parameter 'deno' in the function header 'def mixedFraction(num, deno = 1):' found in Program 7-9?",
     "options": [
       "Zero ($0$)",
       "One ($1$)",
@@ -298,7 +298,7 @@
       "Minus one ($-1$)"
     ],
     "correct_index": 1,
-    "explanation": "In Program 7-9, the function header is defined as `def mixedFraction(num, deno = 1):`, which assigns a default value of $1$ to `deno`.",
+    "explanation": "In Program 7-9, the function header is defined as 'def mixedFraction(num, deno = 1):', which assigns a default value of $1$ to 'deno'.",
     "ncert_page": 10,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -324,13 +324,13 @@
     "chapter_id": "c7",
     "question": "Which of the following function headers is syntactically INCORRECT in Python due to default parameter rule violations?",
     "options": [
-      "`def calcInterest(rate, principal = 1000, time = 5):`",
-      "`def calcInterest(rate, time, principal = 1000):`",
-      "`def calcInterest(principal = 1000, rate, time = 5):`",
-      "`def calcInterest(rate, principal, time):`"
+      "'def calcInterest(rate, principal = 1000, time = 5):'",
+      "'def calcInterest(rate, time, principal = 1000):'",
+      "'def calcInterest(principal = 1000, rate, time = 5):'",
+      "'def calcInterest(rate, principal, time):'"
     ],
     "correct_index": 2,
-    "explanation": "`def calcInterest(principal = 1000, rate, time = 5):` is incorrect because the parameter `rate` does not have a default value but is placed after a parameter `principal` that has a default value.",
+    "explanation": "'def calcInterest(principal = 1000, rate, time = 5):' is incorrect because the parameter 'rate' does not have a default value but is placed after a parameter 'principal' that has a default value.",
     "ncert_page": 11,
     "difficulty": "hard",
     "subject": "Computer Science"
@@ -338,7 +338,7 @@
   {
     "mcq_id": "c7_q22",
     "chapter_id": "c7",
-    "question": "When a function argument is specified as an expression, such as `mixedFraction(num + 5, deno + 5)`, when is that expression evaluated?",
+    "question": "When a function argument is specified as an expression, such as 'mixedFraction(num + 5, deno + 5)', when is that expression evaluated?",
     "options": [
       "After the entire body of the function finishes execution.",
       "Before calling the function, so that a valid single value can be assigned to the parameter.",
@@ -372,13 +372,13 @@
     "chapter_id": "c7",
     "question": "Which Python statement is explicitly used to send value allocations back from a function body to its calling environment?",
     "options": [
-      "`send`",
-      "`output`",
-      "`return`",
-      "`break`"
+      "'send'",
+      "'output'",
+      "'return'",
+      "'break'"
     ],
     "correct_index": 2,
-    "explanation": "Sending values from a function to its calling function is done using the `return` statement.",
+    "explanation": "Sending values from a function to its calling function is done using the 'return' statement.",
     "ncert_page": 12,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -391,10 +391,10 @@
       "Zero ($0$)",
       "False",
       "None",
-      "An empty string (`\"\"`)"
+      "An empty string ('\"\"')"
     ],
     "correct_index": 2,
-    "explanation": "The return statement returns value(s) or `None` if no value is specified or if a return statement is absent.",
+    "explanation": "The return statement returns value(s) or 'None' if no value is specified or if a return statement is absent.",
     "ncert_page": 12,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -418,7 +418,7 @@
   {
     "mcq_id": "c7_q27",
     "chapter_id": "c7",
-    "question": "What action does the Python interpreter perform when it sequentially encounters a function definition block (`def`) from top to bottom?",
+    "question": "What action does the Python interpreter perform when it sequentially encounters a function definition block ('def') from top to bottom?",
     "options": [
       "It executes all instructions inside the function block immediately.",
       "The statements inside the function are not executed until the function is explicitly called.",
@@ -436,13 +436,13 @@
     "chapter_id": "c7",
     "question": "What specific error is raised in Program 7-11 when a function call precedes its formal function definition block line statement?",
     "options": [
-      "`TypeError`",
-      "`ValueError`",
-      "`NameError`",
-      "`SyntaxError`"
+      "'TypeError'",
+      "'ValueError'",
+      "'NameError'",
+      "'SyntaxError'"
     ],
     "correct_index": 2,
-    "explanation": "Since a function must be defined before its call, placing a call first causes the interpreter to fail to find it, raising a `NameError: name 'helloPython' is not defined`.",
+    "explanation": "Since a function must be defined before its call, placing a call first causes the interpreter to fail to find it, raising a 'NameError: name 'helloPython' is not defined'.",
     "ncert_page": 13,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -466,7 +466,7 @@
   {
     "mcq_id": "c7_q30",
     "chapter_id": "c7",
-    "question": "In Figure 7.5, what is the meaning of the specific integers enclosed within square brackets like `[1]`, `[2]`, and `[3]` next to the code lines?",
+    "question": "In Figure 7.5, what is the meaning of the specific integers enclosed within square brackets like '[1]', '[2]', and '[3]' next to the code lines?",
     "options": [
       "They denote line parameters index offsets.",
       "They show the exact ordered path sequence of statement execution.",
@@ -482,7 +482,7 @@
   {
     "mcq_id": "c7_q31",
     "chapter_id": "c7",
-    "question": "In Program 7-13, what concrete integer value is returned by the user-defined function `light()` when supplied with the string argument `\"YELLOW\"`?",
+    "question": "In Program 7-13, what concrete integer value is returned by the user-defined function 'light()' when supplied with the string argument '\"YELLOW\"'?",
     "options": [
       "Zero ($0$)",
       "One ($1$)",
@@ -490,7 +490,7 @@
       "Minus one ($-1$)"
     ],
     "correct_index": 1,
-    "explanation": "In Program 7-13, the `light(colour)` function returns $1$ when the input parameter `colour == \"YELLOW\"`.",
+    "explanation": "In Program 7-13, the 'light(colour)' function returns $1$ when the input parameter 'colour == \"YELLOW\"'.",
     "ncert_page": 15,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -562,15 +562,15 @@
   {
     "mcq_id": "c7_q36",
     "chapter_id": "c7",
-    "question": "In Program 7-14, what specific error is generated when a script line attempts to print the local variable `y` outside its parent function `myFunc1()`?",
+    "question": "In Program 7-14, what specific error is generated when a script line attempts to print the local variable 'y' outside its parent function 'myFunc1()'?",
     "options": [
-      "`NameError: name 'y' is not defined`",
-      "`TypeError: local variable cannot be converted`",
-      "`ValueError: invalid literal reference scope`",
-      "`ScopeError: y is trapped in functional block`"
+      "'NameError: name 'y' is not defined'",
+      "'TypeError: local variable cannot be converted'",
+      "'ValueError: invalid literal reference scope'",
+      "'ScopeError: y is trapped in functional block'"
     ],
     "correct_index": 0,
-    "explanation": "Attempting to access the local variable `y` outside its function triggers a `NameError: name 'y' is not defined`.",
+    "explanation": "Attempting to access the local variable 'y' outside its function triggers a 'NameError: name 'y' is not defined'.",
     "ncert_page": 17,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -596,13 +596,13 @@
     "chapter_id": "c7",
     "question": "Which Python keyword must be prefixed to a variable name inside a function block to allow modifications to that variable to change the global scope value permanently?",
     "options": [
-      "`extern`",
-      "`public`",
-      "`global`",
-      "`update`"
+      "'extern'",
+      "'public'",
+      "'global'",
+      "'update'"
     ],
     "correct_index": 2,
-    "explanation": "If the modified value of a global variable is to be used outside the function, then the keyword `global` should be prefixed to the variable name in the function.",
+    "explanation": "If the modified value of a global variable is to be used outside the function, then the keyword 'global' should be prefixed to the variable name in the function.",
     "ncert_page": 17,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -628,13 +628,13 @@
     "chapter_id": "c7",
     "question": "Which of the following functions is explicitly defined inside the Python interpreter core as a ready-made built-in function that does NOT require importing a module?",
     "options": [
-      "`math.sqrt()`",
-      "`int()`",
-      "`statistics.mean()`",
-      "`random.randint()`"
+      "'math.sqrt()'",
+      "'int()'",
+      "'statistics.mean()'",
+      "'random.randint()'"
     ],
     "correct_index": 1,
-    "explanation": "`int()`, `input()`, and `print()` are built-in functions whose set of instructions are already defined in the Python interpreter.",
+    "explanation": "'int()', 'input()', and 'print()' are built-in functions whose set of instructions are already defined in the Python interpreter.",
     "ncert_page": 18,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -642,7 +642,7 @@
   {
     "mcq_id": "c7_q41",
     "chapter_id": "c7",
-    "question": "Under which explicit category grouping does the function `divmod()` belong according to the structural list on Page 19?",
+    "question": "Under which explicit category grouping does the function 'divmod()' belong according to the structural list on Page 19?",
     "options": [
       "Input or Output Functions",
       "Datatype Conversion Functions",
@@ -650,7 +650,7 @@
       "Other Functions category"
     ],
     "correct_index": 2,
-    "explanation": "According to the chart on Page 19, `divmod()` is listed directly under the category 'Mathematical Functions'.\"",
+    "explanation": "According to the chart on Page 19, 'divmod()' is listed directly under the category 'Mathematical Functions'.",
     "ncert_page": 19,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -658,15 +658,15 @@
   {
     "mcq_id": "c7_q42",
     "chapter_id": "c7",
-    "question": "What is the precise structural format and value return of checking the built-in function statement `divmod(7, 2)`?",
+    "question": "What is the precise structural format and value return of checking the built-in function statement 'divmod(7, 2)'?",
     "options": [
-      "A floating point single output value of `3.5`",
-      "A tuple consisting of `(3, 1)` representing the quotient and remainder",
-      "A list array structure of `[1, 3]` sorting remainder first",
-      "An integer output literal of `3` discarding the fractional part"
+      "A floating point single output value of '3.5'",
+      "A tuple consisting of '(3, 1)' representing the quotient and remainder",
+      "A list array structure of '[1, 3]' sorting remainder first",
+      "An integer output literal of '3' discarding the fractional part"
     ],
     "correct_index": 1,
-    "explanation": "The built-in function `divmod(x, y)` accepts two integers and returns a tuple containing `(quotient, remainder)`. Evaluating `divmod(7, 2)` outputs `(3, 1)`.",
+    "explanation": "The built-in function 'divmod(x, y)' accepts two integers and returns a tuple containing '(quotient, remainder)'. Evaluating 'divmod(7, 2)' outputs '(3, 1)'.",
     "ncert_page": 19,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -674,15 +674,15 @@
   {
     "mcq_id": "c7_q43",
     "chapter_id": "c7",
-    "question": "What value output is generated by calling the absolute built-in function statement `abs(-5.7)`?",
+    "question": "What value output is generated by calling the absolute built-in function statement 'abs(-5.7)'?",
     "options": [
-      "`-5`",
-      "`5.0`",
-      "`5.7`",
-      "`-5.7`"
+      "'-5'",
+      "'5.0'",
+      "'5.7'",
+      "'-5.7'"
     ],
     "correct_index": 2,
-    "explanation": "The built-in function `abs(x)` returns the absolute value of $x$. For a parameter of `-5.7`, it yields `5.7`.",
+    "explanation": "The built-in function 'abs(x)' returns the absolute value of $x$. For a parameter of '-5.7', it yields '5.7'.",
     "ncert_page": 19,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -690,15 +690,15 @@
   {
     "mcq_id": "c7_q44",
     "chapter_id": "c7",
-    "question": "Why does evaluating the built-in expression statement `min(\"Sincerity\")` yield the uppercase character `'S'` instead of lowercase letters?",
+    "question": "Why does evaluating the built-in expression statement 'min(\"Sincerity\")' yield the uppercase character ''S'' instead of lowercase letters?",
     "options": [
       "Uppercase letters are sorted alphabetically in reverse sequence by default.",
       "Uppercase letters have lower ASCII values than lowercase letters.",
       "The interpreter ignores lowercase string data blocks during evaluation steps.",
-      "The letter `'S'` sits at the very first structural index position."
+      "The letter ''S'' sits at the very first structural index position."
     ],
     "correct_index": 1,
-    "explanation": "Evaluating `min(\"Sincerity\")` returns `'S'` because uppercase letters have lower ASCII values than lowercase letters.",
+    "explanation": "Evaluating 'min(\"Sincerity\")' returns ''S'' because uppercase letters have lower ASCII values than lowercase letters.",
     "ncert_page": 20,
     "difficulty": "hard",
     "subject": "Computer Science"
@@ -706,7 +706,7 @@
   {
     "mcq_id": "c7_q45",
     "chapter_id": "c7",
-    "question": "What is a python script file (`.py`) that contains a structured grouping of multiple function definitions for external reuse called?",
+    "question": "What is a python script file ('.py') that contains a structured grouping of multiple function definitions for external reuse called?",
     "options": [
       "A compositional statement",
       "A void functional matrix",
@@ -714,7 +714,7 @@
       "A scope blueprint wrapper"
     ],
     "correct_index": 2,
-    "explanation": "A module is a grouping of functions. It is created as a Python (`.py`) file containing a collection of function definitions.",
+    "explanation": "A module is a grouping of functions. It is created as a Python ('.py') file containing a collection of function definitions.",
     "ncert_page": 20,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -724,13 +724,13 @@
     "chapter_id": "c7",
     "question": "What separator character must stand between an imported module name and its internal function name when triggering a module call?",
     "options": [
-      "An arrow sign (`->`)",
-      "A dot character (`.`)",
-      "A colon character (`:`)",
-      "A double colon token (`::`)"
+      "An arrow sign ('->')",
+      "A dot character ('.')",
+      "A colon character (':')",
+      "A double colon token ('::')"
     ],
     "correct_index": 1,
-    "explanation": "To call a function of a module, the function name should be preceded with the name of the module with a dot (`.`) as a separator: `modulename.functionname()`.",
+    "explanation": "To call a function of a module, the function name should be preceded with the name of the module with a dot ('.') as a separator: 'modulename.functionname()'.",
     "ncert_page": 21,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -738,15 +738,15 @@
   {
     "mcq_id": "c7_q47",
     "chapter_id": "c7",
-    "question": "What is the concrete numeric output evaluated by the module statement expression `math.ceil(-9.7)`?",
+    "question": "What is the concrete numeric output evaluated by the module statement expression 'math.ceil(-9.7)'?",
     "options": [
-      "`-10`",
-      "`-9`",
-      "`9.0`",
-      "`9`"
+      "'-10'",
+      "'-9'",
+      "'9.0'",
+      "'9'"
     ],
     "correct_index": 1,
-    "explanation": "`math.ceil(x)` returns the ceiling value of $x$. For `-9.7`, the next highest integer value is `-9`.",
+    "explanation": "'math.ceil(x)' returns the ceiling value of $x$. For '-9.7', the next highest integer value is '-9'.",
     "ncert_page": 21,
     "difficulty": "medium",
     "subject": "Computer Science"
@@ -754,7 +754,7 @@
   {
     "mcq_id": "c7_q48",
     "chapter_id": "c7",
-    "question": "What is the output characteristics range generated by invoking the function expression `random.random()`?",
+    "question": "What is the output characteristics range generated by invoking the function expression 'random.random()'?",
     "options": [
       "A random integer between a start and stop index boundary",
       "A random real float number spanning between $0.0$ and $1.0$",
@@ -762,7 +762,7 @@
       "A negative floating sequence list allocation"
     ],
     "correct_index": 1,
-    "explanation": "The function `random.random()` takes no arguments and returns a random real number (float) in the range $0.0$ to $1.0$.",
+    "explanation": "The function 'random.random()' takes no arguments and returns a random real number (float) in the range $0.0$ to $1.0$.",
     "ncert_page": 22,
     "difficulty": "easy",
     "subject": "Computer Science"
@@ -770,15 +770,15 @@
   {
     "mcq_id": "c7_q49",
     "chapter_id": "c7",
-    "question": "Which function from the built-in `statistics` module is explicitly used to calculate the middle value of numeric data blocks sequence?",
+    "question": "Which function from the built-in 'statistics' module is explicitly used to calculate the middle value of numeric data blocks sequence?",
     "options": [
-      "`statistics.mean()`",
-      "`statistics.mode()`",
-      "`statistics.median()`",
-      "`statistics.midpoint()`"
+      "'statistics.mean()'",
+      "'statistics.mode()'",
+      "'statistics.median()'",
+      "'statistics.midpoint()'"
     ],
     "correct_index": 2,
-    "explanation": "The function `statistics.median(x)` accepts a numeric sequence and returns the median (middle value) of $x$.",
+    "explanation": "The function 'statistics.median(x)' accepts a numeric sequence and returns the median (middle value) of $x$.",
     "ncert_page": 23,
     "difficulty": "easy",
     "subject": "Computer Science"

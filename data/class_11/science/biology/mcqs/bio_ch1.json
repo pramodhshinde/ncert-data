@@ -3,12 +3,7 @@
     "mcq_id": "c1_bio_q01",
     "chapter_id": "c1",
     "question": "Which evolutionary biologist has been widely called 'The Darwin of the 20th century'?",
-    "options": [
-      "Carolus Linnaeus",
-      "Ernst Mayr",
-      "Charles Darwin",
-      "Gregor Mendel"
-    ],
+    "options": ["Carolus Linnaeus", "Ernst Mayr", "Charles Darwin", "Gregor Mendel"],
     "correct_index": 1,
     "explanation": "Ernst Mayr, the Harvard University evolutionary biologist who has been called 'The Darwin of the 20th century', was one of the 100 greatest scientists of all time.",
     "ncert_page": 2,
@@ -19,12 +14,7 @@
     "mcq_id": "c1_bio_q02",
     "chapter_id": "c1",
     "question": "Ernst Mayr pioneered the currently accepted definition of which biological concept?",
-    "options": [
-      "Taxonomic hierarchy",
-      "Biological species",
-      "Binomial nomenclature",
-      "Systematics"
-    ],
+    "options": ["Taxonomic hierarchy", "Biological species", "Binomial nomenclature", "Systematics"],
     "correct_index": 1,
     "explanation": "He almost single-handedly made the origin of species diversity the central question of evolutionary biology and pioneered the currently accepted definition of a biological species.",
     "ncert_page": 2,
@@ -35,12 +25,7 @@
     "mcq_id": "c1_bio_q03",
     "chapter_id": "c1",
     "question": "Which of the following prizes is NOT part of the 'triple crown of biology' awarded to Ernst Mayr?",
-    "options": [
-      "Balzan Prize",
-      "Nobel Prize in Physiology",
-      "International Prize for Biology",
-      "Crafoord Prize"
-    ],
+    "options": ["Balzan Prize", "Nobel Prize in Physiology", "International Prize for Biology", "Crafoord Prize"],
     "correct_index": 1,
     "explanation": "Mayr was awarded the three prizes widely regarded as the triple crown of biology: the Balzan Prize, the International Prize for Biology, and the Crafoord Prize. The Nobel Prize is not among them.",
     "ncert_page": 2,
@@ -51,12 +36,7 @@
     "mcq_id": "c1_bio_q04",
     "chapter_id": "c1",
     "question": "What is the approximate number of species that are known and described on Earth?",
-    "options": [
-      "1.2-1.3 million",
-      "1.7-1.8 million",
-      "2.5-3.0 million",
-      "5.0-6.0 million"
-    ],
+    "options": ["1.2-1.3 million", "1.7-1.8 million", "2.5-3.0 million", "5.0-6.0 million"],
     "correct_index": 1,
     "explanation": "The number of species that are known and described range between 1.7-1.8 million.",
     "ncert_page": 3,
@@ -67,12 +47,7 @@
     "mcq_id": "c1_bio_q05",
     "chapter_id": "c1",
     "question": "The number and types of organisms present on earth is referred to as:",
-    "options": [
-      "Taxonomy",
-      "Systematics",
-      "Biodiversity",
-      "Ecology"
-    ],
+    "options": ["Taxonomy", "Systematics", "Biodiversity", "Ecology"],
     "correct_index": 2,
     "explanation": "The number of species that are known and described range between 1.7-1.8 million. This refers to biodiversity or the number and types of organisms present on earth.",
     "ncert_page": 3,
@@ -83,12 +58,7 @@
     "mcq_id": "c1_bio_q06",
     "chapter_id": "c1",
     "question": "In botanical nomenclature, what does ICBN stand for?",
-    "options": [
-      "Indian Code for Botanical Naming",
-      "International Code for Biological Nomenclature",
-      "International Code for Botanical Nomenclature",
-      "International Council for Botanical Naming"
-    ],
+    "options": ["Indian Code for Botanical Naming", "International Code for Biological Nomenclature", "International Code for Botanical Nomenclature", "International Council for Botanical Naming"],
     "correct_index": 2,
     "explanation": "For plants, scientific names are based on agreed principles and criteria, which are provided in International Code for Botanical Nomenclature (ICBN).",
     "ncert_page": 4,
@@ -99,12 +69,7 @@
     "mcq_id": "c1_bio_q07",
     "chapter_id": "c1",
     "question": "Which set of rules do animal taxonomists use to evolve scientific names for animals?",
-    "options": [
-      "ICBN",
-      "ICZN",
-      "IUCN",
-      "IATA"
-    ],
+    "options": ["ICBN", "ICZN", "IUCN", "IATA"],
     "correct_index": 1,
     "explanation": "Animal taxonomists have evolved International Code of Zoological Nomenclature (ICZN) to assign scientific names.",
     "ncert_page": 4,
@@ -115,12 +80,7 @@
     "mcq_id": "c1_bio_q08",
     "chapter_id": "c1",
     "question": "Who provided the naming system known as Binomial Nomenclature?",
-    "options": [
-      "Ernst Mayr",
-      "Charles Darwin",
-      "Carolus Linnaeus",
-      "Aristotle"
-    ],
+    "options": ["Ernst Mayr", "Charles Darwin", "Carolus Linnaeus", "Aristotle"],
     "correct_index": 2,
     "explanation": "This system of providing a name with two components is called Binomial nomenclature. This naming system given by Carolus Linnaeus is being practised by biologists all over the world.",
     "ncert_page": 4,
@@ -131,12 +91,7 @@
     "mcq_id": "c1_bio_q09",
     "chapter_id": "c1",
     "question": "What are the two components of a scientific name in Binomial Nomenclature?",
-    "options": [
-      "Family name and Genus name",
-      "Generic name and specific epithet",
-      "Common name and Latin name",
-      "Order and Class"
-    ],
+    "options": ["Family name and Genus name", "Generic name and specific epithet", "Common name and Latin name", "Order and Class"],
     "correct_index": 1,
     "explanation": "Each name has two components - the Generic name and the specific epithet. This system of providing a name with two components is called Binomial nomenclature.",
     "ncert_page": 4,
@@ -147,12 +102,7 @@
     "mcq_id": "c1_bio_q10",
     "chapter_id": "c1",
     "question": "Biological names are generally derived from which language?",
-    "options": [
-      "Greek",
-      "English",
-      "Latin",
-      "French"
-    ],
+    "options": ["Greek", "English", "Latin", "French"],
     "correct_index": 2,
     "explanation": "Biological names are generally in Latin and written in italics. They are Latinised or derived from Latin irrespective of their origin.",
     "ncert_page": 4,
@@ -163,12 +113,7 @@
     "mcq_id": "c1_bio_q11",
     "chapter_id": "c1",
     "question": "According to the universal rules of nomenclature, how should the first word (genus) and the second word (specific epithet) be capitalised?",
-    "options": [
-      "Both start with a capital letter",
-      "Both start with a small letter",
-      "Genus starts with a small letter, specific epithet with a capital",
-      "Genus starts with a capital letter, specific epithet with a small letter"
-    ],
+    "options": ["Both start with a capital letter", "Both start with a small letter", "Genus starts with a small letter, specific epithet with a capital", "Genus starts with a capital letter, specific epithet with a small letter"],
     "correct_index": 3,
     "explanation": "The first word denoting the genus starts with a capital letter while the specific epithet starts with a small letter.",
     "ncert_page": 5,
@@ -179,12 +124,7 @@
     "mcq_id": "c1_bio_q12",
     "chapter_id": "c1",
     "question": "How are biological names indicated to have a Latin origin when they are handwritten?",
-    "options": [
-      "They are written in bold letters",
-      "They are enclosed in quotation marks",
-      "They are separately underlined",
-      "They are written in all capital letters"
-    ],
+    "options": ["They are written in bold letters", "They are enclosed in quotation marks", "They are separately underlined", "They are written in all capital letters"],
     "correct_index": 2,
     "explanation": "Both the words in a biological name, when handwritten, are separately underlined, or printed in italics to indicate their Latin origin.",
     "ncert_page": 4,
@@ -195,12 +135,7 @@
     "mcq_id": "c1_bio_q13",
     "chapter_id": "c1",
     "question": "In the name 'Mangifera indica Linn.', what does 'Linn.' indicate?",
-    "options": [
-      "The plant is found in the Linn region",
-      "The species was first described by Linnaeus",
-      "It is the Latin version of the name",
-      "It belongs to the family Linnaeaceae"
-    ],
+    "options": ["The plant is found in the Linn region", "The species was first described by Linnaeus", "It is the Latin version of the name", "It belongs to the family Linnaeaceae"],
     "correct_index": 1,
     "explanation": "Name of the author appears after the specific epithet... and is written in an abbreviated form, e.g., Mangifera indica Linn. It indicates that this species was first described by Linnaeus.",
     "ncert_page": 5,
@@ -211,12 +146,7 @@
     "mcq_id": "c1_bio_q14",
     "chapter_id": "c1",
     "question": "What is the scientific term used for convenient categories (like 'Dogs', 'Mammals', 'Plants') used to study organisms?",
-    "options": [
-      "Clades",
-      "Phyla",
-      "Taxa",
-      "Orders"
-    ],
+    "options": ["Clades", "Phyla", "Taxa", "Orders"],
     "correct_index": 2,
     "explanation": "Hence, all these - 'Dogs', 'Cats', 'Mammals', 'Wheat', 'Rice', 'Plants', 'Animals', etc., are convenient categories we use to study organisms. The scientific term for these categories is taxa.",
     "ncert_page": 5,
@@ -227,12 +157,7 @@
     "mcq_id": "c1_bio_q15",
     "chapter_id": "c1",
     "question": "On what basis were the earliest classifications of living organisms primarily made by human beings?",
-    "options": [
-      "Evolutionary relationships",
-      "Morphological similarities",
-      "Uses of various organisms",
-      "Cellular structure"
-    ],
+    "options": ["Evolutionary relationships", "Morphological similarities", "Uses of various organisms", "Cellular structure"],
     "correct_index": 2,
     "explanation": "In early days, human beings needed to find sources for their basic needs of food, clothing and shelter. Hence, the earliest classifications were based on the 'uses' of various organisms.",
     "ncert_page": 5,
@@ -243,12 +168,7 @@
     "mcq_id": "c1_bio_q16",
     "chapter_id": "c1",
     "question": "The word 'systematics' is derived from the Latin word 'systema'. What does it mean?",
-    "options": [
-      "Study of biological systems",
-      "Systematic arrangement of organisms",
-      "Naming of systems",
-      "Classification of natural habitats"
-    ],
+    "options": ["Study of biological systems", "Systematic arrangement of organisms", "Naming of systems", "Classification of natural habitats"],
     "correct_index": 1,
     "explanation": "The word systematics is derived from the Latin word 'systema' which means systematic arrangement of organisms.",
     "ncert_page": 5,
@@ -259,12 +179,7 @@
     "mcq_id": "c1_bio_q17",
     "chapter_id": "c1",
     "question": "What was the title of the publication authored by Linnaeus?",
-    "options": [
-      "Origin of Species",
-      "Systema Naturae",
-      "Historia Plantarum",
-      "Philosophia Botanica"
-    ],
+    "options": ["Origin of Species", "Systema Naturae", "Historia Plantarum", "Philosophia Botanica"],
     "correct_index": 1,
     "explanation": "Linnaeus used Systema Naturae as the title of his publication.",
     "ncert_page": 6,
@@ -275,12 +190,7 @@
     "mcq_id": "c1_bio_q18",
     "chapter_id": "c1",
     "question": "What aspect does modern 'systematics' take into account that early classification systems lacked?",
-    "options": [
-      "Morphological traits",
-      "Evolutionary relationships between organisms",
-      "Geographical distribution",
-      "Economic uses of plants"
-    ],
+    "options": ["Morphological traits", "Evolutionary relationships between organisms", "Geographical distribution", "Economic uses of plants"],
     "correct_index": 1,
     "explanation": "The scope of systematics was later enlarged to include identification, nomenclature and classification. Systematics takes into account evolutionary relationships between organisms.",
     "ncert_page": 6,
@@ -291,12 +201,7 @@
     "mcq_id": "c1_bio_q19",
     "chapter_id": "c1",
     "question": "In the taxonomic hierarchy, what does each step or category commonly represent?",
-    "options": [
-      "A kingdom",
-      "A taxon or rank",
-      "A species",
-      "A phylum"
-    ],
+    "options": ["A kingdom", "A taxon or rank", "A species", "A phylum"],
     "correct_index": 1,
     "explanation": "Each category, referred to as a unit of classification, in fact, represents a rank and is commonly termed as taxon (pl.: taxa).",
     "ncert_page": 6,
@@ -307,12 +212,7 @@
     "mcq_id": "c1_bio_q20",
     "chapter_id": "c1",
     "question": "Insects represent a taxonomic group sharing which distinct common feature?",
-    "options": [
-      "Two pairs of wings",
-      "Three pairs of jointed legs",
-      "A cartilaginous backbone",
-      "A hard external shell without joints"
-    ],
+    "options": ["Two pairs of wings", "Three pairs of jointed legs", "A cartilaginous backbone", "A hard external shell without joints"],
     "correct_index": 1,
     "explanation": "Insects represent a group of organisms sharing common features like three pairs of jointed legs.",
     "ncert_page": 6,
@@ -323,12 +223,7 @@
     "mcq_id": "c1_bio_q21",
     "chapter_id": "c1",
     "question": "What is the lowest category in the taxonomic hierarchy for all organisms?",
-    "options": [
-      "Genus",
-      "Family",
-      "Species",
-      "Order"
-    ],
+    "options": ["Genus", "Family", "Species", "Order"],
     "correct_index": 2,
     "explanation": "All organisms, including those in the plant and animal kingdoms have species as the lowest category.",
     "ncert_page": 6,
@@ -339,12 +234,7 @@
     "mcq_id": "c1_bio_q22",
     "chapter_id": "c1",
     "question": "The scientific name for potato is Solanum tuberosum. What does 'tuberosum' represent?",
-    "options": [
-      "The generic name",
-      "The specific epithet",
-      "The family name",
-      "The sub-species name"
-    ],
+    "options": ["The generic name", "The specific epithet", "The family name", "The sub-species name"],
     "correct_index": 1,
     "explanation": "All the three names, indica, tuberosum and leo, represent the specific epithets, while the first words Mangifera, Solanum and Panthera are genera...",
     "ncert_page": 6,
@@ -355,12 +245,7 @@
     "mcq_id": "c1_bio_q23",
     "chapter_id": "c1",
     "question": "Which of the following is NOT a specific epithet belonging to the genus Panthera?",
-    "options": [
-      "leo",
-      "tigris",
-      "pardus",
-      "nigrum"
-    ],
+    "options": ["leo", "tigris", "pardus", "nigrum"],
     "correct_index": 3,
     "explanation": "Panthera has specific epithets like leo (lion), tigris (tiger), and pardus (leopard). Nigrum belongs to the genus Solanum.",
     "ncert_page": 6,
@@ -371,12 +256,7 @@
     "mcq_id": "c1_bio_q24",
     "chapter_id": "c1",
     "question": "What is the correct scientific name for human beings?",
-    "options": [
-      "Homo sapiens",
-      "Homo erectus",
-      "Panthera sapiens",
-      "Musca domestica"
-    ],
+    "options": ["Homo sapiens", "Homo erectus", "Panthera sapiens", "Musca domestica"],
     "correct_index": 0,
     "explanation": "Human beings belong to the species sapiens which is grouped in the genus Homo. The scientific name thus, for human being, is written as Homo sapiens.",
     "ncert_page": 7,
@@ -387,12 +267,7 @@
     "mcq_id": "c1_bio_q25",
     "chapter_id": "c1",
     "question": "Potato and brinjal are two different species, but they both belong to which genus?",
-    "options": [
-      "Datura",
-      "Petunia",
-      "Panthera",
-      "Solanum"
-    ],
+    "options": ["Datura", "Petunia", "Panthera", "Solanum"],
     "correct_index": 3,
     "explanation": "For example, potato and brinjal are two different species but both belong to the genus Solanum.",
     "ncert_page": 7,
@@ -403,12 +278,7 @@
     "mcq_id": "c1_bio_q26",
     "chapter_id": "c1",
     "question": "The genus Panthera, which includes lion, leopard, and tiger, differs from which genus that includes cats?",
-    "options": [
-      "Canis",
-      "Felis",
-      "Musca",
-      "Solanum"
-    ],
+    "options": ["Canis", "Felis", "Musca", "Solanum"],
     "correct_index": 1,
     "explanation": "This genus [Panthera] differs from another genus Felis which includes cats.",
     "ncert_page": 7,
@@ -419,12 +289,7 @@
     "mcq_id": "c1_bio_q27",
     "chapter_id": "c1",
     "question": "In plants, families are characterised on the basis of which features of the plant species?",
-    "options": [
-      "Only vegetative features",
-      "Only reproductive features",
-      "Both vegetative and reproductive features",
-      "Geographical distribution"
-    ],
+    "options": ["Only vegetative features", "Only reproductive features", "Both vegetative and reproductive features", "Geographical distribution"],
     "correct_index": 2,
     "explanation": "Families are characterised on the basis of both vegetative and reproductive features of plant species.",
     "ncert_page": 7,
@@ -435,12 +300,7 @@
     "mcq_id": "c1_bio_q28",
     "chapter_id": "c1",
     "question": "Which of the following genera is NOT placed in the family Solanaceae?",
-    "options": [
-      "Solanum",
-      "Petunia",
-      "Datura",
-      "Triticum"
-    ],
+    "options": ["Solanum", "Petunia", "Datura", "Triticum"],
     "correct_index": 3,
     "explanation": "Among plants for example, three different genera Solanum, Petunia and Datura are placed in the family Solanaceae. Triticum (wheat) belongs to Poaceae.",
     "ncert_page": 7,
@@ -451,12 +311,7 @@
     "mcq_id": "c1_bio_q29",
     "chapter_id": "c1",
     "question": "The genus Panthera (lion, tiger, leopard) and the genus Felis (cats) are put together in which family?",
-    "options": [
-      "Canidae",
-      "Felidae",
-      "Hominidae",
-      "Muscidae"
-    ],
+    "options": ["Canidae", "Felidae", "Hominidae", "Muscidae"],
     "correct_index": 1,
     "explanation": "Among animals for example, genus Panthera, comprising lion, tiger, leopard is put along with genus, Felis (cats) in the family Felidae.",
     "ncert_page": 7,
@@ -467,12 +322,7 @@
     "mcq_id": "c1_bio_q30",
     "chapter_id": "c1",
     "question": "While cats belong to the family Felidae, dogs are placed in which separate family?",
-    "options": [
-      "Hominidae",
-      "Felidae",
-      "Canidae",
-      "Primata"
-    ],
+    "options": ["Hominidae", "Felidae", "Canidae", "Primata"],
     "correct_index": 2,
     "explanation": "They are separated into two different families - Felidae and Canidae, respectively.",
     "ncert_page": 7,
@@ -483,12 +333,7 @@
     "mcq_id": "c1_bio_q31",
     "chapter_id": "c1",
     "question": "What is the definition of an 'Order' in the taxonomic hierarchy?",
-    "options": [
-      "An aggregate of closely related species",
-      "An assemblage of families which exhibit a few similar characters",
-      "A group of related genera",
-      "The highest category in classification"
-    ],
+    "options": ["An aggregate of closely related species", "An assemblage of families which exhibit a few similar characters", "A group of related genera", "The highest category in classification"],
     "correct_index": 1,
     "explanation": "Order being a higher category, is the assemblage of families which exhibit a few similar characters.",
     "ncert_page": 7,
@@ -499,12 +344,7 @@
     "mcq_id": "c1_bio_q32",
     "chapter_id": "c1",
     "question": "Plant families like Convolvulaceae and Solanaceae are included in the order Polymoniales mainly based on what characteristics?",
-    "options": [
-      "Leaf structure",
-      "Root patterns",
-      "Floral characters",
-      "Seed types"
-    ],
+    "options": ["Leaf structure", "Root patterns", "Floral characters", "Seed types"],
     "correct_index": 2,
     "explanation": "Plant families like Convolvulaceae, Solanaceae are included in the order Polymoniales mainly based on the floral characters.",
     "ncert_page": 7,
@@ -515,12 +355,7 @@
     "mcq_id": "c1_bio_q33",
     "chapter_id": "c1",
     "question": "The animal order Carnivora includes which of the following families?",
-    "options": [
-      "Hominidae and Muscidae",
-      "Felidae and Canidae",
-      "Anacardiaceae and Poaceae",
-      "Primata and Diptera"
-    ],
+    "options": ["Hominidae and Muscidae", "Felidae and Canidae", "Anacardiaceae and Poaceae", "Primata and Diptera"],
     "correct_index": 1,
     "explanation": "The animal order, Carnivora, includes families like Felidae and Canidae.",
     "ncert_page": 7,
@@ -531,12 +366,7 @@
     "mcq_id": "c1_bio_q34",
     "chapter_id": "c1",
     "question": "Class Mammalia includes the order Carnivora (tiger, cat, dog) along with which other order containing monkey, gorilla, and gibbon?",
-    "options": [
-      "Diptera",
-      "Sapindales",
-      "Poales",
-      "Primata"
-    ],
+    "options": ["Diptera", "Sapindales", "Poales", "Primata"],
     "correct_index": 3,
     "explanation": "For example, order Primata comprising monkey, gorilla and gibbon is placed in class Mammalia along with order Carnivora...",
     "ncert_page": 7,
@@ -547,12 +377,7 @@
     "mcq_id": "c1_bio_q35",
     "chapter_id": "c1",
     "question": "Animals with a notochord and a dorsal hollow neural system are included in which Phylum?",
-    "options": [
-      "Arthropoda",
-      "Chordata",
-      "Mammalia",
-      "Insecta"
-    ],
+    "options": ["Arthropoda", "Chordata", "Mammalia", "Insecta"],
     "correct_index": 1,
     "explanation": "All these, based on the common features like presence of notochord and dorsal hollow neural system, are included in phylum Chordata.",
     "ncert_page": 8,
@@ -563,12 +388,7 @@
     "mcq_id": "c1_bio_q36",
     "chapter_id": "c1",
     "question": "In the case of plants, what taxonomic category is equivalent to the 'Phylum' used for animals?",
-    "options": [
-      "Order",
-      "Division",
-      "Class",
-      "Family"
-    ],
+    "options": ["Order", "Division", "Class", "Family"],
     "correct_index": 1,
     "explanation": "In case of plants, classes with a few similar characters are assigned to a higher category called Division.",
     "ncert_page": 8,
@@ -579,12 +399,7 @@
     "mcq_id": "c1_bio_q37",
     "chapter_id": "c1",
     "question": "What is the highest taxonomic category to which all animals from various phyla belong?",
-    "options": [
-      "Kingdom Plantae",
-      "Class Mammalia",
-      "Kingdom Animalia",
-      "Phylum Chordata"
-    ],
+    "options": ["Kingdom Plantae", "Class Mammalia", "Kingdom Animalia", "Phylum Chordata"],
     "correct_index": 2,
     "explanation": "All animals belonging to various phyla are assigned to the highest category called Kingdom Animalia in the classification system of animals.",
     "ncert_page": 8,
@@ -595,12 +410,7 @@
     "mcq_id": "c1_bio_q38",
     "chapter_id": "c1",
     "question": "As we go higher from species to kingdom in the taxonomic hierarchy, what happens to the number of common characteristics shared by organisms?",
-    "options": [
-      "It goes on increasing",
-      "It remains exactly the same",
-      "It goes on decreasing",
-      "It fluctuates randomly"
-    ],
+    "options": ["It goes on increasing", "It remains exactly the same", "It goes on decreasing", "It fluctuates randomly"],
     "correct_index": 2,
     "explanation": "Say, for example, as we go higher from species to kingdom, the number of common characteristics goes on decreasing.",
     "ncert_page": 8,
@@ -611,12 +421,7 @@
     "mcq_id": "c1_bio_q39",
     "chapter_id": "c1",
     "question": "What is the biological name of the common housefly?",
-    "options": [
-      "Mangifera indica",
-      "Musca domestica",
-      "Homo sapiens",
-      "Triticum aestivum"
-    ],
+    "options": ["Mangifera indica", "Musca domestica", "Homo sapiens", "Triticum aestivum"],
     "correct_index": 1,
     "explanation": "Table 1.1 indicates the taxonomic categories. The biological name of the housefly is Musca domestica.",
     "ncert_page": 8,
@@ -627,12 +432,7 @@
     "mcq_id": "c1_bio_q40",
     "chapter_id": "c1",
     "question": "To which family does the housefly belong?",
-    "options": [
-      "Hominidae",
-      "Muscidae",
-      "Poaceae",
-      "Anacardiaceae"
-    ],
+    "options": ["Hominidae", "Muscidae", "Poaceae", "Anacardiaceae"],
     "correct_index": 1,
     "explanation": "Table 1.1 shows that the housefly belongs to the family Muscidae.",
     "ncert_page": 8,
@@ -643,12 +443,7 @@
     "mcq_id": "c1_bio_q41",
     "chapter_id": "c1",
     "question": "The housefly (Musca domestica) belongs to which order?",
-    "options": [
-      "Primata",
-      "Sapindales",
-      "Diptera",
-      "Poales"
-    ],
+    "options": ["Primata", "Sapindales", "Diptera", "Poales"],
     "correct_index": 2,
     "explanation": "According to Table 1.1, the housefly is placed in the order Diptera.",
     "ncert_page": 8,
@@ -659,12 +454,7 @@
     "mcq_id": "c1_bio_q42",
     "chapter_id": "c1",
     "question": "What is the biological name of mango?",
-    "options": [
-      "Musca domestica",
-      "Triticum aestivum",
-      "Mangifera indica",
-      "Solanum tuberosum"
-    ],
+    "options": ["Musca domestica", "Triticum aestivum", "Mangifera indica", "Solanum tuberosum"],
     "correct_index": 2,
     "explanation": "Table 1.1 identifies the biological name of mango as Mangifera indica.",
     "ncert_page": 8,
@@ -675,12 +465,7 @@
     "mcq_id": "c1_bio_q43",
     "chapter_id": "c1",
     "question": "Mango belongs to which taxonomic family?",
-    "options": [
-      "Solanaceae",
-      "Anacardiaceae",
-      "Poaceae",
-      "Muscidae"
-    ],
+    "options": ["Solanaceae", "Anacardiaceae", "Poaceae", "Muscidae"],
     "correct_index": 1,
     "explanation": "As per Table 1.1, mango (Mangifera indica) belongs to the family Anacardiaceae.",
     "ncert_page": 8,
@@ -691,12 +476,7 @@
     "mcq_id": "c1_bio_q44",
     "chapter_id": "c1",
     "question": "To which order does mango (Mangifera indica) belong?",
-    "options": [
-      "Diptera",
-      "Sapindales",
-      "Poales",
-      "Polymoniales"
-    ],
+    "options": ["Diptera", "Sapindales", "Poales", "Polymoniales"],
     "correct_index": 1,
     "explanation": "Table 1.1 specifies that mango belongs to the order Sapindales.",
     "ncert_page": 8,
@@ -707,12 +487,7 @@
     "mcq_id": "c1_bio_q45",
     "chapter_id": "c1",
     "question": "In taxonomic classification, mango is placed in which class?",
-    "options": [
-      "Mammalia",
-      "Insecta",
-      "Monocotyledonae",
-      "Dicotyledonae"
-    ],
+    "options": ["Mammalia", "Insecta", "Monocotyledonae", "Dicotyledonae"],
     "correct_index": 3,
     "explanation": "Table 1.1 indicates that mango belongs to the class Dicotyledonae.",
     "ncert_page": 8,
@@ -723,12 +498,7 @@
     "mcq_id": "c1_bio_q46",
     "chapter_id": "c1",
     "question": "What is the biological name for wheat?",
-    "options": [
-      "Mangifera indica",
-      "Triticum aestivum",
-      "Musca domestica",
-      "Homo sapiens"
-    ],
+    "options": ["Mangifera indica", "Triticum aestivum", "Musca domestica", "Homo sapiens"],
     "correct_index": 1,
     "explanation": "Table 1.1 lists the biological name of wheat as Triticum aestivum.",
     "ncert_page": 8,
@@ -739,12 +509,7 @@
     "mcq_id": "c1_bio_q47",
     "chapter_id": "c1",
     "question": "Wheat (Triticum aestivum) belongs to which family?",
-    "options": [
-      "Poaceae",
-      "Anacardiaceae",
-      "Hominidae",
-      "Solanaceae"
-    ],
+    "options": ["Poaceae", "Anacardiaceae", "Hominidae", "Solanaceae"],
     "correct_index": 0,
     "explanation": "According to Table 1.1, wheat belongs to the family Poaceae.",
     "ncert_page": 8,
@@ -755,12 +520,7 @@
     "mcq_id": "c1_bio_q48",
     "chapter_id": "c1",
     "question": "To which order is wheat assigned in the taxonomic hierarchy?",
-    "options": [
-      "Primata",
-      "Diptera",
-      "Poales",
-      "Sapindales"
-    ],
+    "options": ["Primata", "Diptera", "Poales", "Sapindales"],
     "correct_index": 2,
     "explanation": "Table 1.1 places wheat in the taxonomic order Poales.",
     "ncert_page": 8,
@@ -771,12 +531,7 @@
     "mcq_id": "c1_bio_q49",
     "chapter_id": "c1",
     "question": "Wheat is classified under which class?",
-    "options": [
-      "Dicotyledonae",
-      "Monocotyledonae",
-      "Mammalia",
-      "Insecta"
-    ],
+    "options": ["Dicotyledonae", "Monocotyledonae", "Mammalia", "Insecta"],
     "correct_index": 1,
     "explanation": "As seen in Table 1.1, wheat belongs to the class Monocotyledonae.",
     "ncert_page": 8,
@@ -787,12 +542,7 @@
     "mcq_id": "c1_bio_q50",
     "chapter_id": "c1",
     "question": "Mango and wheat both share the same highest taxonomic 'Division' category. What is it?",
-    "options": [
-      "Arthropoda",
-      "Chordata",
-      "Angiospermae",
-      "Mammalia"
-    ],
+    "options": ["Arthropoda", "Chordata", "Angiospermae", "Mammalia"],
     "correct_index": 2,
     "explanation": "According to Table 1.1, both mango and wheat belong to the division Angiospermae.",
     "ncert_page": 8,

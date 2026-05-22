@@ -4,23 +4,23 @@
       "id": 1103,
       "title": "Chemistry Part 1",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kech1.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Chemistry",
       "chapterCount": 6,
-      "parts": 2
+      "parts": 2,
+      "coverUrl": ""
     },
     {
       "id": 1104,
       "title": "Chemistry Part 2",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kech2.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Chemistry",
       "chapterCount": 3,
-      "parts": 2
+      "parts": 2,
+      "coverUrl": ""
     }
   ],
   "chapters": [
@@ -39,10 +39,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1XgOyRdqySBJZwqi4KucwFjq2d3PZ2w1c/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1VYgy7QslCY4axJeKNr5o3ed_111c-clO/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/science/chemistry/ch1.pdf",
-      "mcqUrl": "class_11/science/chemistry/mcqs/chem_ch1.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 110302,
@@ -59,10 +59,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1KT2esJlP4VAFbe30JJWhPtGCyjusn6r0/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1phDfjZtgsXU2UySWuwc8m_-VcFq8M994/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/science/chemistry/ch2.pdf",
-      "mcqUrl": "class_11/science/chemistry/mcqs/chem_ch2.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 110303,
@@ -79,10 +79,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1u6X4NYjFFynMNLUxPMk4JToTBLzR7hqt/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1x2bPiz0-123ATqj5Jk2RbVD5U5APLcJy/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/science/chemistry/ch3.pdf",
-      "mcqUrl": "class_11/science/chemistry/mcqs/chem_ch3.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 110304,
@@ -99,10 +99,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1wa3SjJo9xETamVdwWLVNSDXPA_ezBsPT/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1OgVMtiorwh69w4O-WklbrT-m4aWZ3MI1/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/science/chemistry/ch4.pdf",
-      "mcqUrl": "class_11/science/chemistry/mcqs/chem_ch4.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 110305,
@@ -119,10 +119,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1CKPsSFiqULtgJp1JzHO1gQoqLcL5JuH7/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1_O2ygAIrHt238Hw_KwFDB2tg9yKJE1nK/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/science/chemistry/ch6.pdf",
-      "mcqUrl": "class_11/science/chemistry/mcqs/chem_ch5.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 110306,
@@ -139,10 +139,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1HyRQEdtk3bOLUkQCAx-pWrEaHiWEARMg/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1X-ll3W9I1wrmJBb8m1Bv2s48EQulHo2p/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/science/chemistry/ch7.pdf",
-      "mcqUrl": "class_11/science/chemistry/mcqs/chem_ch6.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 110401,
@@ -159,10 +159,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1s_DQSSifmoMDfUdzBccnL-7PUD-xJU7o/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1IvZjkkDFXXJYq7iy3UpMNmCNl89Wk4_F/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/science/chemistry/ch8.pdf",
-      "mcqUrl": "class_11/science/chemistry/mcqs/chem_ch7.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 110402,
@@ -179,10 +179,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1poPFzTmTuz2uDVyzwniYTFpizH-Wmxh9/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1qG-6SuFp-ytybSxU3ih0mAt2Z6Ch2Plw/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/science/chemistry/ch11.pdf",
-      "mcqUrl": "class_11/science/chemistry/mcqs/chem_ch8.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 110403,
@@ -199,10 +199,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1oqDH3csn5C1c_oe-j3a2Q6LPpWaHGhoW/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1mtpffxC7a0r2PHLFovzaHr9v-Brhqs4t/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/science/chemistry/ch12.pdf",
-      "mcqUrl": "class_11/science/chemistry/mcqs/chem_ch9.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     }
   ]
 }

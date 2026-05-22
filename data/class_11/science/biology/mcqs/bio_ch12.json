@@ -3,14 +3,9 @@
     "mcq_id": "c12_q01",
     "chapter_id": "c12",
     "question": "In eukaryotes, where does the breakdown of complex molecules to yield energy take place?",
-    "options": [
-      "Only in the cytoplasm",
-      "Only in the chloroplasts",
-      "In the cytoplasm and in the mitochondria",
-      "In the nucleus and the endoplasmic reticulum"
-    ],
+    "options": ["Only in the cytoplasm", "Only in the chloroplasts", "In the cytoplasm and in the mitochondria", "In the nucleus and the endoplasmic reticulum"],
     "correct_index": 2,
-    "explanation": "Photosynthesis, of course, takes place within the chloroplasts (in the eukaryotes), whereas the breakdown of complex molecules to yield energy takes place in the cytoplasm and in the mitochondria (also only in eukaryotes)[cite: 1].",
+    "explanation": "Photosynthesis, of course, takes place within the chloroplasts (in the eukaryotes), whereas the breakdown of complex molecules to yield energy takes place in the cytoplasm and in the mitochondria (also only in eukaryotes).",
     "ncert_page": 154,
     "difficulty": "medium",
     "subject": "Biology"
@@ -19,14 +14,9 @@
     "mcq_id": "c12_q02",
     "chapter_id": "c12",
     "question": "The breaking of C-C bonds of complex compounds through oxidation within the cells, leading to the release of considerable energy, is called:",
-    "options": [
-      "Photosynthesis",
-      "Respiration",
-      "Digestion",
-      "Fermentation"
-    ],
+    "options": ["Photosynthesis", "Respiration", "Digestion", "Fermentation"],
     "correct_index": 1,
-    "explanation": "The breaking of the C-C bonds of complex compounds through oxidation within the cells, leading to release of considerable amount of energy is called respiration[cite: 1].",
+    "explanation": "The breaking of the C-C bonds of complex compounds through oxidation within the cells, leading to release of considerable amount of energy is called respiration.",
     "ncert_page": 154,
     "difficulty": "easy",
     "subject": "Biology"
@@ -35,14 +25,9 @@
     "mcq_id": "c12_q03",
     "chapter_id": "c12",
     "question": "Which molecule acts as the energy currency of the cell?",
-    "options": [
-      "NADH",
-      "GTP",
-      "ATP",
-      "FADH2"
-    ],
+    "options": ["NADH", "GTP", "ATP", "FADH2"],
     "correct_index": 2,
-    "explanation": "It is trapped as chemical energy in the form of ATP. Hence, ATP acts as the energy currency of the cell[cite: 1].",
+    "explanation": "It is trapped as chemical energy in the form of ATP. Hence, ATP acts as the energy currency of the cell.",
     "ncert_page": 154,
     "difficulty": "easy",
     "subject": "Biology"
@@ -51,14 +36,9 @@
     "mcq_id": "c12_q04",
     "chapter_id": "c12",
     "question": "Which structures in plants serve the purpose of gaseous exchange, since they lack specialised respiratory organs?",
-    "options": [
-      "Stomata and lenticels",
-      "Xylem and phloem",
-      "Root hairs and guard cells",
-      "Mesophyll and bundle sheath"
-    ],
+    "options": ["Stomata and lenticels", "Xylem and phloem", "Root hairs and guard cells", "Mesophyll and bundle sheath"],
     "correct_index": 0,
-    "explanation": "Plants, unlike animals, have no specialised organs for gaseous exchange but they have stomata and lenticels for this purpose[cite: 1].",
+    "explanation": "Plants, unlike animals, have no specialised organs for gaseous exchange but they have stomata and lenticels for this purpose.",
     "ncert_page": 154,
     "difficulty": "easy",
     "subject": "Biology"
@@ -67,14 +47,9 @@
     "mcq_id": "c12_q05",
     "chapter_id": "c12",
     "question": "Why is the availability of oxygen not a problem for plant cells during active photosynthesis?",
-    "options": [
-      "Because they absorb oxygen rapidly from the soil",
-      "Because oxygen is released within the cell during photosynthesis",
-      "Because they switch entirely to anaerobic respiration",
-      "Because they stop respiring during the day"
-    ],
+    "options": ["Because they absorb oxygen rapidly from the soil", "Because oxygen is released within the cell during photosynthesis", "Because they switch entirely to anaerobic respiration", "Because they stop respiring during the day"],
     "correct_index": 1,
-    "explanation": "When cells photosynthesise, availability of O2 is not a problem in these cells since O2 is released within the cell[cite: 1].",
+    "explanation": "When cells photosynthesise, availability of O2 is not a problem in these cells since O2 is released within the cell.",
     "ncert_page": 154,
     "difficulty": "medium",
     "subject": "Biology"
@@ -83,14 +58,9 @@
     "mcq_id": "c12_q06",
     "chapter_id": "c12",
     "question": "What are the openings in the bark of thick, woody stems that allow for gas exchange called?",
-    "options": [
-      "Stomata",
-      "Hydathodes",
-      "Lenticels",
-      "Pneumatophores"
-    ],
+    "options": ["Stomata", "Hydathodes", "Lenticels", "Pneumatophores"],
     "correct_index": 2,
-    "explanation": "In stems, the 'living' cells are organised in thin layers inside and beneath the bark. They also have openings called lenticels[cite: 1].",
+    "explanation": "In stems, the 'living' cells are organised in thin layers inside and beneath the bark. They also have openings called lenticels.",
     "ncert_page": 155,
     "difficulty": "easy",
     "subject": "Biology"
@@ -99,14 +69,9 @@
     "mcq_id": "c12_q07",
     "chapter_id": "c12",
     "question": "The complete combustion of glucose yields energy, most of which is given out as:",
-    "options": [
-      "ATP",
-      "Light",
-      "Heat",
-      "Chemical bonds"
-    ],
+    "options": ["ATP", "Light", "Heat", "Chemical bonds"],
     "correct_index": 2,
-    "explanation": "The complete combustion of glucose, which produces CO2 and H2O as end products, yields energy most of which is given out as heat[cite: 1].",
+    "explanation": "The complete combustion of glucose, which produces CO2 and H2O as end products, yields energy most of which is given out as heat.",
     "ncert_page": 155,
     "difficulty": "medium",
     "subject": "Biology"
@@ -115,14 +80,9 @@
     "mcq_id": "c12_q08",
     "chapter_id": "c12",
     "question": "What is the primary reason to believe that the first cells on this planet lived without oxygen?",
-    "options": [
-      "They were all photosynthetic",
-      "The early atmosphere lacked oxygen",
-      "They respired purely on carbon dioxide",
-      "They did not require any energy"
-    ],
+    "options": ["They were all photosynthetic", "The early atmosphere lacked oxygen", "They respired purely on carbon dioxide", "They did not require any energy"],
     "correct_index": 1,
-    "explanation": "There are sufficient reasons to believe that the first cells on this planet lived in an atmosphere that lacked oxygen[cite: 1].",
+    "explanation": "There are sufficient reasons to believe that the first cells on this planet lived in an atmosphere that lacked oxygen.",
     "ncert_page": 155,
     "difficulty": "easy",
     "subject": "Biology"
@@ -131,14 +91,9 @@
     "mcq_id": "c12_q09",
     "chapter_id": "c12",
     "question": "The process of partial oxidation of glucose to pyruvic acid without the help of oxygen is called:",
-    "options": [
-      "Krebs' cycle",
-      "Glycolysis",
-      "Fermentation",
-      "Oxidative phosphorylation"
-    ],
+    "options": ["Krebs' cycle", "Glycolysis", "Fermentation", "Oxidative phosphorylation"],
     "correct_index": 1,
-    "explanation": "In any case, all living organisms retain the enzymatic machinery to partially oxidise glucose without the help of oxygen. This breakdown of glucose to pyruvic acid is called glycolysis[cite: 1].",
+    "explanation": "In any case, all living organisms retain the enzymatic machinery to partially oxidise glucose without the help of oxygen. This breakdown of glucose to pyruvic acid is called glycolysis.",
     "ncert_page": 155,
     "difficulty": "easy",
     "subject": "Biology"
@@ -147,14 +102,9 @@
     "mcq_id": "c12_q10",
     "chapter_id": "c12",
     "question": "The scheme of glycolysis is often referred to as the EMP pathway, named after which three scientists?",
-    "options": [
-      "Embden, Meyerhof, and Parnas",
-      "Ehrlich, Mendel, and Pasteur",
-      "Emerson, Melvin, and Priestley",
-      "Embden, Meyerhof, and Pauling"
-    ],
+    "options": ["Embden, Meyerhof, and Parnas", "Ehrlich, Mendel, and Pasteur", "Emerson, Melvin, and Priestley", "Embden, Meyerhof, and Pauling"],
     "correct_index": 0,
-    "explanation": "The scheme of glycolysis was given by Gustav Embden, Otto Meyerhof, and J. Parnas, and is often referred to as the EMP pathway[cite: 1].",
+    "explanation": "The scheme of glycolysis was given by Gustav Embden, Otto Meyerhof, and J. Parnas, and is often referred to as the EMP pathway.",
     "ncert_page": 155,
     "difficulty": "medium",
     "subject": "Biology"
@@ -163,14 +113,9 @@
     "mcq_id": "c12_q11",
     "chapter_id": "c12",
     "question": "Where does glycolysis occur in the cell?",
-    "options": [
-      "Mitochondrial matrix",
-      "Inner mitochondrial membrane",
-      "Cytoplasm",
-      "Chloroplast stroma"
-    ],
+    "options": ["Mitochondrial matrix", "Inner mitochondrial membrane", "Cytoplasm", "Chloroplast stroma"],
     "correct_index": 2,
-    "explanation": "Glycolysis occurs in the cytoplasm of the cell and is present in all living organisms[cite: 1].",
+    "explanation": "Glycolysis occurs in the cytoplasm of the cell and is present in all living organisms.",
     "ncert_page": 155,
     "difficulty": "easy",
     "subject": "Biology"
@@ -179,14 +124,9 @@
     "mcq_id": "c12_q12",
     "chapter_id": "c12",
     "question": "In plants, sucrose is converted into glucose and fructose by the enzyme:",
-    "options": [
-      "Hexokinase",
-      "Invertase",
-      "Amylase",
-      "Isomerase"
-    ],
+    "options": ["Hexokinase", "Invertase", "Amylase", "Isomerase"],
     "correct_index": 1,
-    "explanation": "Sucrose is converted into glucose and fructose by the enzyme, invertase, and these two monosaccharides readily enter the glycolytic pathway[cite: 1].",
+    "explanation": "Sucrose is converted into glucose and fructose by the enzyme, invertase, and these two monosaccharides readily enter the glycolytic pathway.",
     "ncert_page": 156,
     "difficulty": "medium",
     "subject": "Biology"
@@ -195,14 +135,9 @@
     "mcq_id": "c12_q13",
     "chapter_id": "c12",
     "question": "Which enzyme phosphorylates glucose and fructose to give rise to glucose-6-phosphate?",
-    "options": [
-      "Invertase",
-      "Hexokinase",
-      "Aldolase",
-      "Dehydrogenase"
-    ],
+    "options": ["Invertase", "Hexokinase", "Aldolase", "Dehydrogenase"],
     "correct_index": 1,
-    "explanation": "Glucose and fructose are phosphorylated to give rise to glucose-6-phosphate by the activity of the enzyme hexokinase[cite: 1].",
+    "explanation": "Glucose and fructose are phosphorylated to give rise to glucose-6-phosphate by the activity of the enzyme hexokinase.",
     "ncert_page": 156,
     "difficulty": "hard",
     "subject": "Biology"
@@ -211,14 +146,9 @@
     "mcq_id": "c12_q14",
     "chapter_id": "c12",
     "question": "During glycolysis, ATP is utilised in which of the following conversions?",
-    "options": [
-      "Glucose to Glucose-6-phosphate",
-      "Glucose-6-phosphate to Fructose-6-phosphate",
-      "PGAL to BPGA",
-      "PEP to Pyruvic acid"
-    ],
+    "options": ["Glucose to Glucose-6-phosphate", "Glucose-6-phosphate to Fructose-6-phosphate", "PGAL to BPGA", "PEP to Pyruvic acid"],
     "correct_index": 0,
-    "explanation": "ATP is utilised at two steps: first in the conversion of glucose into glucose 6-phosphate and second in the conversion of fructose 6-phosphate to fructose 1, 6-bisphosphate[cite: 1].",
+    "explanation": "ATP is utilised at two steps: first in the conversion of glucose into glucose 6-phosphate and second in the conversion of fructose 6-phosphate to fructose 1, 6-bisphosphate.",
     "ncert_page": 156,
     "difficulty": "hard",
     "subject": "Biology"
@@ -227,14 +157,9 @@
     "mcq_id": "c12_q15",
     "chapter_id": "c12",
     "question": "Fructose 1,6-bisphosphate is split into dihydroxyacetone phosphate and:",
-    "options": [
-      "1,3-bisphosphoglyceric acid",
-      "3-phosphoglyceraldehyde (PGAL)",
-      "2-phosphoglycerate",
-      "Phosphoenolpyruvate"
-    ],
+    "options": ["1,3-bisphosphoglyceric acid", "3-phosphoglyceraldehyde (PGAL)", "2-phosphoglycerate", "Phosphoenolpyruvate"],
     "correct_index": 1,
-    "explanation": "The fructose 1, 6-bisphosphate is split into dihydroxyacetone phosphate and 3-phosphoglyceraldehyde (PGAL)[cite: 1].",
+    "explanation": "The fructose 1, 6-bisphosphate is split into dihydroxyacetone phosphate and 3-phosphoglyceraldehyde (PGAL).",
     "ncert_page": 156,
     "difficulty": "medium",
     "subject": "Biology"
@@ -243,14 +168,9 @@
     "mcq_id": "c12_q16",
     "chapter_id": "c12",
     "question": "In glycolysis, NADH + H+ is formed from NAD+ during the conversion of:",
-    "options": [
-      "Fructose-6-phosphate to Fructose 1,6-bisphosphate",
-      "PGAL to 1,3-bisphosphoglycerate (BPGA)",
-      "BPGA to 3-phosphoglyceric acid",
-      "Phosphoenolpyruvate to Pyruvic acid"
-    ],
+    "options": ["Fructose-6-phosphate to Fructose 1,6-bisphosphate", "PGAL to 1,3-bisphosphoglycerate (BPGA)", "BPGA to 3-phosphoglyceric acid", "Phosphoenolpyruvate to Pyruvic acid"],
     "correct_index": 1,
-    "explanation": "We find that there is one step where NADH + H+ is formed from NAD+; this is when 3-phosphoglyceraldehyde (PGAL) is converted to 1, 3-bisphosphoglycerate (BPGA)[cite: 1].",
+    "explanation": "We find that there is one step where NADH + H+ is formed from NAD+; this is when 3-phosphoglyceraldehyde (PGAL) is converted to 1, 3-bisphosphoglycerate (BPGA).",
     "ncert_page": 156,
     "difficulty": "hard",
     "subject": "Biology"
@@ -259,14 +179,9 @@
     "mcq_id": "c12_q17",
     "chapter_id": "c12",
     "question": "How many redox-equivalents are removed from PGAL when it is oxidised?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
+    "options": ["One", "Two", "Three", "Four"],
     "correct_index": 1,
-    "explanation": "Two redox-equivalents are removed (in the form of two hydrogen atoms) from PGAL and transferred to a molecule of NAD+[cite: 1].",
+    "explanation": "Two redox-equivalents are removed (in the form of two hydrogen atoms) from PGAL and transferred to a molecule of NAD+.",
     "ncert_page": 156,
     "difficulty": "medium",
     "subject": "Biology"
@@ -275,14 +190,9 @@
     "mcq_id": "c12_q18",
     "chapter_id": "c12",
     "question": "Which step in glycolysis is an energy yielding process that traps energy by the formation of ATP?",
-    "options": [
-      "Glucose to Glucose-6-phosphate",
-      "Conversion of BPGA to 3-phosphoglyceric acid (PGA)",
-      "Fructose-6-phosphate to Fructose 1,6-bisphosphate",
-      "PGAL to BPGA"
-    ],
+    "options": ["Glucose to Glucose-6-phosphate", "Conversion of BPGA to 3-phosphoglyceric acid (PGA)", "Fructose-6-phosphate to Fructose 1,6-bisphosphate", "PGAL to BPGA"],
     "correct_index": 1,
-    "explanation": "The conversion of BPGA to 3-phosphoglyceric acid (PGA), is also an energy yielding process; this energy is trapped by the formation of ATP[cite: 1].",
+    "explanation": "The conversion of BPGA to 3-phosphoglyceric acid (PGA), is also an energy yielding process; this energy is trapped by the formation of ATP.",
     "ncert_page": 156,
     "difficulty": "medium",
     "subject": "Biology"
@@ -291,14 +201,9 @@
     "mcq_id": "c12_q19",
     "chapter_id": "c12",
     "question": "What is the key product of glycolysis?",
-    "options": [
-      "Lactic acid",
-      "Ethanol",
-      "Pyruvic acid",
-      "Acetyl CoA"
-    ],
+    "options": ["Lactic acid", "Ethanol", "Pyruvic acid", "Acetyl CoA"],
     "correct_index": 2,
-    "explanation": "Pyruvic acid is then the key product of glycolysis[cite: 1].",
+    "explanation": "Pyruvic acid is then the key product of glycolysis.",
     "ncert_page": 156,
     "difficulty": "easy",
     "subject": "Biology"
@@ -307,14 +212,9 @@
     "mcq_id": "c12_q20",
     "chapter_id": "c12",
     "question": "Which of the following is NOT one of the three major ways different cells handle pyruvic acid produced by glycolysis?",
-    "options": [
-      "Lactic acid fermentation",
-      "Alcoholic fermentation",
-      "Aerobic respiration",
-      "Photorespiration"
-    ],
+    "options": ["Lactic acid fermentation", "Alcoholic fermentation", "Aerobic respiration", "Photorespiration"],
     "correct_index": 3,
-    "explanation": "There are three major ways in which different cells handle pyruvic acid produced by glycolysis. These are lactic acid fermentation, alcoholic fermentation and aerobic respiration[cite: 1].",
+    "explanation": "There are three major ways in which different cells handle pyruvic acid produced by glycolysis. These are lactic acid fermentation, alcoholic fermentation and aerobic respiration.",
     "ncert_page": 157,
     "difficulty": "easy",
     "subject": "Biology"
@@ -323,14 +223,9 @@
     "mcq_id": "c12_q21",
     "chapter_id": "c12",
     "question": "In alcoholic fermentation by yeast, pyruvic acid is converted into:",
-    "options": [
-      "Lactic acid and H2O",
-      "CO2 and ethanol",
-      "Acetic acid and CO2",
-      "Citric acid and ethanol"
-    ],
+    "options": ["Lactic acid and H2O", "CO2 and ethanol", "Acetic acid and CO2", "Citric acid and ethanol"],
     "correct_index": 1,
-    "explanation": "In fermentation, say by yeast, the incomplete oxidation of glucose is achieved under anaerobic conditions by sets of reactions where pyruvic acid is converted to CO2 and ethanol[cite: 1].",
+    "explanation": "In fermentation, say by yeast, the incomplete oxidation of glucose is achieved under anaerobic conditions by sets of reactions where pyruvic acid is converted to CO2 and ethanol.",
     "ncert_page": 157,
     "difficulty": "medium",
     "subject": "Biology"
@@ -339,14 +234,9 @@
     "mcq_id": "c12_q22",
     "chapter_id": "c12",
     "question": "Which enzymes catalyse the conversion of pyruvic acid to CO2 and ethanol in yeast?",
-    "options": [
-      "Lactate dehydrogenase and invertase",
-      "Pyruvic acid decarboxylase and alcohol dehydrogenase",
-      "Hexokinase and aldolase",
-      "Citrate synthase and isomerase"
-    ],
+    "options": ["Lactate dehydrogenase and invertase", "Pyruvic acid decarboxylase and alcohol dehydrogenase", "Hexokinase and aldolase", "Citrate synthase and isomerase"],
     "correct_index": 1,
-    "explanation": "The enzymes, pyruvic acid decarboxylase and alcohol dehydrogenase catalyse these reactions[cite: 1].",
+    "explanation": "The enzymes, pyruvic acid decarboxylase and alcohol dehydrogenase catalyse these reactions.",
     "ncert_page": 157,
     "difficulty": "hard",
     "subject": "Biology"
@@ -355,14 +245,9 @@
     "mcq_id": "c12_q23",
     "chapter_id": "c12",
     "question": "During rigorous exercise when oxygen is inadequate, pyruvic acid in animal muscle cells is reduced to:",
-    "options": [
-      "Ethanol",
-      "Lactic acid",
-      "Acetic acid",
-      "Acetyl CoA"
-    ],
+    "options": ["Ethanol", "Lactic acid", "Acetic acid", "Acetyl CoA"],
     "correct_index": 1,
-    "explanation": "In animal cells also, like muscles during exercise, when oxygen is inadequate for cellular respiration pyruvic acid is reduced to lactic acid by lactate dehydrogenase[cite: 1].",
+    "explanation": "In animal cells also, like muscles during exercise, when oxygen is inadequate for cellular respiration pyruvic acid is reduced to lactic acid by lactate dehydrogenase.",
     "ncert_page": 157,
     "difficulty": "easy",
     "subject": "Biology"
@@ -371,14 +256,9 @@
     "mcq_id": "c12_q24",
     "chapter_id": "c12",
     "question": "What is the reducing agent in both lactic acid and alcoholic fermentation?",
-    "options": [
-      "FADH2",
-      "NAD+",
-      "NADH+H+",
-      "ATP"
-    ],
+    "options": ["FADH2", "NAD+", "NADH+H+", "ATP"],
     "correct_index": 2,
-    "explanation": "The reducing agent is NADH+H+ which is reoxidised to NAD+ in both the processes[cite: 1].",
+    "explanation": "The reducing agent is NADH+H+ which is reoxidised to NAD+ in both the processes.",
     "ncert_page": 157,
     "difficulty": "medium",
     "subject": "Biology"
@@ -387,14 +267,9 @@
     "mcq_id": "c12_q25",
     "chapter_id": "c12",
     "question": "In both lactic acid and alcohol fermentation, how much of the energy originally present in glucose is released?",
-    "options": [
-      "More than 50%",
-      "About 38%",
-      "Less than 7%",
-      "Almost 100%"
-    ],
+    "options": ["More than 50%", "About 38%", "Less than 7%", "Almost 100%"],
     "correct_index": 2,
-    "explanation": "In both lactic acid and alcohol fermentation not much energy is released; less than seven per cent of the energy in glucose is released...[cite: 1].",
+    "explanation": "In both lactic acid and alcohol fermentation not much energy is released; less than seven per cent of the energy in glucose is released....",
     "ncert_page": 157,
     "difficulty": "medium",
     "subject": "Biology"
@@ -403,14 +278,9 @@
     "mcq_id": "c12_q26",
     "chapter_id": "c12",
     "question": "At what concentration of alcohol do yeasts poison themselves to death?",
-    "options": [
-      "About 5 per cent",
-      "About 13 per cent",
-      "About 25 per cent",
-      "About 40 per cent"
-    ],
+    "options": ["About 5 per cent", "About 13 per cent", "About 25 per cent", "About 40 per cent"],
     "correct_index": 1,
-    "explanation": "Yeasts poison themselves to death when the concentration of alcohol reaches about 13 per cent[cite: 1].",
+    "explanation": "Yeasts poison themselves to death when the concentration of alcohol reaches about 13 per cent.",
     "ncert_page": 157,
     "difficulty": "easy",
     "subject": "Biology"
@@ -419,14 +289,9 @@
     "mcq_id": "c12_q27",
     "chapter_id": "c12",
     "question": "For aerobic respiration to take place, the final product of glycolysis is transported from the cytoplasm into the:",
-    "options": [
-      "Nucleus",
-      "Chloroplast",
-      "Golgi apparatus",
-      "Mitochondria"
-    ],
+    "options": ["Nucleus", "Chloroplast", "Golgi apparatus", "Mitochondria"],
     "correct_index": 3,
-    "explanation": "For aerobic respiration to take place within the mitochondria, the final product of glycolysis, pyruvate is transported from the cytoplasm into the mitochondria[cite: 1].",
+    "explanation": "For aerobic respiration to take place within the mitochondria, the final product of glycolysis, pyruvate is transported from the cytoplasm into the mitochondria.",
     "ncert_page": 158,
     "difficulty": "easy",
     "subject": "Biology"
@@ -435,14 +300,9 @@
     "mcq_id": "c12_q28",
     "chapter_id": "c12",
     "question": "In aerobic respiration, where does the complete oxidation of pyruvate to CO2 take place?",
-    "options": [
-      "Inner membrane of the mitochondria",
-      "Cytoplasm",
-      "Matrix of the mitochondria",
-      "Intermembrane space"
-    ],
+    "options": ["Inner membrane of the mitochondria", "Cytoplasm", "Matrix of the mitochondria", "Intermembrane space"],
     "correct_index": 2,
-    "explanation": "What is interesting to note is that the first process takes place in the matrix of the mitochondria while the second process is located on the inner membrane of the mitochondria[cite: 1].",
+    "explanation": "What is interesting to note is that the first process takes place in the matrix of the mitochondria while the second process is located on the inner membrane of the mitochondria.",
     "ncert_page": 158,
     "difficulty": "medium",
     "subject": "Biology"
@@ -451,14 +311,9 @@
     "mcq_id": "c12_q29",
     "chapter_id": "c12",
     "question": "The oxidative decarboxylation of pyruvate in the mitochondrial matrix is catalysed by which enzyme?",
-    "options": [
-      "Citrate synthase",
-      "Pyruvic dehydrogenase",
-      "Lactate dehydrogenase",
-      "Hexokinase"
-    ],
+    "options": ["Citrate synthase", "Pyruvic dehydrogenase", "Lactate dehydrogenase", "Hexokinase"],
     "correct_index": 1,
-    "explanation": "...after it enters mitochondrial matrix undergoes oxidative decarboxylation by a complex set of reactions catalysed by pyruvic dehydrogenase[cite: 1].",
+    "explanation": "...after it enters mitochondrial matrix undergoes oxidative decarboxylation by a complex set of reactions catalysed by pyruvic dehydrogenase.",
     "ncert_page": 158,
     "difficulty": "hard",
     "subject": "Biology"
@@ -467,14 +322,9 @@
     "mcq_id": "c12_q30",
     "chapter_id": "c12",
     "question": "Which of the following coenzymes are required for the reactions catalysed by pyruvic dehydrogenase?",
-    "options": [
-      "FAD and ATP",
-      "NAD+ and Coenzyme A",
-      "NADP+ and FADH2",
-      "ADP and GTP"
-    ],
+    "options": ["FAD and ATP", "NAD+ and Coenzyme A", "NADP+ and FADH2", "ADP and GTP"],
     "correct_index": 1,
-    "explanation": "The reactions catalysed by pyruvic dehydrogenase require the participation of several coenzymes, including NAD+ and Coenzyme A[cite: 1].",
+    "explanation": "The reactions catalysed by pyruvic dehydrogenase require the participation of several coenzymes, including NAD+ and Coenzyme A.",
     "ncert_page": 158,
     "difficulty": "medium",
     "subject": "Biology"
@@ -483,14 +333,9 @@
     "mcq_id": "c12_q31",
     "chapter_id": "c12",
     "question": "The Tricarboxylic Acid (TCA) cycle starts with the condensation of acetyl group with:",
-    "options": [
-      "Citric acid and water",
-      "Oxaloacetic acid (OAA) and water",
-      "Malic acid and water",
-      "alpha-ketoglutaric acid and water"
-    ],
+    "options": ["Citric acid and water", "Oxaloacetic acid (OAA) and water", "Malic acid and water", "alpha-ketoglutaric acid and water"],
     "correct_index": 1,
-    "explanation": "The TCA cycle starts with the condensation of acetyl group with oxaloacetic acid (OAA) and water to yield citric acid[cite: 1].",
+    "explanation": "The TCA cycle starts with the condensation of acetyl group with oxaloacetic acid (OAA) and water to yield citric acid.",
     "ncert_page": 158,
     "difficulty": "medium",
     "subject": "Biology"
@@ -499,14 +344,9 @@
     "mcq_id": "c12_q32",
     "chapter_id": "c12",
     "question": "Which enzyme catalyses the first reaction of the TCA cycle?",
-    "options": [
-      "Pyruvate dehydrogenase",
-      "Succinate dehydrogenase",
-      "Citrate synthase",
-      "Isomerase"
-    ],
+    "options": ["Pyruvate dehydrogenase", "Succinate dehydrogenase", "Citrate synthase", "Isomerase"],
     "correct_index": 2,
-    "explanation": "The reaction is catalysed by the enzyme citrate synthase and a molecule of CoA is released[cite: 1].",
+    "explanation": "The reaction is catalysed by the enzyme citrate synthase and a molecule of CoA is released.",
     "ncert_page": 158,
     "difficulty": "hard",
     "subject": "Biology"
@@ -515,14 +355,9 @@
     "mcq_id": "c12_q33",
     "chapter_id": "c12",
     "question": "In the TCA cycle, the successive decarboxylation of isocitrate leads to the formation of:",
-    "options": [
-      "Malic acid",
-      "Oxaloacetic acid",
-      "alpha-ketoglutaric acid",
-      "Succinic acid"
-    ],
+    "options": ["Malic acid", "Oxaloacetic acid", "alpha-ketoglutaric acid", "Succinic acid"],
     "correct_index": 2,
-    "explanation": "Citrate is then isomerised to isocitrate. It is followed by two successive steps of decarboxylation, leading to the formation of a-ketoglutaric acid...[cite: 1].",
+    "explanation": "Citrate is then isomerised to isocitrate. It is followed by two successive steps of decarboxylation, leading to the formation of a-ketoglutaric acid....",
     "ncert_page": 158,
     "difficulty": "hard",
     "subject": "Biology"
@@ -531,14 +366,9 @@
     "mcq_id": "c12_q34",
     "chapter_id": "c12",
     "question": "During which conversion in the citric acid cycle is a molecule of GTP synthesised via substrate level phosphorylation?",
-    "options": [
-      "Citrate to isocitrate",
-      "alpha-ketoglutaric acid to succinyl-CoA",
-      "Succinyl-CoA to succinic acid",
-      "Malic acid to oxaloacetic acid"
-    ],
+    "options": ["Citrate to isocitrate", "alpha-ketoglutaric acid to succinyl-CoA", "Succinyl-CoA to succinic acid", "Malic acid to oxaloacetic acid"],
     "correct_index": 2,
-    "explanation": "During the conversion of succinyl-CoA to succinic acid a molecule of GTP is synthesised. This is a substrate level phosphorylation[cite: 1].",
+    "explanation": "During the conversion of succinyl-CoA to succinic acid a molecule of GTP is synthesised. This is a substrate level phosphorylation.",
     "ncert_page": 159,
     "difficulty": "hard",
     "subject": "Biology"
@@ -547,14 +377,9 @@
     "mcq_id": "c12_q35",
     "chapter_id": "c12",
     "question": "In one full turn of the TCA cycle, how many points exist where NAD+ is reduced to NADH + H+?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
+    "options": ["One", "Two", "Three", "Four"],
     "correct_index": 2,
-    "explanation": "Also there are three points in the cycle where NAD+ is reduced to NADH + H+ and one point where FAD+ is reduced to FADH2[cite: 1].",
+    "explanation": "Also there are three points in the cycle where NAD+ is reduced to NADH + H+ and one point where FAD+ is reduced to FADH2.",
     "ncert_page": 159,
     "difficulty": "medium",
     "subject": "Biology"
@@ -563,14 +388,9 @@
     "mcq_id": "c12_q36",
     "chapter_id": "c12",
     "question": "The metabolic pathway through which the electron passes from one carrier to another is called the:",
-    "options": [
-      "Tricarboxylic acid cycle",
-      "Electron transport system (ETS)",
-      "Glycolysis",
-      "Amphibolic pathway"
-    ],
+    "options": ["Tricarboxylic acid cycle", "Electron transport system (ETS)", "Glycolysis", "Amphibolic pathway"],
     "correct_index": 1,
-    "explanation": "The metabolic pathway through which the electron passes from one carrier to another, is called the electron transport system (ETS)[cite: 1].",
+    "explanation": "The metabolic pathway through which the electron passes from one carrier to another, is called the electron transport system (ETS).",
     "ncert_page": 159,
     "difficulty": "easy",
     "subject": "Biology"
@@ -579,14 +399,9 @@
     "mcq_id": "c12_q37",
     "chapter_id": "c12",
     "question": "In the ETS, electrons from NADH are oxidised by which complex?",
-    "options": [
-      "Complex I (NADH dehydrogenase)",
-      "Complex II (Succinate dehydrogenase)",
-      "Complex III (Cytochrome bc1)",
-      "Complex IV (Cytochrome c oxidase)"
-    ],
+    "options": ["Complex I (NADH dehydrogenase)", "Complex II (Succinate dehydrogenase)", "Complex III (Cytochrome bc1)", "Complex IV (Cytochrome c oxidase)"],
     "correct_index": 0,
-    "explanation": "Electrons from NADH produced in the mitochondrial matrix during citric acid cycle are oxidised by an NADH dehydrogenase (complex I)...[cite: 1].",
+    "explanation": "Electrons from NADH produced in the mitochondrial matrix during citric acid cycle are oxidised by an NADH dehydrogenase (complex I)....",
     "ncert_page": 159,
     "difficulty": "medium",
     "subject": "Biology"
@@ -595,14 +410,9 @@
     "mcq_id": "c12_q38",
     "chapter_id": "c12",
     "question": "In the ETS, which complex receives reducing equivalents via FADH2?",
-    "options": [
-      "Complex I",
-      "Complex II",
-      "Complex III",
-      "Complex IV"
-    ],
+    "options": ["Complex I", "Complex II", "Complex III", "Complex IV"],
     "correct_index": 1,
-    "explanation": "Ubiquinone also receives reducing equivalents via FADH2 (complex II) that is generated during oxidation of succinate in the citric acid cycle[cite: 1].",
+    "explanation": "Ubiquinone also receives reducing equivalents via FADH2 (complex II) that is generated during oxidation of succinate in the citric acid cycle.",
     "ncert_page": 160,
     "difficulty": "hard",
     "subject": "Biology"
@@ -611,14 +421,9 @@
     "mcq_id": "c12_q39",
     "chapter_id": "c12",
     "question": "Which molecule acts as a mobile carrier for the transfer of electrons between complex III and IV in the ETS?",
-    "options": [
-      "Ubiquinone",
-      "NADH dehydrogenase",
-      "Cytochrome c",
-      "Plastoquinone"
-    ],
+    "options": ["Ubiquinone", "NADH dehydrogenase", "Cytochrome c", "Plastoquinone"],
     "correct_index": 2,
-    "explanation": "Cytochrome c is a small protein attached to the outer surface of the inner membrane and acts as a mobile carrier for transfer of electrons between complex III and IV[cite: 1].",
+    "explanation": "Cytochrome c is a small protein attached to the outer surface of the inner membrane and acts as a mobile carrier for transfer of electrons between complex III and IV.",
     "ncert_page": 160,
     "difficulty": "hard",
     "subject": "Biology"
@@ -627,14 +432,9 @@
     "mcq_id": "c12_q40",
     "chapter_id": "c12",
     "question": "Complex IV in the ETS refers to the cytochrome c oxidase complex. Which of the following does it contain?",
-    "options": [
-      "Cytochromes b and c1",
-      "Cytochromes a and a3, and two copper centres",
-      "Iron-sulphur proteins and FMN",
-      "NADH dehydrogenase"
-    ],
+    "options": ["Cytochromes b and c1", "Cytochromes a and a3, and two copper centres", "Iron-sulphur proteins and FMN", "NADH dehydrogenase"],
     "correct_index": 1,
-    "explanation": "Complex IV refers to cytochrome c oxidase complex containing cytochromes a and a3, and two copper centres[cite: 1].",
+    "explanation": "Complex IV refers to cytochrome c oxidase complex containing cytochromes a and a3, and two copper centres.",
     "ncert_page": 160,
     "difficulty": "hard",
     "subject": "Biology"
@@ -643,14 +443,9 @@
     "mcq_id": "c12_q41",
     "chapter_id": "c12",
     "question": "How many molecules of ATP are produced by the oxidation of one molecule of NADH and one molecule of FADH2, respectively?",
-    "options": [
-      "2 and 3",
-      "3 and 2",
-      "38 and 36",
-      "1 and 2"
-    ],
+    "options": ["2 and 3", "3 and 2", "38 and 36", "1 and 2"],
     "correct_index": 1,
-    "explanation": "Oxidation of one molecule of NADH gives rise to 3 molecules of ATP, while that of one molecule of FADH2 produces 2 molecules of ATP[cite: 1].",
+    "explanation": "Oxidation of one molecule of NADH gives rise to 3 molecules of ATP, while that of one molecule of FADH2 produces 2 molecules of ATP.",
     "ncert_page": 160,
     "difficulty": "medium",
     "subject": "Biology"
@@ -659,14 +454,9 @@
     "mcq_id": "c12_q42",
     "chapter_id": "c12",
     "question": "What is the crucial role of oxygen in the terminal stage of aerobic respiration?",
-    "options": [
-      "It acts as an electron donor to initiate ETS",
-      "It acts as the final hydrogen acceptor to drive the whole process",
-      "It phosphorylates ADP to ATP",
-      "It splits glucose into two molecules of pyruvate"
-    ],
+    "options": ["It acts as an electron donor to initiate ETS", "It acts as the final hydrogen acceptor to drive the whole process", "It phosphorylates ADP to ATP", "It splits glucose into two molecules of pyruvate"],
     "correct_index": 1,
-    "explanation": "Yet, the presence of oxygen is vital, since it drives the whole process by removing hydrogen from the system. Oxygen acts as the final hydrogen acceptor[cite: 1].",
+    "explanation": "Yet, the presence of oxygen is vital, since it drives the whole process by removing hydrogen from the system. Oxygen acts as the final hydrogen acceptor.",
     "ncert_page": 160,
     "difficulty": "medium",
     "subject": "Biology"
@@ -675,14 +465,9 @@
     "mcq_id": "c12_q43",
     "chapter_id": "c12",
     "question": "Why is the process of ATP synthesis during respiration called oxidative phosphorylation?",
-    "options": [
-      "Because light energy is utilised for the proton gradient",
-      "Because energy from oxidation-reduction is utilised for phosphorylation",
-      "Because it involves the direct transfer of a phosphate group from a substrate",
-      "Because oxygen is produced as a byproduct"
-    ],
+    "options": ["Because light energy is utilised for the proton gradient", "Because energy from oxidation-reduction is utilised for phosphorylation", "Because it involves the direct transfer of a phosphate group from a substrate", "Because oxygen is produced as a byproduct"],
     "correct_index": 1,
-    "explanation": "...in respiration it is the energy of oxidation-reduction utilised for the same process. It is for this reason that the process is called oxidative phosphorylation[cite: 1].",
+    "explanation": "...in respiration it is the energy of oxidation-reduction utilised for the same process. It is for this reason that the process is called oxidative phosphorylation.",
     "ncert_page": 160,
     "difficulty": "medium",
     "subject": "Biology"
@@ -691,14 +476,9 @@
     "mcq_id": "c12_q44",
     "chapter_id": "c12",
     "question": "In the ATP synthase complex, which part contains the site for the synthesis of ATP from ADP and inorganic phosphate?",
-    "options": [
-      "The F0 integral membrane complex",
-      "The F1 headpiece",
-      "Cytochrome bc1",
-      "Cytochrome c"
-    ],
+    "options": ["The F0 integral membrane complex", "The F1 headpiece", "Cytochrome bc1", "Cytochrome c"],
     "correct_index": 1,
-    "explanation": "The F1 headpiece is a peripheral membrane protein complex and contains the site for synthesis of ATP from ADP and inorganic phosphate[cite: 1].",
+    "explanation": "The F1 headpiece is a peripheral membrane protein complex and contains the site for synthesis of ATP from ADP and inorganic phosphate.",
     "ncert_page": 161,
     "difficulty": "medium",
     "subject": "Biology"
@@ -707,14 +487,9 @@
     "mcq_id": "c12_q45",
     "chapter_id": "c12",
     "question": "According to the chemiosmotic hypothesis in mitochondria, how many protons must pass through the F0 channel from the intermembrane space to the matrix to produce one ATP?",
-    "options": [
-      "1H+",
-      "2H+",
-      "3H+",
-      "4H+"
-    ],
+    "options": ["1H+", "2H+", "3H+", "4H+"],
     "correct_index": 3,
-    "explanation": "For each ATP produced, 4H+ pass through F0 from the intermembrane space to the matrix down the electrochemical proton gradient[cite: 1].",
+    "explanation": "For each ATP produced, 4H+ pass through F0 from the intermembrane space to the matrix down the electrochemical proton gradient.",
     "ncert_page": 161,
     "difficulty": "hard",
     "subject": "Biology"
@@ -723,14 +498,9 @@
     "mcq_id": "c12_q46",
     "chapter_id": "c12",
     "question": "Under theoretical ideal conditions, what is the net gain of ATP molecules during the aerobic respiration of one molecule of glucose?",
-    "options": [
-      "2 ATP",
-      "8 ATP",
-      "36 ATP",
-      "38 ATP"
-    ],
+    "options": ["2 ATP", "8 ATP", "36 ATP", "38 ATP"],
     "correct_index": 3,
-    "explanation": "Hence, there can be a net gain of 38 ATP molecules during aerobic respiration of one molecule of glucose[cite: 1].",
+    "explanation": "Hence, there can be a net gain of 38 ATP molecules during aerobic respiration of one molecule of glucose.",
     "ncert_page": 161,
     "difficulty": "easy",
     "subject": "Biology"
@@ -739,14 +509,9 @@
     "mcq_id": "c12_q47",
     "chapter_id": "c12",
     "question": "Because the respiratory pathway is involved in both the breakdown (catabolism) and synthesis (anabolism) of substrates, it is best described as:",
-    "options": [
-      "A strictly catabolic pathway",
-      "An anabolic pathway",
-      "An amphibolic pathway",
-      "A linear pathway"
-    ],
+    "options": ["A strictly catabolic pathway", "An anabolic pathway", "An amphibolic pathway", "A linear pathway"],
     "correct_index": 2,
-    "explanation": "Because the respiratory pathway is involved in both anabolism and catabolism, it would hence be better to consider the respiratory pathway as an amphibolic pathway rather than as a catabolic one[cite: 1].",
+    "explanation": "Because the respiratory pathway is involved in both anabolism and catabolism, it would hence be better to consider the respiratory pathway as an amphibolic pathway rather than as a catabolic one.",
     "ncert_page": 162,
     "difficulty": "medium",
     "subject": "Biology"
@@ -755,14 +520,9 @@
     "mcq_id": "c12_q48",
     "chapter_id": "c12",
     "question": "What is the respiratory quotient (RQ)?",
-    "options": [
-      "The ratio of volume of O2 evolved to volume of CO2 consumed",
-      "The ratio of volume of CO2 evolved to volume of O2 consumed",
-      "The total amount of ATP produced per glucose molecule",
-      "The amount of heat released during respiration"
-    ],
+    "options": ["The ratio of volume of O2 evolved to volume of CO2 consumed", "The ratio of volume of CO2 evolved to volume of O2 consumed", "The total amount of ATP produced per glucose molecule", "The amount of heat released during respiration"],
     "correct_index": 1,
-    "explanation": "The ratio of the volume of CO2 evolved to the volume of O2 consumed in respiration is called the respiratory quotient (RQ) or respiratory ratio[cite: 1].",
+    "explanation": "The ratio of the volume of CO2 evolved to the volume of O2 consumed in respiration is called the respiratory quotient (RQ) or respiratory ratio.",
     "ncert_page": 163,
     "difficulty": "easy",
     "subject": "Biology"
@@ -771,14 +531,9 @@
     "mcq_id": "c12_q49",
     "chapter_id": "c12",
     "question": "When tripalmitin (a fatty acid) is used as a respiratory substrate, what is its respiratory quotient (RQ)?",
-    "options": [
-      "1.0",
-      "0.7",
-      "0.9",
-      "More than 1.0"
-    ],
+    "options": ["1.0", "0.7", "0.9", "More than 1.0"],
     "correct_index": 1,
-    "explanation": "When fats are used in respiration, the RQ is less than 1. Calculations for a fatty acid, tripalmitin... RQ = 102 CO2 / 145 O2 = 0.7[cite: 1].",
+    "explanation": "When fats are used in respiration, the RQ is less than 1. Calculations for a fatty acid, tripalmitin... RQ = 102 CO2 / 145 O2 = 0.7.",
     "ncert_page": 164,
     "difficulty": "medium",
     "subject": "Biology"
@@ -787,14 +542,9 @@
     "mcq_id": "c12_q50",
     "chapter_id": "c12",
     "question": "When proteins are used as respiratory substrates, the respiratory quotient (RQ) is approximately:",
-    "options": [
-      "1.0",
-      "0.7",
-      "0.9",
-      "1.2"
-    ],
+    "options": ["1.0", "0.7", "0.9", "1.2"],
     "correct_index": 2,
-    "explanation": "When proteins are respiratory substrates the ratio would be about 0.9[cite: 1].",
+    "explanation": "When proteins are respiratory substrates the ratio would be about 0.9.",
     "ncert_page": 164,
     "difficulty": "medium",
     "subject": "Biology"

@@ -4,12 +4,12 @@
       "id": 1109,
       "title": "Computer Science",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kecs1.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Computer Science",
       "chapterCount": 11,
-      "parts": 1
+      "parts": 1,
+      "coverUrl": ""
     }
   ],
   "chapters": [
@@ -28,10 +28,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1JPs2CX3864UWScZomNfpOG_-2keKPdlk/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1n1Dxv3ItkLIx_1aefTEM_OxB1FKE8hOV/view?usp=drivesdk",
+      "pdfUrl": "",
+      "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch1.json"
+      "mcqUrl": ""
     },
     {
       "id": 110902,
@@ -48,10 +48,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1QKs6gS8V0L_JvySmF_dDd_3jb_vHiOFE/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1_8rOKvUIiYxAGVxHOO_7JS4ATr12brO1/view?usp=drivesdk",
+      "pdfUrl": "",
+      "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch2.json"
+      "mcqUrl": ""
     },
     {
       "id": 110903,
@@ -71,7 +71,7 @@
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch3.json"
+      "mcqUrl": ""
     },
     {
       "id": 110904,
@@ -88,10 +88,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1iek4VLJSxE_t0tIvtaVaA1v79-xO3haG/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1rz2IEE321aojdYrntVs2_lCwKfBjB7od/view?usp=drivesdk",
+      "pdfUrl": "",
+      "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch4.json"
+      "mcqUrl": ""
     },
     {
       "id": 110905,
@@ -108,10 +108,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1wpb8cNj1H7_RxuVy9K4bmPV1mUgYWfsX/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1So6a0Q1f7qt-Hu9BZnNJ96_jZmkj7Xqq/view?usp=drivesdk",
+      "pdfUrl": "",
+      "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch5.json"
+      "mcqUrl": ""
     },
     {
       "id": 110906,
@@ -128,10 +128,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1sZGXVPf82FLoRgWPA5q23eBPdiJK67wx/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1k34NYL3r88C6NJHYR2v5upjLRpx5IoYs/view?usp=drivesdk",
+      "pdfUrl": "",
+      "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch6.json"
+      "mcqUrl": ""
     },
     {
       "id": 110907,
@@ -148,10 +148,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1JPvdXar_Q4y5RS74FtDKDrZWwHkNOdj8/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1gz0g_oSmynKqoSjfAlCIncdT_j4E0Vdb/view?usp=drivesdk",
+      "pdfUrl": "",
+      "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch7.json"
+      "mcqUrl": ""
     },
     {
       "id": 110908,
@@ -168,10 +168,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1wt_Gs0MM-zS4vW1TSDaG9_LQW5uW9Vkr/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/10fliHRuNirK5qphBD9MbfTQfyfLDWB2d/view?usp=drivesdk",
+      "pdfUrl": "",
+      "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch8.json"
+      "mcqUrl": ""
     },
     {
       "id": 110909,
@@ -188,10 +188,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1jFLiKiHp2mefkGE3JClNSLxiZkxnjzgj/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1yNOfeRpImLzEgktia33Mz5tah2cGpuTy/view?usp=drivesdk",
+      "pdfUrl": "",
+      "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch9.json"
+      "mcqUrl": ""
     },
     {
       "id": 110910,
@@ -211,13 +211,13 @@
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch10.json"
+      "mcqUrl": ""
     },
     {
       "id": 110911,
       "bookId": 1109,
       "chapterNumber": 11,
-      "title": "Societal Impacts",
+      "title": "Cyber Safety",
       "topicCount": 4,
       "questionCount": 50,
       "progressPercent": 0,
@@ -231,7 +231,7 @@
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/science/computer_science/mcqs/cs_ch11.json"
+      "mcqUrl": ""
     }
   ]
 }
