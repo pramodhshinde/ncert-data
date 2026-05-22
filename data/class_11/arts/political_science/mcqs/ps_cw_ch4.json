@@ -1,0 +1,637 @@
+[
+  {
+    "mcq_id": "pol_c4_q01",
+    "chapter_id": "c4",
+    "question": "Which of the following is the primary function of the Executive organ of government?",
+    "options": [
+      "Framing laws and policies",
+      "Implementation of laws and policies",
+      "Settling legal disputes",
+      "Amending the Constitution"
+    ],
+    "correct_index": 1,
+    "explanation": "The executive is the branch of government responsible for the implementation of laws and policies adopted by the legislature.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q02",
+    "chapter_id": "c4",
+    "question": "In a Parliamentary system, who is the formal Head of State?",
+    "options": [
+      "The Prime Minister",
+      "The Chief Justice",
+      "The President or Monarch",
+      "The Speaker of Lok Sabha"
+    ],
+    "correct_index": 2,
+    "explanation": "In a parliamentary system, the President or Monarch is the nominal/formal Head of State, while the Prime Minister is the head of government.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q03",
+    "chapter_id": "c4",
+    "question": "In which system of executive is the President the Head of State as well as the Head of Government?",
+    "options": [
+      "Parliamentary System",
+      "Semi-Presidential System",
+      "Presidential System",
+      "Monarchy"
+    ],
+    "correct_index": 2,
+    "explanation": "In a presidential system, the president is both the head of state and the head of government (e.g., USA).",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q04",
+    "chapter_id": "c4",
+    "question": "Which country follows a Semi-Presidential system where both the President and Prime Minister have significant powers?",
+    "options": ["USA", "Canada", "France", "United Kingdom"],
+    "correct_index": 2,
+    "explanation": "France is an example of a Semi-Presidential system where the President appoints the PM but cannot dismiss them.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q05",
+    "chapter_id": "c4",
+    "question": "What is the minimum age required to be eligible for the office of the President of India?",
+    "options": ["25 years", "30 years", "35 years", "40 years"],
+    "correct_index": 2,
+    "explanation": "A person must be at least 35 years of age to be eligible for election as the President of India.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q06",
+    "chapter_id": "c4",
+    "question": "The President of India is elected by which of the following?",
+    "options": [
+      "Direct vote of the citizens",
+      "Members of Parliament only",
+      "An Electoral College consisting of elected MPs and MLAs",
+      "The Prime Minister and Cabinet"
+    ],
+    "correct_index": 2,
+    "explanation": "The President is elected indirectly by an electoral college consisting of elected members of both Houses of Parliament and elected members of State Legislative Assemblies.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q07",
+    "chapter_id": "c4",
+    "question": "What is the term of office for the President of India?",
+    "options": ["4 years", "5 years", "6 years", "No fixed term"],
+    "correct_index": 1,
+    "explanation": "The President is elected for a term of five years.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q08",
+    "chapter_id": "c4",
+    "question": "The process for the removal of the President of India is known as:",
+    "options": ["Dismissal", "Impeachment", "Resignation", "Censure"],
+    "correct_index": 1,
+    "explanation": "The President can only be removed from office by Parliament through the process of impeachment.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q09",
+    "chapter_id": "c4",
+    "question": "On what grounds can the President of India be impeached?",
+    "options": [
+      "Incapacity",
+      "Violation of the Constitution",
+      "Corruption",
+      "Losing majority support"
+    ],
+    "correct_index": 1,
+    "explanation": "According to Article 61, the President can be removed only for 'violation of the Constitution'.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q10",
+    "chapter_id": "c4",
+    "question": "Which Article states that there shall be a Council of Ministers with the PM at the head to aid and advise the President?",
+    "options": ["Article 52", "Article 74(1)", "Article 75", "Article 356"],
+    "correct_index": 1,
+    "explanation": "Article 74(1) provides for the Council of Ministers to aid and advise the President, who shall act in accordance with such advice.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q11",
+    "chapter_id": "c4",
+    "question": "The President can send back the advice of the Council of Ministers for reconsideration ________ time(s).",
+    "options": ["One", "Two", "Three", "Unlimited"],
+    "correct_index": 0,
+    "explanation": "The President may require the Council of Ministers to reconsider its advice, but the President shall act in accordance with the advice tendered after such reconsideration.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q12",
+    "chapter_id": "c4",
+    "question": "What is 'Pocket Veto' in the context of the Indian President?",
+    "options": [
+      "The power to reject a bill outright",
+      "The power to keep a bill pending for an indefinite period",
+      "The power to dissolve the Lok Sabha",
+      "The power to appoint the PM"
+    ],
+    "correct_index": 1,
+    "explanation": "Pocket veto refers to the President's power to not take any action on a bill passed by Parliament for an indefinite period, as there is no time limit set for the President to sign.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q13",
+    "chapter_id": "c4",
+    "question": "Who was the only Indian President to effectively use the 'Pocket Veto' regarding the Indian Post Office (Amendment) Bill?",
+    "options": ["Dr. Rajendra Prasad", "Giani Zail Singh", "K.R. Narayanan", "A.P.J. Abdul Kalam"],
+    "correct_index": 1,
+    "explanation": "In 1986, President Giani Zail Singh did not sign the Post Office Bill and kept it pending, effectively exercising a pocket veto.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q14",
+    "chapter_id": "c4",
+    "question": "Who appoints the Prime Minister of India?",
+    "options": ["The outgoing PM", "The Lok Sabha Speaker", "The President", "The Chief Justice"],
+    "correct_index": 2,
+    "explanation": "The President appoints the Prime Minister, typically choosing the leader who has the support of the majority in the Lok Sabha.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q15",
+    "chapter_id": "c4",
+    "question": "The Vice President of India is elected for a term of:",
+    "options": ["4 years", "5 years", "6 years", "Until the President's pleasure"],
+    "correct_index": 1,
+    "explanation": "The Vice President is elected for a five-year term.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q16",
+    "chapter_id": "c4",
+    "question": "Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "options": ["The President", "The Vice President", "The Prime Minister", "A member elected by Rajya Sabha"],
+    "correct_index": 1,
+    "explanation": "The Vice President of India is the ex-officio Chairman of the Rajya Sabha.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q17",
+    "chapter_id": "c4",
+    "question": "The Council of Ministers is collectively responsible to which House?",
+    "options": ["Rajya Sabha", "Lok Sabha", "Both Houses", "The President"],
+    "correct_index": 1,
+    "explanation": "In a parliamentary system, the Council of Ministers is collectively responsible to the Lok Sabha.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q18",
+    "chapter_id": "c4",
+    "question": "What is the maximum limit for the size of the Council of Ministers according to the 91st Amendment?",
+    "options": [
+      "10% of Lok Sabha strength",
+      "15% of Lok Sabha strength",
+      "20% of Lok Sabha strength",
+      "Fixed at 50 ministers"
+    ],
+    "correct_index": 1,
+    "explanation": "The 91st Amendment (2003) restricted the size of the Council of Ministers to not exceed 15% of the total number of members of the House of the People (Lok Sabha).",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q19",
+    "chapter_id": "c4",
+    "question": "Who is considered the 'linchpin' of the government in India?",
+    "options": ["The President", "The Chief Justice", "The Prime Minister", "The Cabinet Secretary"],
+    "correct_index": 2,
+    "explanation": "The Prime Minister is the most important functionary and acts as a link between the Council of Ministers, the President, and the Parliament.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q20",
+    "chapter_id": "c4",
+    "question": "In the case of a 'Hung Parliament', who has the discretionary power to appoint the PM?",
+    "options": ["The outgoing PM", "The Supreme Court", "The President", "The Election Commission"],
+    "correct_index": 2,
+    "explanation": "When no party has a clear majority in the Lok Sabha, the President has the discretion to judge who can form a stable government.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q21",
+    "chapter_id": "c4",
+    "question": "What happens if a No-Confidence Motion is passed in the Lok Sabha?",
+    "options": [
+      "Only the PM resigns",
+      "The whole Council of Ministers must resign",
+      "The President must resign",
+      "Fresh elections are held immediately"
+    ],
+    "correct_index": 1,
+    "explanation": "Collective responsibility means that if a No-Confidence motion is passed, the entire Council of Ministers has to resign.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q22",
+    "chapter_id": "c4",
+    "question": "Which body is known as the 'Permanent Executive'?",
+    "options": ["Cabinet Ministers", "The Parliament", "The Bureaucracy (Civil Services)", "The Judiciary"],
+    "correct_index": 2,
+    "explanation": "The bureaucracy, consisting of trained and skilled officers, is the permanent executive that implements policies regardless of which party is in power.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q23",
+    "chapter_id": "c4",
+    "question": "Members of the Union Public Service Commission (UPSC) are appointed for a fixed term by:",
+    "options": ["The Prime Minister", "The President", "The Parliament", "The Chief Justice"],
+    "correct_index": 1,
+    "explanation": "UPSC members are appointed by the President for a fixed term to ensure the independence of the civil service.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q24",
+    "chapter_id": "c4",
+    "question": "Which of the following is an example of 'All India Services'?",
+    "options": ["Indian Foreign Service (IFS)", "Indian Administrative Service (IAS)", "State Police Service", "Income Tax Officers"],
+    "correct_index": 1,
+    "explanation": "The IAS and IPS are categorized as All India Services.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q25",
+    "chapter_id": "c4",
+    "question": "An IAS officer is under the ultimate disciplinary control of:",
+    "options": ["The State Government", "The Central Government", "The District Magistrate", "The State Governor"],
+    "correct_index": 1,
+    "explanation": "While an IAS officer is assigned to a state, they are under the ultimate disciplinary control of the Central Government.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q26",
+    "chapter_id": "c4",
+    "question": "Which executive system does Sri Lanka follow?",
+    "options": ["Presidential", "Parliamentary", "Executive Presidency (Semi-Presidential)", "Absolute Monarchy"],
+    "correct_index": 2,
+    "explanation": "Sri Lanka introduced a system of 'Executive Presidency' in 1978, which is a form of semi-presidential system.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q27",
+    "chapter_id": "c4",
+    "question": "What is the 'nominal' role of the President in India?",
+    "options": [
+      "Head of the ruling party",
+      "Constitutional Head of State with no real powers",
+      "The leader of the opposition",
+      "Head of the Armed Forces only"
+    ],
+    "correct_index": 1,
+    "explanation": "In India, the President is the formal/nominal head of state; real power is exercised by the PM and Council of Ministers.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q28",
+    "chapter_id": "c4",
+    "question": "Can the President of India grant pardon to a person sentenced to death?",
+    "options": [
+      "Yes, it is a judicial power of the President",
+      "No, only the Supreme Court can",
+      "Yes, but only with PM's signature",
+      "Only during an Emergency"
+    ],
+    "correct_index": 0,
+    "explanation": "The President has the power to grant pardon or reduce sentence (judicial power).",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q29",
+    "chapter_id": "c4",
+    "question": "The President's discretionary power to 'veto' a bill (suspensive veto) does not apply to:",
+    "options": ["Ordinary Bills", "Money Bills", "Constitutional Amendment Bills", "Both B and C"],
+    "correct_index": 1,
+    "explanation": "The President cannot send back a Money Bill for reconsideration.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q30",
+    "chapter_id": "c4",
+    "question": "In the coalition era, the power of the Prime Minister has ________ according to the text.",
+    "options": ["Increased significantly", "Remained the same", "Faced more constraints", "Become like a dictator"],
+    "correct_index": 2,
+    "explanation": "In a coalition government, the PM's power is restricted as they have to consult more partners and cannot take unilateral decisions easily.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q31",
+    "chapter_id": "c4",
+    "question": "The Governor of a State is appointed by:",
+    "options": ["The State Chief Minister", "The People of the State", "The President of India", "The Chief Justice of High Court"],
+    "correct_index": 2,
+    "explanation": "The Governor is the representative of the President and is appointed by the President.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q32",
+    "chapter_id": "c4",
+    "question": "Which of these is NOT a category of Civil Services in India?",
+    "options": ["All India Services", "Central Services", "State Services", "Military Services"],
+    "correct_index": 3,
+    "explanation": "The civil services are classified into All India, Central, and State services. Military is separate.",
+    "ncert_page": 19,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q33",
+    "chapter_id": "c4",
+    "question": "Who acts as the 'supreme commander' of the defense forces in India?",
+    "options": ["The Defense Minister", "The Prime Minister", "The President", "Chief of Defense Staff"],
+    "correct_index": 2,
+    "explanation": "The President is the supreme commander of the armed forces.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q34",
+    "chapter_id": "c4",
+    "question": "What is 'Collective Responsibility'?",
+    "options": [
+      "Ministers are responsible to the President alone",
+      "One minister's failure is seen as the failure of the whole council",
+      "People are responsible for choosing the ministers",
+      "Only the PM is responsible"
+    ],
+    "correct_index": 1,
+    "explanation": "Collective responsibility is based on the principle of the solidarity of the cabinet; it implies that the ministry is an executive committee of the Parliament.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q35",
+    "chapter_id": "c4",
+    "question": "The Indian Foreign Service (IFS) is a part of which category?",
+    "options": ["All India Services", "Central Services", "State Services", "Local Services"],
+    "correct_index": 1,
+    "explanation": "The Indian Foreign Service and Indian Revenue Service are Central Services.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q36",
+    "chapter_id": "c4",
+    "question": "Why did India adopt the Parliamentary system instead of the Presidential one?",
+    "options": [
+      "Because the British told them to",
+      "To avoid the danger of a personality cult and ensure an accountable executive",
+      "Because it is cheaper to run",
+      "Because it gives the President more power"
+    ],
+    "correct_index": 1,
+    "explanation": "Constitution makers wanted a system that was sensitive to public expectations and accountable to representatives.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q37",
+    "chapter_id": "c4",
+    "question": "In the Sri Lankan system, the President is directly elected for a term of:",
+    "options": ["4 years", "5 years", "6 years", "No fixed term"],
+    "correct_index": 2,
+    "explanation": "In Sri Lanka, the President is directly elected for a term of six years.",
+    "ncert_page": 4,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q38",
+    "chapter_id": "c4",
+    "question": "The 'veto' power of the President is limited because if Parliament passes the bill again, the President ________.",
+    "options": [
+      "Can veto it again",
+      "Must sign the bill",
+      "Can refer it to the Supreme Court",
+      "Can dissolve the Parliament"
+    ],
+    "correct_index": 1,
+    "explanation": "If Parliament passes the same bill again and sends it back to the President, then the President has to give assent to that bill.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q39",
+    "chapter_id": "c4",
+    "question": "The 91st Amendment Act applies to the Council of Ministers at which level(s)?",
+    "options": ["Union level only", "State level only", "Both Union and State levels", "Local level only"],
+    "correct_index": 2,
+    "explanation": "The 15% rule for the size of the ministry applies to both the Union and the States.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q40",
+    "chapter_id": "c4",
+    "question": "Who acts as the Chairman of the Council of Ministers in India?",
+    "options": ["The President", "The Lok Sabha Speaker", "The Prime Minister", "The Senior-most Cabinet Minister"],
+    "correct_index": 2,
+    "explanation": "The Prime Minister is the head of the Council of Ministers.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q41",
+    "chapter_id": "c4",
+    "question": "Can a person be appointed as a Minister without being a member of Parliament?",
+    "options": [
+      "No, never",
+      "Yes, but they must get elected to either House within 6 months",
+      "Yes, they can remain minister for the full term",
+      "Only if they are a retired judge"
+    ],
+    "correct_index": 1,
+    "explanation": "A person can be a minister but must become a member of either House within six months.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q42",
+    "chapter_id": "c4",
+    "question": "What is the primary role of the Bureaucracy?",
+    "options": [
+      "To win elections",
+      "To implement policies and provide expertise to ministers",
+      "To criticize the government",
+      "To make constitutional amendments"
+    ],
+    "correct_index": 1,
+    "explanation": "The bureaucracy is expected to be politically neutral and provide expert advice and implementation support.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q43",
+    "chapter_id": "c4",
+    "question": "What happens if a Minister disagrees with a Cabinet decision?",
+    "options": [
+      "They can speak against it in public",
+      "They must resign or accept the decision (Collective Responsibility)",
+      "The decision is cancelled",
+      "The President decides"
+    ],
+    "correct_index": 1,
+    "explanation": "Under collective responsibility, all ministers are bound by the cabinet decision.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q44",
+    "chapter_id": "c4",
+    "question": "Which of these is a discretionary power of the President mentioned in the text?",
+    "options": [
+      "Declaring an Emergency without Cabinet advice",
+      "Appointing the Chief Justice of India",
+      "Sending back advice for reconsideration",
+      "Allocating portfolios to ministers"
+    ],
+    "correct_index": 2,
+    "explanation": "The President has the right to be informed and can send back advice for reconsideration.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q45",
+    "chapter_id": "c4",
+    "question": "The 'Civil Service' in India is expected to be:",
+    "options": ["Politically biased", "Politically neutral", "Elected by the people", "Part-time"],
+    "correct_index": 1,
+    "explanation": "Bureaucracy is expected to be politically neutral, meaning they serve whichever party forms the government.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q46",
+    "chapter_id": "c4",
+    "question": "The President of India is also known as the ________ head.",
+    "options": ["Titular", "De facto", "Real", "Administrative"],
+    "correct_index": 0,
+    "explanation": "Titular means formal/nominal. The President is the formal head.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q47",
+    "chapter_id": "c4",
+    "question": "In a semi-presidential system like Russia, the ________ is the head of state.",
+    "options": ["Prime Minister", "King", "President", "Chief Justice"],
+    "correct_index": 2,
+    "explanation": "In semi-presidential systems, the President is the head of state (e.g., Russia, France).",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q48",
+    "chapter_id": "c4",
+    "question": "The 'advice' given by the Council of Ministers to the President is:",
+    "options": ["Optional", "Binding", "Only for 6 months", "Subject to the Supreme Court's approval"],
+    "correct_index": 1,
+    "explanation": "The President 'shall' act in accordance with such advice.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q49",
+    "chapter_id": "c4",
+    "question": "If the office of the President falls vacant, who takes over as Acting President?",
+    "options": ["Prime Minister", "Chief Justice", "Vice President", "Speaker of Lok Sabha"],
+    "correct_index": 2,
+    "explanation": "The Vice President takes over in case of vacancy.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c4_q50",
+    "chapter_id": "c4",
+    "question": "Which body ensures that the executive doesn't overstep its limits through daily oversight?",
+    "options": ["The Judiciary", "The Legislature (Parliament)", "The Army", "The President"],
+    "correct_index": 1,
+    "explanation": "The legislature has several tools to control and hold the executive accountable.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  }
+]

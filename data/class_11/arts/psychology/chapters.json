@@ -4,12 +4,12 @@
       "id": 1148,
       "title": "Psychology",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kepy1.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Psychology",
-      "chapterCount": 9,
-      "parts": 1
+      "chapterCount": 8,
+      "parts": 1,
+      "coverUrl": ""
     }
   ],
   "chapters": [
@@ -28,10 +28,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1z3ioQ8gXmvCtRYj7KPTNGHqRbTbRwRvK/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1VVDhFD4AYD37f1rOL4D4BD-RduP8JSus/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/psychology/ch1.pdf",
-      "mcqUrl": "class_11/arts/psychology/mcqs/psy_ch1.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 114802,
@@ -48,35 +48,15 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1or-5GuCMcB-7zJAGzr7B3py9hitXSwHc/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1aROm45HMtLY1_BxZXr8MYClWSVKR9mmG/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/psychology/ch2.pdf",
-      "mcqUrl": "class_11/arts/psychology/mcqs/psy_ch2.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 114803,
       "bookId": 1148,
       "chapterNumber": 3,
-      "title": "The Bases of Human Behaviour",
-      "topicCount": 5,
-      "questionCount": 50,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 55,
-      "pageCount": 22,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
-      "pdfUrl": "",
-      "solutionsUrl": "https://drive.google.com/file/d/1QVbebhS4RZ6I60EOs1T4SBg-Yi-K8rFa/view?usp=drivesdk",
-      "notesUrl": "",
-      "mcqUrl": "class_11/arts/psychology/mcqs/psy_ch3.json"
-    },
-    {
-      "id": 114804,
-      "bookId": 1148,
-      "chapterNumber": 4,
       "title": "Human Development",
       "topicCount": 7,
       "questionCount": 50,
@@ -88,15 +68,15 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1OO_Fs1Qd1Z6GHFU_LzeSyVOiqjpHZg8B/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1aqiDSRoCosALU4BediuzByDOJjWaeZR1/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/psychology/ch3.pdf",
-      "mcqUrl": "class_11/arts/psychology/mcqs/psy_ch4.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
-      "id": 114805,
+      "id": 114804,
       "bookId": 1148,
-      "chapterNumber": 5,
+      "chapterNumber": 4,
       "title": "Sensory, Attentional and Perceptual Processes",
       "topicCount": 8,
       "questionCount": 50,
@@ -108,15 +88,15 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1NvL5KH4OA25CW1zA1zr2YEn45N8nndwa/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1jHMrbW6ZoWaCW49YqpuwCBB7NuPwbal5/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/psychology/ch4.pdf",
-      "mcqUrl": "class_11/arts/psychology/mcqs/psy_ch5.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
-      "id": 114806,
+      "id": 114805,
       "bookId": 1148,
-      "chapterNumber": 6,
+      "chapterNumber": 5,
       "title": "Learning",
       "topicCount": 6,
       "questionCount": 50,
@@ -128,15 +108,15 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1MLwhrsTfKWLNVQBhqUr8-iTSK3aMyG_P/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1lHN7NlE9x3X0E8G_7ZIA8RnG0oB5Op-u/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/psychology/ch5.pdf",
-      "mcqUrl": "class_11/arts/psychology/mcqs/psy_ch6.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
-      "id": 114807,
+      "id": 114806,
       "bookId": 1148,
-      "chapterNumber": 7,
+      "chapterNumber": 6,
       "title": "Human Memory",
       "topicCount": 5,
       "questionCount": 50,
@@ -148,15 +128,15 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1UprhHxqdDfFBGxN8PbNM985DCoOzeOAR/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1p3uTKliqW7-kX-mHAxW2saaKH_n-sBop/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/psychology/ch6.pdf",
-      "mcqUrl": "class_11/arts/psychology/mcqs/psy_ch7.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
-      "id": 114808,
+      "id": 114807,
       "bookId": 1148,
-      "chapterNumber": 8,
+      "chapterNumber": 7,
       "title": "Thinking",
       "topicCount": 4,
       "questionCount": 50,
@@ -168,18 +148,18 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1JsV9DGpmiZJe8Q7Iz97E2-2ASZ0VbnK8/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1m_Ppx5d-qVxPLPW3SRn6eqMCX-ReJRPC/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/psychology/ch7.pdf",
-      "mcqUrl": "class_11/arts/psychology/mcqs/psy_ch8.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
-      "id": 114809,
+      "id": 114808,
       "bookId": 1148,
-      "chapterNumber": 9,
+      "chapterNumber": 8,
       "title": "Motivation and Emotion",
       "topicCount": 6,
-      "questionCount": 15,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 50,
@@ -188,10 +168,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1w75GzrlmCvRONJBQDHLSBPC_l_wKrD4t/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1qRGSItTzCskQaNGlC9KX1T2Lqb4gJArI/view?usp=drivesdk",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/psychology/ch8.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/arts/psychology/mcqs/psy_ch8.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     }
   ]
 }

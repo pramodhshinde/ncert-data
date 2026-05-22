@@ -3,14 +3,9 @@
     "mcq_id": "c2_q01",
     "chapter_id": "c2",
     "question": "During which period did the arts of the Indus Valley Civilisation emerge?",
-    "options": [
-      "First half of the second millennium BCE",
-      "Second half of the third millennium BCE",
-      "First half of the fourth millennium BCE",
-      "Second half of the first millennium BCE"
-    ],
+    "options": ["First half of the second millennium BCE", "Second half of the third millennium BCE", "First half of the fourth millennium BCE", "Second half of the first millennium BCE"],
     "correct_index": 1,
-    "explanation": "The arts of the Indus Valley Civilisation emerged during the second half of the third millennium BCE[cite: 274].",
+    "explanation": "The arts of the Indus Valley Civilisation emerged during the second half of the third millennium BCE.",
     "ncert_page": 1,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -19,14 +14,9 @@
     "mcq_id": "c2_q02",
     "chapter_id": "c2",
     "question": "Which of the following are the two major sites of the Indus Valley Civilisation along the Indus river?",
-    "options": [
-      "Lothal and Dholavira",
-      "Rakhigarhi and Ropar",
-      "Harappa and Mohenjodaro",
-      "Kalibangan and Lothal"
-    ],
+    "options": ["Lothal and Dholavira", "Rakhigarhi and Ropar", "Harappa and Mohenjodaro", "Kalibangan and Lothal"],
     "correct_index": 2,
-    "explanation": "The two major sites of the Indus Valley Civilisation, along the Indus river, are the cities of Harappa in the north and Mohenjodaro in the south[cite: 279].",
+    "explanation": "The two major sites of the Indus Valley Civilisation, along the Indus river, are the cities of Harappa in the north and Mohenjodaro in the south.",
     "ncert_page": 1,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -35,14 +25,9 @@
     "mcq_id": "c2_q03",
     "chapter_id": "c2",
     "question": "Which prominent Indus Valley sites are located in the modern state of Gujarat?",
-    "options": [
-      "Ropar and Kalibangan",
-      "Lothal and Dholavira",
-      "Harappa and Rakhigarhi",
-      "Mohenjodaro and Ropar"
-    ],
+    "options": ["Ropar and Kalibangan", "Lothal and Dholavira", "Harappa and Rakhigarhi", "Mohenjodaro and Ropar"],
     "correct_index": 1,
-    "explanation": "The important sites excavated in India are Lothal and Dholavira in Gujarat[cite: 281].",
+    "explanation": "The important sites excavated in India are Lothal and Dholavira in Gujarat.",
     "ncert_page": 1,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -51,14 +36,9 @@
     "mcq_id": "c2_q04",
     "chapter_id": "c2",
     "question": "In which modern Indian state is the site of Rakhigarhi located?",
-    "options": [
-      "Gujarat",
-      "Rajasthan",
-      "Punjab",
-      "Haryana"
-    ],
+    "options": ["Gujarat", "Rajasthan", "Punjab", "Haryana"],
     "correct_index": 3,
-    "explanation": "The important excavated site of Rakhigarhi is situated in Haryana[cite: 281].",
+    "explanation": "The important excavated site of Rakhigarhi is situated in Haryana.",
     "ncert_page": 1,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -67,14 +47,9 @@
     "mcq_id": "c2_q05",
     "chapter_id": "c2",
     "question": "How were the houses, markets, and public facilities arranged in Harappa and Mohenjodaro?",
-    "options": [
-      "In a circular pattern",
-      "In a grid-like pattern",
-      "In an abstract pattern",
-      "In a star-shaped pattern"
-    ],
+    "options": ["In a circular pattern", "In a grid-like pattern", "In an abstract pattern", "In a star-shaped pattern"],
     "correct_index": 1,
-    "explanation": "Houses, markets, storage facilities, offices, public baths, etc., were arranged in a grid-like pattern[cite: 280].",
+    "explanation": "Houses, markets, storage facilities, offices, public baths, etc., were arranged in a grid-like pattern.",
     "ncert_page": 1,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -83,14 +58,9 @@
     "mcq_id": "c2_q06",
     "chapter_id": "c2",
     "question": "From which material is the famous 'Male Torso' statue of Harappa carved?",
-    "options": [
-      "Soapstone",
-      "Red sandstone",
-      "Bronze",
-      "Terracotta"
-    ],
+    "options": ["Soapstone", "Red sandstone", "Bronze", "Terracotta"],
     "correct_index": 1,
-    "explanation": "In stone, one of the two extensively discussed male figures is a torso carved in red sandstone[cite: 285].",
+    "explanation": "In stone, one of the two extensively discussed male figures is a torso carved in red sandstone.",
     "ncert_page": 1,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -99,14 +69,9 @@
     "mcq_id": "c2_q07",
     "chapter_id": "c2",
     "question": "What material was used to craft the bust of the bearded man (priest)?",
-    "options": [
-      "Soapstone",
-      "Red sandstone",
-      "Limestone",
-      "Granite"
-    ],
+    "options": ["Soapstone", "Red sandstone", "Limestone", "Granite"],
     "correct_index": 0,
-    "explanation": "The other well-known stone figure is a bust of a bearded man made in soapstone[cite: 285].",
+    "explanation": "The other well-known stone figure is a bust of a bearded man made in soapstone.",
     "ncert_page": 1,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -115,14 +80,9 @@
     "mcq_id": "c2_q08",
     "chapter_id": "c2",
     "question": "How is the shawl draped on the figure of the bearded priest?",
-    "options": [
-      "Covering both shoulders",
-      "Coming under the left arm and covering the right shoulder",
-      "Coming under the right arm and covering the left shoulder",
-      "Tied around the waist"
-    ],
+    "options": ["Covering both shoulders", "Coming under the left arm and covering the right shoulder", "Coming under the right arm and covering the left shoulder", "Tied around the waist"],
     "correct_index": 2,
-    "explanation": "The bearded man is draped in a shawl coming under the right arm and covering the left shoulder[cite: 286].",
+    "explanation": "The bearded man is draped in a shawl coming under the right arm and covering the left shoulder.",
     "ncert_page": 1,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -131,14 +91,9 @@
     "mcq_id": "c2_q09",
     "chapter_id": "c2",
     "question": "What kind of patterns decorate the shawl of the bearded priest?",
-    "options": [
-      "Geometric squares",
-      "Trefoil patterns",
-      "Floral vines",
-      "Animal motifs"
-    ],
+    "options": ["Geometric squares", "Trefoil patterns", "Floral vines", "Animal motifs"],
     "correct_index": 1,
-    "explanation": "The shawl on the bearded man is decorated with distinctive trefoil patterns[cite: 287].",
+    "explanation": "The shawl on the bearded man is decorated with distinctive trefoil patterns.",
     "ncert_page": 1,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -147,14 +102,9 @@
     "mcq_id": "c2_q10",
     "chapter_id": "c2",
     "question": "What do the half-closed eyes of the bearded priest statue suggest?",
-    "options": [
-      "Sleep",
-      "Blindness",
-      "Meditative concentration",
-      "Sorrow"
-    ],
+    "options": ["Sleep", "Blindness", "Meditative concentration", "Sorrow"],
     "correct_index": 2,
-    "explanation": "The eyes are a little elongated, and half-closed as in meditative concentration[cite: 287].",
+    "explanation": "The eyes are a little elongated, and half-closed as in meditative concentration.",
     "ncert_page": 1,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -163,12 +113,7 @@
     "mcq_id": "c2_q11",
     "chapter_id": "c2",
     "question": "Which technique was widely used by Harappans to create bronze statues?",
-    "options": [
-      "Forging",
-      "Lost wax technique",
-      "Cold working",
-      "Repoussé"
-    ],
+    "options": ["Forging", "Lost wax technique", "Cold working", "Repoussé"],
     "correct_index": 1,
     "explanation": "Their bronze statues were made using the 'lost wax' technique where wax figures were covered in clay, heated, and replaced with molten metal[cite: 300, 301, 302].",
     "ncert_page": 2,
@@ -179,14 +124,9 @@
     "mcq_id": "c2_q12",
     "chapter_id": "c2",
     "question": "At which site were the copper dog and bird figures found?",
-    "options": [
-      "Harappa",
-      "Mohenjodaro",
-      "Kalibangan",
-      "Lothal"
-    ],
+    "options": ["Harappa", "Mohenjodaro", "Kalibangan", "Lothal"],
     "correct_index": 3,
-    "explanation": "The copper dog and bird were found at Lothal[cite: 307].",
+    "explanation": "The copper dog and bird were found at Lothal.",
     "ncert_page": 2,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -195,14 +135,9 @@
     "mcq_id": "c2_q13",
     "chapter_id": "c2",
     "question": "Which Chalcolithic site in Maharashtra yielded excellent examples of metal-cast sculptures, showing a continuous tradition?",
-    "options": [
-      "Farmana",
-      "Daimabad",
-      "Ropar",
-      "Surkotada"
-    ],
+    "options": ["Farmana", "Daimabad", "Ropar", "Surkotada"],
     "correct_index": 1,
-    "explanation": "The late Harappan and Chalcolithic sites like Daimabad in Maharashtra yielded excellent examples of metal-cast sculptures[cite: 308].",
+    "explanation": "The late Harappan and Chalcolithic sites like Daimabad in Maharashtra yielded excellent examples of metal-cast sculptures.",
     "ncert_page": 2,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -211,14 +146,9 @@
     "mcq_id": "c2_q14",
     "chapter_id": "c2",
     "question": "How do the terracotta representations of the human form in the Indus Valley generally compare to stone and bronze statues?",
-    "options": [
-      "They are far more detailed",
-      "They are highly polished",
-      "They are crude",
-      "They are identical in style"
-    ],
+    "options": ["They are far more detailed", "They are highly polished", "They are crude", "They are identical in style"],
     "correct_index": 2,
-    "explanation": "Compared to the stone and bronze statues, the terracotta representations of human form are crude in the Indus Valley[cite: 316].",
+    "explanation": "Compared to the stone and bronze statues, the terracotta representations of human form are crude in the Indus Valley.",
     "ncert_page": 3,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -227,14 +157,9 @@
     "mcq_id": "c2_q15",
     "chapter_id": "c2",
     "question": "Which terracotta figure is considered the most important among the Indus figures?",
-    "options": [
-      "The bearded male deity",
-      "The horned deity",
-      "The mother goddess",
-      "The toy cart"
-    ],
+    "options": ["The bearded male deity", "The horned deity", "The mother goddess", "The toy cart"],
     "correct_index": 2,
-    "explanation": "The most important among the Indus figures are those representing the mother goddess[cite: 317].",
+    "explanation": "The most important among the Indus figures are those representing the mother goddess.",
     "ncert_page": 3,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -243,14 +168,9 @@
     "mcq_id": "c2_q16",
     "chapter_id": "c2",
     "question": "What distinctive feature was found on a specific terracotta mask from the Indus Valley?",
-    "options": [
-      "A smiling face",
-      "Horns",
-      "An elephant trunk",
-      "Multiple eyes"
-    ],
+    "options": ["A smiling face", "Horns", "An elephant trunk", "Multiple eyes"],
     "correct_index": 1,
-    "explanation": "A terracotta mask of a horned deity has also been found[cite: 320].",
+    "explanation": "A terracotta mask of a horned deity has also been found.",
     "ncert_page": 3,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -259,14 +179,9 @@
     "mcq_id": "c2_q17",
     "chapter_id": "c2",
     "question": "What material was mostly used to make the thousands of seals discovered by archaeologists?",
-    "options": [
-      "Agate",
-      "Faience",
-      "Steatite",
-      "Copper"
-    ],
+    "options": ["Agate", "Faience", "Steatite", "Copper"],
     "correct_index": 2,
-    "explanation": "Archaeologists have discovered thousands of seals, mostly made of steatite[cite: 323].",
+    "explanation": "Archaeologists have discovered thousands of seals, mostly made of steatite.",
     "ncert_page": 3,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -275,14 +190,9 @@
     "mcq_id": "c2_q18",
     "chapter_id": "c2",
     "question": "What was the main purpose of producing the seals in the Indus Valley?",
-    "options": [
-      "Religious worship",
-      "Commercial use",
-      "Toy making",
-      "Decorative jewelry"
-    ],
+    "options": ["Religious worship", "Commercial use", "Toy making", "Decorative jewelry"],
     "correct_index": 1,
-    "explanation": "The purpose of producing seals was mainly commercial[cite: 324].",
+    "explanation": "The purpose of producing seals was mainly commercial.",
     "ncert_page": 3,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -291,14 +201,9 @@
     "mcq_id": "c2_q19",
     "chapter_id": "c2",
     "question": "What were the dimensions of a standard Harappan seal?",
-    "options": [
-      "1x1 square inches",
-      "2x2 square inches",
-      "3x3 square inches",
-      "4x4 square inches"
-    ],
+    "options": ["1x1 square inches", "2x2 square inches", "3x3 square inches", "4x4 square inches"],
     "correct_index": 1,
-    "explanation": "The standard Harappan seal was a square plaque 2x2 square inches, made from steatite[cite: 325].",
+    "explanation": "The standard Harappan seal was a square plaque 2x2 square inches, made from steatite.",
     "ncert_page": 3,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -307,14 +212,9 @@
     "mcq_id": "c2_q20",
     "chapter_id": "c2",
     "question": "What type of script is engraved on every Harappan seal?",
-    "options": [
-      "Cuneiform",
-      "Hieroglyphic",
-      "Pictographic",
-      "Alphabetic"
-    ],
+    "options": ["Cuneiform", "Hieroglyphic", "Pictographic", "Alphabetic"],
     "correct_index": 2,
-    "explanation": "Every seal is engraved in a pictographic script which is yet to be deciphered[cite: 326].",
+    "explanation": "Every seal is engraved in a pictographic script which is yet to be deciphered.",
     "ncert_page": 3,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -323,12 +223,7 @@
     "mcq_id": "c2_q21",
     "chapter_id": "c2",
     "question": "Who is the central figure in the famous seal surrounded by an elephant, tiger, rhino, and buffalo?",
-    "options": [
-      "The Priest King",
-      "Pashupati or a female deity",
-      "A horned monster",
-      "The Unicorn bull"
-    ],
+    "options": ["The Priest King", "Pashupati or a female deity", "A horned monster", "The Unicorn bull"],
     "correct_index": 1,
     "explanation": "The most remarkable seal has a figure in the centre... generally identified as the Pashupati Seal by some scholars whereas some identify it as the female deity[cite: 338, 339].",
     "ncert_page": 4,
@@ -339,14 +234,9 @@
     "mcq_id": "c2_q22",
     "chapter_id": "c2",
     "question": "Which animals are depicted on the right side of the seated figure in the Pashupati seal?",
-    "options": [
-      "Rhinoceros and buffalo",
-      "Two antelopes",
-      "Elephant and tiger",
-      "Unicorn and goat"
-    ],
+    "options": ["Rhinoceros and buffalo", "Two antelopes", "Elephant and tiger", "Unicorn and goat"],
     "correct_index": 2,
-    "explanation": "An elephant and a tiger are depicted to the right side of the seated figure[cite: 340].",
+    "explanation": "An elephant and a tiger are depicted to the right side of the seated figure.",
     "ncert_page": 4,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -355,14 +245,9 @@
     "mcq_id": "c2_q23",
     "chapter_id": "c2",
     "question": "Which animals are shown below the seat of the figure in the Pashupati seal?",
-    "options": [
-      "Two tigers",
-      "Two antelopes",
-      "Two buffaloes",
-      "Two goats"
-    ],
+    "options": ["Two tigers", "Two antelopes", "Two buffaloes", "Two goats"],
     "correct_index": 1,
-    "explanation": "In addition to these animals two antelopes are shown below the seat[cite: 341].",
+    "explanation": "In addition to these animals two antelopes are shown below the seat.",
     "ncert_page": 4,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -371,14 +256,9 @@
     "mcq_id": "c2_q24",
     "chapter_id": "c2",
     "question": "What carving technique is used for the figures and animals on the surfaces of the seals?",
-    "options": [
-      "Relief",
-      "Intaglio",
-      "Fresco",
-      "Embossing"
-    ],
+    "options": ["Relief", "Intaglio", "Fresco", "Embossing"],
     "correct_index": 1,
-    "explanation": "Figures and animals are carved in intaglio on their surfaces[cite: 343].",
+    "explanation": "Figures and animals are carved in intaglio on their surfaces.",
     "ncert_page": 4,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -387,14 +267,9 @@
     "mcq_id": "c2_q25",
     "chapter_id": "c2",
     "question": "How do the inscriptions on copper tablets differ from those on regular seals?",
-    "options": [
-      "They are completely undecipherable",
-      "They vary in every single case",
-      "They seem associated with the animals portrayed on them",
-      "They are written in a different alphabet"
-    ],
+    "options": ["They are completely undecipherable", "They vary in every single case", "They seem associated with the animals portrayed on them", "They are written in a different alphabet"],
     "correct_index": 2,
-    "explanation": "Unlike inscriptions on seals which vary in each case, inscriptions on the copper tablets seem to be associated with the animals portrayed on them[cite: 346].",
+    "explanation": "Unlike inscriptions on seals which vary in each case, inscriptions on the copper tablets seem to be associated with the animals portrayed on them.",
     "ncert_page": 4,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -403,14 +278,9 @@
     "mcq_id": "c2_q26",
     "chapter_id": "c2",
     "question": "How was the vast majority of Indus Valley pottery manufactured?",
-    "options": [
-      "Hand-made",
-      "Moulded",
-      "Wheel-made",
-      "Carved from stone"
-    ],
+    "options": ["Hand-made", "Moulded", "Wheel-made", "Carved from stone"],
     "correct_index": 2,
-    "explanation": "The Indus Valley pottery consists chiefly of very fine wheel-made wares, very few being hand-made[cite: 351].",
+    "explanation": "The Indus Valley pottery consists chiefly of very fine wheel-made wares, very few being hand-made.",
     "ncert_page": 5,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -419,14 +289,9 @@
     "mcq_id": "c2_q27",
     "chapter_id": "c2",
     "question": "Which type of pottery is more common in the excavated Indus Valley sites?",
-    "options": [
-      "Painted ware",
-      "Polychrome pottery",
-      "Plain pottery",
-      "Incised ware"
-    ],
+    "options": ["Painted ware", "Polychrome pottery", "Plain pottery", "Incised ware"],
     "correct_index": 2,
-    "explanation": "Plain pottery is more common than painted ware[cite: 352].",
+    "explanation": "Plain pottery is more common than painted ware.",
     "ncert_page": 5,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -435,14 +300,9 @@
     "mcq_id": "c2_q28",
     "chapter_id": "c2",
     "question": "In black painted ware, what color is the slip coating underneath the black paint?",
-    "options": [
-      "White",
-      "Grey",
-      "Yellow",
-      "Red"
-    ],
+    "options": ["White", "Grey", "Yellow", "Red"],
     "correct_index": 3,
-    "explanation": "The black painted ware has a fine coating of red slip on which geometric and animal designs are executed in glossy black paint[cite: 353].",
+    "explanation": "The black painted ware has a fine coating of red slip on which geometric and animal designs are executed in glossy black paint.",
     "ncert_page": 5,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -451,14 +311,9 @@
     "mcq_id": "c2_q29",
     "chapter_id": "c2",
     "question": "Where is incised decoration typically found on Indus pottery?",
-    "options": [
-      "On the handles",
-      "On the bases of the pans and inside dishes of offering stands",
-      "Around the rim",
-      "Covering the entire exterior"
-    ],
+    "options": ["On the handles", "On the bases of the pans and inside dishes of offering stands", "Around the rim", "Covering the entire exterior"],
     "correct_index": 1,
-    "explanation": "Incised ware is also rare and the incised decoration was confined to the bases of the pans, always inside and to the dishes of offering stands[cite: 355].",
+    "explanation": "Incised ware is also rare and the incised decoration was confined to the bases of the pans, always inside and to the dishes of offering stands.",
     "ncert_page": 5,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -467,14 +322,9 @@
     "mcq_id": "c2_q30",
     "chapter_id": "c2",
     "question": "What was the likely use of the perforated pottery found in the Indus Valley?",
-    "options": [
-      "Incense burners",
-      "Lanterns",
-      "Straining beverages",
-      "Musical instruments"
-    ],
+    "options": ["Incense burners", "Lanterns", "Straining beverages", "Musical instruments"],
     "correct_index": 2,
-    "explanation": "Perforated pottery includes a large hole at the bottom and small holes all over the wall, and was probably used for straining beverages[cite: 356].",
+    "explanation": "Perforated pottery includes a large hole at the bottom and small holes all over the wall, and was probably used for straining beverages.",
     "ncert_page": 5,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -483,14 +333,9 @@
     "mcq_id": "c2_q31",
     "chapter_id": "c2",
     "question": "What is the general shape rule for Indus household pottery?",
-    "options": [
-      "Straight and angular",
-      "Graceful curves",
-      "Perfectly spherical",
-      "Square and boxy"
-    ],
+    "options": ["Straight and angular", "Graceful curves", "Perfectly spherical", "Square and boxy"],
     "correct_index": 1,
-    "explanation": "Straight and angular shapes are an exception, while graceful curves are the rule[cite: 358].",
+    "explanation": "Straight and angular shapes are an exception, while graceful curves are the rule.",
     "ncert_page": 5,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -499,12 +344,7 @@
     "mcq_id": "c2_q32",
     "chapter_id": "c2",
     "question": "Which specific ornaments were worn by Indus women but NOT commonly by men?",
-    "options": [
-      "Necklaces and armlets",
-      "Fillets and finger-rings",
-      "Girdles, earrings, and anklets",
-      "Pendants and buttons"
-    ],
+    "options": ["Necklaces and armlets", "Fillets and finger-rings", "Girdles, earrings, and anklets", "Pendants and buttons"],
     "correct_index": 2,
     "explanation": "While necklaces, fillets, armlets and finger-rings were commonly worn by both sexes, women wore girdles, earrings and anklets[cite: 362, 370].",
     "ncert_page": 6,
@@ -515,14 +355,9 @@
     "mcq_id": "c2_q33",
     "chapter_id": "c2",
     "question": "At which site was a cemetery found where dead bodies were buried with ornaments?",
-    "options": [
-      "Kalibangan",
-      "Farmana",
-      "Ropar",
-      "Surkotada"
-    ],
+    "options": ["Kalibangan", "Farmana", "Ropar", "Surkotada"],
     "correct_index": 1,
-    "explanation": "It may be noted that a cemetery has been found at Farmana in Haryana where dead bodies were buried with ornaments[cite: 372].",
+    "explanation": "It may be noted that a cemetery has been found at Farmana in Haryana where dead bodies were buried with ornaments.",
     "ncert_page": 6,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -531,14 +366,9 @@
     "mcq_id": "c2_q34",
     "chapter_id": "c2",
     "question": "Where were highly developed bead manufacturing factories discovered?",
-    "options": [
-      "Harappa and Rakhigarhi",
-      "Chanhudaro and Lothal",
-      "Mohenjodaro and Kalibangan",
-      "Dholavira and Ropar"
-    ],
+    "options": ["Harappa and Rakhigarhi", "Chanhudaro and Lothal", "Mohenjodaro and Kalibangan", "Dholavira and Ropar"],
     "correct_index": 1,
-    "explanation": "The bead industry seems to have been well developed as evident from the factories discovered at Chanhudaro and Lothal[cite: 373].",
+    "explanation": "The bead industry seems to have been well developed as evident from the factories discovered at Chanhudaro and Lothal.",
     "ncert_page": 6,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -547,14 +377,9 @@
     "mcq_id": "c2_q35",
     "chapter_id": "c2",
     "question": "Which brilliantly naturalistic animal models were commonly used as pin-heads and beads?",
-    "options": [
-      "Elephants and tigers",
-      "Monkeys and squirrels",
-      "Bulls and goats",
-      "Dogs and birds"
-    ],
+    "options": ["Elephants and tigers", "Monkeys and squirrels", "Bulls and goats", "Dogs and birds"],
     "correct_index": 1,
-    "explanation": "The Harappan people also made brilliantly naturalistic models of animals, especially monkeys and squirrels, used as pin-heads and beads[cite: 379].",
+    "explanation": "The Harappan people also made brilliantly naturalistic models of animals, especially monkeys and squirrels, used as pin-heads and beads.",
     "ncert_page": 6,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -563,12 +388,7 @@
     "mcq_id": "c2_q36",
     "chapter_id": "c2",
     "question": "What archaeological evidence indicates that spinning cotton and wool was very common in the Indus Valley?",
-    "options": [
-      "Discovery of ancient looms",
-      "Finds of whorls made of faience, pottery, and shell",
-      "Cave paintings showing weavers",
-      "Written records on steatite seals"
-    ],
+    "options": ["Discovery of ancient looms", "Finds of whorls made of faience, pottery, and shell", "Cave paintings showing weavers", "Written records on steatite seals"],
     "correct_index": 1,
     "explanation": "Spinning is indicated by finds of whorls made of the expensive faience as also of the cheap pottery and shell[cite: 384, 385].",
     "ncert_page": 7,
@@ -579,14 +399,9 @@
     "mcq_id": "c2_q37",
     "chapter_id": "c2",
     "question": "What material was used as a cosmetic and face-paint by the people of the Indus Valley?",
-    "options": [
-      "Ochre",
-      "Lapis Lazuli dust",
-      "Cinnabar",
-      "Crushed pearls"
-    ],
+    "options": ["Ochre", "Lapis Lazuli dust", "Cinnabar", "Crushed pearls"],
     "correct_index": 2,
-    "explanation": "Cinnabar was used as a cosmetic and face-paint, lipstick and collyrium (eyeliner) were also known to them[cite: 390].",
+    "explanation": "Cinnabar was used as a cosmetic and face-paint, lipstick and collyrium (eyeliner) were also known to them.",
     "ncert_page": 7,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -595,14 +410,9 @@
     "mcq_id": "c2_q38",
     "chapter_id": "c2",
     "question": "At which site are many stone structural remains found, demonstrating the use of stone in construction?",
-    "options": [
-      "Harappa",
-      "Kalibangan",
-      "Dholavira",
-      "Lothal"
-    ],
+    "options": ["Harappa", "Kalibangan", "Dholavira", "Lothal"],
     "correct_index": 2,
-    "explanation": "Many stone structural remains are also found at Dholavira which show how the Indus Valley people used stone in construction[cite: 391].",
+    "explanation": "Many stone structural remains are also found at Dholavira which show how the Indus Valley people used stone in construction.",
     "ncert_page": 7,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -611,14 +421,9 @@
     "mcq_id": "c2_q39",
     "chapter_id": "c2",
     "question": "What is the approximate height of the famous copper 'Dancing Girl' figure?",
-    "options": [
-      "Two inches",
-      "Four inches",
-      "Six inches",
-      "Eight inches"
-    ],
+    "options": ["Two inches", "Four inches", "Six inches", "Eight inches"],
     "correct_index": 1,
-    "explanation": "One of the best known artefacts from the Indus Valley is this approximately four-inch-high copper figure of a dancing girl[cite: 410].",
+    "explanation": "One of the best known artefacts from the Indus Valley is this approximately four-inch-high copper figure of a dancing girl.",
     "ncert_page": 8,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -627,14 +432,9 @@
     "mcq_id": "c2_q40",
     "chapter_id": "c2",
     "question": "Which arm of the Dancing Girl is completely covered in bangles?",
-    "options": [
-      "Left arm",
-      "Right arm",
-      "Both arms",
-      "Neither arm"
-    ],
+    "options": ["Left arm", "Right arm", "Both arms", "Neither arm"],
     "correct_index": 0,
-    "explanation": "Bangles cover her left arm, a bracelet and an amulet or bangle adorn her right arm[cite: 412].",
+    "explanation": "Bangles cover her left arm, a bracelet and an amulet or bangle adorn her right arm.",
     "ncert_page": 8,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -643,14 +443,9 @@
     "mcq_id": "c2_q41",
     "chapter_id": "c2",
     "question": "What is the dancing girl wearing around her neck?",
-    "options": [
-      "A gold chain",
-      "A lapis lazuli pendant",
-      "A cowry shell necklace",
-      "A carnelian bead string"
-    ],
+    "options": ["A gold chain", "A lapis lazuli pendant", "A cowry shell necklace", "A carnelian bead string"],
     "correct_index": 2,
-    "explanation": "A cowry shell necklace is seen around her neck[cite: 412].",
+    "explanation": "A cowry shell necklace is seen around her neck.",
     "ncert_page": 8,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -659,14 +454,9 @@
     "mcq_id": "c2_q42",
     "chapter_id": "c2",
     "question": "In what position is the left hand of the Dancing Girl depicted?",
-    "options": [
-      "Resting on her hip",
-      "Clasped in a traditional Indian dance gesture",
-      "Raised above her head",
-      "Holding a small bowl"
-    ],
+    "options": ["Resting on her hip", "Clasped in a traditional Indian dance gesture", "Raised above her head", "Holding a small bowl"],
     "correct_index": 1,
-    "explanation": "Her right hand is on her hip and her left hand is clasped in a traditional Indian dance gesture[cite: 413].",
+    "explanation": "Her right hand is on her hip and her left hand is clasped in a traditional Indian dance gesture.",
     "ncert_page": 8,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -675,14 +465,9 @@
     "mcq_id": "c2_q43",
     "chapter_id": "c2",
     "question": "Where was the famous bronze figure of a charging bull discovered?",
-    "options": [
-      "Harappa",
-      "Mohenjodaro",
-      "Lothal",
-      "Dholavira"
-    ],
+    "options": ["Harappa", "Mohenjodaro", "Lothal", "Dholavira"],
     "correct_index": 1,
-    "explanation": "This bronze figure of a bull from Mohenjodaro deserves mention[cite: 417].",
+    "explanation": "This bronze figure of a bull from Mohenjodaro deserves mention.",
     "ncert_page": 8,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -691,14 +476,9 @@
     "mcq_id": "c2_q44",
     "chapter_id": "c2",
     "question": "What detail is shown around the neck of the bronze bull from Mohenjodaro?",
-    "options": [
-      "A floral garland",
-      "A heavy iron chain",
-      "A cord",
-      "A string of beads"
-    ],
+    "options": ["A floral garland", "A heavy iron chain", "A cord", "A string of beads"],
     "correct_index": 2,
-    "explanation": "The animal is shown standing with his head turned to the right and with a cord around the neck[cite: 419].",
+    "explanation": "The animal is shown standing with his head turned to the right and with a cord around the neck.",
     "ncert_page": 8,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -707,14 +487,9 @@
     "mcq_id": "c2_q45",
     "chapter_id": "c2",
     "question": "For what purpose does the red sandstone 'Male Torso' have socket holes?",
-    "options": [
-      "To string it on a necklace",
-      "For the attachment of head and arms",
-      "To mount it on a pedestal",
-      "To insert decorative gemstones"
-    ],
+    "options": ["To string it on a necklace", "For the attachment of head and arms", "To mount it on a pedestal", "To insert decorative gemstones"],
     "correct_index": 1,
-    "explanation": "In this red sandstone figure, there are socket holes in the neck and shoulders for the attachment of head and arms[cite: 422].",
+    "explanation": "In this red sandstone figure, there are socket holes in the neck and shoulders for the attachment of head and arms.",
     "ncert_page": 9,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -723,14 +498,9 @@
     "mcq_id": "c2_q46",
     "chapter_id": "c2",
     "question": "What is a distinct physical feature of the red sandstone Male Torso?",
-    "options": [
-      "An elongated neck",
-      "A flat chest",
-      "A slightly prominent abdomen",
-      "Unusually long legs"
-    ],
+    "options": ["An elongated neck", "A flat chest", "A slightly prominent abdomen", "Unusually long legs"],
     "correct_index": 2,
-    "explanation": "The shoulders are well baked and the abdomen slightly prominent[cite: 423].",
+    "explanation": "The shoulders are well baked and the abdomen slightly prominent.",
     "ncert_page": 9,
     "difficulty": "hard",
     "subject": "Fine Arts"
@@ -739,14 +509,9 @@
     "mcq_id": "c2_q47",
     "chapter_id": "c2",
     "question": "How was the Mohenjodaro 'Painted Earthen Jar' finished after baking?",
-    "options": [
-      "It was left unpolished",
-      "It was painted with black colour and highly polished",
-      "It was glazed with molten glass",
-      "It was covered in a white slip"
-    ],
+    "options": ["It was left unpolished", "It was painted with black colour and highly polished", "It was glazed with molten glass", "It was covered in a white slip"],
     "correct_index": 1,
-    "explanation": "After baking the clay model, it was painted with black colour. High polishing was done as a finishing touch[cite: 429].",
+    "explanation": "After baking the clay model, it was painted with black colour. High polishing was done as a finishing touch.",
     "ncert_page": 9,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -755,14 +520,9 @@
     "mcq_id": "c2_q48",
     "chapter_id": "c2",
     "question": "What kinds of motifs decorate the Painted Earthen Jar?",
-    "options": [
-      "Human figures hunting",
-      "Fish and marine life",
-      "Vegetal and geometric forms",
-      "Abstract animal shapes"
-    ],
+    "options": ["Human figures hunting", "Fish and marine life", "Vegetal and geometric forms", "Abstract animal shapes"],
     "correct_index": 2,
-    "explanation": "The motifs are of vegetals and geometric forms[cite: 430].",
+    "explanation": "The motifs are of vegetals and geometric forms.",
     "ncert_page": 9,
     "difficulty": "easy",
     "subject": "Fine Arts"
@@ -771,14 +531,9 @@
     "mcq_id": "c2_q49",
     "chapter_id": "c2",
     "question": "What is a distinct decorative feature of the head-dress on the Mother Goddess figures?",
-    "options": [
-      "A crown of thorns",
-      "A fan-shaped head-dress with a cup-like projection",
-      "A simple cloth wrap",
-      "A tall cylindrical hat"
-    ],
+    "options": ["A crown of thorns", "A fan-shaped head-dress with a cup-like projection", "A simple cloth wrap", "A tall cylindrical hat"],
     "correct_index": 1,
-    "explanation": "The fan-shaped head-dress with a cup-like projection on each side is a distinct decorative feature of the mother goddess figures[cite: 433].",
+    "explanation": "The fan-shaped head-dress with a cup-like projection on each side is a distinct decorative feature of the mother goddess figures.",
     "ncert_page": 9,
     "difficulty": "medium",
     "subject": "Fine Arts"
@@ -787,14 +542,9 @@
     "mcq_id": "c2_q50",
     "chapter_id": "c2",
     "question": "How are the facial features like the eyes and nose depicted on the Mother Goddess figures?",
-    "options": [
-      "Highly realistic and detailed",
-      "With smooth, subtle curves",
-      "As crude pellet eyes and a beaked nose",
-      "They are completely absent"
-    ],
+    "options": ["Highly realistic and detailed", "With smooth, subtle curves", "As crude pellet eyes and a beaked nose", "They are completely absent"],
     "correct_index": 2,
-    "explanation": "The pellet eyes and beaked nose of the figures are very crude, and the mouth is indicated by a slit[cite: 434].",
+    "explanation": "The pellet eyes and beaked nose of the figures are very crude, and the mouth is indicated by a slit.",
     "ncert_page": 9,
     "difficulty": "medium",
     "subject": "Fine Arts"

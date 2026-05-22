@@ -4,12 +4,12 @@
       "id": 1149,
       "title": "An Introduction to Indian Art – Part 1",
       "subtitle": "Class 11 NCERT Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kefa1.jpg",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Fine Arts",
       "chapterCount": 8,
-      "parts": 1
+      "parts": 1,
+      "coverUrl": ""
     }
   ],
   "chapters": [
@@ -28,10 +28,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1YtOWx5qhbNxCKqkfbzruH4FGEmVBIYDJ/view?usp=drivesdk",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/fine_arts/ch1.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/fine_arts/ch1.pdf",
-      "mcqUrl": "class_11/arts/fine_arts/mcqs/fine_arts_ch1.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 114902,
@@ -48,10 +48,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1Y4bKwuHtTFADb9YHNc4pwfnyO3JWzZxw/view?usp=drivesdk",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/fine_arts/ch2.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/fine_arts/ch2.pdf",
-      "mcqUrl": "class_11/arts/fine_arts/mcqs/fine_arts_ch2.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 114903,
@@ -68,10 +68,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1jTDnZVVx9i5lXBD_1blPmftRg8ME3n4l/view?usp=drivesdk",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/fine_arts/ch3.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/fine_arts/ch3.pdf",
-      "mcqUrl": "class_11/arts/fine_arts/mcqs/fine_arts_ch3.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 114904,
@@ -88,10 +88,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/16DJ9tY7jQ5acDGOM4sNg-ikjWXqAAH5b/view?usp=drivesdk",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/fine_arts/ch4.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/fine_arts/ch4.pdf",
-      "mcqUrl": "class_11/arts/fine_arts/mcqs/fine_arts_ch4.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 114905,
@@ -108,10 +108,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1UThZdafvnjHY23sPTu7zgRNOnQWeyLTs/view?usp=drivesdk",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/fine_arts/ch5.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/fine_arts/ch5.pdf",
-      "mcqUrl": "class_11/arts/fine_arts/mcqs/fine_arts_ch5.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 114906,
@@ -128,10 +128,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1UQcApk62BDtzlUlw1V-3rg6wajcHwP84/view?usp=drivesdk",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/fine_arts/ch6.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/fine_arts/ch6.pdf",
-      "mcqUrl": "class_11/arts/fine_arts/mcqs/fine_arts_ch6.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 114907,
@@ -148,10 +148,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1zoFvPu_tMONpzCg6fnWxPlKr0Kdw7-Ru/view?usp=drivesdk",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/arts/fine_arts/ch7.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/arts/fine_arts/ch7.pdf",
-      "mcqUrl": "class_11/arts/fine_arts/mcqs/fine_arts_ch7.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 114908,
@@ -168,10 +168,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/1IZm4rSLvzstUrnEm1xAlIzkqVe2pWk7Y/view?usp=drivesdk",
+      "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_11/arts/fine_arts/mcqs/fine_arts_ch8.json"
+      "mcqUrl": ""
     }
   ]
 }
