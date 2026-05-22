@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "fbt_q01",
+    "chapter_id": "c18",
+    "question": "Who is the poet of the poem 'Felling of the Banyan Tree'?",
+    "options": ["Philip Larkin", "Dilip Chitre", "Nissim Ezekiel", "Ted Hughes"],
+    "correct_index": 1,
+    "explanation": "The poem is written by Dilip Chitre, who writes poetry in both Marathi and English.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q02",
+    "chapter_id": "c18",
+    "question": "Where was the poet Dilip Chitre born?",
+    "options": ["Bombay", "Baroda", "Pune", "Delhi"],
+    "correct_index": 1,
+    "explanation": "According to the 'About the Poet' section, Dilip Chitre was born in Baroda.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q03",
+    "chapter_id": "c18",
+    "question": "From which collection of Dilip Chitre's poems is this work taken?",
+    "options": ["The Less Deceived", "Travelling in a Cage", "Brunizem", "Lyrical Ballads"],
+    "correct_index": 1,
+    "explanation": "The poem is selected from the collection titled 'Travelling in a Cage'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q04",
+    "chapter_id": "c18",
+    "question": "At the start of the poem, the poet's father tells whom to leave?",
+    "options": ["The neighbors", "The tenants", "The servants", "The woodcutters"],
+    "correct_index": 1,
+    "explanation": "The first line states, 'My father told the tenants to leave'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q05",
+    "chapter_id": "c18",
+    "question": "What happened to the structures surrounding the poet's house?",
+    "options": ["They were painted", "They were demolished", "They were rented out", "They were sold"],
+    "correct_index": 1,
+    "explanation": "The poem says, 'One by one the structures were demolished'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q06",
+    "chapter_id": "c18",
+    "question": "According to the poet's grandmother, what are 'sacred'?",
+    "options": ["Old houses", "Trees", "Tenants", "Books"],
+    "correct_index": 1,
+    "explanation": "The poet recalls, 'Trees are sacred my grandmother used to say'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q07",
+    "chapter_id": "c18",
+    "question": "Which word does the poet use to describe the father's act of cutting down the trees?",
+    "options": ["Pruned", "Harvested", "Massacred", "Cleansed"],
+    "correct_index": 2,
+    "explanation": "The poet uses the strong word 'massacred' to describe the felling of the trees.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q08",
+    "chapter_id": "c18",
+    "question": "Which of these trees was NOT explicitly mentioned as being cut down first?",
+    "options": ["Sheoga", "Oudumber", "Neem", "Banyan"],
+    "correct_index": 3,
+    "explanation": "Sheoga, oudumber, and neem were cut first; the huge banyan tree stood till the end.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q09",
+    "chapter_id": "c18",
+    "question": "The huge banyan tree is described as standing like a ________.",
+    "options": ["King", "Problem", "Soldier", "Saint"],
+    "correct_index": 1,
+    "explanation": "The poet writes, 'But the huge banyan tree stood like a problem'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q10",
+    "chapter_id": "c18",
+    "question": "The banyan tree's roots were said to be deeper than:",
+    "options": ["The house foundations", "All our lives", "The ocean", "Ancient myths"],
+    "correct_index": 1,
+    "explanation": "The poem states, 'Whose roots lay deeper than all our lives'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q11",
+    "chapter_id": "c18",
+    "question": "The banyan tree was how many times as tall as the house?",
+    "options": ["Two times", "Three times", "Five times", "Ten times"],
+    "correct_index": 1,
+    "explanation": "The poet notes, 'The banyan tree was three times as tall as our house'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q12",
+    "chapter_id": "c18",
+    "question": "What was the circumference of the banyan tree's trunk?",
+    "options": ["Thirty feet", "Fifty feet", "Twenty feet", "A hundred feet"],
+    "correct_index": 1,
+    "explanation": "The trunk had a circumference of fifty feet.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q13",
+    "chapter_id": "c18",
+    "question": "From how many feet or more did the aerial roots fall to the ground?",
+    "options": ["Ten feet", "Twenty feet", "Thirty feet", "Fifty feet"],
+    "correct_index": 2,
+    "explanation": "The poem mentions aerial roots fell from 'thirty feet or more'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q14",
+    "chapter_id": "c18",
+    "question": "How long did it take to saw off the branches of the banyan tree?",
+    "options": ["One day", "Three days", "Seven days", "A month"],
+    "correct_index": 2,
+    "explanation": "They were 'Sawing them off for seven days'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q15",
+    "chapter_id": "c18",
+    "question": "What began to leave the tree while the branches were being cut?",
+    "options": ["Leaves", "Tenants", "Insects and birds", "The shade"],
+    "correct_index": 2,
+    "explanation": "The poem states, 'Insects and birds began to leave the tree'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q16",
+    "chapter_id": "c18",
+    "question": "How many men with axes chopped at the massive trunk?",
+    "options": ["Ten", "Twenty-five", "Fifty", "A hundred"],
+    "correct_index": 2,
+    "explanation": "The poet says, 'Fifty men with axes chopped and chopped'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q17",
+    "chapter_id": "c18",
+    "question": "How many years of growth did the rings of the tree reveal?",
+    "options": ["Fifty years", "A hundred years", "Two hundred years", "Five hundred years"],
+    "correct_index": 2,
+    "explanation": "The great tree 'revealed its rings of two hundred years'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q18",
+    "chapter_id": "c18",
+    "question": "The children watched the felling of the tree in a state of:",
+    "options": ["Boredom", "Terror and fascination", "Pure joy", "Anger"],
+    "correct_index": 1,
+    "explanation": "The poet writes, 'We watched in terror and fascination this slaughter'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q19",
+    "chapter_id": "c18",
+    "question": "What does the poet call the revelation of the tree's age?",
+    "options": ["A scientific fact", "A raw mythology", "A history lesson", "A tragedy"],
+    "correct_index": 1,
+    "explanation": "The poem says, 'As a raw mythology revealed to us its age'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q20",
+    "chapter_id": "c18",
+    "question": "To which city did the family move shortly after the tree was cut?",
+    "options": ["Baroda", "Bombay", "Delhi", "Lucknow"],
+    "correct_index": 1,
+    "explanation": "They left Baroda for Bombay.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q21",
+    "chapter_id": "c18",
+    "question": "How does the poet describe Bombay in terms of nature?",
+    "options": ["A lush garden", "A city with no trees", "A place of many parks", "A forest"],
+    "correct_index": 1,
+    "explanation": "The poet says in Bombay 'there are no trees'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q22",
+    "chapter_id": "c18",
+    "question": "Where does the banyan tree grow and 'seethe' at the end of the poem?",
+    "options": ["In the new house", "In the city streets", "In one's dreams", "In the park"],
+    "correct_index": 2,
+    "explanation": "It grows and seethes 'in one's dreams'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q23",
+    "chapter_id": "c18",
+    "question": "The aerial roots in the dream are looking for:",
+    "options": ["The sun", "Water", "The ground to strike", "Birds"],
+    "correct_index": 2,
+    "explanation": "The final lines mention aerial roots 'Looking for the ground to strike'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q24",
+    "chapter_id": "c18",
+    "question": "The word 'scraggy' is used to describe which part of the tree?",
+    "options": ["The trunk", "The leaves", "The aerial roots", "The branches"],
+    "correct_index": 2,
+    "explanation": "The poet describes the 'scraggy aerial roots'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q25",
+    "chapter_id": "c18",
+    "question": "What is the tone of the poet towards the felling of the tree?",
+    "options": ["Indifferent", "Mournful and critical", "Supportive", "Scientific"],
+    "correct_index": 1,
+    "explanation": "The use of words like 'slaughter', 'massacred', and 'terror' shows a mournful and critical tone.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q26",
+    "chapter_id": "c18",
+    "question": "What does the word 'felling' mean in the context of the poem?",
+    "options": ["Climbing", "Falling down by accident", "Cutting down", "Planting"],
+    "correct_index": 2,
+    "explanation": "Felling refers to the deliberate act of cutting down a tree.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q27",
+    "chapter_id": "c18",
+    "question": "Which Indian city is Baroda known as today (implied context)?",
+    "options": ["Vadodara", "Ahmedabad", "Surat", "Rajkot"],
+    "correct_index": 0,
+    "explanation": "Baroda is the former name of Vadodara.",
+    "difficulty": "medium",
+    "subject": "General Knowledge/English"
+  },
+  {
+    "mcq_id": "fbt_q28",
+    "chapter_id": "c18",
+    "question": "The poem highlights a conflict between:",
+    "options": ["The poet and his mother", "Modern urbanization and traditional respect for nature", "Baroda and Bombay", "Insects and birds"],
+    "correct_index": 1,
+    "explanation": "The father's practical need to clear land contrasts with the traditional view of trees as sacred.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q29",
+    "chapter_id": "c18",
+    "question": "What does 'circumference' refer to in the poem?",
+    "options": ["Height of the tree", "Distance around the trunk", "Depth of the roots", "Number of leaves"],
+    "correct_index": 1,
+    "explanation": "Circumference is the measurement around the tree's massive trunk.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q30",
+    "chapter_id": "c18",
+    "question": "Why were the structures surrounding the house demolished?",
+    "options": ["They were old", "To clear the land for the family to move", "To build a park", "They were illegal"],
+    "correct_index": 1,
+    "explanation": "The demolition was part of the process of the family leaving the hill.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q31",
+    "chapter_id": "c18",
+    "question": "The adjective 'massive' describes which part of the tree?",
+    "options": ["The roots", "The trunk", "The branches", "The heap"],
+    "correct_index": 1,
+    "explanation": "The poem refers to its 'massive trunk'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q32",
+    "chapter_id": "c18",
+    "question": "The phrase 'slaughter' used for the tree implies that the poet saw it as:",
+    "options": ["Necessary", "A living being being killed", "Funny", "Boring"],
+    "correct_index": 1,
+    "explanation": "Slaughter is usually used for living creatures, showing the poet's empathy for the tree.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q33",
+    "chapter_id": "c18",
+    "question": "The word 'seethes' in the final stanza suggests the dream tree is:",
+    "options": ["Peaceful", "Full of intense, restless energy/anger", "Dead", "Growing fast"],
+    "correct_index": 1,
+    "explanation": "Seething implies a state of agitation or suppressed anger.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q34",
+    "chapter_id": "c18",
+    "question": "The rings of a tree are used to determine its:",
+    "options": ["Height", "Age", "Health", "Species"],
+    "correct_index": 1,
+    "explanation": "The rings revealed the tree's age of two hundred years.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q35",
+    "chapter_id": "c18",
+    "question": "The family move from a hill in Baroda to which kind of environment in Bombay?",
+    "options": ["Another hill", "A rural farm", "An urban setting (implied tree-less)", "A sea beach"],
+    "correct_index": 2,
+    "explanation": "They move to a city where 'there are no trees'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q36",
+    "chapter_id": "c18",
+    "question": "What is the specific type of root mentioned that hangs from the branches?",
+    "options": ["Tap root", "Fibrous root", "Aerial root", "Adventitious root"],
+    "correct_index": 2,
+    "explanation": "The banyan tree is famous for its 'aerial roots'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q37",
+    "chapter_id": "c18",
+    "question": "The 'heap' after seven days was:",
+    "options": ["Small", "Burned", "Huge", "Green"],
+    "correct_index": 2,
+    "explanation": "The poem states 'the heap was huge' after the branches were sawed off.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q38",
+    "chapter_id": "c18",
+    "question": "Dilip Chitre's lifespan was:",
+    "options": ["1907-1973", "1938-2009", "1930-1998", "1922-1985"],
+    "correct_index": 1,
+    "explanation": "The biographical note says he lived from 1938 to 2009.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q39",
+    "chapter_id": "c18",
+    "question": "The grandmother's belief that 'felling them is a crime' contrasts with whose orders?",
+    "options": ["The neighbors", "The father", "The woodcutters", "The wood"],
+    "correct_index": 1,
+    "explanation": "The father ordered the tree to be removed despite the grandmother's warnings.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q40",
+    "chapter_id": "c18",
+    "question": "What does the father represent in the poem's theme?",
+    "options": ["Tradition", "Destructive modernity/practicality", "Nature", "A myth"],
+    "correct_index": 1,
+    "explanation": "The father represents the force that destroys the past and nature for progress.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q41",
+    "chapter_id": "c18",
+    "question": "The rings of the tree were 'revealed' by:",
+    "options": ["The sun", "Chopping the trunk", "A scientist", "The birds"],
+    "correct_index": 1,
+    "explanation": "When they chopped the massive trunk, the rings were shown.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q42",
+    "chapter_id": "c18",
+    "question": "The poem uses the word 'chopped' twice to emphasize:",
+    "options": ["The speed", "The effort and repetitive violence of the act", "The joy of the men", "The sharpness of axes"],
+    "correct_index": 1,
+    "explanation": "Repetition like 'chopped and chopped' emphasizes the long, arduous destruction.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q43",
+    "chapter_id": "c18",
+    "question": "What remains 'in one's dreams'?",
+    "options": ["Baroda", "The father", "The tree", "The tenants"],
+    "correct_index": 2,
+    "explanation": "The tree continues to exist in the dream world.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q44",
+    "chapter_id": "c18",
+    "question": "The 'oudumber' and 'sheoga' are types of:",
+    "options": ["Buildings", "Trees", "Insects", "Metals"],
+    "correct_index": 1,
+    "explanation": "They are trees cut down by the father.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q45",
+    "chapter_id": "c18",
+    "question": "The aerial roots in the dream are 'Looking for' ________.",
+    "options": ["The ground", "The tree", "The house", "The city"],
+    "correct_index": 0,
+    "explanation": "The last line says they are 'Looking for the ground to strike'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q46",
+    "chapter_id": "c18",
+    "question": "How does the poet describe the mythology of the tree?",
+    "options": ["As a 'raw' mythology", "As a 'false' mythology", "As a 'funny' mythology", "As a 'sad' mythology"],
+    "correct_index": 0,
+    "explanation": "The poet calls it 'a raw mythology'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q47",
+    "chapter_id": "c18",
+    "question": "The tree reveal its rings which represent its ________.",
+    "options": ["Height", "Age", "Roots", "Trunk"],
+    "correct_index": 1,
+    "explanation": "Rings in a tree trunk represent its age.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q48",
+    "chapter_id": "c18",
+    "question": "What is the tone of the poet towards the banyan tree?",
+    "options": ["Indifference", "Respect and mournful", "Dislike", "Boredom"],
+    "correct_index": 1,
+    "explanation": "The poet clearly respects the age and sacredness of the tree.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q49",
+    "chapter_id": "c18",
+    "question": "How many years did the banyan tree live, according to its rings?",
+    "options": ["100", "200", "300", "400"],
+    "correct_index": 1,
+    "explanation": "The poem states 'revealed its rings of two hundred years'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "fbt_q50",
+    "chapter_id": "c18",
+    "question": "The tree is felled to make space for:",
+    "options": ["A new school", "A housing complex", "The family's relocation/urban development", "Nothing"],
+    "correct_index": 2,
+    "explanation": "The felling is part of the broader demolition of the family's home and surroundings.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  }
+]

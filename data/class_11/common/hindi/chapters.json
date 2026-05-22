@@ -4,23 +4,23 @@
       "id": 1133,
       "title": "Aroh",
       "subtitle": "Class 11 NCERT Hindi Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehr1.jpg",
       "language": "hindi",
       "classNumber": "Class 11",
       "subject": "Hindi",
       "chapterCount": 16,
-      "parts": 1
+      "parts": 1,
+      "coverUrl": ""
     },
     {
       "id": 1134,
       "title": "Vitan",
       "subtitle": "Class 11 NCERT Hindi Supplementary",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehv1.jpg",
       "language": "hindi",
       "classNumber": "Class 11",
       "subject": "Hindi",
       "chapterCount": 4,
-      "parts": 1
+      "parts": 1,
+      "coverUrl": ""
     }
   ],
   "chapters": [
@@ -39,10 +39,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr101.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch1.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch1.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch1.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113302,
@@ -59,10 +59,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr102.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch2.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch2.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch2.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113303,
@@ -79,10 +79,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr103.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch3.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch3.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch3.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113304,
@@ -99,10 +99,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr104.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch4.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch4.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch4.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113305,
@@ -119,10 +119,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr105.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch5.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch5.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch5.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113306,
@@ -139,10 +139,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr106.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch6.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch6.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch6.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113307,
@@ -159,10 +159,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr107.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch7.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch7.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch7.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113308,
@@ -179,10 +179,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr108.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch8.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch8.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch8.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113309,
@@ -199,10 +199,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr109.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch9.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch9.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch9.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113310,
@@ -219,10 +219,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr110.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch10.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch10.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch10.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113311,
@@ -239,10 +239,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr111.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch11.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch11.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch11.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113312,
@@ -259,10 +259,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr112.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch12.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch12.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch12.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113313,
@@ -279,10 +279,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr113.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch13.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch13.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch13.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113314,
@@ -299,10 +299,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr114.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch14.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch14.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch14.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113315,
@@ -319,10 +319,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr115.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch15.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch15.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch15.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113316,
@@ -339,10 +339,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehr116.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/ch16.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/ch16.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_ch16.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113401,
@@ -359,10 +359,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehv101.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/vch1.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/vch1.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_vch1.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113402,
@@ -379,10 +379,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehv102.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/vch2.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/vch2.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_vch2.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113403,
@@ -399,10 +399,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehv103.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/vch3.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/vch3.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_vch3.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     },
     {
       "id": 113404,
@@ -419,10 +419,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "https://ncert.nic.in/textbook/pdf/kehv104.pdf",
-      "solutionsUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/solutions/class_11/common/hindi/vch4.pdf",
-      "notesUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/pdfs/notes/class_11/common/hindi/vch4.pdf",
-      "mcqUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/data/class_11/common/hindi/mcqs/hin_vch4.json"
+      "pdfUrl": "",
+      "solutionsUrl": "",
+      "notesUrl": "",
+      "mcqUrl": ""
     }
   ]
 }

@@ -1,0 +1,627 @@
+[
+  {
+    "mcq_id": "c1_q01",
+    "chapter_id": "c1",
+    "question": "Who is the author of the short story 'The Summer of the Beautiful White Horse'?",
+    "options": ["William Wordsworth", "William Saroyan", "Liam O'Flaherty", "Nick Middleton"],
+    "correct_index": 1,
+    "explanation": "The story 'The Summer of the Beautiful White Horse' is written by William Saroyan.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q02",
+    "chapter_id": "c1",
+    "question": "The two poor boys in the story belong to which Armenian tribe?",
+    "options": ["Garoghlanian", "Assyrian", "Kurdish", "Yazidi"],
+    "correct_index": 0,
+    "explanation": "The boys belong to the Garoghlanian tribe, an Armenian family known for its trust and honesty.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q03",
+    "chapter_id": "c1",
+    "question": "What are the hallmarks or core values of the boys' tribe?",
+    "options": ["Wealth and power", "Trust and honesty", "Adventure and warfare", "Secrecy and isolation"],
+    "correct_index": 1,
+    "explanation": "As stated right at the beginning, the boys belong to a tribe whose hallmarks are trust and honesty.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q04",
+    "chapter_id": "c1",
+    "question": "How old was the narrator Aram when the story's main event began back in the 'good old days'?",
+    "options": ["Seven", "Nine", "Eleven", "Thirteen"],
+    "correct_index": 1,
+    "explanation": "The story opens with Aram reminiscing: 'ONE day back there in the good old days when I was nine...'",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q05",
+    "chapter_id": "c1",
+    "question": "At what time in the morning did Mourad come to Aram’s house to wake him up?",
+    "options": ["Two in the morning", "Four in the morning", "Six in the morning", "At daybreak"],
+    "correct_index": 1,
+    "explanation": "Mourad came to Aram's house at four in the morning and woke him up by tapping on the window.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q06",
+    "chapter_id": "c1",
+    "question": "How did Mourad wake Aram up from his sleep?",
+    "options": ["By calling his name loudly", "By throwing a pebble at the door", "By tapping on the window of his room", "By shaking his shoulder"],
+    "correct_index": 2,
+    "explanation": "Mourad woke Aram up by 'tapping on the window of my room.'",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q07",
+    "chapter_id": "c1",
+    "question": "What did Aram see out of the window that he couldn't believe?",
+    "options": ["His cousin on a motorcycle", "A flock of white birds", "His cousin Mourad sitting on a beautiful white horse", "An angel standing in the yard"],
+    "correct_index": 2,
+    "explanation": "When Aram looked out of the window, he saw his cousin Mourad sitting on a beautiful white horse, which he couldn't believe due to their poverty.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q08",
+    "chapter_id": "c1",
+    "question": "In what language did Mourad speak to Aram when inviting him for a ride?",
+    "options": ["Turkish", "Persian", "Arabic", "Armenian"],
+    "correct_index": 3,
+    "explanation": "Mourad confirmed what Aram was seeing by saying 'Yes' in Armenian.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q09",
+    "chapter_id": "c1",
+    "question": "What did everyone except Aram think about cousin Mourad?",
+    "options": ["He was a genius", "He was crazy", "He was extremely wealthy", "He was a thief"],
+    "correct_index": 1,
+    "explanation": "Aram notes that Mourad 'was considered crazy by everybody who knew him except me.'",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q10",
+    "chapter_id": "c1",
+    "question": "What was the primary reason Aram could not believe that Mourad had bought the horse?",
+    "options": ["They lived in a city with no stables", "Their family was completely broke and poor", "Mourad hated animals", "The tribe didn't allow horses"],
+    "correct_index": 1,
+    "explanation": "The second reason Aram found it hard to believe was their poverty: 'In the second place, we were poor.' Therefore, buying a horse was impossible.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q11",
+    "chapter_id": "c1",
+    "question": "For how long had the Garoghlanian family been famous for their honesty?",
+    "options": ["For about a generation", "For nearly eleven centuries", "For less than fifty years", "Ever since they migrated from Europe"],
+    "correct_index": 1,
+    "explanation": "The text states: 'We had been famous for our honesty for something like eleven centuries.'",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q12",
+    "chapter_id": "c1",
+    "question": "Which of the following describes the pride priorities of the Garoghlanian tribe?",
+    "options": ["First honest, next wealthy, then proud", "First proud, next honest, and after that right and wrong", "First right and wrong, next proud, then honest", "First wealthy, next proud, then honest"],
+    "correct_index": 1,
+    "explanation": "According to Aram: 'We were proud first, honest next, and after that we believed in right and wrong.'",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q13",
+    "chapter_id": "c1",
+    "question": "What conclusion did Aram arrive at regarding how Mourad got the horse?",
+    "options": ["Mourad earned it through farming", "Mourad had stolen the horse", "The horse was gifted by a neighbor", "Mourad found it in the desert"],
+    "correct_index": 1,
+    "explanation": "Since nobody in the family could afford a horse, Aram concluded that Mourad must have stolen it.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q14",
+    "chapter_id": "c1",
+    "question": "How did Aram rationalize or justify his cousin taking the horse?",
+    "options": ["He believed stealing a horse for riding wasn't the same as stealing for money.", "He knew the owner didn't need the horse.", "He thought the horse belonged to the public domain.", "He believed the horse chose to follow Mourad."],
+    "correct_index": 0,
+    "explanation": "Aram rationalized the act by thinking that 'stealing a horse for a ride was not the same thing as stealing something else, such as money.'",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q15",
+    "chapter_id": "c1",
+    "question": "According to Aram, when would taking the horse formally become 'stealing'?",
+    "options": ["If they kept it for more than a year", "If they offered to sell the horse to someone else", "If the owner caught them red-handed", "If they let the horse run away"],
+    "correct_index": 1,
+    "explanation": "Aram stated: 'If we went so far as to offer to sell the horse, that would be stealing.'",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q16",
+    "chapter_id": "c1",
+    "question": "Where did Aram's family live at that time?",
+    "options": ["In the heart of the Armenian mountains", "At the edge of town, on Walnut Avenue", "Near the town square on Chestnut Road", "On Olive Avenue near the coast"],
+    "correct_index": 1,
+    "explanation": "Aram mentions their residence location: 'We were living at the edge of town, on Walnut Avenue.'",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q17",
+    "chapter_id": "c1",
+    "question": "What lay behind their houses according to the description of the town geography?",
+    "options": ["Vineyards, orchards, irrigation ditches, and country roads", "Deep forests, lakes, and high rocky hills", "Industrial factories and concrete railway tracks", "A crowded market area and schools"],
+    "correct_index": 0,
+    "explanation": "Behind their houses was the country: 'vineyards, orchards, irrigation ditches, and country roads.'",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q18",
+    "chapter_id": "c1",
+    "question": "How long did it take for the horse to reach Olive Avenue from Aram's house?",
+    "options": ["Less than three minutes", "Exactly ten minutes", "An hour", "Half an hour"],
+    "correct_index": 0,
+    "explanation": "Aram notes the rapid transition: 'In less than three minutes we were on Olive Avenue...'",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q19",
+    "chapter_id": "c1",
+    "question": "What did Mourad start doing as the horse began to trot and the air felt fresh to breathe?",
+    "options": ["Weeping out of fear", "Singing, or rather roaring", "Whispering prayers", "Arguing with Aram"],
+    "correct_index": 1,
+    "explanation": "Mourad was full of joy and 'began to sing. I mean he began to roar.'",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q20",
+    "chapter_id": "c1",
+    "question": "Mourad was considered the natural descendant of the crazy streak in their tribe. Who was the previous representative of this streak?",
+    "options": ["Uncle Khosrove", "Uncle John", "Aram's father, Vasak", "Grandfather Dikran"],
+    "correct_index": 0,
+    "explanation": "Before Mourad, the crazy streak was represented by Uncle Khosrove.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q21",
+    "chapter_id": "c1",
+    "question": "Which of the following describes the physical appearance of Uncle Khosrove?",
+    "options": [
+      "A small, thin man with a gentle voice and white hair",
+      "An enormous man with a powerful head of dark hair and the largest mustache in the San Joaquin Valley",
+      "A tall, athletic man who wore military outfits",
+      "A short man with a clean-shaven face and spectacles"
+    ],
+    "correct_index": 1,
+    "explanation": "Uncle Khosrove is described as 'an enormous man with a powerful head of dark hair and the largest mustache in the San Joaquin Valley.'",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q22",
+    "chapter_id": "c1",
+    "question": "What was Uncle Khosrove's famous custom phrase used to stop anyone from talking?",
+    "options": [
+      "Silence, you fool, do not waste my valuable hours!",
+      "It is no harm; pay no attention to it.",
+      "Get out of my sight before I lose my temper!",
+      "Honesty is above all worldly losses."
+    ],
+    "correct_index": 1,
+    "explanation": "Uncle Khosrove would roar and stop anyone from talking by saying: 'It is no harm; pay no attention to it.'",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q23",
+    "chapter_id": "c1",
+    "question": "What happened when Khosrove's son Arak ran eight blocks to the barber shop to report their house was on fire?",
+    "options": [
+      "Khosrove fainted out of shock.",
+      "Khosrove roared: 'It is no harm; pay no attention to it.'",
+      "Khosrove beat up the barber for interrupting him.",
+      "Khosrove wept and ran home quickly."
+    ],
+    "correct_index": 1,
+    "explanation": "Even when told his house was on fire, Khosrove shouted: 'It is no harm; pay no attention to it.'",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q24",
+    "chapter_id": "c1",
+    "question": "Who was Mourad’s biological father, described as a practical and non-crazy man?",
+    "options": ["Zohrab", "Vasak", "Khosrove", "Aram"],
+    "correct_index": 0,
+    "explanation": "Mourad's father was Zohrab, who was 'practical and nothing else.'",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q25",
+    "chapter_id": "c1",
+    "question": "What happened when Aram got on the horse alone and tried to make it run?",
+    "options": [
+      "The horse stood still and refused to move at all.",
+      "The horse reared, snorted, ran down the road to a vineyard, leaped over seven vines, and threw Aram off.",
+      "The horse ran back to its original owner immediately.",
+      "The horse trotted smoothly into the mountains."
+    ],
+    "correct_index": 1,
+    "explanation": "When Aram rode alone, the horse threw him off after kicking and leaping over seven grapevines in Fetvajian's vineyard.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q26",
+    "chapter_id": "c1",
+    "question": "Whose vineyard did the horse leap into and damage while Aram was trying to ride alone?",
+    "options": ["John Byro's vineyard", "Dikran Halabian's vineyard", "Prakton Fetvajian's vineyard", "Garoghlanian's community field"],
+    "correct_index": 2,
+    "explanation": "The text notes that the horse 'ran down the road to the vineyard of Dikran Halabian' and later 'leaped over seven vines' (Page 4/5 mentions the path layout).",
+    "ncert_page": 4,
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q27",
+    "chapter_id": "c1",
+    "question": "After Aram was thrown off, how long did it take Mourad to track down and bring the horse back?",
+    "options": ["Two hours", "An hour", "Half an hour", "Ten minutes"],
+    "correct_index": 2,
+    "explanation": "Mourad ran down the road and 'It took him half an hour to find the horse and bring him back.'",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q28",
+    "chapter_id": "c1",
+    "question": "Where did the boys hide the horse during the day to keep it hidden from the townspeople?",
+    "options": [
+      "In the cellar of Aram's house",
+      "In a secret cave in the mountains",
+      "In the barn of a deserted vineyard belonging to a farmer named Fetvajian",
+      "In a public stable down on Walnut Avenue"
+    ],
+    "correct_index": 2,
+    "explanation": "They hid the horse in the barn of a deserted vineyard which at one time had been the pride of a farmer named Fetvajian.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q29",
+    "chapter_id": "c1",
+    "question": "What left-over food items were found in the barn where the horse was hidden?",
+    "options": ["Wheat and dried apples", "Oats and dry alfalfa", "Barley and fresh grass", "Corn flakes and hay"],
+    "correct_index": 1,
+    "explanation": "Aram noted that 'There were some oats and dry alfalfa in the barn.'",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q30",
+    "chapter_id": "c1",
+    "question": "What phrase did Mourad use repeatedly to express his special natural connection or understanding with animals and people?",
+    "options": ["I have a way with...", "I am the master of...", "They listen to the voice of...", "It is my destiny to guide..."],
+    "correct_index": 0,
+    "explanation": "Mourad repeatedly says variations of 'I have a way with a horse' or 'I have a way with dogs.'",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q31",
+    "chapter_id": "c1",
+    "question": "Who came to Aram's house that afternoon for coffee and cigarettes?",
+    "options": ["The village priest", "John Byro, an Assyrian farmer", "Mourad's father Zohrab", "The local sheriff"],
+    "correct_index": 1,
+    "explanation": "That afternoon, a visitor named John Byro, an Assyrian farmer, came to Aram's house.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q32",
+    "chapter_id": "c1",
+    "question": "What language had John Byro learned to speak so he could communicate with his neighbors?",
+    "options": ["Turkish", "Arabic", "Armenian", "Persian"],
+    "correct_index": 2,
+    "explanation": "John Byro was an Assyrian who, out of loneliness, had learned to speak Armenian.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q33",
+    "chapter_id": "c1",
+    "question": "What loss did John Byro lament while sitting in Aram's house?",
+    "options": [
+      "His crop was destroyed by rain.",
+      "His beautiful white horse had been stolen the previous month.",
+      "His son ran away to the city.",
+      "His vineyard was seized by banks."
+    ],
+    "correct_index": 1,
+    "explanation": "John Byro sighed and stated: 'My white horse which was stolen last month is still gone.'",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q34",
+    "chapter_id": "c1",
+    "question": "How much money did John Byro mention he had paid for his beautiful white horse?",
+    "options": ["Forty dollars", "Sixty dollars", "Eighty dollars", "A hundred dollars"],
+    "correct_index": 1,
+    "explanation": "John Byro mentioned the horse's valuation: 'It cost me sixty dollars.'",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q35",
+    "chapter_id": "c1",
+    "question": "What did Uncle Khosrove do when John Byro complained about his lost horse and his useless surrey?",
+    "options": [
+      "He offered him a loan to buy a new one.",
+      "He shouted: 'Pay no attention to it. What is the loss of a horse?'",
+      "He helped him look for tracks in the yard.",
+      "He ordered him to leave the house immediately."
+    ],
+    "correct_index": 1,
+    "explanation": "Uncle Khosrove became irritated and shouted: 'It's no harm. Pay no attention to it. What is the loss of a horse?'",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q36",
+    "chapter_id": "c1",
+    "question": "How far did John Byro have to walk to get to Aram’s house?",
+    "options": ["Two miles", "Five miles", "Ten miles", "Twelve miles"],
+    "correct_index": 2,
+    "explanation": "John Byro mentioned his physical struggle: 'I have walked ten miles to get here.'",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q37",
+    "chapter_id": "c1",
+    "question": "What did Aram's mother say to explain Uncle Khosrove's aggressive manners to John Byro?",
+    "options": [
+      "He is suffering from illness.",
+      "He has a gentle heart but is homesick for his native country.",
+      "He hates farmers and animals.",
+      "He has lost his mental balance after the fire."
+    ],
+    "correct_index": 1,
+    "explanation": "Aram's mother explained: 'He has a gentle heart... It is simply that he is homesick and such a large man.'",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q38",
+    "chapter_id": "c1",
+    "question": "When Aram ran to Mourad's house after Byro left, what was Mourad doing?",
+    "options": [
+      "Sleeping under an apple tree",
+      "Sitting under a peach tree, trying to repair the hurt wing of a young robin",
+      "Polishing the leather saddles of the horse",
+      "Eating dinner with his practical father"
+    ],
+    "correct_index": 1,
+    "explanation": "Aram found Mourad 'sitting under a peach tree, trying to repair the hurt wing of a young robin which could not fly.'",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q39",
+    "chapter_id": "c1",
+    "question": "For how long did Mourad reveal he had been riding the horse early every morning before Aram found out?",
+    "options": ["Only since that morning", "For a week", "For a whole month", "For two days"],
+    "correct_index": 2,
+    "explanation": "When questioned, it is revealed that Mourad had been holding and riding the horse for a month (matching John Byro's timeline).",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q40",
+    "chapter_id": "c1",
+    "question": "What promise did Aram extract from Mourad regarding when to return the horse?",
+    "options": [
+      "To return it by tomorrow evening",
+      "Not to return the horse until Aram had learned to ride",
+      "To keep it until winter arrived",
+      "To hide it inside the mountains permanently"
+    ],
+    "correct_index": 1,
+    "explanation": "Aram demanded: 'You must promise not to take it back until I learn to ride.'",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q41",
+    "chapter_id": "c1",
+    "question": "What was the absolute maximum time limit Mourad stated they could keep the horse before it violated their tribe's honesty standards?",
+    "options": ["Two weeks", "One month", "Six months", "One year"],
+    "correct_index": 2,
+    "explanation": "Mourad stated an upper limit: 'He could keep it six months at the latest...'",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q42",
+    "chapter_id": "c1",
+    "question": "For how many weeks did the boys continue their secret morning rides before running into the owner?",
+    "options": ["One week", "Two weeks", "Three weeks", "Four weeks"],
+    "correct_index": 1,
+    "explanation": "The text states: 'Every morning for two weeks my cousin Mourad and I took the horse out...'",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q43",
+    "chapter_id": "c1",
+    "question": "One morning on their way back to the deserted vineyard, whom did the boys meet on the road?",
+    "options": ["Aram's father", "The local city sheriff", "John Byro, the horse's owner", "Uncle Khosrove"],
+    "correct_index": 2,
+    "explanation": "On their way back to the hiding spot, they ran directly into John Byro.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q44",
+    "chapter_id": "c1",
+    "question": "What did John Byro do when he saw the boys with the white horse?",
+    "options": [
+      "He called for the village guards loudly.",
+      "He studied the horse eagerly and looked into its mouth.",
+      "He accused them of theft immediately.",
+      "He didn't recognize his own animal."
+    ],
+    "correct_index": 1,
+    "explanation": "John Byro greeted them and 'looked into the mouth of the horse' to inspect its teeth closely.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q45",
+    "chapter_id": "c1",
+    "question": "What did John Byro say about the teeth match of the horse?",
+    "options": [
+      "The teeth were completely different.",
+      "He would swear it was his own horse, tooth for tooth, if he didn't know their parents' reputation for honesty.",
+      "The teeth showed the horse was too old to be his.",
+      "The mouth properties were hidden from view."
+    ],
+    "correct_index": 1,
+    "explanation": "Byro commented on the resemblance: 'I would swear it is my horse if I didn't know your parents. The fame of your family for honesty is well known to me...'" ,
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q46",
+    "chapter_id": "c1",
+    "question": "What did John Byro call the horse because he trusted the boys' family integrity?",
+    "options": ["The twin of his horse", "A stolen replica", "A miraculous ghost horse", "An ordinary farm animal"],
+    "correct_index": 0,
+    "explanation": "John Byro concluded that 'The horse is the twin of my horse. A suspicious man would believe his eyes instead of his heart.'",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q47",
+    "chapter_id": "c1",
+    "question": "When did the boys finally return the horse to John Byro's vineyard barn?",
+    "options": [
+      "That very afternoon",
+      "Early the following morning",
+      "After six months had passed",
+      "When the horse became ill"
+    ],
+    "correct_index": 1,
+    "explanation": "Conscience-stricken by Byro's trust, 'Early the next morning we took the horse to John Byro’s vineyard and put it in the barn.'",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q48",
+    "chapter_id": "c1",
+    "question": "What did John Byro’s dogs do when Mourad and Aram entered the barn to drop off the horse?",
+    "options": [
+      "They barked loudly and chased Aram away.",
+      "They followed the boys around silently without making a sound.",
+      "They bit Mourad's leg.",
+      "They ran out into the fields out of fear."
+    ],
+    "correct_index": 1,
+    "explanation": "Aram feared they would bark, but Mourad's connection worked: 'The dogs followed us around without making a sound.'",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q49",
+    "chapter_id": "c1",
+    "question": "What changes did John Byro notice in his horse after it was returned?",
+    "options": [
+      "It had become weak and aggressive.",
+      "It was stronger than ever and better-tempered.",
+      "It had lost its white color glossiness.",
+      "It refused to pull his carriage layout."
+    ],
+    "correct_index": 1,
+    "explanation": "John Byro drove to Aram's house later and joyfully stated: 'The horse is stronger than ever. Better-tempered, too. I thank God.'",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "c1_q50",
+    "chapter_id": "c1",
+    "question": "Who was in the parlor and became irritated, shouting at John Byro to be quiet after the horse was returned?",
+    "options": ["Aram's mother", "Uncle Khosrove", "Cousin Mourad", "Aram's father"],
+    "correct_index": 1,
+    "explanation": "Uncle Khosrove was in the room and got annoyed, shouting: 'Quiet, man, quiet. Your horse has been returned. Pay no attention to it.'",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "English"
+  }
+]
