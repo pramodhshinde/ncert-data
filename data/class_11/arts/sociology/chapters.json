@@ -7,7 +7,7 @@
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Sociology",
-      "chapterCount": 4,
+      "chapterCount": 5,
       "parts": 2,
       "coverUrl": ""
     },
@@ -18,7 +18,7 @@
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Sociology",
-      "chapterCount": 3,
+      "chapterCount": 5,
       "parts": 2,
       "coverUrl": ""
     }
@@ -39,10 +39,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "",
-      "solutionsUrl": "",
+      "pdfUrl": "https://drive.google.com/file/d/1Qydgs9OVlg5pVwpgClXhCPZOZSVhd8qu/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/14LsBR9busa-dyosWPT5y85rztVy3Co15/view?usp=drivesdk",
       "notesUrl": "",
-      "mcqUrl": ""
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_is_ch1.json"
     },
     {
       "id": 114602,
@@ -59,10 +59,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "",
-      "solutionsUrl": "",
+      "pdfUrl": "https://drive.google.com/file/d/1Rez0SQsfbqoOSOCrTGUmWLH-9z1SmmjV/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1RGrfF8CVTFULkNkjud2ze6_ewMYdIv5C/view?usp=drivesdk",
       "notesUrl": "",
-      "mcqUrl": ""
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_is_ch2.json"
     },
     {
       "id": 114603,
@@ -79,10 +79,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "",
-      "solutionsUrl": "",
+      "pdfUrl": "https://drive.google.com/file/d/1-bN_L4MqAxSmxE6UHjUvHiBOVM6qKUfu/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1uHk5cMUQb3KClqyjHlzqvBTKAgT6i35P/view?usp=drivesdk",
       "notesUrl": "",
-      "mcqUrl": ""
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_is_ch3.json"
     },
     {
       "id": 114604,
@@ -99,10 +99,30 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "",
-      "solutionsUrl": "",
+      "pdfUrl": "https://drive.google.com/file/d/10-5Ul2pRIBtbK0k_sGhbRt0UoxrX1cKv/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1JPXsOz3Bbe4XLzL2ZqK_wxuKUo72qzOd/view?usp=drivesdk",
       "notesUrl": "",
-      "mcqUrl": ""
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_is_ch4.json"
+    },
+    {
+      "id": 114605,
+      "bookId": 1146,
+      "chapterNumber": 5,
+      "title": "Doing Sociology: Research Methods",
+      "topicCount": 5,
+      "questionCount": 50,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 45,
+      "pageCount": 18,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://drive.google.com/file/d/1TUBplUPmMEiGb2zjoZxUt4a8ZfB2COJm/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1DX7Z00yywQwBte_ehNW_1gWuuaLYcBe0/view?usp=drivesdk",
+      "notesUrl": "",
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_is_ch5.json"
     },
     {
       "id": 114701,
@@ -119,10 +139,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "",
-      "solutionsUrl": "",
+      "pdfUrl": "https://drive.google.com/file/d/1VVldT_2CKHq8E6rmpGzPRSn4rGp2tW66/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1APT8C-wOT0j9lLrlbltjKibSlBBLiheD/view?usp=drivesdk",
       "notesUrl": "",
-      "mcqUrl": ""
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_us_ch1.json"
     },
     {
       "id": 114702,
@@ -139,10 +159,10 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "",
-      "solutionsUrl": "",
+      "pdfUrl": "https://drive.google.com/file/d/1mICTu3ZruY0mXMEPCI3L-OEIac6Tu6ik/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1UyNAYOlIjDMtTA6OxaakLxuXaLfh4_ry/view?usp=drivesdk",
       "notesUrl": "",
-      "mcqUrl": ""
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_us_ch2.json"
     },
     {
       "id": 114703,
@@ -159,10 +179,50 @@
       "hasSolutions": true,
       "hasNotes": true,
       "hasMCQ": true,
-      "pdfUrl": "",
-      "solutionsUrl": "",
+      "pdfUrl": "https://drive.google.com/file/d/1cY_F85ktl0j96ykw4dONIXp7kXP69F9r/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/17lma9lu_Hx3OjhnRyF4oItmhYnmm1WPn/view?usp=drivesdk",
       "notesUrl": "",
-      "mcqUrl": ""
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_us_ch3.json"
+    },
+    {
+      "id": 114704,
+      "bookId": 1147,
+      "chapterNumber": 4,
+      "title": "Introducing Western Sociologists",
+      "topicCount": 5,
+      "questionCount": 50,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 45,
+      "pageCount": 18,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://drive.google.com/file/d/1na69d_0Iga05KCGKoVtHJ65tIWXo9bWk/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1dGah6X3X792IA-5IEIOUia7mLHT9JN4i/view?usp=drivesdk",
+      "notesUrl": "",
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_us_ch4.json"
+    },
+    {
+      "id": 114705,
+      "bookId": 1147,
+      "chapterNumber": 5,
+      "title": "Indian Sociologists",
+      "topicCount": 5,
+      "questionCount": 50,
+      "progressPercent": 0,
+      "status": "NOT_STARTED",
+      "estimatedMinutes": 45,
+      "pageCount": 18,
+      "hasRead": true,
+      "hasSolutions": true,
+      "hasNotes": true,
+      "hasMCQ": true,
+      "pdfUrl": "https://drive.google.com/file/d/1lBnwG0CVRDkZnmbm5p7AkxcQ_zbeDmp7/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1SsGhqUnGlPhnqnN8xHDh6s6fvV3AzZyu/view?usp=drivesdk",
+      "notesUrl": "",
+      "mcqUrl": "class_11/arts/sociology/mcqs/soc_us_ch5.json"
     }
   ]
 }
