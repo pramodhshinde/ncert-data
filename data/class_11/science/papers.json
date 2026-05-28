@@ -1,34 +1,6 @@
 {
   "papers": [
     {
-      "id": 11011,
-      "subjectId": 1,
-      "subjectName": "Physics",
-      "year": "2024",
-      "title": "Physics Annual 2024 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 70,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/physics/2024_set1.pdf",
-      "fileSizeKb": 1680,
-      "isPremium": false
-    },
-    {
-      "id": 11012,
-      "subjectId": 1,
-      "subjectName": "Physics",
-      "year": "2023",
-      "title": "Physics Annual 2023 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 70,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/physics/2023_set1.pdf",
-      "fileSizeKb": 1720,
-      "isPremium": true
-    },
-    {
       "id": 11013,
       "subjectId": 1,
       "subjectName": "Physics",
@@ -124,20 +96,6 @@
       "durationMins": 90,
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1ad09bEmy1aQc5eXHUpg6EH0Ya-zVKYnY",
       "fileSizeKb": 1280,
-      "isPremium": false
-    },
-    {
-      "id": 11021,
-      "subjectId": 2,
-      "subjectName": "Chemistry",
-      "year": "2024",
-      "title": "Chemistry Annual 2024 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 70,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/chemistry/2024_set1.pdf",
-      "fileSizeKb": 1600,
       "isPremium": false
     },
     {
@@ -253,20 +211,6 @@
       "isPremium": false
     },
     {
-      "id": 11031,
-      "subjectId": 3,
-      "subjectName": "Biology",
-      "year": "2024",
-      "title": "Biology Annual 2024 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 70,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/biology/2024_set1.pdf",
-      "fileSizeKb": 1520,
-      "isPremium": false
-    },
-    {
       "id": 11032,
       "subjectId": 3,
       "subjectName": "Biology",
@@ -348,20 +292,6 @@
       "durationMins": 90,
       "pdfUrl": "https://drive.google.com/uc?export=download&id=16Y3yyrTH4cvOxCwenb007Y3CI9Kefwfw",
       "fileSizeKb": 1220,
-      "isPremium": false
-    },
-    {
-      "id": 11041,
-      "subjectId": 4,
-      "subjectName": "Mathematics",
-      "year": "2024",
-      "title": "Mathematics Annual 2024 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 80,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/maths/2024_set1.pdf",
-      "fileSizeKb": 1840,
       "isPremium": false
     },
     {
@@ -477,20 +407,6 @@
       "isPremium": false
     },
     {
-      "id": 11091,
-      "subjectId": 9,
-      "subjectName": "Computer Science",
-      "year": "2024",
-      "title": "Comp Sci Annual 2024 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 70,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/computer_science/2024_set1.pdf",
-      "fileSizeKb": 1450,
-      "isPremium": false
-    },
-    {
       "id": 11092,
       "subjectId": 9,
       "subjectName": "Computer Science",
@@ -600,20 +516,6 @@
       "durationMins": 90,
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1xNW_PQzleQHx2cgPwoQvAFj-To4ToOD0",
       "fileSizeKb": 1150,
-      "isPremium": false
-    },
-    {
-      "id": 11101,
-      "subjectId": 10,
-      "subjectName": "Informatics Practices",
-      "year": "2024",
-      "title": "IP Annual 2024 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 70,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/science/informatics_practices/2024_set1.pdf",
-      "fileSizeKb": 1420,
       "isPremium": false
     },
     {
