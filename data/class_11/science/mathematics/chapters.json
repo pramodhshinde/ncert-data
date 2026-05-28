@@ -2,14 +2,25 @@
   "books": [
     {
       "id": 1106,
-      "title": "Mathematics",
+      "title": "Mathematics Part I",
       "subtitle": "Class 11 NCERT Textbook",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Mathematics",
-      "chapterCount": 15,
-      "parts": 1,
-      "coverUrl": ""
+      "chapterCount": 8,
+      "parts": 2,
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1Qsf409xhhWRUpg6bfu56Bo3opmy8dt4G"
+    },
+    {
+      "id": 1107,
+      "title": "Mathematics Part II",
+      "subtitle": "Class 11 NCERT Textbook",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 7,
+      "parts": 2,
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1Qsf409xhhWRUpg6bfu56Bo3opmy8dt4G"
     },
     {
       "id": 1116,
@@ -41,7 +52,7 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1uW84Ylp16_1yL4a54AX75-0IWgVblRen/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1vIPjTAzi3155WXiVGq0iP7pKz-vmyCk2/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1lwPrdJ5VPRGJPd-K3_qJO6YdimHqWQEh/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch1.json"
     },
     {
@@ -61,7 +72,7 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/17x9Ql_IA75ZKAA5kNn4lZWFVBqvL2FyX/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1dgCJhTDv9GNNMMAhdWCr2U1jjmHs1g2X/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1u-t9a964BNJQr9o3l7oy8grZzahHz4OH/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch2.json"
     },
     {
@@ -81,7 +92,7 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1Wo0rviIoF9q6N35aRX3v1mgwUxyrmWzI/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1p5VtZMXO578jQkwUMJOK9JncCJdXscE_/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1z6Jd9TFLRNKivqMqh5Dzj0LTTPIqhTTK/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch3.json"
     },
     {
@@ -101,7 +112,7 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1556wm3AT8EU1Y4K3s9DNx8fFMUnbJ1K7/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1Fvj2hP6t-K4bwvAj0JOsPh8KSOUx7vlp/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/16hPVCEsy1z5SXhIft3uLn-VIAhMzpuPA/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch4.json"
     },
     {
@@ -121,7 +132,7 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1ZZrj5XHx-p8x_HENxCFTIMbVOjwmUA7T/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1LFERm9bNK49VBhcSxN9kYnAf36cj3V2f/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1-7sJ5Lgl0fBla8cDrCmFYeO_FuOmfMjz/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch5.json"
     },
     {
@@ -141,7 +152,7 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1WeEh9VxVAwtp8XhOqAh81rHw1liPPJHz/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1ZmrzP9FARtnnOR6iEgOJtynNT4lBrWJD/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1FVbrQMIcOm0gqmEuCUd2CBk3dhTlTd_E/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch6.json"
     },
     {
@@ -161,7 +172,7 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1B5Ocuxq5Qprm9uQZ_U8UF4j32TW8J9NX/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1JRBega9JwOy24ZzbqGw883_CGgbWtkrx/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1zaOWglRg-6FLGGPOwba2z8dWQqpWNWA9/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch7.json"
     },
     {
@@ -181,12 +192,12 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1LD3WiagqO2lIL16Elo6qJPFyNk8x-9YT/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1uhktF70lVbC8oOlIMPaV-U2t-CXlicPq/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1n_DWBvSRvL390p4YME_iLO1BPAJoLc0c/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch8.json"
     },
     {
-      "id": 110609,
-      "bookId": 1106,
+      "id": 110709,
+      "bookId": 1107,
       "chapterNumber": 9,
       "title": "Straight Lines",
       "topicCount": 6,
@@ -201,12 +212,12 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1BKWbCrKNMtnxJCK2RaMbfMGjDoX_WFhQ/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/15W2STVOG2JGjpMSbBbbNsakuipZ-k-yX/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1cSVaPjDLRngN5c8uVlBADMufKr4VqiI2/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch9.json"
     },
     {
-      "id": 110610,
-      "bookId": 1106,
+      "id": 110710,
+      "bookId": 1107,
       "chapterNumber": 10,
       "title": "Conic Sections",
       "topicCount": 5,
@@ -221,12 +232,12 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1p5PZ_6n5T6mwK-D2U4ggmTu8kdD-MhyJ/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1zTaHk0eItasS9EZ8AwXAPHr8XXZHqCzL/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1YXJYrWVtOoPnTlsP7wMNpKM5wpVOGnIs/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch10.json"
     },
     {
-      "id": 110611,
-      "bookId": 1106,
+      "id": 110711,
+      "bookId": 1107,
       "chapterNumber": 11,
       "title": "Introduction to Three Dimensional Geometry",
       "topicCount": 4,
@@ -241,12 +252,12 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1qPHe0xgZuq05I-Rz_UlzXYhvhOk0PEuR/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1I4Cu7EhdiguH9yiNa5OdAQkhIyjy8owx/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/10ga6Xc7x7PxbaSgUV3sZKNhGl-WveNuo/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch11.json"
     },
     {
-      "id": 110612,
-      "bookId": 1106,
+      "id": 110712,
+      "bookId": 1107,
       "chapterNumber": 12,
       "title": "Limits and Derivatives",
       "topicCount": 8,
@@ -261,12 +272,12 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1-gMdFqgTMTI_UAH-JBANfuWviPG134BV/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1O2trvxPZswqvXTODHJpEM9n0AQnmrQWK/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1WjwFJlh_18maMLQiKKIrv7FZmXWA_6Ar/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch12.json"
     },
     {
-      "id": 110613,
-      "bookId": 1106,
+      "id": 110713,
+      "bookId": 1107,
       "chapterNumber": 13,
       "title": "Statistics",
       "topicCount": 6,
@@ -281,12 +292,12 @@
       "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/1G84oNiJU3EtHw9IScvGp3Nb6lWVr3w9I/view?usp=drivesdk",
       "solutionsUrl": "https://drive.google.com/file/d/1TRyOuXOs35CBAztBDQm2lSShiLkw9aVN/view?usp=drivesdk",
-      "notesUrl": "",
+      "notesUrl": "https://drive.google.com/file/d/1qII7qoj4m1lhnlDL2V1iBxaFXuS8D2Vp/view?usp=drivesdk",
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch13.json"
     },
     {
-      "id": 110614,
-      "bookId": 1106,
+      "id": 110714,
+      "bookId": 1107,
       "chapterNumber": 14,
       "title": "Probability",
       "topicCount": 5,
@@ -305,8 +316,8 @@
       "mcqUrl": "class_11/science/mathematics/mcqs/math_ch14.json"
     },
     {
-      "id": 110615,
-      "bookId": 1106,
+      "id": 110715,
+      "bookId": 1107,
       "chapterNumber": 15,
       "title": "Supplementary Material",
       "topicCount": 2,
