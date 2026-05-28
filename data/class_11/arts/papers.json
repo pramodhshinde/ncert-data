@@ -1,20 +1,6 @@
 {
   "papers": [
     {
-      "id": 11411,
-      "subjectId": 41,
-      "subjectName": "History",
-      "year": "2024",
-      "title": "History Annual 2024 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 80,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/arts/history/2024_set1.pdf",
-      "fileSizeKb": 1750,
-      "isPremium": false
-    },
-    {
       "id": 11412,
       "subjectId": 41,
       "subjectName": "History",
@@ -24,7 +10,7 @@
       "setNumber": "Unit Test Set 2",
       "totalMarks": 40,
       "durationMins": 90,
-      "pdfUrl": "https://drive.google.com/file/d/1FhzJ34v-d1PRjdj0D2RInclkHmdLMs_a/view?usp=drivesdk",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1FhzJ34v-d1PRjdj0D2RInclkHmdLMs_a",
       "fileSizeKb": 1250,
       "isPremium": false
     },
@@ -38,22 +24,8 @@
       "setNumber": "Half Yearly",
       "totalMarks": 80,
       "durationMins": 180,
-      "pdfUrl": "https://drive.google.com/file/d/1OhUyeRnzYqEGM9k0Q4zwXoDlVm-SbPHL/view?usp=drivesdk",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1OhUyeRnzYqEGM9k0Q4zwXoDlVm-SbPHL",
       "fileSizeKb": 1480,
-      "isPremium": false
-    },
-    {
-      "id": 11421,
-      "subjectId": 42,
-      "subjectName": "Political Science",
-      "year": "2024",
-      "title": "Pol Science Annual 2024 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 80,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/arts/political_science/2024_set1.pdf",
-      "fileSizeKb": 1680,
       "isPremium": false
     },
     {
@@ -66,7 +38,7 @@
       "setNumber": "Unit Test",
       "totalMarks": 40,
       "durationMins": 90,
-      "pdfUrl": "https://drive.google.com/file/d/1m2l1WqZ9Tka5C6-7Bulw2CNOb1AcPeYI/view?usp=drivesdk",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1m2l1WqZ9Tka5C6-7Bulw2CNOb1AcPeYI",
       "fileSizeKb": 1250,
       "isPremium": false
     },
@@ -80,22 +52,8 @@
       "setNumber": "Unit Test 2",
       "totalMarks": 40,
       "durationMins": 90,
-      "pdfUrl": "https://drive.google.com/file/d/1LGCgQv7D7UjAm6V6ee9u0CZWXOUiQxrq/view?usp=drivesdk",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1LGCgQv7D7UjAm6V6ee9u0CZWXOUiQxrq",
       "fileSizeKb": 1250,
-      "isPremium": false
-    },
-    {
-      "id": 11431,
-      "subjectId": 43,
-      "subjectName": "Geography",
-      "year": "2024",
-      "title": "Geography Annual 2024 Set 1",
-      "boardName": "NCERT / CBSE",
-      "setNumber": "Set 1",
-      "totalMarks": 70,
-      "durationMins": 180,
-      "pdfUrl": "https://raw.githubusercontent.com/pramodhshinde/ncert-data/main/papers/class_11/arts/geography/2024_set1.pdf",
-      "fileSizeKb": 1820,
       "isPremium": false
     }
   ]
