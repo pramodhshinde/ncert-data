@@ -15,33 +15,5 @@
     "appOpenAdId": "ca-app-pub-3940256099942544/3419835294",
     "rewardedAdId": "ca-app-pub-3940256099942544/5224354917",
     "isAdsEnabled": true
-  },
-  "allowClassEdit": true,
-  "defaultClassId": 11,
-  "defaultStream": "science",
-  "defaultMedium": "english",
-  "classes": [
-    {
-      "id": 9,
-      "name": "Class 9",
-      "hasStreams": false
-    },
-    {
-      "id": 10,
-      "name": "Class 10",
-      "hasStreams": false
-    },
-    {
-      "id": 11,
-      "name": "Class 11",
-      "hasStreams": true,
-      "streams": ["Science", "Commerce", "Arts"]
-    },
-    {
-      "id": 12,
-      "name": "Class 12",
-      "hasStreams": true,
-      "streams": ["Science", "Commerce", "Arts"]
-    }
-  ]
+  }
 }
