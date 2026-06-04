@@ -1,6 +1,4 @@
 {
-  "latestVersion": "1.0.0",
-  "forceUpdate": false,
   "maintenance": false,
   "maintenanceMessage": "App is under maintenance. Please try again later.",
   "privacyPolicyUrl": "https://sites.google.com/view/adhyayanhubprivacypolicy",
@@ -10,38 +8,8 @@
   "shareMessage": "Check out this NCERT Study App! Download now.",
   "telegramUrl": "",
   "adConfig": {
-    "bannerAdId": "ca-app-pub-3940256099942544/6300978111",
-    "interstitialAdId": "ca-app-pub-3940256099942544/1033173712",
-    "appOpenAdId": "ca-app-pub-3940256099942544/3419835294",
-    "rewardedAdId": "ca-app-pub-3940256099942544/5224354917",
     "isAdsEnabled": true
   },
-  "allowClassEdit": true,
-  "defaultClassId": 11,
-  "defaultStream": "science",
-  "defaultMedium": "english",
-  "classes": [
-    {
-      "id": 9,
-      "name": "Class 9",
-      "hasStreams": false
-    },
-    {
-      "id": 10,
-      "name": "Class 10",
-      "hasStreams": false
-    },
-    {
-      "id": 11,
-      "name": "Class 11",
-      "hasStreams": true,
-      "streams": ["Science", "Commerce", "Arts"]
-    },
-    {
-      "id": 12,
-      "name": "Class 12",
-      "hasStreams": true,
-      "streams": ["Science", "Commerce", "Arts"]
-    }
-  ]
+  "isMcqFreeDay": false,
+  "allowClassEdit": true
 }
