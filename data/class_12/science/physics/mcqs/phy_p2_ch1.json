@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_phy_ch9_q1",
+      "chapterId": "phy_ch9",
+      "question": "According to the property of rectilinear propagation, light travels in a:",
+      "options": [
+        "Circular path",
+        "Straight line",
+        "Parabolic curve",
+        "Zigzag pattern"
+      ],
+      "correctIndex": 1,
+      "explanation": "The path light takes is a straight line between two points, a property known as rectilinear propagation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q2",
+      "chapterId": "phy_ch9",
+      "question": "A bundle of 'rays' of light is called a:",
+      "options": [
+        "Photon",
+        "Wavefront",
+        "Beam",
+        "Spectrum"
+      ],
+      "correctIndex": 2,
+      "explanation": "A bundle of rays constitutes a beam of light.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q3",
+      "chapterId": "phy_ch9",
+      "question": "According to the Law of Reflection, the angle of incidence is ________ to the angle of reflection.",
+      "options": [
+        "Twice",
+        "Half",
+        "Equal",
+        "Complementary"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first law of reflection states that the angle of incidence equals the angle of reflection.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q4",
+      "chapterId": "phy_ch9",
+      "question": "In the New Cartesian Sign Convention, all distances are measured from the ________ of the spherical mirror.",
+      "options": [
+        "Focus",
+        "Center of curvature",
+        "Pole",
+        "Principal axis"
+      ],
+      "correctIndex": 2,
+      "explanation": "According to the convention, all distances are measured from the pole of the mirror.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q5",
+      "chapterId": "phy_ch9",
+      "question": "The geometric center of a spherical mirror is called the:",
+      "options": [
+        "Aperture",
+        "Pole",
+        "Principal focus",
+        "Radius"
+      ],
+      "correctIndex": 1,
+      "explanation": "The center of the reflecting surface of a spherical mirror is a point called the pole.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q6",
+      "chapterId": "phy_ch9",
+      "question": "The relationship between focal length (f) and radius of curvature (R) for a spherical mirror is:",
+      "options": [
+        "f = R",
+        "f = 2R",
+        "f = R/2",
+        "f = R²"
+      ],
+      "correctIndex": 2,
+      "explanation": "For mirrors of small aperture, the focal length is half the radius of curvature.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q7",
+      "chapterId": "phy_ch9",
+      "question": "The mirror equation is given by:",
+      "options": [
+        "1/v - 1/u = 1/f",
+        "1/v + 1/u = 1/f",
+        "v + u = f",
+        "v/u = f"
+      ],
+      "correctIndex": 1,
+      "explanation": "The relation between object distance (u), image distance (v), and focal length (f) is 1/v + 1/u = 1/f.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q8",
+      "chapterId": "phy_ch9",
+      "question": "Linear magnification (m) of a mirror is defined as the ratio of:",
+      "options": [
+        "Object height to image height",
+        "Image height to object height",
+        "Focal length to radius",
+        "Object distance to image distance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magnification is the ratio of the height of the image (h′) to the height of the object (h).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q9",
+      "chapterId": "phy_ch9",
+      "question": "A negative value for magnification (m) indicates that the image is:",
+      "options": [
+        "Virtual",
+        "Erect",
+        "Real",
+        "Magnified"
+      ],
+      "correctIndex": 2,
+      "explanation": "A negative sign in the value of magnification indicates that the image is real.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q10",
+      "chapterId": "phy_ch9",
+      "question": "The phenomenon where light changes direction as it passes from one medium to another is:",
+      "options": [
+        "Reflection",
+        "Dispersion",
+        "Refraction",
+        "Diffraction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Refraction is the change in direction of propagation of light when it passes obliquely from one transparent medium to another.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q11",
+      "chapterId": "phy_ch9",
+      "question": "Snell's Law states that for a given pair of media, the ratio sin i / sin r is a:",
+      "options": [
+        "Variable",
+        "Constant",
+        "Zero",
+        "Square root"
+      ],
+      "correctIndex": 1,
+      "explanation": "Snell's law states that the ratio of the sine of the angle of incidence to the sine of the angle of refraction is a constant.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q12",
+      "chapterId": "phy_ch9",
+      "question": "When light travels from a rarer medium to a denser medium, it bends:",
+      "options": [
+        "Away from the normal",
+        "Towards the normal",
+        "Parallel to the normal",
+        "Not at all"
+      ],
+      "correctIndex": 1,
+      "explanation": "Light entering a denser medium from a rarer medium bends towards the normal.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q13",
+      "chapterId": "phy_ch9",
+      "question": "Apparent depth of an object in water is always ________ its real depth.",
+      "options": [
+        "Equal to",
+        "More than",
+        "Less than",
+        "Double"
+      ],
+      "correctIndex": 2,
+      "explanation": "Due to refraction, an object placed in a denser medium appears to be at a shallower (lesser) depth when viewed from a rarer medium.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q14",
+      "chapterId": "phy_ch9",
+      "question": "The 'Twinkling of stars' is a consequence of:",
+      "options": [
+        "Total internal reflection",
+        "Atmospheric refraction",
+        "Reflection from clouds",
+        "Dispersion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Twinkling of stars is one of the many phenomena caused by refraction.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q15",
+      "chapterId": "phy_ch9",
+      "question": "Total Internal Reflection occurs when light travels from ________ to ________ medium.",
+      "options": [
+        "Rarer, Denser",
+        "Denser, Rarer",
+        "Vacuum, Air",
+        "Glass, Water"
+      ],
+      "correctIndex": 1,
+      "explanation": "For Total Internal Reflection to occur, light must travel from an optically denser medium to an optically rarer medium.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q16",
+      "chapterId": "phy_ch9",
+      "question": "The angle of incidence for which the angle of refraction is 90° is called the:",
+      "options": [
+        "Angle of deviation",
+        "Angle of emergence",
+        "Critical angle",
+        "Normal angle"
+      ],
+      "correctIndex": 2,
+      "explanation": "The angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90° is the critical angle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q17",
+      "chapterId": "phy_ch9",
+      "question": "Optical fibers work on the principle of:",
+      "options": [
+        "Refraction",
+        "Dispersion",
+        "Total Internal Reflection",
+        "Scattering"
+      ],
+      "correctIndex": 2,
+      "explanation": "Optical fibers use the phenomenon of total internal reflection to transmit light signals.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q18",
+      "chapterId": "phy_ch9",
+      "question": "A 'Mirage' is an optical illusion caused by:",
+      "options": [
+        "Reflection from sand",
+        "Total internal reflection in the atmosphere",
+        "Light diffraction",
+        "Eye defects"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mirages are observed in hot deserts due to total internal reflection caused by temperature gradients in the air.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q19",
+      "chapterId": "phy_ch9",
+      "question": "For a thin lens, the lens maker's formula involves which factors?",
+      "options": [
+        "Radii of curvature only",
+        "Refractive index only",
+        "Both refractive index and radii of curvature",
+        "Object and image distance only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The lens maker's formula relates the focal length to the refractive index of the material and the radii of curvature of the surfaces.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q20",
+      "chapterId": "phy_ch9",
+      "question": "The thin lens formula is expressed as:",
+      "options": [
+        "1/v + 1/u = 1/f",
+        "1/v - 1/u = 1/f",
+        "v - u = f",
+        "uv = f"
+      ],
+      "correctIndex": 1,
+      "explanation": "The thin lens formula is 1/v - 1/u = 1/f.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q21",
+      "chapterId": "phy_ch9",
+      "question": "The power (P) of a lens is defined as the tangent of the angle of convergence or divergence, and is equal to:",
+      "options": [
+        "f",
+        "1/f",
+        "2f",
+        "f/2"
+      ],
+      "correctIndex": 1,
+      "explanation": "The power P of a lens is defined as the reciprocal of its focal length (1/f).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q22",
+      "chapterId": "phy_ch9",
+      "question": "What is the SI unit of power of a lens?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Dioptre",
+        "Meter"
+      ],
+      "correctIndex": 2,
+      "explanation": "The SI unit for power of a lens is dioptre (D).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q23",
+      "chapterId": "phy_ch9",
+      "question": "When two thin lenses of focal lengths f1 and f2 are in contact, the effective focal length (f) is:",
+      "options": [
+        "f1 + f2",
+        "f1 * f2",
+        "1/f = 1/f1 + 1/f2",
+        "f = (f1+f2)/2"
+      ],
+      "correctIndex": 2,
+      "explanation": "For lenses in contact, the reciprocal of the total focal length is the sum of the reciprocals of individual focal lengths.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q24",
+      "chapterId": "phy_ch9",
+      "question": "The splitting of white light into its constituent colors by a prism is called:",
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Dispersion",
+        "Deviation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dispersion is the phenomenon of splitting of light into its component colours.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q25",
+      "chapterId": "phy_ch9",
+      "question": "Which color of light deviates the most when passing through a prism?",
+      "options": [
+        "Red",
+        "Green",
+        "Yellow",
+        "Violet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Violet light has the maximum refractive index in glass and therefore deviates the most.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q26",
+      "chapterId": "phy_ch9",
+      "question": "The 'Rainbow' is a natural phenomenon combining which of the following?",
+      "options": [
+        "Dispersion and Refraction",
+        "Total Internal Reflection",
+        "Both A and B",
+        "Reflection only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The rainbow is formed by a combination of dispersion, refraction, and total internal reflection of sunlight by water droplets.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q27",
+      "chapterId": "phy_ch9",
+      "question": "Which type of rainbow is formed by two internal reflections in a water drop?",
+      "options": [
+        "Primary rainbow",
+        "Secondary rainbow",
+        "Tertiary rainbow",
+        "Inverted rainbow"
+      ],
+      "correctIndex": 1,
+      "explanation": "The secondary rainbow is the result of a process including two internal reflections.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q28",
+      "chapterId": "phy_ch9",
+      "question": "The 'Near Point' of a normal eye, also called the least distance of distinct vision, is:",
+      "options": [
+        "10 cm",
+        "25 cm",
+        "50 cm",
+        "Infinity"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a normal eye, the closest distance at which an object can be seen clearly is 25 cm.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q29",
+      "chapterId": "phy_ch9",
+      "question": "Myopia, or near-sightedness, is corrected using a:",
+      "options": [
+        "Convex lens",
+        "Concave lens",
+        "Cylindrical lens",
+        "Plane mirror"
+      ],
+      "correctIndex": 1,
+      "explanation": "Myopia is corrected by using a diverging (concave) lens of suitable focal length.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q30",
+      "chapterId": "phy_ch9",
+      "question": "Hypermetropia, or far-sightedness, is corrected using a:",
+      "options": [
+        "Concave lens",
+        "Convex lens",
+        "Bifocal lens",
+        "Aperture"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hypermetropia is corrected by using a converging (convex) lens.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q31",
+      "chapterId": "phy_ch9",
+      "question": "Astigmatism arises when the cornea is not spherical and is corrected using:",
+      "options": [
+        "Convex lenses",
+        "Concave lenses",
+        "Cylindrical lenses",
+        "Sunglasses"
+      ],
+      "correctIndex": 2,
+      "explanation": "Astigmatism can be corrected by using a cylindrical lens of desired radius of curvature.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q32",
+      "chapterId": "phy_ch9",
+      "question": "A simple microscope consists of a single:",
+      "options": [
+        "Concave lens",
+        "Converging lens of short focal length",
+        "Plane glass",
+        "Diverging lens"
+      ],
+      "correctIndex": 1,
+      "explanation": "A simple microscope is just a converging lens of small focal length.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q33",
+      "chapterId": "phy_ch9",
+      "question": "The 'Objective' lens of a compound microscope has a ________ focal length and ________ aperture.",
+      "options": [
+        "Large, Large",
+        "Small, Small",
+        "Small, Large",
+        "Large, Small"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a compound microscope, the objective has a small focal length and small aperture.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q34",
+      "chapterId": "phy_ch9",
+      "question": "The magnifying power of a telescope is the ratio of:",
+      "options": [
+        "Object size to image size",
+        "Angle subtended by image to angle subtended by object",
+        "Focal length of eyepiece to objective",
+        "None of the above"
+      ],
+      "correctIndex": 1,
+      "explanation": "The magnifying power m is the ratio of the angle β subtended at the eye by the final image to the angle α subtended by the object.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q35",
+      "chapterId": "phy_ch9",
+      "question": "A reflecting telescope uses which component to collect light instead of an objective lens?",
+      "options": [
+        "Convex lens",
+        "Concave mirror",
+        "Plane mirror",
+        "Prism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Telescopes with mirror objectives are called reflecting telescopes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q36",
+      "chapterId": "phy_ch9",
+      "question": "In the case of a convex mirror, the image formed is always:",
+      "options": [
+        "Real and inverted",
+        "Virtual and erect",
+        "Real and magnified",
+        "Virtual and inverted"
+      ],
+      "correctIndex": 1,
+      "explanation": "A convex mirror always forms a virtual, erect, and diminished image.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q37",
+      "chapterId": "phy_ch9",
+      "question": "What happens to the focal length of a spherical mirror when it is immersed in water?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains unchanged",
+        "Becomes zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "The focal length of a mirror depends only on its radius of curvature (f=R/2) and not the surrounding medium.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q38",
+      "chapterId": "phy_ch9",
+      "question": "The refractive index of vacuum is:",
+      "options": [
+        "0",
+        "1",
+        "1.33",
+        "1.5"
+      ],
+      "correctIndex": 1,
+      "explanation": "The refractive index of vacuum is exactly 1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q39",
+      "chapterId": "phy_ch9",
+      "question": "The speed of light in vacuum is approximately:",
+      "options": [
+        "3 x 10^5 m/s",
+        "3 x 10^8 m/s",
+        "3 x 10^10 m/s",
+        "1.5 x 10^8 m/s"
+      ],
+      "correctIndex": 1,
+      "explanation": "Light travels in vacuum with a speed of c = 299,792,458 m/s, approximately 3 x 10^8 m/s.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q40",
+      "chapterId": "phy_ch9",
+      "question": "For a normal eye, the 'Far Point' is located at:",
+      "options": [
+        "25 cm",
+        "100 cm",
+        "Infinity",
+        "The cornea"
+      ],
+      "correctIndex": 2,
+      "explanation": "The far point for a normal eye is infinity.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q41",
+      "chapterId": "phy_ch9",
+      "question": "A lens that is thicker at the edges than at the middle is a:",
+      "options": [
+        "Convex lens",
+        "Concave lens",
+        "Cylindrical lens",
+        "Plano-convex lens"
+      ],
+      "correctIndex": 1,
+      "explanation": "A diverging (concave) lens is thinner at the middle than at the edges.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q42",
+      "chapterId": "phy_ch9",
+      "question": "The 'Aperture' of a mirror or lens refers to its:",
+      "options": [
+        "Focal length",
+        "Refractive index",
+        "Effective diameter of reflecting/refracting surface",
+        "Thickness"
+      ],
+      "correctIndex": 2,
+      "explanation": "The diameter of the reflecting surface is the aperture of the mirror.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q43",
+      "chapterId": "phy_ch9",
+      "question": "Refractive index is a ________ quantity.",
+      "options": [
+        "Vector",
+        "Dimensionless",
+        "Unit-dependent",
+        "Negative"
+      ],
+      "correctIndex": 1,
+      "explanation": "Refractive index is a ratio of speeds/sines and thus has no units.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q44",
+      "chapterId": "phy_ch9",
+      "question": "In the 'Cassegrain' telescope, which component is used as the secondary mirror?",
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "Objective lens"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Cassegrain telescope uses a concave primary and a convex secondary mirror.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q45",
+      "chapterId": "phy_ch9",
+      "question": "Rayleigh's scattering law states that intensity of scattered light is inversely proportional to the:",
+      "options": [
+        "Wavelength",
+        "Square of wavelength",
+        "Fourth power of wavelength",
+        "Refractive index"
+      ],
+      "correctIndex": 2,
+      "explanation": "According to Rayleigh, scattering is proportional to 1/λ⁴.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q46",
+      "chapterId": "phy_ch9",
+      "question": "Why does the sun appear reddish at sunset and sunrise?",
+      "options": [
+        "Absorption of light by ozone",
+        "Refraction by the horizon",
+        "Scattering of shorter wavelengths",
+        "Total internal reflection"
+      ],
+      "correctIndex": 2,
+      "explanation": "At sunrise/sunset, blue light is scattered away, leaving the longer (red) wavelengths to reach the eye.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q47",
+      "chapterId": "phy_ch9",
+      "question": "The 'Critical Angle' for a glass-air interface is approximately ________ if the refractive index of glass is 1.5.",
+      "options": [
+        "24.4°",
+        "41.8°",
+        "48.8°",
+        "90°"
+      ],
+      "correctIndex": 1,
+      "explanation": "For n=1.5, sin i_c = 1/1.5 = 0.666, which gives i_c ≈ 41.8°.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q48",
+      "chapterId": "phy_ch9",
+      "question": "A person with 'Presbyopia' uses which type of correction?",
+      "options": [
+        "Single concave lens",
+        "Single convex lens",
+        "Bifocal lenses",
+        "Prisms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Presbyopia is generally corrected by using bifocal lenses with both converging and diverging parts.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q49",
+      "chapterId": "phy_ch9",
+      "question": "The ratio of the speed of light in vacuum to the speed of light in a medium is called:",
+      "options": [
+        "Relative refractive index",
+        "Absolute refractive index",
+        "Optical density",
+        "Power"
+      ],
+      "correctIndex": 1,
+      "explanation": "Absolute refractive index n = c/v.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch9_q50",
+      "chapterId": "phy_ch9",
+      "question": "Spherical aberration in mirrors can be minimized by using ________ mirrors.",
+      "options": [
+        "Concave",
+        "Convex",
+        "Parabolic",
+        "Plane"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reflecting telescopes use parabolic mirrors to eliminate spherical aberration.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    }
+  ]
+}

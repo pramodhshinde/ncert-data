@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch10_q1",
+      "chapterId": "chem_ch10",
+      "question": "Which functional group is formed when a hydrogen atom in an aliphatic hydrocarbon is replaced by an -OH group?",
+      "options": [
+        "Phenol",
+        "Alcohol",
+        "Ether",
+        "Aldehyde"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alcohols are formed when a hydrogen atom in an aliphatic hydrocarbon is replaced by a hydroxyl (-OH) group.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q2",
+      "chapterId": "chem_ch10",
+      "question": "A compound where the -OH group is attached to a carbon atom of an aromatic ring is called a:",
+      "options": [
+        "Aliphatic alcohol",
+        "Ether",
+        "Phenol",
+        "Ketone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Replacing a hydrogen atom in an aromatic ring with an -OH group results in a phenol.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q3",
+      "chapterId": "chem_ch10",
+      "question": "Substitution of a hydrogen atom in a hydrocarbon by an alkoxy or aryloxy group (R-O/Ar-O) produces:",
+      "options": [
+        "Alcohols",
+        "Ethers",
+        "Phenols",
+        "Carboxylic acids"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ethers are formed by substituting a hydrogen atom with an alkoxy (-OR) or aryloxy (-OAr) group.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q4",
+      "chapterId": "chem_ch10",
+      "question": "Alcohols containing three hydroxyl groups are classified as:",
+      "options": [
+        "Monohydric",
+        "Dihydric",
+        "Trihydric",
+        "Polyhydric"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alcohols are classified based on the number of -OH groups; three -OH groups make it trihydric.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q5",
+      "chapterId": "chem_ch10",
+      "question": "In which type of alcohol is the -OH group attached to an sp3 hybridised carbon atom next to a carbon-carbon double bond?",
+      "options": [
+        "Vinylic alcohol",
+        "Allylic alcohol",
+        "Benzylic alcohol",
+        "Secondary alcohol"
+      ],
+      "correctIndex": 1,
+      "explanation": "In allylic alcohols, the -OH group is attached to an sp3 carbon atom adjacent to a C=C double bond.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q6",
+      "chapterId": "chem_ch10",
+      "question": "Vinylic alcohols contain an -OH group attached to a:",
+      "options": [
+        "sp3 hybridised carbon",
+        "sp2 hybridised carbon",
+        "sp hybridised carbon",
+        "Primary carbon only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vinylic alcohols have the -OH group attached to a carbon-carbon double bond, which is sp2 hybridised.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q7",
+      "chapterId": "chem_ch10",
+      "question": "What is the common name for Benzene-1,2-diol?",
+      "options": [
+        "Quinol",
+        "Resorcinol",
+        "Catechol",
+        "Cresol"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benzene-1,2-diol is commonly known as Catechol.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q8",
+      "chapterId": "chem_ch10",
+      "question": "Ethers are called 'simple' or 'symmetrical' if:",
+      "options": [
+        "They have different alkyl groups",
+        "They have the same alkyl or aryl groups attached to the oxygen",
+        "They are soluble in water",
+        "They have high boiling points"
+      ],
+      "correctIndex": 1,
+      "explanation": "If the alkyl or aryl groups attached to the oxygen atom are the same, the ether is symmetrical.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q9",
+      "chapterId": "chem_ch10",
+      "question": "Which reagent is used for the acid-catalysed hydration of alkenes to produce alcohols?",
+      "options": [
+        "Dilute H2SO4",
+        "LiAlH4",
+        "NaBH4",
+        "Concentrated HCl"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alkenes react with water in the presence of acid (acting as a catalyst) to form alcohols.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q10",
+      "chapterId": "chem_ch10",
+      "question": "Hydroboration-oxidation of propene yields:",
+      "options": [
+        "Propan-2-ol",
+        "Propan-1-ol",
+        "Propanoic acid",
+        "Propanone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hydroboration-oxidation follows anti-Markovnikov addition of water, yielding propan-1-ol from propene.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q11",
+      "chapterId": "chem_ch10",
+      "question": "Reduction of aldehydes using NaBH4 or LiAlH4 produces ________ alcohols.",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Phenols"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aldehydes are reduced to primary alcohols.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q12",
+      "chapterId": "chem_ch10",
+      "question": "Which starting material is used for the industrial production of phenol through the 'Cumene process'?",
+      "options": [
+        "Chlorobenzene",
+        "Isopropylbenzene",
+        "Benzene sulphonic acid",
+        "Aniline"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cumene (isopropylbenzene) is oxidized to cumene hydroperoxide, which is then converted to phenol and acetone.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q13",
+      "chapterId": "chem_ch10",
+      "question": "The boiling points of alcohols are higher than those of hydrocarbons of comparable molecular mass due to:",
+      "options": [
+        "Van der Waals forces",
+        "Intermolecular hydrogen bonding",
+        "Ionic bonding",
+        "Covalent bonding"
+      ],
+      "correctIndex": 1,
+      "explanation": "The presence of intermolecular hydrogen bonding in alcohols increases their boiling points significantly.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q14",
+      "chapterId": "chem_ch10",
+      "question": "Which of the following is the most acidic?",
+      "options": [
+        "Water",
+        "Primary alcohol",
+        "Secondary alcohol",
+        "Tertiary alcohol"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water is a better proton donor (more acidic) than any alcohol except methanol.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q15",
+      "chapterId": "chem_ch10",
+      "question": "The reaction of an alcohol with a carboxylic acid in the presence of concentrated H2SO4 is called:",
+      "options": [
+        "Dehydration",
+        "Esterification",
+        "Saponification",
+        "Etherification"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alcohols react with carboxylic acids to form esters in a process called esterification.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q16",
+      "chapterId": "chem_ch10",
+      "question": "Which test is used to distinguish between primary, secondary, and tertiary alcohols based on the time taken for turbidity to appear?",
+      "options": [
+        "Tollen's test",
+        "Lucas test",
+        "Fehling's test",
+        "Iodoform test"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lucas reagent (conc. HCl and ZnCl2) reacts at different rates with primary, secondary, and tertiary alcohols.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q17",
+      "chapterId": "chem_ch10",
+      "question": "During the oxidation of a primary alcohol with acidified KMnO4, the final product is:",
+      "options": [
+        "Aldehyde",
+        "Ketone",
+        "Carboxylic acid",
+        "Ester"
+      ],
+      "correctIndex": 2,
+      "explanation": "Strong oxidizing agents like KMnO4 oxidize primary alcohols directly to carboxylic acids.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q18",
+      "chapterId": "chem_ch10",
+      "question": "Dehydration of alcohols to form alkenes follows the order of reactivity:",
+      "options": [
+        "Primary > Secondary > Tertiary",
+        "Tertiary > Secondary > Primary",
+        "Secondary > Tertiary > Primary",
+        "All react at the same rate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tertiary alcohols are the easiest to dehydrate because they form the most stable carbocations.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q19",
+      "chapterId": "chem_ch10",
+      "question": "In the Reimer-Tiemann reaction, phenol reacts with chloroform in the presence of NaOH to form:",
+      "options": [
+        "Salicylic acid",
+        "Salicylaldehyde",
+        "Acetophenone",
+        "Benzaldehyde"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Reimer-Tiemann reaction introduces an -CHO group at the ortho position of phenol, forming salicylaldehyde.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q20",
+      "chapterId": "chem_ch10",
+      "question": "Which of the following describes the Kolbe's reaction?",
+      "options": [
+        "Phenol to Salicylaldehyde",
+        "Phenoxide ion to Salicylic acid",
+        "Alcohol to Alkene",
+        "Ether to Alcohol"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Kolbe’s reaction, phenoxide ion reacts with CO2 followed by acidification to give salicylic acid.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q21",
+      "chapterId": "chem_ch10",
+      "question": "What is 'denatured alcohol'?",
+      "options": [
+        "Pure ethanol",
+        "Alcohol mixed with copper sulphate and pyridine to make it unfit for drinking",
+        "Alcohol produced by fermentation",
+        "Alcohol used in medicines"
+      ],
+      "correctIndex": 1,
+      "explanation": "Commercial alcohol is made unfit for drinking by adding foul-smelling or poisonous substances.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q22",
+      "chapterId": "chem_ch10",
+      "question": "The Williamson synthesis is a laboratory method for the preparation of:",
+      "options": [
+        "Alcohols",
+        "Phenols",
+        "Ethers",
+        "Aldehydes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Williamson synthesis involves the reaction of an alkyl halide with sodium alkoxide to form an ether.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q23",
+      "chapterId": "chem_ch10",
+      "question": "In the reaction of an ether with hot concentrated HI, if one group is tertiary, the halide is formed from the:",
+      "options": [
+        "Smaller alkyl group",
+        "Larger alkyl group",
+        "Tertiary alkyl group",
+        "Halide does not form"
+      ],
+      "correctIndex": 2,
+      "explanation": "When a tertiary alkyl group is present, the reaction follows an SN1 mechanism, and the halide forms with the tertiary group.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q24",
+      "chapterId": "chem_ch10",
+      "question": "Which alcohol is known as 'wood spirit'?",
+      "options": [
+        "Ethanol",
+        "Methanol",
+        "Propanol",
+        "Glycerol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Methanol was originally produced by the destructive distillation of wood.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q25",
+      "chapterId": "chem_ch10",
+      "question": "The enzyme used to convert glucose and fructose into ethanol is:",
+      "options": [
+        "Invertase",
+        "Zymase",
+        "Diastase",
+        "Maltase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zymase, found in yeast, converts glucose and fructose into ethanol.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q26",
+      "chapterId": "chem_ch10",
+      "question": "What is the hybridisation of the oxygen atom in alcohols?",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "dsp2"
+      ],
+      "correctIndex": 2,
+      "explanation": "In alcohols, the oxygen atom is sp3 hybridised with two lone pairs.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q27",
+      "chapterId": "chem_ch10",
+      "question": "Which phenol derivative is used as an antioxidant in food?",
+      "options": [
+        "Cresol",
+        "Butylated hydroxyanisole (BHA)",
+        "Aspirin",
+        "Salol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Substituted phenols like BHA are common food antioxidants.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q28",
+      "chapterId": "chem_ch10",
+      "question": "The IUPAC name of the compound CH3-O-CH2-CH2-OCH3 is:",
+      "options": [
+        "Dimethoxyethane",
+        "1,2-Dimethoxyethane",
+        "Ethyl dimethyl ether",
+        "Glycol dimethyl ether"
+      ],
+      "correctIndex": 1,
+      "explanation": "The longest chain is ethane with two methoxy groups at positions 1 and 2.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q29",
+      "chapterId": "chem_ch10",
+      "question": "Phenol is more acidic than alcohols because:",
+      "options": [
+        "Phenoxide ion is resonance stabilised",
+        "Phenol is a liquid",
+        "Alcohols have higher boiling points",
+        "Phenol has a smaller molecular mass"
+      ],
+      "correctIndex": 0,
+      "explanation": "The delocalisation of negative charge over the benzene ring makes the phenoxide ion more stable than an alkoxide ion.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q30",
+      "chapterId": "chem_ch10",
+      "question": "Which of the following will not react with Lucas reagent at room temperature?",
+      "options": [
+        "Butan-2-ol",
+        "2-Methylpropan-2-ol",
+        "Butan-1-ol",
+        "Pentan-2-ol"
+      ],
+      "correctIndex": 2,
+      "explanation": "Primary alcohols (like butan-1-ol) do not produce turbidity at room temperature with Lucas reagent.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q31",
+      "chapterId": "chem_ch10",
+      "question": "Aspirin is prepared by the acetylation of:",
+      "options": [
+        "Phenol",
+        "Salicylic acid",
+        "Benzoic acid",
+        "Salicylaldehyde"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acetylation of the salicylic acid hydroxyl group produces acetylsalicylic acid (aspirin).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q32",
+      "chapterId": "chem_ch10",
+      "question": "Which catalyst is used in the industrial synthesis of methanol from carbon monoxide and hydrogen?",
+      "options": [
+        "Ni",
+        "ZnO – Cr2O3",
+        "Fe",
+        "V2O5"
+      ],
+      "correctIndex": 1,
+      "explanation": "Methanol is produced using a ZnO-Cr2O3 catalyst at high temperature and pressure.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q33",
+      "chapterId": "chem_ch10",
+      "question": "Aqueous solution of which compound is used as an antiseptic?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Phenol",
+        "Ether"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phenols are used in the manufacture of antiseptics.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q34",
+      "chapterId": "chem_ch10",
+      "question": "What is the effect of an electron-withdrawing group (like -NO2) on the acidity of phenol?",
+      "options": [
+        "Increases acidity",
+        "Decreases acidity",
+        "No effect",
+        "Makes it neutral"
+      ],
+      "correctIndex": 0,
+      "explanation": "Electron-withdrawing groups stabilise the phenoxide ion and increase the acidity of phenol.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q35",
+      "chapterId": "chem_ch10",
+      "question": "Picric acid is chemically:",
+      "options": [
+        "2,4-Dinitrophenol",
+        "2,4,6-Trinitrophenol",
+        "2-Nitrophenol",
+        "4-Nitrophenol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nitration of phenol with concentrated nitric acid yields 2,4,6-trinitrophenol (picric acid).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q36",
+      "chapterId": "chem_ch10",
+      "question": "Reaction of phenol with zinc dust gives:",
+      "options": [
+        "Cyclohexane",
+        "Benzene",
+        "Phenoxide",
+        "Zinc phenate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phenol is reduced to benzene when heated with zinc dust.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q37",
+      "chapterId": "chem_ch10",
+      "question": "Dehydration of ethanol at 413 K with excess alcohol produces:",
+      "options": [
+        "Ethene",
+        "Ethoxyethane",
+        "Ethanal",
+        "Ethanoic acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "At 413 K, intermolecular dehydration occurs to form diethyl ether (ethoxyethane).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q38",
+      "chapterId": "chem_ch10",
+      "question": "The dipole moment of methanol is ________ than that of water.",
+      "options": [
+        "Higher",
+        "Lower",
+        "Equal",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Methanol has a lower dipole moment than water.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q39",
+      "chapterId": "chem_ch10",
+      "question": "Which of the following alcohols will undergo rearrangement when treated with HBr?",
+      "options": [
+        "Ethanol",
+        "Propan-1-ol",
+        "3-Methylbutan-2-ol",
+        "Butan-1-ol"
+      ],
+      "correctIndex": 2,
+      "explanation": "3-Methylbutan-2-ol forms a secondary carbocation that rearranges to a more stable tertiary carbocation.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q40",
+      "chapterId": "chem_ch10",
+      "question": "Reaction of primary alcohols with copper at 573 K yields:",
+      "options": [
+        "Ketones",
+        "Aldehydes",
+        "Alkenes",
+        "Ethers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dehydrogenation of primary alcohols over heated copper produces aldehydes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q41",
+      "chapterId": "chem_ch10",
+      "question": "Which property of ethers makes them useful as solvents?",
+      "options": [
+        "High reactivity",
+        "Chemical inertness",
+        "High boiling point",
+        "Miscibility with water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ethers are relatively unreactive and thus used widely as solvents.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q42",
+      "chapterId": "chem_ch10",
+      "question": "The C-O-C bond angle in methoxyethane is:",
+      "options": [
+        "109.5°",
+        "111.7°",
+        "120°",
+        "180°"
+      ],
+      "correctIndex": 1,
+      "explanation": "The bond angle is slightly greater than the tetrahedral angle due to repulsive interactions between bulky alkyl groups.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q43",
+      "chapterId": "chem_ch10",
+      "question": "Friedel-Crafts alkylation of anisole occurs at which positions?",
+      "options": [
+        "Ortho and Meta",
+        "Ortho and Para",
+        "Meta and Para",
+        "Only Ortho"
+      ],
+      "correctIndex": 1,
+      "explanation": "The methoxy group is ortho and para directing.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q44",
+      "chapterId": "chem_ch10",
+      "question": "Bromination of anisole in ethanoic acid gives ________ as the major product.",
+      "options": [
+        "o-Bromoanisole",
+        "p-Bromoanisole",
+        "m-Bromoanisole",
+        "2,4,6-Tribromoanisole"
+      ],
+      "correctIndex": 1,
+      "explanation": "Para-isomer is obtained as the major product (90%) in the bromination of anisole.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q45",
+      "chapterId": "chem_ch10",
+      "question": "Which enzyme converts sucrose into glucose and fructose?",
+      "options": [
+        "Zymase",
+        "Invertase",
+        "Maltase",
+        "Diastase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Invertase is the enzyme that hydrolyses sucrose.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q46",
+      "chapterId": "chem_ch10",
+      "question": "Tertiary alcohols react with Lucas reagent to give turbidity:",
+      "options": [
+        "Immediately",
+        "After 5 minutes",
+        "Only on heating",
+        "Not at all"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tertiary alcohols react immediately to form insoluble alkyl chlorides.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q47",
+      "chapterId": "chem_ch10",
+      "question": "Glycerol is a ________ alcohol.",
+      "options": [
+        "Monohydric",
+        "Dihydric",
+        "Trihydric",
+        "Vinylic"
+      ],
+      "correctIndex": 2,
+      "explanation": "Glycerol (propane-1,2,3-triol) contains three hydroxyl groups.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q48",
+      "chapterId": "chem_ch10",
+      "question": "Oxidation of secondary alcohols yields:",
+      "options": [
+        "Aldehydes",
+        "Ketones",
+        "Carboxylic acids",
+        "Ethers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Secondary alcohols are oxidized to ketones.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q49",
+      "chapterId": "chem_ch10",
+      "question": "What is the common name for phenol with a methyl group at the ortho position?",
+      "options": [
+        "m-Cresol",
+        "o-Cresol",
+        "p-Cresol",
+        "Guaiacol"
+      ],
+      "correctIndex": 1,
+      "explanation": "2-Methylphenol is commonly known as o-cresol.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch10_q50",
+      "chapterId": "chem_ch10",
+      "question": "Alcohols react with Grignard reagents to produce:",
+      "options": [
+        "Alkenes",
+        "Alkanes",
+        "Aldehydes",
+        "Ethers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grignard reagents react with acidic hydrogen of alcohols to produce alkanes.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    }
+  ]
+}

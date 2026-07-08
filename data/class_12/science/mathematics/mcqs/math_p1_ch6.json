@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch6_q1",
+      "chapterId": "math_ch6",
+      "question": "The rate of change of volume of a sphere with respect to its radius 'r' when r = 3 cm is:",
+      "options": [
+        "12π cm³/cm",
+        "24π cm³/cm",
+        "36π cm³/cm",
+        "48π cm³/cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Volume V = (4/3)πr³. The derivative dV/dr = 4πr². At r=3, dV/dr = 4π(3)² = 36π.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q2",
+      "chapterId": "math_ch6",
+      "question": "If y = f(x) and dy/dx > 0 for all x in an interval (a, b), then the function is ________ on that interval.",
+      "options": [
+        "Decreasing",
+        "Increasing",
+        "Constant",
+        "Neither increasing nor decreasing"
+      ],
+      "correctIndex": 1,
+      "explanation": "A function is considered increasing if its first derivative is positive over the given interval.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q3",
+      "chapterId": "math_ch6",
+      "question": "A point 'c' in the domain of a function f at which either f'(c) = 0 or f is not differentiable is called a:",
+      "options": [
+        "Stationary point",
+        "Turning point",
+        "Critical point",
+        "Inflexion point"
+      ],
+      "correctIndex": 2,
+      "explanation": "The definition of a critical point includes points where the derivative is either zero or does not exist.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q4",
+      "chapterId": "math_ch6",
+      "question": "If f''(c) < 0 and f'(c) = 0, then 'c' is a point of ________ according to the Second Derivative Test.",
+      "options": [
+        "Local Minima",
+        "Local Maxima",
+        "Inflexion",
+        "Discontinuity"
+      ],
+      "correctIndex": 1,
+      "explanation": "A point x = c is a point of local maxima if the first derivative is zero and the second derivative is negative at that point.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q5",
+      "chapterId": "math_ch6",
+      "question": "Which mathematician is quoted saying 'With the Calculus as a key, Mathematics can be successfully applied to the explanation of the course of Nature'?",
+      "options": [
+        "Newton",
+        "Leibnitz",
+        "Whitehead",
+        "Einstein"
+      ],
+      "correctIndex": 2,
+      "explanation": "The chapter introduction opens with a quote from Whitehead regarding the utility of Calculus in explaining nature.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q6",
+      "chapterId": "math_ch6",
+      "question": "A function f is called strictly decreasing in (a, b) if for all x1, x2 in (a, b), x1 < x2 implies:",
+      "options": [
+        "f(x1) < f(x2)",
+        "f(x1) > f(x2)",
+        "f(x1) = f(x2)",
+        "f(x1) ≤ f(x2)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strictly decreasing implies that the function's value decreases as the input value increases.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q7",
+      "chapterId": "math_ch6",
+      "question": "If the derivative f'(x) does not change sign as x increases through 'c', then 'c' is called a point of:",
+      "options": [
+        "Local Maxima",
+        "Local Minima",
+        "Inflexion",
+        "Strict Monotonicity"
+      ],
+      "correctIndex": 2,
+      "explanation": "A point where the derivative is zero but does not change sign is mathematically defined as a point of inflexion.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q8",
+      "chapterId": "math_ch6",
+      "question": "The slope of the tangent to the curve y = f(x) at the point (x0, y0) is given by:",
+      "options": [
+        "f(x0)",
+        "f'(x0)",
+        "1/f'(x0)",
+        "-1/f'(x0)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The derivative dy/dx evaluated at a specific point gives the slope of the tangent at that point.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q9",
+      "chapterId": "math_ch6",
+      "question": "If f'(c) = 0 and f''(c) > 0, then the value f(c) is a:",
+      "options": [
+        "Local maximum value",
+        "Local minimum value",
+        "Absolute maximum value",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to the Second Derivative Test, a positive second derivative at a stationary point indicates a local minimum.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q10",
+      "chapterId": "math_ch6",
+      "question": "To find the absolute maximum value of a function on a closed interval [a, b], we must check the values of f at:",
+      "options": [
+        "End points only",
+        "Critical points only",
+        "End points and critical points",
+        "The origin only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Absolute extrema on a closed interval can occur at critical points within the interval or at the boundaries (endpoints).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q11",
+      "chapterId": "math_ch6",
+      "question": "If the radius of a circle is increasing at 3 cm/s, the rate of change of its area when r = 10 cm is:",
+      "options": [
+        "30π cm²/s",
+        "60π cm²/s",
+        "90π cm²/s",
+        "100π cm²/s"
+      ],
+      "correctIndex": 1,
+      "explanation": "A = πr², so dA/dt = 2πr(dr/dt). Substituting r=10 and dr/dt=3 gives dA/dt = 2π(10)(3) = 60π.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q12",
+      "chapterId": "math_ch6",
+      "question": "The function f(x) = x² is strictly increasing in the interval:",
+      "options": [
+        "(-∞, 0)",
+        "(0, ∞)",
+        "R",
+        "(-1, 1)"
+      ],
+      "correctIndex": 1,
+      "explanation": "f'(x) = 2x. For the function to be strictly increasing, 2x > 0, which happens when x > 0.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q13",
+      "chapterId": "math_ch6",
+      "question": "The second derivative test fails to determine local maxima or minima if:",
+      "options": [
+        "f'(c) = 0 and f''(c) < 0",
+        "f'(c) = 0 and f''(c) > 0",
+        "f'(c) = 0 and f''(c) = 0",
+        "f'(c) is not defined"
+      ],
+      "correctIndex": 2,
+      "explanation": "If both the first and second derivatives are zero, the test is inconclusive, necessitating the use of the first derivative test.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q14",
+      "chapterId": "math_ch6",
+      "question": "If x = f(t) and y = g(t), the rate of change of y with respect to x is calculated as:",
+      "options": [
+        "(dy/dt) / (dx/dt)",
+        "(dx/dt) / (dy/dt)",
+        "(dy/dt) * (dx/dt)",
+        "f'(t) + g'(t)"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is determined using the chain rule for parametric differentiation: dy/dx = (dy/dt) / (dx/dt).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q15",
+      "chapterId": "math_ch6",
+      "question": "A function is 'decreasing' (not necessarily strictly) if x1 < x2 implies:",
+      "options": [
+        "f(x1) < f(x2)",
+        "f(x1) > f(x2)",
+        "f(x1) ≥ f(x2)",
+        "f(x1) ≤ f(x2)"
+      ],
+      "correctIndex": 2,
+      "explanation": "A general decreasing function allows for intervals where the function value may remain constant (flat).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q16",
+      "chapterId": "math_ch6",
+      "question": "The first derivative test states that if f'(x) changes sign from positive to negative as x increases through 'c', then 'c' is a:",
+      "options": [
+        "Local Minima",
+        "Local Maxima",
+        "Inflexion Point",
+        "None of these"
+      ],
+      "correctIndex": 1,
+      "explanation": "A positive slope followed by a negative slope indicates that the function has reached a local peak (maximum).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q17",
+      "chapterId": "math_ch6",
+      "question": "Which of the following is used to determine turning points on a graph?",
+      "options": [
+        "Limit",
+        "Integration",
+        "Derivative",
+        "Probability"
+      ],
+      "correctIndex": 2,
+      "explanation": "Derivatives identify where the slope is zero or changes sign, which marks the turning points of a graph.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q18",
+      "chapterId": "math_ch6",
+      "question": "If f(x) is constant on [a, b], then for any x in (a, b), f'(x) is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Undefined"
+      ],
+      "correctIndex": 2,
+      "explanation": "The rate of change of any constant value is always zero.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q19",
+      "chapterId": "math_ch6",
+      "question": "In the working rule for finding absolute maxima/minima, we must calculate:",
+      "options": [
+        "Limits at infinity",
+        "Values of f at critical points and end points",
+        "Second derivatives at all points",
+        "The area under the curve"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finding absolute extrema involves comparing the function's values at all critical points and the interval's endpoints.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q20",
+      "chapterId": "math_ch6",
+      "question": "The derivative dy/dx represents the ________ rate of change of y with respect to x.",
+      "options": [
+        "Average",
+        "Instantaneous",
+        "Total",
+        "Constant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calculus specifically measures the rate of change at a precise point, known as the instantaneous rate.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q21",
+      "chapterId": "math_ch6",
+      "question": "If f'(x) < 0 for all x in (a, b), then f is ________ on (a, b).",
+      "options": [
+        "Strictly Increasing",
+        "Strictly Decreasing",
+        "Increasing",
+        "Constant"
+      ],
+      "correctIndex": 1,
+      "explanation": "A negative derivative indicates that the function is strictly falling or decreasing.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q22",
+      "chapterId": "math_ch6",
+      "question": "Turning points on a graph are points where the function changes from ________.",
+      "options": [
+        "Defined to undefined",
+        "Positive to negative",
+        "Increasing to decreasing (or vice versa)",
+        "Linear to non-linear"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maxima and minima are specific locations where the function's direction of growth reverses.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q23",
+      "chapterId": "math_ch6",
+      "question": "For a point of local minima, f'(x) changes sign from:",
+      "options": [
+        "Positive to negative",
+        "Negative to positive",
+        "Positive to zero",
+        "Negative to zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "A negative slope followed by a positive slope creates a local 'valley' or minimum point.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q24",
+      "chapterId": "math_ch6",
+      "question": "Which of the following applications is NOT explicitly mentioned in the chapter introduction?",
+      "options": [
+        "Rate of change of quantities",
+        "Approximating values",
+        "Calculating volumes of irregular solids",
+        "Finding turning points"
+      ],
+      "correctIndex": 2,
+      "explanation": "The introduction covers rates, turning points, and approximations, but does not list calculating volumes of irregular solids as a core application.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q25",
+      "chapterId": "math_ch6",
+      "question": "If f is differentiable at c, then x = c can be a local maximum or minimum only if:",
+      "options": [
+        "f(c) = 0",
+        "f'(c) = 0",
+        "f''(c) = 0",
+        "f(c) is positive"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a differentiable function, extrema can only occur at stationary points where the derivative is zero.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q26",
+      "chapterId": "math_ch6",
+      "question": "The rate of change of the area of a circle with respect to its radius 'r' is:",
+      "options": [
+        "πr",
+        "2πr",
+        "πr²",
+        "2π"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since A = πr², differentiating with respect to r gives dA/dr = 2πr.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q27",
+      "chapterId": "math_ch6",
+      "question": "In which of the following intervals is the function f(x) = sin x strictly increasing?",
+      "options": [
+        "(0, π)",
+        "(-π/2, π/2)",
+        "(π/2, 3π/2)",
+        "(0, 2π)"
+      ],
+      "correctIndex": 1,
+      "explanation": "f'(x) = cos x. The cosine function is positive in the interval (-π/2, π/2).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q28",
+      "chapterId": "math_ch6",
+      "question": "A point 'c' where f'(c) = 0 is always a point of maxima or minima.",
+      "options": [
+        "True",
+        "False",
+        "Only for polynomials",
+        "Only for convex functions"
+      ],
+      "correctIndex": 1,
+      "explanation": "False. A stationary point could also be a point of inflexion where no extremum exists.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q29",
+      "chapterId": "math_ch6",
+      "question": "The process of finding the 'largest or smallest value locally' refers to determining:",
+      "options": [
+        "Global extrema",
+        "Absolute extrema",
+        "Local extrema",
+        "Endpoints"
+      ],
+      "correctIndex": 2,
+      "explanation": "Local extrema are the relative peaks or valleys within a small neighborhood of points.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q30",
+      "chapterId": "math_ch6",
+      "question": "According to the Second Derivative Test, if f'(c) = 0 and f''(c) = 0, the next step is to:",
+      "options": [
+        "Assume the value is local maxima",
+        "Assume the value is local minima",
+        "Use the First Derivative Test",
+        "Conclude the function is discontinuous"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the second derivative is zero, the test is inconclusive, and one must revert to checking sign changes in the first derivative.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q31",
+      "chapterId": "math_ch6",
+      "question": "The application of derivatives in 'Social Science' is specifically noted in which part of the chapter?",
+      "options": [
+        "Chapter Summary",
+        "Introduction",
+        "Rate of change section",
+        "Maximas section"
+      ],
+      "correctIndex": 1,
+      "explanation": "The introduction section of the chapter explicitly lists social science as a field of application.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q32",
+      "chapterId": "math_ch6",
+      "question": "An 'increasing' function (not strictly) on (a, b) means f(x1) ________ f(x2) for x1 < x2.",
+      "options": [
+        "<",
+        ">",
+        "≤",
+        "≥"
+      ],
+      "correctIndex": 2,
+      "explanation": "General increasing functions are non-decreasing, meaning they can be constant over some intervals.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q33",
+      "chapterId": "math_ch6",
+      "question": "If f(x) = x³ - 3x² + 4, its critical points are found at x = :",
+      "options": [
+        "0 and 2",
+        "1 and 3",
+        "0 and 1",
+        "2 and 3"
+      ],
+      "correctIndex": 0,
+      "explanation": "f'(x) = 3x² - 6x. Setting f'(x) = 0 gives 3x(x - 2) = 0, so x = 0 or 2.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q34",
+      "chapterId": "math_ch6",
+      "question": "In the steps for finding absolute extrema, we identify the ________ calculated value as the absolute maximum.",
+      "options": [
+        "Smallest",
+        "Highest",
+        "Middle",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "The largest value among all tested points is defined as the absolute maximum.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q35",
+      "chapterId": "math_ch6",
+      "question": "The notation ds/dt represents the rate of change of ________ with respect to time.",
+      "options": [
+        "Speed",
+        "Distance",
+        "Acceleration",
+        "Area"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calculus defines ds/dt as the instantaneous rate of change of distance or displacement over time.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q36",
+      "chapterId": "math_ch6",
+      "question": "A function is 'strictly increasing' if its graph always ________.",
+      "options": [
+        "Goes down",
+        "Goes up",
+        "Stays flat",
+        "Is a circle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strictly increasing means the function never levels off and its value always increases with x.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q37",
+      "chapterId": "math_ch6",
+      "question": "Is x = 0 a point of local maxima or minima for the function f(x) = x³?",
+      "options": [
+        "Yes, Maxima",
+        "Yes, Minima",
+        "No, Inflexion Point",
+        "No, Discontinuous"
+      ],
+      "correctIndex": 2,
+      "explanation": "f'(x) = 3x² is always positive. Since there is no sign change at x=0, it is an inflexion point.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q38",
+      "chapterId": "math_ch6",
+      "question": "Which of the following fields utilize applications of derivatives as discussed in this chapter?",
+      "options": [
+        "Engineering",
+        "Science",
+        "Social Science",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "The text introduction explicitly mentions Engineering, Science, and Social Science as relevant fields.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q39",
+      "chapterId": "math_ch6",
+      "question": "The First Derivative Test is required when the Second Derivative Test ________.",
+      "options": [
+        "Succeeds",
+        "Fails",
+        "Is too easy",
+        "Is a constant"
+      ],
+      "correctIndex": 1,
+      "explanation": "When f''(c) = 0, the second derivative test is inconclusive, requiring the first derivative test to be used instead.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q40",
+      "chapterId": "math_ch6",
+      "question": "Absolute maximum and minimum values are typically determined for functions defined on ________ intervals.",
+      "options": [
+        "Open",
+        "Closed",
+        "Infinite",
+        "Empty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Closed intervals are standard because they allow for the checking of boundary conditions (endpoints).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q41",
+      "chapterId": "math_ch6",
+      "question": "For y = f(x), the value of dy/dx at x = x0 is considered the ________ rate of change.",
+      "options": [
+        "Average",
+        "Total",
+        "Instantaneous",
+        "Percentage"
+      ],
+      "correctIndex": 2,
+      "explanation": "The derivative at a specific point measures the instantaneous rate at that exact value.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q42",
+      "chapterId": "math_ch6",
+      "question": "If f'(x) > 0 on an interval (a, b), then f is ________ on [a, b].",
+      "options": [
+        "Strictly Increasing",
+        "Decreasing",
+        "Negative",
+        "Undefined"
+      ],
+      "correctIndex": 0,
+      "explanation": "A strictly positive derivative over an interval ensures the function is strictly increasing.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q43",
+      "chapterId": "math_ch6",
+      "question": "Points on a curve where f'(x) = 0 are specifically referred to as ________ points.",
+      "options": [
+        "Critical",
+        "Stationary",
+        "End",
+        "Inflection"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stationary points are the specific critical points where the derivative is exactly zero.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q44",
+      "chapterId": "math_ch6",
+      "question": "According to the First Derivative Test for minima, f'(x) must be ________ for x < c and ________ for x > c.",
+      "options": [
+        "Positive, Negative",
+        "Negative, Positive",
+        "Zero, Zero",
+        "Negative, Negative"
+      ],
+      "correctIndex": 1,
+      "explanation": "A switch from a negative slope to a positive slope indicates the bottom of a curve (minimum).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q45",
+      "chapterId": "math_ch6",
+      "question": "Derivatives are instrumental in identifying the 'turning points' on a function's ________.",
+      "options": [
+        "Equation",
+        "Graph",
+        "Limit",
+        "Domain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Turning points are geometric features of a function's graphical representation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q46",
+      "chapterId": "math_ch6",
+      "question": "In the study of 'Rate of change of quantities', if dy/dx is positive, then y ________ as x increases.",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains same",
+        "Becomes zero"
+      ],
+      "correctIndex": 0,
+      "explanation": "A positive rate of change indicates that both variables move in the same direction.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q47",
+      "chapterId": "math_ch6",
+      "question": "The 'Second Derivative Test' necessitates that the function be ________ differentiable at point 'c'.",
+      "options": [
+        "Once",
+        "Twice",
+        "Thrice",
+        "Infinite times"
+      ],
+      "correctIndex": 1,
+      "explanation": "The test requires calculating the second derivative, so the function must be twice differentiable.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q48",
+      "chapterId": "math_ch6",
+      "question": "The absolute minimum value is found by identifying the ________ value among all tested points.",
+      "options": [
+        "Smallest",
+        "Largest",
+        "Most frequent",
+        "Positive"
+      ],
+      "correctIndex": 0,
+      "explanation": "The global minimum is simply the lowest numerical value the function takes on the interval.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q49",
+      "chapterId": "math_ch6",
+      "question": "If f'(x) = 0 for every x in an interval (a, b), then the function is ________ on that interval.",
+      "options": [
+        "Strictly Increasing",
+        "Strictly Decreasing",
+        "Constant",
+        "Discontinuous"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zero rate of change across an entire interval means the function's value remains fixed.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch6_q50",
+      "chapterId": "math_ch6",
+      "question": "The points of 'local minima' and 'local maxima' are collectively referred to as points of local ________.",
+      "options": [
+        "Stationary",
+        "Extrema",
+        "Inflection",
+        "Intersection"
+      ],
+      "correctIndex": 1,
+      "explanation": "Extrema is the mathematical term used to describe both maximum and minimum values.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    }
+  ]
+}

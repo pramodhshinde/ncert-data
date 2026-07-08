@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch9_q1",
+      "chapterId": "bio_ch9",
+      "question": "Which of the following describes the reproductive strategy of humans?",
+      "options": [
+        "Asexual and Oviparous",
+        "Sexual and Oviparous",
+        "Sexual and Viviparous",
+        "Asexual and Viviparous"
+      ],
+      "correctIndex": 2,
+      "explanation": "Humans are sexually reproducing and viviparous (giving birth to live young).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q2",
+      "chapterId": "bio_ch9",
+      "question": "The transfer of sperms into the female genital tract is called:",
+      "options": [
+        "Gametogenesis",
+        "Insemination",
+        "Fertilisation",
+        "Implantation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insemination is the process of transferring sperms into the female genital tract.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q3",
+      "chapterId": "bio_ch9",
+      "question": "Formation of ovum in human females generally ceases around the age of:",
+      "options": [
+        "30 years",
+        "40 years",
+        "50 years",
+        "70 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Formation of ovum ceases in women around the age of fifty years.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q4",
+      "chapterId": "bio_ch9",
+      "question": "The testes are situated outside the abdominal cavity within a pouch called:",
+      "options": [
+        "Epididymis",
+        "Scrotum",
+        "Vas deferens",
+        "Rete testis"
+      ],
+      "correctIndex": 1,
+      "explanation": "The testes are located in the scrotum to maintain a lower temperature necessary for spermatogenesis.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q5",
+      "chapterId": "bio_ch9",
+      "question": "The scrotal temperature is maintained at _____ lower than the normal internal body temperature.",
+      "options": [
+        "1-1.5°C",
+        "2-2.5°C",
+        "5°C",
+        "10°C"
+      ],
+      "correctIndex": 1,
+      "explanation": "The scrotum helps in maintaining the low temperature of the testes (2–2.5° C lower than the normal internal body temperature).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q6",
+      "chapterId": "bio_ch9",
+      "question": "Each testis has about how many testicular lobules?",
+      "options": [
+        "100",
+        "250",
+        "500",
+        "1000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each testis has about 250 compartments called testicular lobules.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q7",
+      "chapterId": "bio_ch9",
+      "question": "Sperms are produced in which of the following structures?",
+      "options": [
+        "Rete testis",
+        "Vasa efferentia",
+        "Seminiferous tubules",
+        "Interstitial spaces"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each testicular lobule contains one to three highly coiled seminiferous tubules in which sperms are produced.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q8",
+      "chapterId": "bio_ch9",
+      "question": "Which cells provide nutrition to the germ cells in the testes?",
+      "options": [
+        "Leydig cells",
+        "Sertoli cells",
+        "Interstitial cells",
+        "Spermatogonia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sertoli cells provide nutrition to the germ cells.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q9",
+      "chapterId": "bio_ch9",
+      "question": "Leydig cells (Interstitial cells) secrete which of the following?",
+      "options": [
+        "Estrogen",
+        "Progesterone",
+        "Androgens (Testosterone)",
+        "Relaxin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Leydig cells synthesise and secrete testicular hormones called androgens.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q10",
+      "chapterId": "bio_ch9",
+      "question": "The correct sequence of male accessory ducts is:",
+      "options": [
+        "Rete testis -> Vasa efferentia -> Epididymis -> Vas deferens",
+        "Vas deferens -> Epididymis -> Vasa efferentia -> Rete testis",
+        "Epididymis -> Vas deferens -> Rete testis -> Vasa efferentia",
+        "Vasa efferentia -> Rete testis -> Vas deferens -> Epididymis"
+      ],
+      "correctIndex": 0,
+      "explanation": "The seminiferous tubules open into vasa efferentia through rete testis, leading to epididymis and then vas deferens.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q11",
+      "chapterId": "bio_ch9",
+      "question": "The glans penis is covered by a loose fold of skin called:",
+      "options": [
+        "Hymen",
+        "Prepuce (Foreskin)",
+        "Perimetrium",
+        "Fimbriae"
+      ],
+      "correctIndex": 1,
+      "explanation": "The enlarged end of penis called the glans penis is covered by a loose fold of skin called foreskin.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q12",
+      "chapterId": "bio_ch9",
+      "question": "Seminal plasma is rich in:",
+      "options": [
+        "Glucose and Calcium",
+        "Fructose and Calcium",
+        "Fructose and Iron",
+        "Sucrose and Sodium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Seminal plasma is rich in fructose, calcium and certain enzymes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q13",
+      "chapterId": "bio_ch9",
+      "question": "Which gland's secretion helps in the lubrication of the penis?",
+      "options": [
+        "Prostate gland",
+        "Seminal vesicles",
+        "Bulbourethral glands",
+        "Thyroid gland"
+      ],
+      "correctIndex": 2,
+      "explanation": "Secretions of bulbourethral glands also helps in the lubrication of the penis.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q14",
+      "chapterId": "bio_ch9",
+      "question": "The primary female sex organs are the:",
+      "options": [
+        "Uterus",
+        "Ovaries",
+        "Fallopian tubes",
+        "Vagina"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ovaries are the primary female sex organs that produce the female gamete.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q15",
+      "chapterId": "bio_ch9",
+      "question": "The funnel-shaped part of the fallopian tube closer to the ovary is the:",
+      "options": [
+        "Isthmus",
+        "Ampulla",
+        "Infundibulum",
+        "Cervix"
+      ],
+      "correctIndex": 2,
+      "explanation": "The part closer to the ovary is the funnel-shaped infundibulum.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q16",
+      "chapterId": "bio_ch9",
+      "question": "The finger-like projections at the edges of the infundibulum are called:",
+      "options": [
+        "Cilia",
+        "Fimbriae",
+        "Villi",
+        "Flagella"
+      ],
+      "correctIndex": 1,
+      "explanation": "The edges of the infundibulum possess finger-like projections called fimbriae.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q17",
+      "chapterId": "bio_ch9",
+      "question": "The site of fertilization in humans is generally the:",
+      "options": [
+        "Ovary",
+        "Uterus",
+        "Ampullary-isthmic junction",
+        "Vagina"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fertilisation usually occurs at the junction of the ampulla and isthmus (ampullary-isthmic junction).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q18",
+      "chapterId": "bio_ch9",
+      "question": "The inner glandular layer of the uterus that undergoes cyclical changes during menstruation is the:",
+      "options": [
+        "Perimetrium",
+        "Myometrium",
+        "Endometrium",
+        "Epimetrium"
+      ],
+      "correctIndex": 2,
+      "explanation": "The endometrium undergoes cyclical changes during menstrual cycle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q19",
+      "chapterId": "bio_ch9",
+      "question": "Which layer of the uterus is responsible for strong contractions during delivery?",
+      "options": [
+        "Endometrium",
+        "Myometrium",
+        "Perimetrium",
+        "Cervix"
+      ],
+      "correctIndex": 1,
+      "explanation": "The myometrium (middle thick layer of smooth muscle) exhibits strong contraction during delivery of the baby.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q20",
+      "chapterId": "bio_ch9",
+      "question": "The tiny finger-like structure which lies at the upper junction of the two labia minora is:",
+      "options": [
+        "Hymen",
+        "Clitoris",
+        "Mons pubis",
+        "Cervical canal"
+      ],
+      "correctIndex": 1,
+      "explanation": "The clitoris is a tiny finger-like structure which lies at the upper junction of the two labia minora.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q21",
+      "chapterId": "bio_ch9",
+      "question": "The glandular tissue of each breast is divided into 15-20:",
+      "options": [
+        "Mammary ducts",
+        "Mammary ampulla",
+        "Mammary lobes",
+        "Alveoli"
+      ],
+      "correctIndex": 2,
+      "explanation": "The glandular tissue of each breast is divided into 15-20 mammary lobes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q22",
+      "chapterId": "bio_ch9",
+      "question": "The process of formation of mature female gamete is called:",
+      "options": [
+        "Spermatogenesis",
+        "Oogenesis",
+        "Gestation",
+        "Parturition"
+      ],
+      "correctIndex": 1,
+      "explanation": "The process of formation of a mature female gamete is called oogenesis.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q23",
+      "chapterId": "bio_ch9",
+      "question": "Spermatogenesis starts at the age of puberty due to significant increase in the secretion of:",
+      "options": [
+        "GnRH",
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spermatogenesis starts at puberty due to significant increase in gonadotropin releasing hormone (GnRH).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q24",
+      "chapterId": "bio_ch9",
+      "question": "Which hormone acts on the Sertoli cells to stimulate the secretion of some factors which help in spermiogenesis?",
+      "options": [
+        "LH",
+        "FSH",
+        "Testosterone",
+        "Estrogen"
+      ],
+      "correctIndex": 1,
+      "explanation": "FSH acts on the Sertoli cells and stimulates secretion of factors which help in spermiogenesis.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q25",
+      "chapterId": "bio_ch9",
+      "question": "The cap-like structure at the anterior portion of the sperm head, filled with enzymes for fertilization, is the:",
+      "options": [
+        "Middle piece",
+        "Acrosome",
+        "Tail",
+        "Neck"
+      ],
+      "correctIndex": 1,
+      "explanation": "The anterior portion of the sperm head is covered by a cap-like structure, acrosome, which contains enzymes that help fertilisation of the ovum.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q26",
+      "chapterId": "bio_ch9",
+      "question": "The middle piece of the sperm contains numerous ________ to produce energy for movement.",
+      "options": [
+        "Ribosomes",
+        "Mitochondria",
+        "Lysosomes",
+        "Golgi bodies"
+      ],
+      "correctIndex": 1,
+      "explanation": "The middle piece possesses numerous mitochondria, which produce energy for the movement of tail.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q27",
+      "chapterId": "bio_ch9",
+      "question": "A human male ejaculates about how many million sperms during a coitus?",
+      "options": [
+        "10-20",
+        "50-100",
+        "200-300",
+        "500-600"
+      ],
+      "correctIndex": 2,
+      "explanation": "The human male ejaculates about 200 to 300 million sperms during a coitus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q28",
+      "chapterId": "bio_ch9",
+      "question": "In human females, oogenesis is initiated during:",
+      "options": [
+        "Puberty",
+        "Menopause",
+        "Embryonic development stage",
+        "Birth"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oogenesis is initiated during the embryonic development stage.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q29",
+      "chapterId": "bio_ch9",
+      "question": "Primary oocytes are arrested at which stage of cell division until puberty?",
+      "options": [
+        "Prophase-I of meiosis",
+        "Metaphase-II of meiosis",
+        "Prophase of mitosis",
+        "Anaphase-I of meiosis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Primary oocytes start division and get temporarily arrested at prophase-I of the meiotic division.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q30",
+      "chapterId": "bio_ch9",
+      "question": "At puberty, only about ______ primary follicles are left in each ovary.",
+      "options": [
+        "1-2 million",
+        "500,000",
+        "60,000-80,000",
+        "10,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "At puberty only 60,000-80,000 primary follicles are left in each ovary.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q31",
+      "chapterId": "bio_ch9",
+      "question": "The mature follicle that ruptures to release the secondary oocyte is the:",
+      "options": [
+        "Primary follicle",
+        "Secondary follicle",
+        "Tertiary follicle",
+        "Graafian follicle"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Graafian follicle now ruptures to release the secondary oocyte (ovum) from the ovary.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q32",
+      "chapterId": "bio_ch9",
+      "question": "The first menstruation is called:",
+      "options": [
+        "Menopause",
+        "Menarche",
+        "Amenorrhea",
+        "Gestation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first menstruation begins at puberty and is called menarche.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q33",
+      "chapterId": "bio_ch9",
+      "question": "The ovulation (release of ovum) occurs during which phase of the menstrual cycle?",
+      "options": [
+        "Menstrual phase",
+        "Follicular phase",
+        "Middle of cycle (around day 14)",
+        "Luteal phase"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ovulation usually occurs around the 14th day of a 28-day cycle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q34",
+      "chapterId": "bio_ch9",
+      "question": "A rapid surge in which hormone induces the rupture of Graafian follicle (LH surge)?",
+      "options": [
+        "Estrogen",
+        "Progesterone",
+        "Luteinizing Hormone (LH)",
+        "FSH"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rapid secretion of LH leading to its maximum level... called LH surge induces rupture of Graafian follicle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q35",
+      "chapterId": "bio_ch9",
+      "question": "After ovulation, the remaining parts of the Graafian follicle transform into the:",
+      "options": [
+        "Corpus albicans",
+        "Corpus luteum",
+        "Tuba uterina",
+        "Antrum"
+      ],
+      "correctIndex": 1,
+      "explanation": "The remaining parts of the Graafian follicle transform as the corpus luteum.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q36",
+      "chapterId": "bio_ch9",
+      "question": "The corpus luteum secretes large amounts of ______ which is essential for maintenance of the endometrium.",
+      "options": [
+        "LH",
+        "FSH",
+        "Progesterone",
+        "Estrogen"
+      ],
+      "correctIndex": 2,
+      "explanation": "The corpus luteum secretes large amounts of progesterone which is essential for maintenance of the endometrium.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q37",
+      "chapterId": "bio_ch9",
+      "question": "The absence of menstruation is often an early indicator of:",
+      "options": [
+        "Puberty",
+        "Pregnancy",
+        "Menarche",
+        "Ovulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lack of menstruation may be indicative of pregnancy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q38",
+      "chapterId": "bio_ch9",
+      "question": "The process of fusion of a sperm with an ovum is called:",
+      "options": [
+        "Implantation",
+        "Fertilisation",
+        "Cleavage",
+        "Coitus"
+      ],
+      "correctIndex": 1,
+      "explanation": "The process of fusion of a sperm with an ovum is called fertilisation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q39",
+      "chapterId": "bio_ch9",
+      "question": "Which layer of the ovum is first contacted by the sperm during fertilization?",
+      "options": [
+        "Corona radiata",
+        "Zona pellucida",
+        "Perivitelline space",
+        "Plasma membrane"
+      ],
+      "correctIndex": 1,
+      "explanation": "A sperm comes in contact with the zona pellucida layer of the ovum and induces changes in the membrane.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q40",
+      "chapterId": "bio_ch9",
+      "question": "The sex of the human baby is determined by the:",
+      "options": [
+        "Genetic makeup of the egg",
+        "Genetic makeup of the sperm",
+        "Time of fertilization",
+        "Health of the mother"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sex of the baby is determined by the father (whether the sperm carries an X or Y chromosome).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q41",
+      "chapterId": "bio_ch9",
+      "question": "The mitotic division of the zygote as it moves through the isthmus is called:",
+      "options": [
+        "Oogenesis",
+        "Cleavage",
+        "Gestation",
+        "Parturition"
+      ],
+      "correctIndex": 1,
+      "explanation": "The mitotic division starts as the zygote moves through the isthmus... called cleavage.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q42",
+      "chapterId": "bio_ch9",
+      "question": "The embryo with 8 to 16 blastomeres is called a:",
+      "options": [
+        "Blastocyst",
+        "Morula",
+        "Trophoblast",
+        "Zygote"
+      ],
+      "correctIndex": 1,
+      "explanation": "The embryo with 8 to 16 blastomeres is called a morula.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q43",
+      "chapterId": "bio_ch9",
+      "question": "Implantation occurs when the ______ becomes embedded in the endometrium of the uterus.",
+      "options": [
+        "Zygote",
+        "Morula",
+        "Blastocyst",
+        "Secondary oocyte"
+      ],
+      "correctIndex": 2,
+      "explanation": "The blastocyst becomes embedded in the endometrium of the uterus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q44",
+      "chapterId": "bio_ch9",
+      "question": "Finger-like projections that appear on the trophoblast after implantation are called:",
+      "options": [
+        "Fimbriae",
+        "Chorionic villi",
+        "Placenta",
+        "Amnion"
+      ],
+      "correctIndex": 1,
+      "explanation": "After implantation, finger-like projections appear on the trophoblast called chorionic villi.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q45",
+      "chapterId": "bio_ch9",
+      "question": "Which of the following hormones is produced in women ONLY during pregnancy?",
+      "options": [
+        "Estrogen",
+        "hCG (human chorionic gonadotropin)",
+        "Progesterone",
+        "Thyroxine"
+      ],
+      "correctIndex": 1,
+      "explanation": "hCG, hPL and relaxin are produced in women only during pregnancy.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q46",
+      "chapterId": "bio_ch9",
+      "question": "The structural and functional unit between the developing embryo and maternal body is the:",
+      "options": [
+        "Umbilical cord",
+        "Placenta",
+        "Amniotic fluid",
+        "Endometrium"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chorionic villi and uterine tissue become interdigitated to form the placenta.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q47",
+      "chapterId": "bio_ch9",
+      "question": "In humans, the heart of the embryo is formed after how many months of pregnancy?",
+      "options": [
+        "One month",
+        "Two months",
+        "Three months",
+        "Five months"
+      ],
+      "correctIndex": 0,
+      "explanation": "In human beings, after one month of pregnancy, the embryo’s heart is formed.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q48",
+      "chapterId": "bio_ch9",
+      "question": "The average duration of human pregnancy (gestation period) is about:",
+      "options": [
+        "7 months",
+        "9 months",
+        "11 months",
+        "12 months"
+      ],
+      "correctIndex": 1,
+      "explanation": "The average duration of human pregnancy is about 9 months.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q49",
+      "chapterId": "bio_ch9",
+      "question": "The process of delivery of the fetus is called:",
+      "options": [
+        "Gestation",
+        "Parturition",
+        "Insemination",
+        "Lactation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The process of delivery of the foetus (childbirth) is called parturition.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch9_q50",
+      "chapterId": "bio_ch9",
+      "question": "The milk produced during the initial few days of lactation is called:",
+      "options": [
+        "Casein",
+        "Colostrum",
+        "Whey",
+        "Pro-milk"
+      ],
+      "correctIndex": 1,
+      "explanation": "The milk produced during the initial few days of lactation is called colostrum.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    }
+  ]
+}

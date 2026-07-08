@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "c12cs_ch10_q01",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which of the following is defined as an interconnection among two or more computers or computing devices?",
+      "options": [
+        "Social network",
+        "Computer network",
+        "Mobile network",
+        "Satellite network"
+      ],
+      "correctIndex": 1,
+      "explanation": "A computer network is an interconnection among two or more computers or computing devices to share data and resources.",
+      "ncertPage": 182,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q02",
+      "chapterId": "c12_cs_ch10",
+      "question": "What was the name of the first network of computers, established in 1969?",
+      "options": [
+        "Internet",
+        "ARPANET",
+        "NSFNET",
+        "WWW"
+      ],
+      "correctIndex": 1,
+      "explanation": "ARPANET (Advanced Research Projects Agency Network) was the first network of computers, established in 1969.",
+      "ncertPage": 183,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q03",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which network type is typically used for a single person's devices, such as a phone and a laptop, within a small range?",
+      "options": [
+        "LAN",
+        "MAN",
+        "PAN",
+        "WAN"
+      ],
+      "correctIndex": 2,
+      "explanation": "PAN (Personal Area Network) is a network formed around an individual person, typically within a range of 10 meters.",
+      "ncertPage": 183,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q04",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which network type connects devices over a small geographical area like a home, office, or school building?",
+      "options": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "correctIndex": 0,
+      "explanation": "LAN (Local Area Network) is a network that connects computers and devices in a limited area such as a home, school, or office building.",
+      "ncertPage": 184,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q05",
+      "chapterId": "c12_cs_ch10",
+      "question": "A network that connects devices across a city, such as a cable TV network, is called a:",
+      "options": [
+        "LAN",
+        "PAN",
+        "MAN",
+        "WAN"
+      ],
+      "correctIndex": 2,
+      "explanation": "MAN (Metropolitan Area Network) connects devices over a larger geographical area such as a city or a town.",
+      "ncertPage": 184,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q06",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which type of network spans across different countries or continents?",
+      "options": [
+        "LAN",
+        "WAN",
+        "MAN",
+        "PAN"
+      ],
+      "correctIndex": 1,
+      "explanation": "WAN (Wide Area Network) connects devices over a large geographical area spanning across different cities, countries, or even continents.",
+      "ncertPage": 184,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q07",
+      "chapterId": "c12_cs_ch10",
+      "question": "What is the primary role of a Modem in networking?",
+      "options": [
+        "To amplify signals",
+        "To connect computers in a star topology",
+        "To convert digital signals into analog and vice versa",
+        "To assign IP addresses"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Modem (Modulator-Demodulator) converts digital signals from a computer into analog signals for transmission over telephone lines and vice versa.",
+      "ncertPage": 185,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q08",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which device is used to connect multiple computers in a network and sends data only to the intended node by using its MAC address?",
+      "options": [
+        "Hub",
+        "Repeater",
+        "Switch",
+        "Router"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Switch is an intelligent device that connects multiple nodes in a network and transmits data selectively to the destination node based on its MAC address.",
+      "ncertPage": 186,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q09",
+      "chapterId": "c12_cs_ch10",
+      "question": "A device that regenerates an incoming signal to maintain its strength over long distances is called a:",
+      "options": [
+        "Router",
+        "Repeater",
+        "Gateway",
+        "Modem"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Repeater is an analog device that regenerates signals when they travel long distances to prevent signal loss (attenuation).",
+      "ncertPage": 186,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q10",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which device connects multiple networks and determines the best path for data packets to reach their destination?",
+      "options": [
+        "Switch",
+        "Bridge",
+        "Router",
+        "Modem"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Router connects different networks and uses routing tables to find the most efficient path for data packets.",
+      "ncertPage": 186,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q11",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which networking device is required to connect two networks that use different communication protocols?",
+      "options": [
+        "Switch",
+        "Gateway",
+        "Repeater",
+        "Modem"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Gateway is a device used to connect two different networks that operate on different sets of protocols.",
+      "ncertPage": 187,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q12",
+      "chapterId": "c12_cs_ch10",
+      "question": "The physical or logical arrangement of nodes in a network is called its:",
+      "options": [
+        "Protocol",
+        "Topology",
+        "Switching",
+        "Medium"
+      ],
+      "correctIndex": 1,
+      "explanation": "The arrangement of computers and other devices in a network is called a network topology.",
+      "ncertPage": 188,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q13",
+      "chapterId": "c12_cs_ch10",
+      "question": "In which topology are all nodes connected to a single central cable called the backbone?",
+      "options": [
+        "Star",
+        "Ring",
+        "Bus",
+        "Tree"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a Bus topology, all nodes are connected to a single common path or a backbone cable.",
+      "ncertPage": 188,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q14",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which topology uses a central device like a Hub or a Switch to which all other nodes are connected?",
+      "options": [
+        "Bus",
+        "Star",
+        "Mesh",
+        "Tree"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a Star topology, each node is connected to a central device such as a hub or a switch.",
+      "ncertPage": 189,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q15",
+      "chapterId": "c12_cs_ch10",
+      "question": "A hierarchical topology that resembles an inverted tree is called a:",
+      "options": [
+        "Star Topology",
+        "Bus Topology",
+        "Tree Topology",
+        "Mesh Topology"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tree topology is a hierarchical topology that has nodes arranged like branches of a tree, usually connecting multiple star networks.",
+      "ncertPage": 190,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q16",
+      "chapterId": "c12_cs_ch10",
+      "question": "What is the primary disadvantage of Bus topology?",
+      "options": [
+        "It is very expensive",
+        "If the backbone cable fails, the entire network shuts down",
+        "It requires a central switch",
+        "Nodes cannot communicate with each other"
+      ],
+      "correctIndex": 1,
+      "explanation": "The main drawback of Bus topology is that a failure in the main cable results in the failure of the entire network.",
+      "ncertPage": 188,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q17",
+      "chapterId": "c12_cs_ch10",
+      "question": "What does MAC stand for in networking?",
+      "options": [
+        "Media Access Control",
+        "Main Access Code",
+        "Message Authentication Center",
+        "Mobile Access Connection"
+      ],
+      "correctIndex": 0,
+      "explanation": "MAC stands for Media Access Control address, which is a unique physical address assigned to the NIC of a device.",
+      "ncertPage": 191,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q18",
+      "chapterId": "c12_cs_ch10",
+      "question": "The unique logical address assigned to a device to identify it on a network using TCP/IP is called its:",
+      "options": [
+        "MAC Address",
+        "IP Address",
+        "URL",
+        "Port Number"
+      ],
+      "correctIndex": 1,
+      "explanation": "An IP address (Internet Protocol address) is a unique logical address assigned to each device on a network.",
+      "ncertPage": 191,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q19",
+      "chapterId": "c12_cs_ch10",
+      "question": "How many bits are used in an IPv4 address?",
+      "options": [
+        "16 bits",
+        "32 bits",
+        "64 bits",
+        "128 bits"
+      ],
+      "correctIndex": 1,
+      "explanation": "An IPv4 address is a 32-bit numerical address, typically written as four numbers separated by dots.",
+      "ncertPage": 192,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q20",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which IP version uses 128-bit addresses to overcome the limitation of address space?",
+      "options": [
+        "IPv4",
+        "IPv5",
+        "IPv6",
+        "IPv8"
+      ],
+      "correctIndex": 2,
+      "explanation": "IPv6 was developed to replace IPv4 and uses a 128-bit address structure to provide a much larger number of addresses.",
+      "ncertPage": 192,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q21",
+      "chapterId": "c12_cs_ch10",
+      "question": "The global network of interconnected computer networks is called the:",
+      "options": [
+        "World Wide Web",
+        "Internet",
+        "Intranet",
+        "Ethernet"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Internet is the global network of networks that connects millions of computers worldwide.",
+      "ncertPage": 193,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q22",
+      "chapterId": "c12_cs_ch10",
+      "question": "What is the system of interlinked hypertext documents accessed via the Internet called?",
+      "options": [
+        "DNS",
+        "World Wide Web",
+        "HTTP",
+        "URL"
+      ],
+      "correctIndex": 1,
+      "explanation": "The World Wide Web (WWW) is a system of interlinked documents and resources accessed through the Internet.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q23",
+      "chapterId": "c12_cs_ch10",
+      "question": "A protocol used for transferring data on the World Wide Web is:",
+      "options": [
+        "FTP",
+        "SMTP",
+        "HTTP",
+        "TCP"
+      ],
+      "correctIndex": 2,
+      "explanation": "HTTP (Hypertext Transfer Protocol) is the fundamental protocol used to exchange data on the WWW.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q24",
+      "chapterId": "c12_cs_ch10",
+      "question": "What does IoT stand for?",
+      "options": [
+        "Internet of Technology",
+        "Internal Object Transmission",
+        "Internet of Things",
+        "Integrated Optical Transfer"
+      ],
+      "correctIndex": 2,
+      "explanation": "IoT stands for Internet of Things, which refers to the network of physical objects embedded with sensors and software to connect and exchange data.",
+      "ncertPage": 195,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q25",
+      "chapterId": "c12_cs_ch10",
+      "question": "The system that translates human-readable domain names into numerical IP addresses is called:",
+      "options": [
+        "URL",
+        "DNS",
+        "ISP",
+        "HTTP"
+      ],
+      "correctIndex": 1,
+      "explanation": "DNS (Domain Name System) acts like a phonebook for the Internet, translating names like 'google.com' into IP addresses.",
+      "ncertPage": 197,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q26",
+      "chapterId": "c12_cs_ch10",
+      "question": "A website's unique address on the Internet is known as its:",
+      "options": [
+        "IP Address",
+        "MAC Address",
+        "URL",
+        "Protocol"
+      ],
+      "correctIndex": 2,
+      "explanation": "URL (Uniform Resource Locator) is the global address of documents and other resources on the World Wide Web.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q27",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which component of a URL identifies the specific resource or file being accessed?",
+      "options": [
+        "Domain Name",
+        "Protocol",
+        "Path",
+        "Subdomain"
+      ],
+      "correctIndex": 2,
+      "explanation": "The path in a URL specifies the location of a specific file or resource within a website.",
+      "ncertPage": 194,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q28",
+      "chapterId": "c12_cs_ch10",
+      "question": "In a Star topology, if the central Hub fails, what happens to the network?",
+      "options": [
+        "Only one node stops working",
+        "The network continues to function normally",
+        "The entire network fails",
+        "Data travels faster"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a Star topology, the central device is a single point of failure; if it stops working, the entire network fails.",
+      "ncertPage": 189,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q29",
+      "chapterId": "c12_cs_ch10",
+      "question": "What is the typical range for a Personal Area Network (PAN)?",
+      "options": [
+        "10 meters",
+        "100 meters",
+        "1 kilometer",
+        "10 kilometers"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Personal Area Network usually has a range of about 10 meters.",
+      "ncertPage": 183,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q30",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which network device is sometimes called an 'intelligent hub'?",
+      "options": [
+        "Router",
+        "Gateway",
+        "Switch",
+        "Repeater"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Switch is more efficient than a hub because it selectively transmits data, making it 'smarter' or 'intelligent'.",
+      "ncertPage": 186,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q31",
+      "chapterId": "c12_cs_ch10",
+      "question": "What is the standard format for representing an IPv4 address?",
+      "options": [
+        "Hexadecimal",
+        "Dotted-decimal",
+        "Binary only",
+        "Alphanumeric"
+      ],
+      "correctIndex": 1,
+      "explanation": "IPv4 addresses are commonly written in dotted-decimal notation, such as 192.168.1.1.",
+      "ncertPage": 192,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q32",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which device is used to connect a computer to a local area network?",
+      "options": [
+        "NIC",
+        "Repeater",
+        "Gateway",
+        "Modem"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Network Interface Card (NIC) is a hardware component that allows a device to connect to a network.",
+      "ncertPage": 185,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q33",
+      "chapterId": "c12_cs_ch10",
+      "question": "The 'http://' part of a URL represents the:",
+      "options": [
+        "Domain Name",
+        "Resource Path",
+        "Protocol",
+        "File Extension"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first part of a URL (e.g., http or https) specifies the protocol being used to access the resource.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q34",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which of the following is a primary advantage of a network?",
+      "options": [
+        "Increased hardware costs",
+        "Sharing of resources and data",
+        "Lower internet speed",
+        "Complicated cabling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Computer networks allow users to share data, files, and hardware resources like printers.",
+      "ncertPage": 182,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q35",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which topology is easiest to expand by adding new nodes to a central hub?",
+      "options": [
+        "Bus",
+        "Star",
+        "Mesh",
+        "Ring"
+      ],
+      "correctIndex": 1,
+      "explanation": "Star topology is easily scalable as adding a new node only requires connecting it to the central hub.",
+      "ncertPage": 189,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q36",
+      "chapterId": "c12_cs_ch10",
+      "question": "A MAC address is usually represented in:",
+      "options": [
+        "Binary",
+        "Decimal",
+        "Hexadecimal",
+        "Octal"
+      ],
+      "correctIndex": 2,
+      "explanation": "MAC addresses are typically written as six pairs of hexadecimal digits.",
+      "ncertPage": 191,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q37",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which organization manages the global DNS and IP address space?",
+      "options": [
+        "IEEE",
+        "ICANN",
+        "W3C",
+        "ISO"
+      ],
+      "correctIndex": 1,
+      "explanation": "ICANN (Internet Corporation for Assigned Names and Numbers) is responsible for coordinating the DNS and IP address systems.",
+      "ncertPage": 197,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q38",
+      "chapterId": "c12_cs_ch10",
+      "question": "What happens in a Bus topology if one node (not the backbone) fails?",
+      "options": [
+        "The whole network fails",
+        "The network remains unaffected",
+        "Data transfer becomes slow",
+        "Collision occurs"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a Bus topology, if a single workstation fails, the rest of the network continues to function.",
+      "ncertPage": 188,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q39",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which technology is commonly used to form a wireless PAN?",
+      "options": [
+        "Bluetooth",
+        "Fiber Optics",
+        "Ethernet",
+        "Coaxial Cable"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bluetooth is the most common technology used for creating a Personal Area Network wirelessly.",
+      "ncertPage": 183,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q40",
+      "chapterId": "c12_cs_ch10",
+      "question": "A URL like 'https://www.ncert.nic.in/index.html' contains '.nic.in'. What part of the URL is this?",
+      "options": [
+        "Protocol",
+        "Domain Name",
+        "Path",
+        "Query String"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'ncert.nic.in' part of the URL is the domain name.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q41",
+      "chapterId": "c12_cs_ch10",
+      "question": "What is the main advantage of Tree topology?",
+      "options": [
+        "Low cabling requirements",
+        "Easily manageable and allows for expansion into segments",
+        "No central point of failure",
+        "Requires the least amount of hardware"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tree topology allows for easy segmental expansion and is easier to manage in larger organizations.",
+      "ncertPage": 190,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q42",
+      "chapterId": "c12_cs_ch10",
+      "question": "What type of signal does a traditional telephone line carry?",
+      "options": [
+        "Digital",
+        "Analog",
+        "Binary",
+        "Packet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Telephone lines were designed to carry voice, which is an analog signal.",
+      "ncertPage": 185,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q43",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which device is considered 'non-intelligent' because it broadcasts data to all nodes in a network?",
+      "options": [
+        "Switch",
+        "Hub",
+        "Router",
+        "Bridge"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Hub is a non-intelligent device that simply broadcasts incoming data to all connected nodes.",
+      "ncertPage": 185,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q44",
+      "chapterId": "c12_cs_ch10",
+      "question": "The time it takes for a signal to travel from one point to another in a network is called:",
+      "options": [
+        "Bandwidth",
+        "Latency",
+        "Throughput",
+        "Frequency"
+      ],
+      "correctIndex": 1,
+      "explanation": "Network latency is the time delay for data to be transmitted across a network.",
+      "ncertPage": 182,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q45",
+      "chapterId": "c12_cs_ch10",
+      "question": "Which address is hardcoded into the hardware and never changes?",
+      "options": [
+        "IP Address",
+        "MAC Address",
+        "Port Address",
+        "DNS Address"
+      ],
+      "correctIndex": 1,
+      "explanation": "A MAC address is a physical address permanently assigned to the hardware.",
+      "ncertPage": 191,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q46",
+      "chapterId": "c12_cs_ch10",
+      "question": "In a URL, which protocol is considered more secure?",
+      "options": [
+        "http",
+        "ftp",
+        "https",
+        "smtp"
+      ],
+      "correctIndex": 2,
+      "explanation": "HTTPS (Hypertext Transfer Protocol Secure) encrypts data to provide a secure communication channel.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q47",
+      "chapterId": "c12_cs_ch10",
+      "question": "A server that stores website files and serves them to users over the Internet is called a:",
+      "options": [
+        "Database Server",
+        "Mail Server",
+        "Web Server",
+        "DNS Server"
+      ],
+      "correctIndex": 2,
+      "explanation": "A web server is a computer that stores website content and delivers it to web browsers via the HTTP protocol.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q48",
+      "chapterId": "c12_cs_ch10",
+      "question": "What is the standard length of a MAC address?",
+      "options": [
+        "32 bits",
+        "48 bits",
+        "64 bits",
+        "128 bits"
+      ],
+      "correctIndex": 1,
+      "explanation": "A MAC address is typically a 48-bit address.",
+      "ncertPage": 191,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q49",
+      "chapterId": "c12_cs_ch10",
+      "question": "In IPv4, each of the four numbers (octets) can range from:",
+      "options": [
+        "0 to 128",
+        "0 to 255",
+        "1 to 1000",
+        "0 to 999"
+      ],
+      "correctIndex": 1,
+      "explanation": "In an IPv4 address, each decimal number ranges from 0 to 255.",
+      "ncertPage": 192,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch10_q50",
+      "chapterId": "c12_cs_ch10",
+      "question": "What is the top-level domain in the address 'www.education.gov'?",
+      "options": [
+        "www",
+        "education",
+        "gov",
+        "education.gov"
+      ],
+      "correctIndex": 2,
+      "explanation": "The last part of a domain name (like .gov, .com, or .edu) is called the Top Level Domain (TLD).",
+      "ncertPage": 198,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    }
+  ]
+}

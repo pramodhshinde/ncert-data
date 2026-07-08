@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch6_q1",
+      "chapterId": "chem_ch6",
+      "question": "The d-block of the periodic table contains elements from which groups?",
+      "options": [
+        "Groups 1-2",
+        "Groups 3-12",
+        "Groups 13-18",
+        "Groups 3-7"
+      ],
+      "correctIndex": 1,
+      "explanation": "The d-block contains elements of Groups 3-12 where d orbitals are progressively filled.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q2",
+      "chapterId": "chem_ch6",
+      "question": "Which of the following is the correct definition of a transition element according to IUPAC?",
+      "options": [
+        "An element with a partially filled s orbital",
+        "An element with a completely filled d orbital in its ground state",
+        "An element which has an incomplete d subshell in its ground state or in any of its common oxidation states",
+        "Any element belonging to the d-block"
+      ],
+      "correctIndex": 2,
+      "explanation": "IUPAC defines transition elements as those having an incomplete d subshell in ground or common oxidation states.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q3",
+      "chapterId": "chem_ch6",
+      "question": "Why are Zinc, Cadmium, and Mercury not regarded as transition elements?",
+      "options": [
+        "They are gases",
+        "They have (n-1)d10 configuration in ground state and common oxidation states",
+        "They belong to group 11",
+        "They are highly reactive"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zn, Cd, and Hg have full d10 configurations in both ground and oxidation states, thus excluding them from the technical definition of transition metals.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q4",
+      "chapterId": "chem_ch6",
+      "question": "Why is Silver (Z=47) considered a transition element?",
+      "options": [
+        "It is a precious metal",
+        "It can exhibit a +2 oxidation state with an incomplete 4d9 configuration",
+        "It has a 4d10 configuration in ground state",
+        "It belongs to group 12"
+      ],
+      "correctIndex": 1,
+      "explanation": "Silver can form Ag2+ which has an incompletely filled 4d subshell.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q5",
+      "chapterId": "chem_ch6",
+      "question": "The f-block elements are placed where in the periodic table?",
+      "options": [
+        "In group 18",
+        "At the top",
+        "In a separate panel at the bottom",
+        "Between groups 1 and 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "f-block elements (lanthanoids and actinoids) are placed in a separate panel at the bottom of the table.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q6",
+      "chapterId": "chem_ch6",
+      "question": "Which of the following elements has the maximum number of unpaired electrons in the 3d series?",
+      "options": [
+        "Iron",
+        "Manganese",
+        "Chromium",
+        "Cobalt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manganese (Z=25) has the 3d5 4s2 configuration, giving it 5 unpaired electrons in its atom.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q7",
+      "chapterId": "chem_ch6",
+      "question": "The irregular variation in ionization enthalpies of 3d series is primarily due to:",
+      "options": [
+        "Atomic size only",
+        "Nuclear charge only",
+        "Varying stability of d0, d5, and d10 configurations",
+        "Shielding effect of 4s electrons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Extra stability of empty, half-filled, and fully filled d-shells causes irregularities.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q8",
+      "chapterId": "chem_ch6",
+      "question": "Which of the following is a stronger reducing agent in aqueous medium?",
+      "options": [
+        "Fe2+",
+        "Cr2+",
+        "Mn2+",
+        "Co2+"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cr2+ is stronger because the change from d4 to d3 (stable t2g half-filled level) is highly favorable in water.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q9",
+      "chapterId": "chem_ch6",
+      "question": "Why does Cu+ undergo disproportionation in aqueous solution?",
+      "options": [
+        "It is too small",
+        "It is very stable",
+        "The E° value for 2Cu+ -> Cu2+ + Cu is favorable",
+        "It lacks d electrons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cu+ is unstable in water and reacts to form Cu2+ and metallic Cu.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q10",
+      "chapterId": "chem_ch6",
+      "question": "5f electrons in actinoids are more effectively shielded than 4f electrons in lanthanoids.",
+      "options": [
+        "True",
+        "False",
+        "Only for heavy elements",
+        "Depends on oxidation state"
+      ],
+      "correctIndex": 1,
+      "explanation": "5f electrons are actually less effectively shielded than 4f, leading to greater contraction and complexity in actinoids.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q11",
+      "chapterId": "chem_ch6",
+      "question": "Which elements are prove to be excellent sources of nuclear energy in modern times?",
+      "options": [
+        "Fe, Cu, Ag",
+        "Th, Pa, U",
+        "Zn, Cd, Hg",
+        "Sc, Ti, V"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thorium (Th), Protactinium (Pa), and Uranium (U) are vital for nuclear energy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q12",
+      "chapterId": "chem_ch6",
+      "question": "Transition metals are often called d-block elements because:",
+      "options": [
+        "They are in the middle",
+        "d orbitals are progressively filled",
+        "They are all metals",
+        "They are colorful"
+      ],
+      "correctIndex": 1,
+      "explanation": "The name comes from the progressive filling of d orbitals in their periods.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q13",
+      "chapterId": "chem_ch6",
+      "question": "In Zinc, which electrons are involved in metallic bond formation?",
+      "options": [
+        "3d electrons",
+        "4s electrons only",
+        "Both 3d and 4s",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "No electrons from 3d orbitals are involved in metallic bonds for Zinc, unlike other transition metals.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q14",
+      "chapterId": "chem_ch6",
+      "question": "What allows oxygen and fluorine to stabilize high oxidation states in metals?",
+      "options": [
+        "Low reactivity",
+        "Small size and high electronegativity",
+        "Large atomic mass",
+        "Metallic luster"
+      ],
+      "correctIndex": 1,
+      "explanation": "Their high electronegativity and small size allow them to pull metals to high oxidation states.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q15",
+      "chapterId": "chem_ch6",
+      "question": "The transition elements are placed in the periodic table between:",
+      "options": [
+        "s-block and p-block",
+        "p-block and f-block",
+        "Lanthanoids and Actinoids",
+        "Groups 1 and 2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transition elements bridge the highly reactive s-block and the p-block.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q16",
+      "chapterId": "chem_ch6",
+      "question": "Which of the following is NOT an objective of studying Unit 8?",
+      "options": [
+        "positions of d- and f-block",
+        "Electronic configurations",
+        "Preparation of polymers",
+        "Preparation of KMnO4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Polymer preparation is not an objective; KMnO4 and K2Cr2O7 are.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q17",
+      "chapterId": "chem_ch6",
+      "question": "Which group of elements has played an important role in the development of human civilisation?",
+      "options": [
+        "Noble gases",
+        "Transition elements (Fe, Cu, Ag, Au)",
+        "Alkali metals",
+        "Halogens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iron, copper, silver, and gold are specifically highlighted for their historical importance.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q18",
+      "chapterId": "chem_ch6",
+      "question": "Lanthanoids involve the progressive filling of which orbital?",
+      "options": [
+        "3d",
+        "4f",
+        "5f",
+        "6d"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lanthanoids are characterized by the filling of the 4f subshell.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q19",
+      "chapterId": "chem_ch6",
+      "question": "Actinoids involve the progressive filling of which orbital?",
+      "options": [
+        "4f",
+        "5d",
+        "5f",
+        "6p"
+      ],
+      "correctIndex": 2,
+      "explanation": "Actinoids are characterized by the filling of the 5f subshell.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q20",
+      "chapterId": "chem_ch6",
+      "question": "The E° value for Cu+ being favorable for disproportionation means:",
+      "options": [
+        "Cu+ is a strong oxidant",
+        "Cu+ spontaneously splits into Cu2+ and Cu",
+        "Cu+ is the most stable state of copper",
+        "Cu+ cannot exist in solid state"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disproportionation refers to the simultaneous oxidation and reduction of the same species.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q21",
+      "chapterId": "chem_ch6",
+      "question": "Manganese has (Z = 25). Its ground state electronic configuration is:",
+      "options": [
+        "[Ar] 3d5 4s1",
+        "[Ar] 3d5 4s2",
+        "[Ar] 3d6 4s2",
+        "[Ar] 4d5 5s2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manganese has 25 electrons, ending in 3d5 4s2.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q22",
+      "chapterId": "chem_ch6",
+      "question": "The 'inner transition elements' refer to which block?",
+      "options": [
+        "s-block",
+        "p-block",
+        "d-block",
+        "f-block"
+      ],
+      "correctIndex": 3,
+      "explanation": "The f-block elements are known as inner transition elements.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q23",
+      "chapterId": "chem_ch6",
+      "question": "Which of the following is considered 'exceptionally stable' in transition configurations?",
+      "options": [
+        "d1",
+        "d4",
+        "d5",
+        "d7"
+      ],
+      "correctIndex": 2,
+      "explanation": "Half-filled (d5) and fully filled (d10) shells are particularly stable.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q24",
+      "chapterId": "chem_ch6",
+      "question": "Silver is a transition element because its Ag2+ ion has:",
+      "options": [
+        "4d10",
+        "4d9",
+        "5s2",
+        "4f14"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ag2+ has a 4d9 configuration, which is an incomplete d-shell.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q25",
+      "chapterId": "chem_ch6",
+      "question": "How many long periods are in the d-block?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctIndex": 3,
+      "explanation": "There are four long periods in the d-block (3d, 4d, 5d, 6d).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q26",
+      "chapterId": "chem_ch6",
+      "question": "Which 3d metal has the highest stability in aqueous medium for its +3 state due to CFSE?",
+      "options": [
+        "Mn",
+        "Fe",
+        "Cr",
+        "Cu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cr3+ is particularly stable in water because of its d3 configuration.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q27",
+      "chapterId": "chem_ch6",
+      "question": "The name 'transition elements' was originally derived from:",
+      "options": [
+        "Their ability to transition between colors",
+        "Their position as a bridge between electropositive and electronegative elements",
+        "Their radioactivity",
+        "Their gaseous nature"
+      ],
+      "correctIndex": 1,
+      "explanation": "They sit between the s-block and p-block, acting as a chemical transition.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q28",
+      "chapterId": "chem_ch6",
+      "question": "Thorium, Protactinium and Uranium belong to which group?",
+      "options": [
+        "Lanthanoids",
+        "Actinoids",
+        "Group 12",
+        "Alkaline earth metals"
+      ],
+      "correctIndex": 1,
+      "explanation": "These are heavy f-block elements called actinoids.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q29",
+      "chapterId": "chem_ch6",
+      "question": "What is the atomic number of Manganese?",
+      "options": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manganese has Z = 25.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q30",
+      "chapterId": "chem_ch6",
+      "question": "Stability of d0 configuration refers to:",
+      "options": [
+        "Full d shell",
+        "Half-filled d shell",
+        "Empty d shell",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "d0 means an empty d-shell, which can be exceptionally stable.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q31",
+      "chapterId": "chem_ch6",
+      "question": "In d-block elements, which orbital is filled last?",
+      "options": [
+        "ns",
+        "(n-1)d",
+        "np",
+        "(n-2)f"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transition elements are defined by the filling of (n-1)d orbitals.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q32",
+      "chapterId": "chem_ch6",
+      "question": "Group 12 elements (Zn, Cd, Hg) have which general d-configuration?",
+      "options": [
+        "d5",
+        "d10",
+        "d9",
+        "d0"
+      ],
+      "correctIndex": 1,
+      "explanation": "They have fully filled d10 configurations.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q33",
+      "chapterId": "chem_ch6",
+      "question": "Which of these is used for the preparation of K2Cr2O7 and KMnO4?",
+      "options": [
+        "Group 1 elements",
+        "p-block elements",
+        "d-block elements",
+        "Actinoids"
+      ],
+      "correctIndex": 2,
+      "explanation": "These are important compounds of transition (d-block) metals.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q34",
+      "chapterId": "chem_ch6",
+      "question": "Acting as a reducing agent means the substance is:",
+      "options": [
+        "Oxidized",
+        "Reduced",
+        "Remains same",
+        "Neutralized"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reducing agents donate electrons and get oxidized.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q35",
+      "chapterId": "chem_ch6",
+      "question": "What is the atomic number (Z) for Silver?",
+      "options": [
+        "46",
+        "47",
+        "48",
+        "79"
+      ],
+      "correctIndex": 1,
+      "explanation": "Silver has atomic number 47.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q36",
+      "chapterId": "chem_ch6",
+      "question": "In d-block elements, shielding of nuclear charge is provided by:",
+      "options": [
+        "ns electrons",
+        "inner electrons",
+        "outermost shell only",
+        "Empty orbitals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Electrons in inner shells shield the outer electrons from the nucleus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q37",
+      "chapterId": "chem_ch6",
+      "question": "The transition from d4 to d3 configuration occurs in the oxidation of:",
+      "options": [
+        "Fe2+ to Fe3+",
+        "Cr2+ to Cr3+",
+        "Mn2+ to Mn3+",
+        "Cu+ to Cu2+"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cr2+ ([Ar] 3d4) oxidizes to Cr3+ ([Ar] 3d3).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q38",
+      "chapterId": "chem_ch6",
+      "question": "The stability of Cr3+ in water is largely explained by:",
+      "options": [
+        "Hydration enthalpy only",
+        "CFSE (Crystal Field Stabilization Energy)",
+        "Ionization enthalpy only",
+        "Atomic weight"
+      ],
+      "correctIndex": 1,
+      "explanation": "The stable d3 configuration in an octahedral field provides high CFSE.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q39",
+      "chapterId": "chem_ch6",
+      "question": "Which f-block series is more chemically complex due to a wider range of oxidation states?",
+      "options": [
+        "Lanthanoids",
+        "Actinoids",
+        "Both are equal",
+        "Neither"
+      ],
+      "correctIndex": 1,
+      "explanation": "Actinoids show more oxidation states and are less effectively shielded, making them more complex.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q40",
+      "chapterId": "chem_ch6",
+      "question": "General characteristics of which elements are covered in the transition metal unit?",
+      "options": [
+        "s-block",
+        "p-block",
+        "d- and f-block",
+        "Gases"
+      ],
+      "correctIndex": 2,
+      "explanation": "The unit focuses specifically on d- and f-block elements.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q41",
+      "chapterId": "chem_ch6",
+      "question": "Metallic bonds in transition metals are generally stronger when:",
+      "options": [
+        "Fewer electrons are involved",
+        "More d-electrons are involved",
+        "d-shell is completely full",
+        "Atom is large"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transition metals (except group 12) use d-electrons to strengthen metallic bonding.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q42",
+      "chapterId": "chem_ch6",
+      "question": "Which element has atomic number Z=24?",
+      "options": [
+        "V",
+        "Cr",
+        "Mn",
+        "Fe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chromium has atomic number 24.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q43",
+      "chapterId": "chem_ch6",
+      "question": "Ionization enthalpy involves the energy required for:",
+      "options": [
+        "Adding an electron",
+        "Removing an electron",
+        "Sharing an electron",
+        "Bombarding nucleus"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is the energy required to remove an electron from a gaseous atom.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q44",
+      "chapterId": "chem_ch6",
+      "question": "Group 3-12 transition metals are primarily found in which periods?",
+      "options": [
+        "1, 2, 3",
+        "4, 5, 6, 7",
+        "2, 3, 4",
+        "Only 4"
+      ],
+      "correctIndex": 1,
+      "explanation": "They start appearing from the 4th period onwards in the periodic table.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q45",
+      "chapterId": "chem_ch6",
+      "question": "Electrode potential values (E°) are used to assess the:",
+      "options": [
+        "Weight",
+        "Relative stability of oxidation states",
+        "Melting point",
+        "Color intensity"
+      ],
+      "correctIndex": 1,
+      "explanation": "E° values indicate how likely a species is to be reduced or oxidized, determining state stability.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q46",
+      "chapterId": "chem_ch6",
+      "question": "Elements like Uranium and Thorium in the actinoid series are proven excellent sources of:",
+      "options": [
+        "Nuclear energy",
+        "Fertilizers",
+        "Gaseous fuels",
+        "Cooking oil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Elements like U and Th are radioactive and used for generating nuclear energy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q47",
+      "chapterId": "chem_ch6",
+      "question": "Copper's ground state configuration is an exception to the general rule. It is:",
+      "options": [
+        "3d9 4s2",
+        "3d10 4s1",
+        "3d10 4s2",
+        "3d8 4s2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Copper gains stability with a full d10 shell and a half-filled 4s shell.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q48",
+      "chapterId": "chem_ch6",
+      "question": "Disproportionation of Cu+ in aqueous solution leads to formation of:",
+      "options": [
+        "Cu2+ and Cu3+",
+        "Cu and Cu2+",
+        "Cu+ and Cu2+",
+        "Copper and Oxygen"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reaction is 2Cu+(aq) -> Cu2+(aq) + Cu(s).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q49",
+      "chapterId": "chem_ch6",
+      "question": "For Manganese (Z = 25), the number of unpaired electrons in the Mn2+ ion is:",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "0"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mn2+ has the configuration [Ar] 3d5, so it has 5 unpaired electrons.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch6_q50",
+      "chapterId": "chem_ch6",
+      "question": "Horizontal and vertical trends in the periodic table refer to variations in:",
+      "options": [
+        "Rows and columns",
+        "Alphabetical order",
+        "Density only",
+        "Atomic mass only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Periods (horizontal rows) and groups (vertical columns) show predictable chemical trends.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    }
+  ]
+}

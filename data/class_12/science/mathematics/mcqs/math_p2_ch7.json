@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch13_q1",
+      "chapterId": "math_ch13",
+      "question": "Which mathematician is credited with formulating the axiomatic approach to probability?",
+      "options": [
+        "Blaise Pascal",
+        "Pierre de Fermat",
+        "A.N. Kolmogorov",
+        "Jacob Bernoulli"
+      ],
+      "correctIndex": 2,
+      "explanation": "Russian Mathematician A.N. Kolmogorov (1903-1987) formulated the axiomatic approach, treating probability as a function of outcomes.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q2",
+      "chapterId": "math_ch13",
+      "question": "The probability of an event E given that event F has already occurred is known as:",
+      "options": [
+        "Joint Probability",
+        "Conditional Probability",
+        "Mutually Exclusive Probability",
+        "Independent Probability"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conditional probability is the probability of the occurrence of an event E, given that F has occurred.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q3",
+      "chapterId": "math_ch13",
+      "question": "If P(F) ≠ 0, the conditional probability P(E|F) is defined by which formula?",
+      "options": [
+        "P(E ∪ F) / P(F)",
+        "P(E ∩ F) / P(E)",
+        "P(E ∩ F) / P(F)",
+        "P(E) * P(F)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The formula for conditional probability is P(E|F) = P(E ∩ F) / P(F).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q4",
+      "chapterId": "math_ch13",
+      "question": "What is the value of P(S|F), where S is the sample space and F is an event such that P(F) ≠ 0?",
+      "options": [
+        "0",
+        "P(F)",
+        "1",
+        "0.5"
+      ],
+      "correctIndex": 2,
+      "explanation": "P(S|F) = P(S ∩ F) / P(F) = P(F) / P(F) = 1.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q5",
+      "chapterId": "math_ch13",
+      "question": "If A and B are any two events of a sample space S and F is an event such that P(F) ≠ 0, then P((A ∪ B)|F) is equal to:",
+      "options": [
+        "P(A|F) + P(B|F)",
+        "P(A|F) + P(B|F) - P((A ∩ B)|F)",
+        "P(A) + P(B)",
+        "P(A|F) * P(B|F)"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is Property 2 of conditional probability, similar to the addition rule for simple probability.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q6",
+      "chapterId": "math_ch13",
+      "question": "The Multiplication Rule of probability states that P(E ∩ F) is equal to:",
+      "options": [
+        "P(E) + P(F)",
+        "P(E) * P(F|E)",
+        "P(E) / P(F)",
+        "P(E|F)"
+      ],
+      "correctIndex": 1,
+      "explanation": "P(E ∩ F) = P(E) * P(F|E) provided P(E) ≠ 0.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q7",
+      "chapterId": "math_ch13",
+      "question": "Two events E and F are said to be independent if:",
+      "options": [
+        "P(E ∩ F) = 0",
+        "P(E ∩ F) = P(E) * P(F)",
+        "P(E|F) = 1",
+        "E ∪ F = S"
+      ],
+      "correctIndex": 1,
+      "explanation": "Independence is defined when the joint probability is the product of individual probabilities.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q8",
+      "chapterId": "math_ch13",
+      "question": "If events E and F are independent, then P(E|F) is equal to:",
+      "options": [
+        "P(F)",
+        "P(E)",
+        "0",
+        "1"
+      ],
+      "correctIndex": 1,
+      "explanation": "If independent, the occurrence of F does not affect the probability of E.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q9",
+      "chapterId": "math_ch13",
+      "question": "A set of events E1, E2, ..., En are said to be a partition of sample space S if they are pairwise disjoint and:",
+      "options": [
+        "Their intersection is S",
+        "Their union is S",
+        "All have equal probability",
+        "None are empty"
+      ],
+      "correctIndex": 1,
+      "explanation": "A partition requires that the union of the events equals the sample space.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q10",
+      "chapterId": "math_ch13",
+      "question": "The Theorem of Total Probability is used to find the probability of an event A that can occur with any of the disjoint events E1, E2, ..., En. It is expressed as P(A) = :",
+      "options": [
+        "Σ P(Ei)",
+        "Σ P(Ei) * P(A|Ei)",
+        "Π P(Ei)",
+        "P(E1) * P(A|E1)"
+      ],
+      "correctIndex": 1,
+      "explanation": "P(A) is the sum of probabilities of A occurring under each specific condition Ei.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q11",
+      "chapterId": "math_ch13",
+      "question": "Which theorem is used to find the probability of a specific cause (Ei) given that an event A has already occurred?",
+      "options": [
+        "Multiplication Theorem",
+        "Theorem of Total Probability",
+        "Bayes' Theorem",
+        "Binomial Theorem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bayes' Theorem links P(Ei|A) with P(A|Ei).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q12",
+      "chapterId": "math_ch13",
+      "question": "A real-valued function whose domain is the sample space of a random experiment is called a:",
+      "options": [
+        "Probability Function",
+        "Random Variable",
+        "Discrete Variable",
+        "Sample Point"
+      ],
+      "correctIndex": 1,
+      "explanation": "A random variable is a real-valued function defined on the sample space S.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q13",
+      "chapterId": "math_ch13",
+      "question": "The set of values of a random variable along with their corresponding probabilities is called:",
+      "options": [
+        "Standard Deviation",
+        "Probability Distribution",
+        "Mean Value",
+        "Expected Value"
+      ],
+      "correctIndex": 1,
+      "explanation": "The probability distribution of a random variable X gives the probabilities for each possible value of X.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q14",
+      "chapterId": "math_ch13",
+      "question": "For a probability distribution, the sum of all probabilities Σ P(xi) must be:",
+      "options": [
+        "0",
+        "Greater than 1",
+        "Exactly 1",
+        "Between 0 and 1"
+      ],
+      "correctIndex": 2,
+      "explanation": "It is a requirement for any probability distribution that the total probability sum is 1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q15",
+      "chapterId": "math_ch13",
+      "question": "The mean of a random variable X, also called the Expected Value E(X), is calculated as:",
+      "options": [
+        "Σ xi",
+        "Σ P(xi)",
+        "Σ xi * P(xi)",
+        "max(xi)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mean or Expected Value is the weighted average: Σ xi * pi.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q16",
+      "chapterId": "math_ch13",
+      "question": "The Variance of a random variable X, denoted by Var(X), is given by:",
+      "options": [
+        "E(X²)",
+        "E(X²) - [E(X)]²",
+        "[E(X)]² - E(X²)",
+        "√E(X)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Variance measures spread and is calculated as the mean of squares minus the square of the mean.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q17",
+      "chapterId": "math_ch13",
+      "question": "The positive square root of Variance is called:",
+      "options": [
+        "Mean Deviation",
+        "Standard Deviation",
+        "Expected Value",
+        "Variance Root"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standard Deviation σx = √Var(X).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q18",
+      "chapterId": "math_ch13",
+      "question": "Trials of a random experiment are called Bernoulli trials if they are finite, independent, and:",
+      "options": [
+        "Have multiple outcomes",
+        "Each trial has exactly two outcomes (success/failure)",
+        "Probabilities change each time",
+        "The sample space is continuous"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bernoulli trials must have exactly two outcomes and constant probability of success.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q19",
+      "chapterId": "math_ch13",
+      "question": "In a Binomial distribution B(n, p), what does 'n' represent?",
+      "options": [
+        "Probability of success",
+        "Probability of failure",
+        "Number of independent trials",
+        "Mean of the distribution"
+      ],
+      "correctIndex": 2,
+      "explanation": "The parameter 'n' is the number of Bernoulli trials.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q20",
+      "chapterId": "math_ch13",
+      "question": "The formula for Binomial distribution P(X = r) is:",
+      "options": [
+        "nCr * p^r * q^(n-r)",
+        "nCr * p^(n-r) * q^r",
+        "p^r * q^(n-r)",
+        "n * p * q"
+      ],
+      "correctIndex": 0,
+      "explanation": "This gives the probability of exactly 'r' successes in 'n' trials.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q21",
+      "chapterId": "math_ch13",
+      "question": "Which two men correspond in the 17th century are considered the true originators of probability science?",
+      "options": [
+        "Newton and Leibnitz",
+        "Pascal and Fermat",
+        "Bernoulli and Huygens",
+        "Kolmogorov and Peirce"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correspondence between Pascal and Fermat in 1654 laid the foundation.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q22",
+      "chapterId": "math_ch13",
+      "question": "Who published the first book on probability, 'De Ratiociniis in Ludo Aleae'?",
+      "options": [
+        "Pascal",
+        "Fermat",
+        "Huygens",
+        "Bernoulli"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Dutch scientist Huygens published the first book on probability.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q23",
+      "chapterId": "math_ch13",
+      "question": "The discovery of the Binomial distribution is attributed to:",
+      "options": [
+        "Nicholes Bernoulli",
+        "Jacob Bernoulli",
+        "Pierre de Fermat",
+        "Blaise Pascal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jacob Bernoulli's book 'Ars Conjectendi' (1713) contains the discovery of the Binomial distribution.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q24",
+      "chapterId": "math_ch13",
+      "question": "In Bayes' theorem, the probabilities P(E1), P(E2), ..., P(En) are called:",
+      "options": [
+        "Posterior probabilities",
+        "Prior probabilities",
+        "Likelihoods",
+        "Conditional probabilities"
+      ],
+      "correctIndex": 1,
+      "explanation": "The initial probabilities of the events forming the partition are known as prior probabilities.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q25",
+      "chapterId": "math_ch13",
+      "question": "In Bayes' theorem, the probability P(Ei|A) is called the:",
+      "options": [
+        "Prior probability",
+        "Posterior probability",
+        "Expected probability",
+        "Joint probability"
+      ],
+      "correctIndex": 1,
+      "explanation": "The probability calculated after the event A has occurred is the posterior probability.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q26",
+      "chapterId": "math_ch13",
+      "question": "If P(A) = 0.8 and P(B|A) = 0.4, then P(A ∩ B) is:",
+      "options": [
+        "0.4",
+        "1.2",
+        "0.32",
+        "0.5"
+      ],
+      "correctIndex": 2,
+      "explanation": "P(A ∩ B) = P(A) * P(B|A) = 0.8 * 0.4 = 0.32.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q27",
+      "chapterId": "math_ch13",
+      "question": "If E and F are independent events, which of the following is also independent?",
+      "options": [
+        "E' and F",
+        "E and F'",
+        "E' and F'",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "If two events are independent, their complements are also independent.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q28",
+      "chapterId": "math_ch13",
+      "question": "What is the probability of a certain event?",
+      "options": [
+        "0",
+        "0.5",
+        "1",
+        "Infinite"
+      ],
+      "correctIndex": 2,
+      "explanation": "By definition, the probability of a certain (sure) event is 1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q29",
+      "chapterId": "math_ch13",
+      "question": "If P(A|B) > P(A), then events A and B are:",
+      "options": [
+        "Independent",
+        "Dependent",
+        "Mutually Exclusive",
+        "Equally Likely"
+      ],
+      "correctIndex": 1,
+      "explanation": "If independent, P(A|B) would equal P(A). Since they are unequal, they are dependent.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q30",
+      "chapterId": "math_ch13",
+      "question": "For a random variable X, the sum Σ pi * xi² represents:",
+      "options": [
+        "Mean",
+        "E(X²)",
+        "Variance",
+        "Expected Value"
+      ],
+      "correctIndex": 1,
+      "explanation": "E(X²) is the sum of the products of squares of the values and their probabilities.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q31",
+      "chapterId": "math_ch13",
+      "question": "A coin is tossed three times. What is the size of the sample space S?",
+      "options": [
+        "3",
+        "6",
+        "8",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "For each toss there are 2 outcomes; for 3 tosses, 2^3 = 8.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q32",
+      "chapterId": "math_ch13",
+      "question": "Which mathematician is associated with the quote 'The theory of probabilities is simply the Science of logic quantitatively treated'?",
+      "options": [
+        "Pascal",
+        "C.S. Peirce",
+        "Kolmogorov",
+        "Bernoulli"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chapter opens with this quote from C.S. Peirce.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q33",
+      "chapterId": "math_ch13",
+      "question": "If events A and B are mutually exclusive and P(B) > 0, what is P(A|B)?",
+      "options": [
+        "P(A)",
+        "1",
+        "0",
+        "P(A)/P(B)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mutually exclusive means A ∩ B = ∅, so P(A ∩ B) = 0, which makes P(A|B) = 0.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q34",
+      "chapterId": "math_ch13",
+      "question": "What is the probability of an impossible event?",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "Undefined"
+      ],
+      "correctIndex": 1,
+      "explanation": "The probability of an event that cannot happen is 0.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q35",
+      "chapterId": "math_ch13",
+      "question": "In a family with 2 children, if the sample space is {bb, bg, gb, gg}, what is the probability that both are girls?",
+      "options": [
+        "1/2",
+        "1/4",
+        "3/4",
+        "1/3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Only one outcome (gg) out of four satisfies the condition.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q36",
+      "chapterId": "math_ch13",
+      "question": "The mean of a Binomial distribution B(n, p) is given by:",
+      "options": [
+        "npq",
+        "np",
+        "n/p",
+        "p/n"
+      ],
+      "correctIndex": 1,
+      "explanation": "The expected value for a binomial distribution is trials times success probability.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q37",
+      "chapterId": "math_ch13",
+      "question": "The variance of a Binomial distribution B(n, p) is:",
+      "options": [
+        "np",
+        "npq",
+        "√(npq)",
+        "n²p"
+      ],
+      "correctIndex": 1,
+      "explanation": "Variance for binomial is npq, where q = 1-p.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q38",
+      "chapterId": "math_ch13",
+      "question": "In Bayes' theorem, the denominator Σ P(Ei) * P(A|Ei) represents:",
+      "options": [
+        "Joint probability",
+        "Conditional probability",
+        "Total probability P(A)",
+        "Error probability"
+      ],
+      "correctIndex": 2,
+      "explanation": "The denominator is the expansion of the total probability of event A.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q39",
+      "chapterId": "math_ch13",
+      "question": "Three events A, B, and C are mutually independent if they are pairwise independent and:",
+      "options": [
+        "P(A ∪ B ∪ C) = 1",
+        "P(A ∩ B ∩ C) = P(A) * P(B) * P(C)",
+        "A ∩ B ∩ C = ∅",
+        "P(A) + P(B) + P(C) = 1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total independence for three events requires the product rule to hold for all combinations.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q40",
+      "chapterId": "math_ch13",
+      "question": "Probability can never be:",
+      "options": [
+        "Zero",
+        "A fraction",
+        "Negative",
+        "One"
+      ],
+      "correctIndex": 2,
+      "explanation": "By the axioms of probability, 0 ≤ P(A) ≤ 1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q41",
+      "chapterId": "math_ch13",
+      "question": "Which work on probability was published posthumously in 1713?",
+      "options": [
+        "Ars Conjectendi",
+        "Foundations of Probability",
+        "De Ratiociniis in Ludo Aleae",
+        "Science of Logic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jacob Bernoulli's 'Ars Conjectendi' was published in 1713.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q42",
+      "chapterId": "math_ch13",
+      "question": "The conditional probability P(E|F) is not defined if P(F) is:",
+      "options": [
+        "1",
+        "0.5",
+        "0",
+        "Positive"
+      ],
+      "correctIndex": 2,
+      "explanation": "Division by zero is undefined; thus P(F) must be non-zero.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q43",
+      "chapterId": "math_ch13",
+      "question": "If P(A) = 1/2, P(B) = 0, then P(A|B) is:",
+      "options": [
+        "0",
+        "1/2",
+        "Not defined",
+        "1"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since P(B) = 0, the conditional probability P(A|B) is not defined.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q44",
+      "chapterId": "math_ch13",
+      "question": "In the multiplication rule for three events, P(A ∩ B ∩ C) = P(A) * P(B|A) * ________:",
+      "options": [
+        "P(C|A)",
+        "P(C|B)",
+        "P(C|A ∩ B)",
+        "P(C)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The rule chains probabilities: A occurs, then B given A, then C given both A and B.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q45",
+      "chapterId": "math_ch13",
+      "question": "The complement of an event E is denoted as E'. P(E|F) + P(E'|F) equals:",
+      "options": [
+        "P(F)",
+        "1",
+        "0",
+        "P(E)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Property 1 of conditional probability states the sum of probabilities of an event and its complement given F is 1.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q46",
+      "chapterId": "math_ch13",
+      "question": "When can we say events A and B are independent?",
+      "options": [
+        "If they cannot happen together",
+        "If the occurrence of one doesn't change the probability of the other",
+        "If their probabilities sum to 1",
+        "If they have the same sample space"
+      ],
+      "correctIndex": 1,
+      "explanation": "Independence means the probability of one is unaffected by the occurrence of the other.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q47",
+      "chapterId": "math_ch13",
+      "question": "A 'Bernoulli trial' must have a ________ probability of success.",
+      "options": [
+        "Increasing",
+        "Decreasing",
+        "Constant",
+        "Zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "One requirement for Bernoulli trials is that the probability of success remains the same in each trial.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q48",
+      "chapterId": "math_ch13",
+      "question": "The Standard Deviation of a constant random variable is:",
+      "options": [
+        "The constant value",
+        "1",
+        "0",
+        "Undefined"
+      ],
+      "correctIndex": 2,
+      "explanation": "A constant does not vary, so its variance and standard deviation are 0.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q49",
+      "chapterId": "math_ch13",
+      "question": "Bayes' theorem is also known as the formula for the probability of ________.",
+      "options": [
+        "Success",
+        "Causes",
+        "Independent events",
+        "Averages"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is often called the formula for probability of causes as it works backward from effect to cause.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch13_q50",
+      "chapterId": "math_ch13",
+      "question": "Which book published in 1933 is considered a 'classic' in probability theory?",
+      "options": [
+        "Ars Conjectendi",
+        "Foundations of Probability",
+        "De Ratiociniis in Ludo Aleae",
+        "Manual of Logic"
+      ],
+      "correctIndex": 1,
+      "explanation": "A.N. Kolmogorov's 'Foundations of probability' (1933) is considered a classic.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    }
+  ]
+}

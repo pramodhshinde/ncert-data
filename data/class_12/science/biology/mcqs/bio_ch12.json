@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch12_q1",
+      "chapterId": "bio_ch12",
+      "question": "Which of the following can be considered a man-made ecosystem?",
+      "options": [
+        "Forest",
+        "Pond",
+        "Crop field",
+        "Estuary"
+      ],
+      "correctIndex": 2,
+      "explanation": "Crop fields and an aquarium are considered man-made or artificial ecosystems.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q2",
+      "chapterId": "bio_ch12",
+      "question": "The rate of biomass production is called:",
+      "options": [
+        "Decomposition",
+        "Productivity",
+        "Stratification",
+        "Catabolism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Productivity is defined as the rate of biomass production in an ecosystem.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q3",
+      "chapterId": "bio_ch12",
+      "question": "Vertical distribution of different species occupying different levels is called:",
+      "options": [
+        "Fragmentation",
+        "Stratification",
+        "Humification",
+        "Mineralisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stratification refers to the vertical distribution of different species, like trees in the top layer and grasses in the bottom.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q4",
+      "chapterId": "bio_ch12",
+      "question": "Primary productivity is expressed in terms of:",
+      "options": [
+        "weight (g⁻²) or energy (kcal m⁻²)",
+        "weight (g⁻²) yr⁻¹ or energy (kcal m⁻²) yr⁻¹",
+        "only weight (g⁻²)",
+        "only energy (kcal m⁻²)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Productivity is measured as a rate over time, typically expressed in weight or energy units per area per year.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q5",
+      "chapterId": "bio_ch12",
+      "question": "Net Primary Productivity (NPP) is calculated as:",
+      "options": [
+        "GPP + R",
+        "GPP - R",
+        "GPP / R",
+        "R - GPP"
+      ],
+      "correctIndex": 1,
+      "explanation": "NPP is Gross Primary Productivity minus the energy lost through respiration (R).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q6",
+      "chapterId": "bio_ch12",
+      "question": "The rate of formation of new organic matter by consumers is called:",
+      "options": [
+        "Gross Primary Productivity",
+        "Net Primary Productivity",
+        "Secondary Productivity",
+        "Decomposition"
+      ],
+      "correctIndex": 2,
+      "explanation": "Secondary productivity is defined as the rate of formation of new organic matter by consumers.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q7",
+      "chapterId": "bio_ch12",
+      "question": "What is the approximate annual net primary productivity of the whole biosphere?",
+      "options": [
+        "55 billion tons",
+        "115 billion tons",
+        "170 billion tons",
+        "200 billion tons"
+      ],
+      "correctIndex": 2,
+      "explanation": "The total annual NPP of the whole biosphere is approximately 170 billion tons (dry weight).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q8",
+      "chapterId": "bio_ch12",
+      "question": "Despite occupying 70% of the surface, the productivity of oceans is only ________ billion tons.",
+      "options": [
+        "170",
+        "115",
+        "55",
+        "10"
+      ],
+      "correctIndex": 2,
+      "explanation": "The productivity of the oceans is only about 55 billion tons, with the rest coming from land.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q9",
+      "chapterId": "bio_ch12",
+      "question": "Which of the following is the 'raw material' for decomposition?",
+      "options": [
+        "Humus",
+        "Detritus",
+        "Inorganic nutrients",
+        "Solar energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dead plant remains and animal remains (detritus) constitute the raw material for decomposition.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q10",
+      "chapterId": "bio_ch12",
+      "question": "The process where detritivores break down detritus into smaller particles is called:",
+      "options": [
+        "Leaching",
+        "Catabolism",
+        "Fragmentation",
+        "Humification"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fragmentation is the process of breaking down detritus into smaller particles by organisms like earthworms.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q11",
+      "chapterId": "bio_ch12",
+      "question": "The process by which water-soluble inorganic nutrients go down into the soil and get precipitated as unavailable salts is:",
+      "options": [
+        "Fragmentation",
+        "Leaching",
+        "Catabolism",
+        "Mineralisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leaching involves the movement of soluble nutrients into deeper soil layers.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q12",
+      "chapterId": "bio_ch12",
+      "question": "Bacterial and fungal enzymes degrade detritus into simpler inorganic substances through:",
+      "options": [
+        "Fragmentation",
+        "Leaching",
+        "Catabolism",
+        "Humification"
+      ],
+      "correctIndex": 2,
+      "explanation": "Catabolism is the enzymatic degradation of detritus into simpler substances.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q13",
+      "chapterId": "bio_ch12",
+      "question": "Which of the following is true about humus?",
+      "options": [
+        "It is light colored",
+        "It is decomposed very quickly",
+        "It serves as a reservoir of nutrients",
+        "It is crystalline in nature"
+      ],
+      "correctIndex": 2,
+      "explanation": "Humus is a dark colored, amorphous substance that is highly resistant to microbial action and serves as a nutrient reservoir.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q14",
+      "chapterId": "bio_ch12",
+      "question": "Decomposition rate is slower if detritus is rich in:",
+      "options": [
+        "Nitrogen",
+        "Lignin and chitin",
+        "Water-soluble substances",
+        "Sugars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Decomposition is slower if detritus is rich in lignin and chitin, and quicker if rich in nitrogen and sugars.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q15",
+      "chapterId": "bio_ch12",
+      "question": "Which climatic factors favor decomposition?",
+      "options": [
+        "Low temperature and anaerobiosis",
+        "Warm and moist environment",
+        "Dry and cold environment",
+        "High temperature and low oxygen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Warm and moist environments favor decomposition, while low temperature and anaerobiosis inhibit it.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q16",
+      "chapterId": "bio_ch12",
+      "question": "Of the incident solar radiation, what percentage is Photosynthetically Active Radiation (PAR)?",
+      "options": [
+        "100%",
+        "Above 50%",
+        "Less than 50%",
+        "1-5%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Of the total incident solar radiation, less than 50 per cent of it is PAR.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q17",
+      "chapterId": "bio_ch12",
+      "question": "Plants capture only ________ percent of the PAR.",
+      "options": [
+        "1-5%",
+        "2-10%",
+        "50%",
+        "100%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plants capture only 2-10 per cent of the Photosynthetically Active Radiation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q18",
+      "chapterId": "bio_ch12",
+      "question": "In a grazing food chain (GFC), the primary producers occupy which trophic level?",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correctIndex": 0,
+      "explanation": "Producers (plants) occupy the first trophic level in a grazing food chain.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q19",
+      "chapterId": "bio_ch12",
+      "question": "The Detritus Food Chain (DFC) begins with:",
+      "options": [
+        "Green plants",
+        "Dead organic matter",
+        "Herbivores",
+        "Solar energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The DFC begins with dead organic matter and is made up of decomposers.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q20",
+      "chapterId": "bio_ch12",
+      "question": "Decomposers are also known as ________ because they meet their energy needs by degrading dead matter.",
+      "options": [
+        "Autotrophs",
+        "Saprotrophs",
+        "Heterotrophs only",
+        "Phytoplankton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fungi and bacteria are saprotrophs because they decompose dead organic matter for nutrition.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q21",
+      "chapterId": "bio_ch12",
+      "question": "In a terrestrial ecosystem, a much larger fraction of energy flows through the ________ than the ________.",
+      "options": [
+        "GFC; DFC",
+        "DFC; GFC",
+        "Sun; Plants",
+        "Consumers; Decomposers"
+      ],
+      "correctIndex": 1,
+      "explanation": "In terrestrial ecosystems, more energy flows through the Detritus Food Chain compared to the Grazing Food Chain.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q22",
+      "chapterId": "bio_ch12",
+      "question": "According to the 10 percent law, if 1000 J of energy is available at the producer level, how much is available at the secondary consumer level?",
+      "options": [
+        "100 J",
+        "10 J",
+        "1 J",
+        "0.1 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "1000 -> 100 (Primary Consumer) -> 10 (Secondary Consumer). Only 10% of energy is transferred to each higher trophic level.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q23",
+      "chapterId": "bio_ch12",
+      "question": "The mass of living material at a particular time in each trophic level is called:",
+      "options": [
+        "Standing state",
+        "Standing crop",
+        "Net production",
+        "Biomass only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each trophic level has a certain mass of living material at a particular time called the standing crop.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q24",
+      "chapterId": "bio_ch12",
+      "question": "Which of the following ecological pyramids is ALWAYS upright?",
+      "options": [
+        "Pyramid of number",
+        "Pyramid of biomass",
+        "Pyramid of energy",
+        "All are always upright"
+      ],
+      "correctIndex": 2,
+      "explanation": "The pyramid of energy is always upright and can never be inverted because energy is lost as heat at each transfer.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q25",
+      "chapterId": "bio_ch12",
+      "question": "An inverted pyramid of biomass can be found in:",
+      "options": [
+        "Forests",
+        "Grasslands",
+        "Sea (aquatic ecosystems)",
+        "Deserts"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the sea, the pyramid of biomass is often inverted because the biomass of fishes far exceeds that of phytoplankton.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q26",
+      "chapterId": "bio_ch12",
+      "question": "The gradual and fairly predictable change in the species composition of a given area is called:",
+      "options": [
+        "Evolution",
+        "Ecological succession",
+        "Stratification",
+        "Homeostasis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ecological succession is the process of change in species composition over time in a given area.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q27",
+      "chapterId": "bio_ch12",
+      "question": "The community that is in near equilibrium with the environment is called:",
+      "options": [
+        "Pioneer community",
+        "Seral community",
+        "Climax community",
+        "Sere"
+      ],
+      "correctIndex": 2,
+      "explanation": "A climax community is the stable, final stage of succession that is in equilibrium with the environment.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q28",
+      "chapterId": "bio_ch12",
+      "question": "Primary succession would occur in which of the following areas?",
+      "options": [
+        "Abandoned farm lands",
+        "Burnt forests",
+        "Newly cooled lava",
+        "Flooded lands"
+      ],
+      "correctIndex": 2,
+      "explanation": "Primary succession starts in areas where no living organisms ever existed, such as bare rock or newly cooled lava.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q29",
+      "chapterId": "bio_ch12",
+      "question": "Secondary succession is faster than primary succession because:",
+      "options": [
+        "Soil is already present",
+        "Water is abundant",
+        "Pioneer species are large trees",
+        "Climax is reached instantly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since some soil or sediment is already present, secondary succession is much faster than primary succession.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q30",
+      "chapterId": "bio_ch12",
+      "question": "Succession taking place in wetter areas is called ________ and in dry areas is called ________.",
+      "options": [
+        "Xerarch; Hydrarch",
+        "Hydrarch; Xerarch",
+        "Primary; Secondary",
+        "Seral; Pioneer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hydrarch succession occurs in water bodies; Xerarch occurs in dry areas. Both lead to mesic conditions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q31",
+      "chapterId": "bio_ch12",
+      "question": "The species that invade a bare area are called:",
+      "options": [
+        "Climax species",
+        "Seral species",
+        "Pioneer species",
+        "Link species"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pioneer species are the first to colonize a bare area during succession.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q32",
+      "chapterId": "bio_ch12",
+      "question": "In primary succession on rocks, the pioneer species are usually:",
+      "options": [
+        "Mosses",
+        "Lichens",
+        "Grasses",
+        "Ferns"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lichens are typically the pioneer species on bare rocks because they can secrete acids to dissolve rock.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q33",
+      "chapterId": "bio_ch12",
+      "question": "The amount of nutrients present in the soil at any given time is called:",
+      "options": [
+        "Standing crop",
+        "Standing state",
+        "Humification",
+        "Nutrient cycle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standing state refers to the amount of nutrients like nitrogen, phosphorus, etc., in the soil at a given time.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q34",
+      "chapterId": "bio_ch12",
+      "question": "Which of the following is a sedimentary nutrient cycle?",
+      "options": [
+        "Carbon cycle",
+        "Nitrogen cycle",
+        "Phosphorus cycle",
+        "Oxygen cycle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phosphorus and sulfur cycles are sedimentary, meaning their reservoir is in the Earth's crust.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q35",
+      "chapterId": "bio_ch12",
+      "question": "What percentage of the total global carbon is found dissolved in oceans?",
+      "options": [
+        "1%",
+        "20%",
+        "49%",
+        "71%"
+      ],
+      "correctIndex": 3,
+      "explanation": "71 per cent of carbon is found dissolved in oceans; this oceanic reservoir regulates the amount of CO2 in the atmosphere.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q36",
+      "chapterId": "bio_ch12",
+      "question": "Approximately how much carbon is fixed annually in the biosphere through photosynthesis?",
+      "options": [
+        "4 x 10¹³ kg",
+        "170 billion tons",
+        "71%",
+        "10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to estimates, 4 x 10¹³ kg of carbon is fixed annually via photosynthesis.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q37",
+      "chapterId": "bio_ch12",
+      "question": "The natural reservoir of phosphorus is:",
+      "options": [
+        "Atmosphere",
+        "Oceans",
+        "Rocks",
+        "Animal bones"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rocks are the natural reservoir of phosphorus, which contains phosphorus in the form of phosphates.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q38",
+      "chapterId": "bio_ch12",
+      "question": "A major difference between carbon and phosphorus cycles is that:",
+      "options": [
+        "Phosphorus cycle has a gaseous phase",
+        "Carbon cycle is sedimentary",
+        "Atmospheric inputs of phosphorus through rainfall are much smaller",
+        "Plants don't need phosphorus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gaseous exchanges of phosphorus between organisms and the environment are negligible compared to carbon.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q39",
+      "chapterId": "bio_ch12",
+      "question": "Products of ecosystem processes are called:",
+      "options": [
+        "Productivity",
+        "Ecosystem services",
+        "Succession",
+        "Trophic levels"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ecosystem services are the products of ecosystem processes, such as clean air and water.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q40",
+      "chapterId": "bio_ch12",
+      "question": "Robert Costanza and his colleagues estimated the price tag of fundamental ecosystem services at an average of:",
+      "options": [
+        "US $18 trillion",
+        "US $33 trillion",
+        "US $127 trillion",
+        "US $55 billion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Researchers put a price tag of US $33 trillion a year on global ecosystem services.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q41",
+      "chapterId": "bio_ch12",
+      "question": "Out of the total cost of various ecosystem services, soil formation accounts for about:",
+      "options": [
+        "6%",
+        "10%",
+        "50%",
+        "71%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Soil formation accounts for nearly 50 per cent of the total cost of ecosystem services.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q42",
+      "chapterId": "bio_ch12",
+      "question": "In a pond ecosystem, which organisms act as decomposers?",
+      "options": [
+        "Phytoplankton",
+        "Fungi, bacteria and flagellates",
+        "Zooplankton",
+        "Small fish"
+      ],
+      "correctIndex": 1,
+      "explanation": "The decomposers in a pond are the fungi, bacteria, and flagellates especially abundant at the bottom.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q43",
+      "chapterId": "bio_ch12",
+      "question": "Primary productivity depends on:",
+      "options": [
+        "Plant species inhabiting the area",
+        "Availability of nutrients",
+        "Photosynthetic capacity of plants",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Primary productivity is limited by environmental factors, nutrient availability, and the nature of the plant species.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q44",
+      "chapterId": "bio_ch12",
+      "question": "Herbivores are also known as ________ because they eat producers.",
+      "options": [
+        "Primary Producers",
+        "Primary Consumers",
+        "Secondary Consumers",
+        "Tertiary Consumers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Herbivores are primary consumers because they feed directly on producers (plants).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q45",
+      "chapterId": "bio_ch12",
+      "question": "Which of the following is an example of a gaseous nutrient cycle?",
+      "options": [
+        "Phosphorus",
+        "Nitrogen",
+        "Calcium",
+        "Magnesium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nitrogen and carbon cycles are gaseous cycles with reservoirs in the atmosphere or hydrosphere.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q46",
+      "chapterId": "bio_ch12",
+      "question": "During succession, the entire sequence of communities that successively change in a given area are called:",
+      "options": [
+        "Pioneers",
+        "Sere",
+        "Climax",
+        "Stratification"
+      ],
+      "correctIndex": 1,
+      "explanation": "A sere is the entire sequence of communities that change during succession.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q47",
+      "chapterId": "bio_ch12",
+      "question": "In the phosphorus cycle, phosphorus is released from rocks by:",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Weathering",
+        "Burning fossil fuels"
+      ],
+      "correctIndex": 2,
+      "explanation": "Weathering of rocks releases minute amounts of phosphates into the soil solution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q48",
+      "chapterId": "bio_ch12",
+      "question": "Which of the following is NOT a limitation of ecological pyramids?",
+      "options": [
+        "It does not take into account the same species belonging to two or more trophic levels",
+        "It assumes a simple food chain",
+        "It does not accommodate a food web",
+        "It only shows energy flow in aquatic systems"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pyramids have limitations regarding species roles and food webs, but they are not restricted to aquatic systems.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q49",
+      "chapterId": "bio_ch12",
+      "question": "The reservoir for the gaseous type of nutrient cycle exists in the:",
+      "options": [
+        "Earth's crust",
+        "Atmosphere",
+        "Rocks",
+        "Soil only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reservoir for gaseous cycles is the atmosphere, whereas for sedimentary cycles, it is the Earth's crust.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch12_q50",
+      "chapterId": "bio_ch12",
+      "question": "Secondary succession occurs in:",
+      "options": [
+        "Bare rocks",
+        "Newly created ponds",
+        "Abandoned farm lands",
+        "Newly cooled lava"
+      ],
+      "correctIndex": 2,
+      "explanation": "Secondary succession occurs in areas where natural biotic communities have been destroyed, like abandoned farmlands.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    }
+  ]
+}

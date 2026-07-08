@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch8_q1",
+      "chapterId": "chem_ch8",
+      "question": "Which of the following is the most common sugar used in our homes?",
+      "options": [
+        "Glucose",
+        "Sucrose",
+        "Lactose",
+        "Maltose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sucrose is the common sugar used in homes, primarily produced from cane or sugar beets.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q2",
+      "chapterId": "chem_ch8",
+      "question": "The general formula for most carbohydrates is:",
+      "options": [
+        "Cx(H2O)y",
+        "CnH2nOn",
+        "CH2O",
+        "C6H12O6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Most carbohydrates conform to the general formula Cx(H2O)y, traditionally being viewed as hydrates of carbon.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q3",
+      "chapterId": "chem_ch8",
+      "question": "Which of the following is a non-reducing sugar?",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Sucrose",
+        "Maltose"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sucrose is a non-reducing sugar because the reducing groups of glucose and fructose are involved in glycosidic bond formation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q4",
+      "chapterId": "chem_ch8",
+      "question": "Carbohydrates that cannot be hydrolyzed further into simpler units are called:",
+      "options": [
+        "Disaccharides",
+        "Oligosaccharides",
+        "Monosaccharides",
+        "Polysaccharides"
+      ],
+      "correctIndex": 2,
+      "explanation": "Monosaccharides are the simplest units of carbohydrates and cannot be hydrolyzed further.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q5",
+      "chapterId": "chem_ch8",
+      "question": "What happens when glucose is treated with HI (Hydrogen Iodide) for a long time?",
+      "options": [
+        "Forms Gluconic acid",
+        "Forms n-Hexane",
+        "Forms Saccharic acid",
+        "Forms Glucose cyanohydrin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heating glucose with HI results in n-hexane, proving that all six carbon atoms are linked in a straight chain.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q6",
+      "chapterId": "chem_ch8",
+      "question": "Glucose reacts with hydroxylamine (NH2OH) to form an:",
+      "options": [
+        "Oxime",
+        "Cyanohydrin",
+        "Osazone",
+        "Acid"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reaction of glucose with hydroxylamine to form an oxime confirms the presence of a carbonyl group.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q7",
+      "chapterId": "chem_ch8",
+      "question": "Which reagent is used to oxidize glucose specifically to gluconic acid?",
+      "options": [
+        "Nitric acid",
+        "Bromine water",
+        "Tollen's reagent",
+        "Fehling's solution"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bromine water is a mild oxidizing agent that converts glucose to gluconic acid.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q8",
+      "chapterId": "chem_ch8",
+      "question": "The two cyclic forms of glucose (α and β) which differ only in the configuration of hydroxyl group at C1 are called:",
+      "options": [
+        "Enantiomers",
+        "Epimers",
+        "Anomers",
+        "Diastereomers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anomers are isomers that differ only at the glycosidic carbon (C1 for glucose).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q9",
+      "chapterId": "chem_ch8",
+      "question": "Which of the following is the main storage polysaccharide in plants?",
+      "options": [
+        "Cellulose",
+        "Glycogen",
+        "Starch",
+        "Amylopectin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Starch is the primary storage polysaccharide of plants.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q10",
+      "chapterId": "chem_ch8",
+      "question": "The water-soluble component of starch is:",
+      "options": [
+        "Amylopectin",
+        "Amylose",
+        "Cellulose",
+        "Glycogen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amylose is the water-soluble component of starch, constituting about 15-20%.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q11",
+      "chapterId": "chem_ch8",
+      "question": "The linkage that joins monosaccharide units in a polysaccharide is called:",
+      "options": [
+        "Peptide linkage",
+        "Glycosidic linkage",
+        "Phosphodiester linkage",
+        "Hydrogen bond"
+      ],
+      "correctIndex": 1,
+      "explanation": "Monosaccharides are linked by glycosidic bonds involving an oxygen atom.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q12",
+      "chapterId": "chem_ch8",
+      "question": "In animals, carbohydrates are stored in the liver and muscles as:",
+      "options": [
+        "Starch",
+        "Cellulose",
+        "Glycogen",
+        "Sucrose"
+      ],
+      "correctIndex": 2,
+      "explanation": "Glycogen, also known as animal starch, is the storage form of glucose in animals.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q13",
+      "chapterId": "chem_ch8",
+      "question": "Amino acids that cannot be synthesized in the body and must be obtained through diet are called:",
+      "options": [
+        "Non-essential amino acids",
+        "Essential amino acids",
+        "Acidic amino acids",
+        "Basic amino acids"
+      ],
+      "correctIndex": 1,
+      "explanation": "Essential amino acids must be supplied by the diet because the body cannot make them.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q14",
+      "chapterId": "chem_ch8",
+      "question": "In aqueous solution, amino acids exist as dipolar ions known as:",
+      "options": [
+        "Anions",
+        "Cations",
+        "Zwitterions",
+        "Radicals"
+      ],
+      "correctIndex": 2,
+      "explanation": "A zwitterion is an internal salt formed by the transfer of a proton from the carboxyl group to the amino group.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q15",
+      "chapterId": "chem_ch8",
+      "question": "The secondary structure of proteins, such as the α-helix, is stabilized by:",
+      "options": [
+        "Covalent bonds",
+        "Ionic bonds",
+        "Intramolecular hydrogen bonds",
+        "Intermolecular hydrogen bonds"
+      ],
+      "correctIndex": 2,
+      "explanation": "The α-helix is stabilized by hydrogen bonds between the -NH and -CO groups of the peptide chain.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q16",
+      "chapterId": "chem_ch8",
+      "question": "Loss of biological activity of a protein due to change in pH or temperature is called:",
+      "options": [
+        "Polymerization",
+        "Denaturation",
+        "Hydration",
+        "Condensation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Denaturation disrupts the secondary and tertiary structures of proteins, leading to loss of function.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q17",
+      "chapterId": "chem_ch8",
+      "question": "Which of the following is NOT a nitrogenous base found in DNA?",
+      "options": [
+        "Adenine",
+        "Guanine",
+        "Cytosine",
+        "Uracil"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uracil is found only in RNA; DNA contains Thymine instead.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q18",
+      "chapterId": "chem_ch8",
+      "question": "A nucleoside contains:",
+      "options": [
+        "Sugar + Base",
+        "Sugar + Phosphate",
+        "Base + Phosphate",
+        "Sugar + Base + Phosphate"
+      ],
+      "correctIndex": 0,
+      "explanation": "A nucleoside is formed when a base is attached to the 1' position of a sugar.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q19",
+      "chapterId": "chem_ch8",
+      "question": "In DNA, the base Cytosine forms hydrogen bonds with:",
+      "options": [
+        "Adenine",
+        "Guanine",
+        "Thymine",
+        "Uracil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cytosine always pairs with Guanine via three hydrogen bonds.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q20",
+      "chapterId": "chem_ch8",
+      "question": "Vitamin C is also known as:",
+      "options": [
+        "Retinol",
+        "Thiamine",
+        "Ascorbic acid",
+        "Riboflavin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vitamin C is ascorbic acid.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q21",
+      "chapterId": "chem_ch8",
+      "question": "Which vitamin is responsible for the coagulation of blood?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin E",
+        "Vitamin K"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vitamin K is essential for blood clotting.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q22",
+      "chapterId": "chem_ch8",
+      "question": "Which of the following is a fat-soluble vitamin?",
+      "options": [
+        "Vitamin C",
+        "Vitamin B1",
+        "Vitamin A",
+        "Vitamin B12"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vitamins A, D, E, and K are fat-soluble.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q23",
+      "chapterId": "chem_ch8",
+      "question": "The deficiency of Vitamin D causes:",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Beri-beri",
+        "Night blindness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vitamin D deficiency leads to rickets and osteomalacia.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q24",
+      "chapterId": "chem_ch8",
+      "question": "Biocatalysts that speed up chemical reactions in the body are called:",
+      "options": [
+        "Hormones",
+        "Vitamins",
+        "Enzymes",
+        "Carbohydrates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Enzymes are proteinaceous biocatalysts.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q25",
+      "chapterId": "chem_ch8",
+      "question": "Nucleic acids are polymers of:",
+      "options": [
+        "Amino acids",
+        "Nucleosides",
+        "Nucleotides",
+        "Glucose units"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nucleic acids (DNA/RNA) are long-chain polymers of nucleotides.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q26",
+      "chapterId": "chem_ch8",
+      "question": "Which of the following is the sugar component in RNA?",
+      "options": [
+        "2-deoxyribose",
+        "Ribose",
+        "Glucose",
+        "Fructose"
+      ],
+      "correctIndex": 1,
+      "explanation": "RNA contains β-D-ribose, while DNA contains β-D-2-deoxyribose.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q27",
+      "chapterId": "chem_ch8",
+      "question": "Sucrose on hydrolysis gives:",
+      "options": [
+        "Glucose + Glucose",
+        "Glucose + Fructose",
+        "Glucose + Galactose",
+        "Fructose + Fructose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sucrose yields equimolar amounts of D-(+)-glucose and D-(-)-fructose.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q28",
+      "chapterId": "chem_ch8",
+      "question": "The specific sequence of amino acids in a protein is called its:",
+      "options": [
+        "Primary structure",
+        "Secondary structure",
+        "Tertiary structure",
+        "Quaternary structure"
+      ],
+      "correctIndex": 0,
+      "explanation": "The primary structure refers to the linear sequence of amino acids.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q29",
+      "chapterId": "chem_ch8",
+      "question": "Which of the following base pairings is correct for DNA?",
+      "options": [
+        "A-G",
+        "C-T",
+        "A-T",
+        "U-G"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adenine (A) always pairs with Thymine (T) in DNA.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q30",
+      "chapterId": "chem_ch8",
+      "question": "The sugar present in milk is:",
+      "options": [
+        "Maltose",
+        "Lactose",
+        "Sucrose",
+        "Glucose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lactose is commonly known as milk sugar.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q31",
+      "chapterId": "chem_ch8",
+      "question": "Amylopectin is an ________ polymer of α-D-glucose.",
+      "options": [
+        "Unbranched",
+        "Branched",
+        "Insoluble",
+        "Both branched and insoluble"
+      ],
+      "correctIndex": 3,
+      "explanation": "Amylopectin is water insoluble and has a highly branched structure.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q32",
+      "chapterId": "chem_ch8",
+      "question": "Cellulose is a linear polymer of:",
+      "options": [
+        "α-D-glucose",
+        "β-D-glucose",
+        "α-D-fructose",
+        "β-D-fructose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cellulose is composed only of β-D-glucose units joined by C1-C4 glycosidic linkages.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q33",
+      "chapterId": "chem_ch8",
+      "question": "Which amino acid is NOT optically active?",
+      "options": [
+        "Alanine",
+        "Valine",
+        "Glycine",
+        "Leucine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Glycine is the only α-amino acid that is not optically active because it lacks a chiral center.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q34",
+      "chapterId": "chem_ch8",
+      "question": "Proteins that are soluble in water and have a spherical shape are:",
+      "options": [
+        "Fibrous proteins",
+        "Globular proteins",
+        "Structural proteins",
+        "Denatured proteins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Globular proteins result when chains of polypeptides coil around to give a spherical shape.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q35",
+      "chapterId": "chem_ch8",
+      "question": "What kind of linkage holds the secondary structure called β-pleated sheet together?",
+      "options": [
+        "Disulfide bridges",
+        "Intermolecular hydrogen bonding",
+        "Intramolecular hydrogen bonding",
+        "Ionic attractions"
+      ],
+      "correctIndex": 1,
+      "explanation": "In β-pleated sheets, peptide chains lie side by side and are held by intermolecular hydrogen bonds.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q36",
+      "chapterId": "chem_ch8",
+      "question": "Which of the following vitamins is water-soluble?",
+      "options": [
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin B complex",
+        "Vitamin K"
+      ],
+      "correctIndex": 2,
+      "explanation": "B group vitamins and Vitamin C are water-soluble.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q37",
+      "chapterId": "chem_ch8",
+      "question": "Deficiency of Vitamin B1 leads to:",
+      "options": [
+        "Scurvy",
+        "Pellagra",
+        "Beri-beri",
+        "Anemia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lack of Thiamine (Vitamin B1) causes Beri-beri.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q38",
+      "chapterId": "chem_ch8",
+      "question": "The structural unit of a nucleotide consists of a phosphate group attached to the sugar at position:",
+      "options": [
+        "1'",
+        "2'",
+        "3'",
+        "5'"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a nucleotide, the phosphate group is attached to the C5' hydroxyl group of the sugar.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q39",
+      "chapterId": "chem_ch8",
+      "question": "The sugar-phosphate backbone of DNA is held together by ________ linkages.",
+      "options": [
+        "1,4-glycosidic",
+        "Peptide",
+        "Phosphodiester",
+        "Hydrogen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nucleotides are joined together by phosphodiester linkages between 5' and 3' carbon atoms.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q40",
+      "chapterId": "chem_ch8",
+      "question": "Xerophthalmia is caused by the deficiency of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin B2",
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "correctIndex": 0,
+      "explanation": "Deficiency of Vitamin A (Retinol) causes Xerophthalmia (hardening of cornea).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q41",
+      "chapterId": "chem_ch8",
+      "question": "Which sugar is produced by the hydrolysis of maltose?",
+      "options": [
+        "Glucose only",
+        "Glucose and Fructose",
+        "Glucose and Galactose",
+        "Fructose only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maltose is composed of two α-D-glucose units.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q42",
+      "chapterId": "chem_ch8",
+      "question": "Pernicious anemia is caused by the deficiency of:",
+      "options": [
+        "Vitamin B1",
+        "Vitamin B6",
+        "Vitamin B12",
+        "Vitamin C"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vitamin B12 deficiency leads to pernicious anemia (RBC deficiency in hemoglobin).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q43",
+      "chapterId": "chem_ch8",
+      "question": "Which of the following reactions proves the presence of five -OH groups in glucose?",
+      "options": [
+        "Reaction with HI",
+        "Reaction with acetic anhydride",
+        "Reaction with HNO3",
+        "Reaction with NH2OH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acetylation of glucose with acetic anhydride yields a pentaacetate, confirming 5 -OH groups.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q44",
+      "chapterId": "chem_ch8",
+      "question": "Keratin is an example of which type of protein?",
+      "options": [
+        "Globular protein",
+        "Fibrous protein",
+        "Enzyme",
+        "Hormone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keratin (found in hair, wool, silk) is a fibrous protein where polypeptide chains run parallel.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q45",
+      "chapterId": "chem_ch8",
+      "question": "Insulin is an example of which type of protein?",
+      "options": [
+        "Fibrous",
+        "Globular",
+        "Enzyme",
+        "Polysaccharide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insulin is a globular protein.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q46",
+      "chapterId": "chem_ch8",
+      "question": "The primary function of mRNA is:",
+      "options": [
+        "Storage of genetic information",
+        "Directing protein synthesis",
+        "Transporting amino acids",
+        "Structural support"
+      ],
+      "correctIndex": 1,
+      "explanation": "RNA molecules (mRNA) are primarily responsible for the synthesis of proteins.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q47",
+      "chapterId": "chem_ch8",
+      "question": "Scurvy is caused by the deficiency of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctIndex": 2,
+      "explanation": "Deficiency of Vitamin C leads to bleeding gums and scurvy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q48",
+      "chapterId": "chem_ch8",
+      "question": "In the DNA double helix, the two strands are:",
+      "options": [
+        "Identical",
+        "Complementary",
+        "Unrelated",
+        "Single-stranded"
+      ],
+      "correctIndex": 1,
+      "explanation": "The two strands of DNA are complementary due to specific base pairing (A-T, G-C).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q49",
+      "chapterId": "chem_ch8",
+      "question": "Which base is present in RNA but NOT in DNA?",
+      "options": [
+        "Adenine",
+        "Guanine",
+        "Cytosine",
+        "Uracil"
+      ],
+      "correctIndex": 3,
+      "explanation": "RNA contains Uracil instead of Thymine.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch8_q50",
+      "chapterId": "chem_ch8",
+      "question": "The reaction of glucose with Tollen's reagent or Fehling's solution indicates the presence of which group?",
+      "options": [
+        "Ketone",
+        "Aldehyde",
+        "Alcohol",
+        "Ether"
+      ],
+      "correctIndex": 1,
+      "explanation": "These reagents oxidize the aldehyde group of glucose, confirming its presence.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    }
+  ]
+}

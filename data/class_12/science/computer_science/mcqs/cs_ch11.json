@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "c12cs_ch11_q01",
+      "chapterId": "c12_cs_ch11",
+      "question": "What does the term 'Data Communication' primarily refer to?",
+      "options": [
+        "Printing data on paper",
+        "Exchange of data between two or more networked devices",
+        "Storing data on a hard drive",
+        "Creating data using programming languages"
+      ],
+      "correctIndex": 1,
+      "explanation": "Data communication refers to the exchange of data between two or more networked or connected devices.",
+      "ncertPage": 201,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q02",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which component of data communication is the information to be communicated?",
+      "options": [
+        "Sender",
+        "Receiver",
+        "Message",
+        "Protocol"
+      ],
+      "correctIndex": 2,
+      "explanation": "Message is the information to be communicated. It may include text, number, images, audio, or video.",
+      "ncertPage": 202,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q03",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which device is responsible for sending the data message?",
+      "options": [
+        "Receiver",
+        "Sender",
+        "Medium",
+        "Switch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sender is a device that sends the data message.",
+      "ncertPage": 202,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q04",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the physical path over which a message travels from sender to receiver called?",
+      "options": [
+        "Protocol",
+        "Communication Channel",
+        "Message Path",
+        "Network Route"
+      ],
+      "correctIndex": 1,
+      "explanation": "The communication channel is the physical path (wired or wireless) through which the message travels from sender to receiver.",
+      "ncertPage": 202,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q05",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the set of rules that governs data communication called?",
+      "options": [
+        "Standard",
+        "Protocol",
+        "Network Law",
+        "Message Guide"
+      ],
+      "correctIndex": 1,
+      "explanation": "A protocol is a set of rules that governs data communication.",
+      "ncertPage": 202,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q06",
+      "chapterId": "c12_cs_ch11",
+      "question": "In data communication, the 'Receiver' is the device that:",
+      "options": [
+        "Initiates the communication",
+        "Receives the data message",
+        "Defines the protocols",
+        "Carries the signal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Receiver is the device that receives the data message.",
+      "ncertPage": 202,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q07",
+      "chapterId": "c12_cs_ch11",
+      "question": "What does 'Bandwidth' represent in data communication?",
+      "options": [
+        "The physical length of the cable",
+        "The maximum amount of data that can be sent over a channel in a given unit of time",
+        "The number of devices connected to a network",
+        "The speed of the sender's processor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bandwidth is the maximum amount of data that can be sent over a specific communication channel in a given unit of time.",
+      "ncertPage": 203,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q08",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the unit of bandwidth in digital systems?",
+      "options": [
+        "Hertz",
+        "Bytes",
+        "Bits per second (bps)",
+        "Watts"
+      ],
+      "correctIndex": 2,
+      "explanation": "In digital systems, bandwidth is measured in bits per second (bps).",
+      "ncertPage": 203,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q09",
+      "chapterId": "c12_cs_ch11",
+      "question": "How many bits per second is 1 Mbps equal to?",
+      "options": [
+        "1,000 bps",
+        "1,024 bps",
+        "1,000,000 bps",
+        "1,048,576 bps"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 Mbps is equal to 1,000,000 bits per second (10^6 bps).",
+      "ncertPage": 203,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q10",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the actual speed at which data is transferred over a communication channel called?",
+      "options": [
+        "Bandwidth",
+        "Data Transfer Rate",
+        "Frequency",
+        "Throughput"
+      ],
+      "correctIndex": 1,
+      "explanation": "Data transfer rate is the actual speed of data transfer over a communication channel.",
+      "ncertPage": 203,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q11",
+      "chapterId": "c12_cs_ch11",
+      "question": "In which communication mode is data travel unidirectional?",
+      "options": [
+        "Simplex",
+        "Half-duplex",
+        "Full-duplex",
+        "Asynchronous"
+      ],
+      "correctIndex": 0,
+      "explanation": "In simplex mode, the communication is unidirectional.",
+      "ncertPage": 204,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q12",
+      "chapterId": "c12_cs_ch11",
+      "question": "A keyboard or a traditional television broadcast is an example of which communication mode?",
+      "options": [
+        "Full-duplex",
+        "Half-duplex",
+        "Simplex",
+        "Parallel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keyboard and traditional monitors/TVs are examples of simplex devices.",
+      "ncertPage": 204,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q13",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which communication mode allows data flow in both directions, but only one direction at a time?",
+      "options": [
+        "Simplex",
+        "Full-duplex",
+        "Half-duplex",
+        "Serial"
+      ],
+      "correctIndex": 2,
+      "explanation": "In half-duplex mode, each station can both transmit and receive, but not at the same time.",
+      "ncertPage": 204,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q14",
+      "chapterId": "c12_cs_ch11",
+      "question": "A Walkie-Talkie is a common example of which communication mode?",
+      "options": [
+        "Simplex",
+        "Half-duplex",
+        "Full-duplex",
+        "Broadcasting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Walkie-talkie is an example of a half-duplex device.",
+      "ncertPage": 204,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q15",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which communication mode allows simultaneous data flow in both directions?",
+      "options": [
+        "Simplex",
+        "Half-duplex",
+        "Full-duplex",
+        "Birectional-sequential"
+      ],
+      "correctIndex": 2,
+      "explanation": "In full-duplex mode, both stations can transmit and receive simultaneously.",
+      "ncertPage": 205,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q16",
+      "chapterId": "c12_cs_ch11",
+      "question": "A mobile phone conversation is an example of which communication mode?",
+      "options": [
+        "Full-duplex",
+        "Half-duplex",
+        "Simplex",
+        "Multicast"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mobile phones are examples of full-duplex devices.",
+      "ncertPage": 205,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q17",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which switching technique establishes a dedicated path between two nodes for the entire duration of the communication?",
+      "options": [
+        "Packet Switching",
+        "Message Switching",
+        "Circuit Switching",
+        "Line Switching"
+      ],
+      "correctIndex": 2,
+      "explanation": "In circuit switching, a dedicated path is established between the sender and the receiver.",
+      "ncertPage": 206,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q18",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the main drawback of circuit switching?",
+      "options": [
+        "Data is often lost",
+        "Inefficient use of channel capacity because the path is reserved even when no data is being sent",
+        "It is very slow for voice calls",
+        "It cannot handle analog signals"
+      ],
+      "correctIndex": 1,
+      "explanation": "The main drawback is that the channel is reserved even when no data is being sent, leading to inefficiency.",
+      "ncertPage": 206,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q19",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which switching technique divides data into small blocks with headers containing source and destination addresses?",
+      "options": [
+        "Circuit Switching",
+        "Packet Switching",
+        "Block Switching",
+        "Header Switching"
+      ],
+      "correctIndex": 1,
+      "explanation": "In packet switching, the message is divided into small blocks called packets, each with a header for routing.",
+      "ncertPage": 206,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q20",
+      "chapterId": "c12_cs_ch11",
+      "question": "What happens if a packet arrives at an intermediate node and the outgoing link is busy in packet switching?",
+      "options": [
+        "The packet is deleted",
+        "The node waits and stores the packet until the link is free",
+        "The packet is sent back to the sender",
+        "The packet is rerouted to a random node"
+      ],
+      "correctIndex": 1,
+      "explanation": "If the outgoing link is busy, the node stores the packet in a queue and waits until the link is free (Store and Forward).",
+      "ncertPage": 207,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q21",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which of the following is NOT a type of wired (guided) transmission media?",
+      "options": [
+        "Twisted Pair Cable",
+        "Coaxial Cable",
+        "Optical Fiber",
+        "Infrared"
+      ],
+      "correctIndex": 3,
+      "explanation": "Infrared is a wireless (unguided) transmission medium.",
+      "ncertPage": 208,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q22",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which cable consists of two copper wires twisted together to reduce electromagnetic interference?",
+      "options": [
+        "Coaxial Cable",
+        "Optical Fiber",
+        "Twisted Pair Cable",
+        "Ethernet Cable"
+      ],
+      "correctIndex": 2,
+      "explanation": "A twisted pair cable consists of two copper wires twisted together in a spiral to reduce interference.",
+      "ncertPage": 208,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q23",
+      "chapterId": "c12_cs_ch11",
+      "question": "What are the two types of twisted pair cables?",
+      "options": [
+        "Indoor and Outdoor",
+        "Shielded (STP) and Unshielded (UTP)",
+        "Single and Double",
+        "Copper and Aluminum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Twisted pair cables are classified into Unshielded Twisted Pair (UTP) and Shielded Twisted Pair (STP).",
+      "ncertPage": 208,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q24",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which type of cable is commonly used for cable TV and high-speed internet because of its ability to carry multiple channels?",
+      "options": [
+        "Twisted Pair",
+        "Coaxial Cable",
+        "Optical Fiber",
+        "Serial Cable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coaxial cable is widely used for cable TV and high-speed data communications.",
+      "ncertPage": 209,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q25",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which transmission medium carries data as pulses of light through glass or plastic strands?",
+      "options": [
+        "Coaxial Cable",
+        "Optical Fiber",
+        "Microwave",
+        "Radio waves"
+      ],
+      "correctIndex": 1,
+      "explanation": "Optical fiber carries data in the form of light pulses through glass or plastic fibers.",
+      "ncertPage": 209,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q26",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is a major advantage of optical fiber over copper cables?",
+      "options": [
+        "It is cheaper to install",
+        "It is unaffected by electromagnetic interference (EMI)",
+        "It is easier to bend and route",
+        "It requires no specialized equipment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Optical fiber is immune to electromagnetic interference because it transmits light, not electrical signals.",
+      "ncertPage": 210,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q27",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which wireless technology is used for short-distance data exchange between fixed and mobile devices using radio waves?",
+      "options": [
+        "Bluetooth",
+        "Wi-Fi",
+        "Microwave",
+        "Infrared"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bluetooth is used for short-distance communication between devices like mobile phones and laptops.",
+      "ncertPage": 211,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q28",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the range of frequency for radio waves?",
+      "options": [
+        "300 MHz to 300 GHz",
+        "3 KHz to 300 GHz",
+        "300 GHz to 400 THz",
+        "Above 400 THz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Radio waves have a frequency range from 3 KHz to 300 GHz.",
+      "ncertPage": 211,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q29",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which technology allows local area networking of devices using radio waves, typically used in homes and cafes?",
+      "options": [
+        "Bluetooth",
+        "Infrared",
+        "Wi-Fi",
+        "GPS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wi-Fi technology allows networking of devices through radio waves and is commonly used in hotspots.",
+      "ncertPage": 212,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q30",
+      "chapterId": "c12_cs_ch11",
+      "question": "What are high-frequency radio waves in the range of 300 MHz to 300 GHz called?",
+      "options": [
+        "Infrared",
+        "X-rays",
+        "Microwaves",
+        "Ultraviolet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Microwaves are radio waves with frequencies between 300 MHz and 300 GHz.",
+      "ncertPage": 212,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q31",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which wireless medium is commonly used in TV remote controls and has a very short range?",
+      "options": [
+        "Radio wave",
+        "Microwave",
+        "Infrared",
+        "Bluetooth"
+      ],
+      "correctIndex": 2,
+      "explanation": "Infrared communication is used over short distances, such as in TV remote controls.",
+      "ncertPage": 213,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q32",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which mobile telecommunication generation introduced broadband speeds for the first time?",
+      "options": [
+        "1G",
+        "2G",
+        "3G",
+        "4G"
+      ],
+      "correctIndex": 2,
+      "explanation": "3G technology introduced broadband speeds and enabled video calls and mobile internet.",
+      "ncertPage": 214,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q33",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the primary feature that distinguishes 4G (LTE) from 3G?",
+      "options": [
+        "It uses analog signals",
+        "It is only for voice calls",
+        "Higher data speeds and improved network capacity for high-definition streaming",
+        "It only works with satellites"
+      ],
+      "correctIndex": 2,
+      "explanation": "4G (LTE) provides significantly higher data speeds and better capacity for streaming and online gaming.",
+      "ncertPage": 214,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q34",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which mobile generation is expected to offer 'ultra-low latency' and support the Internet of Things (IoT)?",
+      "options": [
+        "3G",
+        "4G",
+        "5G",
+        "6G"
+      ],
+      "correctIndex": 2,
+      "explanation": "5G is expected to offer extremely high speeds, low latency, and massive connectivity for IoT.",
+      "ncertPage": 214,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q35",
+      "chapterId": "c12_cs_ch11",
+      "question": "What does HTTP stand for?",
+      "options": [
+        "High Text Transfer Protocol",
+        "Hypertext Transmission Path",
+        "Hypertext Transfer Protocol",
+        "Hyper Transfer Terminal Path"
+      ],
+      "correctIndex": 2,
+      "explanation": "HTTP stands for Hypertext Transfer Protocol.",
+      "ncertPage": 216,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q36",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which protocol is used to transfer files over the internet between a client and a server?",
+      "options": [
+        "HTTP",
+        "PPP",
+        "FTP",
+        "TCP"
+      ],
+      "correctIndex": 2,
+      "explanation": "FTP (File Transfer Protocol) is used for transferring files between devices over a network.",
+      "ncertPage": 217,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q37",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which protocol allows users to send and receive emails?",
+      "options": [
+        "FTP",
+        "SMTP",
+        "PPP",
+        "IP"
+      ],
+      "correctIndex": 1,
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending and receiving emails.",
+      "ncertPage": 217,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q38",
+      "chapterId": "c12_cs_ch11",
+      "question": "What does PPP stand for in networking?",
+      "options": [
+        "Packet Plus Protocol",
+        "Point-to-Point Protocol",
+        "Parallel Path Protocol",
+        "Primary Power Path"
+      ],
+      "correctIndex": 1,
+      "explanation": "PPP stands for Point-to-Point Protocol.",
+      "ncertPage": 217,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q39",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which protocol defines how two devices authenticate each other and establish a direct link to exchange data?",
+      "options": [
+        "TCP",
+        "IP",
+        "PPP",
+        "HTTP"
+      ],
+      "correctIndex": 2,
+      "explanation": "PPP defines how two devices authenticate and establish a link for data exchange.",
+      "ncertPage": 217,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q40",
+      "chapterId": "c12_cs_ch11",
+      "question": "What does TCP/IP stand for?",
+      "options": [
+        "Transfer Command Port/Internal Path",
+        "Transmission Control Protocol/Internet Protocol",
+        "Text Communication Port/Internet Path",
+        "Technical Control Point/Information Protocol"
+      ],
+      "correctIndex": 1,
+      "explanation": "TCP/IP stands for Transmission Control Protocol/Internet Protocol.",
+      "ncertPage": 218,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q41",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which part of TCP/IP is responsible for breaking data into packets and ensuring they are correctly reassembled at the destination?",
+      "options": [
+        "IP",
+        "TCP",
+        "HTTP",
+        "FTP"
+      ],
+      "correctIndex": 1,
+      "explanation": "TCP breaks the message into packets and reassembles them at the receiver end, checking for errors.",
+      "ncertPage": 218,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q42",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which part of TCP/IP handles the addressing and routing of packets through the network?",
+      "options": [
+        "TCP",
+        "IP",
+        "MAC",
+        "DNS"
+      ],
+      "correctIndex": 1,
+      "explanation": "IP is responsible for addressing and routing packets to the correct destination.",
+      "ncertPage": 218,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q43",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the system that translates human-readable domain names (like www.google.com) into IP addresses?",
+      "options": [
+        "TCP",
+        "URL",
+        "DNS",
+        "ISP"
+      ],
+      "correctIndex": 2,
+      "explanation": "DNS (Domain Name System) translates domain names into numerical IP addresses.",
+      "ncertPage": 219,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q44",
+      "chapterId": "c12_cs_ch11",
+      "question": "In the client-server model, what is the 'Client'?",
+      "options": [
+        "A high-performance computer providing services",
+        "A user or machine that requests a service from a server",
+        "The communication medium",
+        "The network administrator"
+      ],
+      "correctIndex": 1,
+      "explanation": "A client is a host or machine that requests a service by a server in the network.",
+      "ncertPage": 218,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q45",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the frequency range of Infrared waves?",
+      "options": [
+        "300 GHz to 400 THz",
+        "3 KHz to 300 GHz",
+        "Above 400 THz",
+        "300 MHz to 300 GHz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Infrared waves have frequencies from 300 GHz to 400 THz.",
+      "ncertPage": 213,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q46",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which cable consists of a solid wire core, a layer of insulation, a metallic braid, and a plastic cover?",
+      "options": [
+        "Optical Fiber",
+        "UTP cable",
+        "Coaxial Cable",
+        "Flat cable"
+      ],
+      "correctIndex": 2,
+      "explanation": "Coaxial cable has a central copper conductor, an insulating layer, a metallic shield (braid), and an outer jacket.",
+      "ncertPage": 209,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q47",
+      "chapterId": "c12_cs_ch11",
+      "question": "What is the main advantage of unguided (wireless) media over guided media?",
+      "options": [
+        "Lower cost",
+        "Faster speed",
+        "Mobility and flexibility for the user",
+        "No signal attenuation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wireless media provide the advantage of mobility and ease of installation in difficult terrains.",
+      "ncertPage": 210,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q48",
+      "chapterId": "c12_cs_ch11",
+      "question": "Which of the following is a unit of data transfer rate?",
+      "options": [
+        "Hertz",
+        "Baud",
+        "Kbps",
+        "Ohm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Data transfer rate is measured in bits per second (bps), Kbps, Mbps, etc.",
+      "ncertPage": 203,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q49",
+      "chapterId": "c12_cs_ch11",
+      "question": "In the TCP/IP suite, 'HTTP' is primarily used at which layer level functionality?",
+      "options": [
+        "Network interface layer",
+        "Application layer",
+        "Internet layer",
+        "Transport layer"
+      ],
+      "correctIndex": 1,
+      "explanation": "HTTP is an application-level protocol used by the web browser to access websites.",
+      "ncertPage": 216,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch11_q50",
+      "chapterId": "c12_cs_ch11",
+      "question": "Bluetooth technology is primarily intended for:",
+      "options": [
+        "Broadcasting TV signals",
+        "Connecting devices over a long range",
+        "Low-power, short-range wireless communication",
+        "Providing satellite internet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bluetooth is a short-distance wireless communication technology for mobile devices.",
+      "ncertPage": 211,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    }
+  ]
+}

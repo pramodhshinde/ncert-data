@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch3_q1",
+      "chapterId": "chem_ch3",
+      "question": "Which branch of chemistry deals with the study of reaction rates and their mechanisms?",
+      "options": [
+        "Thermodynamics",
+        "Chemical Kinetics",
+        "Electrochemistry",
+        "Analytical Chemistry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chemical kinetics is the branch of chemistry that deals with the speed or rate of chemical reactions and the factors affecting them.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q2",
+      "chapterId": "chem_ch3",
+      "question": "For a reaction R → P, the rate of reaction is expressed as:",
+      "options": [
+        "Δ[R] / Δt",
+        "- Δ[R] / Δt",
+        "Δ[P] x Δt",
+        "- Δ[P] / Δt"
+      ],
+      "correctIndex": 1,
+      "explanation": "The rate is expressed as the decrease in concentration of reactants per unit time, hence the negative sign.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q3",
+      "chapterId": "chem_ch3",
+      "question": "What is the unit for the rate of a chemical reaction in solution?",
+      "options": [
+        "mol L⁻¹",
+        "s⁻¹",
+        "mol L⁻¹ s⁻¹",
+        "L mol⁻¹ s⁻¹"
+      ],
+      "correctIndex": 2,
+      "explanation": "Units of rate are concentration divided by time, typically mol L⁻¹ s⁻¹.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q4",
+      "chapterId": "chem_ch3",
+      "question": "The rate of reaction at a specific moment in time is known as:",
+      "options": [
+        "Average rate",
+        "Instantaneous rate",
+        "Initial rate",
+        "Final rate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Instantaneous rate is the rate of reaction at a particular instant of time (dt → 0).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q5",
+      "chapterId": "chem_ch3",
+      "question": "For the reaction Hg(l) + Cl₂(g) → HgCl₂(s), the rate of reaction with respect to Cl₂ is:",
+      "options": [
+        "Δ[Cl₂] / Δt",
+        "-Δ[Cl₂] / Δt",
+        "2 Δ[Cl₂] / Δt",
+        "-2 Δ[Cl₂] / Δt"
+      ],
+      "correctIndex": 1,
+      "explanation": "As Cl₂ is a reactant, its rate of disappearance is -Δ[Cl₂] / Δt.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q6",
+      "chapterId": "chem_ch3",
+      "question": "In the reaction 2HI → H₂ + I₂, the rate of disappearance of HI related to the rate of appearance of H₂ is:",
+      "options": [
+        "-Δ[HI]/Δt = Δ[H₂]/Δt",
+        "-1/2 Δ[HI]/Δt = Δ[H₂]/Δt",
+        "-Δ[HI]/Δt = 1/2 Δ[H₂]/Δt",
+        "Δ[HI]/Δt = Δ[H₂]/Δt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rates are divided by their stoichiometric coefficients to make them equal.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q7",
+      "chapterId": "chem_ch3",
+      "question": "The representation of the rate of reaction in terms of the concentration of reactants is called:",
+      "options": [
+        "Law of mass action",
+        "Rate law",
+        "Order of reaction",
+        "Molecularity"
+      ],
+      "correctIndex": 1,
+      "explanation": "The rate law is the expression in which reaction rate is given in terms of molar concentration of reactants.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q8",
+      "chapterId": "chem_ch3",
+      "question": "For a reaction aA + bB → cC + dD, if Rate = k[A]ˣ[B]ʸ, then 'k' is the:",
+      "options": [
+        "Equilibrium constant",
+        "Rate constant",
+        "Boltzmann constant",
+        "Gas constant"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the rate equation, k is a proportionality constant called the rate constant.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q9",
+      "chapterId": "chem_ch3",
+      "question": "The sum of powers of the concentration of the reactants in the rate law expression is called:",
+      "options": [
+        "Molecularity",
+        "Order of reaction",
+        "Rate constant",
+        "Activation energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sum of exponents (x + y) in the rate law is the overall order of the reaction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q10",
+      "chapterId": "chem_ch3",
+      "question": "Which of the following can be zero, fractional, or an integer?",
+      "options": [
+        "Molecularity",
+        "Order of reaction",
+        "Number of collisions",
+        "Activation energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Order of reaction is an experimental quantity that can be 0, 1, 2, 3 and even a fraction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q11",
+      "chapterId": "chem_ch3",
+      "question": "The unit of the rate constant for a zero-order reaction is:",
+      "options": [
+        "s⁻¹",
+        "mol L⁻¹ s⁻¹",
+        "L mol⁻¹ s⁻¹",
+        "L² mol⁻² s⁻¹"
+      ],
+      "correctIndex": 1,
+      "explanation": "For zero order, Rate = k[A]⁰, so k has the same units as the rate.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q12",
+      "chapterId": "chem_ch3",
+      "question": "The unit of the rate constant for a first-order reaction is:",
+      "options": [
+        "mol L⁻¹ s⁻¹",
+        "L mol⁻¹ s⁻¹",
+        "s⁻¹",
+        "mol L⁻¹"
+      ],
+      "correctIndex": 2,
+      "explanation": "For first order, Rate = k[A]¹, so k = Rate / [A] = (mol L⁻¹ s⁻¹) / (mol L⁻¹) = s⁻¹.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q13",
+      "chapterId": "chem_ch3",
+      "question": "The number of reacting species taking part in an elementary reaction is called:",
+      "options": [
+        "Order",
+        "Molecularity",
+        "Frequency factor",
+        "Half-life"
+      ],
+      "correctIndex": 1,
+      "explanation": "Molecularity is the number of reacting species (atoms, ions or molecules) taking part in an elementary reaction.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q14",
+      "chapterId": "chem_ch3",
+      "question": "Molecularity of a reaction can NEVER be:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "Zero or non-integer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Molecularity is always a whole number and cannot be zero or fractional.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q15",
+      "chapterId": "chem_ch3",
+      "question": "For a complex reaction, the overall rate of reaction is controlled by:",
+      "options": [
+        "The fastest step",
+        "The slowest step",
+        "The intermediate step",
+        "The average of all steps"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a multi-step reaction, the slowest step is called the rate-determining step.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q16",
+      "chapterId": "chem_ch3",
+      "question": "Which equation relates the initial concentration [R]₀ and concentration [R] at time 't' for a zero-order reaction?",
+      "options": [
+        "[R] = -kt + [R]₀",
+        "ln[R] = -kt + ln[R]₀",
+        "[R] = [R]₀ e⁻ᵏᵗ",
+        "k = [R]₀ / t"
+      ],
+      "correctIndex": 0,
+      "explanation": "The integrated rate law for zero order is [R] = -kt + [R]₀.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q17",
+      "chapterId": "chem_ch3",
+      "question": "A plot of [R] versus time for a zero-order reaction gives a straight line with slope:",
+      "options": [
+        "k",
+        "-k",
+        "k/2.303",
+        "-k/2.303"
+      ],
+      "correctIndex": 1,
+      "explanation": "The equation y = mx + c corresponds to [R] = -kt + [R]₀, where m = -k.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q18",
+      "chapterId": "chem_ch3",
+      "question": "For a first-order reaction, the integrated rate equation is:",
+      "options": [
+        "k = ([R]₀ - [R]) / t",
+        "k = (2.303 / t) log ([R]₀ / [R])",
+        "k = [R] / t",
+        "k = t / log[R]"
+      ],
+      "correctIndex": 1,
+      "explanation": "k = (2.303/t) log ([R]₀/[R]) is the standard formula for first-order kinetics.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q19",
+      "chapterId": "chem_ch3",
+      "question": "The time in which the concentration of a reactant is reduced to one-half of its initial concentration is:",
+      "options": [
+        "Reaction time",
+        "Half-life",
+        "Mean life",
+        "Molecularity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Half-life (t₁/₂) is the time required for half of the initial substance to react.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q20",
+      "chapterId": "chem_ch3",
+      "question": "For a zero-order reaction, the half-life is ________ proportional to the initial concentration.",
+      "options": [
+        "Inversely",
+        "Directly",
+        "Not",
+        "Square root"
+      ],
+      "correctIndex": 1,
+      "explanation": "For zero order, t₁/₂ = [R]₀ / 2k, so it is directly proportional to [R]₀.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q21",
+      "chapterId": "chem_ch3",
+      "question": "For a first-order reaction, the half-life (t₁/₂) is given by:",
+      "options": [
+        "0.693 / k",
+        "k / 0.693",
+        "[R]₀ / 2k",
+        "2.303 / k"
+      ],
+      "correctIndex": 0,
+      "explanation": "t₁/₂ = 0.693 / k for a first-order reaction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q22",
+      "chapterId": "chem_ch3",
+      "question": "Which of the following reactions is independent of the initial concentration of reactants for its half-life?",
+      "options": [
+        "Zero order",
+        "First order",
+        "Second order",
+        "Third order"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a first-order reaction, t₁/₂ is constant and does not depend on [R]₀.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q23",
+      "chapterId": "chem_ch3",
+      "question": "Hydrolysis of ethyl acetate in the presence of excess water is an example of:",
+      "options": [
+        "Zero order",
+        "First order",
+        "Pseudo first order",
+        "Second order"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pseudo first-order reactions behave like first order because one reactant is in such large excess that its concentration remains constant.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q24",
+      "chapterId": "chem_ch3",
+      "question": "Generally, for every 10° rise in temperature, the rate constant of a reaction is nearly:",
+      "options": [
+        "Tripled",
+        "Doubled",
+        "Halved",
+        "Quadrupled"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a chemical reaction with rise in temperature by 10°, the rate constant is nearly doubled.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q25",
+      "chapterId": "chem_ch3",
+      "question": "The Arrhenius equation is expressed as:",
+      "options": [
+        "k = Ae⁻ᴱᵃ/ᴿᵀ",
+        "k = A ln(Ea/RT)",
+        "Rate = k[A][B]",
+        "Ea = -RT ln k"
+      ],
+      "correctIndex": 0,
+      "explanation": "Arrhenius equation k = Ae⁻ᴱᵃ/ᴿᵀ shows the dependence of rate constant on temperature.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q26",
+      "chapterId": "chem_ch3",
+      "question": "In the Arrhenius equation, 'A' is known as the:",
+      "options": [
+        "Activation energy",
+        "Frequency factor (Pre-exponential factor)",
+        "Rate constant",
+        "Gas constant"
+      ],
+      "correctIndex": 1,
+      "explanation": "A is the Arrhenius factor or frequency factor, specific to a reaction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q27",
+      "chapterId": "chem_ch3",
+      "question": "What is the 'activation energy' (Ea)?",
+      "options": [
+        "Heat of reaction",
+        "Energy released during reaction",
+        "Minimum extra energy required by reactants to form the activated complex",
+        "Kinetic energy of products"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ea is the energy required to form the intermediate (activated complex).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q28",
+      "chapterId": "chem_ch3",
+      "question": "A substance that increases the rate of a reaction without itself undergoing any permanent chemical change is a:",
+      "options": [
+        "Reactant",
+        "Product",
+        "Catalyst",
+        "Inhibitor"
+      ],
+      "correctIndex": 2,
+      "explanation": "A catalyst provides an alternate pathway by reducing the activation energy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q29",
+      "chapterId": "chem_ch3",
+      "question": "According to collision theory, the rate of reaction depends on:",
+      "options": [
+        "Collision frequency",
+        "Effective collisions (Proper orientation)",
+        "Activation energy",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Collision theory considers collision frequency (Z) and the fraction of molecules with energy ≥ Ea and proper orientation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q30",
+      "chapterId": "chem_ch3",
+      "question": "The slope of the line in a plot of log k versus 1/T is:",
+      "options": [
+        "Ea / 2.303R",
+        "-Ea / 2.303R",
+        "Ea / R",
+        "-Ea / R"
+      ],
+      "correctIndex": 1,
+      "explanation": "From the logarithmic form of Arrhenius equation: log k = log A - Ea / 2.303RT.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q31",
+      "chapterId": "chem_ch3",
+      "question": "Which of the following does NOT affect the rate constant 'k'?",
+      "options": [
+        "Temperature",
+        "Catalyst",
+        "Activation energy",
+        "Initial concentration of reactants"
+      ],
+      "correctIndex": 3,
+      "explanation": "The rate constant is independent of initial concentration; it depends on temperature and Ea.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q32",
+      "chapterId": "chem_ch3",
+      "question": "Decomposition of ammonia on a hot platinum surface is an example of:",
+      "options": [
+        "Zero-order reaction",
+        "First-order reaction",
+        "Second-order reaction",
+        "Fractional-order reaction"
+      ],
+      "correctIndex": 0,
+      "explanation": "At high pressure, the metal surface gets saturated with gas, making the rate independent of concentration (zero order).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q33",
+      "chapterId": "chem_ch3",
+      "question": "What happens to the activation energy when a positive catalyst is added?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains the same",
+        "Becomes zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "A catalyst lowers the activation energy, allowing more molecules to cross the energy barrier.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q34",
+      "chapterId": "chem_ch3",
+      "question": "The number of collisions per second per unit volume of the reaction mixture is called:",
+      "options": [
+        "Rate of reaction",
+        "Collision frequency (Z)",
+        "Order of reaction",
+        "Molecularity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Z represents the collision frequency in collision theory.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q35",
+      "chapterId": "chem_ch3",
+      "question": "In the reaction 5Br⁻ + BrO₃⁻ + 6H⁺ → 3Br₂ + 3H₂O, if the rate of disappearance of Br⁻ is 'x', the rate of disappearance of H⁺ is:",
+      "options": [
+        "x",
+        "6/5 x",
+        "5/6 x",
+        "3/5 x"
+      ],
+      "correctIndex": 1,
+      "explanation": "Relative rates: -1/5 Δ[Br⁻]/Δt = -1/6 Δ[H⁺]/Δt.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q36",
+      "chapterId": "chem_ch3",
+      "question": "All radioactive decay reactions follow which kinetics?",
+      "options": [
+        "Zero order",
+        "First order",
+        "Second order",
+        "Third order"
+      ],
+      "correctIndex": 1,
+      "explanation": "Natural and artificial radioactive decay of unstable nuclei take place by first order kinetics.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q37",
+      "chapterId": "chem_ch3",
+      "question": "A catalyst does NOT change which of the following?",
+      "options": [
+        "Activation energy",
+        "Rate of reaction",
+        "Gibbs energy (ΔG)",
+        "Path of reaction"
+      ],
+      "correctIndex": 2,
+      "explanation": "A catalyst does not change the equilibrium constant or the Gibbs energy of the reaction.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q38",
+      "chapterId": "chem_ch3",
+      "question": "For a reaction to occur, colliding molecules must have:",
+      "options": [
+        "Energy ≥ Threshold energy",
+        "Proper orientation",
+        "Neither",
+        "Both"
+      ],
+      "correctIndex": 3,
+      "explanation": "Both activation energy and proper orientation are required for an effective collision.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q39",
+      "chapterId": "chem_ch3",
+      "question": "The slope of ln k versus 1/T is:",
+      "options": [
+        "-Ea/R",
+        "Ea/R",
+        "-Ea/2.303R",
+        "log A"
+      ],
+      "correctIndex": 0,
+      "explanation": "ln k = ln A - Ea/RT. Plotting ln k vs 1/T gives a slope of -Ea/R.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q40",
+      "chapterId": "chem_ch3",
+      "question": "What is the order of reaction if the unit of k is L mol⁻¹ s⁻¹?",
+      "options": [
+        "Zero",
+        "First",
+        "Second",
+        "Third"
+      ],
+      "correctIndex": 2,
+      "explanation": "For n=2, unit = (mol L⁻¹ )¹⁻² s⁻¹ = mol⁻¹ L s⁻¹.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q41",
+      "chapterId": "chem_ch3",
+      "question": "A reaction that occurs in a single step is called an ________ reaction.",
+      "options": [
+        "Complex",
+        "Elementary",
+        "Chain",
+        "Fast"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reactions taking place in one step are called elementary reactions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q42",
+      "chapterId": "chem_ch3",
+      "question": "In the rate law, the exponents of concentrations are:",
+      "options": [
+        "Always same as stoichiometric coefficients",
+        "Always different from stoichiometric coefficients",
+        "May or may not be same as stoichiometric coefficients",
+        "Always integers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Order is determined experimentally and may differ from the balanced equation coefficients.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q43",
+      "chapterId": "chem_ch3",
+      "question": "Which of the following is true for a zero-order reaction?",
+      "options": [
+        "Rate increases with time",
+        "Rate is independent of reactant concentration",
+        "Half-life is constant",
+        "Molecularity is zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zero-order reaction means the rate is proportional to zero power of concentration.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q44",
+      "chapterId": "chem_ch3",
+      "question": "The time required for 99% completion of a first-order reaction is ________ the half-life.",
+      "options": [
+        "Double",
+        "Ten times",
+        "Approximately 6.6 times",
+        "Same as"
+      ],
+      "correctIndex": 2,
+      "explanation": "Calculated using log ratios; 99% completion takes ~6.64 times the half-life.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q45",
+      "chapterId": "chem_ch3",
+      "question": "The orientation factor 'P' in collision theory is also called:",
+      "options": [
+        "Boltzmann factor",
+        "Steric factor",
+        "Activation factor",
+        "Frequency factor"
+      ],
+      "correctIndex": 1,
+      "explanation": "P is the probability or steric factor that accounts for orientation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q46",
+      "chapterId": "chem_ch3",
+      "question": "What is the threshold energy?",
+      "options": [
+        "Activation energy",
+        "Activation energy + average kinetic energy of reactants",
+        "Gibbs free energy",
+        "Potential energy of products"
+      ],
+      "correctIndex": 1,
+      "explanation": "Threshold energy is the minimum energy that reacting molecules must possess for a reaction to occur.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q47",
+      "chapterId": "chem_ch3",
+      "question": "If log(k₂/k₁) = (Ea / 2.303R) [(T₂ - T₁) / T₁T₂], T must be in:",
+      "options": [
+        "Celsius",
+        "Fahrenheit",
+        "Kelvin",
+        "Any unit"
+      ],
+      "correctIndex": 2,
+      "explanation": "In all kinetic and thermodynamic equations, temperature must be in Kelvin.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q48",
+      "chapterId": "chem_ch3",
+      "question": "A catalyst can catalyze a non-spontaneous reaction.",
+      "options": [
+        "True",
+        "False",
+        "Only at high pressure",
+        "Only at high temperature"
+      ],
+      "correctIndex": 1,
+      "explanation": "A catalyst does not catalyze a non-spontaneous reaction (ΔG > 0).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q49",
+      "chapterId": "chem_ch3",
+      "question": "In first-order reaction graphs, plotting log[R]₀/[R] versus 't' gives a slope of:",
+      "options": [
+        "k",
+        "k / 2.303",
+        "-k / 2.303",
+        "2.303 / k"
+      ],
+      "correctIndex": 1,
+      "explanation": "log([R]₀/[R]) = kt / 2.303. Thus slope = k / 2.303.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch3_q50",
+      "chapterId": "chem_ch3",
+      "question": "The rate of a chemical reaction is ________ proportional to the temperature.",
+      "options": [
+        "Inversely",
+        "Directly",
+        "Not",
+        "Exponentially"
+      ],
+      "correctIndex": 1,
+      "explanation": "Generally, the rate of reaction increases as the temperature is increased.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    }
+  ]
+}

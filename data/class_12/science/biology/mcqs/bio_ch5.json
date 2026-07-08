@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch5_q1",
+      "chapterId": "bio_ch5",
+      "question": "Which of the following is a nitrogenous base found in RNA but not in DNA?",
+      "options": [
+        "Adenine",
+        "Guanine",
+        "Cytosine",
+        "Uracil"
+      ],
+      "correctIndex": 3,
+      "explanation": "RNA contains Uracil in place of Thymine, which is found in DNA.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q2",
+      "chapterId": "bio_ch5",
+      "question": "The two strands of DNA are held together by which type of bond?",
+      "options": [
+        "Ionic bonds",
+        "Covalent bonds",
+        "Hydrogen bonds",
+        "Phosphodiester bonds"
+      ],
+      "correctIndex": 2,
+      "explanation": "The base pairs of the two strands are connected via hydrogen bonds (A=T with two and G≡C with three).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q3",
+      "chapterId": "bio_ch5",
+      "question": "Who proposed the Double Helix model of DNA structure in 1953?",
+      "options": [
+        "Erwin Chargaff",
+        "James Watson and Francis Crick",
+        "Maurice Wilkins",
+        "Rosalind Franklin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Watson and Crick proposed the Double Helix structure based on X-ray diffraction data.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q4",
+      "chapterId": "bio_ch5",
+      "question": "According to Chargaff's rule, for a double-stranded DNA:",
+      "options": [
+        "A+T = G+C",
+        "A+G = T+C",
+        "A/T is not equal to 1",
+        "G = T"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chargaff's rule states that the ratio of Adenine to Thymine and Guanine to Cytosine are constant and equal to one (Purines = Pyrimidines).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q5",
+      "chapterId": "bio_ch5",
+      "question": "What is the pitch of the DNA double helix?",
+      "options": [
+        "3.4 nm",
+        "0.34 nm",
+        "2.0 nm",
+        "34 nm"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pitch of the helix is 3.4 nm, with roughly 10 base pairs in each turn.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q6",
+      "chapterId": "bio_ch5",
+      "question": "In a nucleoid, the DNA is held by some proteins in which organism?",
+      "options": [
+        "Human",
+        "Amoeba",
+        "E. coli",
+        "Yeast"
+      ],
+      "correctIndex": 2,
+      "explanation": "In prokaryotes like E. coli, DNA is organized in large loops held by proteins in a region called the nucleoid.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q7",
+      "chapterId": "bio_ch5",
+      "question": "Histone octamers are wrapped by DNA to form a structure called:",
+      "options": [
+        "Centrosome",
+        "Nucleosome",
+        "Chromosome",
+        "Mesosome"
+      ],
+      "correctIndex": 1,
+      "explanation": "The negatively charged DNA is wrapped around the positively charged histone octamer to form a nucleosome.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q8",
+      "chapterId": "bio_ch5",
+      "question": "Which of the following is an example of 'Transforming Principle' experiment?",
+      "options": [
+        "Hershey-Chase",
+        "Griffith",
+        "Meselson-Stahl",
+        "Taylor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frederick Griffith conducted experiments with Streptococcus pneumoniae to demonstrate the 'transforming principle'.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q9",
+      "chapterId": "bio_ch5",
+      "question": "The unequivocal proof that DNA is the genetic material came from the experiment of:",
+      "options": [
+        "Avery, MacLeod, and McCarty",
+        "Hershey and Chase",
+        "Watson and Crick",
+        "Matthew Meselson"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alfred Hershey and Martha Chase (1952) provided definitive proof using bacteriophages and radioactive isotopes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q10",
+      "chapterId": "bio_ch5",
+      "question": "Hershey and Chase used which radioactive isotopes to label DNA and protein?",
+      "options": [
+        "14C and 15N",
+        "32P and 35S",
+        "3H and 14C",
+        "15N and 31P"
+      ],
+      "correctIndex": 1,
+      "explanation": "They used Phosphorus-32 (32P) to label DNA and Sulfur-35 (35S) to label proteins.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q11",
+      "chapterId": "bio_ch5",
+      "question": "RNA is chemically more reactive and unstable compared to DNA due to the presence of:",
+      "options": [
+        "Uracil",
+        "Single strand",
+        "2'-OH group in ribose",
+        "Phosphate group"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 2'-OH group at every nucleotide in RNA is a reactive group that makes RNA labile and easily degradable.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q12",
+      "chapterId": "bio_ch5",
+      "question": "The semi-conservative nature of DNA replication was first shown in:",
+      "options": [
+        "Vicia faba",
+        "Drosophila",
+        "Escherichia coli",
+        "Salmonella"
+      ],
+      "correctIndex": 2,
+      "explanation": "Meselson and Stahl first demonstrated semi-conservative replication in E. coli using heavy nitrogen (15N).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q13",
+      "chapterId": "bio_ch5",
+      "question": "The main enzyme required for DNA replication is:",
+      "options": [
+        "DNA Ligase",
+        "RNA Polymerase",
+        "DNA-dependent DNA polymerase",
+        "Helicase"
+      ],
+      "correctIndex": 2,
+      "explanation": "DNA-dependent DNA polymerase uses a DNA template to catalyze the polymerization of deoxynucleotides.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q14",
+      "chapterId": "bio_ch5",
+      "question": "DNA polymerization by DNA polymerase occurs only in which direction?",
+      "options": [
+        "3' → 5'",
+        "5' → 3'",
+        "Both directions",
+        "Randomly"
+      ],
+      "correctIndex": 1,
+      "explanation": "DNA polymerase can only catalyze polymerization in the 5' to 3' direction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q15",
+      "chapterId": "bio_ch5",
+      "question": "The small fragments of DNA formed on the lagging strand are joined by:",
+      "options": [
+        "Helicase",
+        "Primase",
+        "DNA Ligase",
+        "Topoisomerase"
+      ],
+      "correctIndex": 2,
+      "explanation": "DNA ligase is the enzyme responsible for joining the discontinuously synthesized fragments.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q16",
+      "chapterId": "bio_ch5",
+      "question": "The process of copying genetic information from one strand of DNA into RNA is termed as:",
+      "options": [
+        "Translation",
+        "Replication",
+        "Transcription",
+        "Transformation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Transcription is the process where RNA is synthesized from a DNA template.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q17",
+      "chapterId": "bio_ch5",
+      "question": "In a transcription unit, the promoter is located towards which end of the structural gene?",
+      "options": [
+        "3'-end of coding strand",
+        "5'-end of coding strand",
+        "3'-end of template strand",
+        "Middle of the gene"
+      ],
+      "correctIndex": 1,
+      "explanation": "The promoter is a DNA sequence that provides a binding site for RNA polymerase, located at the 5' end (upstream) of the coding strand.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q18",
+      "chapterId": "bio_ch5",
+      "question": "The coding sequences or expressed sequences in eukaryotic genes are called:",
+      "options": [
+        "Introns",
+        "Exons",
+        "Promoters",
+        "Operators"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exons are the sequences that appear in mature or processed RNA.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q19",
+      "chapterId": "bio_ch5",
+      "question": "In eukaryotes, which enzyme transcribes tRNA?",
+      "options": [
+        "RNA polymerase I",
+        "RNA polymerase II",
+        "RNA polymerase III",
+        "DNA polymerase"
+      ],
+      "correctIndex": 2,
+      "explanation": "RNA polymerase III is responsible for the transcription of tRNA, 5srRNA, and snRNAs.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q20",
+      "chapterId": "bio_ch5",
+      "question": "The process of removing introns and joining exons in a primary transcript is called:",
+      "options": [
+        "Capping",
+        "Tailing",
+        "Splicing",
+        "Termination"
+      ],
+      "correctIndex": 2,
+      "explanation": "Splicing involves the removal of non-coding introns and the linear joining of exons.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q21",
+      "chapterId": "bio_ch5",
+      "question": "Which of the following is the 'Initiator Codon'?",
+      "options": [
+        "UAA",
+        "UAG",
+        "UGA",
+        "AUG"
+      ],
+      "correctIndex": 3,
+      "explanation": "AUG has dual functions: it codes for Methionine and acts as an initiator codon.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q22",
+      "chapterId": "bio_ch5",
+      "question": "How many codons code for amino acids in the genetic code?",
+      "options": [
+        "64",
+        "61",
+        "20",
+        "3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Out of 64 codons, 61 code for amino acids and 3 are stop codons.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q23",
+      "chapterId": "bio_ch5",
+      "question": "Sickle cell anemia is an example of which type of mutation?",
+      "options": [
+        "Frame-shift mutation",
+        "Point mutation",
+        "Deletion",
+        "Insertion"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is caused by a single base pair change (GAG to GUG) in the beta-globin chain gene.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q24",
+      "chapterId": "bio_ch5",
+      "question": "The 'Adapter Molecule' that reads the code and binds to amino acids is:",
+      "options": [
+        "mRNA",
+        "rRNA",
+        "tRNA",
+        "snRNA"
+      ],
+      "correctIndex": 2,
+      "explanation": "tRNA acts as an adapter molecule that reads the genetic code on mRNA and brings the corresponding amino acid.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q25",
+      "chapterId": "bio_ch5",
+      "question": "The process of polymerization of amino acids to form a polypeptide is:",
+      "options": [
+        "Transcription",
+        "Translation",
+        "Replication",
+        "Splicing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Translation is the process where the sequence of nucleotides in mRNA is translated into a sequence of amino acids.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q26",
+      "chapterId": "bio_ch5",
+      "question": "In the Lac Operon, the 'i' gene codes for:",
+      "options": [
+        "Inducer",
+        "Repressor",
+        "Beta-galactosidase",
+        "Permease"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'i' gene (inhibitor) codes for the repressor protein of the lac operon.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q27",
+      "chapterId": "bio_ch5",
+      "question": "In the presence of lactose, the repressor protein:",
+      "options": [
+        "Binds to the operator",
+        "Binds to the promoter",
+        "Is inactivated by the inducer",
+        "Degrades the DNA"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lactose (inducer) binds to the repressor, preventing it from binding to the operator, allowing transcription to proceed.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q28",
+      "chapterId": "bio_ch5",
+      "question": "What is the approximate number of base pairs in the human genome?",
+      "options": [
+        "3 x 10^6 bp",
+        "3 x 10^9 bp",
+        "6 x 10^9 bp",
+        "1.4 x 10^8 bp"
+      ],
+      "correctIndex": 1,
+      "explanation": "The human genome contains approximately 3 x 10^9 base pairs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q29",
+      "chapterId": "bio_ch5",
+      "question": "The Human Genome Project (HGP) was officially completed in which year?",
+      "options": [
+        "1990",
+        "2000",
+        "2003",
+        "2006"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 13-year project, which began in 1990, was completed in 2003.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q30",
+      "chapterId": "bio_ch5",
+      "question": "Which human chromosome has the fewest genes?",
+      "options": [
+        "Chromosome 1",
+        "Chromosome X",
+        "Chromosome Y",
+        "Chromosome 22"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chromosome 1 has the most genes (2968), and the Y has the fewest (231).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q31",
+      "chapterId": "bio_ch5",
+      "question": "The technique of DNA fingerprinting was initially developed by:",
+      "options": [
+        "James Watson",
+        "Alec Jeffreys",
+        "Frederick Sanger",
+        "Kary Mullis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alec Jeffreys developed the initial technique using Variable Number of Tandem Repeats (VNTR).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q32",
+      "chapterId": "bio_ch5",
+      "question": "VNTR belongs to a class of satellite DNA known as:",
+      "options": [
+        "Macrosatellite",
+        "Minisatellite",
+        "Microsatellite",
+        "Megasatellite"
+      ],
+      "correctIndex": 1,
+      "explanation": "VNTR is classified as a minisatellite used in DNA profiling.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q33",
+      "chapterId": "bio_ch5",
+      "question": "What is the hallmark of the Watson-Crick DNA model?",
+      "options": [
+        "Pentose sugar",
+        "Phosphate backbone",
+        "Base pairing",
+        "Double helix"
+      ],
+      "correctIndex": 2,
+      "explanation": "The base pairing between the two strands is a very provocative and essential feature of the model.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q34",
+      "chapterId": "bio_ch5",
+      "question": "A nitrogenous base is linked to the pentose sugar through which bond?",
+      "options": [
+        "Phosphodiester bond",
+        "N-glycosidic linkage",
+        "Peptide bond",
+        "Glycosidic bond"
+      ],
+      "correctIndex": 1,
+      "explanation": "A nitrogenous base is linked to the OH of 1' C pentose sugar through an N-glycosidic linkage to form a nucleoside.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q35",
+      "chapterId": "bio_ch5",
+      "question": "Which amino acid is coded by only one codon?",
+      "options": [
+        "Valine",
+        "Methionine",
+        "Serine",
+        "Proline"
+      ],
+      "correctIndex": 1,
+      "explanation": "AUG is the only codon that codes for Methionine.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q36",
+      "chapterId": "bio_ch5",
+      "question": "The total number of hydrogen bonds between an AT base pair is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adenine forms two hydrogen bonds with Thymine.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q37",
+      "chapterId": "bio_ch5",
+      "question": "The DNA-wrapped histone octamer unit is called a nucleosome. How many base pairs of DNA helix does a typical nucleosome contain?",
+      "options": [
+        "100 bp",
+        "200 bp",
+        "400 bp",
+        "1000 bp"
+      ],
+      "correctIndex": 1,
+      "explanation": "A typical nucleosome contains 200 bp of DNA helix.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q38",
+      "chapterId": "bio_ch5",
+      "question": "In the Hershey-Chase experiment, after centrifugation, where was the radioactivity found for the 32P-labeled bacteriophages?",
+      "options": [
+        "In the supernatant (liquid)",
+        "In the bacterial pellet",
+        "In both",
+        "In neither"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since DNA (labeled with 32P) entered the bacteria, the radioactivity was found in the bacterial cells (pellet).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q39",
+      "chapterId": "bio_ch5",
+      "question": "What provides the energy for the polymerization reaction during DNA replication?",
+      "options": [
+        "ATP",
+        "Deoxyribonucleoside triphosphates",
+        "Ribonucleoside triphosphates",
+        "GTP"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deoxyribonucleoside triphosphates serve dual purposes: acting as substrates and providing energy for polymerization.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q40",
+      "chapterId": "bio_ch5",
+      "question": "The template strand for transcription has a polarity of:",
+      "options": [
+        "5' → 3'",
+        "3' → 5'",
+        "Both",
+        "Random"
+      ],
+      "correctIndex": 1,
+      "explanation": "The strand with 3'→5' polarity acts as a template for RNA synthesis.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q41",
+      "chapterId": "bio_ch5",
+      "question": "In prokaryotes, the 'Sigma factor' is required for which step of transcription?",
+      "options": [
+        "Initiation",
+        "Elongation",
+        "Termination",
+        "Splicing"
+      ],
+      "correctIndex": 0,
+      "explanation": "RNA polymerase requires the initiation factor (σ) to start the process of transcription.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q42",
+      "chapterId": "bio_ch5",
+      "question": "What is the 'central dogma' of molecular biology?",
+      "options": [
+        "RNA → DNA → Protein",
+        "DNA → RNA → Protein",
+        "Protein → RNA → DNA",
+        "DNA → Protein → RNA"
+      ],
+      "correctIndex": 1,
+      "explanation": "Francis Crick proposed the Central Dogma stating that genetic information flows from DNA to RNA to Protein.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q43",
+      "chapterId": "bio_ch5",
+      "question": "UAA, UAG, and UGA are called:",
+      "options": [
+        "Start codons",
+        "Degenerate codons",
+        "Stop codons",
+        "Ambiguous codons"
+      ],
+      "correctIndex": 2,
+      "explanation": "These three codons do not code for any amino acids and function as stop/termination signals.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q44",
+      "chapterId": "bio_ch5",
+      "question": "The 'clover-leaf' structure refers to the 2D shape of:",
+      "options": [
+        "mRNA",
+        "rRNA",
+        "tRNA",
+        "DNA"
+      ],
+      "correctIndex": 2,
+      "explanation": "The secondary structure of tRNA resembles a clover-leaf.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q45",
+      "chapterId": "bio_ch5",
+      "question": "During translation, the formation of a peptide bond is catalyzed by:",
+      "options": [
+        "RNA polymerase",
+        "Ribozyme (23S rRNA)",
+        "Aminoacyl-tRNA synthetase",
+        "Ligase"
+      ],
+      "correctIndex": 1,
+      "explanation": "In bacteria, 23S rRNA acts as a ribozyme to catalyze peptide bond formation.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q46",
+      "chapterId": "bio_ch5",
+      "question": "The Lac Operon is considered a ________ system.",
+      "options": [
+        "Constitutive",
+        "Inducible",
+        "Repressible",
+        "Random"
+      ],
+      "correctIndex": 1,
+      "explanation": "The lac operon is induced in the presence of an inducer like lactose.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q47",
+      "chapterId": "bio_ch5",
+      "question": "Which human chromosome was the last to be completely sequenced in 2006?",
+      "options": [
+        "Chromosome 1",
+        "Chromosome 22",
+        "Chromosome X",
+        "Chromosome Y"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chromosome 1 was the last of the 24 human chromosomes to be sequenced in May 2006.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q48",
+      "chapterId": "bio_ch5",
+      "question": "Less than what percentage of the human genome codes for proteins?",
+      "options": [
+        "10%",
+        "5%",
+        "2%",
+        "1%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Less than 2 per cent of the genome codes for proteins.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q49",
+      "chapterId": "bio_ch5",
+      "question": "DNA fingerprinting identifies variations in:",
+      "options": [
+        "Coding DNA",
+        "Satellite DNA",
+        "Non-repetitive DNA",
+        "Exons"
+      ],
+      "correctIndex": 1,
+      "explanation": "Repetitive DNA, called satellite DNA, shows high degrees of polymorphism used in fingerprinting.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch5_q50",
+      "chapterId": "bio_ch5",
+      "question": "Which nitrogenous bases are Purines?",
+      "options": [
+        "Adenine and Thymine",
+        "Cytosine and Uracil",
+        "Adenine and Guanine",
+        "Guanine and Cytosine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Purines include Adenine and Guanine, while Pyrimidines include Cytosine, Thymine, and Uracil.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    }
+  ]
+}

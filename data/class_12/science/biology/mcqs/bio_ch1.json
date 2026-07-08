@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch6_q1",
+      "chapterId": "bio_ch6",
+      "question": "Which of the following is the innermost wall layer of a microsporangium that provides nourishment to the developing pollen grains?",
+      "options": [
+        "Epidermis",
+        "Endothecium",
+        "Middle layers",
+        "Tapetum"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tapetum is the innermost layer and its main function is to nourish the developing pollen grains.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q2",
+      "chapterId": "bio_ch6",
+      "question": "The process of formation of microspores from a pollen mother cell (PMC) through meiosis is called:",
+      "options": [
+        "Megasporogenesis",
+        "Microsporogenesis",
+        "Pollination",
+        "Spermiogenesis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formation of microspores from a PMC through meiosis is termed microsporogenesis.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q3",
+      "chapterId": "bio_ch6",
+      "question": "Pollen grains have a hard outer layer called exine, which is made of one of the most resistant organic materials known as:",
+      "options": [
+        "Cellulose",
+        "Pectin",
+        "Sporopollenin",
+        "Lignin"
+      ],
+      "correctIndex": 2,
+      "explanation": "The exine is composed of sporopollenin, which can withstand high temperatures and strong acids/alkalis.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q4",
+      "chapterId": "bio_ch6",
+      "question": "The prominent aperture in the exine where sporopollenin is absent is called the:",
+      "options": [
+        "Micropyle",
+        "Germ pore",
+        "Hilum",
+        "Chalaza"
+      ],
+      "correctIndex": 1,
+      "explanation": "Germ pores are regions in the exine where sporopollenin is absent, allowing for pollen tube emergence.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q5",
+      "chapterId": "bio_ch6",
+      "question": "In over 60% of angiosperms, pollen grains are shed at which stage?",
+      "options": [
+        "Single-celled stage",
+        "2-celled stage",
+        "3-celled stage",
+        "4-celled stage"
+      ],
+      "correctIndex": 1,
+      "explanation": "In over 60 percent of angiosperms, pollen grains are shed at the 2-celled stage (vegetative and generative cell).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q6",
+      "chapterId": "bio_ch6",
+      "question": "Which of the following plants came to India as a contaminant with imported wheat and causes pollen allergy?",
+      "options": [
+        "Viola",
+        "Parthenium (Carrot grass)",
+        "Commelina",
+        "Oxalis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parthenium or carrot grass became ubiquitous in India and causes chronic respiratory disorders like asthma and bronchitis.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q7",
+      "chapterId": "bio_ch6",
+      "question": "A multicarpellary, syncarpous pistil is found in which of the following?",
+      "options": [
+        "Michelia",
+        "Papaver",
+        "Hibiscus",
+        "Rose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Papaver exhibits a multicarpellary syncarpous (fused carpal) gynoecium.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q8",
+      "chapterId": "bio_ch6",
+      "question": "The body of the ovule fuses with the funicle in the region called:",
+      "options": [
+        "Micropyle",
+        "Chalaza",
+        "Hilum",
+        "Nucellus"
+      ],
+      "correctIndex": 2,
+      "explanation": "The hilum represents the junction between the ovule and the funicle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q9",
+      "chapterId": "bio_ch6",
+      "question": "Which part of the ovule represents the basal part?",
+      "options": [
+        "Micropyle",
+        "Hilum",
+        "Chalaza",
+        "Integuments"
+      ],
+      "correctIndex": 2,
+      "explanation": "Opposite the micropylar end is the chalaza, representing the basal part of the ovule.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q10",
+      "chapterId": "bio_ch6",
+      "question": "The method of embryo sac formation from a single megaspore is termed:",
+      "options": [
+        "Bisporic development",
+        "Monosporic development",
+        "Tetrasporic development",
+        "Apospory"
+      ],
+      "correctIndex": 1,
+      "explanation": "Development of an embryo sac from a single functional megaspore is called monosporic development.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q11",
+      "chapterId": "bio_ch6",
+      "question": "A typical angiosperm embryo sac at maturity is:",
+      "options": [
+        "8-nucleate, 8-celled",
+        "7-nucleate, 8-celled",
+        "8-nucleate, 7-celled",
+        "7-nucleate, 7-celled"
+      ],
+      "correctIndex": 2,
+      "explanation": "At maturity, the typical angiosperm embryo sac is 8-nucleate but 7-celled.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q12",
+      "chapterId": "bio_ch6",
+      "question": "Which cells of the embryo sac guide the pollen tube into the synergid?",
+      "options": [
+        "Antipodals",
+        "Polar nuclei",
+        "Filiform apparatus",
+        "Central cell"
+      ],
+      "correctIndex": 2,
+      "explanation": "The filiform apparatus present at the micropylar tip of synergids guides the entry of the pollen tube.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q13",
+      "chapterId": "bio_ch6",
+      "question": "Transfer of pollen grains from the anther to the stigma of the same flower is called:",
+      "options": [
+        "Geitonogamy",
+        "Autogamy",
+        "Xenogamy",
+        "Cleistogamy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Autogamy is the transfer of pollen grains from the anther to the stigma of the same flower.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q14",
+      "chapterId": "bio_ch6",
+      "question": "Flowers which do not open at all are known as:",
+      "options": [
+        "Chasmogamous flowers",
+        "Cleistogamous flowers",
+        "Dioecious flowers",
+        "Monocarpic flowers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cleistogamous flowers are those that do not open, ensuring autogamy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q15",
+      "chapterId": "bio_ch6",
+      "question": "Geitonogamy is functionally ________ but genetically ________.",
+      "options": [
+        "Cross-pollination; Autogamy",
+        "Self-pollination; Xenogamy",
+        "Xenogamy; Geitonogamy",
+        "Autogamy; Cross-pollination"
+      ],
+      "correctIndex": 0,
+      "explanation": "Geitonogamy involves a pollinator (functional cross-pollination) but uses pollen from the same plant (genetically autogamy).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q16",
+      "chapterId": "bio_ch6",
+      "question": "Pollination by water is called:",
+      "options": [
+        "Anemophily",
+        "Hydrophily",
+        "Entomophily",
+        "Ornithophily"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hydrophily is pollination by water, which is quite rare in flowering plants.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q17",
+      "chapterId": "bio_ch6",
+      "question": "Which of the following is an example of an epihydrophilous plant where female flowers reach the surface of water?",
+      "options": [
+        "Zostera",
+        "Hydrilla",
+        "Vallisneria",
+        "Water hyacinth"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Vallisneria, the female flower reaches the surface of water by a long stalk.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q18",
+      "chapterId": "bio_ch6",
+      "question": "The most dominant biotic pollinating agents are:",
+      "options": [
+        "Birds",
+        "Bats",
+        "Bees",
+        "Ants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Among animals, insects, particularly bees, are the dominant biotic pollinating agents.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q19",
+      "chapterId": "bio_ch6",
+      "question": "The tallest flower which provides a safe place for insects to lay eggs is:",
+      "options": [
+        "Rose",
+        "Yucca",
+        "Amorphophallus",
+        "Sun flower"
+      ],
+      "correctIndex": 2,
+      "explanation": "Amorphophallus has a flower that is about 6 feet in height.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q20",
+      "chapterId": "bio_ch6",
+      "question": "A physiological mechanism to prevent self-pollination from fertilising the ovules by inhibiting pollen germination is:",
+      "options": [
+        "Dichogamy",
+        "Self-incompatibility",
+        "Dicliny",
+        "Herkogamy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Self-incompatibility is a genetic mechanism that prevents self-pollen from fertilising the ovules.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q21",
+      "chapterId": "bio_ch6",
+      "question": "The fusion of one male gamete with the egg cell is called:",
+      "options": [
+        "Triple fusion",
+        "Syngamy",
+        "Double fertilisation",
+        "Parthenogenesis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Syngamy results in the formation of a diploid zygote.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q22",
+      "chapterId": "bio_ch6",
+      "question": "Triple fusion involves the fusion of a male gamete with:",
+      "options": [
+        "Synergids",
+        "Antipodals",
+        "Two polar nuclei",
+        "Egg cell"
+      ],
+      "correctIndex": 2,
+      "explanation": "The second male gamete fuses with the two polar nuclei to produce a triploid primary endosperm nucleus (PEN).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q23",
+      "chapterId": "bio_ch6",
+      "question": "Double fertilisation is a unique event found in:",
+      "options": [
+        "Algae",
+        "Bryophytes",
+        "Gymnosperms",
+        "Angiosperms"
+      ],
+      "correctIndex": 3,
+      "explanation": "Double fertilisation (syngamy + triple fusion) is unique to flowering plants (angiosperms).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q24",
+      "chapterId": "bio_ch6",
+      "question": "The primary endosperm nucleus (PEN) develops into the:",
+      "options": [
+        "Zygote",
+        "Endosperm",
+        "Embryo",
+        "Seed coat"
+      ],
+      "correctIndex": 1,
+      "explanation": "The central cell after triple fusion becomes the primary endosperm cell (PEC) and develops into the endosperm.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q25",
+      "chapterId": "bio_ch6",
+      "question": "In coconut, the coconut water represents ________ while the white kernel is ________.",
+      "options": [
+        "Cellular endosperm; Free-nuclear endosperm",
+        "Free-nuclear endosperm; Cellular endosperm",
+        "Embryo; Endosperm",
+        "Free-nuclear endosperm; Embryo"
+      ],
+      "correctIndex": 1,
+      "explanation": "The water is free-nuclear endosperm (thousands of nuclei) and the white kernel is cellular endosperm.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q26",
+      "chapterId": "bio_ch6",
+      "question": "The portion of the embryonal axis above the level of cotyledons is the:",
+      "options": [
+        "Hypocotyl",
+        "Epicotyl",
+        "Radicle",
+        "Coleoptile"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epicotyl terminates with the plumule or stem tip.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q27",
+      "chapterId": "bio_ch6",
+      "question": "In grass family, the single cotyledon is called:",
+      "options": [
+        "Coleorrhiza",
+        "Scutellum",
+        "Epiblast",
+        "Coleoptile"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cotyledon of monocots (grasses) is situated towards one side of the embryonal axis and is called scutellum.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q28",
+      "chapterId": "bio_ch6",
+      "question": "Residual, persistent nucellus found in seeds of black pepper and beet is called:",
+      "options": [
+        "Endosperm",
+        "Perisperm",
+        "Pericarp",
+        "Scutellum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Persistent nucellus is termed perisperm.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q29",
+      "chapterId": "bio_ch6",
+      "question": "Fleshly fruits like apple and strawberry are called 'false fruits' because:",
+      "options": [
+        "They have no seeds",
+        "They develop from the ovary only",
+        "Thalamus contributes to fruit formation",
+        "They are produced without fertilisation"
+      ],
+      "correctIndex": 2,
+      "explanation": "In false fruits, parts other than the ovary (like the thalamus) contribute to fruit development.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q30",
+      "chapterId": "bio_ch6",
+      "question": "Fruits that develop without fertilisation are called:",
+      "options": [
+        "Apomictic fruits",
+        "Parthenocarpic fruits",
+        "Polyembryonic fruits",
+        "Syncarpous fruits"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parthenocarpy is the production of fruit without fertilisation; banana is a classic example.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q31",
+      "chapterId": "bio_ch6",
+      "question": "Apomixis is a form of:",
+      "options": [
+        "Sexual reproduction that mimics asexual",
+        "Asexual reproduction that mimics sexual",
+        "Double fertilisation",
+        "Parthenogenesis only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Apomixis produces seeds without fertilisation, mimicking sexual reproduction.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q32",
+      "chapterId": "bio_ch6",
+      "question": "Occurrence of more than one embryo in a seed is referred to as:",
+      "options": [
+        "Apomixis",
+        "Polyembryony",
+        "Parthenocarpy",
+        "Triple fusion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polyembryony is common in Citrus and Mango species.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q33",
+      "chapterId": "bio_ch6",
+      "question": "Which of the following layers of the anther wall helps in dehiscence by being hygroscopic?",
+      "options": [
+        "Epidermis",
+        "Endothecium",
+        "Middle layers",
+        "Tapetum"
+      ],
+      "correctIndex": 1,
+      "explanation": "The endothecium helps in the release of pollen grains.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q34",
+      "chapterId": "bio_ch6",
+      "question": "The microscopic pollen grains are rich in ________ and are used as food supplements.",
+      "options": [
+        "Lipids",
+        "Nutrients",
+        "Proteins",
+        "Sugars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pollen grains are rich in nutrients and are often consumed as tablets or syrups.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q35",
+      "chapterId": "bio_ch6",
+      "question": "In cereals like rice and wheat, pollen grains lose viability within ________ of their release.",
+      "options": [
+        "30 minutes",
+        "1 hour",
+        "24 hours",
+        "Several months"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pollen viability varies; in rice/wheat it is only 30 minutes.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q36",
+      "chapterId": "bio_ch6",
+      "question": "Cryopreservation of pollen grains is done in liquid nitrogen at:",
+      "options": [
+        "0°C",
+        "-100°C",
+        "-196°C",
+        "-80°C"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pollen can be stored for years in liquid nitrogen at -196°C.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q37",
+      "chapterId": "bio_ch6",
+      "question": "Which part of the pistil serves as a landing platform for pollen grains?",
+      "options": [
+        "Style",
+        "Stigma",
+        "Ovary",
+        "Ovule"
+      ],
+      "correctIndex": 1,
+      "explanation": "The stigma is the receptive surface for pollen.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q38",
+      "chapterId": "bio_ch6",
+      "question": "The number of ovules in an ovary can be one in:",
+      "options": [
+        "Papaya",
+        "Orchids",
+        "Wheat",
+        "Watermelon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wheat, paddy, and mango typically have only one ovule per ovary.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q39",
+      "chapterId": "bio_ch6",
+      "question": "In a 7-celled embryo sac, the 'egg apparatus' consists of:",
+      "options": [
+        "Egg cell + Antipodals",
+        "Egg cell + Synergids",
+        "Synergids + Polar nuclei",
+        "Central cell + Egg cell"
+      ],
+      "correctIndex": 1,
+      "explanation": "Three cells are grouped together at the micropylar end to constitute the egg apparatus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q40",
+      "chapterId": "bio_ch6",
+      "question": "Which of the following provides the only method to bring genetically different types of pollen to the stigma?",
+      "options": [
+        "Autogamy",
+        "Geitonogamy",
+        "Xenogamy",
+        "Cleistogamy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Xenogamy is cross-pollination between different plants.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q41",
+      "chapterId": "bio_ch6",
+      "question": "Wind pollinated flowers often have:",
+      "options": [
+        "Large colorful petals",
+        "Nectar and fragrance",
+        "Feathery stigmas and versatile anthers",
+        "Sticky pollen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Feathery stigmas easily trap air-borne pollen grains.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q42",
+      "chapterId": "bio_ch6",
+      "question": "A tassel of a corn cob is actually the:",
+      "options": [
+        "Anthers",
+        "Stigma and style",
+        "Seeds",
+        "Petals"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tassels are the stigma and style which wave in the wind to trap pollen grains.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q43",
+      "chapterId": "bio_ch6",
+      "question": "Pollination by animals is called:",
+      "options": [
+        "Zoophily",
+        "Malacophily",
+        "Chiropterophily",
+        "Myrmecophily"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zoophily refers to pollination mediated by animals.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q44",
+      "chapterId": "bio_ch6",
+      "question": "The removal of anthers from the flower bud before they dehisce is called:",
+      "options": [
+        "Bagging",
+        "Emasculation",
+        "Tagging",
+        "Pollination"
+      ],
+      "correctIndex": 1,
+      "explanation": "Emasculation is a step in artificial hybridisation to prevent self-pollination.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q45",
+      "chapterId": "bio_ch6",
+      "question": "Endosperm is completely consumed by the developing embryo in:",
+      "options": [
+        "Castor",
+        "Coconut",
+        "Pea",
+        "Maize"
+      ],
+      "correctIndex": 2,
+      "explanation": "In non-albuminous seeds like pea and groundnut, endosperm is fully consumed.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q46",
+      "chapterId": "bio_ch6",
+      "question": "Albuminous seeds (where endosperm persists) are found in:",
+      "options": [
+        "Bean",
+        "Pea",
+        "Castor",
+        "Groundnut"
+      ],
+      "correctIndex": 2,
+      "explanation": "Castor and wheat are examples of albuminous seeds.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q47",
+      "chapterId": "bio_ch6",
+      "question": "The oldest seed that germinated after 10,000 years of dormancy was of:",
+      "options": [
+        "Phoenix dactylifera",
+        "Lupinus arcticus",
+        "Orchids",
+        "Black pepper"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lupinus arcticus (Lupine) was excavated from Arctic tundra.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q48",
+      "chapterId": "bio_ch6",
+      "question": "The 2000-year-old viable seed discovered at King Herod's palace near the Dead Sea belongs to:",
+      "options": [
+        "Wheat",
+        "Date Palm (Phoenix dactylifera)",
+        "Lupine",
+        "Carrot grass"
+      ],
+      "correctIndex": 1,
+      "explanation": "This was a record of a 2000-year-old viable seed of date palm.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q49",
+      "chapterId": "bio_ch6",
+      "question": "Which of the following is NOT an outbreeding device?",
+      "options": [
+        "Synchrony in pollen release and stigma receptivity",
+        "Self-incompatibility",
+        "Production of unisexual flowers",
+        "Different positioning of anthers and stigma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Synchrony promotes self-pollination; outbreeding devices aim to discourage it.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch6_q50",
+      "chapterId": "bio_ch6",
+      "question": "Who is considered a distinguished botanist of India known for his work on morphology and embryology?",
+      "options": [
+        "M.S. Swaminathan",
+        "Panchanan Maheshwari",
+        "Herbert Boyer",
+        "Rene Descartes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Panchanan Maheshwari rose to become one of the most distinguished botanists.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    }
+  ]
+}

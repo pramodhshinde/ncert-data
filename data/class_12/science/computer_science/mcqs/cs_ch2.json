@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "c12cs_ch02_q01",
+      "chapterId": "c12_cs_ch02",
+      "question": "What is the primary reason for using files to store data in Python?",
+      "options": [
+        "To speed up program execution",
+        "To store data permanently for later reuse",
+        "To hide data from other users",
+        "To reduce the amount of RAM used"
+      ],
+      "correctIndex": 1,
+      "explanation": "Variables used in a program have a lifetime that lasts only during execution; data is stored permanently in files on secondary storage devices for reusability.",
+      "ncertPage": 1,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q02",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which type of file stores information in ASCII or Unicode characters and is human-readable?",
+      "options": [
+        "Binary file",
+        "Executable file",
+        "Text file",
+        "System file"
+      ],
+      "correctIndex": 2,
+      "explanation": "A text file is a sequence of characters consisting of alphabets, numbers, and other symbols that is stored for permanent use.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q03",
+      "chapterId": "c12_cs_ch02",
+      "question": "In a text file, each line is terminated by a special character called:",
+      "options": [
+        "EOL",
+        "EOF",
+        "NULL",
+        "STOP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each line of a text file is terminated by a special character, called End of Line (EOL).",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q04",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which of the following is true about binary files?",
+      "options": [
+        "They are human-readable",
+        "They use EOL characters to mark line endings",
+        "There is no delimiter for a line",
+        "They can only store text data"
+      ],
+      "correctIndex": 2,
+      "explanation": "Binary files do not have a delimiter for a line and cannot be read by a human using a text editor.",
+      "ncertPage": 2,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q05",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which Python function is used to create a file object and link it to a file on a storage device?",
+      "options": [
+        "link()",
+        "open()",
+        "create()",
+        "file()"
+      ],
+      "correctIndex": 1,
+      "explanation": "The open() function is used to open a file in Python and returns a file object.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q06",
+      "chapterId": "c12_cs_ch02",
+      "question": "What is the default mode when opening a file using the open() function?",
+      "options": [
+        "'w' (Write)",
+        "'a' (Append)",
+        "'r' (Read)",
+        "'rb' (Read Binary)"
+      ],
+      "correctIndex": 2,
+      "explanation": "If no mode is specified, the default file opening mode is 'r' (read mode).",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q07",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which file mode will overwrite the existing content of a file if it already exists?",
+      "options": [
+        "'r'",
+        "'a'",
+        "'w'",
+        "'x'"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'w' mode opens a file for writing. If the file already exists, it is truncated and overwritten.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q08",
+      "chapterId": "c12_cs_ch02",
+      "question": "What is the purpose of the 'a' mode in file handling?",
+      "options": [
+        "To overwrite the file",
+        "To open the file for reading only",
+        "To append data to the end of an existing file",
+        "To create a binary file"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'a' mode is used for appending data at the end of the file.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q09",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which of the following is NOT a method of a file object used for reading data?",
+      "options": [
+        "read()",
+        "readline()",
+        "readlines()",
+        "readall()"
+      ],
+      "correctIndex": 3,
+      "explanation": "The methods for reading are read(), readline(), and readlines(). 'readall()' is not a standard file object method.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q10",
+      "chapterId": "c12_cs_ch02",
+      "question": "The method read(n) returns:",
+      "options": [
+        "n lines of text",
+        "n characters from the file",
+        "The entire file as a list",
+        "The remaining content of the file"
+      ],
+      "correctIndex": 1,
+      "explanation": "The read(n) method reads 'n' characters from a file from the current position.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q11",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which method reads one line at a time from a text file?",
+      "options": [
+        "read()",
+        "readline()",
+        "readlines()",
+        "read_one()"
+      ],
+      "correctIndex": 1,
+      "explanation": "The readline() method reads one line of a file at a time from the current position.",
+      "ncertPage": 5,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q12",
+      "chapterId": "c12_cs_ch02",
+      "question": "The readlines() method returns the content of the file as:",
+      "options": [
+        "A single string",
+        "A dictionary",
+        "A list of strings, where each string is a line",
+        "A tuple of bytes"
+      ],
+      "correctIndex": 2,
+      "explanation": "The readlines() method reads all the lines from the current position and returns them as a list of strings.",
+      "ncertPage": 6,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q13",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which method is used to write a single string to a file?",
+      "options": [
+        "writelines()",
+        "write()",
+        "print()",
+        "save()"
+      ],
+      "correctIndex": 1,
+      "explanation": "The write() method takes a string as an argument and writes it to the text file.",
+      "ncertPage": 4,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q14",
+      "chapterId": "c12_cs_ch02",
+      "question": "What does writelines() expect as an argument?",
+      "options": [
+        "A single integer",
+        "A single string only",
+        "A sequence of strings (like a list or tuple)",
+        "A boolean value"
+      ],
+      "correctIndex": 2,
+      "explanation": "The writelines() method is used to write a sequence of strings (like a list) to the file.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q15",
+      "chapterId": "c12_cs_ch02",
+      "question": "When using write() or writelines(), does Python automatically add a newline (\\n) character?",
+      "options": [
+        "Yes, always",
+        "No, it must be added explicitly",
+        "Only in append mode",
+        "Only in binary mode"
+      ],
+      "correctIndex": 1,
+      "explanation": "Newline characters must be explicitly added when using write() or writelines() if line breaks are desired.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q16",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which keyword/statement ensures that a file is automatically closed after the block of code is executed?",
+      "options": [
+        "try",
+        "finally",
+        "with",
+        "close"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'with' statement in Python is used for automatic closing of the file after the statements within the block are executed.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q17",
+      "chapterId": "c12_cs_ch02",
+      "question": "What is the purpose of the close() method in file handling?",
+      "options": [
+        "To delete the file object",
+        "To clear the file content",
+        "To release resources and ensure data is written from buffers",
+        "To stop the program"
+      ],
+      "correctIndex": 2,
+      "explanation": "Closing a file is important to free up system resources and ensure all data in buffers is written to the physical storage.",
+      "ncertPage": 4,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q18",
+      "chapterId": "c12_cs_ch02",
+      "question": "The method tell() returns:",
+      "options": [
+        "The total size of the file",
+        "The current position of the file pointer",
+        "The name of the file",
+        "The file opening mode"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tell() method returns an integer giving the current position of the file pointer in the file.",
+      "ncertPage": 7,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q19",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which method is used to change the position of the file pointer?",
+      "options": [
+        "move()",
+        "shift()",
+        "seek()",
+        "goto()"
+      ],
+      "correctIndex": 2,
+      "explanation": "The seek() method is used to position the file pointer at a specific byte offset within the file.",
+      "ncertPage": 7,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q20",
+      "chapterId": "c12_cs_ch02",
+      "question": "In the seek(offset, reference_point) method, a reference_point value of 1 represents:",
+      "options": [
+        "Beginning of the file",
+        "End of the file",
+        "Current position of the pointer",
+        "Next line"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reference point value 0 is the beginning, 1 is the current position, and 2 is the end of the file.",
+      "ncertPage": 7,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q21",
+      "chapterId": "c12_cs_ch02",
+      "question": "What module must be imported to perform 'pickling' in Python?",
+      "options": [
+        "json",
+        "csv",
+        "pickle",
+        "os"
+      ],
+      "correctIndex": 2,
+      "explanation": "To pickle data in a binary file, the 'pickle' module is used.",
+      "ncertPage": 8,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q22",
+      "chapterId": "c12_cs_ch02",
+      "question": "Pickling is also known as:",
+      "options": [
+        "Deserialization",
+        "Serialization",
+        "Compression",
+        "Encoding"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pickling is the process whereby a Python object is converted into a byte stream (serialization).",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q23",
+      "chapterId": "c12_cs_ch02",
+      "question": "Unpickling is the process of:",
+      "options": [
+        "Deleting a binary file",
+        "Closing a binary file",
+        "Converting a byte stream back into a Python object",
+        "Writing data to a text file"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unpickling is the inverse operation, where a byte stream is converted back into a Python object (deserialization).",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q24",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which method is used to write an object into a binary file using the pickle module?",
+      "options": [
+        "write()",
+        "put()",
+        "dump()",
+        "store()"
+      ],
+      "correctIndex": 2,
+      "explanation": "The dump() method of the pickle module is used to write the object to the file.",
+      "ncertPage": 8,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q25",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which method is used to read an object from a binary file using the pickle module?",
+      "options": [
+        "read()",
+        "load()",
+        "get()",
+        "pull()"
+      ],
+      "correctIndex": 1,
+      "explanation": "The load() method is used to read data back from the binary file.",
+      "ncertPage": 9,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q26",
+      "chapterId": "c12_cs_ch02",
+      "question": "What does CSV stand for?",
+      "options": [
+        "Computer Storage Value",
+        "Comma Separated Values",
+        "Character String Variable",
+        "Circular String Value"
+      ],
+      "correctIndex": 1,
+      "explanation": "CSV stands for Comma Separated Values.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q27",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which character is the default delimiter in a CSV file?",
+      "options": [
+        ";",
+        "\\t",
+        ",",
+        "|"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a CSV file, data values are typically separated by commas.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q28",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which Python module is specifically designed for handling CSV files?",
+      "options": [
+        "os",
+        "sys",
+        "csv",
+        "json"
+      ],
+      "correctIndex": 2,
+      "explanation": "Python provides a 'csv' module for processing CSV files.",
+      "ncertPage": 11,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q29",
+      "chapterId": "c12_cs_ch02",
+      "question": "When opening a CSV file for writing in Python 3, why is `newline=''` often used?",
+      "options": [
+        "To speed up writing",
+        "To avoid extra blank lines between records",
+        "To make it a binary file",
+        "To encrypt the file"
+      ],
+      "correctIndex": 1,
+      "explanation": "Specifying `newline=''` when opening a CSV file in Python 3 prevents the insertion of extra blank lines between rows.",
+      "ncertPage": 11,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q30",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which object/method is used to write data into a CSV file?",
+      "options": [
+        "csv.writer()",
+        "csv.dumper()",
+        "csv.reader()",
+        "csv.printer()"
+      ],
+      "correctIndex": 0,
+      "explanation": "The writer object, created using `csv.writer()`, is used to write rows to a CSV file.",
+      "ncertPage": 11,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q31",
+      "chapterId": "c12_cs_ch02",
+      "question": "The method used to write multiple rows into a CSV file in one go is:",
+      "options": [
+        "writerow()",
+        "write_multi()",
+        "writerows()",
+        "insertrows()"
+      ],
+      "correctIndex": 2,
+      "explanation": "The `writerows()` method of the writer object is used to write multiple rows simultaneously.",
+      "ncertPage": 11,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q32",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which function is used to read data from a CSV file?",
+      "options": [
+        "csv.writer()",
+        "csv.load()",
+        "csv.reader()",
+        "csv.get()"
+      ],
+      "correctIndex": 2,
+      "explanation": "The `csv.reader()` function is used to create a reader object to read records from a CSV file.",
+      "ncertPage": 12,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q33",
+      "chapterId": "c12_cs_ch02",
+      "question": "What does the reader object in the csv module return during iteration?",
+      "options": [
+        "A single string",
+        "A dictionary",
+        "A list of strings for each row",
+        "A byte stream"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reader object returns each row as a list of strings.",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q34",
+      "chapterId": "c12_cs_ch02",
+      "question": "The relative path of a file is defined relative to:",
+      "options": [
+        "The root directory",
+        "The C: drive",
+        "The current working directory",
+        "The home directory"
+      ],
+      "correctIndex": 2,
+      "explanation": "Relative path is defined relative to the current working directory.",
+      "ncertPage": 3,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q35",
+      "chapterId": "c12_cs_ch02",
+      "question": "The absolute path of a file starts from:",
+      "options": [
+        "The current folder",
+        "The root directory or drive name",
+        "The desktop",
+        "The user's documents"
+      ],
+      "correctIndex": 1,
+      "explanation": "Absolute path is the complete path starting from the root of the file system.",
+      "ncertPage": 3,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q36",
+      "chapterId": "c12_cs_ch02",
+      "question": "What happens if the file specified in the open() function for reading ('r') does not exist?",
+      "options": [
+        "A new file is created",
+        "The program crashes with an error",
+        "The program ignores it",
+        "The file is opened for writing instead"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opening a file in 'r' mode that doesn't exist will raise an error.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q37",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which of these is a valid way to open a file for both reading and writing (updating) in binary?",
+      "options": [
+        "'rw'",
+        "'a+'",
+        "'rb+'",
+        "'w'"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'rb+' mode opens a binary file for both reading and writing.",
+      "ncertPage": 3,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q38",
+      "chapterId": "c12_cs_ch02",
+      "question": "What will be the output of `f.read(5)` if the file content is 'Python Programming'?",
+      "options": [
+        "'Pytho'",
+        "'Python'",
+        "'P'",
+        "'n'"
+      ],
+      "correctIndex": 0,
+      "explanation": "The method read(5) reads exactly the first 5 characters: 'P', 'y', 't', 'h', 'o'.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q39",
+      "chapterId": "c12_cs_ch02",
+      "question": "In the open() function, what does the 'b' character indicate in a mode like 'wb'?",
+      "options": [
+        "Backup",
+        "Binary",
+        "Beginning",
+        "Boolean"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'b' suffix in a file mode denotes a binary file.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q40",
+      "chapterId": "c12_cs_ch02",
+      "question": "What is the result of using readline() at the end of a file (EOF)?",
+      "options": [
+        "An error is raised",
+        "An empty string is returned",
+        "None is returned",
+        "The pointer moves to the beginning"
+      ],
+      "correctIndex": 1,
+      "explanation": "If readline() is called at the end of the file, it returns an empty string.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q41",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which method clears the internal buffer by writing its contents to the disk without closing the file?",
+      "options": [
+        "clear()",
+        "flush()",
+        "sync()",
+        "empty()"
+      ],
+      "correctIndex": 1,
+      "explanation": "The flush() method is used to force-write the contents of the buffer to the storage device while keeping the file open.",
+      "ncertPage": 4,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q42",
+      "chapterId": "c12_cs_ch02",
+      "question": "The default value for the reference_point in the seek() method is:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "correctIndex": 0,
+      "explanation": "If no reference point is specified, it defaults to 0 (beginning of the file).",
+      "ncertPage": 7,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q43",
+      "chapterId": "c12_cs_ch02",
+      "question": "Which of the following describes 'serialization'?",
+      "options": [
+        "Reading data from a text file",
+        "Converting an object into a byte stream",
+        "Closing a file",
+        "Sorting a list"
+      ],
+      "correctIndex": 1,
+      "explanation": "Serialization is the process of converting a Python object into a byte stream (pickling).",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q44",
+      "chapterId": "c12_cs_ch02",
+      "question": "What is the benefit of a CSV file?",
+      "options": [
+        "It is faster than a binary file",
+        "It can only be read by Python",
+        "It can be opened in spreadsheet programs like Excel",
+        "It encrypts data automatically"
+      ],
+      "correctIndex": 2,
+      "explanation": "CSV files can be opened in any text editor as well as spreadsheet applications.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q45",
+      "chapterId": "c12_cs_ch02",
+      "question": "When opening a file in 'w+' mode, what happens?",
+      "options": [
+        "Opened for reading only",
+        "Opened for writing only",
+        "Opened for both reading and writing, overwriting existing content",
+        "Opened for appending only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'w+' mode opens a file for both reading and writing, truncating the file if it exists.",
+      "ncertPage": 3,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q46",
+      "chapterId": "c12_cs_ch02",
+      "question": "The writer object's `writerow()` method takes which of the following as an argument?",
+      "options": [
+        "A single string",
+        "A list of strings/values",
+        "An integer",
+        "A boolean"
+      ],
+      "correctIndex": 1,
+      "explanation": "The `writerow()` method is used to write a single row, which is provided as a list.",
+      "ncertPage": 11,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q47",
+      "chapterId": "c12_cs_ch02",
+      "question": "What is the delimiter in a file where fields are separated by tabs?",
+      "options": [
+        "Comma",
+        "Tab (\\t)",
+        "Space",
+        "Semicolon"
+      ],
+      "correctIndex": 1,
+      "explanation": "The delimiter is the character that separates values. In a tab-separated file, the delimiter is a tab.",
+      "ncertPage": 11,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q48",
+      "chapterId": "c12_cs_ch02",
+      "question": "If you open a file with `open('data.txt', 'r+')` and use `f.write('Hello')`, where is the text written?",
+      "options": [
+        "At the end of the file",
+        "At the current position of the pointer (initially the beginning)",
+        "In a new file",
+        "It depends on the operating system"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 'r+' mode, writing happens at the current file pointer position.",
+      "ncertPage": 3,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q49",
+      "chapterId": "c12_cs_ch02",
+      "question": "Pickling is useful for:",
+      "options": [
+        "Improving graphics performance",
+        "Saving the state of complex data structures (like dictionaries)",
+        "Making code unreadable",
+        "Translating Python into C++"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pickling is used to store complex data structures as byte streams in binary files.",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch02_q50",
+      "chapterId": "c12_cs_ch02",
+      "question": "What happens if you use `csv.reader()` on a file opened in 'wb' mode?",
+      "options": [
+        "It reads correctly",
+        "It raises an error because 'wb' is for writing",
+        "It converts binary to text",
+        "It closes the file"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reader object expects a file opened in read mode ('r' or 'rb'). Opening in 'wb' will not allow reading.",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    }
+  ]
+}

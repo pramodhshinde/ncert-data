@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch10_q1",
+      "chapterId": "bio_ch10",
+      "question": "According to the WHO, reproductive health means a total well-being in which aspects of reproduction?",
+      "options": [
+        "Physical only",
+        "Physical and Emotional",
+        "Physical, Emotional, Behavioural and Social",
+        "Physical and Functional"
+      ],
+      "correctIndex": 2,
+      "explanation": "WHO defines reproductive health as total well-being in all aspects of reproduction, including physical, emotional, behavioural, and social aspects.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q2",
+      "chapterId": "bio_ch10",
+      "question": "In which year did India initiate the 'Family Planning' programmes at a national level?",
+      "options": [
+        "1947",
+        "1951",
+        "1966",
+        "1971"
+      ],
+      "correctIndex": 1,
+      "explanation": "India was amongst the first in the world to initiate national family planning programmes in 1951.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q3",
+      "chapterId": "bio_ch10",
+      "question": "What is the current popular name for the improved programmes covering wider reproduction-related areas in India?",
+      "options": [
+        "Family Welfare",
+        "Maternal Health",
+        "Reproductive and Child Health Care (RCH)",
+        "Child Development Services"
+      ],
+      "correctIndex": 2,
+      "explanation": "The improved programmes are currently in operation under the popular name 'Reproductive and Child Health Care (RCH) programmes'.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q4",
+      "chapterId": "bio_ch10",
+      "question": "Amniocentesis is a fetal sex determination test based on the ________ pattern in the amniotic fluid.",
+      "options": [
+        "Protein",
+        "Hormone",
+        "Chromosomal",
+        "Enzyme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Amniocentesis determines sex and genetic disorders based on the chromosomal pattern in the cells found in the amniotic fluid surrounding the fetus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q5",
+      "chapterId": "bio_ch10",
+      "question": "'Saheli', a new oral contraceptive for females, was developed by scientists at which institute?",
+      "options": [
+        "AIIMS, Delhi",
+        "CDRI, Lucknow",
+        "IISC, Bangalore",
+        "ICMR, Mumbai"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Saheli' was developed by the Central Drug Research Institute (CDRI) in Lucknow, India.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q6",
+      "chapterId": "bio_ch10",
+      "question": "According to the 2011 census report, the population growth rate in India was:",
+      "options": [
+        "Above 5%",
+        "Less than 2%",
+        "Exactly 3%",
+        "Around 10%"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to the 2011 census, the population growth rate was still around 2% (20/1000/year), which is described as 'less than 2%'.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q7",
+      "chapterId": "bio_ch10",
+      "question": "What was the world population approximately in the year 2011?",
+      "options": [
+        "2 billion",
+        "6 billion",
+        "7.2 billion",
+        "10 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The world population was around 2 billion in 1900, 6 billion in 2000, and surged to 7.2 billion by 2011.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q8",
+      "chapterId": "bio_ch10",
+      "question": "Which of the following is a 'Natural' method of contraception?",
+      "options": [
+        "Lippes loop",
+        "Periodic abstinence",
+        "Condoms",
+        "Tubectomy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Periodic abstinence is a natural method where couples avoid coitus from day 10 to 17 of the menstrual cycle.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q9",
+      "chapterId": "bio_ch10",
+      "question": "In periodic abstinence, couples avoid coitus during the 'fertile period', which is from day _____ of the menstrual cycle.",
+      "options": [
+        "1 to 5",
+        "10 to 17",
+        "20 to 28",
+        "5 to 10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Days 10 to 17 are considered the fertile period when chances of ovulation are high.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q10",
+      "chapterId": "bio_ch10",
+      "question": "Lactational amenorrhea is effective as a contraceptive method only up to a maximum period of ________ months following parturition.",
+      "options": [
+        "3",
+        "6",
+        "12",
+        "24"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lactational amenorrhea (absence of menstruation) is effective only up to six months after childbirth.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q11",
+      "chapterId": "bio_ch10",
+      "question": "Which barrier method is used to cover the cervix in the female reproductive tract?",
+      "options": [
+        "Condoms",
+        "Diaphragms, cervical caps and vaults",
+        "Copper T",
+        "Oral pills"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diaphragms, cervical caps, and vaults are barriers made of rubber inserted into the female tract to cover the cervix.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q12",
+      "chapterId": "bio_ch10",
+      "question": "Which of the following is a 'Non-medicated' IUD?",
+      "options": [
+        "Lippes loop",
+        "CuT",
+        "Multiload 375",
+        "Progestasert"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lippes loop is an example of a non-medicated IUD.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q13",
+      "chapterId": "bio_ch10",
+      "question": "How do Copper-releasing IUDs (like CuT, Cu7) prevent conception?",
+      "options": [
+        "By blocking the fallopian tubes",
+        "By inhibiting ovulation",
+        "By suppressing sperm motility and fertilising capacity",
+        "By preventing gamete formation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cu ions released from these IUDs suppress sperm motility and the fertilising capacity of sperms.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q14",
+      "chapterId": "bio_ch10",
+      "question": "Which of the following is a hormone-releasing IUD?",
+      "options": [
+        "Multiload 375",
+        "Cu7",
+        "LNG-20",
+        "Lippes loop"
+      ],
+      "correctIndex": 2,
+      "explanation": "Progestasert and LNG-20 are examples of hormone-releasing IUDs.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q15",
+      "chapterId": "bio_ch10",
+      "question": "Oral contraceptive pills contain a combination of which hormones?",
+      "options": [
+        "Estrogen and Insulin",
+        "Progestogen or Progestogen-Estrogen",
+        "LH and FSH",
+        "Testosterone and Progesterone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oral administration of small doses of either progestogens or progestogen-estrogen combinations is a popular contraceptive method.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q16",
+      "chapterId": "bio_ch10",
+      "question": "Which of the following is TRUE about the oral pill 'Saheli'?",
+      "options": [
+        "It is a steroidal pill",
+        "It must be taken daily",
+        "It is a 'once-a-week' pill with very few side effects",
+        "It has a high steroid concentration"
+      ],
+      "correctIndex": 2,
+      "explanation": "Saheli is a non-steroidal 'once-a-week' pill with very few side effects and high contraceptive value.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q17",
+      "chapterId": "bio_ch10",
+      "question": "Emergency contraceptives must be administered within ________ hours of coitus to be effective.",
+      "options": [
+        "24",
+        "48",
+        "72",
+        "120"
+      ],
+      "correctIndex": 2,
+      "explanation": "Progestogens or IUDs used within 72 hours of coitus are effective as emergency contraceptives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q18",
+      "chapterId": "bio_ch10",
+      "question": "The surgical sterilization procedure in males is called:",
+      "options": [
+        "Tubectomy",
+        "Vasectomy",
+        "Hysterectomy",
+        "Castration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vasectomy is the surgical method for sterilization in males where a small part of the vas deferens is removed or tied up.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q19",
+      "chapterId": "bio_ch10",
+      "question": "In tubectomy, which part of the female reproductive system is removed or tied up?",
+      "options": [
+        "Ovary",
+        "Uterus",
+        "Fallopian tube",
+        "Cervix"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tubectomy involves removing or tying up a small part of the fallopian tube.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q20",
+      "chapterId": "bio_ch10",
+      "question": "Medical Termination of Pregnancy (MTP) was legalised by the Government of India in which year?",
+      "options": [
+        "1951",
+        "1971",
+        "1981",
+        "2001"
+      ],
+      "correctIndex": 1,
+      "explanation": "Government of India legalised MTP in 1971 with strict conditions to avoid misuse.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q21",
+      "chapterId": "bio_ch10",
+      "question": "MTP is considered relatively safe only during which trimester of pregnancy?",
+      "options": [
+        "First trimester (up to 12 weeks)",
+        "Second trimester",
+        "Third trimester",
+        "Safe throughout pregnancy"
+      ],
+      "correctIndex": 0,
+      "explanation": "MTPs are considered relatively safe during the first trimester, i.e., up to 12 weeks of pregnancy.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q22",
+      "chapterId": "bio_ch10",
+      "question": "Which of the following is NOT a Sexually Transmitted Disease (STD)?",
+      "options": [
+        "Syphilis",
+        "Gonorrhoea",
+        "Encephalitis",
+        "Genital herpes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gonorrhoea, syphilis, and genital herpes are STDs. Encephalitis is not listed as an STD in the text.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q23",
+      "chapterId": "bio_ch10",
+      "question": "Which of the following STDs are NOT completely curable even if detected early?",
+      "options": [
+        "Syphilis and Gonorrhoea",
+        "Hepatitis-B, Genital herpes and HIV infection",
+        "Chlamydiosis and Trichomoniasis",
+        "Genital warts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Except for hepatitis-B, genital herpes, and HIV infections, other STDs are completely curable if detected early.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q24",
+      "chapterId": "bio_ch10",
+      "question": "Hepatitis-B and HIV can also be transmitted by:",
+      "options": [
+        "Sharing injection needles",
+        "Transfusion of blood",
+        "From infected mother to fetus",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Besides sexual contact, these diseases are transmitted through needles, blood transfusion, and from mother to fetus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q25",
+      "chapterId": "bio_ch10",
+      "question": "Infertility is defined as the inability to produce children even after ________ of unprotected sexual co-habitation.",
+      "options": [
+        "6 months",
+        "1 year",
+        "2 years",
+        "5 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Infertility is the inability to conceive or produce children even after 2 years of unprotected sexual co-habitation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q26",
+      "chapterId": "bio_ch10",
+      "question": "In 'In Vitro Fertilisation' (IVF), where does the fertilisation occur?",
+      "options": [
+        "In the uterus",
+        "In the fallopian tube",
+        "Outside the body in simulated conditions",
+        "In the ovary"
+      ],
+      "correctIndex": 2,
+      "explanation": "In IVF, fertilisation takes place outside the body in conditions similar to those in the body.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q27",
+      "chapterId": "bio_ch10",
+      "question": "ZIFT stands for:",
+      "options": [
+        "Zygote Intra Fallopian Transfer",
+        "Zygote In Vitro Fertilisation Technique",
+        "Zonal Intra Fallopian Transfer",
+        "Zygote Internal Fallopian Treatment"
+      ],
+      "correctIndex": 0,
+      "explanation": "ZIFT stands for Zygote Intra Fallopian Transfer.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q28",
+      "chapterId": "bio_ch10",
+      "question": "If an embryo with more than 8 blastomeres is transferred, it is usually transferred into the:",
+      "options": [
+        "Fallopian tube",
+        "Uterus (IUT)",
+        "Cervix",
+        "Vagina"
+      ],
+      "correctIndex": 1,
+      "explanation": "Embryos with more than 8 blastomeres are transferred into the uterus (IUT – Intra Uterine Transfer).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q29",
+      "chapterId": "bio_ch10",
+      "question": "GIFT (Gamete Intra Fallopian Transfer) is a technique used for females who:",
+      "options": [
+        "Cannot produce an ovum",
+        "Cannot provide suitable environment for fertilisation",
+        "Have blocked fallopian tubes",
+        "Are in menopause"
+      ],
+      "correctIndex": 0,
+      "explanation": "GIFT involves transferring an ovum from a donor into the fallopian tube of another female who cannot produce one.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q30",
+      "chapterId": "bio_ch10",
+      "question": "ICSI stands for:",
+      "options": [
+        "Intra Cytoplasmic Sperm Injection",
+        "Inter Cellular Sperm Injection",
+        "Internal Cytoplasmic Sperm Insemination",
+        "Intra Cervical Sperm Injection"
+      ],
+      "correctIndex": 0,
+      "explanation": "ICSI is Intra Cytoplasmic Sperm Injection, where a sperm is directly injected into the ovum.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q31",
+      "chapterId": "bio_ch10",
+      "question": "Artificial Insemination (AI) is useful in cases where:",
+      "options": [
+        "The female cannot produce an egg",
+        "The male is unable to inseminate the female or has very low sperm count",
+        "The fallopian tubes are blocked",
+        "The uterus is absent"
+      ],
+      "correctIndex": 1,
+      "explanation": "AI is used when the male partner cannot inseminate or has a low sperm count (oligospermia).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q32",
+      "chapterId": "bio_ch10",
+      "question": "What is the primary motive of the statutory ban on amniocentesis for sex determination in India?",
+      "options": [
+        "To prevent genetic disorders",
+        "To check increasing female foeticides",
+        "To reduce population growth",
+        "To promote natural birth"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ban is intended to curb female foeticide, which is prevalent due to a preference for male children.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q33",
+      "chapterId": "bio_ch10",
+      "question": "Which of the following is NOT an ideal characteristic of a contraceptive?",
+      "options": [
+        "User-friendly",
+        "Easily available",
+        "Irreversible",
+        "Least side-effects"
+      ],
+      "correctIndex": 2,
+      "explanation": "An ideal contraceptive should be reversible. Irreversibility is not a desired trait.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q34",
+      "chapterId": "bio_ch10",
+      "question": "The 'Withdrawal' or 'Coitus Interruptus' method involves:",
+      "options": [
+        "Abstaining from sex",
+        "Withdrawing the penis from the vagina just before ejaculation",
+        "Using barriers",
+        "Taking hormonal pills"
+      ],
+      "correctIndex": 1,
+      "explanation": "This method involves the male partner withdrawing just before ejaculation to avoid insemination.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q35",
+      "chapterId": "bio_ch10",
+      "question": "Condoms are barriers made of thin rubber/latex sheath used to cover the:",
+      "options": [
+        "Penis in the male",
+        "Vagina or cervix in the female",
+        "Both A and B",
+        "Uterus in the female"
+      ],
+      "correctIndex": 2,
+      "explanation": "Condoms are available for both males (covering the penis) and females (covering the vagina/cervix).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q36",
+      "chapterId": "bio_ch10",
+      "question": "What additional benefit do condoms provide besides contraception?",
+      "options": [
+        "Increased fertility later",
+        "Protection against STDs and AIDS",
+        "Better hormone balance",
+        "Permanent sterilization"
+      ],
+      "correctIndex": 1,
+      "explanation": "Use of condoms protects the user from contracting STDs and AIDS.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q37",
+      "chapterId": "bio_ch10",
+      "question": "What is the most widely accepted method of contraception in India currently?",
+      "options": [
+        "Oral pills",
+        "IUDs",
+        "Surgical methods",
+        "Natural methods"
+      ],
+      "correctIndex": 1,
+      "explanation": "IUDs are one of the most widely accepted methods of contraception in India.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q38",
+      "chapterId": "bio_ch10",
+      "question": "Progestogens inhibit pregnancy by:",
+      "options": [
+        "Inhibiting ovulation and implantation",
+        "Altering cervical mucus quality to retard sperm entry",
+        "Both A and B",
+        "Killing the sperms directly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pills/progestogens inhibit ovulation/implantation and alter cervical mucus to prevent sperm entry.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q39",
+      "chapterId": "bio_ch10",
+      "question": "Subcutaneous 'Implants' used by females contain:",
+      "options": [
+        "Copper",
+        "Progestogens alone or in combination with estrogen",
+        "Antibiotics",
+        "Spermicides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Implants under the skin contain progestogens similar to pills.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q40",
+      "chapterId": "bio_ch10",
+      "question": "Sterilization methods are generally advised as a ________ option.",
+      "options": [
+        "First-line",
+        "Terminal",
+        "Temporary",
+        "Reversible"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surgical methods (vasectomy/tubectomy) are terminal methods to prevent any more pregnancies.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q41",
+      "chapterId": "bio_ch10",
+      "question": "Approximately how many MTPs are performed in a year all over the world?",
+      "options": [
+        "1 to 2 million",
+        "10 to 20 million",
+        "45 to 50 million",
+        "100 million"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nearly 45 to 50 million MTPs are performed in a year world-wide.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q42",
+      "chapterId": "bio_ch10",
+      "question": "Why is MTP performed?",
+      "options": [
+        "To get rid of unwanted pregnancy",
+        "When pregnancy is harmful to the mother or fetus",
+        "Both A and B",
+        "To choose the sex of the child"
+      ],
+      "correctIndex": 2,
+      "explanation": "MTP is for unwanted pregnancies (failure of contraceptive/rape) or when the pregnancy poses a risk to the mother or child.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q43",
+      "chapterId": "bio_ch10",
+      "question": "The incidence of STDs is reported to be very high among persons in the age group of:",
+      "options": [
+        "5-10 years",
+        "15-24 years",
+        "40-50 years",
+        "Above 60 years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Incidence of STDs is reported to be very high among the 15-24 age group.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q44",
+      "chapterId": "bio_ch10",
+      "question": "Which of the following is NOT a complication of untreated STDs?",
+      "options": [
+        "Pelvic inflammatory diseases (PID)",
+        "Abortions and still births",
+        "Ectopic pregnancies",
+        "Diabetes"
+      ],
+      "correctIndex": 3,
+      "explanation": "STDs can cause PID, abortions, still births, ectopic pregnancies, and infertility. Diabetes is not a complication of STDs.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q45",
+      "chapterId": "bio_ch10",
+      "question": "One of the best ways to prevent STDs is to:",
+      "options": [
+        "Avoid coitus with unknown partners/multiple partners",
+        "Always use condoms during coitus",
+        "Consult a doctor for early detection",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prevention includes avoiding multiple partners, using condoms, and seeking medical help for suspected symptoms.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q46",
+      "chapterId": "bio_ch10",
+      "question": "A 'test tube baby' refers to a baby born through:",
+      "options": [
+        "Natural conception",
+        "In Vitro Fertilisation followed by embryo transfer",
+        "Complete development in a glass tube",
+        "Artificial insemination only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Test tube baby programme involves IVF followed by ET (Embryo Transfer).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q47",
+      "chapterId": "bio_ch10",
+      "question": "In 'Intra-uterine Insemination' (IUI), the semen is introduced into the:",
+      "options": [
+        "Vagina",
+        "Uterus",
+        "Fallopian tube",
+        "Ovary"
+      ],
+      "correctIndex": 1,
+      "explanation": "In IUI, the semen (from husband/donor) is artificially introduced into the uterus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q48",
+      "chapterId": "bio_ch10",
+      "question": "Vaginal diaphragms are ________ contraceptives.",
+      "options": [
+        "Hormonal",
+        "Barrier",
+        "Chemical",
+        "Surgical"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diaphragms are barrier methods used by females.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q49",
+      "chapterId": "bio_ch10",
+      "question": "In the 'Lactational Amenorrhea' method, which of the following happens?",
+      "options": [
+        "Ovulation is inhibited",
+        "Menstrual cycle is absent",
+        "High levels of hormones prevent conception naturally",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Intense lactation inhibits ovulation and therefore the cycle, providing a natural contraceptive effect.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch10_q50",
+      "chapterId": "bio_ch10",
+      "question": "Which of the following describes 'Ammensalism' correctly?",
+      "options": [
+        "One benefits, one harmed (+,-)",
+        "One benefits, one unaffected (+,0)",
+        "One harmed, one unaffected (-,0)",
+        "Both harmed (-,-)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ammensalism is an interaction where one species is harmed and the other is unaffected.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch3_q1",
+      "chapterId": "math_ch3",
+      "question": "What is a matrix?",
+      "options": [
+        "A set of linear equations",
+        "An ordered rectangular array of numbers or functions",
+        "A collection of diagonal elements only",
+        "A compact method of solving integration"
+      ],
+      "correctIndex": 1,
+      "explanation": "A matrix is an ordered rectangular array of numbers or functions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q2",
+      "chapterId": "math_ch3",
+      "question": "The numbers or functions in a matrix are called its ________.",
+      "options": [
+        "Factors",
+        "Indices",
+        "Elements or entries",
+        "Variables"
+      ],
+      "correctIndex": 2,
+      "explanation": "The numbers or functions are called the elements or the entries of the matrix.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q3",
+      "chapterId": "math_ch3",
+      "question": "A matrix having 'm' rows and 'n' columns is called a matrix of order:",
+      "options": [
+        "m + n",
+        "m x n",
+        "n x m",
+        "mn"
+      ],
+      "correctIndex": 1,
+      "explanation": "A matrix having m rows and n columns is called a matrix of order m × n.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q4",
+      "chapterId": "math_ch3",
+      "question": "In the notation a_ij, what does 'i' represent?",
+      "options": [
+        "The column number",
+        "The total number of elements",
+        "The row number",
+        "The value of the element"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a_ij, i denotes the row and j denotes the column.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q5",
+      "chapterId": "math_ch3",
+      "question": "A matrix which has only one column is called a ________.",
+      "options": [
+        "Row matrix",
+        "Column matrix",
+        "Square matrix",
+        "Diagonal matrix"
+      ],
+      "correctIndex": 1,
+      "explanation": "A matrix is said to be a column matrix if it has only one column.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q6",
+      "chapterId": "math_ch3",
+      "question": "A matrix is called a row matrix if it has:",
+      "options": [
+        "Only one row",
+        "Only one column",
+        "Equal rows and columns",
+        "All zero elements"
+      ],
+      "correctIndex": 0,
+      "explanation": "A matrix is said to be a row matrix if it has only one row.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q7",
+      "chapterId": "math_ch3",
+      "question": "A matrix in which the number of rows is equal to the number of columns is a ________.",
+      "options": [
+        "Scalar matrix",
+        "Identity matrix",
+        "Square matrix",
+        "Zero matrix"
+      ],
+      "correctIndex": 2,
+      "explanation": "A matrix in which the number of rows is equal to the number of columns is said to be a square matrix.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q8",
+      "chapterId": "math_ch3",
+      "question": "If a square matrix of order 'n' has all its non-diagonal elements as zero, it is a ________.",
+      "options": [
+        "Diagonal matrix",
+        "Scalar matrix",
+        "Identity matrix",
+        "Row matrix"
+      ],
+      "correctIndex": 0,
+      "explanation": "A square matrix B = [b_ij] is said to be a diagonal matrix if all its non-diagonal elements are zero.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q9",
+      "chapterId": "math_ch3",
+      "question": "A diagonal matrix is said to be a scalar matrix if its diagonal elements are:",
+      "options": [
+        "All zero",
+        "All one",
+        "All equal",
+        "All different"
+      ],
+      "correctIndex": 2,
+      "explanation": "A diagonal matrix is said to be a scalar matrix if its diagonal elements are equal.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q10",
+      "chapterId": "math_ch3",
+      "question": "In an identity matrix, the diagonal elements are all equal to ________.",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "Any constant k"
+      ],
+      "correctIndex": 1,
+      "explanation": "A square matrix in which elements in the diagonal are all 1 and rest are all zero is called an identity matrix.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q11",
+      "chapterId": "math_ch3",
+      "question": "A matrix is said to be a zero matrix (or null matrix) if:",
+      "options": [
+        "The diagonal elements are zero",
+        "The number of rows is zero",
+        "All its elements are zero",
+        "It has no columns"
+      ],
+      "correctIndex": 2,
+      "explanation": "A matrix is said to be zero matrix or null matrix if all its elements are zero.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q12",
+      "chapterId": "math_ch3",
+      "question": "Two matrices A and B are equal if they have the same order and ________.",
+      "options": [
+        "Same diagonal elements",
+        "Same number of elements",
+        "Each element of A is equal to the corresponding element of B",
+        "Sum of elements is same"
+      ],
+      "correctIndex": 2,
+      "explanation": "Two matrices are equal if they are of the same order and each element of A is equal to the corresponding element of B (a_ij = b_ij).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q13",
+      "chapterId": "math_ch3",
+      "question": "The sum of two matrices A and B is defined only if they are:",
+      "options": [
+        "Square matrices",
+        "Of the same order",
+        "Diagonal matrices",
+        "Scalar matrices"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sum of two matrices is defined if they are of the same order.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q14",
+      "chapterId": "math_ch3",
+      "question": "The operation kA, where k is a scalar, is called:",
+      "options": [
+        "Matrix addition",
+        "Scalar multiplication of a matrix",
+        "Matrix transposition",
+        "Diagonalization"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiplying every element of a matrix by a constant k is called scalar multiplication.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q15",
+      "chapterId": "math_ch3",
+      "question": "The negative of a matrix A is denoted by -A and is defined as:",
+      "options": [
+        "1/A",
+        "A transposed",
+        "(-1)A",
+        "Zero matrix - A"
+      ],
+      "correctIndex": 2,
+      "explanation": "The negative of a matrix is denoted by –A. We define –A = (–1) A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q16",
+      "chapterId": "math_ch3",
+      "question": "Matrix addition follows the commutative law, which means:",
+      "options": [
+        "A + B = B + A",
+        "(A + B) + C = A + (B + C)",
+        "k(A + B) = kA + kB",
+        "A + 0 = A"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commutative law states A + B = B + A for matrices of the same order.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q17",
+      "chapterId": "math_ch3",
+      "question": "If A is an m x n matrix and 0 is an m x n zero matrix, then A + 0 equals:",
+      "options": [
+        "0",
+        "2A",
+        "A",
+        "-A"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zero matrix is the additive identity for matrix addition, so A + 0 = A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q18",
+      "chapterId": "math_ch3",
+      "question": "For any matrix A, the additive inverse is ________ such that A + (-A) = 0.",
+      "options": [
+        "Identity matrix",
+        "-A",
+        "Transpose of A",
+        "Scalar matrix"
+      ],
+      "correctIndex": 1,
+      "explanation": "The negative of A, –A, is the additive inverse of A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q19",
+      "chapterId": "math_ch3",
+      "question": "The product of two matrices AB is defined if the number of ________ of A is equal to the number of ________ of B.",
+      "options": [
+        "Rows, columns",
+        "Columns, rows",
+        "Elements, elements",
+        "Rows, rows"
+      ],
+      "correctIndex": 1,
+      "explanation": "The product of two matrices A and B is defined if the number of columns of A is equal to the number of rows of B.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q20",
+      "chapterId": "math_ch3",
+      "question": "If A is an m x n matrix and B is an n x p matrix, the order of the product matrix AB will be:",
+      "options": [
+        "n x n",
+        "m x p",
+        "p x m",
+        "m x n"
+      ],
+      "correctIndex": 1,
+      "explanation": "The resulting matrix of the product of m × n and n × p matrices is an m × p matrix.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q21",
+      "chapterId": "math_ch3",
+      "question": "Is matrix multiplication generally commutative?",
+      "options": [
+        "Yes, AB = BA always",
+        "No, AB is not always equal to BA",
+        "Only for row matrices",
+        "Only if AB = 0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matrix multiplication is not commutative in general, meaning AB ≠ BA even if both are defined.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q22",
+      "chapterId": "math_ch3",
+      "question": "If the product of two matrices is a zero matrix, does it mean at least one of the matrices must be a zero matrix?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for square matrices",
+        "Only for identity matrices"
+      ],
+      "correctIndex": 1,
+      "explanation": "The product of two non-zero matrices can be a zero matrix.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q23",
+      "chapterId": "math_ch3",
+      "question": "Matrix multiplication is associative, which means:",
+      "options": [
+        "A(B + C) = AB + AC",
+        "A(BC) = (AB)C",
+        "AB = BA",
+        "k(AB) = (kA)B"
+      ],
+      "correctIndex": 1,
+      "explanation": "Associative law for matrix multiplication: (AB) C = A (BC).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q24",
+      "chapterId": "math_ch3",
+      "question": "The Distributive Law for matrix multiplication states:",
+      "options": [
+        "A(B+C) = AB + AC",
+        "AB = BA",
+        "(AB)C = A(BC)",
+        "A + B = B + A"
+      ],
+      "correctIndex": 0,
+      "explanation": "Distributive law: A(B + C) = AB + AC and (A + B)C = AC + BC.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q25",
+      "chapterId": "math_ch3",
+      "question": "The identity matrix for multiplication (I) satisfies which property for a square matrix A?",
+      "options": [
+        "AI = IA = A",
+        "AI = 0",
+        "AI = I",
+        "A + I = A"
+      ],
+      "correctIndex": 0,
+      "explanation": "For every square matrix A, there exists an identity matrix I of the same order such that IA = AI = A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q26",
+      "chapterId": "math_ch3",
+      "question": "The transpose of a matrix A, denoted by A' or A^T, is obtained by:",
+      "options": [
+        "Negating all elements",
+        "Interchanging rows and columns",
+        "Setting non-diagonal elements to zero",
+        "Squaring all elements"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matrix obtained by interchanging the rows and columns of A is called the transpose of A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q27",
+      "chapterId": "math_ch3",
+      "question": "What is (A')' equal to?",
+      "options": [
+        "A'",
+        "0",
+        "A",
+        "-A"
+      ],
+      "correctIndex": 2,
+      "explanation": "The transpose of a transpose of a matrix is the original matrix itself: (A')' = A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q28",
+      "chapterId": "math_ch3",
+      "question": "Which of the following is true for the transpose of a product (AB)'?",
+      "options": [
+        "(AB)' = A'B'",
+        "(AB)' = B'A'",
+        "(AB)' = AB",
+        "(AB)' = (BA)'"
+      ],
+      "correctIndex": 1,
+      "explanation": "The transpose of the product of two matrices is the product of their transposes in reverse order: (AB)' = B'A'.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q29",
+      "chapterId": "math_ch3",
+      "question": "A square matrix A is called symmetric if:",
+      "options": [
+        "A = -A'",
+        "A' = A",
+        "A is diagonal",
+        "A is an identity matrix"
+      ],
+      "correctIndex": 1,
+      "explanation": "A square matrix A = [a_ij] is called symmetric if A' = A.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q30",
+      "chapterId": "math_ch3",
+      "question": "A square matrix A is called skew-symmetric if:",
+      "options": [
+        "A' = A",
+        "A' = -A",
+        "All elements are zero",
+        "Diagonal elements are one"
+      ],
+      "correctIndex": 1,
+      "explanation": "A square matrix A = [a_ij] is called skew-symmetric if A' = –A.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q31",
+      "chapterId": "math_ch3",
+      "question": "What is the value of the diagonal elements in a skew-symmetric matrix?",
+      "options": [
+        "All 1",
+        "All 0",
+        "Any real number",
+        "Can be anything"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a skew-symmetric matrix, a_ii = –a_ii, which implies 2a_ii = 0, so all diagonal elements must be zero.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q32",
+      "chapterId": "math_ch3",
+      "question": "Any square matrix can be expressed as the sum of a symmetric and a ________ matrix.",
+      "options": [
+        "Diagonal",
+        "Skew-symmetric",
+        "Identity",
+        "Scalar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Any square matrix can be uniquely expressed as the sum of a symmetric and a skew-symmetric matrix.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q33",
+      "chapterId": "math_ch3",
+      "question": "If A is a square matrix, then A + A' is always ________.",
+      "options": [
+        "Skew-symmetric",
+        "Diagonal",
+        "Symmetric",
+        "Zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "For any square matrix A, A + A' is a symmetric matrix.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q34",
+      "chapterId": "math_ch3",
+      "question": "If A is a square matrix, then A - A' is always ________.",
+      "options": [
+        "Symmetric",
+        "Skew-symmetric",
+        "Identity",
+        "Scalar"
+      ],
+      "correctIndex": 1,
+      "explanation": "For any square matrix A, A – A' is a skew-symmetric matrix.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q35",
+      "chapterId": "math_ch3",
+      "question": "Elementary operations (transformations) of a matrix are of how many types?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "There are six operations (transformations) on a matrix: three due to rows and three due to columns.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q36",
+      "chapterId": "math_ch3",
+      "question": "Which of the following is NOT an elementary row operation?",
+      "options": [
+        "Interchanging two rows",
+        "Multiplying a row by a non-zero constant",
+        "Adding a multiple of one row to another",
+        "Squaring all elements of a row"
+      ],
+      "correctIndex": 3,
+      "explanation": "Elementary operations include interchanging rows/columns, multiplying by non-zero constant, and adding multiples; squaring is not one of them.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q37",
+      "chapterId": "math_ch3",
+      "question": "Two square matrices A and B are called inverses of each other if:",
+      "options": [
+        "A + B = I",
+        "AB = BA = I",
+        "AB = 0",
+        "A = B'"
+      ],
+      "correctIndex": 1,
+      "explanation": "If A is a square matrix and there exists another square matrix B such that AB = BA = I, then B is the inverse of A.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q38",
+      "chapterId": "math_ch3",
+      "question": "A rectangular matrix (non-square) does not possess an inverse matrix because:",
+      "options": [
+        "It has too many rows",
+        "The products AB and BA cannot be defined and equal to identity",
+        "Its elements are zero",
+        "It cannot be transposed"
+      ],
+      "correctIndex": 1,
+      "explanation": "For matrix product AB and BA to be defined and equal to I, A and B must be square matrices of the same order.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q39",
+      "chapterId": "math_ch3",
+      "question": "If the inverse of a matrix exists, it is ________.",
+      "options": [
+        "Not unique",
+        "Unique",
+        "Always zero",
+        "Always identity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inverse of a square matrix, if it exists, is unique.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q40",
+      "chapterId": "math_ch3",
+      "question": "What is (AB)⁻¹ equal to?",
+      "options": [
+        "A⁻¹B⁻¹",
+        "B⁻¹A⁻¹",
+        "AB",
+        "BA"
+      ],
+      "correctIndex": 1,
+      "explanation": "The inverse of a product is the product of inverses in reverse order: (AB)⁻¹ = B⁻¹A⁻¹.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q41",
+      "chapterId": "math_ch3",
+      "question": "During the process of finding A⁻¹ using elementary row operations, if we obtain all zeros in one or more rows on the left side, then:",
+      "options": [
+        "A⁻¹ is the identity matrix",
+        "A⁻¹ is a zero matrix",
+        "A⁻¹ does not exist",
+        "The process must be repeated"
+      ],
+      "correctIndex": 2,
+      "explanation": "If all zeros are obtained in a row after operations on A = IA, then A⁻¹ does not exist.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q42",
+      "chapterId": "math_ch3",
+      "question": "The essence of Mathematics lies in its ________. (Quote by Cantor)",
+      "options": [
+        "Logic",
+        "Freedom",
+        "Complexity",
+        "Structure"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chapter opening quote by Cantor is 'The essence of Mathematics lies in its freedom.'",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q43",
+      "chapterId": "math_ch3",
+      "question": "In a scalar matrix, if the diagonal elements are all 'k', and k = 1, the matrix becomes:",
+      "options": [
+        "Zero matrix",
+        "Identity matrix",
+        "Row matrix",
+        "Skew-symmetric matrix"
+      ],
+      "correctIndex": 1,
+      "explanation": "An identity matrix is a special case of a scalar matrix where the equal diagonal elements are 1.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q44",
+      "chapterId": "math_ch3",
+      "question": "A square matrix A where a_ij = 0 for i > j is called an ________ triangular matrix.",
+      "options": [
+        "Upper",
+        "Lower",
+        "Diagonal",
+        "Scalar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Square matrices with zeros below the diagonal (i > j) are defined as upper triangular matrices.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q45",
+      "chapterId": "math_ch3",
+      "question": "If A and B are symmetric matrices of the same order, then AB – BA is a ________ matrix.",
+      "options": [
+        "Symmetric",
+        "Skew-symmetric",
+        "Null",
+        "Identity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calculation: (AB - BA)' = (AB)' - (BA)' = B'A' - A'B' = BA - AB = -(AB - BA). Hence it is skew-symmetric.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q46",
+      "chapterId": "math_ch3",
+      "question": "The number of all possible matrices of order 3 x 3 with each entry 0 or 1 is:",
+      "options": [
+        "27",
+        "18",
+        "81",
+        "512"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total entries = 3 x 3 = 9. Each can be filled in 2 ways (0 or 1). So, 2^9 = 512.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q47",
+      "chapterId": "math_ch3",
+      "question": "A matrix is used in computer programs called electronic ________.",
+      "options": [
+        "Databases",
+        "Spreadsheets",
+        "Compilers",
+        "Browsers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matrix notation and operations are used in electronic spreadsheet programs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q48",
+      "chapterId": "math_ch3",
+      "question": "If A = [a_ij] is an m x n matrix, its transpose A' has the order:",
+      "options": [
+        "m x n",
+        "n x m",
+        "m x m",
+        "n x n"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transpose interchanges rows and columns, so an m x n matrix becomes n x m.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q49",
+      "chapterId": "math_ch3",
+      "question": "For any constant k, (kA)' is equal to:",
+      "options": [
+        "k'A",
+        "kA'",
+        "k'A'",
+        "A'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scalar multiplication property of transpose: (kA)' = kA'.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch3_q50",
+      "chapterId": "math_ch3",
+      "question": "The concept of matrices evolved as a compact method for solving ________.",
+      "options": [
+        "Quadratic equations",
+        "System of linear equations",
+        "Differential equations",
+        "Trigonometric identities"
+      ],
+      "correctIndex": 1,
+      "explanation": "Concept of matrices resulted from attempts to obtain compact and simple methods of solving system of linear equations.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    }
+  ]
+}

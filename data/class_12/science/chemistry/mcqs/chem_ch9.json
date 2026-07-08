@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch9_q1",
+      "chapterId": "chem_ch9",
+      "question": "Amines are considered as derivatives of which molecule?",
+      "options": [
+        "Methane",
+        "Ammonia",
+        "Water",
+        "Benzene"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amines are derived by replacing one or more hydrogen atoms of an ammonia molecule with alkyl or aryl groups.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q2",
+      "chapterId": "chem_ch9",
+      "question": "What is the geometry of the nitrogen atom in amines?",
+      "options": [
+        "Tetrahedral",
+        "Planar",
+        "Pyramidal",
+        "Linear"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nitrogen orbitals in amines are sp3 hybridized and the geometry is pyramidal due to the presence of a lone pair.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q3",
+      "chapterId": "chem_ch9",
+      "question": "Which biologically active compound contains a secondary amino group and is used to increase blood pressure?",
+      "options": [
+        "Novocain",
+        "Benadryl",
+        "Adrenaline",
+        "Quaternary ammonium salts"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adrenaline and ephedrine both contain secondary amino groups and are used to increase blood pressure.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q4",
+      "chapterId": "chem_ch9",
+      "question": "Novocain, used as an anaesthetic in dentistry, is a:",
+      "options": [
+        "Natural protein",
+        "Synthetic amino compound",
+        "Alkaloid",
+        "Vitamin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Novocain is a synthetic amino compound used in dentistry.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q5",
+      "chapterId": "chem_ch9",
+      "question": "Benadryl, a well-known antihistaminic drug, contains which type of amino group?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benadryl contains a tertiary amino group.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q6",
+      "chapterId": "chem_ch9",
+      "question": "An amine is classified as 'secondary' (2°) if:",
+      "options": [
+        "One H of NH3 is replaced",
+        "Two H of NH3 are replaced",
+        "Three H of NH3 are replaced",
+        "It is attached to two nitrogens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Replacement of two hydrogen atoms of ammonia by alkyl/aryl groups yields secondary amines.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q7",
+      "chapterId": "chem_ch9",
+      "question": "What is the common name for Benzenamine?",
+      "options": [
+        "Benzylamine",
+        "Aniline",
+        "Toluidine",
+        "Nitrobenzene"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the IUPAC system, C6H5NH2 is named benzenamine, but it is most commonly known as aniline.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q8",
+      "chapterId": "chem_ch9",
+      "question": "The reduction of nitro compounds to amines can be achieved using which reagent?",
+      "options": [
+        "H2/Pd and ethanol",
+        "Sn + HCl",
+        "Fe + HCl",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nitro compounds are reduced to amines by passing H2 gas in presence of Pd, or using metals like Sn or Fe in acidic medium (HCl).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q9",
+      "chapterId": "chem_ch9",
+      "question": "In the reduction of nitro compounds, why is 'Fe + HCl' preferred over 'Sn + HCl'?",
+      "options": [
+        "Fe is cheaper",
+        "FeCl2 formed gets hydrolysed to release HCl",
+        "Reaction is faster with Fe",
+        "Fe does not produce side products"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reduction with iron scrap and HCl is preferred because FeCl2 formed gets hydrolysed to release HCl during the reaction, requiring only a small amount of HCl.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q10",
+      "chapterId": "chem_ch9",
+      "question": "The process of cleavage of the C—X bond by ammonia molecule is called:",
+      "options": [
+        "Aminolysis",
+        "Ammonolysis",
+        "Nitration",
+        "Reduction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ammonolysis is the process of cleavage of the C—X bond by an ammonia molecule.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q11",
+      "chapterId": "chem_ch9",
+      "question": "Which reaction is used to prepare primary amines from nitriles?",
+      "options": [
+        "Hoffmann degradation",
+        "Gabriel phthalimide synthesis",
+        "Reduction with LiAlH4",
+        "Carbylamine reaction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nitriles on reduction with lithium aluminium hydride (LiAlH4) or catalytic hydrogenation produce primary amines.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q12",
+      "chapterId": "chem_ch9",
+      "question": "Gabriel phthalimide synthesis is used for the preparation of which type of amines?",
+      "options": [
+        "Primary aliphatic amines",
+        "Primary aromatic amines",
+        "Secondary amines",
+        "Tertiary amines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gabriel synthesis is used for the preparation of primary aliphatic amines.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q13",
+      "chapterId": "chem_ch9",
+      "question": "Why cannot aromatic primary amines be prepared by Gabriel phthalimide synthesis?",
+      "options": [
+        "Aryl halides are too reactive",
+        "Aryl halides do not undergo nucleophilic substitution with phthalimide anion",
+        "Phthalimide is insoluble in benzene",
+        "The reaction is too slow"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aromatic primary amines cannot be prepared because aryl halides do not undergo nucleophilic substitution with the anion formed by phthalimide.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q14",
+      "chapterId": "chem_ch9",
+      "question": "Which reaction involves the migration of an alkyl or aryl group from carbonyl carbon to nitrogen?",
+      "options": [
+        "Gabriel synthesis",
+        "Hoffmann bromamide degradation",
+        "Ammonolysis",
+        "Reduction of amides"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Hoffmann bromamide degradation, an alkyl or aryl group migrates from the carbonyl carbon to the nitrogen atom.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q15",
+      "chapterId": "chem_ch9",
+      "question": "The amine formed by Hoffmann bromamide degradation contains:",
+      "options": [
+        "One carbon more than the amide",
+        "One carbon less than the amide",
+        "Same number of carbons as the amide",
+        "No carbons"
+      ],
+      "correctIndex": 1,
+      "explanation": "The amine formed contains one carbon less than that present in the starting amide.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q16",
+      "chapterId": "chem_ch9",
+      "question": "Lower aliphatic amines are ________ at room temperature with a fishy odour.",
+      "options": [
+        "Solids",
+        "Gases",
+        "Liquids",
+        "Plasma"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lower aliphatic amines are gases with a fishy odour.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q17",
+      "chapterId": "chem_ch9",
+      "question": "Why are lower aliphatic amines soluble in water?",
+      "options": [
+        "They are non-polar",
+        "They can form hydrogen bonds with water molecules",
+        "They react with water to form ice",
+        "They have high molar mass"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lower aliphatic amines are soluble in water because they can form hydrogen bonds with water molecules.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q18",
+      "chapterId": "chem_ch9",
+      "question": "Which type of amine has the highest boiling point among isomeric amines?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "All have the same"
+      ],
+      "correctIndex": 0,
+      "explanation": "Primary amines have higher boiling points due to maximum intermolecular hydrogen bonding (they have two hydrogens for bonding).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q19",
+      "chapterId": "chem_ch9",
+      "question": "The order of boiling points for isomeric amines is:",
+      "options": [
+        "Primary > Secondary > Tertiary",
+        "Tertiary > Secondary > Primary",
+        "Secondary > Primary > Tertiary",
+        "Primary > Tertiary > Secondary"
+      ],
+      "correctIndex": 0,
+      "explanation": "The order is Primary > Secondary > Tertiary because tertiary amines lack hydrogen atoms for intermolecular hydrogen bonding.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q20",
+      "chapterId": "chem_ch9",
+      "question": "Amines act as ________ because they have an unshared pair of electrons on nitrogen.",
+      "options": [
+        "Lewis Acids",
+        "Lewis Bases",
+        "Electrophiles",
+        "Neutral molecules"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amines are basic in nature due to the presence of an unshared pair of electrons on the nitrogen atom.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q21",
+      "chapterId": "chem_ch9",
+      "question": "A larger value of Kb or a smaller value of pKb indicates:",
+      "options": [
+        "Weak base",
+        "Strong base",
+        "Weak acid",
+        "Strong acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "The larger the value of Kb or smaller the value of pKb, the stronger is the base.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q22",
+      "chapterId": "chem_ch9",
+      "question": "In the gas phase, the order of basicity of amines is:",
+      "options": [
+        "Tertiary > Secondary > Primary > NH3",
+        "NH3 > Primary > Secondary > Tertiary",
+        "Secondary > Primary > Tertiary > NH3",
+        "All are equal"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the gas phase, basicity follows the +I effect of alkyl groups: 3° > 2° > 1° > NH3.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q23",
+      "chapterId": "chem_ch9",
+      "question": "In aqueous solution, the basicity of methyl substituted amines follows the order:",
+      "options": [
+        "(CH3)3N > (CH3)2NH > CH3NH2",
+        "(CH3)2NH > CH3NH2 > (CH3)3N > NH3",
+        "(CH3)3N > CH3NH2 > (CH3)2NH",
+        "NH3 > CH3NH2 > (CH3)2NH"
+      ],
+      "correctIndex": 1,
+      "explanation": "For methyl amines in water, the order is 2° > 1° > 3° > NH3 due to a combination of inductive, solvation, and steric effects.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q24",
+      "chapterId": "chem_ch9",
+      "question": "Aniline is ________ basic than ammonia.",
+      "options": [
+        "More",
+        "Less",
+        "Equally",
+        "Not at all"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aniline is less basic than ammonia because the lone pair of electrons on nitrogen is delocalized over the benzene ring.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q25",
+      "chapterId": "chem_ch9",
+      "question": "The reaction of an amine with an acid chloride is called:",
+      "options": [
+        "Alkylation",
+        "Acylation",
+        "Nitration",
+        "Sulfonation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aliphatic and aromatic primary and secondary amines react with acid chlorides, anhydrides, and esters by nucleophilic substitution; this is acylation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q26",
+      "chapterId": "chem_ch9",
+      "question": "The product of the reaction between an amine and an acid chloride is an:",
+      "options": [
+        "Ester",
+        "Amide",
+        "Ether",
+        "Alcohol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acylation of amines produces amides.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q27",
+      "chapterId": "chem_ch9",
+      "question": "Carbylamine reaction is a test for which of the following?",
+      "options": [
+        "Aliphatic and aromatic primary amines",
+        "Secondary amines only",
+        "Tertiary amines only",
+        "All amines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aliphatic and aromatic primary amines on heating with chloroform and ethanolic potassium hydroxide form isocyanides (carbylamines).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q28",
+      "chapterId": "chem_ch9",
+      "question": "Isocyanides (carbylamines) have an ________ odour.",
+      "options": [
+        "Pleasant",
+        "Foul (Extremely unpleasant)",
+        "No",
+        "Fruit-like"
+      ],
+      "correctIndex": 1,
+      "explanation": "Isocyanides are foul-smelling substances.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q29",
+      "chapterId": "chem_ch9",
+      "question": "Which of the following reacts with nitrous acid to form highly unstable alkyldiazonium salts that eventually release nitrogen gas and form alcohols?",
+      "options": [
+        "Primary aliphatic amines",
+        "Secondary amines",
+        "Tertiary amines",
+        "Aniline"
+      ],
+      "correctIndex": 0,
+      "explanation": "Primary aliphatic amines react with nitrous acid to form alcohols and evolve N2 gas.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q30",
+      "chapterId": "chem_ch9",
+      "question": "Benzene sulphonyl chloride (C6H5SO2Cl) is also known as:",
+      "options": [
+        "Tollen's reagent",
+        "Hinsberg’s reagent",
+        "Grignard reagent",
+        "Lucas reagent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Benzenesulphonyl chloride is known as Hinsberg’s reagent.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q31",
+      "chapterId": "chem_ch9",
+      "question": "Which amine reacts with Hinsberg's reagent to form a product that is soluble in alkali?",
+      "options": [
+        "Primary amine",
+        "Secondary amine",
+        "Tertiary amine",
+        "None of these"
+      ],
+      "correctIndex": 0,
+      "explanation": "The product of primary amine and Hinsberg's reagent contains an acidic hydrogen, making it soluble in alkali.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q32",
+      "chapterId": "chem_ch9",
+      "question": "Tertiary amines do not react with benzenesulphonyl chloride because:",
+      "options": [
+        "They are too large",
+        "They do not contain any hydrogen atom on the nitrogen atom",
+        "They are not basic",
+        "They react too fast"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tertiary amines do not react with benzenesulphonyl chloride as they lack a hydrogen atom attached to the nitrogen.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q33",
+      "chapterId": "chem_ch9",
+      "question": "Aniline reacts with bromine water to give a ________ precipitate.",
+      "options": [
+        "Yellow",
+        "White",
+        "Red",
+        "Blue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aniline reacts with bromine water at room temperature to give a white precipitate of 2,4,6-tribromoaniline.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q34",
+      "chapterId": "chem_ch9",
+      "question": "Direct nitration of aniline with concentrated HNO3/H2SO4 yields a significant amount of which 'unexpected' isomer?",
+      "options": [
+        "Ortho",
+        "Para",
+        "Meta",
+        "It only yields ortho"
+      ],
+      "correctIndex": 2,
+      "explanation": "In strongly acidic medium, aniline is protonated to form anilinium ion which is meta-directing; hence a significant amount (47%) of meta-derivative is formed.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q35",
+      "chapterId": "chem_ch9",
+      "question": "To prepare p-nitroaniline from aniline, the amino group must first be protected by:",
+      "options": [
+        "Alkylation",
+        "Acetylation",
+        "Reduction",
+        "Nitration"
+      ],
+      "correctIndex": 1,
+      "explanation": "The —NH2 group is protected by acetylation with acetic anhydride before nitration to control the reaction and direct it to the para position.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q36",
+      "chapterId": "chem_ch9",
+      "question": "Aniline does not undergo which of the following reactions due to salt formation with AlCl3?",
+      "options": [
+        "Nitration",
+        "Bromination",
+        "Friedel-Crafts reaction",
+        "Sulphonation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aniline does not undergo Friedel-Crafts reaction because the catalyst AlCl3 (a Lewis acid) reacts with aniline (a Lewis base) to form a salt.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q37",
+      "chapterId": "chem_ch9",
+      "question": "Sulphonation of aniline yields 'sulphanilic acid', which exists as a:",
+      "options": [
+        "Simple acid",
+        "Simple base",
+        "Zwitterion",
+        "Gas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sulphanilic acid contains both acidic and basic groups and exists as a dipolar ion or zwitterion.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q38",
+      "chapterId": "chem_ch9",
+      "question": "What is the general formula for Diazonium salts?",
+      "options": [
+        "RN2+X-",
+        "RNH2",
+        "RNO2",
+        "RCN"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diazonium salts have the general formula RN2+X- where R is an aryl group and X- is an ion like Cl-, Br-, etc.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q39",
+      "chapterId": "chem_ch9",
+      "question": "The process of converting an aniline into a diazonium salt using NaNO2 and HCl at 273-278 K is called:",
+      "options": [
+        "Aminolysis",
+        "Diazotisation",
+        "Reduction",
+        "Coupling"
+      ],
+      "correctIndex": 1,
+      "explanation": "The conversion of primary aromatic amines into diazonium salts is known as diazotisation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q40",
+      "chapterId": "chem_ch9",
+      "question": "Benzenediazonium chloride reacts with CuCl/HCl to form chlorobenzene. This is known as the ________ reaction.",
+      "options": [
+        "Gatterman",
+        "Sandmeyer",
+        "Wurtz",
+        "Fittig"
+      ],
+      "correctIndex": 1,
+      "explanation": "The replacement of diazo group by Cl, Br, or CN using Cu(I) salts is called the Sandmeyer reaction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q41",
+      "chapterId": "chem_ch9",
+      "question": "In the Gatterman reaction, the diazo group is replaced using:",
+      "options": [
+        "Cu(I) salts",
+        "Copper powder in HCl/HBr",
+        "NaI",
+        "LiAlH4"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Gatterman reaction, chlorine or bromine can be introduced into the benzene ring by treating the diazonium salt solution with corresponding halogen acid in the presence of copper powder.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q42",
+      "chapterId": "chem_ch9",
+      "question": "Iodobenzene can be prepared by simply shaking the diazonium salt solution with:",
+      "options": [
+        "CuI",
+        "KI",
+        "I2",
+        "HI"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iodine is not easily introduced by Sandmeyer reaction; iodobenzene is formed by shaking with potassium iodide (KI).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q43",
+      "chapterId": "chem_ch9",
+      "question": "Which reagent is used to reduce a diazonium salt to benzene?",
+      "options": [
+        "H3PO2 (Hypophosphorous acid)",
+        "Ethanol",
+        "Both A and B",
+        "LiAlH4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mild reducing agents like hypophosphorous acid or ethanol reduce diazonium salts to arenes (benzene).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q44",
+      "chapterId": "chem_ch9",
+      "question": "The reaction of diazonium salts with phenols or anilines to form brightly coloured azo compounds is called:",
+      "options": [
+        "Diazotisation",
+        "Azo coupling",
+        "Sandmeyer reaction",
+        "Aminolysis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Azo coupling involves the reaction of diazonium salts with phenols or aromatic amines to form azo dyes (Ar-N=N-Ar).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q45",
+      "chapterId": "chem_ch9",
+      "question": "p-Hydroxyazobenzene, formed by the coupling of benzenediazonium chloride and phenol, is ________ in colour.",
+      "options": [
+        "Yellow",
+        "Orange",
+        "Red",
+        "Blue"
+      ],
+      "correctIndex": 1,
+      "explanation": "p-Hydroxyazobenzene is an orange dye.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q46",
+      "chapterId": "chem_ch9",
+      "question": "Coupling of diazonium salt with aniline produces p-aminoazobenzene, which is a ________ dye.",
+      "options": [
+        "Orange",
+        "Yellow",
+        "Red",
+        "Green"
+      ],
+      "correctIndex": 1,
+      "explanation": "p-Aminoazobenzene is a yellow dye.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q47",
+      "chapterId": "chem_ch9",
+      "question": "Which of the following salts is used as a surfactant?",
+      "options": [
+        "Primary amine salts",
+        "Quaternary ammonium salts",
+        "Diazonium salts",
+        "Amides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quaternary ammonium salts are used as surfactants.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q48",
+      "chapterId": "chem_ch9",
+      "question": "What is the IUPAC name for CH3—CH2—NH2?",
+      "options": [
+        "Methylamine",
+        "Ethanamine",
+        "Propanamine",
+        "Ethyl ammonia"
+      ],
+      "correctIndex": 1,
+      "explanation": "CH3CH2NH2 contains two carbons, so it is ethanamine.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q49",
+      "chapterId": "chem_ch9",
+      "question": "Aqueous solution of amines is ________ to litmus.",
+      "options": [
+        "Acidic (turns blue red)",
+        "Basic (turns red blue)",
+        "Neutral",
+        "Does not affect"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amines are basic and turn red litmus blue.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch9_q50",
+      "chapterId": "chem_ch9",
+      "question": "In the nomenclature of 2° and 3° amines, when different groups are present, which group is chosen as the parent chain?",
+      "options": [
+        "Smallest group",
+        "Largest group",
+        "Alphabetically first",
+        "Any group"
+      ],
+      "correctIndex": 1,
+      "explanation": "In IUPAC, the highest priority (largest) alkyl group is chosen as the parent chain.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    }
+  ]
+}

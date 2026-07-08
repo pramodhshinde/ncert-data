@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch8_q1",
+      "chapterId": "math_ch8",
+      "question": "Application of Integrals is primarily used to calculate areas enclosed by curves which are inadequate for:",
+      "options": [
+        "Basic arithmetic",
+        "Elementary geometry formulae",
+        "Linear algebra",
+        "Trigonometric identities"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formulae of elementary geometry are inadequate for calculating areas enclosed by curves; for that, concepts of Integral Calculus are needed.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q2",
+      "chapterId": "math_ch8",
+      "question": "The area of the region bounded by the curve y = f(x), x-axis and the ordinates x = a and x = b is given by:",
+      "options": [
+        "∫[a to b] x dy",
+        "∫[a to b] y dx",
+        "∫[a to b] f'(x) dx",
+        "∫[a to b] y² dx"
+      ],
+      "correctIndex": 1,
+      "explanation": "The area under a curve y = f(x) from x = a to x = b is the definite integral ∫[a to b] y dx.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q3",
+      "chapterId": "math_ch8",
+      "question": "Which mathematician is associated with the quote 'nature can be conceived in harmonious form' through Mathematics?",
+      "options": [
+        "Newton",
+        "Leibnitz",
+        "Birkhoff",
+        "Cauchy"
+      ],
+      "correctIndex": 2,
+      "explanation": "The chapter opening quote is attributed to Birkhoff.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q4",
+      "chapterId": "math_ch8",
+      "question": "When considering the area of a region bounded by a curve x = g(y), y-axis and lines y = c, y = d, the area is evaluated as:",
+      "options": [
+        "∫[c to d] y dx",
+        "∫[c to d] x dy",
+        "∫[c to d] f(x) dx",
+        "∫[c to d] g'(y) dy"
+      ],
+      "correctIndex": 1,
+      "explanation": "If the curve is given as x = g(y), we integrate with respect to y: Area = ∫[c to d] x dy.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q5",
+      "chapterId": "math_ch8",
+      "question": "In the process of finding area using integrals, we consider the area as the result of summing up:",
+      "options": [
+        "Circular sectors",
+        "Triangular segments",
+        "Thin vertical or horizontal strips",
+        "Square grids"
+      ],
+      "correctIndex": 2,
+      "explanation": "The area is thought of as the sum of areas of very thin vertical (or horizontal) strips.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q6",
+      "chapterId": "math_ch8",
+      "question": "If a curve y = f(x) lies below the x-axis from x = a to x = b, the integral ∫[a to b] f(x) dx will be:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Undefined"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a curve below the x-axis, f(x) < 0, making the definite integral negative, though area is taken as its absolute value.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q7",
+      "chapterId": "math_ch8",
+      "question": "What must be taken to represent the 'area' if the definite integral value is negative?",
+      "options": [
+        "The square of the value",
+        "The reciprocal of the value",
+        "The absolute value",
+        "The value remains negative"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since area is always non-negative, we take the absolute value of the integral if it is negative.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q8",
+      "chapterId": "math_ch8",
+      "question": "The total area of the circle x² + y² = a² can be found by calculating 4 times the area of:",
+      "options": [
+        "The whole circle",
+        "The first quadrant",
+        "A semi-circle",
+        "A triangle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Due to symmetry, the area of a circle can be calculated as 4 times the area in the first quadrant.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q9",
+      "chapterId": "math_ch8",
+      "question": "What is the standard area of the circle x² + y² = a² derived using integration?",
+      "options": [
+        "πa",
+        "2πa",
+        "πa²",
+        "4πa²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Integrating the function for a circle leads to the standard formula πa².",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q10",
+      "chapterId": "math_ch8",
+      "question": "For an ellipse x²/a² + y²/b² = 1, the area of the region bounded by the ellipse is:",
+      "options": [
+        "πa²",
+        "πb²",
+        "πab",
+        "2πab"
+      ],
+      "correctIndex": 2,
+      "explanation": "Using integration for the standard form of an ellipse yields the area πab.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q11",
+      "chapterId": "math_ch8",
+      "question": "Who suggested the term 'Calculus integrali' in 1696?",
+      "options": [
+        "Newton",
+        "Leibnitz",
+        "J. Bernoulli",
+        "Fermat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Leibnitz changed the name from 'Calculus summatorius' to 'Calculus integrali' following a suggestion by J. Bernoulli.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q12",
+      "chapterId": "math_ch8",
+      "question": "Respective theories of Newton and Leibnitz were accomplished results that were:",
+      "options": [
+        "Completely different",
+        "Practically identical",
+        "Contradictory",
+        "Irrelevant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Respective theories accomplished results that were practically identical despite different approaches.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q13",
+      "chapterId": "math_ch8",
+      "question": "Leibnitz initially called his work ________ because it was connected with the summation of infinitely small areas.",
+      "options": [
+        "Calculus integrali",
+        "Calculus differentialis",
+        "Calculus summatorius",
+        "Calculus infinitesimal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Leibnitz called his work 'Calculus summatorius' initially.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q14",
+      "chapterId": "math_ch8",
+      "question": "The discovery that differentiation and integration are inverse operations belongs to:",
+      "options": [
+        "Archimedes",
+        "Kepler and Descartes",
+        "Newton and Leibnitz",
+        "Cauchy and Fermat"
+      ],
+      "correctIndex": 2,
+      "explanation": "The discovery of inverse operations is attributed to Newton and Leibnitz.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q15",
+      "chapterId": "math_ch8",
+      "question": "Which mathematician developed the justification of Calculus by the concept of 'limit' in the early 19th century?",
+      "options": [
+        "I. Newton",
+        "G. Leibnitz",
+        "A.L. Cauchy",
+        "P.de Fermat"
+      ],
+      "correctIndex": 2,
+      "explanation": "The justification by the concept of limit was developed by A.L. Cauchy.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q16",
+      "chapterId": "math_ch8",
+      "question": "Fundamental concepts of Integral Calculus were developed at the end of which century?",
+      "options": [
+        "16th Century",
+        "17th Century",
+        "18th Century",
+        "19th Century"
+      ],
+      "correctIndex": 1,
+      "explanation": "The fundamental concepts were developed at the end of the 17th century by Fermat, Newton, and Leibnitz.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q17",
+      "chapterId": "math_ch8",
+      "question": "To find the area of the region bounded by a parabola y² = 4ax and its latus rectum x = a, the integral setup is:",
+      "options": [
+        "∫[0 to a] 2√(ax) dx",
+        "∫[0 to a] √(4ax) dx",
+        "Both A and B are equivalent",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "The function y = √(4ax) = 2√(ax). To get the total area (above and below x-axis), you double the integral from 0 to a.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q18",
+      "chapterId": "math_ch8",
+      "question": "Area between the curve y = cos x, x-axis, x = 0 and x = 2π requires splitting the integral because:",
+      "options": [
+        "cos x is always positive",
+        "cos x changes sign in the interval [0, 2π]",
+        "The limits are too large",
+        "2π is a periodic point"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area must be split where the function changes from positive to negative to ensure we sum absolute values.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q19",
+      "chapterId": "math_ch8",
+      "question": "The concept of 'Area function' was introduced in which chapter of the source text?",
+      "options": [
+        "Chapter 1",
+        "Chapter 5",
+        "Chapter 7",
+        "Chapter 8"
+      ],
+      "correctIndex": 2,
+      "explanation": "The area function A(x) was defined in the previous chapter (Chapter 7 - Integrals).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q20",
+      "chapterId": "math_ch8",
+      "question": "Newton's method of tangents is described as the ________ method.",
+      "options": [
+        "Direct",
+        "Inverse",
+        "Recursive",
+        "Limit-based"
+      ],
+      "correctIndex": 1,
+      "explanation": "Newton used the 'inverse method of tangents'.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q21",
+      "chapterId": "math_ch8",
+      "question": "Standard vertical strips used for area under y = f(x) have width:",
+      "options": [
+        "dy",
+        "dx",
+        "Δy",
+        "y"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vertical strips have height y and width dx.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q22",
+      "chapterId": "math_ch8",
+      "question": "Horizontal strips used for area bounded by x = g(y) have height:",
+      "options": [
+        "dx",
+        "dy",
+        "x",
+        "Δx"
+      ],
+      "correctIndex": 1,
+      "explanation": "Horizontal strips have length x and height (width) dy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q23",
+      "chapterId": "math_ch8",
+      "question": "Area of the region bounded by x² = 4y, y = 2, y = 4 and the y-axis in the first quadrant is found by integrating:",
+      "options": [
+        "y with respect to x",
+        "x with respect to y",
+        "x² with respect to y",
+        "y² with respect to x"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since it is bounded by y-axis and y-limits, we use Area = ∫[c to d] x dy.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q24",
+      "chapterId": "math_ch8",
+      "question": "For y = sin x between x = 0 and x = π, the area is:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "π"
+      ],
+      "correctIndex": 2,
+      "explanation": "∫[0 to π] sin x dx = [-cos x] from 0 to π = -(-1) - (-1) = 2.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q25",
+      "chapterId": "math_ch8",
+      "question": "The area of the region bounded by the curve y = f(x) and y = g(x) from x = a to x = b is:",
+      "options": [
+        "∫[a to b] [f(x) + g(x)] dx",
+        "∫[a to b] [f(x) - g(x)] dx",
+        "∫[a to b] f(x) dx / ∫[a to b] g(x) dx",
+        "None of these"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area between two curves is found by subtracting the lower function from the upper function: ∫[a to b] [f(x) - g(x)] dx.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q26",
+      "chapterId": "math_ch8",
+      "question": "The 'Historical Note' credits the origins of the integral conception to:",
+      "options": [
+        "Newton",
+        "Leibnitz",
+        "Archimedes",
+        "Cauchy"
+      ],
+      "correctIndex": 2,
+      "explanation": "The conceptions of integral in their origin back to Archimedes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q27",
+      "chapterId": "math_ch8",
+      "question": "Who was the first to clearly appreciate the tie up between the antiderivative and the definite integral?",
+      "options": [
+        "Fermat",
+        "Newton",
+        "Leibnitz",
+        "Wallis"
+      ],
+      "correctIndex": 2,
+      "explanation": "It is quite certain that Leibnitz first clearly appreciated this tie up.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q28",
+      "chapterId": "math_ch8",
+      "question": "If f(x) ≥ g(x) in [a, c] and f(x) ≤ g(x) in [c, b], the area between them is:",
+      "options": [
+        "∫[a to b] [f(x) - g(x)] dx",
+        "∫[a to c] [f(x) - g(x)] dx + ∫[c to b] [g(x) - f(x)] dx",
+        "∫[a to b] |f(x)| dx",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "You must split the integral where the curves intersect to ensure you are always subtracting 'upper - lower'.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q29",
+      "chapterId": "math_ch8",
+      "question": "A vertical strip is also called a:",
+      "options": [
+        "Normal strip",
+        "Tangent strip",
+        "Elementary strip",
+        "Diagonal strip"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text refers to vertical or horizontal strips as 'elementary strips'.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q30",
+      "chapterId": "math_ch8",
+      "question": "The height of an elementary vertical strip at any point x is:",
+      "options": [
+        "x",
+        "f(x)",
+        "dx",
+        "1/x"
+      ],
+      "correctIndex": 1,
+      "explanation": "The strip height corresponds to the y-value of the function f(x).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q31",
+      "chapterId": "math_ch8",
+      "question": "Area of the shaded region in Fig 8.3 involves integrating from x = a to x = c and then x = c to x = b. This is used when f(x) is:",
+      "options": [
+        "Constant",
+        "Increasing only",
+        "Both positive and negative in the interval",
+        "A straight line"
+      ],
+      "correctIndex": 2,
+      "explanation": "Splitting is required when the curve crosses the x-axis, causing y to change sign.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q32",
+      "chapterId": "math_ch8",
+      "question": "Which work suggested the discovery that differentiation and integration are inverse operations?",
+      "options": [
+        "Analysis Infinitorium",
+        "Methodus tangentium inversa",
+        "Siddhantas",
+        "Principia Mathematica"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leibnitz's 'Methodus tangentium inversa' (1673) dealt with this concept.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q33",
+      "chapterId": "math_ch8",
+      "question": "Elementary geometry formulae are fundamental but inadequate for ________ curves.",
+      "options": [
+        "Simple",
+        "Standard",
+        "Non-linear/Complex",
+        "Straight"
+      ],
+      "correctIndex": 2,
+      "explanation": "Geometry handles simple figures, but integrals are needed for areas enclosed by curves.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q34",
+      "chapterId": "math_ch8",
+      "question": "Area of a region bounded by y = x² and the line y = 4 involves integrating y from ________.",
+      "options": [
+        "0 to 2",
+        "0 to 4",
+        "-2 to 2",
+        "Depends on x"
+      ],
+      "correctIndex": 1,
+      "explanation": "If integrating with respect to y (horizontal strips), limits are the y-values 0 and 4.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q35",
+      "chapterId": "math_ch8",
+      "question": "Which of these is NOT an objective listed for this chapter?",
+      "options": [
+        "Find area under simple curves",
+        "Find area between lines and circles",
+        "Find area of standard parabolas",
+        "Find volumes of revolution"
+      ],
+      "correctIndex": 3,
+      "explanation": "The summary lists area under curves and between lines/standard arcs, but does not mention volumes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q36",
+      "chapterId": "math_ch8",
+      "question": "Standard form parabolas, ellipses, and circles are used for area calculation in this chapter. What does 'standard form' imply?",
+      "options": [
+        "Centered at origin",
+        "Polynomial form",
+        "Linear form",
+        "Differentiable"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this context, standard forms typically refer to curves centered at the origin or in simplified orientations.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q37",
+      "chapterId": "math_ch8",
+      "question": "Leibnitz used a specific symbol to indicate summation. It eventually became the integral sign. What was it?",
+      "options": [
+        "Σ",
+        "S",
+        "∫",
+        "Δ"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text mentions he indicated the sum by the symbol 'S' (from summatorius), which evolved into ∫.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q38",
+      "chapterId": "math_ch8",
+      "question": "Fermat, Newton and Leibnitz developed theory in the 17th century. Who developed the 'concept of limit' justification later?",
+      "options": [
+        "Descartes",
+        "Wallis",
+        "Archimedes",
+        "Cauchy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cauchy provided the limit-based justification in the early 19th century.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q39",
+      "chapterId": "math_ch8",
+      "question": "Area of the region bounded by y = f(x), x-axis and ordinates x = a, x = b is calculated as the:",
+      "options": [
+        "Derivative of f(x)",
+        "Limit of a sum",
+        "Product of a and b",
+        "Slope of the curve"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finding area is evaluating the definite integral as the limit of a sum.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q40",
+      "chapterId": "math_ch8",
+      "question": "According to the quotation by Lie Sophie, thediscovery of differentiation and integration as inverse operations belongs to:",
+      "options": [
+        "Archimedes",
+        "Kepler and Wallis",
+        "Newton and Leibnitz",
+        "Descartes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lie Sophie attributes the discovery of inverse operations to Newton and Leibnitz.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q41",
+      "chapterId": "math_ch8",
+      "question": "Area of the triangle with vertices (2, 0), (4, 5), and (6, 3) can be found using:",
+      "options": [
+        "Integration",
+        "Determinants",
+        "Both A and B",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "Triangular areas can be calculated via integration (finding equations of lines) or the determinant method from geometry.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q42",
+      "chapterId": "math_ch8",
+      "question": "If Area = |∫[a to c] f(x) dx| + |∫[c to b] f(x) dx|, this implies:",
+      "options": [
+        "The function is linear",
+        "The function crosses the x-axis at x=c",
+        "The function is constant",
+        "The function is periodic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Absolute values are summed separately when parts of the area are below the x-axis.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q43",
+      "chapterId": "math_ch8",
+      "question": "A curve symmetric about the x-axis means that for every point (x, y) on the curve, there is a point:",
+      "options": [
+        "(-x, y)",
+        "(x, -y)",
+        "(-x, -y)",
+        "(y, x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "X-axis symmetry means flipping over the x-axis (changing y to -y) leaves the curve unchanged.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q44",
+      "chapterId": "math_ch8",
+      "question": "A curve symmetric about the y-axis means that for every point (x, y) on the curve, there is a point:",
+      "options": [
+        "(-x, y)",
+        "(x, -y)",
+        "(-x, -y)",
+        "(y, x)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Y-axis symmetry means flipping over the y-axis (changing x to -x) leaves the curve unchanged.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q45",
+      "chapterId": "math_ch8",
+      "question": "Standard ellipses have symmetry about:",
+      "options": [
+        "x-axis only",
+        "y-axis only",
+        "Both x and y axes",
+        "Neither axis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Standard ellipses (x²/a² + y²/b² = 1) are symmetric about both axes.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q46",
+      "chapterId": "math_ch8",
+      "question": "To find the area of the region bounded by x² = y, y = 1, y = 4 and the y-axis in the first quadrant, the strip should be:",
+      "options": [
+        "Vertical",
+        "Horizontal",
+        "Diagonal",
+        "Circular"
+      ],
+      "correctIndex": 1,
+      "explanation": "Horizontal strips (dy) are more convenient when limits are given on the y-axis.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q47",
+      "chapterId": "math_ch8",
+      "question": "The area of the region bounded by y = x, x-axis and x = 2 is a triangle with area:",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "∫[0 to 2] x dx = [x²/2] from 0 to 2 = 4/2 = 2.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q48",
+      "chapterId": "math_ch8",
+      "question": "In Fig 8.2, the vertical strip is shown with height y and width ________.",
+      "options": [
+        "dy",
+        "x",
+        "dx",
+        "Δy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vertical strips have an infinitesimal width denoted as dx.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q49",
+      "chapterId": "math_ch8",
+      "question": "Area under the curve y = f(x) between x = a and x = b involves the ________ theorem of Calculus.",
+      "options": [
+        "First",
+        "Second",
+        "Fundamental",
+        "Mean Value"
+      ],
+      "correctIndex": 2,
+      "explanation": "Definite integrals are evaluated using the Fundamental Theorem of Calculus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch8_q50",
+      "chapterId": "math_ch8",
+      "question": "Area of region {(x, y) : x² ≤ y ≤ x} is bounded by a parabola and a ________.",
+      "options": [
+        "Circle",
+        "Point",
+        "Line",
+        "Ellipse"
+      ],
+      "correctIndex": 2,
+      "explanation": "The boundaries are the parabola y = x² and the line y = x.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    }
+  ]
+}

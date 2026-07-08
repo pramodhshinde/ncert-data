@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch2_q1",
+      "chapterId": "math_ch2",
+      "question": "An inverse of a function f exists if and only if f is:",
+      "options": [
+        "One-one only",
+        "Onto only",
+        "Both one-one and onto",
+        "Neither one-one nor onto"
+      ],
+      "correctIndex": 2,
+      "explanation": "The inverse of a function f exists if f is one-one and onto (bijective).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q2",
+      "chapterId": "math_ch2",
+      "question": "The natural domain of the sine function is:",
+      "options": [
+        "[-1, 1]",
+        "Real numbers (R)",
+        "[0, π]",
+        "(-π/2, π/2)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sine function is defined as sine: R → [-1, 1].",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q3",
+      "chapterId": "math_ch2",
+      "question": "The range of the sine function is:",
+      "options": [
+        "R",
+        "[-1, 1]",
+        "(-1, 1)",
+        "[0, 1]"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sine function maps all real numbers to the interval [-1, 1].",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q4",
+      "chapterId": "math_ch2",
+      "question": "To make the sine function one-one and onto, its domain is restricted to:",
+      "options": [
+        "[0, π]",
+        "[-π/2, π/2]",
+        "[0, 2π]",
+        "R"
+      ],
+      "correctIndex": 1,
+      "explanation": "Restricting the domain of sine to [-π/2, π/2] makes it one-one and onto with range [-1, 1].",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q5",
+      "chapterId": "math_ch2",
+      "question": "The branch of sin⁻¹x with range [-π/2, π/2] is called the:",
+      "options": [
+        "Secondary branch",
+        "Principal value branch",
+        "General branch",
+        "Identity branch"
+      ],
+      "correctIndex": 1,
+      "explanation": "The branch with range [-π/2, π/2] is called the principal value branch for sin⁻¹x.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q6",
+      "chapterId": "math_ch2",
+      "question": "What is the domain of the function y = sin⁻¹x?",
+      "options": [
+        "R",
+        "[-1, 1]",
+        "[0, π]",
+        "[-π/2, π/2]"
+      ],
+      "correctIndex": 1,
+      "explanation": "The domain of sin⁻¹ is the range of the restricted sine function, which is [-1, 1].",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q7",
+      "chapterId": "math_ch2",
+      "question": "The range of the principal value branch of cos⁻¹x is:",
+      "options": [
+        "[-π/2, π/2]",
+        "[0, π]",
+        "(0, π)",
+        "R"
+      ],
+      "correctIndex": 1,
+      "explanation": "For the cosine function, the restriction to [0, π] provides the principal value branch for its inverse.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q8",
+      "chapterId": "math_ch2",
+      "question": "The domain of y = tan⁻¹x is:",
+      "options": [
+        "R",
+        "[-1, 1]",
+        "R - {0}",
+        "(-π/2, π/2)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The tangent function has a range of all real numbers, so the domain of its inverse is R.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q9",
+      "chapterId": "math_ch2",
+      "question": "The range of the principal value branch of cosec⁻¹x is:",
+      "options": [
+        "[-π/2, π/2]",
+        "[-π/2, π/2] - {0}",
+        "[0, π] - {π/2}",
+        "(-π/2, π/2)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The range for cosec⁻¹x is [-π/2, π/2] excluding the point 0 where cosec is undefined.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q10",
+      "chapterId": "math_ch2",
+      "question": "The principal value branch of sec⁻¹x has the range:",
+      "options": [
+        "[0, π]",
+        "[0, π] - {π/2}",
+        "[-π/2, π/2] - {0}",
+        "(0, π)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The range for sec⁻¹x is [0, π] excluding π/2.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q11",
+      "chapterId": "math_ch2",
+      "question": "Who suggested the symbols sin⁻¹x and cos⁻¹x for arc sine and arc cosine in 1813?",
+      "options": [
+        "Aryabhata",
+        "Sir John F.W. Herschel",
+        "Bhaskara I",
+        "Felix Klein"
+      ],
+      "correctIndex": 1,
+      "explanation": "The symbols sin⁻¹x, cos⁻¹x, etc., were suggested by astronomer Sir John F.W. Herschel (1813).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q12",
+      "chapterId": "math_ch2",
+      "question": "Which ancient mathematician is associated with height and distance problems and the determination of the pyramid's height?",
+      "options": [
+        "Aryabhata",
+        "Thales",
+        "Bhaskara II",
+        "Leibnitz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thales (about 600 B.C.) is associated with height and distance problems, including measuring the pyramid's shadow.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q13",
+      "chapterId": "math_ch2",
+      "question": "The range of the principal value branch of tan⁻¹x is:",
+      "options": [
+        "[-π/2, π/2]",
+        "(-π/2, π/2)",
+        "[0, π]",
+        "(0, π)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The principal range for tan⁻¹x is the open interval (-π/2, π/2).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q14",
+      "chapterId": "math_ch2",
+      "question": "What is the domain of sec⁻¹x?",
+      "options": [
+        "[-1, 1]",
+        "R",
+        "R - (-1, 1)",
+        "R - {0}"
+      ],
+      "correctIndex": 2,
+      "explanation": "The domain of sec⁻¹x is the set of all real numbers except those between -1 and 1.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q15",
+      "chapterId": "math_ch2",
+      "question": "The value of an inverse trigonometric function in its principal value branch is called the:",
+      "options": [
+        "Domain value",
+        "Principal value",
+        "General solution",
+        "Restricted value"
+      ],
+      "correctIndex": 1,
+      "explanation": "The value lying in the principal value branch is called the principal value of the function.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q16",
+      "chapterId": "math_ch2",
+      "question": "The cotangent function is defined as cot: R - {x : x = nπ, n ∈ Z} →:",
+      "options": [
+        "[-1, 1]",
+        "R",
+        "(0, π)",
+        "[-π/2, π/2]"
+      ],
+      "correctIndex": 1,
+      "explanation": "The range of the cotangent function is the set of all real numbers (R).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q17",
+      "chapterId": "math_ch2",
+      "question": "Which sixteenth-century Malayalam work contains a proof for the expansion of sin (A + B)?",
+      "options": [
+        "Siddhanta",
+        "Yuktibhasa",
+        "Aryabhatiya",
+        "Lilavati"
+      ],
+      "correctIndex": 1,
+      "explanation": "The work Yuktibhasa contains a proof for the expansion of sin(A+B).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q18",
+      "chapterId": "math_ch2",
+      "question": "Who gave the formulae to find values of sine functions for angles more than 90° around 600 A.D.?",
+      "options": [
+        "Aryabhata",
+        "Bhaskara I",
+        "Bhaskara II",
+        "Thales"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bhaskara I gave formulae for sine functions of angles greater than 90°.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q19",
+      "chapterId": "math_ch2",
+      "question": "The domain of cot⁻¹x is:",
+      "options": [
+        "R",
+        "[-1, 1]",
+        "(0, π)",
+        "R - {nπ}"
+      ],
+      "correctIndex": 0,
+      "explanation": "The domain of cot⁻¹ is the range of cot, which is R.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q20",
+      "chapterId": "math_ch2",
+      "question": "The principal value range of cot⁻¹x is:",
+      "options": [
+        "[0, π]",
+        "(0, π)",
+        "[-π/2, π/2]",
+        "(-π/2, π/2)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The principal value branch for cot⁻¹x is (0, π).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q21",
+      "chapterId": "math_ch2",
+      "question": "Trigonometric functions are not one-one and onto over their natural domains. This makes them:",
+      "options": [
+        "Periodic",
+        "Constant",
+        "Non-invertible without restrictions",
+        "Complex"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since they are not one-one and onto naturally, their inverses do not exist unless domains are restricted.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q22",
+      "chapterId": "math_ch2",
+      "question": "In the graph of y = sin⁻¹x, the x-axis represents ________ and the y-axis represents ________.",
+      "options": [
+        "Angles, Values",
+        "Values, Angles",
+        "Real numbers, Real numbers",
+        "Time, Distance"
+      ],
+      "correctIndex": 1,
+      "explanation": "For an inverse function sin⁻¹x, x is a value in [-1, 1] and y is an angle (arc).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q23",
+      "chapterId": "math_ch2",
+      "question": "What is the principal value of sin⁻¹(1/2)?",
+      "options": [
+        "π/3",
+        "π/6",
+        "π/4",
+        "π/2"
+      ],
+      "correctIndex": 1,
+      "explanation": "sin(π/6) = 1/2, and π/6 lies in the principal branch [-π/2, π/2].",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q24",
+      "chapterId": "math_ch2",
+      "question": "The range of the function sec x is:",
+      "options": [
+        "R",
+        "[-1, 1]",
+        "R - (-1, 1)",
+        "(-1, 1)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The range of secant is the set of all real numbers y such that |y| ≥ 1.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q25",
+      "chapterId": "math_ch2",
+      "question": "Bhaskara II gave the exact expressions for sines or cosines of which specific angles?",
+      "options": [
+        "15°, 75°",
+        "18°, 36°, 54°, 72°",
+        "30°, 45°, 60°",
+        "10°, 20°, 40°"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exact expressions for 18°, 36°, 54°, 72°, etc., were provided by Bhaskara II.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q26",
+      "chapterId": "math_ch2",
+      "question": "Inverse trigonometric functions are primarily important in calculus because they serve to define many:",
+      "options": [
+        "Derivatives",
+        "Integrals",
+        "Limits",
+        "Functions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inverse trigonometric functions serve to define many integrals.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q27",
+      "chapterId": "math_ch2",
+      "question": "The tangent function is not defined for which values of x?",
+      "options": [
+        "nπ",
+        "(2n+1)π/2",
+        "nπ/2",
+        "2nπ"
+      ],
+      "correctIndex": 1,
+      "explanation": "tan x is undefined for odd multiples of π/2.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q28",
+      "chapterId": "math_ch2",
+      "question": "The principal value of cos⁻¹(-1/2) is:",
+      "options": [
+        "-π/3",
+        "π/3",
+        "2π/3",
+        "5π/6"
+      ],
+      "correctIndex": 2,
+      "explanation": "cos(2π/3) = -1/2 and 2π/3 lies in the principal range [0, π].",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q29",
+      "chapterId": "math_ch2",
+      "question": "The graph of an inverse trigonometric function can be obtained from the graph of the original function by interchanging:",
+      "options": [
+        "Sine and Cosine",
+        "x and y axes",
+        "Domain and Codomain only",
+        "Positive and Negative values"
+      ],
+      "correctIndex": 1,
+      "explanation": "Interchanging x and y axes on the graph of the original function yields the inverse function graph.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q30",
+      "chapterId": "math_ch2",
+      "question": "What is the principal value of tan⁻¹(-1)?",
+      "options": [
+        "3π/4",
+        "π/4",
+        "-π/4",
+        "7π/4"
+      ],
+      "correctIndex": 2,
+      "explanation": "tan(-π/4) = -1 and -π/4 is within (-π/2, π/2).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q31",
+      "chapterId": "math_ch2",
+      "question": "Which of these is NOT a valid branch for sin⁻¹x?",
+      "options": [
+        "[-π/2, π/2]",
+        "[π/2, 3π/2]",
+        "[0, π]",
+        "[3π/2, 5π/2]"
+      ],
+      "correctIndex": 2,
+      "explanation": "The range [0, π] is for cos⁻¹x, not sin⁻¹x. Branches for sin⁻¹x are of the form [(n-1/2)π, (n+1/2)π].",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q32",
+      "chapterId": "math_ch2",
+      "question": "If no branch of an inverse trigonometric function is mentioned, we always consider the:",
+      "options": [
+        "Identity branch",
+        "Principal value branch",
+        "Zero branch",
+        "Infinite branch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unless otherwise stated, the principal value branch is always assumed.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q33",
+      "chapterId": "math_ch2",
+      "question": "The domain of cosec⁻¹x is:",
+      "options": [
+        "[-1, 1]",
+        "R",
+        "(-∞, -1] ∪ [1, ∞)",
+        "R - {0}"
+      ],
+      "correctIndex": 2,
+      "explanation": "The domain is {x : |x| ≥ 1}, or R - (-1, 1).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q34",
+      "chapterId": "math_ch2",
+      "question": "What is the value of tan⁻¹(√3)?",
+      "options": [
+        "π/6",
+        "π/4",
+        "π/3",
+        "π/2"
+      ],
+      "correctIndex": 2,
+      "explanation": "tan(π/3) = √3, and π/3 is in the principal range.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q35",
+      "chapterId": "math_ch2",
+      "question": "The cotangent function is undefined for x =:",
+      "options": [
+        "(2n+1)π/2",
+        "nπ",
+        "2nπ",
+        "π/4"
+      ],
+      "correctIndex": 1,
+      "explanation": "cot x = cos x / sin x, so it is undefined where sin x = 0, i.e., at x = nπ.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q36",
+      "chapterId": "math_ch2",
+      "question": "The Indian approach to trigonometry was adopted throughout the world because the Greek approach was too:",
+      "options": [
+        "Simple",
+        "Clumsy",
+        "Modern",
+        "Advanced"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text states the Greek approach was 'clumsy' compared to the Indian one.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q37",
+      "chapterId": "math_ch2",
+      "question": "The 'sine of an angle' represents a main contribution from the ________ to mathematics.",
+      "options": [
+        "Vedas",
+        "Siddhantas",
+        "Puranas",
+        "Upanishads"
+      ],
+      "correctIndex": 1,
+      "explanation": "The main contribution mentioned is from the Sanskrit astronomical works called siddhantas.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q38",
+      "chapterId": "math_ch2",
+      "question": "Principal value of sin⁻¹(-1/2) is:",
+      "options": [
+        "π/6",
+        "5π/6",
+        "-π/6",
+        "11π/6"
+      ],
+      "correctIndex": 2,
+      "explanation": "sin(-π/6) = -1/2, which is in the range [-π/2, π/2].",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q39",
+      "chapterId": "math_ch2",
+      "question": "The range of y = sec⁻¹x is [0, π] - {π/2}. Why is π/2 excluded?",
+      "options": [
+        "sec(π/2) is zero",
+        "sec(π/2) is undefined",
+        "cos(π/2) is 1",
+        "sin(π/2) is 0"
+      ],
+      "correctIndex": 1,
+      "explanation": "sec x = 1/cos x, and since cos(π/2) = 0, sec(π/2) is undefined.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q40",
+      "chapterId": "math_ch2",
+      "question": "Find the principal value of cos⁻¹(√3/2):",
+      "options": [
+        "π/6",
+        "π/3",
+        "π/4",
+        "5π/6"
+      ],
+      "correctIndex": 0,
+      "explanation": "cos(π/6) = √3/2, which is in the range [0, π].",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q41",
+      "chapterId": "math_ch2",
+      "question": "The name of Felix Klein is mentioned in the context of:",
+      "options": [
+        "Calculus",
+        "Definitions of self-evident things",
+        "Astronomical symbols",
+        "Siddhantas"
+      ],
+      "correctIndex": 1,
+      "explanation": "The quote 'Mathematics, in general, is fundamentally the science of self-evident things' is attributed to Felix Klein.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q42",
+      "chapterId": "math_ch2",
+      "question": "What is the principal value of cosec⁻¹(2)?",
+      "options": [
+        "π/6",
+        "π/3",
+        "π/4",
+        "-π/6"
+      ],
+      "correctIndex": 0,
+      "explanation": "cosec(π/6) = 2, and π/6 is in the principal range [-π/2, π/2] - {0}.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q43",
+      "chapterId": "math_ch2",
+      "question": "Which of the following functions has a principal value range of (0, π)?",
+      "options": [
+        "cos⁻¹x",
+        "cot⁻¹x",
+        "sec⁻¹x",
+        "sin⁻¹x"
+      ],
+      "correctIndex": 1,
+      "explanation": "The range for cot⁻¹x is the open interval (0, π).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q44",
+      "chapterId": "math_ch2",
+      "question": "Calculated the height of a great pyramid using the ratio of shadows and a staff:",
+      "options": [
+        "Aryabhata",
+        "Thales",
+        "Bhaskara",
+        "Herschel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thales determined the pyramid's height using similar triangle ratios.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q45",
+      "chapterId": "math_ch2",
+      "question": "sin⁻¹(sin x) = x is true for x in which interval?",
+      "options": [
+        "R",
+        "[-1, 1]",
+        "[-π/2, π/2]",
+        "[0, π]"
+      ],
+      "correctIndex": 2,
+      "explanation": "The identity holds only if x belongs to the principal value branch of the inverse function.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q46",
+      "chapterId": "math_ch2",
+      "question": "Find the principal value of sec⁻¹(2/√3):",
+      "options": [
+        "π/3",
+        "π/6",
+        "π/4",
+        "5π/6"
+      ],
+      "correctIndex": 1,
+      "explanation": "sec(π/6) = 1/cos(π/6) = 2/√3, which is in the range [0, π] - {π/2}.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q47",
+      "chapterId": "math_ch2",
+      "question": "Thales is said to have calculated the distance of a ________ at sea using similar triangles.",
+      "options": [
+        "Pyramid",
+        "Ship",
+        "Island",
+        "Lighthouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thales used the proportionality of sides of similar triangles to find the distance of a ship at sea.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q48",
+      "chapterId": "math_ch2",
+      "question": "Principal value of cosec⁻¹(-√2) is:",
+      "options": [
+        "π/4",
+        "3π/4",
+        "-π/4",
+        "-π/2"
+      ],
+      "correctIndex": 2,
+      "explanation": "cosec(-π/4) = -√2, which is in the principal branch [-π/2, π/2] - {0}.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q49",
+      "chapterId": "math_ch2",
+      "question": "Which mathematician lived from 476-550 A.D. and contributed to trigonometry?",
+      "options": [
+        "Aryabhata",
+        "Bhaskara I",
+        "Bhaskara II",
+        "Thales"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aryabhata's lifespan was 476-550 A. D.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch2_q50",
+      "chapterId": "math_ch2",
+      "question": "What is the principal value of cot⁻¹(-1/√3)?",
+      "options": [
+        "-π/3",
+        "π/3",
+        "2π/3",
+        "5π/6"
+      ],
+      "correctIndex": 2,
+      "explanation": "cot(2π/3) = -1/√3, and 2π/3 lies in the principal branch (0, π).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    }
+  ]
+}

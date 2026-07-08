@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "c12cs_ch08_q01",
+      "chapterId": "c12_cs_ch08",
+      "question": "What is the primary limitation of manual record keeping mentioned in the text?",
+      "options": [
+        "It requires high-speed internet",
+        "Entry of student details every time they are promoted is tedious",
+        "It automatically deletes old records",
+        "It uses too much electricity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manual record keeping involves repetitive tasks such as re-entering student details (Roll number and name) into a new register whenever they are promoted to the next class.",
+      "ncertPage": 112,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q02",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which issue occurs when the same data is stored in multiple files but not updated in all of them?",
+      "options": [
+        "Data Isolation",
+        "Data Redundancy",
+        "Data Inconsistency",
+        "Data Security"
+      ],
+      "correctIndex": 2,
+      "explanation": "Data inconsistency occurs when the same data maintained in different files contains different information, such as an updated address in one file but the old address in another.",
+      "ncertPage": 113,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q03",
+      "chapterId": "c12_cs_ch08",
+      "question": "What is 'Data Redundancy' in a file system?",
+      "options": [
+        "The process of deleting old data",
+        "Duplication of the same data in multiple files",
+        "The inability of two files to communicate",
+        "Protecting data with a password"
+      ],
+      "correctIndex": 1,
+      "explanation": "Data redundancy means the same data is duplicated in different files, which results in more storage space and higher costs.",
+      "ncertPage": 113,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q04",
+      "chapterId": "c12_cs_ch08",
+      "question": "In a file system, when data is stored in different formats across various files, making it hard for applications to access it, the problem is called:",
+      "options": [
+        "Data Redundancy",
+        "Data Isolation",
+        "Data Integration",
+        "Data Independence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Data isolation occurs because data is stored in different files and often in different formats, making it difficult to write new application programs to retrieve the appropriate data.",
+      "ncertPage": 113,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q05",
+      "chapterId": "c12_cs_ch08",
+      "question": "What does DBMS stand for?",
+      "options": [
+        "Digital Binary Management System",
+        "Database Management System",
+        "Data Business Monitoring System",
+        "Database Manufacturing Software"
+      ],
+      "correctIndex": 1,
+      "explanation": "DBMS stands for Database Management System, which is a software system that allows users to create, maintain, and provide controlled access to a database.",
+      "ncertPage": 114,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q06",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which of the following is a primary advantage of using a DBMS?",
+      "options": [
+        "Increasing data redundancy",
+        "Manual data entry",
+        "Reducing data inconsistency",
+        "Lowering network speed"
+      ],
+      "correctIndex": 2,
+      "explanation": "One of the key advantages of a DBMS is reducing data inconsistency by managing a single logical database that many programs can access.",
+      "ncertPage": 114,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q07",
+      "chapterId": "c12_cs_ch08",
+      "question": "A database that follows the relational data model stores data in the form of:",
+      "options": [
+        "Hierarchical trees",
+        "Tables (Relations)",
+        "Linked lists",
+        "Unstructured text files"
+      ],
+      "correctIndex": 1,
+      "explanation": "The relational data model represents data in the form of tables, which are called relations in database terminology.",
+      "ncertPage": 116,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q08",
+      "chapterId": "c12_cs_ch08",
+      "question": "In the relational model, what is another term for a 'Table'?",
+      "options": [
+        "Attribute",
+        "Tuple",
+        "Relation",
+        "Domain"
+      ],
+      "correctIndex": 2,
+      "explanation": "In relational database systems, a table is formally referred to as a 'Relation'.",
+      "ncertPage": 116,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q09",
+      "chapterId": "c12_cs_ch08",
+      "question": "Each row in a relational table is called a:",
+      "options": [
+        "Attribute",
+        "Domain",
+        "Tuple",
+        "Degree"
+      ],
+      "correctIndex": 2,
+      "explanation": "A row in a table is called a 'Tuple' in the relational model.",
+      "ncertPage": 117,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q10",
+      "chapterId": "c12_cs_ch08",
+      "question": "Each column in a relational table is called a:",
+      "options": [
+        "Tuple",
+        "Attribute",
+        "Cardinality",
+        "Relation"
+      ],
+      "correctIndex": 1,
+      "explanation": "A column in a table is called an 'Attribute' in the relational model.",
+      "ncertPage": 117,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q11",
+      "chapterId": "c12_cs_ch08",
+      "question": "The number of attributes (columns) in a relation is known as its:",
+      "options": [
+        "Cardinality",
+        "Domain",
+        "Degree",
+        "Tuple count"
+      ],
+      "correctIndex": 2,
+      "explanation": "The number of attributes in a relation is called the 'Degree' of the relation.",
+      "ncertPage": 117,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q12",
+      "chapterId": "c12_cs_ch08",
+      "question": "The number of tuples (rows) in a relation is known as its:",
+      "options": [
+        "Degree",
+        "Cardinality",
+        "Schema",
+        "Constraint"
+      ],
+      "correctIndex": 1,
+      "explanation": "The number of tuples in a relation is called the 'Cardinality' of the relation.",
+      "ncertPage": 117,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q13",
+      "chapterId": "c12_cs_ch08",
+      "question": "What is the 'Domain' of an attribute?",
+      "options": [
+        "The table name",
+        "The set of permissible values for that attribute",
+        "The number of rows in the table",
+        "The primary key of the table"
+      ],
+      "correctIndex": 1,
+      "explanation": "Domain is the pool of values from which the actual values appearing in a given column are drawn.",
+      "ncertPage": 117,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q14",
+      "chapterId": "c12_cs_ch08",
+      "question": "An attribute that can uniquely identify each tuple in a relation is called a:",
+      "options": [
+        "Foreign Key",
+        "Primary Key",
+        "Composite Key",
+        "Alternate Key"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Primary Key is an attribute or a set of attributes that uniquely identifies each tuple in a relation.",
+      "ncertPage": 118,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q15",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which property must a Primary Key satisfy?",
+      "options": [
+        "It must be null",
+        "It can contain duplicate values",
+        "It must be unique and non-null",
+        "It must be a numeric value only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A primary key value must be unique for each row and it cannot be NULL.",
+      "ncertPage": 119,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q16",
+      "chapterId": "c12_cs_ch08",
+      "question": "A primary key that consists of more than one attribute is called a:",
+      "options": [
+        "Simple Key",
+        "Foreign Key",
+        "Composite Primary Key",
+        "Candidate Key"
+      ],
+      "correctIndex": 2,
+      "explanation": "When a primary key is composed of more than one attribute, it is called a composite primary key.",
+      "ncertPage": 119,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q17",
+      "chapterId": "c12_cs_ch08",
+      "question": "Any attribute that is a potential candidate to be the primary key is called a:",
+      "options": [
+        "Alternate Key",
+        "Candidate Key",
+        "Foreign Key",
+        "Secondary Key"
+      ],
+      "correctIndex": 1,
+      "explanation": "All attribute combinations which can serve as a primary key are called Candidate Keys.",
+      "ncertPage": 119,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q18",
+      "chapterId": "c12_cs_ch08",
+      "question": "The candidate keys that are not selected as the primary key are called:",
+      "options": [
+        "Primary Keys",
+        "Foreign Keys",
+        "Alternate Keys",
+        "Unique Keys"
+      ],
+      "correctIndex": 2,
+      "explanation": "Out of the candidate keys, the one that is not chosen as the primary key is called an Alternate Key.",
+      "ncertPage": 119,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q19",
+      "chapterId": "c12_cs_ch08",
+      "question": "A non-key attribute in one table whose values are derived from the primary key of another table is called a:",
+      "options": [
+        "Candidate Key",
+        "Foreign Key",
+        "Composite Key",
+        "Primary Key"
+      ],
+      "correctIndex": 1,
+      "explanation": "A foreign key is used to represent the relationship between two relations. It is an attribute whose value is derived from the primary key of another relation.",
+      "ncertPage": 120,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q20",
+      "chapterId": "c12_cs_ch08",
+      "question": "What is the primary purpose of a Foreign Key?",
+      "options": [
+        "To uniquely identify rows in its own table",
+        "To establish a link or relationship between two tables",
+        "To ensure data redundancy",
+        "To prevent data access"
+      ],
+      "correctIndex": 1,
+      "explanation": "A foreign key is used to represent the relationship between two relations by referencing the primary key of another table.",
+      "ncertPage": 120,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q21",
+      "chapterId": "c12_cs_ch08",
+      "question": "In the relational model, can a primary key contain a NULL value?",
+      "options": [
+        "Yes, always",
+        "Only if it's a composite key",
+        "No, never",
+        "Only for the first row"
+      ],
+      "correctIndex": 2,
+      "explanation": "A primary key cannot contain a NULL value because its purpose is to uniquely identify each row.",
+      "ncertPage": 119,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q22",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which system is more efficient for managing large volumes of data and providing security?",
+      "options": [
+        "Manual Register",
+        "File System",
+        "DBMS",
+        "Spreadsheet"
+      ],
+      "correctIndex": 2,
+      "explanation": "A DBMS is designed to manage large volumes of data efficiently, ensure data integrity, and provide security and controlled access.",
+      "ncertPage": 114,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q23",
+      "chapterId": "c12_cs_ch08",
+      "question": "In a school database, if the attribute 'Class' can only have values from I to XII, this set of values is the:",
+      "options": [
+        "Degree",
+        "Cardinality",
+        "Domain",
+        "Tuple"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'Domain' is the set of all possible values that can be assigned to an attribute.",
+      "ncertPage": 117,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q24",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which of the following is NOT a property of a relation?",
+      "options": [
+        "Each attribute has a unique name",
+        "The order of rows is significant",
+        "Tuples are distinct",
+        "Values are atomic"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a relation, the order of rows (tuples) is not significant.",
+      "ncertPage": 117,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q25",
+      "chapterId": "c12_cs_ch08",
+      "question": "If a table has 5 rows and 4 columns, what is its cardinality?",
+      "options": [
+        "4",
+        "5",
+        "9",
+        "20"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cardinality is the number of rows in the table.",
+      "ncertPage": 117,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q26",
+      "chapterId": "c12_cs_ch08",
+      "question": "The data values in a relation must be atomic, which means:",
+      "options": [
+        "They must be numbers",
+        "They cannot be further subdivided",
+        "They must be unique",
+        "They must be non-zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Atomic values mean that a cell in a table can hold only a single value which cannot be further divided.",
+      "ncertPage": 117,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q27",
+      "chapterId": "c12_cs_ch08",
+      "question": "What is the main problem solved by 'Data Sharing' in a DBMS?",
+      "options": [
+        "It allows different users to access the same data",
+        "It increases the speed of the hardware",
+        "It manually sorts the data",
+        "It makes the data harder to read"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a DBMS, data can be shared among multiple users and applications, which is not easily possible in a traditional file system.",
+      "ncertPage": 115,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q28",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which key is used to identify a related row in another table?",
+      "options": [
+        "Primary Key",
+        "Candidate Key",
+        "Foreign Key",
+        "Alternate Key"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Foreign Key is used to link a row in one table to a row in another table by referencing its primary key.",
+      "ncertPage": 120,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q29",
+      "chapterId": "c12_cs_ch08",
+      "question": "The physical structure of the database is hidden from the user in a DBMS. This property is known as:",
+      "options": [
+        "Data Redundancy",
+        "Data Independence",
+        "Data Integrity",
+        "Data Isolation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Data Independence allows the structure of the data to be changed without having to change all the application programs that access it.",
+      "ncertPage": 115,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q30",
+      "chapterId": "c12_cs_ch08",
+      "question": "In the table 'GUARDIAN' with attributes G_ID, Name, and Phone, which is likely the primary key?",
+      "options": [
+        "Name",
+        "Phone",
+        "G_ID",
+        "All of them"
+      ],
+      "correctIndex": 2,
+      "explanation": "G_ID is an identification attribute that would uniquely identify each guardian, making it the best choice for a primary key.",
+      "ncertPage": 118,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q31",
+      "chapterId": "c12_cs_ch08",
+      "question": "What defines the structure of a relation including its name and attributes?",
+      "options": [
+        "Tuple",
+        "Relation Schema",
+        "Domain",
+        "Key"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Relation Schema defines the design or structure of a relation, including its name and the attributes it contains.",
+      "ncertPage": 117,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q32",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which of the following is a drawback of the File System compared to DBMS?",
+      "options": [
+        "Data is highly secure",
+        "Difficult to enforce consistency",
+        "Zero data redundancy",
+        "Automatic backup features"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enforcing consistency is difficult in a file system because data may be duplicated and stored in different formats.",
+      "ncertPage": 113,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q33",
+      "chapterId": "c12_cs_ch08",
+      "question": "If multiple combinations of attributes can uniquely identify a row, how many primary keys can the table have?",
+      "options": [
+        "As many as candidate keys",
+        "Only one",
+        "Exactly two",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "Even if there are multiple candidate keys, only one is chosen to be the primary key for the relation.",
+      "ncertPage": 118,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q34",
+      "chapterId": "c12_cs_ch08",
+      "question": "Data Integrity in a DBMS ensures that:",
+      "options": [
+        "Data is available to everyone",
+        "Data values are accurate and consistent",
+        "Data is deleted regularly",
+        "Data is stored in multiple places"
+      ],
+      "correctIndex": 1,
+      "explanation": "Data integrity refers to the accuracy and consistency of the data stored in the database.",
+      "ncertPage": 115,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q35",
+      "chapterId": "c12_cs_ch08",
+      "question": "In relational model terminology, an 'Attribute' is also known as a:",
+      "options": [
+        "Row",
+        "Record",
+        "Column",
+        "Entity"
+      ],
+      "correctIndex": 2,
+      "explanation": "In common parlance, an attribute is referred to as a column in a table.",
+      "ncertPage": 117,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q36",
+      "chapterId": "c12_cs_ch08",
+      "question": "A table named 'STAFF' has attributes (Staff_ID, Name, Email, Phone). If both Staff_ID and Email are unique, what are they called?",
+      "options": [
+        "Candidate Keys",
+        "Alternate Keys",
+        "Foreign Keys",
+        "Primary Keys"
+      ],
+      "correctIndex": 0,
+      "explanation": "Attributes or combinations of attributes that can uniquely identify a row are all considered candidate keys.",
+      "ncertPage": 119,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q37",
+      "chapterId": "c12_cs_ch08",
+      "question": "What happens if a user tries to delete a row in a parent table that is referenced by a foreign key in a child table?",
+      "options": [
+        "The child table is deleted",
+        "The operation is restricted by the DBMS to maintain integrity",
+        "The database crashes",
+        "A new primary key is created"
+      ],
+      "correctIndex": 1,
+      "explanation": "Foreign key constraints prevent the deletion of parent rows if dependent rows exist in a related child table, maintaining referential integrity.",
+      "ncertPage": 120,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q38",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which of these is a database management software?",
+      "options": [
+        "MS Word",
+        "MySQL",
+        "Python",
+        "HTML"
+      ],
+      "correctIndex": 1,
+      "explanation": "MySQL is a popular open-source relational database management system.",
+      "ncertPage": 116,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q39",
+      "chapterId": "c12_cs_ch08",
+      "question": "A relation has a degree of 4 and a cardinality of 10. How many columns are there?",
+      "options": [
+        "4",
+        "10",
+        "14",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "The degree is defined as the number of attributes or columns in the relation.",
+      "ncertPage": 117,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q40",
+      "chapterId": "c12_cs_ch08",
+      "question": "Why is the order of attributes in a relation considered insignificant?",
+      "options": [
+        "Because the DBMS sorts them alphabetically",
+        "Because they are accessed by name, not position",
+        "Because they only contain numeric data",
+        "Because there are no names for columns"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a relation, the order of columns (attributes) is not important because each attribute has a unique name used for access.",
+      "ncertPage": 117,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q41",
+      "chapterId": "c12_cs_ch08",
+      "question": "In a school register, keeping track of fees paid, library books, and exam marks in separate books is an example of:",
+      "options": [
+        "Data Redundancy",
+        "Data Integrity",
+        "File-based record keeping",
+        "Database schema"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditional record keeping where different sets of data are maintained in separate registers or files is a file-based approach.",
+      "ncertPage": 112,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q42",
+      "chapterId": "c12_cs_ch08",
+      "question": "When an application program is independent of the way data is physically stored, it is called:",
+      "options": [
+        "Data Isolation",
+        "Data Redundancy",
+        "Data Independence",
+        "Data Schema"
+      ],
+      "correctIndex": 2,
+      "explanation": "Data Independence means that the logical representation of data is separate from its physical storage, allowing changes without affecting applications.",
+      "ncertPage": 115,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q43",
+      "chapterId": "c12_cs_ch08",
+      "question": "A table is considered 'normalized' when it follows certain rules. What is a basic rule for data in a relation?",
+      "options": [
+        "Rows can be duplicated",
+        "Values in a cell must be atomic",
+        "Columns must be in a specific order",
+        "Every cell must contain a NULL value"
+      ],
+      "correctIndex": 1,
+      "explanation": "A fundamental rule of relations is that all values appearing in a column must be atomic (indivisible).",
+      "ncertPage": 117,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q44",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which term describes the process of allowing only authorized users to access specific parts of a database?",
+      "options": [
+        "Data Sharing",
+        "Security and Access Control",
+        "Data Redundancy",
+        "Data Integration"
+      ],
+      "correctIndex": 1,
+      "explanation": "A DBMS provides security and access control by ensuring only authorized users can access the database, and their access can be restricted to specific parts.",
+      "ncertPage": 115,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q45",
+      "chapterId": "c12_cs_ch08",
+      "question": "Can a table have multiple alternate keys?",
+      "options": [
+        "No, only one",
+        "Yes, if there are multiple candidate keys not chosen as the primary key",
+        "Only if the primary key is composite",
+        "Only if there are no primary keys"
+      ],
+      "correctIndex": 1,
+      "explanation": "A table can have multiple alternate keys if there were several candidate keys and only one was selected as the primary key.",
+      "ncertPage": 119,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q46",
+      "chapterId": "c12_cs_ch08",
+      "question": "In the relational model, a 'Relation Instance' refers to:",
+      "options": [
+        "The design of the table",
+        "The set of tuples (data) at a specific point in time",
+        "The primary key only",
+        "The list of all candidate keys"
+      ],
+      "correctIndex": 1,
+      "explanation": "A relation instance is the set of tuples present in the relation at any given moment.",
+      "ncertPage": 117,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q47",
+      "chapterId": "c12_cs_ch08",
+      "question": "Which of these is NOT a limitation of the file system?",
+      "options": [
+        "Data Isolation",
+        "Data Sharing",
+        "Data Redundancy",
+        "Enforcing Integrity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Data Sharing is an advantage of a DBMS, but it is a limitation/difficulty in a file system.",
+      "ncertPage": 113,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q48",
+      "chapterId": "c12_cs_ch08",
+      "question": "The attribute that link two relations together is the:",
+      "options": [
+        "Alternate Key",
+        "Composite Key",
+        "Foreign Key",
+        "Null Key"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Foreign Key is the mechanism used to link one relation to another by referencing a primary key.",
+      "ncertPage": 120,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q49",
+      "chapterId": "c12_cs_ch08",
+      "question": "What occurs when a DBMS ensures that all programs see the same, correct data after an update?",
+      "options": [
+        "Isolation",
+        "Redundancy",
+        "Consistency",
+        "Independence"
+      ],
+      "correctIndex": 2,
+      "explanation": "Consistency means that every part of the database and every user sees the same information, which is a major advantage of a DBMS.",
+      "ncertPage": 115,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "c12cs_ch08_q50",
+      "chapterId": "c12_cs_ch08",
+      "question": "If a relation has 3 attributes and 8 tuples, what is its degree?",
+      "options": [
+        "3",
+        "8",
+        "11",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "The degree of a relation is the number of attributes (columns) it has.",
+      "ncertPage": 117,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    }
+  ]
+}

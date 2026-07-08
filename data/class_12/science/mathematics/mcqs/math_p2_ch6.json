@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch12_q1",
+      "chapterId": "math_ch12",
+      "question": "What is the general name for problems that seek to maximize or minimize a specific quantity like profit or cost?",
+      "options": [
+        "Linear Equations",
+        "Optimization Problems",
+        "Integration Problems",
+        "Probability Distributions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Problems which seek to maximise or minimise profit or cost form a general class of problems called optimisation problems.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q2",
+      "chapterId": "math_ch12",
+      "question": "The linear function Z = ax + by, which is to be maximized or minimized, is called the:",
+      "options": [
+        "Constraints",
+        "Feasible Region",
+        "Objective Function",
+        "Decision Variable"
+      ],
+      "correctIndex": 2,
+      "explanation": "Linear function Z = ax + by, where a, b are constants, which has to be maximised or minimised is called a linear objective function.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q3",
+      "chapterId": "math_ch12",
+      "question": "The variables x and y in an LPP are often referred to as:",
+      "options": [
+        "Random Variables",
+        "Decision Variables",
+        "Dependent Variables",
+        "Constant Variables"
+      ],
+      "correctIndex": 1,
+      "explanation": "In an LPP, the variables x and y are called decision variables.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q4",
+      "chapterId": "math_ch12",
+      "question": "Linear inequalities or restrictions on the variables of a linear programming problem are called:",
+      "options": [
+        "Objectives",
+        "Constraints",
+        "Solutions",
+        "Region"
+      ],
+      "correctIndex": 1,
+      "explanation": "The linear inequalities or equations or restrictions on the variables of a linear programming problem are called linear constraints.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q5",
+      "chapterId": "math_ch12",
+      "question": "The common region determined by all the constraints including non-negative constraints is called the:",
+      "options": [
+        "Optimal Region",
+        "Infeasible Region",
+        "Feasible Region",
+        "Decision Region"
+      ],
+      "correctIndex": 2,
+      "explanation": "The common region determined by all the constraints including non-negative constraints x, y ≥ 0 of a linear programming problem is called the feasible region.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q6",
+      "chapterId": "math_ch12",
+      "question": "Any point in the feasible region that gives the optimal value (maximum or minimum) of the objective function is called an:",
+      "options": [
+        "Optimal Solution",
+        "Feasible Solution",
+        "Corner Point",
+        "Boundary Point"
+      ],
+      "correctIndex": 0,
+      "explanation": "Any point in the feasible region that gives the optimal value (maximum or minimum) of the objective function is called an optimal solution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q7",
+      "chapterId": "math_ch12",
+      "question": "The 'Corner Point Method' is based on the theorem that the optimal value occurs at:",
+      "options": [
+        "The origin",
+        "The center of the region",
+        "The vertices (corner points) of the feasible region",
+        "Any point on the y-axis"
+      ],
+      "correctIndex": 2,
+      "explanation": "The optimal value must occur at a corner point (vertex) of the feasible region.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q8",
+      "chapterId": "math_ch12",
+      "question": "If the feasible region is ________, the objective function Z may or may not have a maximum or minimum value.",
+      "options": [
+        "Bounded",
+        "Unbounded",
+        "Closed",
+        "Symmetric"
+      ],
+      "correctIndex": 1,
+      "explanation": "When the feasible region is unbounded, a maximum or a minimum value of the objective function may not exist.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q9",
+      "chapterId": "math_ch12",
+      "question": "If two corner points of a feasible region produce the same maximum value of Z, then:",
+      "options": [
+        "There is no maximum value",
+        "Only those two points are solutions",
+        "Every point on the line segment joining these two points is also an optimal solution",
+        "The origin is the maximum"
+      ],
+      "correctIndex": 2,
+      "explanation": "If two corner points of the feasible region are both optimal solutions of the same type, then every point on the line segment joining them is also an optimal solution.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q10",
+      "chapterId": "math_ch12",
+      "question": "Which mathematician suggested the efficient 'Simplex Method' in 1947?",
+      "options": [
+        "L. Kantorovich",
+        "F. L. Hitchcock",
+        "G. B. Dantzig",
+        "G. Stigler"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 1947, the American economist, G. B. Dantzig suggested an efficient method known as the simplex method.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q11",
+      "chapterId": "math_ch12",
+      "question": "The first formulated linear programming problem in 1941 was the:",
+      "options": [
+        "Diet Problem",
+        "Manufacturing Problem",
+        "Transportation Problem",
+        "Portfolio Problem"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first problem formulated in 1941 was the well known transportation problem.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q12",
+      "chapterId": "math_ch12",
+      "question": "Who formulated the transportation problem independently in 1941?",
+      "options": [
+        "Dantzig and Stigler",
+        "Kantorovich and Hitchcock",
+        "Koopmans and Kantorovich",
+        "Hitchcock and Dantzig"
+      ],
+      "correctIndex": 1,
+      "explanation": "The transportation problem was formulated in 1941 by the Russian mathematician L. Kantorovich and the American economist F. L. Hitchcock independently.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q13",
+      "chapterId": "math_ch12",
+      "question": "In which year were L. Kantorovich and T. C. Koopmans awarded the Nobel Prize in Economics for their work on LPP?",
+      "options": [
+        "1941",
+        "1947",
+        "1975",
+        "1990"
+      ],
+      "correctIndex": 2,
+      "explanation": "L. Kantorovich and T. C. Koopmans were awarded the nobel prize in the year 1975 in economics.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q14",
+      "chapterId": "math_ch12",
+      "question": "Linear programming problems developed significantly during which major global event?",
+      "options": [
+        "World War I",
+        "World War II",
+        "The Great Depression",
+        "The Industrial Revolution"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the World War II, when war operations had to be planned to economise expenditure... linear programming problems came to the forefront.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q15",
+      "chapterId": "math_ch12",
+      "question": "A special class of LPP where the objective is to determine the number of different products to produce to maximize profit is:",
+      "options": [
+        "Diet problems",
+        "Manufacturing problems",
+        "Transportation problems",
+        "Resource problems"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manufacturing problems involve determining the number of units of different products which should be produced and sold by a firm... to maximise profit.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q16",
+      "chapterId": "math_ch12",
+      "question": "The problem of determining the amount of different types of nutrients which should be included in a diet to minimize cost is a:",
+      "options": [
+        "Manufacturing problem",
+        "Diet problem",
+        "Transportation problem",
+        "Nutrient problem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diet problems involve determining the amount of constituents which should be included... so as to minimise the cost.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q17",
+      "chapterId": "math_ch12",
+      "question": "Non-negative constraints in a typical LPP (involving x and y) are expressed as:",
+      "options": [
+        "x + y > 0",
+        "x ≥ 0, y ≥ 0",
+        "x < 0, y < 0",
+        "x = y"
+      ],
+      "correctIndex": 1,
+      "explanation": "Non-negative constraints are typically x ≥ 0 and y ≥ 0.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q18",
+      "chapterId": "math_ch12",
+      "question": "The objective function in a linear programming problem must be a:",
+      "options": [
+        "Quadratic function",
+        "Linear function",
+        "Trigonometric function",
+        "Logarithmic function"
+      ],
+      "correctIndex": 1,
+      "explanation": "In LPP, both the objective function and the constraints must be linear.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q19",
+      "chapterId": "math_ch12",
+      "question": "In a graphical solution of an LPP, the feasible region is always a:",
+      "options": [
+        "Circular region",
+        "Convex polygonal region",
+        "Parabolic region",
+        "Random shape"
+      ],
+      "correctIndex": 1,
+      "explanation": "The feasible region for an LPP is a convex polygon.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q20",
+      "chapterId": "math_ch12",
+      "question": "Any point outside the feasible region is called an:",
+      "options": [
+        "Optimal solution",
+        "Infeasible solution",
+        "Boundary point",
+        "Vertex"
+      ],
+      "correctIndex": 1,
+      "explanation": "Any point outside the feasible region is called an infeasible solution.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q21",
+      "chapterId": "math_ch12",
+      "question": "The optimal value of the objective function is attained at a corner point. This is stated in:",
+      "options": [
+        "Theorem 1",
+        "Theorem 2",
+        "Simplex Rule",
+        "Optimal Lemma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Theorem 1 states that the optimal value (if it exists) will occur at a corner point.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q22",
+      "chapterId": "math_ch12",
+      "question": "In the furniture dealer example, the dealer has Rs 50,000 and can store 60 pieces. These conditions are called:",
+      "options": [
+        "Profits",
+        "Variables",
+        "Constraints",
+        "Solutions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Investment and storage capacity limits are linear constraints in the problem.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q23",
+      "chapterId": "math_ch12",
+      "question": "If the feasible region is bounded, then the objective function Z = ax + by has:",
+      "options": [
+        "Only a maximum value",
+        "Only a minimum value",
+        "Both a maximum and a minimum value",
+        "No optimal value"
+      ],
+      "correctIndex": 2,
+      "explanation": "Theorem 2 states if R is bounded, Z has both a maximum and a minimum value on R.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q24",
+      "chapterId": "math_ch12",
+      "question": "Which type of problem determines the cheapest way to ship products from plants to markets?",
+      "options": [
+        "Diet Problem",
+        "Manufacturing Problem",
+        "Transportation Problem",
+        "Allocation Problem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Transportation problems determine a schedule to transport a product from plants to different markets... so that the total transportation cost is minimum.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q25",
+      "chapterId": "math_ch12",
+      "question": "A polygonal region is called 'bounded' if:",
+      "options": [
+        "It extends to infinity",
+        "It can be enclosed within a circle",
+        "It has no corner points",
+        "It is located in the third quadrant"
+      ],
+      "correctIndex": 1,
+      "explanation": "A region is bounded if it can be enclosed in a circle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q26",
+      "chapterId": "math_ch12",
+      "question": "Which of the following is NOT a requirement for a problem to be a Linear Programming Problem?",
+      "options": [
+        "Objective function must be linear",
+        "Constraints must be linear",
+        "Variables must be non-negative",
+        "The feasible region must be circular"
+      ],
+      "correctIndex": 3,
+      "explanation": "An LPP requires linear objectives, linear constraints, and non-negative variables, but the region is polygonal, not circular.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q27",
+      "chapterId": "math_ch12",
+      "question": "What is the first step in the Corner Point Method?",
+      "options": [
+        "Calculate the value of Z at corner points",
+        "Find the feasible region and its corner points",
+        "Differentiate the objective function",
+        "Multiply the constraints"
+      ],
+      "correctIndex": 1,
+      "explanation": "Step 1 is to find the feasible region and its corner points.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q28",
+      "chapterId": "math_ch12",
+      "question": "If Z = ax + by has a maximum value M in an unbounded feasible region, we must check if:",
+      "options": [
+        "ax + by > M has common points with the feasible region",
+        "ax + by < M has common points",
+        "M is equal to zero",
+        "x and y are negative"
+      ],
+      "correctIndex": 0,
+      "explanation": "In an unbounded region, M is the maximum if the open half plane ax + by > M has no common point with the feasible region.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q29",
+      "chapterId": "math_ch12",
+      "question": "Which mathematician is associated with the quote 'The mathematical experience of the student is incomplete if he never had the opportunity to solve a problem invented by himself'?",
+      "options": [
+        "G. Dantzig",
+        "G. Polya",
+        "L. Kantorovich",
+        "T. Koopmans"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chapter opens with this quote from G. Polya.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q30",
+      "chapterId": "math_ch12",
+      "question": "In the simplex method, 'simplex' refers to an ________ procedure.",
+      "options": [
+        "Direct",
+        "Algebraic",
+        "Iterative",
+        "Geometric"
+      ],
+      "correctIndex": 2,
+      "explanation": "The simplex method is described as an iterative procedure to solve LPP.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q31",
+      "chapterId": "math_ch12",
+      "question": "Decision variables in LPP are always:",
+      "options": [
+        "Negative",
+        "Non-negative",
+        "Irrational",
+        "Complex"
+      ],
+      "correctIndex": 1,
+      "explanation": "In LPP, decision variables x and y are always non-negative (x ≥ 0, y ≥ 0).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q32",
+      "chapterId": "math_ch12",
+      "question": "The term 'Linear' in LPP means that the relationship between variables is of the ________ degree.",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Zero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Linear implies that variables appear only with the first power.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q33",
+      "chapterId": "math_ch12",
+      "question": "Who described the LPP problem of determining an optimal diet in 1945?",
+      "options": [
+        "L. Kantorovich",
+        "F. Hitchcock",
+        "G. Stigler",
+        "G. Dantzig"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 1945, an English economist, G. Stigler, described the optimal diet problem.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q34",
+      "chapterId": "math_ch12",
+      "question": "A corner point of a feasible region is a point in the region which is the ________ of two boundary lines.",
+      "options": [
+        "Midpoint",
+        "Intersection",
+        "Endpoint",
+        "Parallel point"
+      ],
+      "correctIndex": 1,
+      "explanation": "A corner point is the intersection of two boundary lines of the region.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q35",
+      "chapterId": "math_ch12",
+      "question": "If the constraints in an LPP are inconsistent, the feasible region is:",
+      "options": [
+        "Infinite",
+        "Bounded",
+        "Empty (no feasible region)",
+        "Circular"
+      ],
+      "correctIndex": 2,
+      "explanation": "If there is no region that satisfies all constraints, there is no feasible region.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q36",
+      "chapterId": "math_ch12",
+      "question": "Feasible solutions are ________ which satisfy all given constraints.",
+      "options": [
+        "Variables",
+        "Points",
+        "Lines",
+        "Equations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Points within or on the boundary of the feasible region represent feasible solutions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q37",
+      "chapterId": "math_ch12",
+      "question": "In the furniture problem, the objective function to maximize is profit Z =:",
+      "options": [
+        "2500x + 500y",
+        "x + y",
+        "250x + 75y",
+        "50000x + 60y"
+      ],
+      "correctIndex": 2,
+      "explanation": "With profit of 250 per table and 75 per chair, Z = 250x + 75y.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q38",
+      "chapterId": "math_ch12",
+      "question": "If the objective function Z = ax + by has a minimum value m in an unbounded region, we test the half-plane:",
+      "options": [
+        "ax + by > m",
+        "ax + by < m",
+        "ax + by = m",
+        "ax + by = 0"
+      ],
+      "correctIndex": 1,
+      "explanation": "m is the minimum if ax + by < m has no points in common with the feasible region.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q39",
+      "chapterId": "math_ch12",
+      "question": "Graphical method for solving LPP is generally used for problems with how many variables?",
+      "options": [
+        "One",
+        "Two",
+        "Ten",
+        "Any number"
+      ],
+      "correctIndex": 1,
+      "explanation": "Graphical methods are used for LPP with two variables.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q40",
+      "chapterId": "math_ch12",
+      "question": "What happens if a maximum value is required but the feasible region ax + by > M has points in common with the unbounded region?",
+      "options": [
+        "M is the maximum",
+        "Zero is the maximum",
+        "No maximum value exists",
+        "Any point is a maximum"
+      ],
+      "correctIndex": 2,
+      "explanation": "If there are common points, Z has no maximum value in that region.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q41",
+      "chapterId": "math_ch12",
+      "question": "Which of the following describes the 'Bounded' property of a region?",
+      "options": [
+        "It has at least one corner",
+        "It can be enclosed in a circle",
+        "It is only in the first quadrant",
+        "It is made of straight lines"
+      ],
+      "correctIndex": 1,
+      "explanation": "A region is bounded if it can be enclosed in a circle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q42",
+      "chapterId": "math_ch12",
+      "question": "The feasible solution that gives the 'Best' value of the objective is the ________ solution.",
+      "options": [
+        "Feasible",
+        "Boundary",
+        "Optimal",
+        "Initial"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'optimal' solution is the best one (max or min) among all feasible ones.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q43",
+      "chapterId": "math_ch12",
+      "question": "L. Kantorovich, a key figure in LPP, was of which nationality?",
+      "options": [
+        "American",
+        "Russian",
+        "English",
+        "German"
+      ],
+      "correctIndex": 1,
+      "explanation": "L. Kantorovich was a Russian mathematician.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q44",
+      "chapterId": "math_ch12",
+      "question": "In 1941, Hitchcock's nationality was:",
+      "options": [
+        "Russian",
+        "American",
+        "English",
+        "Swedish"
+      ],
+      "correctIndex": 1,
+      "explanation": "F. L. Hitchcock was an American economist.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q45",
+      "chapterId": "math_ch12",
+      "question": "Linear constraints in LPP are represented graphically by:",
+      "options": [
+        "Curved lines",
+        "Straight lines",
+        "Points only",
+        "Circular arcs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Linear equations/inequalities are represented by straight lines on a graph.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q46",
+      "chapterId": "math_ch12",
+      "question": "The Corner Point Method works because of the ________ of the feasible region.",
+      "options": [
+        "Size",
+        "Convexity",
+        "Color",
+        "Location"
+      ],
+      "correctIndex": 1,
+      "explanation": "The optimal value occurs at the extreme points (vertices) of the convex feasible region.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q47",
+      "chapterId": "math_ch12",
+      "question": "The total number of constituents included in the optimal diet problem are meant to satisfy minimum ________ requirements.",
+      "options": [
+        "Weight",
+        "Cost",
+        "Nutrient",
+        "Taste"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diet problems focus on meeting specific nutrient requirements at minimum cost.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q48",
+      "chapterId": "math_ch12",
+      "question": "If an LPP has multiple optimal solutions, they must occur ________.",
+      "options": [
+        "At the origin",
+        "Along a boundary line segment joining two corner points",
+        "Inside the region only",
+        "Only at one point"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiple optimal solutions occur along the edge joining two optimal corner points.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q49",
+      "chapterId": "math_ch12",
+      "question": "Modern computers allow the application of LPP to ________ problems.",
+      "options": [
+        "Only simple",
+        "Increasingly complex",
+        "Only historical",
+        "Unsolvable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Computers make it possible to apply LPP to increasingly complex real-world problems.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch12_q50",
+      "chapterId": "math_ch12",
+      "question": "Constraints of the type x ≥ 0, y ≥ 0 are specifically called:",
+      "options": [
+        "Linear constraints",
+        "Non-negative constraints",
+        "Decision constraints",
+        "Boundary constraints"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text explicitly names x, y ≥ 0 as non-negative constraints.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    }
+  ]
+}

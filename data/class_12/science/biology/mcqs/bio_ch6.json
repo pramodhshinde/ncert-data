@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch4_q1",
+      "chapterId": "bio_ch4",
+      "question": "What is the approximate age of the universe according to the Big Bang theory?",
+      "options": [
+        "4.5 billion years",
+        "10 billion years",
+        "20 billion years",
+        "150 million years"
+      ],
+      "correctIndex": 2,
+      "explanation": "The universe is very old – almost 20 billion years old.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q2",
+      "chapterId": "bio_ch4",
+      "question": "When was the Earth estimated to have been formed?",
+      "options": [
+        "20 billion years ago",
+        "4.5 billion years ago",
+        "500 million years ago",
+        "4 billion years ago"
+      ],
+      "correctIndex": 1,
+      "explanation": "Earth was supposed to have been formed about 4.5 billion years back.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q3",
+      "chapterId": "bio_ch4",
+      "question": "The 'Big Bang' theory attempts to explain the origin of:",
+      "options": [
+        "The Earth",
+        "Life",
+        "The Universe",
+        "Man"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Big Bang theory attempts to explain to us the origin of universe.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q4",
+      "chapterId": "bio_ch4",
+      "question": "According to early Greek thinkers, units of life called ______ were transferred to different planets including Earth.",
+      "options": [
+        "Cells",
+        "Spores",
+        "Atoms",
+        "Molecules"
+      ],
+      "correctIndex": 1,
+      "explanation": "Early Greek thinkers thought units of life called spores were transferred to different planets including earth.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q5",
+      "chapterId": "bio_ch4",
+      "question": "Who experimentally demonstrated that life comes only from pre-existing life, dismissing the theory of spontaneous generation?",
+      "options": [
+        "S.L. Miller",
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Oparin and Haldane"
+      ],
+      "correctIndex": 2,
+      "explanation": "Louis Pasteur by careful experimentation demonstrated that life comes only from pre-existing life.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q6",
+      "chapterId": "bio_ch4",
+      "question": "Oparin and Haldane proposed that the first form of life could have come from:",
+      "options": [
+        "Outer space",
+        "Pre-existing non-living organic molecules",
+        "Spontaneous combustion",
+        "Volcanic eruptions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oparin and Haldane proposed that the first form of life could have come from pre-existing non-living organic molecules (e.g. RNA, protein, etc.).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q7",
+      "chapterId": "bio_ch4",
+      "question": "In 1953, S.L. Miller created similar conditions of the primitive Earth in a laboratory, which included high temperature and which gas mixture?",
+      "options": [
+        "CH4, H2, NH3 and water vapour",
+        "O2, N2, CH4 and CO2",
+        "CO2, H2O, N2 and He",
+        "H2, O2, NH3 and Ar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miller created electric discharge in a closed flask containing CH4, H2, NH3 and water vapour at 800°C.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q8",
+      "chapterId": "bio_ch4",
+      "question": "What was the specific observation made by S.L. Miller in his experiment after creating primitive Earth conditions?",
+      "options": [
+        "Formation of cells",
+        "Formation of amino acids",
+        "Formation of DNA",
+        "Formation of viruses"
+      ],
+      "correctIndex": 1,
+      "explanation": "He observed formation of amino acids in his experiment.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q9",
+      "chapterId": "bio_ch4",
+      "question": "The first non-cellular forms of life could have originated ________ years ago.",
+      "options": [
+        "4.5 billion",
+        "3 billion",
+        "2 billion",
+        "500 million"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first non-cellular forms of life could have originated 3 billion years back.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q10",
+      "chapterId": "bio_ch4",
+      "question": "The first cellular forms of life probably did not possibly appear until ________ years ago.",
+      "options": [
+        "3 billion",
+        "2 billion",
+        "1 billion",
+        "500 million"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first cellular form of life did not possibly originate till about 2000 million (2 billion) years ago.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q11",
+      "chapterId": "bio_ch4",
+      "question": "What is the basis of the theory of Natural Selection proposed by Charles Darwin?",
+      "options": [
+        "Spontaneous mutations",
+        "Reproductive fitness",
+        "Acquired characteristics",
+        "Panspermia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fitness, according to Darwin, refers ultimately and only to reproductive fitness.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q12",
+      "chapterId": "bio_ch4",
+      "question": "Paleontological evidence for evolution refers to the study of:",
+      "options": [
+        "Embryos",
+        "Proteins",
+        "Fossils",
+        "Wings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fossils are remains of hard parts of life-forms found in rocks... The study of fossils in different sedimentary layers indicates the geological period in which they existed.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q13",
+      "chapterId": "bio_ch4",
+      "question": "The presence of homologous structures in different organisms indicates:",
+      "options": [
+        "Convergent evolution",
+        "Divergent evolution",
+        "Random mutations",
+        "Independent origin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Homology indicates common ancestry and is based on divergent evolution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q14",
+      "chapterId": "bio_ch4",
+      "question": "Which of the following is an example of homologous organs?",
+      "options": [
+        "Wings of butterfly and bird",
+        "Flippers of Penguins and Dolphins",
+        "Forelimbs of whales, bats, cheetah and human",
+        "Eye of octopus and mammals"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whales, bats, cheetah and human share similarities in the pattern of bones of forelimbs.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q15",
+      "chapterId": "bio_ch4",
+      "question": "Analogy (Analogous structures) represents:",
+      "options": [
+        "Common ancestry",
+        "Divergent evolution",
+        "Convergent evolution",
+        "Genetic drift"
+      ],
+      "correctIndex": 2,
+      "explanation": "Analogy is the result of convergent evolution – different structures evolving for the same function.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q16",
+      "chapterId": "bio_ch4",
+      "question": "Sweet potato (root modification) and potato (stem modification) are examples of:",
+      "options": [
+        "Homology",
+        "Analogy",
+        "Vestigial organs",
+        "Atavism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sweet potato and potato are examples of analogy as they perform the same function (storage) but have different origins.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q17",
+      "chapterId": "bio_ch4",
+      "question": "Industrial melanism observed in the peppered moth (Biston betularia) in England is an example of:",
+      "options": [
+        "Mutation",
+        "Natural Selection",
+        "Genetic Drift",
+        "Artificial Selection"
+      ],
+      "correctIndex": 1,
+      "explanation": "The change in moth population proportion after industrialization is an example of Natural Selection.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q18",
+      "chapterId": "bio_ch4",
+      "question": "Evolution by 'anthropogenic action' refers to evolution caused by:",
+      "options": [
+        "Climate change",
+        "Volcanic activity",
+        "Human activities",
+        "Meteorite impacts"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anthropogenic action refers to human-caused changes, such as use of herbicides, pesticides, or antibiotics.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q19",
+      "chapterId": "bio_ch4",
+      "question": "The process of evolution of different species in a given geographical area starting from a point and radiating to other areas of geography is called:",
+      "options": [
+        "Adaptive radiation",
+        "Saltation",
+        "Genetic drift",
+        "Convergent evolution"
+      ],
+      "correctIndex": 0,
+      "explanation": "This process of evolution... is called adaptive radiation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q20",
+      "chapterId": "bio_ch4",
+      "question": "Which of the following is a classic example of adaptive radiation?",
+      "options": [
+        "Eye of octopus",
+        "Darwin's Finches",
+        "Forelimbs of man",
+        "Wings of butterfly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Darwin's Finches represent one of the best examples of adaptive radiation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q21",
+      "chapterId": "bio_ch4",
+      "question": "According to Lamarck, evolution of life forms occurred driven by:",
+      "options": [
+        "Natural Selection",
+        "Use and disuse of organs",
+        "Saltation",
+        "Mendelian inheritance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lamarck said that evolution of life forms had occurred but driven by use and disuse of organs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q22",
+      "chapterId": "bio_ch4",
+      "question": "The two key concepts of Darwinian Theory of Evolution are Branching Descent and:",
+      "options": [
+        "Mutation",
+        "Natural Selection",
+        "Panspermia",
+        "Genetic drift"
+      ],
+      "correctIndex": 1,
+      "explanation": "Branching descent and natural selection are the two key concepts of Darwinian Theory of Evolution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q23",
+      "chapterId": "bio_ch4",
+      "question": "Who proposed the 'Mutation Theory' based on work on evening primrose?",
+      "options": [
+        "Charles Darwin",
+        "Hugo de Vries",
+        "Thomas Malthus",
+        "Lamarck"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hugo de Vries based on his work on evening primrose brought forth the idea of mutations.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q24",
+      "chapterId": "bio_ch4",
+      "question": "De Vries used the term ________ to describe single-step large mutations.",
+      "options": [
+        "Evolution",
+        "Saltation",
+        "Speciation",
+        "Adaptation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hugo de Vries believed mutation caused speciation and hence called it saltation (single step large mutation).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q25",
+      "chapterId": "bio_ch4",
+      "question": "The Hardy-Weinberg principle states that allele frequencies in a population are stable and constant from generation to generation in the absence of:",
+      "options": [
+        "Food",
+        "Evolutionary forces",
+        "Predators",
+        "Water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hardy-Weinberg principle says that allele frequencies in a population are stable and is constant from generation to generation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q26",
+      "chapterId": "bio_ch4",
+      "question": "Which of the following is NOT one of the five factors known to affect Hardy-Weinberg equilibrium?",
+      "options": [
+        "Gene migration",
+        "Genetic drift",
+        "Mutation",
+        "Geographical isolation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Five factors are gene migration, genetic drift, mutation, genetic recombination and natural selection.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q27",
+      "chapterId": "bio_ch4",
+      "question": "When the original drifted population becomes founders and the change in allele frequency is so different that they form a new species, it is called:",
+      "options": [
+        "Bottleneck effect",
+        "Founder effect",
+        "Mutation",
+        "Divergent evolution"
+      ],
+      "correctIndex": 1,
+      "explanation": "The original drifted population becomes founders and the effect is called founder effect.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q28",
+      "chapterId": "bio_ch4",
+      "question": "In Natural Selection, if more individuals acquire peripheral character value at both ends of the distribution curve, it is called:",
+      "options": [
+        "Stabilising selection",
+        "Directional selection",
+        "Disruptive selection",
+        "Cyclic selection"
+      ],
+      "correctIndex": 2,
+      "explanation": "Disruptive selection occurs when more individuals acquire peripheral character value at both ends of the distribution curve.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q29",
+      "chapterId": "bio_ch4",
+      "question": "Which type of natural selection leads to the mean character value being strengthened?",
+      "options": [
+        "Stabilising",
+        "Directional",
+        "Disruptive",
+        "Random"
+      ],
+      "correctIndex": 0,
+      "explanation": "In stabilising selection, more individuals acquire mean character value.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q30",
+      "chapterId": "bio_ch4",
+      "question": "The first organisms that invaded land were:",
+      "options": [
+        "Animals",
+        "Insects",
+        "Plants",
+        "Reptiles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plants were the first organisms to colonise land.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q31",
+      "chapterId": "bio_ch4",
+      "question": "Fish with stout and strong fins that could move on land and go back to water were called:",
+      "options": [
+        "Sharks",
+        "Lobe-fins",
+        "Lungfish",
+        "Amphibians"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1938, a fish caught in South Africa happened to be a Coelacanth which was thought to be extinct. These animals called lobe fins evolved into the first amphibians.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q32",
+      "chapterId": "bio_ch4",
+      "question": "Which of the following evolved into the first amphibians?",
+      "options": [
+        "Reptiles",
+        "Bony fish",
+        "Lobe-fins",
+        "Cartilaginous fish"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lobe fins evolved into the first amphibians that lived on both land and water.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q33",
+      "chapterId": "bio_ch4",
+      "question": "The 'Age of Reptiles' refers to which geological era?",
+      "options": [
+        "Paleozoic",
+        "Mesozoic",
+        "Cenozoic",
+        "Proterozoic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Giant ferns (pteridophytes) were present but they all fell to form coal deposits slowly... In the next 200 million years or so, reptiles of different shapes and sizes dominated on earth.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q34",
+      "chapterId": "bio_ch4",
+      "question": "Which was the biggest dinosaur, reaching about 20 feet in height?",
+      "options": [
+        "Triceratops",
+        "Pteranodon",
+        "Tyrannosaurus rex",
+        "Brachiosaurus"
+      ],
+      "correctIndex": 2,
+      "explanation": "The biggest of them, i.e., Tyrannosaurus rex was about 20 feet in height and had huge fearsome dagger like teeth.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q35",
+      "chapterId": "bio_ch4",
+      "question": "About how many million years ago did dinosaurs suddenly disappear from the Earth?",
+      "options": [
+        "200 mya",
+        "150 mya",
+        "65 mya",
+        "15 mya"
+      ],
+      "correctIndex": 2,
+      "explanation": "About 65 mya, the dinosaurs suddenly disappeared from the earth.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q36",
+      "chapterId": "bio_ch4",
+      "question": "The first mammals were like:",
+      "options": [
+        "Cheetahs",
+        "Shrews",
+        "Monkeys",
+        "Bats"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first mammals were like shrews.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q37",
+      "chapterId": "bio_ch4",
+      "question": "Dryopithecus and Ramapithecus existed about ________ years ago.",
+      "options": [
+        "15 million",
+        "5 million",
+        "2 million",
+        "100,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "About 15 mya, primates called Dryopithecus and Ramapithecus were existing.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q38",
+      "chapterId": "bio_ch4",
+      "question": "Which primate was more man-like between Dryopithecus and Ramapithecus?",
+      "options": [
+        "Dryopithecus",
+        "Ramapithecus",
+        "Both were equally man-like",
+        "Neither"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ramapithecus was more man-like while Dryopithecus was more ape-like.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q39",
+      "chapterId": "bio_ch4",
+      "question": "Australopithecines probably lived in the:",
+      "options": [
+        "African grasslands",
+        "European forests",
+        "Asian deserts",
+        "Australian outback"
+      ],
+      "correctIndex": 0,
+      "explanation": "Evidence shows they probably lived in East African grasslands.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q40",
+      "chapterId": "bio_ch4",
+      "question": "Which hominid was the first 'human-like' being with a brain capacity between 650-800cc?",
+      "options": [
+        "Homo erectus",
+        "Homo habilis",
+        "Neanderthal man",
+        "Homo sapiens"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first human-like being the hominid was called Homo habilis. The brain capacities were between 650-800cc.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q41",
+      "chapterId": "bio_ch4",
+      "question": "Homo erectus fossils discovered in Java in 1891 revealed a brain capacity of around:",
+      "options": [
+        "650cc",
+        "900cc",
+        "1400cc",
+        "1600cc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Homo erectus had a large brain around 900cc.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q42",
+      "chapterId": "bio_ch4",
+      "question": "Neanderthal man lived in near East and Central Asia between ________ years ago.",
+      "options": [
+        "2 million to 1.5 million",
+        "100,000 to 40,000",
+        "75,000 to 10,000",
+        "18,000 to 10,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Neanderthal man... lived in near east and central Asia between 1,00,000-40,000 years back.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q43",
+      "chapterId": "bio_ch4",
+      "question": "The brain capacity of Neanderthal man was approximately:",
+      "options": [
+        "900cc",
+        "1200cc",
+        "1400cc",
+        "1800cc"
+      ],
+      "correctIndex": 2,
+      "explanation": "Neanderthal man had a brain size of 1400cc.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q44",
+      "chapterId": "bio_ch4",
+      "question": "Homo sapiens arose in ________ and moved across continents.",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "America"
+      ],
+      "correctIndex": 2,
+      "explanation": "Homo sapiens arose in Africa and moved across continents and developed into distinct races.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q45",
+      "chapterId": "bio_ch4",
+      "question": "During the last ice age between 75,000-10,000 years ago, which human species arose?",
+      "options": [
+        "Homo erectus",
+        "Homo habilis",
+        "Modern Homo sapiens",
+        "Neanderthal man"
+      ],
+      "correctIndex": 2,
+      "explanation": "During ice age between 75,000-10,000 years ago modern Homo sapiens arose.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q46",
+      "chapterId": "bio_ch4",
+      "question": "Pre-historic cave art developed about ________ years ago.",
+      "options": [
+        "40,000",
+        "18,000",
+        "10,000",
+        "5,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pre-historic cave art developed about 18,000 years ago.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q47",
+      "chapterId": "bio_ch4",
+      "question": "Agriculture and human settlements came into existence around ________ years ago.",
+      "options": [
+        "18,000",
+        "10,000",
+        "5,000",
+        "2,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agriculture came around 10,000 years back and human settlements started.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q48",
+      "chapterId": "bio_ch4",
+      "question": "Darwin's finches showing different beak structures based on food sources is an example of evolution by:",
+      "options": [
+        "Chance",
+        "Adaptation to environmental niches",
+        "Inheritance of acquired characters",
+        "Interbreeding"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finches evolved from original seed-eating features to insectivorous and vegetarian finches through adaptation to new habitats.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q49",
+      "chapterId": "bio_ch4",
+      "question": "Embryological support for evolution was proposed by Ernst Heckel but later disapproved by:",
+      "options": [
+        "Karl Ernst von Baer",
+        "Charles Darwin",
+        "Alfred Wallace",
+        "Lamarck"
+      ],
+      "correctIndex": 0,
+      "explanation": "This proposal (Embryological support) was disapproved on careful study performed by Karl Ernst von Baer.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch4_q50",
+      "chapterId": "bio_ch4",
+      "question": "Who worked in Malay Archipelago and reached similar conclusions as Darwin regarding evolution?",
+      "options": [
+        "Thomas Malthus",
+        "Alfred Wallace",
+        "Hugo de Vries",
+        "Louis Pasteur"
+      ],
+      "correctIndex": 1,
+      "explanation": "A naturalist Alfred Wallace who worked in Malay Archipelago had also come to similar conclusions around the same time as Darwin.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_cs_ch9_q1",
+      "chapterId": "c12_cs_ch09",
+      "question": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Standard Query Language",
+        "Simple Query Language",
+        "Sequential Query Language"
+      ],
+      "correctIndex": 0,
+      "explanation": "SQL stands for Structured Query Language, which is the most popular query language used by major relational database management systems.",
+      "ncertPage": 171,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q2",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which category of SQL commands is used to define the database structure or schema?",
+      "options": [
+        "DML (Data Manipulation Language)",
+        "DCL (Data Control Language)",
+        "DDL (Data Definition Language)",
+        "TCL (Transaction Control Language)"
+      ],
+      "correctIndex": 2,
+      "explanation": "DDL (Data Definition Language) commands are used to define the database structure or schema, such as CREATE, ALTER, and DROP.",
+      "ncertPage": 172,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q3",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which of the following is a DML (Data Manipulation Language) command?",
+      "options": [
+        "CREATE",
+        "ALTER",
+        "DROP",
+        "INSERT"
+      ],
+      "correctIndex": 3,
+      "explanation": "INSERT is a DML command used to insert data into a table. CREATE, ALTER, and DROP are DDL commands.",
+      "ncertPage": 172,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q4",
+      "chapterId": "c12_cs_ch09",
+      "question": "What is the key difference between CHAR and VARCHAR data types in SQL?",
+      "options": [
+        "CHAR stores integers, VARCHAR stores strings.",
+        "CHAR is variable-length, VARCHAR is fixed-length.",
+        "CHAR is fixed-length, VARCHAR is variable-length.",
+        "There is no difference between them."
+      ],
+      "correctIndex": 2,
+      "explanation": "CHAR is a fixed-length character data type, padding spaces if the string is shorter. VARCHAR is a variable-length character data type that only uses as much space as the string needs.",
+      "ncertPage": 173,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q5",
+      "chapterId": "c12_cs_ch09",
+      "question": "If a column is defined as DECIMAL(5,2), what is the maximum value it can store?",
+      "options": [
+        "99999.99",
+        "999.99",
+        "99.999",
+        "9999.9"
+      ],
+      "correctIndex": 1,
+      "explanation": "DECIMAL(5,2) means a total of 5 digits, with 2 digits after the decimal point. The maximum value is 999.99.",
+      "ncertPage": 174,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q6",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which SQL constraint ensures that a column cannot have a NULL value?",
+      "options": [
+        "UNIQUE",
+        "PRIMARY KEY",
+        "NOT NULL",
+        "DEFAULT"
+      ],
+      "correctIndex": 2,
+      "explanation": "The NOT NULL constraint ensures that a column must always contain a value and cannot be left empty (NULL).",
+      "ncertPage": 175,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q7",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which SQL constraint uniquely identifies each record in a table and cannot contain NULL values?",
+      "options": [
+        "UNIQUE",
+        "PRIMARY KEY",
+        "FOREIGN KEY",
+        "NOT NULL"
+      ],
+      "correctIndex": 1,
+      "explanation": "The PRIMARY KEY constraint uniquely identifies each record in a table. It must contain unique values and cannot contain NULL values.",
+      "ncertPage": 175,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q8",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which command is used to view the structure (columns, data types, constraints) of an existing table?",
+      "options": [
+        "SHOW TABLE",
+        "DESCRIBE or DESC",
+        "VIEW TABLE",
+        "DISPLAY"
+      ],
+      "correctIndex": 1,
+      "explanation": "The DESCRIBE or DESC command is used to view the structure of a table in MySQL.",
+      "ncertPage": 177,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q9",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which command is used to add a new column to an existing table?",
+      "options": [
+        "ALTER TABLE ... ADD",
+        "UPDATE TABLE ... ADD",
+        "MODIFY TABLE ... ADD",
+        "INSERT INTO ... COLUMN"
+      ],
+      "correctIndex": 0,
+      "explanation": "The ALTER TABLE command with the ADD clause is used to add a new column to an existing table.",
+      "ncertPage": 178,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q10",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which command is used to completely remove a table and its data from the database?",
+      "options": [
+        "DELETE TABLE",
+        "REMOVE TABLE",
+        "DROP TABLE",
+        "TRUNCATE TABLE"
+      ],
+      "correctIndex": 2,
+      "explanation": "The DROP TABLE command completely removes a table's structure and all its data from the database.",
+      "ncertPage": 179,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q11",
+      "chapterId": "c12_cs_ch09",
+      "question": "What is the correct syntax to insert a new record into a table named 'Student'?",
+      "options": [
+        "INSERT Student VALUES (...);",
+        "INSERT INTO Student VALUES (...);",
+        "ADD INTO Student VALUES (...);",
+        "UPDATE Student INSERT (...);"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct syntax is INSERT INTO table_name VALUES (value1, value2, ...);",
+      "ncertPage": 180,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q12",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which SQL statement is used to retrieve data from a database?",
+      "options": [
+        "EXTRACT",
+        "PULL",
+        "SELECT",
+        "GET"
+      ],
+      "correctIndex": 2,
+      "explanation": "The SELECT statement is the standard SQL command used to query or retrieve data from a database.",
+      "ncertPage": 182,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q13",
+      "chapterId": "c12_cs_ch09",
+      "question": "To eliminate duplicate rows in the result set of a SELECT query, which keyword is used?",
+      "options": [
+        "UNIQUE",
+        "DISTINCT",
+        "NO DUPLICATE",
+        "DIFFERENT"
+      ],
+      "correctIndex": 1,
+      "explanation": "The DISTINCT keyword is used immediately after SELECT to remove duplicate rows from the output.",
+      "ncertPage": 183,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q14",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which clause is used with the SELECT statement to specify a condition for filtering rows?",
+      "options": [
+        "FILTER",
+        "HAVING",
+        "WHERE",
+        "CONDITION"
+      ],
+      "correctIndex": 2,
+      "explanation": "The WHERE clause is used to extract only those records that fulfill a specified condition.",
+      "ncertPage": 184,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q15",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which SQL operator is used to search for a specified pattern in a column?",
+      "options": [
+        "MATCH",
+        "LIKE",
+        "PATTERN",
+        "SIMILAR"
+      ],
+      "correctIndex": 1,
+      "explanation": "The LIKE operator is used in a WHERE clause to search for a specified pattern in a column, typically using wildcards.",
+      "ncertPage": 185,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q16",
+      "chapterId": "c12_cs_ch09",
+      "question": "In the LIKE operator, which wildcard character represents exactly one single character?",
+      "options": [
+        "%",
+        "*",
+        "?",
+        "_ (underscore)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The underscore (_) wildcard represents exactly one single character in pattern matching.",
+      "ncertPage": 185,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q17",
+      "chapterId": "c12_cs_ch09",
+      "question": "In the LIKE operator, which wildcard character represents zero, one, or multiple characters?",
+      "options": [
+        "%",
+        "_",
+        "*",
+        "#"
+      ],
+      "correctIndex": 0,
+      "explanation": "The percent sign (%) wildcard represents zero, one, or multiple characters in pattern matching.",
+      "ncertPage": 185,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q18",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which operator is used to filter values within a specific range (inclusive)?",
+      "options": [
+        "IN RANGE",
+        "BETWEEN",
+        "WITHIN",
+        "FROM ... TO"
+      ],
+      "correctIndex": 1,
+      "explanation": "The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates, and the range is inclusive.",
+      "ncertPage": 186,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q19",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which operator allows you to specify multiple exact values in a WHERE clause?",
+      "options": [
+        "BETWEEN",
+        "LIKE",
+        "IN",
+        "ANY"
+      ],
+      "correctIndex": 2,
+      "explanation": "The IN operator allows you to specify multiple values in a WHERE clause, acting as a shorthand for multiple OR conditions.",
+      "ncertPage": 187,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q20",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which keyword is used to sort the result-set in ascending or descending order?",
+      "options": [
+        "SORT BY",
+        "ORDER BY",
+        "GROUP BY",
+        "ARRANGE BY"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ORDER BY keyword is used to sort the result-set in ascending (ASC) or descending (DESC) order.",
+      "ncertPage": 188,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q21",
+      "chapterId": "c12_cs_ch09",
+      "question": "What is the default sorting order when using the ORDER BY clause?",
+      "options": [
+        "Descending (DESC)",
+        "Ascending (ASC)",
+        "Random",
+        "Creation order"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ORDER BY keyword sorts the records in ascending order by default.",
+      "ncertPage": 188,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q22",
+      "chapterId": "c12_cs_ch09",
+      "question": "How do you test if a column contains a NULL value in SQL?",
+      "options": [
+        "column_name = NULL",
+        "column_name == NULL",
+        "column_name IS NULL",
+        "column_name AS NULL"
+      ],
+      "correctIndex": 2,
+      "explanation": "To test for NULL values, you must use the IS NULL operator. Using = NULL will not work because NULL represents an unknown value.",
+      "ncertPage": 189,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q23",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which SQL statement is used to modify existing records in a table?",
+      "options": [
+        "MODIFY",
+        "CHANGE",
+        "UPDATE",
+        "ALTER"
+      ],
+      "correctIndex": 2,
+      "explanation": "The UPDATE statement is a DML command used to modify the existing records in a table.",
+      "ncertPage": 190,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q24",
+      "chapterId": "c12_cs_ch09",
+      "question": "In an UPDATE statement, which keyword specifies the new values for columns?",
+      "options": [
+        "VALUES",
+        "SET",
+        "MAKE",
+        "ASSIGN"
+      ],
+      "correctIndex": 1,
+      "explanation": "The SET keyword is used in the UPDATE statement to specify the column names and their new values.",
+      "ncertPage": 190,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q25",
+      "chapterId": "c12_cs_ch09",
+      "question": "What happens if you omit the WHERE clause in a DELETE statement?",
+      "options": [
+        "It deletes the most recent record.",
+        "It generates a syntax error.",
+        "It drops the table structure.",
+        "It deletes all records in the table."
+      ],
+      "correctIndex": 3,
+      "explanation": "If you omit the WHERE clause in a DELETE statement, all records in the table will be deleted, leaving an empty table.",
+      "ncertPage": 191,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q26",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which SQL math function returns the remainder of a division?",
+      "options": [
+        "REM()",
+        "MOD()",
+        "DIV()",
+        "TRUNCATE()"
+      ],
+      "correctIndex": 1,
+      "explanation": "The MOD() function returns the remainder of one number divided by another. Example: MOD(11, 3) returns 2.",
+      "ncertPage": 192,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q27",
+      "chapterId": "c12_cs_ch09",
+      "question": "What will be the result of the SQL expression POWER(3, 2)?",
+      "options": [
+        "5",
+        "6",
+        "9",
+        "1.5"
+      ],
+      "correctIndex": 2,
+      "explanation": "The POWER() function calculates the base to the exponent. POWER(3, 2) is 3^2, which equals 9.",
+      "ncertPage": 192,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q28",
+      "chapterId": "c12_cs_ch09",
+      "question": "What does the ROUND(15.79, 1) function return?",
+      "options": [
+        "15.7",
+        "15.8",
+        "16.0",
+        "15.79"
+      ],
+      "correctIndex": 1,
+      "explanation": "ROUND(15.79, 1) rounds the number to 1 decimal place. Since the second decimal digit is 9 (>= 5), it rounds up to 15.8.",
+      "ncertPage": 193,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q29",
+      "chapterId": "c12_cs_ch09",
+      "question": "What does the TRUNCATE(15.79, 1) function return?",
+      "options": [
+        "15.7",
+        "15.8",
+        "16.0",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "TRUNCATE(15.79, 1) simply chops off the digits after the 1st decimal place without rounding, resulting in 15.7.",
+      "ncertPage": 193,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q30",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which string function returns the number of characters in a string?",
+      "options": [
+        "SIZE()",
+        "COUNT()",
+        "LEN()",
+        "LENGTH()"
+      ],
+      "correctIndex": 3,
+      "explanation": "The LENGTH() function returns the length (number of characters) of a string.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q31",
+      "chapterId": "c12_cs_ch09",
+      "question": "What will be the output of LCASE('HELLO')?",
+      "options": [
+        "hello",
+        "HELLO",
+        "Hello",
+        "hELLO"
+      ],
+      "correctIndex": 0,
+      "explanation": "LCASE() or LOWER() converts a string to lower-case.",
+      "ncertPage": 194,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q32",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which SQL function is used to extract a substring from a string?",
+      "options": [
+        "SUBSTR()",
+        "EXTRACT()",
+        "SLICE()",
+        "PART()"
+      ],
+      "correctIndex": 0,
+      "explanation": "SUBSTR() or SUBSTRING() or MID() is used to extract a substring from a string.",
+      "ncertPage": 195,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q33",
+      "chapterId": "c12_cs_ch09",
+      "question": "What does INSTR('Informatics', 'mat') return?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "INSTR() returns the position of the first occurrence of a substring. In 'Informatics', 'mat' starts at the 6th position.",
+      "ncertPage": 195,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q34",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which function removes leading and trailing spaces from a string?",
+      "options": [
+        "LTRIM()",
+        "RTRIM()",
+        "TRIM()",
+        "STRIP()"
+      ],
+      "correctIndex": 2,
+      "explanation": "TRIM() removes both leading and trailing spaces. LTRIM removes only leading spaces, and RTRIM removes only trailing spaces.",
+      "ncertPage": 196,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q35",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which date function returns the current date and time?",
+      "options": [
+        "CURDATE()",
+        "NOW()",
+        "SYSDATE()",
+        "TODAY()"
+      ],
+      "correctIndex": 1,
+      "explanation": "The NOW() function returns the current date and time of the system.",
+      "ncertPage": 197,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q36",
+      "chapterId": "c12_cs_ch09",
+      "question": "What is the output format of the DATE() function when applied to '2023-10-25 14:30:00'?",
+      "options": [
+        "2023-10-25",
+        "10-25-2023",
+        "25-10-2023",
+        "14:30:00"
+      ],
+      "correctIndex": 0,
+      "explanation": "The DATE() function extracts the date part of a date/time expression, returning it in 'YYYY-MM-DD' format.",
+      "ncertPage": 197,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q37",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which aggregate function is used to calculate the average value of a numeric column?",
+      "options": [
+        "MEAN()",
+        "AVERAGE()",
+        "AVG()",
+        "MEDIAN()"
+      ],
+      "correctIndex": 2,
+      "explanation": "The AVG() function returns the average value of a numeric column, ignoring NULL values.",
+      "ncertPage": 198,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q38",
+      "chapterId": "c12_cs_ch09",
+      "question": "What is the difference between COUNT(column_name) and COUNT(*)?",
+      "options": [
+        "There is no difference.",
+        "COUNT(*) counts only unique values.",
+        "COUNT(*) includes NULL values in the count, while COUNT(column_name) ignores NULLs.",
+        "COUNT(column_name) includes NULL values, while COUNT(*) ignores NULLs."
+      ],
+      "correctIndex": 2,
+      "explanation": "COUNT(*) counts the total number of rows in a table, including rows with NULL values. COUNT(column_name) counts only the non-NULL values in that specific column.",
+      "ncertPage": 199,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q39",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which clause is used to group rows that have the same values into summary rows?",
+      "options": [
+        "ORDER BY",
+        "GROUP BY",
+        "SUMMARIZE BY",
+        "PARTITION BY"
+      ],
+      "correctIndex": 1,
+      "explanation": "The GROUP BY clause is used with aggregate functions (COUNT, MAX, MIN, SUM, AVG) to group the result-set by one or more columns.",
+      "ncertPage": 200,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q40",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which clause is used to filter records after the GROUP BY clause has been applied?",
+      "options": [
+        "WHERE",
+        "FILTER",
+        "HAVING",
+        "LIMIT"
+      ],
+      "correctIndex": 2,
+      "explanation": "The HAVING clause was added to SQL because the WHERE keyword cannot be used with aggregate functions. It is used to filter groups created by GROUP BY.",
+      "ncertPage": 201,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q41",
+      "chapterId": "c12_cs_ch09",
+      "question": "The Cartesian product of two tables, Table A (4 rows, 3 columns) and Table B (5 rows, 2 columns), will result in a table with:",
+      "options": [
+        "9 rows and 5 columns",
+        "20 rows and 5 columns",
+        "20 rows and 6 columns",
+        "9 rows and 6 columns"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Cartesian product multiplies the number of rows (cardinality) 4 * 5 = 20 rows, and adds the number of columns (degree) 3 + 2 = 5 columns.",
+      "ncertPage": 203,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q42",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which set operation combines the result sets of two or more SELECT statements into a single result set, removing duplicates?",
+      "options": [
+        "UNION",
+        "INTERSECT",
+        "MINUS",
+        "JOIN"
+      ],
+      "correctIndex": 0,
+      "explanation": "The UNION operator combines the result sets of two or more SELECT statements and removes duplicate rows.",
+      "ncertPage": 202,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q43",
+      "chapterId": "c12_cs_ch09",
+      "question": "For set operations like UNION or INTERSECT, the relations must be 'union compatible'. This means they must have:",
+      "options": [
+        "The same primary key.",
+        "The same number of rows.",
+        "The same degree (number of columns) and identical data type domains for corresponding columns.",
+        "The same table name."
+      ],
+      "correctIndex": 2,
+      "explanation": "Union compatibility requires both relations to have the same degree (number of attributes) and corresponding attributes must have the same domain (data type).",
+      "ncertPage": 202,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q44",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which set operation returns only the rows that appear in both result sets?",
+      "options": [
+        "UNION",
+        "MINUS",
+        "INTERSECT",
+        "EXCEPT"
+      ],
+      "correctIndex": 2,
+      "explanation": "The INTERSECT operation returns the common tuples present in both the relations.",
+      "ncertPage": 202,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q45",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which set operation (A - B) returns rows from relation A that are NOT present in relation B?",
+      "options": [
+        "UNION",
+        "INTERSECT",
+        "MINUS / EXCEPT",
+        "OUTER JOIN"
+      ],
+      "correctIndex": 2,
+      "explanation": "The MINUS (or EXCEPT in some SQL dialects) operation returns tuples that are present in the first relation but not in the second relation.",
+      "ncertPage": 203,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q46",
+      "chapterId": "c12_cs_ch09",
+      "question": "When combining data from two tables based on an equality condition between a column in both tables, this operation is called:",
+      "options": [
+        "Cross Join",
+        "Equi-join",
+        "Union",
+        "Intersection"
+      ],
+      "correctIndex": 1,
+      "explanation": "An Equi-join combines tables based on a common column using an equality (=) condition.",
+      "ncertPage": 205,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q47",
+      "chapterId": "c12_cs_ch09",
+      "question": "How does a Natural Join differ from an Equi-join?",
+      "options": [
+        "It uses the > operator instead of =.",
+        "It does not require a common column.",
+        "It automatically removes the duplicate common column from the result set.",
+        "It only returns rows that do not match."
+      ],
+      "correctIndex": 2,
+      "explanation": "A Natural Join is an equi-join where the redundant/duplicate common column is removed, so it appears only once in the result set.",
+      "ncertPage": 205,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q48",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which SQL command tells the DBMS to set the active database?",
+      "options": [
+        "OPEN database_name;",
+        "SELECT database_name;",
+        "USE database_name;",
+        "CONNECT database_name;"
+      ],
+      "correctIndex": 2,
+      "explanation": "The USE database_name; command sets the current active database for subsequent SQL operations.",
+      "ncertPage": 172,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q49",
+      "chapterId": "c12_cs_ch09",
+      "question": "When an arithmetic operation involves a NULL value (e.g., 10 + NULL), what is the result?",
+      "options": [
+        "10",
+        "0",
+        "Syntax Error",
+        "NULL"
+      ],
+      "correctIndex": 3,
+      "explanation": "Any arithmetic or comparison operation with a NULL value evaluates to NULL, as NULL represents an unknown value.",
+      "ncertPage": 189,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch9_q50",
+      "chapterId": "c12_cs_ch09",
+      "question": "Which SQL constraint enforces referential integrity between two tables?",
+      "options": [
+        "PRIMARY KEY",
+        "FOREIGN KEY",
+        "UNIQUE",
+        "CHECK"
+      ],
+      "correctIndex": 1,
+      "explanation": "The FOREIGN KEY constraint is used to link two tables together and ensures referential integrity between the referencing and referenced tables.",
+      "ncertPage": 176,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch9_q1",
+      "chapterId": "math_ch9",
+      "question": "What is a differential equation?",
+      "options": [
+        "An equation involving only constants",
+        "An equation involving derivative(s) of the dependent variable with respect to independent variable(s)",
+        "An equation that contains only trigonometric functions",
+        "An equation with no derivatives"
+      ],
+      "correctIndex": 1,
+      "explanation": "An equation involving derivative(s) of the dependent variable with respect to independent variable(s) is called a differential equation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q2",
+      "chapterId": "math_ch9",
+      "question": "An ordinary differential equation involves derivatives with respect to:",
+      "options": [
+        "Multiple independent variables",
+        "Only one independent variable",
+        "No independent variables",
+        "Only complex variables"
+      ],
+      "correctIndex": 1,
+      "explanation": "A differential equation involving derivatives with respect to only one independent variable is called an ordinary differential equation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q3",
+      "chapterId": "math_ch9",
+      "question": "The 'order' of a differential equation is defined as the order of the:",
+      "options": [
+        "Lowest order derivative present",
+        "Highest order derivative present",
+        "Sum of all derivatives",
+        "Independent variable's power"
+      ],
+      "correctIndex": 1,
+      "explanation": "Order of a differential equation is defined as the order of the highest order derivative of the dependent variable with respect to the independent variable involved.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q4",
+      "chapterId": "math_ch9",
+      "question": "For the degree of a differential equation to be defined, the equation must be a ________ in its derivatives.",
+      "options": [
+        "Trigonometric function",
+        "Logarithmic function",
+        "Polynomial equation",
+        "Exponential function"
+      ],
+      "correctIndex": 2,
+      "explanation": "To study the degree of a differential equation, the differential equation must be a polynomial equation in derivatives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q5",
+      "chapterId": "math_ch9",
+      "question": "What is the order and degree of the differential equation: (d²y/dx²) + y = 0?",
+      "options": [
+        "Order 1, Degree 1",
+        "Order 2, Degree 1",
+        "Order 2, Degree 2",
+        "Order 1, Degree 2"
+      ],
+      "correctIndex": 1,
+      "explanation": "The highest derivative is the second derivative (order 2), and its power is 1 (degree 1).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q6",
+      "chapterId": "math_ch9",
+      "question": "Which of the following describes the 'degree' of a differential equation?",
+      "options": [
+        "The order of the highest derivative",
+        "The highest power of the highest order derivative when it is a polynomial in derivatives",
+        "The number of variables involved",
+        "The value of the constant of integration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Degree of a differential equation is the highest power of the highest order derivative involved, provided it is a polynomial in derivatives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q7",
+      "chapterId": "math_ch9",
+      "question": "A solution of a differential equation which contains as many arbitrary constants as the order of the equation is called:",
+      "options": [
+        "Particular solution",
+        "General solution",
+        "Singular solution",
+        "Trivial solution"
+      ],
+      "correctIndex": 1,
+      "explanation": "The solution which contains arbitrary constants is called the general solution (primitive) of the differential equation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q8",
+      "chapterId": "math_ch9",
+      "question": "A solution obtained from the general solution by giving particular values to arbitrary constants is called:",
+      "options": [
+        "Universal solution",
+        "Particular solution",
+        "Identity solution",
+        "Constant solution"
+      ],
+      "correctIndex": 1,
+      "explanation": "A solution free from arbitrary constants is called a particular solution.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q9",
+      "chapterId": "math_ch9",
+      "question": "How many arbitrary constants are there in a particular solution of a differential equation of order 4?",
+      "options": [
+        "4",
+        "2",
+        "0",
+        "Infinite"
+      ],
+      "correctIndex": 2,
+      "explanation": "A particular solution is obtained by substituting specific values for constants, so it contains zero arbitrary constants.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q10",
+      "chapterId": "math_ch9",
+      "question": "The word 'integral' of a differential equation was coined by which mathematician in 1690?",
+      "options": [
+        "John Bernoulli",
+        "James Bernoulli",
+        "Leibnitz",
+        "Joseph Louis Lagrange"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'integral' of a differential equation was coined by James Bernoulli in 1690.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q11",
+      "chapterId": "math_ch9",
+      "question": "Who first used the word 'solution' in the context of differential equations in 1774?",
+      "options": [
+        "Henri Poincare",
+        "Joseph Louis Lagrange",
+        "John Bernoulli",
+        "David Hilbert"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'solution' was first used by Joseph Louis Lagrange in 1774.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q12",
+      "chapterId": "math_ch9",
+      "question": "Which mathematician strongly advocated the use of the word 'solution' in modern terminology?",
+      "options": [
+        "Isaac Newton",
+        "Gottfried Leibnitz",
+        "Jules Henri Poincare",
+        "James Bernoulli"
+      ],
+      "correctIndex": 2,
+      "explanation": "It was Jules Henri Poincare who strongly advocated the use of the word 'solution'.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q13",
+      "chapterId": "math_ch9",
+      "question": "The 'method of separation of variables' is attributed to:",
+      "options": [
+        "James Bernoulli",
+        "John Bernoulli",
+        "Isaac Newton",
+        "Joseph Louis Lagrange"
+      ],
+      "correctIndex": 1,
+      "explanation": "The name of the 'method of separation of variables' is due to John Bernoulli.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q14",
+      "chapterId": "math_ch9",
+      "question": "The differential equation dy/dx = F(x, y) is called homogeneous if F(x, y) is a homogeneous function of degree:",
+      "options": [
+        "One",
+        "Zero",
+        "n",
+        "Any integer"
+      ],
+      "correctIndex": 1,
+      "explanation": "A differential equation is homogeneous if it can be expressed in the form dy/dx = g(y/x), which implies the degree of the function is zero.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q15",
+      "chapterId": "math_ch9",
+      "question": "To solve a homogeneous differential equation of the form dy/dx = F(x, y), we use the substitution:",
+      "options": [
+        "y = vx",
+        "x = vy",
+        "y = v/x",
+        "x = v + y"
+      ],
+      "correctIndex": 0,
+      "explanation": "To solve dy/dx = g(y/x), we make the substitution y = vx.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q16",
+      "chapterId": "math_ch9",
+      "question": "A differential equation of the form dy/dx + Py = Q, where P and Q are constants or functions of x only, is known as:",
+      "options": [
+        "Homogeneous equation",
+        "Linear differential equation",
+        "Quadratic equation",
+        "Variable separable equation"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the standard form of a first order linear differential equation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q17",
+      "chapterId": "math_ch9",
+      "question": "The Integrating Factor (I.F.) for the linear differential equation dy/dx + Py = Q is:",
+      "options": [
+        "e^(∫ Q dx)",
+        "e^(∫ P dx)",
+        "∫ P dx",
+        "log(∫ P dx)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The integrating factor is defined as I.F = e^(∫ P dx).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q18",
+      "chapterId": "math_ch9",
+      "question": "The general solution of the linear differential equation dy/dx + Py = Q is given by:",
+      "options": [
+        "y * (I.F.) = ∫ (Q * I.F.) dx + C",
+        "y = ∫ (Q * I.F.) dx + C",
+        "y * (I.F.) = ∫ P dx + C",
+        "y = Q * (I.F.) + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "The solution is y multiplied by the integrating factor equals the integral of the product of Q and the integrating factor.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q19",
+      "chapterId": "math_ch9",
+      "question": "What is the order of the differential equation (dy/dx)³ - 4(dy/dx)² + 7y = sin x?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "correctIndex": 2,
+      "explanation": "The highest order derivative is the first derivative dy/dx, so the order is 1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q20",
+      "chapterId": "math_ch9",
+      "question": "What is the degree of the differential equation (d³y/dx³) + 2(d²y/dx²)² - (dy/dx) + y = 0?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "Undefined"
+      ],
+      "correctIndex": 2,
+      "explanation": "The highest order derivative is d³y/dx³. Its power is 1, so the degree is 1.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q21",
+      "chapterId": "math_ch9",
+      "question": "If a differential equation is given as dy/dx + sin(dy/dx) = 0, its degree is:",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "Not defined"
+      ],
+      "correctIndex": 3,
+      "explanation": "Since the equation is not a polynomial in its derivatives (due to sin(dy/dx)), the degree is not defined.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q22",
+      "chapterId": "math_ch9",
+      "question": "The number of arbitrary constants in the general solution of a differential equation of order 'n' is:",
+      "options": [
+        "n - 1",
+        "n",
+        "n + 1",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "The general solution of a differential equation of order n contains exactly n arbitrary constants.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q23",
+      "chapterId": "math_ch9",
+      "question": "Which mathematician wrote to Leibnitz in 1715 about the solutions of the equation x²y'' = 2y?",
+      "options": [
+        "James Bernoulli",
+        "Joseph Louis Lagrange",
+        "John Bernoulli",
+        "Henri Poincare"
+      ],
+      "correctIndex": 2,
+      "explanation": "John Bernoulli revealed the solutions of x²y'' = 2y in a letter to Leibnitz in 1715.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q24",
+      "chapterId": "math_ch9",
+      "question": "Differential equations are applied in which of the following areas?",
+      "options": [
+        "Physics and Chemistry",
+        "Biology and Economics",
+        "Anthropology and Geology",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Differential equations arise in many fields including Physics, Chemistry, Biology, Economics, etc.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q25",
+      "chapterId": "math_ch9",
+      "question": "In the variable separable method, if dy/dx = h(y)f(x), we write the equation as:",
+      "options": [
+        "dy/h(y) = f(x)dx",
+        "h(y)dy = f(x)dx",
+        "dy/f(x) = h(y)dx",
+        "dy = f(x)h(y)"
+      ],
+      "correctIndex": 0,
+      "explanation": "We separate the variables y and x to their respective sides before integrating.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q26",
+      "chapterId": "math_ch9",
+      "question": "A function f(x, y) is said to be homogeneous of degree n if f(λx, λy) is equal to:",
+      "options": [
+        "λ f(x, y)",
+        "λⁿ f(x, y)",
+        "f(λx, λy)",
+        "nλ f(x, y)"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the formal definition of a homogeneous function of degree n.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q27",
+      "chapterId": "math_ch9",
+      "question": "For the linear differential equation dx/dy + P₁x = Q₁, where P₁ and Q₁ are functions of y, the integrating factor is:",
+      "options": [
+        "e^(∫ P₁ dx)",
+        "e^(∫ P₁ dy)",
+        "∫ P₁ dy",
+        "e^(∫ Q₁ dy)"
+      ],
+      "correctIndex": 1,
+      "explanation": "When x is the dependent variable, the Integrating Factor is e^(∫ P₁ dy).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q28",
+      "chapterId": "math_ch9",
+      "question": "The solution of x²y'' = 2y led to which types of curves?",
+      "options": [
+        "Only circles",
+        "Parabolas, hyperbolas and cubic curves",
+        "Ellipses and lines",
+        "Spiral curves"
+      ],
+      "correctIndex": 1,
+      "explanation": "John Bernoulli showed it led to parabolas, hyperbolas, and a class of cubic curves.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q29",
+      "chapterId": "math_ch9",
+      "question": "What is the order of the differential equation y''' + y² + e^(y') = 0?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "Not defined"
+      ],
+      "correctIndex": 2,
+      "explanation": "The highest order derivative is the third derivative y''', so the order is 3.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q30",
+      "chapterId": "math_ch9",
+      "question": "Is the degree of the equation y''' + y² + e^(y') = 0 defined?",
+      "options": [
+        "Yes, 1",
+        "Yes, 2",
+        "No",
+        "Yes, 3"
+      ],
+      "correctIndex": 2,
+      "explanation": "The equation is not a polynomial in derivatives due to the e^(y') term, so the degree is not defined.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q31",
+      "chapterId": "math_ch9",
+      "question": "The study of the complicated nature of solutions of differential equations is known as:",
+      "options": [
+        "Quantitative analysis",
+        "Qualitative analysis",
+        "Numerical analysis",
+        "Statistical analysis"
+      ],
+      "correctIndex": 1,
+      "explanation": "This investigation is conducted under the heading 'qualitative analysis of differential equations'.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q32",
+      "chapterId": "math_ch9",
+      "question": "Which of the following is the order of the differential equation for the family of circles (x - a)² + (y - b)² = r² (where a and b are constants)?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "There are two arbitrary constants (a and b), so the resulting differential equation will be of order 2.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q33",
+      "chapterId": "math_ch9",
+      "question": "The integration constant C in a general solution represents:",
+      "options": [
+        "A specific point on the curve",
+        "A family of curves",
+        "The slope of the curve",
+        "The area under the curve"
+      ],
+      "correctIndex": 1,
+      "explanation": "A general solution with arbitrary constants represents a family of curves.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q34",
+      "chapterId": "math_ch9",
+      "question": "David Hilbert's quote emphasizes that those who seek methods without a ________ seek in vain.",
+      "options": [
+        "Solution",
+        "Definite problem",
+        "Calculus",
+        "Variables"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chapter opens with Hilbert's quote: 'He who seeks for methods without having a definite problem in mind seeks for the most part in vain.'",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q35",
+      "chapterId": "math_ch9",
+      "question": "For the equation dy/dx = (x + y)/(x - y), which method is most appropriate for solving?",
+      "options": [
+        "Variable Separable",
+        "Linear Differential Equation",
+        "Homogeneous Differential Equation",
+        "Direct Integration"
+      ],
+      "correctIndex": 2,
+      "explanation": "The function on the right is homogeneous of degree zero, so the homogeneous method is used.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q36",
+      "chapterId": "math_ch9",
+      "question": "If f(x, y) = x² + y², what is the degree of this homogeneous function?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "Not homogeneous"
+      ],
+      "correctIndex": 2,
+      "explanation": "f(λx, λy) = (λx)² + (λy)² = λ²(x² + y²) = λ²f(x, y). Thus it is degree 2.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q37",
+      "chapterId": "math_ch9",
+      "question": "The order of a differential equation is always a ________.",
+      "options": [
+        "Negative integer",
+        "Fraction",
+        "Positive integer",
+        "Irrational number"
+      ],
+      "correctIndex": 2,
+      "explanation": "Order represents the 'number' of a derivative (1st, 2nd, etc.), which is a positive integer.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q38",
+      "chapterId": "math_ch9",
+      "question": "A particular solution of dy/dx = cos x with y(0) = 1 is:",
+      "options": [
+        "y = sin x + C",
+        "y = sin x + 1",
+        "y = cos x + 1",
+        "y = -sin x"
+      ],
+      "correctIndex": 1,
+      "explanation": "Integrating dy = cos x dx gives y = sin x + C. Using y=1 at x=0 gives C=1.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q39",
+      "chapterId": "math_ch9",
+      "question": "If P and Q are functions of x, dy/dx + Py = Q is a linear equation of ________ order.",
+      "options": [
+        "Zero",
+        "First",
+        "Second",
+        "Third"
+      ],
+      "correctIndex": 1,
+      "explanation": "The highest derivative involved is dy/dx (first derivative), so it is a first order linear equation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q40",
+      "chapterId": "math_ch9",
+      "question": "In the equation d⁴y/dx⁴ + sin(y''') = 0, the order is:",
+      "options": [
+        "4",
+        "3",
+        "Undefined",
+        "1"
+      ],
+      "correctIndex": 0,
+      "explanation": "The order is the highest derivative present (4th derivative).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q41",
+      "chapterId": "math_ch9",
+      "question": "A differential equation is said to be of first degree if:",
+      "options": [
+        "The independent variable has power 1",
+        "The dependent variable has power 1",
+        "The power of the highest order derivative is 1",
+        "There is only one derivative"
+      ],
+      "correctIndex": 2,
+      "explanation": "Degree is the power of the highest order derivative when the equation is a polynomial in derivatives.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q42",
+      "chapterId": "math_ch9",
+      "question": "To solve dx/dy + P₁x = Q₁, we multiply the equation by:",
+      "options": [
+        "e^(∫ P₁ dx)",
+        "∫ P₁ dy",
+        "e^(∫ P₁ dy)",
+        "P₁"
+      ],
+      "correctIndex": 2,
+      "explanation": "We multiply by the integrating factor to make the left side a perfect derivative.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q43",
+      "chapterId": "math_ch9",
+      "question": "If f(x, y) is homogeneous of degree 0, it can always be written as a function of:",
+      "options": [
+        "x + y",
+        "xy",
+        "y/x (or x/y)",
+        "x² + y²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Any homogeneous function of degree 0 can be expressed as a function of the ratio of variables.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q44",
+      "chapterId": "math_ch9",
+      "question": "The elimination of 'n' arbitrary constants from a family of curves leads to a differential equation of order:",
+      "options": [
+        "n - 1",
+        "n",
+        "2n",
+        "1"
+      ],
+      "correctIndex": 1,
+      "explanation": "The order of the differential equation is equal to the number of independent arbitrary constants in the family of curves.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q45",
+      "chapterId": "math_ch9",
+      "question": "A differential equation is a polynomial in derivatives if the derivatives are:",
+      "options": [
+        "In the exponent",
+        "Arguments of sine/cosine",
+        "Raised only to non-negative integer powers",
+        "Inside a log function"
+      ],
+      "correctIndex": 2,
+      "explanation": "Standard polynomial definition applied to derivatives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q46",
+      "chapterId": "math_ch9",
+      "question": "Integration of the separated form dy/h(y) = f(x)dx gives the ________ solution.",
+      "options": [
+        "Particular",
+        "General",
+        "Zero",
+        "Singular"
+      ],
+      "correctIndex": 1,
+      "explanation": "Direct integration of the separable form yields the general solution including an arbitrary constant.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q47",
+      "chapterId": "math_ch9",
+      "question": "Which of these is NOT a first order differential equation?",
+      "options": [
+        "dy/dx = x + y",
+        "dy/dx + y = eˣ",
+        "d²y/dx² + y = 0",
+        "y' = sin x"
+      ],
+      "correctIndex": 2,
+      "explanation": "d²y/dx² + y = 0 is a second order equation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q48",
+      "chapterId": "math_ch9",
+      "question": "Henri Poincare is shown as living during which years?",
+      "options": [
+        "1642-1727",
+        "1854-1912",
+        "1736-1813",
+        "1667-1748"
+      ],
+      "correctIndex": 1,
+      "explanation": "Henri Poincare (1854 - 1912).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q49",
+      "chapterId": "math_ch9",
+      "question": "The equation dy/dx = g(y/x) is a ________ differential equation.",
+      "options": [
+        "Linear",
+        "Homogeneous",
+        "Second order",
+        "Quadratic"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the standard form of a first-order homogeneous differential equation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch9_q50",
+      "chapterId": "math_ch9",
+      "question": "When λ is a non-zero constant, f(λx, λy) = λ⁰f(x, y) implies the function is homogeneous of degree:",
+      "options": [
+        "1",
+        "Zero",
+        "Undefined",
+        "Infinite"
+      ],
+      "correctIndex": 1,
+      "explanation": "λ⁰ = 1, so the degree is zero.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    }
+  ]
+}

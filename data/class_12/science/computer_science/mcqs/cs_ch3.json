@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_cs_ch3_q1",
+      "chapterId": "c12_cs_ch03",
+      "question": "A data structure defines a mechanism to store, organise and access data along with:",
+      "options": [
+        "The hardware required to run it",
+        "Operations (processing) that can be efficiently performed on the data",
+        "The graphical user interface",
+        "The file size limitations"
+      ],
+      "correctIndex": 1,
+      "explanation": "A data structure defines a mechanism to store, organise and access data along with operations (processing) that can be efficiently performed on the data.",
+      "ncertPage": 1,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q2",
+      "chapterId": "c12_cs_ch03",
+      "question": "Which principle does a Stack data structure follow?",
+      "options": [
+        "First In First Out (FIFO)",
+        "Last In First Out (LIFO)",
+        "First In Last Out (FILO)",
+        "Random Access"
+      ],
+      "correctIndex": 1,
+      "explanation": "A stack is a linear data structure that follows the Last In First Out (LIFO) principle.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q3",
+      "chapterId": "c12_cs_ch03",
+      "question": "What does LIFO stand for?",
+      "options": [
+        "Last In First Out",
+        "List In First Out",
+        "Last Index First Object",
+        "Lowest Integer First Out"
+      ],
+      "correctIndex": 0,
+      "explanation": "LIFO stands for Last In First Out, meaning the last element added is the first one to be removed.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q4",
+      "chapterId": "c12_cs_ch03",
+      "question": "Which of the following is a real-life example of a stack?",
+      "options": [
+        "A queue of people at a ticket counter",
+        "A pile of plates kept one on top of another",
+        "Cars moving in a single lane",
+        "Students sitting in a circle"
+      ],
+      "correctIndex": 1,
+      "explanation": "A pile of plates kept one on top of another perfectly demonstrates a stack, where the top plate is removed first.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q5",
+      "chapterId": "c12_cs_ch03",
+      "question": "In a stack, both insertion and deletion of elements occur at which end?",
+      "options": [
+        "Front",
+        "Rear",
+        "Top",
+        "Bottom"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a stack, elements are added and removed from only one end, which is called the TOP.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q6",
+      "chapterId": "c12_cs_ch03",
+      "question": "The operation of inserting a new element into a stack is known as:",
+      "options": [
+        "POP",
+        "PUSH",
+        "INSERT",
+        "ADD"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adding a new element to the top of a stack is referred to as the PUSH operation.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q7",
+      "chapterId": "c12_cs_ch03",
+      "question": "The operation of removing an element from a stack is known as:",
+      "options": [
+        "PULL",
+        "PUSH",
+        "POP",
+        "DELETE"
+      ],
+      "correctIndex": 2,
+      "explanation": "Removing an element from the top of the stack is called the POP operation.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q8",
+      "chapterId": "c12_cs_ch03",
+      "question": "What is the PEEK operation in a stack?",
+      "options": [
+        "Removing the top element",
+        "Checking if the stack is empty",
+        "Returning the top element without removing it",
+        "Adding an element at the bottom"
+      ],
+      "correctIndex": 2,
+      "explanation": "The PEEK operation returns the value of the top element without removing it from the stack.",
+      "ncertPage": 3,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q9",
+      "chapterId": "c12_cs_ch03",
+      "question": "What condition occurs when we try to pop an element from an empty stack?",
+      "options": [
+        "Overflow",
+        "Underflow",
+        "Garbage Collection",
+        "Segmentation Fault"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trying to delete (POP) an element from an empty stack results in an Underflow condition.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q10",
+      "chapterId": "c12_cs_ch03",
+      "question": "What condition occurs when we try to push an element into a stack that has already reached its maximum capacity?",
+      "options": [
+        "Underflow",
+        "Memory Leak",
+        "Overflow",
+        "Overload"
+      ],
+      "correctIndex": 2,
+      "explanation": "If a stack has a predefined size and becomes full, trying to PUSH another element causes an Overflow condition.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q11",
+      "chapterId": "c12_cs_ch03",
+      "question": "Which Python sequence data type is most commonly used to implement a stack?",
+      "options": [
+        "Tuple",
+        "Set",
+        "Dictionary",
+        "List"
+      ],
+      "correctIndex": 3,
+      "explanation": "In Python, a List is commonly used to implement a stack due to its dynamic nature and built-in methods.",
+      "ncertPage": 4,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q12",
+      "chapterId": "c12_cs_ch03",
+      "question": "Which built-in Python list method is used to perform the PUSH operation?",
+      "options": [
+        "add()",
+        "insert()",
+        "append()",
+        "push()"
+      ],
+      "correctIndex": 2,
+      "explanation": "The `append()` method adds an element to the end of the list, perfectly mimicking the PUSH operation at the top of a stack.",
+      "ncertPage": 4,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q13",
+      "chapterId": "c12_cs_ch03",
+      "question": "Which built-in Python list method is used to perform the POP operation?",
+      "options": [
+        "remove()",
+        "delete()",
+        "pop()",
+        "clear()"
+      ],
+      "correctIndex": 2,
+      "explanation": "The `pop()` method in Python removes and returns the last element from the list, matching the POP operation of a stack.",
+      "ncertPage": 4,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q14",
+      "chapterId": "c12_cs_ch03",
+      "question": "How do you check if a stack implemented using a Python list named `myStack` is empty?",
+      "options": [
+        "if myStack == 0:",
+        "if len(myStack) == 0:",
+        "if myStack.empty():",
+        "if myStack.length() == 0:"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Python, an empty list has a length of 0. So, `len(myStack) == 0` is the correct way to check for underflow.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q15",
+      "chapterId": "c12_cs_ch03",
+      "question": "If `myStack` is a Python list acting as a stack, how can you view the top element without removing it (PEEK)?",
+      "options": [
+        "myStack[0]",
+        "myStack.peek()",
+        "myStack[len(myStack) - 1]",
+        "myStack.top()"
+      ],
+      "correctIndex": 2,
+      "explanation": "The last element in the list represents the top of the stack, accessed using `myStack[len(myStack) - 1]` or `myStack[-1]`.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q16",
+      "chapterId": "c12_cs_ch03",
+      "question": "What exception does Python raise if you use the `pop()` method on an empty list?",
+      "options": [
+        "ValueError",
+        "UnderflowError",
+        "IndexError",
+        "TypeError"
+      ],
+      "correctIndex": 2,
+      "explanation": "Calling `pop()` on an empty list in Python raises an `IndexError: pop from empty list`.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q17",
+      "chapterId": "c12_cs_ch03",
+      "question": "When expressing arithmetic expressions, if the operator is placed between the operands, it is called:",
+      "options": [
+        "Prefix notation",
+        "Postfix notation",
+        "Infix notation",
+        "Polish notation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Infix notation places the operator between the two operands (e.g., A + B).",
+      "ncertPage": 6,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q18",
+      "chapterId": "c12_cs_ch03",
+      "question": "In Postfix notation, where is the operator placed?",
+      "options": [
+        "Between the operands",
+        "Before the operands",
+        "After the operands",
+        "Inside parentheses"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Postfix notation, the operator comes after the operands (e.g., AB+).",
+      "ncertPage": 6,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q19",
+      "chapterId": "c12_cs_ch03",
+      "question": "Postfix notation is also known as:",
+      "options": [
+        "Polish Notation",
+        "Reverse Polish Notation",
+        "Infix Notation",
+        "Operand-first Notation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Postfix notation is also known as Reverse Polish Notation (RPN).",
+      "ncertPage": 6,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q20",
+      "chapterId": "c12_cs_ch03",
+      "question": "Prefix notation is also known as:",
+      "options": [
+        "Polish Notation",
+        "Reverse Polish Notation",
+        "Infix Notation",
+        "Operator-first Notation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prefix notation, where the operator precedes the operands (+AB), is also called Polish Notation.",
+      "ncertPage": 6,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q21",
+      "chapterId": "c12_cs_ch03",
+      "question": "Why do computer systems internally prefer converting Infix expressions to Postfix or Prefix for evaluation?",
+      "options": [
+        "Because they use fewer variables",
+        "Because they do not require parentheses and follow a strict left-to-right evaluation",
+        "Because they look simpler to humans",
+        "Because infix notation takes more memory"
+      ],
+      "correctIndex": 1,
+      "explanation": "Postfix and Prefix notations do not need parentheses to dictate operator precedence, making them easier for a computer to evaluate systematically.",
+      "ncertPage": 7,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q22",
+      "chapterId": "c12_cs_ch03",
+      "question": "Which of the following operators generally has the highest precedence in arithmetic expressions?",
+      "options": [
+        "Addition (+)",
+        "Multiplication (*)",
+        "Exponentiation (^ or **)",
+        "Division (/)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Exponentiation has the highest precedence, followed by multiplication/division, and then addition/subtraction.",
+      "ncertPage": 7,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q23",
+      "chapterId": "c12_cs_ch03",
+      "question": "What is the associativity of the Exponentiation operator (^)?",
+      "options": [
+        "Left to Right",
+        "Right to Left",
+        "Top to Bottom",
+        "No associativity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike most other operators, exponentiation is evaluated from Right to Left.",
+      "ncertPage": 7,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q24",
+      "chapterId": "c12_cs_ch03",
+      "question": "What is the associativity of Multiplication (*) and Division (/) operators?",
+      "options": [
+        "Left to Right",
+        "Right to Left",
+        "Random",
+        "It depends on the operands"
+      ],
+      "correctIndex": 0,
+      "explanation": "Multiplication, division, addition, and subtraction all follow Left to Right associativity.",
+      "ncertPage": 7,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q25",
+      "chapterId": "c12_cs_ch03",
+      "question": "What is the postfix notation for the infix expression `A + B`?",
+      "options": [
+        "+AB",
+        "AB+",
+        "A+B",
+        "B+A"
+      ],
+      "correctIndex": 1,
+      "explanation": "In postfix, the operands come first followed by the operator. `A + B` becomes `AB+`.",
+      "ncertPage": 8,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q26",
+      "chapterId": "c12_cs_ch03",
+      "question": "What is the prefix notation for the infix expression `A - B`?",
+      "options": [
+        "AB-",
+        "A-B",
+        "-AB",
+        "-BA"
+      ],
+      "correctIndex": 2,
+      "explanation": "In prefix, the operator comes before the operands. `A - B` becomes `-AB`.",
+      "ncertPage": 8,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q27",
+      "chapterId": "c12_cs_ch03",
+      "question": "Convert the infix expression `A * B + C` to postfix.",
+      "options": [
+        "AB*C+",
+        "ABC*+",
+        "A*BC+",
+        "+*ABC"
+      ],
+      "correctIndex": 0,
+      "explanation": "Multiplication has higher precedence, so `A * B` becomes `AB*`. Then add `C`, which results in `AB*C+`.",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q28",
+      "chapterId": "c12_cs_ch03",
+      "question": "Convert the infix expression `A + (B * C)` to postfix.",
+      "options": [
+        "AB*C+",
+        "ABC*+",
+        "A+BC*",
+        "ABC+*"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parentheses dictate `B * C` happens first (`BC*`). Then `A + (BC*)` becomes `ABC*+`.",
+      "ncertPage": 9,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q29",
+      "chapterId": "c12_cs_ch03",
+      "question": "Convert the infix expression `(A + B) * C` to postfix.",
+      "options": [
+        "AB+C*",
+        "ABC*+",
+        "AB*C+",
+        "C*AB+"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parentheses enforce `A + B` first (`AB+`). Then `(AB+) * C` becomes `AB+C*`.",
+      "ncertPage": 9,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q30",
+      "chapterId": "c12_cs_ch03",
+      "question": "During the algorithm to convert Infix to Postfix, what is pushed onto the stack?",
+      "options": [
+        "Operands",
+        "Operators and opening parentheses",
+        "Only opening parentheses",
+        "The final postfix string"
+      ],
+      "correctIndex": 1,
+      "explanation": "During infix to postfix conversion, operands are directly added to the result string, while operators and opening parentheses are pushed onto the stack.",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q31",
+      "chapterId": "c12_cs_ch03",
+      "question": "During Infix to Postfix conversion, if an operand is scanned, what action is taken?",
+      "options": [
+        "Push it onto the stack",
+        "Pop the stack",
+        "Append it directly to the postfix expression",
+        "Discard it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Operands (like A, B, C or numbers) are immediately appended to the postfix output string.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q32",
+      "chapterId": "c12_cs_ch03",
+      "question": "During Infix to Postfix conversion, if a closing parenthesis `)` is scanned, what happens?",
+      "options": [
+        "It is pushed onto the stack",
+        "The stack is popped and operators are appended to the output until an opening parenthesis `(` is encountered",
+        "The conversion stops",
+        "The entire stack is emptied immediately"
+      ],
+      "correctIndex": 1,
+      "explanation": "When `)` is encountered, all operators on the stack are popped and appended to the output until the matching `(` is found and popped.",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q33",
+      "chapterId": "c12_cs_ch03",
+      "question": "During Infix to Postfix conversion, if the incoming operator has LOWER precedence than the operator currently at the top of the stack, what happens?",
+      "options": [
+        "The incoming operator is discarded",
+        "The incoming operator is pushed on top",
+        "The top operator is popped and appended to the output before pushing the incoming operator",
+        "The entire stack is reversed"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the incoming operator has lower (or equal) precedence, the higher precedence operator on the stack must be applied first. So, it is popped and appended, and then the incoming operator is pushed.",
+      "ncertPage": 10,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q34",
+      "chapterId": "c12_cs_ch03",
+      "question": "When evaluating a Postfix expression using a stack, what do you push onto the stack?",
+      "options": [
+        "Operators",
+        "Operands",
+        "Parentheses",
+        "Both operators and operands"
+      ],
+      "correctIndex": 1,
+      "explanation": "In postfix evaluation, you scan left to right and push operands onto the stack. Operators trigger pops.",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q35",
+      "chapterId": "c12_cs_ch03",
+      "question": "When evaluating a Postfix expression, what happens when an operator is encountered?",
+      "options": [
+        "It is pushed onto the stack",
+        "Two operands are popped from the stack, the operation is performed, and the result is pushed back",
+        "One operand is popped and discarded",
+        "The evaluation terminates"
+      ],
+      "correctIndex": 1,
+      "explanation": "When an operator is encountered, the top two operands are popped, the operation is evaluated, and the resulting value is pushed back onto the stack.",
+      "ncertPage": 12,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q36",
+      "chapterId": "c12_cs_ch03",
+      "question": "Evaluate the postfix expression: `5 3 +`",
+      "options": [
+        "2",
+        "8",
+        "15",
+        "53"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 and 3 are pushed. '+' pops them, calculates 5 + 3, and pushes 8.",
+      "ncertPage": 13,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q37",
+      "chapterId": "c12_cs_ch03",
+      "question": "Evaluate the postfix expression: `4 2 * 3 +`",
+      "options": [
+        "14",
+        "11",
+        "20",
+        "24"
+      ],
+      "correctIndex": 1,
+      "explanation": "4 and 2 are pushed. '*' pops 2 and 4, calculates 4*2=8, and pushes 8. Then 3 is pushed. '+' pops 3 and 8, calculates 8+3=11.",
+      "ncertPage": 13,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q38",
+      "chapterId": "c12_cs_ch03",
+      "question": "Evaluate the postfix expression: `10 2 8 * + 3 -`",
+      "options": [
+        "23",
+        "20",
+        "15",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Push 10, 2, 8. Read '*', pop 8, 2, push 16. Stack: [10, 16]. Read '+', pop 16, 10, push 26. Stack: [26]. Push 3. Stack: [26, 3]. Read '-', pop 3, 26, calculate 26-3 = 23.",
+      "ncertPage": 14,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q39",
+      "chapterId": "c12_cs_ch03",
+      "question": "When an operator is encountered during postfix evaluation and you pop two operands (let's say `op2` is popped first, then `op1`), how is the operation formulated?",
+      "options": [
+        "op2 operator op1",
+        "op1 operator op2",
+        "It doesn't matter",
+        "Depends on the operator"
+      ],
+      "correctIndex": 1,
+      "explanation": "Order matters for subtraction and division. The first element popped is the right operand (op2), and the second element popped is the left operand (op1). The expression is `op1 operator op2`.",
+      "ncertPage": 13,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q40",
+      "chapterId": "c12_cs_ch03",
+      "question": "Which of the following tasks can be efficiently solved using a stack?",
+      "options": [
+        "Reversing a string",
+        "Scheduling tasks in a printer",
+        "Simulating a waiting line at a bank",
+        "Finding the shortest path in a graph"
+      ],
+      "correctIndex": 0,
+      "explanation": "A stack is LIFO, making it perfect for reversing operations like string reversal.",
+      "ncertPage": 16,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q41",
+      "chapterId": "c12_cs_ch03",
+      "question": "Matching parentheses in an arithmetic expression is a classic application of which data structure?",
+      "options": [
+        "Queue",
+        "Tree",
+        "Stack",
+        "Linked List"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stacks are used to check for balanced parentheses by pushing opening parentheses and popping them when closing parentheses are encountered.",
+      "ncertPage": 16,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q42",
+      "chapterId": "c12_cs_ch03",
+      "question": "Consider a Python list `stack = [10, 20, 30]`. What is the result of `stack.pop()`?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "`pop()` removes and returns the last element of the list, which acts as the top of the stack. Therefore, it returns 30.",
+      "ncertPage": 4,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q43",
+      "chapterId": "c12_cs_ch03",
+      "question": "In a dynamically sized stack like a Python list, is the 'Overflow' condition typically a concern?",
+      "options": [
+        "Yes, it overflows after 10 elements",
+        "Yes, lists have strict hardcoded limits",
+        "No, because Python lists dynamically grow as long as memory permits",
+        "No, because overflow only happens in strings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike fixed-size arrays in C/C++, Python lists dynamically resize, so stack overflow rarely occurs unless system memory is exhausted.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q44",
+      "chapterId": "c12_cs_ch03",
+      "question": "Evaluate the postfix expression: `20 5 / 2 *`",
+      "options": [
+        "2",
+        "8",
+        "10",
+        "50"
+      ],
+      "correctIndex": 1,
+      "explanation": "Push 20, 5. Read '/', pop 5 and 20, compute 20/5 = 4. Push 4. Read '2', push 2. Read '*', pop 2 and 4, compute 4*2 = 8.",
+      "ncertPage": 14,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q45",
+      "chapterId": "c12_cs_ch03",
+      "question": "Convert the infix expression `X + Y * Z ^ W` to postfix.",
+      "options": [
+        "XYZW^*+",
+        "XYZ*W^+",
+        "X+YZW^*",
+        "XYZW*^+"
+      ],
+      "correctIndex": 0,
+      "explanation": "`^` has highest precedence, so `Z^W` -> `ZW^`. Then `*`, so `Y*(ZW^)` -> `YZW^*`. Finally `+`, so `X + (YZW^*)` -> `XYZW^*+`.",
+      "ncertPage": 11,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q46",
+      "chapterId": "c12_cs_ch03",
+      "question": "If `result = 0`, `stack = [5, 10, 15]`, and we run `result = result + stack.pop()` twice, what is `result`?",
+      "options": [
+        "15",
+        "25",
+        "30",
+        "10"
+      ],
+      "correctIndex": 1,
+      "explanation": "First pop returns 15. `result` = 15. Second pop returns 10. `result` = 15 + 10 = 25.",
+      "ncertPage": 16,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q47",
+      "chapterId": "c12_cs_ch03",
+      "question": "What is the primary difference between a stack and a queue?",
+      "options": [
+        "Stack is LIFO, Queue is FIFO",
+        "Stack is FIFO, Queue is LIFO",
+        "Stack uses lists, Queue uses dictionaries",
+        "Stack has no size limit, Queue is fixed"
+      ],
+      "correctIndex": 0,
+      "explanation": "A stack follows Last In First Out (LIFO), whereas a queue follows First In First Out (FIFO).",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q48",
+      "chapterId": "c12_cs_ch03",
+      "question": "During infix to postfix conversion, if the scanned token is a `(`, what is its priority inside the stack compared to outside?",
+      "options": [
+        "Highest outside, lowest inside",
+        "Lowest outside, highest inside",
+        "Always highest",
+        "Always lowest"
+      ],
+      "correctIndex": 0,
+      "explanation": "A `(` has the highest priority when incoming so it is always pushed, but once inside the stack, it acts with lowest priority so any incoming operator is placed on top of it.",
+      "ncertPage": 10,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q49",
+      "chapterId": "c12_cs_ch03",
+      "question": "What happens if a postfix expression has an operator but the stack has only one operand left?",
+      "options": [
+        "The evaluation continues smoothly",
+        "The expression is invalid (syntax error in the expression)",
+        "The result is zero",
+        "The operator is skipped"
+      ],
+      "correctIndex": 1,
+      "explanation": "If a binary operator is encountered and there are less than two operands in the stack, the expression is invalid/malformed.",
+      "ncertPage": 14,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch3_q50",
+      "chapterId": "c12_cs_ch03",
+      "question": "Which of the following sequences of operations leaves the stack empty if initially empty? (Assume no underflow occurs)",
+      "options": [
+        "PUSH(1), PUSH(2), PEEK()",
+        "PUSH(1), POP(), PUSH(2)",
+        "PUSH(1), PUSH(2), POP(), POP()",
+        "PUSH(1), PEEK(), PUSH(2)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pushing twice adds two elements. Popping twice removes both elements, leaving the stack empty.",
+      "ncertPage": 3,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    }
+  ]
+}

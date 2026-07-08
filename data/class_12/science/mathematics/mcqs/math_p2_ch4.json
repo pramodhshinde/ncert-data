@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch10_q1",
+      "chapterId": "math_ch10",
+      "question": "A quantity that involves only magnitude is called a:",
+      "options": [
+        "Vector",
+        "Scalar",
+        "Force",
+        "Momentum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quantities involving only magnitude, represented by a real number, are called scalars.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q2",
+      "chapterId": "math_ch10",
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        "Speed",
+        "Density",
+        "Displacement",
+        "Mass"
+      ],
+      "correctIndex": 2,
+      "explanation": "Displacement involves both magnitude and direction, making it a vector.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q3",
+      "chapterId": "math_ch10",
+      "question": "A quantity that has both magnitude and direction is called a:",
+      "options": [
+        "Scalar",
+        "Vector",
+        "Constant",
+        "Distance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vectors are defined by having both magnitude and direction.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q4",
+      "chapterId": "math_ch10",
+      "question": "The magnitude of a vector AB with initial point A and terminal point B is denoted as:",
+      "options": [
+        "|AB|",
+        "AB",
+        "AB²",
+        "dir(AB)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The length or magnitude of a vector is represented by its absolute value notation |AB|.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q5",
+      "chapterId": "math_ch10",
+      "question": "A vector whose initial and terminal points coincide is called a:",
+      "options": [
+        "Unit vector",
+        "Equal vector",
+        "Zero vector",
+        "Coinitial vector"
+      ],
+      "correctIndex": 2,
+      "explanation": "A zero vector has zero magnitude and no specific direction because its start and end points are the same.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q6",
+      "chapterId": "math_ch10",
+      "question": "A vector whose magnitude is unity (1 unit) is called a:",
+      "options": [
+        "Null vector",
+        "Unit vector",
+        "Scalar vector",
+        "Like vector"
+      ],
+      "correctIndex": 1,
+      "explanation": "A unit vector is defined as a vector with a magnitude of 1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q7",
+      "chapterId": "math_ch10",
+      "question": "Two or more vectors having the same initial point are called:",
+      "options": [
+        "Collinear vectors",
+        "Equal vectors",
+        "Coinitial vectors",
+        "Unit vectors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Coinitial vectors share the same starting point.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q8",
+      "chapterId": "math_ch10",
+      "question": "Two or more vectors are said to be collinear if they are:",
+      "options": [
+        "Equal in magnitude",
+        "Parallel to the same line",
+        "In the same direction only",
+        "Starting from the origin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Collinear vectors are parallel to the same line, regardless of their magnitudes or directions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q9",
+      "chapterId": "math_ch10",
+      "question": "Two vectors are said to be equal if they have:",
+      "options": [
+        "Same magnitude only",
+        "Same direction only",
+        "Same magnitude and direction",
+        "Same initial point"
+      ],
+      "correctIndex": 2,
+      "explanation": "Equal vectors must have identical magnitudes and directions, regardless of their initial points.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q10",
+      "chapterId": "math_ch10",
+      "question": "A vector having the same magnitude as a given vector but opposite direction is called its:",
+      "options": [
+        "Inverse vector",
+        "Negative vector",
+        "Reciprocal vector",
+        "Null vector"
+      ],
+      "correctIndex": 1,
+      "explanation": "The negative of a vector has the same length but points in the opposite direction.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q11",
+      "chapterId": "math_ch10",
+      "question": "Which mathematician is associated with the quote about 'each generation builds a new story to the old structure' in the introduction?",
+      "options": [
+        "W.R. Hamilton",
+        "Herman Hankel",
+        "Josiah Willard Gibbs",
+        "Oliver Heaviside"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chapter opens with a quote from Herman Hankel.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q12",
+      "chapterId": "math_ch10",
+      "question": "The Law used for the geometric addition of two vectors is the:",
+      "options": [
+        "Square Law",
+        "Triangle Law",
+        "Circle Law",
+        "Subtraction Law"
+      ],
+      "correctIndex": 1,
+      "explanation": "The triangle law of vector addition defines the sum of two vectors geometrically.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q13",
+      "chapterId": "math_ch10",
+      "question": "Vector addition is commutative, meaning:",
+      "options": [
+        "a + b = b + a",
+        "(a + b) + c = a + (b + c)",
+        "k(a) = a(k)",
+        "a - b = b - a"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commutativity means the order of addition does not change the result.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q14",
+      "chapterId": "math_ch10",
+      "question": "Which of the following is the 'additive identity' for vectors?",
+      "options": [
+        "Unit vector",
+        "Position vector",
+        "Zero vector",
+        "Negative vector"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adding a zero vector to any vector 'a' results in 'a' (a + 0 = a).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q15",
+      "chapterId": "math_ch10",
+      "question": "If 'k' is a scalar and 'a' is a vector, the magnitude of ka is:",
+      "options": [
+        "k |a|",
+        "|k| |a|",
+        "k² |a|",
+        "|a| / k"
+      ],
+      "correctIndex": 1,
+      "explanation": "The magnitude of a scalar-vector product is the absolute value of the scalar times the magnitude of the vector.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q16",
+      "chapterId": "math_ch10",
+      "question": "The unit vector in the direction of vector 'a' is given by:",
+      "options": [
+        "a / |a|",
+        "|a| / a",
+        "a * |a|",
+        "a + |a|"
+      ],
+      "correctIndex": 0,
+      "explanation": "A unit vector is obtained by dividing a vector by its own magnitude.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q17",
+      "chapterId": "math_ch10",
+      "question": "The vectors i, j, k represent unit vectors along which axes?",
+      "options": [
+        "x, y, z respectively",
+        "z, y, x respectively",
+        "Diagonal axes",
+        "Random axes"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a rectangular coordinate system, i, j, and k are standard unit vectors for the x, y, and z axes.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q18",
+      "chapterId": "math_ch10",
+      "question": "In the vector r = xi + yj + zk, the values x, y, and z are called:",
+      "options": [
+        "Vector components",
+        "Scalar components",
+        "Direction cosines",
+        "Magnitudes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The coefficients x, y, and z are the scalar components of the vector.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q19",
+      "chapterId": "math_ch10",
+      "question": "The magnitude of the vector r = xi + yj + zk is:",
+      "options": [
+        "x + y + z",
+        "√(x + y + z)",
+        "√(x² + y² + z²)",
+        "x² + y² + z²"
+      ],
+      "correctIndex": 2,
+      "explanation": "The distance formula in 3D gives the magnitude as the square root of the sum of squares of the components.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q20",
+      "chapterId": "math_ch10",
+      "question": "The angles α, β, and γ that a vector makes with the positive x, y, and z axes are called:",
+      "options": [
+        "Direction ratios",
+        "Direction angles",
+        "Direction cosines",
+        "Scalar angles"
+      ],
+      "correctIndex": 1,
+      "explanation": "α, β, γ are the direction angles of the vector.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q21",
+      "chapterId": "math_ch10",
+      "question": "The values cos α, cos β, and cos γ are known as:",
+      "options": [
+        "Direction ratios",
+        "Scalar components",
+        "Direction cosines",
+        "Unit angles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Direction cosines are the cosines of the direction angles.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q22",
+      "chapterId": "math_ch10",
+      "question": "For any vector, the sum of squares of its direction cosines (l² + m² + n²) is always:",
+      "options": [
+        "0",
+        "1",
+        "Magnitude of the vector",
+        "Infinity"
+      ],
+      "correctIndex": 1,
+      "explanation": "A fundamental property of direction cosines is that their squares sum to unity.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q23",
+      "chapterId": "math_ch10",
+      "question": "Direction ratios of a vector are ________ to its direction cosines.",
+      "options": [
+        "Equal",
+        "Reciprocal",
+        "Proportional",
+        "Inverse"
+      ],
+      "correctIndex": 2,
+      "explanation": "Direction ratios are any numbers proportional to the direction cosines.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q24",
+      "chapterId": "math_ch10",
+      "question": "Two vectors are collinear if and only if their ________ are proportional.",
+      "options": [
+        "Magnitudes",
+        "Initial points",
+        "Scalar components (Direction ratios)",
+        "Unit vectors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Parallelism (collinearity) is determined by proportional components.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q25",
+      "chapterId": "math_ch10",
+      "question": "If a vector joins points P1(x1, y1, z1) and P2(x2, y2, z2), its scalar components are:",
+      "options": [
+        "x1+x2, y1+y2, z1+z2",
+        "x2-x1, y2-y1, z2-z1",
+        "x1x2, y1y2, z1z2",
+        "√(x2-x1)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The vector P1P2 is calculated by subtracting the coordinates of the initial point from the terminal point.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q26",
+      "chapterId": "math_ch10",
+      "question": "The 'Section Formula' for internal division of the line joining vectors 'a' and 'b' in ratio m:n is:",
+      "options": [
+        "(mb + na) / (m + n)",
+        "(mb - na) / (m - n)",
+        "(a + b) / 2",
+        "m(a + b)"
+      ],
+      "correctIndex": 0,
+      "explanation": "This formula gives the position vector of a point dividing the segment internally.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q27",
+      "chapterId": "math_ch10",
+      "question": "The scalar product (dot product) of two vectors 'a' and 'b' is defined as:",
+      "options": [
+        "|a| |b| sin θ",
+        "|a| |b| cos θ",
+        "a * b",
+        "|a| / |b|"
+      ],
+      "correctIndex": 1,
+      "explanation": "The dot product involves the cosine of the angle between the vectors.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q28",
+      "chapterId": "math_ch10",
+      "question": "If the dot product of two non-zero vectors is zero, the vectors are:",
+      "options": [
+        "Parallel",
+        "Perpendicular",
+        "Equal",
+        "Collinear"
+      ],
+      "correctIndex": 1,
+      "explanation": "a . b = 0 implies cos θ = 0, so θ = 90°.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q29",
+      "chapterId": "math_ch10",
+      "question": "The dot product i . i is equal to:",
+      "options": [
+        "0",
+        "1",
+        "j",
+        "k"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since i is a unit vector and the angle with itself is 0, i.i = 1*1*cos(0) = 1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q30",
+      "chapterId": "math_ch10",
+      "question": "The dot product i . j is equal to:",
+      "options": [
+        "1",
+        "0",
+        "k",
+        "-1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Orthogonal unit vectors have a dot product of zero.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q31",
+      "chapterId": "math_ch10",
+      "question": "The angle θ between two vectors 'a' and 'b' can be found using the formula cos θ =:",
+      "options": [
+        "(a . b) / (|a| |b|)",
+        "(a x b) / (|a| |b|)",
+        "|a| |b|",
+        "a . b"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rearranging the dot product definition gives the cosine of the angle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q32",
+      "chapterId": "math_ch10",
+      "question": "The projection of vector 'a' on vector 'b' is given by:",
+      "options": [
+        "(a . b) / |b|",
+        "(a . b) / |a|",
+        "a . b",
+        "|a| cos θ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Projection is the magnitude of the shadow of 'a' on 'b'.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q33",
+      "chapterId": "math_ch10",
+      "question": "The vector product (cross product) a x b results in a:",
+      "options": [
+        "Scalar",
+        "Vector",
+        "Angle",
+        "Unitless number"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cross product of two vectors is always a vector.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q34",
+      "chapterId": "math_ch10",
+      "question": "The magnitude of the cross product |a x b| is defined as:",
+      "options": [
+        "|a| |b| cos θ",
+        "|a| |b| sin θ",
+        "|a| |b| tan θ",
+        "a . b"
+      ],
+      "correctIndex": 1,
+      "explanation": "The magnitude of the cross product uses the sine of the angle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q35",
+      "chapterId": "math_ch10",
+      "question": "The direction of a x b is ________ to both vectors 'a' and 'b'.",
+      "options": [
+        "Parallel",
+        "Perpendicular",
+        "At 45 degrees",
+        "The same as 'a'"
+      ],
+      "correctIndex": 1,
+      "explanation": "By definition, the cross product is orthogonal to the plane containing the two original vectors.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q36",
+      "chapterId": "math_ch10",
+      "question": "If a x b = 0 for non-zero vectors, then the vectors are:",
+      "options": [
+        "Perpendicular",
+        "Parallel",
+        "Equal",
+        "Unit vectors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cross product is zero when sin θ = 0, which means the vectors are parallel.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q37",
+      "chapterId": "math_ch10",
+      "question": "The cross product i x j is equal to:",
+      "options": [
+        "0",
+        "1",
+        "k",
+        "-k"
+      ],
+      "correctIndex": 2,
+      "explanation": "By the right-hand rule, the cross product of x and y unit vectors is the z unit vector.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q38",
+      "chapterId": "math_ch10",
+      "question": "The cross product i x i is equal to:",
+      "options": [
+        "1",
+        "0",
+        "k",
+        "j"
+      ],
+      "correctIndex": 1,
+      "explanation": "Any vector crossed with itself is the zero vector.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q39",
+      "chapterId": "math_ch10",
+      "question": "The area of a parallelogram with adjacent sides 'a' and 'b' is given by:",
+      "options": [
+        "a . b",
+        "|a x b|",
+        "1/2 |a x b|",
+        "|a| |b|"
+      ],
+      "correctIndex": 1,
+      "explanation": "The magnitude of the cross product equals the area of the parallelogram formed by the vectors.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q40",
+      "chapterId": "math_ch10",
+      "question": "The area of a triangle with adjacent sides 'a' and 'b' is:",
+      "options": [
+        "|a x b|",
+        "1/2 |a x b|",
+        "a . b",
+        "1/2 (a . b)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The area of a triangle is half the area of the corresponding parallelogram.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q41",
+      "chapterId": "math_ch10",
+      "question": "Who created modern vector analysis in the 1880s by separating quaternions into scalar and vector parts?",
+      "options": [
+        "Aristotle",
+        "Stevin-Simon",
+        "Gibbs and Heaviside",
+        "P.G. Tait"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gibbs and Heaviside are credited with creating vector analysis in the late 19th century.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q42",
+      "chapterId": "math_ch10",
+      "question": "The 'parallelogram law' for adding forces was suggested to be known as early as the time of:",
+      "options": [
+        "Newton",
+        "Aristotle",
+        "Gibbs",
+        "Hamilton"
+      ],
+      "correctIndex": 1,
+      "explanation": "The concept was known as early as Aristotle's time.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q43",
+      "chapterId": "math_ch10",
+      "question": "Stevin-Simon discovered that forces add vectorially in the case of ________ forces.",
+      "options": [
+        "Parallel",
+        "Perpendicular",
+        "Equal",
+        "Random"
+      ],
+      "correctIndex": 1,
+      "explanation": "He discovered this breakthrough for perpendicular forces in 1586.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q44",
+      "chapterId": "math_ch10",
+      "question": "The book 'Element of Vector Analysis' was printed in 1881 by:",
+      "options": [
+        "Oliver Heaviside",
+        "Josiah Willard Gibbs",
+        "William Rowan Hamilton",
+        "Aristotle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gibbs printed this concise account of vectors.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q45",
+      "chapterId": "math_ch10",
+      "question": "If vectors are represented in component form, a x b can be calculated using a:",
+      "options": [
+        "Summation",
+        "Determinant",
+        "Integral",
+        "Limit"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cross product formula is conveniently expressed as a determinant.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q46",
+      "chapterId": "math_ch10",
+      "question": "Scalar multiplication is distributive over vector addition, meaning:",
+      "options": [
+        "k(a + b) = ka + kb",
+        "k(ab) = (ka)b",
+        "k + a = a + k",
+        "ka = ak"
+      ],
+      "correctIndex": 0,
+      "explanation": "This property allows the scalar to be distributed across vectors.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q47",
+      "chapterId": "math_ch10",
+      "question": "The position vector of a point P(x, y, z) with respect to the origin O(0, 0, 0) is:",
+      "options": [
+        "r = xi + yj + zk",
+        "r = x + y + z",
+        "r = (x,y,z)",
+        "r = i+j+k"
+      ],
+      "correctIndex": 0,
+      "explanation": "A position vector describes a point's location relative to the origin.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q48",
+      "chapterId": "math_ch10",
+      "question": "The dot product is ________, meaning a . b = b . a.",
+      "options": [
+        "Associative",
+        "Commutative",
+        "Distributive",
+        "Inverse"
+      ],
+      "correctIndex": 1,
+      "explanation": "The order of vectors in a dot product does not matter.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q49",
+      "chapterId": "math_ch10",
+      "question": "Cross product is NOT commutative; instead, a x b =:",
+      "options": [
+        "b x a",
+        "-(b x a)",
+        "0",
+        "1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Swapping the order in a cross product reverses the direction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch10_q50",
+      "chapterId": "math_ch10",
+      "question": "Which mathematician is shown in the portrait on the first page of the chapter?",
+      "options": [
+        "Herman Hankel",
+        "W.R. Hamilton",
+        "Isaac Newton",
+        "Euclid"
+      ],
+      "correctIndex": 1,
+      "explanation": "The portrait provided is of William Rowan Hamilton.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    }
+  ]
+}

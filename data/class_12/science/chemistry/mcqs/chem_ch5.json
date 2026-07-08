@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch7_q1",
+      "chapterId": "chem_ch7",
+      "question": "Who proposed the first formulation of the nature of bonding in coordination compounds?",
+      "options": [
+        "Linus Pauling",
+        "Alfred Werner",
+        "Herbert Boyer",
+        "Victor Grignard"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alfred Werner, a Swiss chemist, was the first to formulate ideas on the structures of coordination compounds.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q2",
+      "chapterId": "chem_ch7",
+      "question": "According to Werner's theory, metals in coordination compounds exhibit two types of linkages: Primary and ________.",
+      "options": [
+        "Tertiary",
+        "Ionizable",
+        "Secondary",
+        "Covalent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Werner proposed that metals exhibit primary and secondary linkages.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q3",
+      "chapterId": "chem_ch7",
+      "question": "In Werner's theory, secondary linkages are ________ in nature.",
+      "options": [
+        "Ionizable",
+        "Non-ionizable",
+        "Metallic",
+        "Temporary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Primary linkages are ionizable, while secondary linkages are non-ionizable.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q4",
+      "chapterId": "chem_ch7",
+      "question": "The secondary linkage in coordination compounds is equivalent to the ________.",
+      "options": [
+        "Oxidation number",
+        "Mass number",
+        "Coordination number",
+        "Atomic number"
+      ],
+      "correctIndex": 2,
+      "explanation": "The secondary linkage corresponds to the coordination number and is fixed for a metal.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q5",
+      "chapterId": "chem_ch7",
+      "question": "Which of the following describes the spatial arrangement of the groups bound by secondary linkages?",
+      "options": [
+        "Coordination sphere",
+        "Coordination polyhedron",
+        "Ionization sphere",
+        "Ligand field"
+      ],
+      "correctIndex": 1,
+      "explanation": "The spatial arrangement of groups bound by secondary linkages is called the coordination polyhedron.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q6",
+      "chapterId": "chem_ch7",
+      "question": "What is the primary difference between a 'double salt' (like Mohr’s salt) and a 'complex' in aqueous solution?",
+      "options": [
+        "Double salts do not dissolve",
+        "Complexes dissociate into simple ions",
+        "Double salts dissociate into simple ions; complexes do not",
+        "Complexes are always colored"
+      ],
+      "correctIndex": 2,
+      "explanation": "Double salts dissociate into constituent simple ions in water, while complex ions like [Fe(CN)6]4- do not dissociate into simple Fe2+ and CN- ions.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q7",
+      "chapterId": "chem_ch7",
+      "question": "The central atom or ion in a coordination entity acts as a ________.",
+      "options": [
+        "Lewis Acid",
+        "Lewis Base",
+        "Oxidizing agent",
+        "Reducing agent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The central atom accepts electron pairs from ligands, acting as a Lewis acid.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q8",
+      "chapterId": "chem_ch7",
+      "question": "Ligands that can bind to a metal ion through a single donor atom are called ________.",
+      "options": [
+        "Bidentate",
+        "Unidentate",
+        "Ambidentate",
+        "Chelating"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ligands bound through a single donor atom, such as Cl- or H2O, are unidentate.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q9",
+      "chapterId": "chem_ch7",
+      "question": "Which of the following is a bidentate ligand?",
+      "options": [
+        "Cl-",
+        "NH3",
+        "Ethane-1,2-diamine (en)",
+        "EDTA"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ethane-1,2-diamine can bind through two nitrogen atoms, making it bidentate.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q10",
+      "chapterId": "chem_ch7",
+      "question": "The ligand EDTA4- is classified as ________.",
+      "options": [
+        "Bidentate",
+        "Tridentate",
+        "Hexadentate",
+        "Unidentate"
+      ],
+      "correctIndex": 2,
+      "explanation": "EDTA can bind through two nitrogen and four oxygen atoms, making it hexadentate.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q11",
+      "chapterId": "chem_ch7",
+      "question": "When a di- or polydentate ligand uses two or more donor atoms to bind a single metal ion, it is called a ________ ligand.",
+      "options": [
+        "Bridging",
+        "Chelating",
+        "Simple",
+        "Ambidentate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Such ligands are called chelate ligands, and they often form more stable complexes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q12",
+      "chapterId": "chem_ch7",
+      "question": "A ligand that can ligate through two different atoms (like NO2- or SCN-) is known as an ________ ligand.",
+      "options": [
+        "Amphoteric",
+        "Ambidentate",
+        "Asymmetric",
+        "Aqueous"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ambidentate ligands have two different donor atoms but use only one at a time to coordinate.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q13",
+      "chapterId": "chem_ch7",
+      "question": "The total number of ligand donor atoms to which the metal is directly bonded is called the ________.",
+      "options": [
+        "Oxidation number",
+        "Coordination number",
+        "Valency",
+        "Coordination sphere"
+      ],
+      "correctIndex": 1,
+      "explanation": "The coordination number is the number of sigma bonds between ligands and the central atom.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q14",
+      "chapterId": "chem_ch7",
+      "question": "In the coordination entity [PtCl6]2-, the coordination number of Pt is ________.",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "There are six chloride ligands bonded to the platinum.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q15",
+      "chapterId": "chem_ch7",
+      "question": "The central atom and the ligands attached to it are enclosed in square brackets and collectively termed as the ________.",
+      "options": [
+        "Counter ion",
+        "Coordination sphere",
+        "Crystal field",
+        "Outer sphere"
+      ],
+      "correctIndex": 1,
+      "explanation": "The coordination sphere consists of the metal and its ligands, while ionizable groups are outside the brackets.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q16",
+      "chapterId": "chem_ch7",
+      "question": "What is the oxidation number of Cu in the coordination entity [Cu(CN)4]3-?",
+      "options": [
+        "+1",
+        "+2",
+        "+3",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "x + 4(-1) = -3; x = +1.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q17",
+      "chapterId": "chem_ch7",
+      "question": "Complexes in which a metal is bound to only one type of donor group are called ________.",
+      "options": [
+        "Heteroleptic",
+        "Homoleptic",
+        "Mononuclear",
+        "Polynuclear"
+      ],
+      "correctIndex": 1,
+      "explanation": "Homoleptic complexes have only one type of ligand, e.g., [Co(NH3)6]3+.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q18",
+      "chapterId": "chem_ch7",
+      "question": "In the naming of coordination compounds, which part is named first?",
+      "options": [
+        "Ligand",
+        "Anion",
+        "Cation",
+        "Central Metal"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cation is named first in both positively and negatively charged coordination entities.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q19",
+      "chapterId": "chem_ch7",
+      "question": "When naming ligands, the names of anionic ligands usually end in the letter ________.",
+      "options": [
+        "-e",
+        "-o",
+        "-ide",
+        "-ite"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anionic ligands end in -o (e.g., chlorido, cyanido).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q20",
+      "chapterId": "chem_ch7",
+      "question": "The neutral ligand H2O is named as ________ in coordination chemistry nomenclature.",
+      "options": [
+        "Water",
+        "Hydrate",
+        "Aqua",
+        "Oxide"
+      ],
+      "correctIndex": 2,
+      "explanation": "In IUPAC nomenclature, H2O is called aqua.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q21",
+      "chapterId": "chem_ch7",
+      "question": "If the coordination entity is an anion, the name of the central metal ends with the suffix ________.",
+      "options": [
+        "-ic",
+        "-ous",
+        "-ate",
+        "-ium"
+      ],
+      "correctIndex": 2,
+      "explanation": "For example, cobalt in an anionic complex becomes cobaltate.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q22",
+      "chapterId": "chem_ch7",
+      "question": "The IUPAC name for [Pt(NH3)2Cl(NH2CH3)]Cl is:",
+      "options": [
+        "Diamminechlorido(methylamine)platinum(II) chloride",
+        "Platinumdiamminechloridomethylamine chloride",
+        "Dichloridodiamminemethylamineplatinum",
+        "Diamminechlorido(methylamine)platinum(IV) chloride"
+      ],
+      "correctIndex": 0,
+      "explanation": "Naming follows alphabetical order of ligands, then metal with oxidation state (II), then counter ion.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q23",
+      "chapterId": "chem_ch7",
+      "question": "Compounds with the same chemical formula but different structural arrangements are called ________.",
+      "options": [
+        "Isotopes",
+        "Isomers",
+        "Allotropes",
+        "Homologs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Isomers have the same formula but different properties due to different atom arrangements.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q24",
+      "chapterId": "chem_ch7",
+      "question": "Which type of isomerism involves ambidentate ligands?",
+      "options": [
+        "Coordination isomerism",
+        "Linkage isomerism",
+        "Ionization isomerism",
+        "Solvate isomerism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Linkage isomerism arises when an ambidentate ligand can coordinate via two different atoms (e.g., -NO2 and -ONO).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q25",
+      "chapterId": "chem_ch7",
+      "question": "Ionization isomerism occurs when:",
+      "options": [
+        "Ligands exchange with water molecules",
+        "Counter ions exchange with ligands in the coordination sphere",
+        "Two coordination entities exchange ligands",
+        "The metal changes its oxidation state"
+      ],
+      "correctIndex": 1,
+      "explanation": "It occurs when the counter ion is itself a potential ligand and can displace a ligand from the sphere.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q26",
+      "chapterId": "chem_ch7",
+      "question": "Geometrical isomerism in coordination number 4 is commonly observed in ________ complexes.",
+      "options": [
+        "Tetrahedral",
+        "Square Planar",
+        "Linear",
+        "Pentagonal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Square planar complexes of type [MX2L2] show cis and trans isomers; tetrahedral complexes do not show geometrical isomerism.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q27",
+      "chapterId": "chem_ch7",
+      "question": "Optical isomers that are non-superimposable mirror images are called ________.",
+      "options": [
+        "Diastereomers",
+        "Enantiomers",
+        "Epimers",
+        "Anomers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enantiomers rotate the plane of polarized light in opposite directions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q28",
+      "chapterId": "chem_ch7",
+      "question": "Valence Bond Theory (VBT) explains the formation of complexes using the concept of metal ________.",
+      "options": [
+        "Ionization",
+        "Orbital Hybridisation",
+        "Resonance",
+        "Excitation"
+      ],
+      "correctIndex": 1,
+      "explanation": "VBT uses hybrid orbitals (e.g., sp3, d2sp3) to describe bonding between the metal and ligands.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q29",
+      "chapterId": "chem_ch7",
+      "question": "An inner orbital complex uses ________ orbitals for hybridisation.",
+      "options": [
+        "(n)d",
+        "ns",
+        "(n-1)d",
+        "(n+1)d"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inner orbital complexes (low spin) involve (n-1)d orbitals, such as d2sp3.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q30",
+      "chapterId": "chem_ch7",
+      "question": "Outer orbital complexes are also known as ________ complexes.",
+      "options": [
+        "Low spin",
+        "High spin",
+        "Paramagnetic only",
+        "Diamagnetic only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Outer orbital complexes (sp3d2) use the nd orbitals and are typically high spin.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q31",
+      "chapterId": "chem_ch7",
+      "question": "The complex [Ni(CO)4] has a ________ geometry.",
+      "options": [
+        "Square Planar",
+        "Octahedral",
+        "Tetrahedral",
+        "Pyramidal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ni in Ni(CO)4 undergoes sp3 hybridisation, resulting in a tetrahedral shape.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q32",
+      "chapterId": "chem_ch7",
+      "question": "Crystal Field Theory (CFT) treats the interaction between metal and ligands as purely ________.",
+      "options": [
+        "Covalent",
+        "Electrostatic",
+        "Metallic",
+        "Coordinative"
+      ],
+      "correctIndex": 1,
+      "explanation": "CFT considers ligands as point charges and the bond as ionic.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q33",
+      "chapterId": "chem_ch7",
+      "question": "In an octahedral field, the d-orbitals split into two sets: ________ and ________.",
+      "options": [
+        "s and p",
+        "t2g and eg",
+        "dz2 and dx2-y2 only",
+        "axial and equatorial"
+      ],
+      "correctIndex": 1,
+      "explanation": "The t2g set (dxy, dyz, dzx) is lower in energy, and the eg set (dx2-y2, dz2) is higher in energy in octahedral fields.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q34",
+      "chapterId": "chem_ch7",
+      "question": "What does Δo represent in Crystal Field Theory?",
+      "options": [
+        "Electronegativity difference",
+        "Octahedral crystal field splitting energy",
+        "Standard potential",
+        "Heat of formation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Δo is the energy difference between the two sets of d-orbitals.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q35",
+      "chapterId": "chem_ch7",
+      "question": "The arrangement of ligands in order of increasing field strength is called the ________.",
+      "options": [
+        "Electrochemical series",
+        "Spectrochemical series",
+        "Activity series",
+        "Ligand series"
+      ],
+      "correctIndex": 1,
+      "explanation": "The spectrochemical series ranks ligands based on the magnitude of crystal field splitting they produce.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q36",
+      "chapterId": "chem_ch7",
+      "question": "Which of the following is a strong field ligand?",
+      "options": [
+        "I-",
+        "Cl-",
+        "H2O",
+        "CN-"
+      ],
+      "correctIndex": 3,
+      "explanation": "CN- and CO are examples of strong field ligands that produce large Δo and usually form low spin complexes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q37",
+      "chapterId": "chem_ch7",
+      "question": "In tetrahedral complexes, the splitting energy Δt is related to Δo by the relation ________.",
+      "options": [
+        "Δt = Δo",
+        "Δt = 4/9 Δo",
+        "Δt = 9/4 Δo",
+        "Δt = 2 Δo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tetrahedral splitting is much smaller than octahedral splitting.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q38",
+      "chapterId": "chem_ch7",
+      "question": "The colour of coordination compounds is due to ________ transitions.",
+      "options": [
+        "s-p",
+        "d-d",
+        "Charge transfer only",
+        "n-pi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Electronic transitions between the split d-orbital levels (d-d transitions) result in color.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q39",
+      "chapterId": "chem_ch7",
+      "question": "What happens to the colour of [Ti(H2O)6]3+ when it is heated and the water is removed?",
+      "options": [
+        "Turns blue",
+        "Turns yellow",
+        "Becomes colourless",
+        "Turns green"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the absence of ligands, crystal field splitting does not occur, and the substance becomes colourless.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q40",
+      "chapterId": "chem_ch7",
+      "question": "Bonding in metal carbonyls involves both sigma and ________ character.",
+      "options": [
+        "Ionic",
+        "Pi-back bonding",
+        "Metallic",
+        "Hydrogen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metal carbonyls show synergic bonding where CO donates electrons to the metal (sigma) and the metal donates back into CO's pi* orbitals.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q41",
+      "chapterId": "chem_ch7",
+      "question": "Which complex is used in the treatment of cancer?",
+      "options": [
+        "cis-platin",
+        "EDTA",
+        "Chlorophyll",
+        "Vitamin B12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cis-platin (cis-[Pt(NH3)2Cl2]) is an important anti-cancer drug.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q42",
+      "chapterId": "chem_ch7",
+      "question": "Chlorophyll is a coordination compound of which metal?",
+      "options": [
+        "Iron",
+        "Magnesium",
+        "Cobalt",
+        "Zinc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chlorophyll is a magnesium complex found in plants.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q43",
+      "chapterId": "chem_ch7",
+      "question": "Haemoglobin is a coordination compound of ________.",
+      "options": [
+        "Copper",
+        "Magnesium",
+        "Iron",
+        "Manganese"
+      ],
+      "correctIndex": 2,
+      "explanation": "Haemoglobin, the oxygen carrier in blood, is an iron-porphyrin complex.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q44",
+      "chapterId": "chem_ch7",
+      "question": "The complex used to remove excess copper and iron in medical treatments is ________.",
+      "options": [
+        "D-penicillamine",
+        "Vitamin B12",
+        "Cis-platin",
+        "Zeise's salt"
+      ],
+      "correctIndex": 0,
+      "explanation": "D-penicillamine and desferrioxamine B are used as chelating agents to remove excess metals.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q45",
+      "chapterId": "chem_ch7",
+      "question": "Which of the following is used for estimation of water hardness by titration?",
+      "options": [
+        "EDTA",
+        "Ammonia",
+        "Cyanide",
+        "Pyridine"
+      ],
+      "correctIndex": 0,
+      "explanation": "EDTA forms stable complexes with Ca2+ and Mg2+, allowing for hardness estimation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q46",
+      "chapterId": "chem_ch7",
+      "question": "In the extraction of silver and gold, which ligand is used to form a soluble complex?",
+      "options": [
+        "Carbon monoxide",
+        "Ammonia",
+        "Cyanide",
+        "Water"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gold and silver are extracted by forming cyanide complexes like [Au(CN)2]-.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q47",
+      "chapterId": "chem_ch7",
+      "question": "Wilkinson’s catalyst, [(Ph3P)3RhCl], is used for the ________ of alkenes.",
+      "options": [
+        "Oxidation",
+        "Hydrogenation",
+        "Hydrolysis",
+        "Polymerization"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wilkinson's catalyst is a well-known coordination compound used for alkene hydrogenation.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q48",
+      "chapterId": "chem_ch7",
+      "question": "Vitamin B12 (Cyanocobalamin) is a coordination compound of which metal?",
+      "options": [
+        "Iron",
+        "Nickel",
+        "Cobalt",
+        "Platinum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vitamin B12 is an anti-pernicious anaemia factor containing cobalt.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q49",
+      "chapterId": "chem_ch7",
+      "question": "The term 'heteroleptic' refers to a complex where:",
+      "options": [
+        "The metal is in a high oxidation state",
+        "There are more than two metal atoms",
+        "The metal is bound to more than one kind of donor group",
+        "The complex is always an anion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Heteroleptic complexes have different types of ligands, e.g., [Co(NH3)4Cl2]+.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch7_q50",
+      "chapterId": "chem_ch7",
+      "question": "A metal ion having a d4 configuration in an octahedral field with Δo > P will have an electronic configuration of ________.",
+      "options": [
+        "t2g4 eg0",
+        "t2g3 eg1",
+        "t2g2 eg2",
+        "t2g1 eg3"
+      ],
+      "correctIndex": 0,
+      "explanation": "If Δo > P (strong field), electrons will pair up in the t2g orbitals instead of moving to the eg orbitals.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    }
+  ]
+}

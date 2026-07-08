@@ -1,0 +1,103 @@
+{
+  "books": [
+    {
+      "id": 1201,
+      "title": "Physics Part I",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Physics",
+      "chapterCount": 8,
+      "parts": 2
+    },
+    {
+      "id": 1202,
+      "title": "Physics Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Physics",
+      "chapterCount": 6,
+      "parts": 2
+    },
+    {
+      "id": 1203,
+      "title": "Chemistry Part I",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Chemistry",
+      "chapterCount": 5,
+      "parts": 2
+    },
+    {
+      "id": 1204,
+      "title": "Chemistry Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Chemistry",
+      "chapterCount": 6,
+      "parts": 2
+    },
+    {
+      "id": 1205,
+      "title": "Biology",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Biology",
+      "chapterCount": 13,
+      "parts": 1
+    },
+    {
+      "id": 1206,
+      "title": "Mathematics Part I",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Mathematics",
+      "chapterCount": 6,
+      "parts": 2
+    },
+    {
+      "id": 1207,
+      "title": "Mathematics Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Mathematics",
+      "chapterCount": 7,
+      "parts": 2
+    },
+    {
+      "id": 1209,
+      "title": "Computer Science",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Computer Science",
+      "chapterCount": 13,
+      "parts": 1
+    },
+    {
+      "id": 1210,
+      "title": "Informatics Practices",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Informatics Practices",
+      "chapterCount": 7,
+      "parts": 1
+    }
+  ]
+}

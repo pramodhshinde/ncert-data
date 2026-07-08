@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch8_q1",
+      "chapterId": "bio_ch8",
+      "question": "Who is known as the 'Father of Ecology in India'?",
+      "options": [
+        "M.S. Swaminathan",
+        "Ramdeo Misra",
+        "Panchanan Maheshwari",
+        "Salim Ali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ramdeo Misra (1908-1998) is revered as the Father of Ecology in India for his contributions to teaching and research at Banaras Hindu University.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q2",
+      "chapterId": "bio_ch8",
+      "question": "Which of the following is an attribute of a population but NOT of an individual?",
+      "options": [
+        "Birth",
+        "Death",
+        "Sex ratio",
+        "Age"
+      ],
+      "correctIndex": 2,
+      "explanation": "While an individual has a sex (male or female), a population has a sex ratio (e.g., 60 percent females).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q3",
+      "chapterId": "bio_ch8",
+      "question": "In a population age pyramid, if the 'pre-reproductive' base is very broad compared to the higher levels, the population is:",
+      "options": [
+        "Stable",
+        "Declining",
+        "Expanding",
+        "Extinct"
+      ],
+      "correctIndex": 2,
+      "explanation": "An age pyramid with a broad base of young (pre-reproductive) individuals indicates an expanding or growing population.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q4",
+      "chapterId": "bio_ch8",
+      "question": "The number of individuals of a population that leave the habitat and go elsewhere during a time period is called:",
+      "options": [
+        "Natality",
+        "Mortality",
+        "Immigration",
+        "Emigration"
+      ],
+      "correctIndex": 3,
+      "explanation": "Emigration (E) is the number of individuals of the population who left the habitat and gone elsewhere during the time period under consideration.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q5",
+      "chapterId": "bio_ch8",
+      "question": "Which equation represents exponential population growth?",
+      "options": [
+        "dN/dt = rN",
+        "dN/dt = rN [(K-N)/K]",
+        "Nt = N0 + B",
+        "r = b - d"
+      ],
+      "correctIndex": 0,
+      "explanation": "Exponential growth, occurring when resources are unlimited, is represented by dN/dt = rN.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q6",
+      "chapterId": "bio_ch8",
+      "question": "In the logistic growth equation, what does 'K' stand for?",
+      "options": [
+        "Intrinsic rate of increase",
+        "Carrying capacity",
+        "Population density",
+        "Death rate"
+      ],
+      "correctIndex": 1,
+      "explanation": "K represents Carrying Capacity, the maximum number of individuals an environment can sustain.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q7",
+      "chapterId": "bio_ch8",
+      "question": "Organisms that breed only once in their lifetime include:",
+      "options": [
+        "Pacific salmon fish and bamboo",
+        "Oysters and pelagic fishes",
+        "Birds and mammals",
+        "Human beings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Some organisms, like Pacific salmon fish and bamboo, breed only once in their lifetime.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q8",
+      "chapterId": "bio_ch8",
+      "question": "An interaction where one species is benefited and the other is neither harmed nor benefited (+, 0) is called:",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Ammensalism",
+        "Parasitism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Commensalism is the interaction in which one species benefits and the other is neither harmed nor benefited.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q9",
+      "chapterId": "bio_ch8",
+      "question": "Which of the following is an example of 'Ectoparasitism'?",
+      "options": [
+        "Liver fluke in humans",
+        "Lice on humans",
+        "Plasmodium in RBCs",
+        "Tapeworm in intestine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ectoparasites feed on the external surface of the host organism, such as lice on humans and ticks on dogs.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q10",
+      "chapterId": "bio_ch8",
+      "question": "The 'Competitive Exclusion Principle' was proposed by:",
+      "options": [
+        "Darwin",
+        "Gause",
+        "MacArthur",
+        "Verhulst-Pearl"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gause’s ‘Competitive Exclusion Principle’ states that two closely related species competing for the same resources cannot co-exist indefinitely.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q11",
+      "chapterId": "bio_ch8",
+      "question": "Cuscuta (dodder) growing on hedge plants is an example of:",
+      "options": [
+        "Predation",
+        "Commensalism",
+        "Parasitism",
+        "Mutualism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cuscuta is a parasitic plant that has lost its chlorophyll and leaves during evolution and derives nutrition from the host plant.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q12",
+      "chapterId": "bio_ch8",
+      "question": "Brood parasitism is commonly observed in which bird?",
+      "options": [
+        "Crow and Cuckoo (Koel)",
+        "Parrot and Eagle",
+        "Sparrow and Pigeon",
+        "Vulture and Hawk"
+      ],
+      "correctIndex": 0,
+      "explanation": "In brood parasitism, the parasitic bird (cuckoo) lays its eggs in the nest of its host (crow) and lets the host incubate them.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q13",
+      "chapterId": "bio_ch8",
+      "question": "The association between an orchid growing on a mango branch is an example of:",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Parasitism",
+        "Competition"
+      ],
+      "correctIndex": 1,
+      "explanation": "The orchid benefits by getting a place to grow (commensal), while the mango tree is neither harmed nor benefited.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q14",
+      "chapterId": "bio_ch8",
+      "question": "Lichens represent a symbiotic association between:",
+      "options": [
+        "Fungus and Photosynthetic Algae/Cyanobacteria",
+        "Fungus and Higher Plant roots",
+        "Algae and Bryophytes",
+        "Bacteria and Viruses"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lichens represent an intimate mutualistic relationship between a fungus and photosynthesising algae or cyanobacteria.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q15",
+      "chapterId": "bio_ch8",
+      "question": "Mycorrhizae are associations between fungi and:",
+      "options": [
+        "Algae",
+        "Roots of higher plants",
+        "Insects",
+        "Human skin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mycorrhizae are associations between fungi and the roots of higher plants.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q16",
+      "chapterId": "bio_ch8",
+      "question": "Which plant provides a 'floral reward' of a safe place to lay eggs for the Pronuba moth?",
+      "options": [
+        "Orchid",
+        "Fig",
+        "Yucca",
+        "Calotropis"
+      ],
+      "correctIndex": 2,
+      "explanation": "A mutualistic relationship exists between the Yucca plant and the moth, where the moth deposits its eggs in the locule of the ovary.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q17",
+      "chapterId": "bio_ch8",
+      "question": "The Mediterranean orchid Ophrys employs which mechanism to ensure pollination by a species of bee?",
+      "options": [
+        "Nectar rewards",
+        "Floral scent",
+        "Sexual deceit",
+        "Safe egg-laying site"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ophrys employs 'sexual deceit' by having one petal that resembles a female bee to attract male bees for 'pseudocopulation'.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q18",
+      "chapterId": "bio_ch8",
+      "question": "Population density (N) at time t+1 is calculated as:",
+      "options": [
+        "Nt+1 = Nt + [(B + I) – (D + E)]",
+        "Nt+1 = Nt + B + D",
+        "Nt+1 = Nt - I + E",
+        "Nt+1 = Nt + rN"
+      ],
+      "correctIndex": 0,
+      "explanation": "Density increases with Natality (B) and Immigration (I) and decreases with Mortality (D) and Emigration (E).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q19",
+      "chapterId": "bio_ch8",
+      "question": "The 'intrinsic rate of natural increase' is denoted by the letter:",
+      "options": [
+        "N",
+        "K",
+        "r",
+        "t"
+      ],
+      "correctIndex": 2,
+      "explanation": "The parameter 'r' is called the intrinsic rate of natural increase and is chosen for assessing impacts of any factor on population growth.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q20",
+      "chapterId": "bio_ch8",
+      "question": "The shape of the curve for logistic growth is:",
+      "options": [
+        "J-shaped",
+        "Sigmoid (S-shaped)",
+        "Linear",
+        "Horizontal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Logistic growth, where resources are finite, results in a Sigmoid curve.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q21",
+      "chapterId": "bio_ch8",
+      "question": "Predators play an important role in an ecosystem by:",
+      "options": [
+        "Keeping prey populations under control",
+        "Maintaining species diversity",
+        "Acting as conduits for energy transfer",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Predators act as conduits for energy transfer, keep prey populations controlled, and help maintain species diversity by reducing competition.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q22",
+      "chapterId": "bio_ch8",
+      "question": "The prickly pear cactus became an invasive pest in which country in the 1920s?",
+      "options": [
+        "India",
+        "Australia",
+        "America",
+        "Africa"
+      ],
+      "correctIndex": 1,
+      "explanation": "The prickly pear cactus introduced into Australia in the early 1920’s caused havoc by spreading rapidly over millions of hectares.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q23",
+      "chapterId": "bio_ch8",
+      "question": "Which defense mechanism is used by the Monarch butterfly against predators?",
+      "options": [
+        "Sharp thorns",
+        "Cryptic coloration (camouflage)",
+        "Distasteful chemical from a toxic weed",
+        "Running very fast"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Monarch butterfly is highly distasteful to its predator bird because of a special chemical it acquires during its caterpillar stage by feeding on a toxic weed.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q24",
+      "chapterId": "bio_ch8",
+      "question": "Approximately what percentage of insects are known to be 'phytophagous' (feeding on plant sap/parts)?",
+      "options": [
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nearly 25 per cent of all insects are known to be phytophagous.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q25",
+      "chapterId": "bio_ch8",
+      "question": "Which plant produces cardiac glycosides as a defense against herbivores?",
+      "options": [
+        "Acacia",
+        "Cactus",
+        "Calotropis",
+        "Mango"
+      ],
+      "correctIndex": 2,
+      "explanation": "Calotropis produces highly poisonous cardiac glycosides, which is why cattle or goats never browse on this plant.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q26",
+      "chapterId": "bio_ch8",
+      "question": "MacArthur showed that five species of warblers could coexist on the same tree due to:",
+      "options": [
+        "Competitive exclusion",
+        "Resource partitioning",
+        "Mutualism",
+        "Parasitism"
+      ],
+      "correctIndex": 1,
+      "explanation": "They avoided competition and coexisted due to behavioral differences in their foraging activities (resource partitioning).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q27",
+      "chapterId": "bio_ch8",
+      "question": "Parasites that complete their life cycle using two intermediate hosts (snail and fish) to infect humans are:",
+      "options": [
+        "Malarial parasites",
+        "Human liver flukes",
+        "Lice",
+        "Ticks"
+      ],
+      "correctIndex": 1,
+      "explanation": "The human liver fluke depends on two intermediate hosts (a snail and a fish) to complete its life cycle.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q28",
+      "chapterId": "bio_ch8",
+      "question": "The interaction where one species is harmed and the other is unaffected (-, 0) is:",
+      "options": [
+        "Predation",
+        "Competition",
+        "Amensalism",
+        "Commensalism"
+      ],
+      "correctIndex": 2,
+      "explanation": "In amensalism one species is harmed whereas the other is unaffected.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q29",
+      "chapterId": "bio_ch8",
+      "question": "Barnacles growing on the back of a whale is an example of:",
+      "options": [
+        "Commensalism",
+        "Mutualism",
+        "Parasitism",
+        "Predation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The barnacles benefit by being transported to food sources, while the whale is unaffected.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q30",
+      "chapterId": "bio_ch8",
+      "question": "The 'r' value for Norway rat is ________ and for flour beetle is ________.",
+      "options": [
+        "0.015; 0.12",
+        "0.0205; 0.15",
+        "0.12; 0.015",
+        "0.15; 0.0205"
+      ],
+      "correctIndex": 0,
+      "explanation": "For the Norway rat, r is 0.015, and for the flour beetle, it is 0.12.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q31",
+      "chapterId": "bio_ch8",
+      "question": "When does the population growth curve become 'J-shaped'?",
+      "options": [
+        "When resources are limited",
+        "When resources are unlimited",
+        "When the death rate is higher than the birth rate",
+        "When Carrying Capacity is reached"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exponential or geometric growth (unlimited resources) results in a J-shaped curve.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q32",
+      "chapterId": "bio_ch8",
+      "question": "Ecology deals with four levels of biological organization: organisms, populations, communities, and:",
+      "options": [
+        "Cells",
+        "Tissues",
+        "Biomes",
+        "Organs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ecology is basically concerned with four levels of biological organisation – organisms, populations, communities and biomes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q33",
+      "chapterId": "bio_ch8",
+      "question": "The total number of births during a given period in the population that are added to the initial density is:",
+      "options": [
+        "Natality",
+        "Mortality",
+        "Immigration",
+        "Density"
+      ],
+      "correctIndex": 0,
+      "explanation": "Natality refers to the number of births during a given period in the population that are added to the initial density.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q34",
+      "chapterId": "bio_ch8",
+      "question": "If a population density at time 't' is 'N', then its density at time 't+1' is influenced primarily by how many factors?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+      ],
+      "correctIndex": 2,
+      "explanation": "The density is influenced by four main factors: Natality, Mortality, Immigration, and Emigration.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q35",
+      "chapterId": "bio_ch8",
+      "question": "In 1981, what was the 'r' value for the human population in India?",
+      "options": [
+        "0.015",
+        "0.0205",
+        "0.12",
+        "0.25"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1981, the r value for human population in India was 0.0205.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q36",
+      "chapterId": "bio_ch8",
+      "question": "Verhulst-Pearl Logistic Growth is described by which equation?",
+      "options": [
+        "dN/dt = rN",
+        "dN/dt = rN [(K-N)/K]",
+        "Nt = N0 ert",
+        "N = B + I"
+      ],
+      "correctIndex": 1,
+      "explanation": "This equation accounts for finite resources and carrying capacity (K).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q37",
+      "chapterId": "bio_ch8",
+      "question": "Which of the following describes the interaction between a 'Cattle Egret' and 'grazing cattle'?",
+      "options": [
+        "Predation",
+        "Commensalism",
+        "Mutualism",
+        "Competition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Egrets forage close to cattle to catch insects flushed out by the cattle; egrets benefit while cattle are unaffected.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q38",
+      "chapterId": "bio_ch8",
+      "question": "The relationship between a 'clown fish' and 'sea anemone' is:",
+      "options": [
+        "Parasitism",
+        "Commensalism",
+        "Mutualism",
+        "Amensalism"
+      ],
+      "correctIndex": 1,
+      "explanation": "The fish gets protection from predators among stinging tentacles, while the anemone does not appear to derive any benefit.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q39",
+      "chapterId": "bio_ch8",
+      "question": "Mutualism is an interaction where:",
+      "options": [
+        "Both species are harmed",
+        "One benefits, other is harmed",
+        "Both species benefit",
+        "Both species are unaffected"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mutualism confers benefits on both the interacting species.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q40",
+      "chapterId": "bio_ch8",
+      "question": "Figs and fig-wasps show a mutualistic relationship where the wasp:",
+      "options": [
+        "Only eats the fruit",
+        "Pollinates the fig inflorescence and uses the fruit for egg-laying",
+        "Is a parasite on the fig",
+        "Provides protection from birds"
+      ],
+      "correctIndex": 1,
+      "explanation": "The fig species is pollinated by its 'partner' wasp, and in return, the fig offers the wasp sites for egg-laying and developing seeds as food for larvae.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q41",
+      "chapterId": "bio_ch8",
+      "question": "Inter-specific competition is a 'potent force' in which biological process?",
+      "options": [
+        "Organic evolution",
+        "Photosynthesis",
+        "Digestion",
+        "Transpiration"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interspecific competition is often considered a potent force in organic evolution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q42",
+      "chapterId": "bio_ch8",
+      "question": "The Abingdon tortoise in Galapagos Islands became extinct after ________ were introduced.",
+      "options": [
+        "Humans",
+        "Goats",
+        "Rats",
+        "Cats"
+      ],
+      "correctIndex": 1,
+      "explanation": "Goats were introduced on the island and apparently had greater browsing efficiency, leading to the tortoise's extinction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q43",
+      "chapterId": "bio_ch8",
+      "question": "The starfish Pisaster is considered an important predator in which community?",
+      "options": [
+        "Tropical rainforest",
+        "American Pacific Coast intertidal communities",
+        "African Savannah",
+        "Antarctic tundra"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pisaster is a predator whose removal led to the extinction of more than 10 species of invertebrates in a field experiment.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q44",
+      "chapterId": "bio_ch8",
+      "question": "Herbivores and plants have a relationship that is more like:",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Predation",
+        "Amensalism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Although they don't 'kill' the whole plant, herbivores are considered predators of plants.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q45",
+      "chapterId": "bio_ch8",
+      "question": "To avoid being eaten, many species of insects and frogs are:",
+      "options": [
+        "Slow-moving",
+        "Cryptically-coloured (camouflaged)",
+        "Very large",
+        "Loud-sounding"
+      ],
+      "correctIndex": 1,
+      "explanation": "Camouflage helps them avoid being detected easily by the predator.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q46",
+      "chapterId": "bio_ch8",
+      "question": "For which factor is the population density 'usually' measured?",
+      "options": [
+        "Natality",
+        "Mortality",
+        "Total number",
+        "Biomass"
+      ],
+      "correctIndex": 2,
+      "explanation": "Though it can be measured in other ways (biomass, percent cover), population density is most commonly measured as total number.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q47",
+      "chapterId": "bio_ch8",
+      "question": "If 'B' is natality and 'D' is mortality, the population size increases if:",
+      "options": [
+        "B > D",
+        "B < D",
+        "B = D",
+        "B = 0"
+      ],
+      "correctIndex": 0,
+      "explanation": "When births exceed deaths, the population size grows.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q48",
+      "chapterId": "bio_ch8",
+      "question": "In the presence of limited resources, which growth model is more realistic?",
+      "options": [
+        "Exponential",
+        "Logistic",
+        "Geometric",
+        "Linear"
+      ],
+      "correctIndex": 1,
+      "explanation": "Logistic growth is more realistic as resources for growth for most animal populations are finite and become limiting sooner or later.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q49",
+      "chapterId": "bio_ch8",
+      "question": "Parasitism and Predation interactions share which common feature?",
+      "options": [
+        "Both species benefit",
+        "Both species are harmed",
+        "One benefits, one is harmed",
+        "Host is never killed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Both interactions involve one species (+, winner) and another species (-, loser/host/prey).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch8_q50",
+      "chapterId": "bio_ch8",
+      "question": "When individuals of the same species compete for resources, it is called ________ competition.",
+      "options": [
+        "Interspecific",
+        "Intraspecific",
+        "Mutualistic",
+        "Predatory"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intraspecific competition occurs within the same species; the text focuses on 'interspecific' (between different species) as an evolutionary force.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    }
+  ]
+}

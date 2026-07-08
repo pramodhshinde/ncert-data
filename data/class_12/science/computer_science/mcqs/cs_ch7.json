@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_cs_ch7_q1",
+      "chapterId": "c12_cs_ch07",
+      "question": "What is the singular form of the word 'data'?",
+      "options": [
+        "Datas",
+        "Datum",
+        "Datae",
+        "Dati"
+      ],
+      "correctIndex": 1,
+      "explanation": "Data is plural and singular of the word data is \"datum\".",
+      "ncertPage": 98,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q2",
+      "chapterId": "c12_cs_ch07",
+      "question": "A store of information consisting of facts, assumptions and rules which an AI system can use for decision making is called a:",
+      "options": [
+        "Database",
+        "Knowledge base",
+        "Metadata repository",
+        "Data cycle"
+      ],
+      "correctIndex": 1,
+      "explanation": "A knowledge base is a store of information consisting of facts, assumptions and rules which an AI system can use for decision making.",
+      "ncertPage": 98,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q3",
+      "chapterId": "c12_cs_ch07",
+      "question": "In general, which of the following best defines 'data'?",
+      "options": [
+        "A collection of characters, numbers, and symbols representing values of some situations or variables",
+        "Processed information ready for printing",
+        "A type of computer hardware",
+        "A software program used for calculations"
+      ],
+      "correctIndex": 0,
+      "explanation": "In general, data is a collection of characters, numbers, and other symbols that represents values of some situations or variables.",
+      "ncertPage": 98,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q4",
+      "chapterId": "c12_cs_ch07",
+      "question": "What is the primary reason governments systematically collect and record data about the population through a census?",
+      "options": [
+        "To sell the data to private companies",
+        "To track individual daily activities",
+        "To plan and formulate policies",
+        "To increase the cost of living"
+      ],
+      "correctIndex": 2,
+      "explanation": "Census data contains valuable information which are helpful in planning and formulating policies.",
+      "ncertPage": 97,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q5",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which pricing concept used by airlines and railways decides the price based on relationships between demand and supply?",
+      "options": [
+        "Static pricing",
+        "Discount pricing",
+        "Fixed pricing",
+        "Dynamic pricing"
+      ],
+      "correctIndex": 3,
+      "explanation": "The dynamic pricing concept used by airlines and railway is another example where they decide the price based on relationships between demand and supply.",
+      "ncertPage": 99,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q6",
+      "chapterId": "c12_cs_ch07",
+      "question": "Data which is organised and can be recorded in a well-defined format is called:",
+      "options": [
+        "Unstructured data",
+        "Raw data",
+        "Structured data",
+        "Multimedia data"
+      ],
+      "correctIndex": 2,
+      "explanation": "Data which is organised and can be recorded in a well defined format is called structured data.",
+      "ncertPage": 99,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q7",
+      "chapterId": "c12_cs_ch07",
+      "question": "In tabular structured data, what does each column represent?",
+      "options": [
+        "An observation",
+        "A single record",
+        "A metadata tag",
+        "An attribute, characteristic, or variable"
+      ],
+      "correctIndex": 3,
+      "explanation": "...each column represents different data for a particular parameter called attribute/characteristic/variable...",
+      "ncertPage": 100,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q8",
+      "chapterId": "c12_cs_ch07",
+      "question": "In tabular structured data, what does each row represent?",
+      "options": [
+        "A parameter",
+        "An attribute",
+        "An observation for different attributes",
+        "The structure definition"
+      ],
+      "correctIndex": 2,
+      "explanation": "...each row represents data of an observation for different attributes.",
+      "ncertPage": 100,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q9",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which of the following is an example of structured data?",
+      "options": [
+        "A newspaper article",
+        "An email body",
+        "A fee slip",
+        "A video file"
+      ],
+      "correctIndex": 2,
+      "explanation": "For example, ... a fee slip is made up of few numeric and non-numeric entries; indicating it has a well-defined format, unlike images, videos, and emails.",
+      "ncertPage": 99,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q10",
+      "chapterId": "c12_cs_ch07",
+      "question": "Data which are not in the traditional row and column structure is called:",
+      "options": [
+        "Tabular data",
+        "Unstructured data",
+        "Metadata",
+        "Relational data"
+      ],
+      "correctIndex": 1,
+      "explanation": "In summary, data which are not in the traditional row and column structure is called unstructured data.",
+      "ncertPage": 101,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q11",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which of the following is an example of unstructured data?",
+      "options": [
+        "A spreadsheet of student marks",
+        "An inventory table of kitchen items",
+        "A database of ATM transactions",
+        "A web page consisting of text and multimedia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Examples of unstructured data include web pages consisting of text as well as multimedia contents (image, graphics, audio/video).",
+      "ncertPage": 101,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q12",
+      "chapterId": "c12_cs_ch07",
+      "question": "What is the term used for 'data about data'?",
+      "options": [
+        "Superdata",
+        "Metadata",
+        "Database",
+        "Structured data"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metadata is basically data about data. Unstructured data are sometimes described with the help of some other data called metadata.",
+      "ncertPage": 101,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q13",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which of the following serves as metadata for an email?",
+      "options": [
+        "The attachments themselves",
+        "The binary code of the email client",
+        "Subject, recipient, and main body tags",
+        "The user's password"
+      ],
+      "correctIndex": 2,
+      "explanation": "For example, we describe different parts of an email as subject, recipient, main body, attachment, etc. These are the metadata for the email data.",
+      "ncertPage": 101,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q14",
+      "chapterId": "c12_cs_ch07",
+      "question": "Identifying already available data or gathering it from appropriate sources is known as:",
+      "options": [
+        "Data processing",
+        "Data storage",
+        "Data collection",
+        "Data output"
+      ],
+      "correctIndex": 2,
+      "explanation": "Data collection here means identifying already available data or collecting from the appropriate sources.",
+      "ncertPage": 101,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q15",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which software helps overcome the limitations of traditional file processing for storing data?",
+      "options": [
+        "Word Processors",
+        "Web Browsers",
+        "Database Management System (DBMS)",
+        "Operating Systems"
+      ],
+      "correctIndex": 2,
+      "explanation": "However, file processing has certain limitations, which can be overcome through Database Management System (DBMS).",
+      "ncertPage": 102,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q16",
+      "chapterId": "c12_cs_ch07",
+      "question": "According to the Data Process Cycle, what is the step that comes immediately after 'Input'?",
+      "options": [
+        "Output",
+        "Storage",
+        "Processing",
+        "Reporting"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Data Process Cycle consists of Input -> Processing -> Output.",
+      "ncertPage": 103,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q17",
+      "chapterId": "c12_cs_ch07",
+      "question": "In the Data Process Cycle, tasks like 'Store, Retrieve, Classify, Update' belong to which phase?",
+      "options": [
+        "Input",
+        "Processing",
+        "Output",
+        "Raw Data Generation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Figure 7.1 shows that 'Store, Retrieve, Classify, Update' fall under the 'Processing' block.",
+      "ncertPage": 103,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q18",
+      "chapterId": "c12_cs_ch07",
+      "question": "What is the expected output when processing a withdrawal of cash through an ATM?",
+      "options": [
+        "ATM PIN number and account type",
+        "Checking existing bank balance",
+        "Currency notes and a printed slip with transaction details",
+        "Generation of an admit card"
+      ],
+      "correctIndex": 2,
+      "explanation": "Figure 7.2 shows that the output for 'A Bank handling withdrawals of cash through ATMs' is 'Currency notes, printed slip with transaction details'.",
+      "ncertPage": 103,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q19",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which of the following is NOT a measure of central tendency?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Standard Deviation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Three most common measures of central tendency are the mean, median, and mode. Standard Deviation is a measure of variability/dispersion.",
+      "ncertPage": 104,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q20",
+      "chapterId": "c12_cs_ch07",
+      "question": "What does a measure of central tendency provide?",
+      "options": [
+        "The difference between maximum and minimum values",
+        "The total sum of all values",
+        "A single value that gives some idea about the data's average or middle value",
+        "The degree of diversity in a data set"
+      ],
+      "correctIndex": 2,
+      "explanation": "A measure of central tendency is a single value that gives us some idea about the data... an idea about average, middle value and frequency of occurrence.",
+      "ncertPage": 104,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q21",
+      "chapterId": "c12_cs_ch07",
+      "question": "Mean is also commonly referred to as:",
+      "options": [
+        "Median",
+        "Mode",
+        "Average",
+        "Range"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mean is simply the average of numeric values of an attribute. Mean is also called average.",
+      "ncertPage": 104,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q22",
+      "chapterId": "c12_cs_ch07",
+      "question": "An exceptionally large or small value in a dataset, compared to other values, is known as an:",
+      "options": [
+        "Average",
+        "Outlier",
+        "Indicator",
+        "Attribute"
+      ],
+      "correctIndex": 1,
+      "explanation": "Note: An outlier is an exceptionally large or small value, in comparison to other values of the data.",
+      "ncertPage": 104,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q23",
+      "chapterId": "c12_cs_ch07",
+      "question": "What is the recommended treatment for outliers when calculating the mean of a data set?",
+      "options": [
+        "Multiply them by the mean",
+        "They should be removed from the data before calculation",
+        "They should be duplicated to balance the data",
+        "Leave them in as they do not affect the mean"
+      ],
+      "correctIndex": 1,
+      "explanation": "To get a realistic mean, such exception values should be removed from the given data and then calculate mean of the remaining data.",
+      "ncertPage": 104,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q24",
+      "chapterId": "c12_cs_ch07",
+      "question": "To compute the median, what is the crucial first step?",
+      "options": [
+        "Summing all the values",
+        "Sorting the data in ascending or descending order",
+        "Removing duplicate values",
+        "Finding the most frequent value"
+      ],
+      "correctIndex": 1,
+      "explanation": "In order to compute the median, the first step is to sort data in ascending or descending order.",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q25",
+      "chapterId": "c12_cs_ch07",
+      "question": "If a sorted list contains an even number of values, how is the median determined?",
+      "options": [
+        "By selecting the first value",
+        "By selecting the very last value",
+        "It is the average of the two middle values",
+        "There is no median for even-sized lists"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the list has even number of values, then median is the average of the two middle values.",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q26",
+      "chapterId": "c12_cs_ch07",
+      "question": "What does the median of a dataset represent?",
+      "options": [
+        "The most frequent value",
+        "The central value at which the data is equally divided into two parts",
+        "The difference between max and min values",
+        "The arithmetic average of all values"
+      ],
+      "correctIndex": 1,
+      "explanation": "Median represents the central value at which the given data is equally divided into two parts.",
+      "ncertPage": 105,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q27",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which measure of central tendency is the value that appears the most number of times in the given data?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Range"
+      ],
+      "correctIndex": 2,
+      "explanation": "Value that appears most number of times in the given data of an attribute/variable is called Mode.",
+      "ncertPage": 105,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q28",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which of the following is true about 'Mode'?",
+      "options": [
+        "It can only be computed for numeric data",
+        "A data set always has exactly one mode",
+        "It can be found for numeric as well as non-numeric data",
+        "It is highly sensitive to outliers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mode can be found for numeric as well as non-numeric data.",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q29",
+      "chapterId": "c12_cs_ch07",
+      "question": "Under what condition does a data set have no mode?",
+      "options": [
+        "When all values are zero",
+        "When each value occurs only once",
+        "When the list has an even number of elements",
+        "When the data contains negative numbers"
+      ],
+      "correctIndex": 1,
+      "explanation": "A data set has no mode if each value occurs only once.",
+      "ncertPage": 105,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q30",
+      "chapterId": "c12_cs_ch07",
+      "question": "Can a dataset have multiple modes?",
+      "options": [
+        "Yes, if more than one value has the same highest frequency",
+        "Yes, but only if the data is non-numeric",
+        "No, mode must be a single unique value",
+        "No, multiple modes imply the data is invalid"
+      ],
+      "correctIndex": 0,
+      "explanation": "There may be multiple modes in the data if more than one values have same highest frequency.",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q31",
+      "chapterId": "c12_cs_ch07",
+      "question": "Measures of variability refer to:",
+      "options": [
+        "The arithmetic average of the dataset",
+        "The spread or variation of the values around the mean",
+        "The central dividing point of the sorted data",
+        "The most frequent value in the dataset"
+      ],
+      "correctIndex": 1,
+      "explanation": "The measures of variability refer to the spread or variation of the values around the mean.",
+      "ncertPage": 105,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q32",
+      "chapterId": "c12_cs_ch07",
+      "question": "What is another term used for 'measures of variability'?",
+      "options": [
+        "Measures of central tendency",
+        "Measures of integration",
+        "Measures of dispersion",
+        "Measures of occurrence"
+      ],
+      "correctIndex": 2,
+      "explanation": "They are also called measures of dispersion that indicate the degree of diversity in a data set.",
+      "ncertPage": 105,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q33",
+      "chapterId": "c12_cs_ch07",
+      "question": "Two different datasets can have the same mean, median, or mode but completely different levels of:",
+      "options": [
+        "Central tendency",
+        "Dispersion",
+        "Size",
+        "Averages"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two different data sets can have the same mean, median or mode but completely different levels of dispersion, or vice versa.",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q34",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which of the following are common measures of dispersion or variability?",
+      "options": [
+        "Mean and Median",
+        "Range and Standard Deviation",
+        "Mode and Range",
+        "Mean and Standard Deviation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Common measures of dispersion or variability are Range and Standard Deviation.",
+      "ncertPage": 105,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q35",
+      "chapterId": "c12_cs_ch07",
+      "question": "How is 'Range' calculated for a given set of data?",
+      "options": [
+        "Minimum value minus Maximum value",
+        "Maximum value minus Minimum value",
+        "Sum of all values divided by 2",
+        "Average of Maximum and Minimum values"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is the difference between maximum and minimum values of the data (the largest value minus the smallest value).",
+      "ncertPage": 105,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q36",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which measure of dispersion can be badly influenced by any outlier in the data because it uses only two extreme values?",
+      "options": [
+        "Mean",
+        "Median",
+        "Standard Deviation",
+        "Range"
+      ],
+      "correctIndex": 3,
+      "explanation": "As range is calculated based on the two extreme values, any outlier in the data badly influences the result.",
+      "ncertPage": 106,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q37",
+      "chapterId": "c12_cs_ch07",
+      "question": "Unlike Range, which measure of variability considers all the given data for its calculation?",
+      "options": [
+        "Mode",
+        "Median",
+        "Standard deviation",
+        "Outlier"
+      ],
+      "correctIndex": 2,
+      "explanation": "However, unlike Range which only uses two extreme values in the data, calculation of standard deviation considers all the given data.",
+      "ncertPage": 106,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q38",
+      "chapterId": "c12_cs_ch07",
+      "question": "Standard deviation is calculated as the positive square root of the average of:",
+      "options": [
+        "The sum of all values",
+        "Squared difference of each value from the median",
+        "Squared difference of each value from the mean",
+        "The maximum and minimum values"
+      ],
+      "correctIndex": 2,
+      "explanation": "It is calculated as the positive square root of the average of squared difference of each value from the mean value of data.",
+      "ncertPage": 106,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q39",
+      "chapterId": "c12_cs_ch07",
+      "question": "A smaller value of standard deviation indicates that:",
+      "options": [
+        "Data are more spread out",
+        "Data are less spread (closer to the mean)",
+        "The mean is very large",
+        "The range is very large"
+      ],
+      "correctIndex": 1,
+      "explanation": "Smaller value of standard deviation means data are less spread while a larger value of standard deviation means data are more spread.",
+      "ncertPage": 106,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q40",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which Greek letter is commonly used to represent standard deviation?",
+      "options": [
+        "Alpha (α)",
+        "Delta (Δ)",
+        "Sigma (σ)",
+        "Pi (π)"
+      ],
+      "correctIndex": 2,
+      "explanation": "...the standard deviation, represented as σ (greek letter sigma)...",
+      "ncertPage": 106,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q41",
+      "chapterId": "c12_cs_ch07",
+      "question": "If a teacher wants to know about the average performance of the whole class in a test, which statistical method is most suitable?",
+      "options": [
+        "Mode",
+        "Mean",
+        "Range",
+        "Standard Deviation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mean represents the average value, making it suitable to find the average performance of the whole class.",
+      "ncertPage": 107,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q42",
+      "chapterId": "c12_cs_ch07",
+      "question": "If the management of a company wants to know about the disparity (spread or variation) in salaries of all employees, which statistical method is most appropriate?",
+      "options": [
+        "Mean",
+        "Mode",
+        "Standard Deviation",
+        "Median"
+      ],
+      "correctIndex": 2,
+      "explanation": "Disparity or spread in data is best measured using measures of variability, such as Standard Deviation or Range.",
+      "ncertPage": 107,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q43",
+      "chapterId": "c12_cs_ch07",
+      "question": "To find the popular color for a car after surveying car owners, which statistical technique should be used?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Range"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mode is the value that appears the most number of times, which is perfectly suited for finding a 'popular' (most frequent) category like color.",
+      "ncertPage": 107,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q44",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which programming language is specifically mentioned as having libraries built for data processing and analysis?",
+      "options": [
+        "Java",
+        "C++",
+        "Python",
+        "HTML"
+      ],
+      "correctIndex": 2,
+      "explanation": "One such programming tool is Python and it has libraries specially built for data processing and analysis.",
+      "ncertPage": 107,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q45",
+      "chapterId": "c12_cs_ch07",
+      "question": "Out of Mean and Median, which one is more sensitive to outliers in the data?",
+      "options": [
+        "Median",
+        "Mean",
+        "Both are equally sensitive",
+        "Neither is sensitive"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mean incorporates every single value in its calculation, including extreme outliers, pulling the average. Median only looks at the middle value, thus resisting the pull of extreme outliers.",
+      "ncertPage": 105,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q46",
+      "chapterId": "c12_cs_ch07",
+      "question": "Consider the following dataset of temperatures: 34, 34, 27, 28, 27, 34, 34. What is the mode of this data?",
+      "options": [
+        "27",
+        "28",
+        "34",
+        "There is no mode"
+      ],
+      "correctIndex": 2,
+      "explanation": "34 appears 4 times, which is the highest frequency. Thus, 34 is the mode.",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q47",
+      "chapterId": "c12_cs_ch07",
+      "question": "For the temperature dataset: 34, 34, 27, 28, 27, 34, 34. What is the Range?",
+      "options": [
+        "34",
+        "27",
+        "7",
+        "61"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maximum = 34, Minimum = 27. Range = Max - Min = 34 - 27 = 7.",
+      "ncertPage": 105,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q48",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which data collection scenario involves recording information directly into a digital format like a spreadsheet from a manual diary?",
+      "options": [
+        "Sensors generating automatic signals",
+        "Downloading a CSV file from a website",
+        "Data Entry",
+        "Automated web scraping"
+      ],
+      "correctIndex": 2,
+      "explanation": "If sales data are available with the shopkeeper in a diary or register, we should enter the data in a digital format for example, in a spreadsheet.",
+      "ncertPage": 101,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q49",
+      "chapterId": "c12_cs_ch07",
+      "question": "In structured data, what do 'attributes' or 'parameters' correspond to?",
+      "options": [
+        "Rows",
+        "Columns",
+        "Tables",
+        "Files"
+      ],
+      "correctIndex": 1,
+      "explanation": "...each column represents different data for a particular parameter called attribute/characteristic/variable...",
+      "ncertPage": 100,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch7_q50",
+      "chapterId": "c12_cs_ch07",
+      "question": "Which of the following is NOT an example of data generation mentioned in the text?",
+      "options": [
+        "Hospitals collecting data about patients",
+        "Shopping malls collecting data about items purchased",
+        "Scientists ignoring experiment results to save storage",
+        "Weather alerts generated by satellite data"
+      ],
+      "correctIndex": 2,
+      "explanation": "Scientists record data while doing experiments to calculate and compare results. Ignoring results is contrary to data collection.",
+      "ncertPage": 102,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    }
+  ]
+}

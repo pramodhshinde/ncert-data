@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_cs_ch6_q1",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the primary purpose of searching in computer science?",
+      "options": [
+        "To sort a list in ascending order",
+        "To locate a particular element in a collection of elements",
+        "To delete an element from a database",
+        "To merge two different lists into one"
+      ],
+      "correctIndex": 1,
+      "explanation": "Searching means locating a particular element in a collection of elements.",
+      "ncertPage": 81,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q2",
+      "chapterId": "c12_cs_ch06",
+      "question": "What does a successful search result provide besides confirming the presence of the element?",
+      "options": [
+        "The size of the collection",
+        "The memory address of the list",
+        "The position of that element in the given collection",
+        "The sorted order of the elements"
+      ],
+      "correctIndex": 2,
+      "explanation": "Search result determines whether that particular element is present in the collection or not. If it is present, we can also find out the position of that element in the given collection.",
+      "ncertPage": 81,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q3",
+      "chapterId": "c12_cs_ch06",
+      "question": "Which of the following is considered the most fundamental and simplest search method?",
+      "options": [
+        "Binary Search",
+        "Hash Search",
+        "Linear Search",
+        "Jump Search"
+      ],
+      "correctIndex": 2,
+      "explanation": "Linear search is the most fundamental and the simplest search method.",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q4",
+      "chapterId": "c12_cs_ch06",
+      "question": "How does the linear search technique operate on a given list?",
+      "options": [
+        "It divides the list into two halves and compares the middle element.",
+        "It compares the key directly using a mathematical formula.",
+        "It is an exhaustive searching technique where every element is compared one by one with the key.",
+        "It sorts the list first and then finds the key."
+      ],
+      "correctIndex": 2,
+      "explanation": "It is an exhaustive searching technique where every element of a given list is compared with the item to be searched (usually referred to as 'key').",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q5",
+      "chapterId": "c12_cs_ch06",
+      "question": "By what other names is linear search also known?",
+      "options": [
+        "Sequential search or serial search",
+        "Binary search or half-interval search",
+        "Direct search or hashing",
+        "Indexed search or mapped search"
+      ],
+      "correctIndex": 0,
+      "explanation": "This item by item comparison is done in the order... Thus, it is also called sequential search or serial search.",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q6",
+      "chapterId": "c12_cs_ch06",
+      "question": "For what type of data collections is the linear search technique most useful?",
+      "options": [
+        "Collections that are very large and sorted",
+        "Collections of items that are small in size and are unordered",
+        "Collections containing only numeric data",
+        "Collections stored in multidimensional arrays"
+      ],
+      "correctIndex": 1,
+      "explanation": "This technique is useful for collection of items that are small in size and are unordered.",
+      "ncertPage": 82,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q7",
+      "chapterId": "c12_cs_ch06",
+      "question": "In the context of the linear search algorithm, what is the minimum amount of work (best-case scenario) required to find a key?",
+      "options": [
+        "0 comparisons",
+        "1 comparison",
+        "n/2 comparisons",
+        "n comparisons"
+      ],
+      "correctIndex": 1,
+      "explanation": "If the key to be searched is the first element in the list, the linear search algorithm will always have to make only 1 comparison. This is the minimum amount of work.",
+      "ncertPage": 83,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q8",
+      "chapterId": "c12_cs_ch06",
+      "question": "If a list contains 'n' elements and the key is at the last position, how many comparisons will a linear search make?",
+      "options": [
+        "1",
+        "n/2",
+        "n",
+        "n-1"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the key to be searched is the last element in the list, the linear search algorithm will have to make n comparisons, where n is the number of elements in the list.",
+      "ncertPage": 83,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q9",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the maximum amount of work (worst-case scenario) the linear search algorithm would have to do to determine if a key is present or absent?",
+      "options": [
+        "Comparing the first element",
+        "Comparing the middle element",
+        "Making 'n' comparisons",
+        "Making 'n/2' comparisons"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the key is not present in the list, the linear search algorithm will have to make n comparisons. This again is a case where maximum work is done.",
+      "ncertPage": 84,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q10",
+      "chapterId": "c12_cs_ch06",
+      "question": "In the provided Python program for Linear Search, what value is returned if the key is not found in the list?",
+      "options": [
+        "-1",
+        "0",
+        "False",
+        "None"
+      ],
+      "correctIndex": 3,
+      "explanation": "In Program 6-1, the function ends with 'return None #key is not in list'.",
+      "ncertPage": 84,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q11",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the fundamental requirement for a list before a binary search can be applied to it?",
+      "options": [
+        "The list must have an even number of elements.",
+        "The list must contain only integers.",
+        "The list needs to be sorted in some order.",
+        "The list must be randomly shuffled."
+      ],
+      "correctIndex": 2,
+      "explanation": "The binary search is a search technique that makes use of the ordering of elements... we can search more efficiently using binary search provided the list from which we want to search is arranged in some order. That is, the list needs to be sorted.",
+      "ncertPage": 85,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q12",
+      "chapterId": "c12_cs_ch06",
+      "question": "In binary search, which element is the search key initially compared with?",
+      "options": [
+        "The first element",
+        "The last element",
+        "A randomly selected element",
+        "The element in the middle of the sorted list"
+      ],
+      "correctIndex": 3,
+      "explanation": "In binary search, the key to be searched is compared with the element in the middle of a sorted list.",
+      "ncertPage": 85,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q13",
+      "chapterId": "c12_cs_ch06",
+      "question": "If the middle element in a binary search is greater than the key, what is the next step?",
+      "options": [
+        "Ignore the second half and repeat the search in the first half.",
+        "Ignore the first half and repeat the search in the second half.",
+        "Return 'Search Unsuccessful' immediately.",
+        "Compare the key with the first element again."
+      ],
+      "correctIndex": 0,
+      "explanation": "If the middle element is greater than the key... We can thus straight away ignore the second half of the list and repeat the searching process only in the first half.",
+      "ncertPage": 86,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q14",
+      "chapterId": "c12_cs_ch06",
+      "question": "In binary search, how is the middle position (mid) calculated if the list has an even number of elements?",
+      "options": [
+        "Using exact division (/)",
+        "Using floor division (//)",
+        "By selecting the first element of the second half",
+        "By selecting a random index between first and last"
+      ],
+      "correctIndex": 1,
+      "explanation": "If the list to be searched contains an even number of elements, the mid value is calculated using the floor division (//) operator.",
+      "ncertPage": 86,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q15",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the primary reason binary search is more efficient than linear search for large sorted lists?",
+      "options": [
+        "It uses faster hardware operations.",
+        "It only checks the first and last elements.",
+        "Each unsuccessful comparison reduces the search area by half.",
+        "It skips every alternate element."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thus, each unsuccessful comparison reduces the number of elements remaining to be searched by half, hence the name binary search.",
+      "ncertPage": 86,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q16",
+      "chapterId": "c12_cs_ch06",
+      "question": "In Algorithm 6.2 (Binary Search), what is the initial value set for the 'last' variable?",
+      "options": [
+        "n",
+        "n - 1",
+        "0",
+        "mid - 1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Step 1: SET first = 0, last = n-1.",
+      "ncertPage": 87,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q17",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the minimum amount of work (iterations) binary search would have to do to confirm a key is present in the list?",
+      "options": [
+        "0 iterations",
+        "1 iteration",
+        "log(n) iterations",
+        "n/2 iterations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thus, binary search requires only 1 iteration when the key to be searched is the middle value in the list. This is the minimum amount of work...",
+      "ncertPage": 87,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q18",
+      "chapterId": "c12_cs_ch06",
+      "question": "Under what loop condition does the Binary Search algorithm continue to execute?",
+      "options": [
+        "WHILE first == last",
+        "WHILE first < last",
+        "WHILE first <= last",
+        "WHILE mid > 0"
+      ],
+      "correctIndex": 2,
+      "explanation": "Algorithm 6.2 shows: Step 3: WHILE first <= last REPEAT Step 4.",
+      "ncertPage": 87,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q19",
+      "chapterId": "c12_cs_ch06",
+      "question": "In the provided Binary Search Python program (Program 6-2), what does the function return if the key is NOT found?",
+      "options": [
+        "None",
+        "0",
+        "False",
+        "-1"
+      ],
+      "correctIndex": 3,
+      "explanation": "In Program 6-2, at the end of the `binarySearch` function, it says `return -1` if the loop finishes without finding the key.",
+      "ncertPage": 89,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q20",
+      "chapterId": "c12_cs_ch06",
+      "question": "Which of the following is an application of Binary Search?",
+      "options": [
+        "Sorting a randomly ordered list",
+        "Finding the element with the minimum value in a sorted list",
+        "Converting text to uppercase",
+        "Generating hash values"
+      ],
+      "correctIndex": 1,
+      "explanation": "Binary search has numerous applications including searching a dictionary or a telephone directory, finding the element with minimum value or maximum value in a sorted list, etc.",
+      "ncertPage": 90,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q21",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the primary advantage of the 'Search by Hashing' technique?",
+      "options": [
+        "It can know the presence of a key in a list in just one step.",
+        "It does not require memory to store the list.",
+        "It automatically sorts the data as it searches.",
+        "It works perfectly on unsorted lists without any function."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hashing is a technique which can be used to know the presence of a key in a list in just one step.",
+      "ncertPage": 90,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q22",
+      "chapterId": "c12_cs_ch06",
+      "question": "In hashing, what generates an index value for every element?",
+      "options": [
+        "A sorting algorithm",
+        "A linear loop",
+        "A hash function",
+        "A binary divider"
+      ],
+      "correctIndex": 2,
+      "explanation": "A formula called hash function is used to calculate the value at an index in the list. Thus, a hash function takes elements of a list one by one and generates an index value...",
+      "ncertPage": 90,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q23",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the new list generated by applying a hash function to elements called?",
+      "options": [
+        "Index table",
+        "Binary table",
+        "Hash table",
+        "Mapping list"
+      ],
+      "correctIndex": 2,
+      "explanation": "This will generate a new list called the hash table.",
+      "ncertPage": 90,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q24",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the relationship between the size of the hash table and the size of the original list?",
+      "options": [
+        "The hash table size must be smaller.",
+        "The hash table size must be exactly equal.",
+        "The size of the hash table can be larger than the size of the list.",
+        "The hash table size is completely unrelated and cannot be known."
+      ],
+      "correctIndex": 2,
+      "explanation": "Note that the size of the hash table can be larger than the size of the list.",
+      "ncertPage": 90,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q25",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the simple hash function that divides an element by the size of the hash table known as?",
+      "options": [
+        "Mid-square function",
+        "Extraction method",
+        "Remainder method",
+        "Shift folding"
+      ],
+      "correctIndex": 2,
+      "explanation": "A simple hash function that works with numeric values is known as the remainder method. It takes an element from a list and divides it by the size of the hash table.",
+      "ncertPage": 90,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q26",
+      "chapterId": "c12_cs_ch06",
+      "question": "Using the remainder method for a hash table of size 10, what is the hash value for the element '93'?",
+      "options": [
+        "9",
+        "3",
+        "9.3",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "h(element) = element % size(hash table). For 93 with size 10, 93 % 10 = 3.",
+      "ncertPage": 91,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q27",
+      "chapterId": "c12_cs_ch06",
+      "question": "How many items can each index of a standard hash table hold?",
+      "options": [
+        "Only one item",
+        "Two items",
+        "Unlimited items",
+        "Depends on the size of the original list"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each index of the hash table can hold only one item and the positions are indexed by integer values starting from 0.",
+      "ncertPage": 90,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q28",
+      "chapterId": "c12_cs_ch06",
+      "question": "If you are searching for a key using hashing and there are no collisions, how many comparisons does this operation typically involve?",
+      "options": [
+        "n comparisons",
+        "n/2 comparisons",
+        "log(n) comparisons",
+        "Just one comparison"
+      ],
+      "correctIndex": 3,
+      "explanation": "This search operation involves just one comparison and hence the same amount of time is always required to search a key irrespective of the size of the list.",
+      "ncertPage": 91,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q29",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the problematic situation called when two or more elements map to the same position in a hash table?",
+      "options": [
+        "Redundancy",
+        "Overlap",
+        "Collision",
+        "Clustering"
+      ],
+      "correctIndex": 2,
+      "explanation": "This is a problematic situation, because according to our definition, two or more elements cannot be in the same position in the list. This situation is called collision in hashing.",
+      "ncertPage": 92,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q30",
+      "chapterId": "c12_cs_ch06",
+      "question": "If you apply the remainder method (`element % 10`) on the list [34, 16, 2, 26, 80], which two elements will cause a collision?",
+      "options": [
+        "34 and 80",
+        "16 and 26",
+        "2 and 26",
+        "34 and 16"
+      ],
+      "correctIndex": 1,
+      "explanation": "16 % 10 = 6, and 26 % 10 = 6. Since both have a hash value of 6, they will cause a collision.",
+      "ncertPage": 92,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q31",
+      "chapterId": "c12_cs_ch06",
+      "question": "What is the process of finding an alternative mechanism for placing items that have the same hash value called?",
+      "options": [
+        "Hash mapping",
+        "Collision resolution",
+        "Index generation",
+        "Data compression"
+      ],
+      "correctIndex": 1,
+      "explanation": "We must have a mechanism for placing the other items with the same hash value in the hash table. This process is called collision resolution.",
+      "ncertPage": 92,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q32",
+      "chapterId": "c12_cs_ch06",
+      "question": "A hash function is called a 'perfect hash function' if it:",
+      "options": [
+        "Resolves collisions instantly",
+        "Maps every item of the list to a unique index in the hash table",
+        "Uses the remainder method",
+        "Generates the smallest possible hash table"
+      ],
+      "correctIndex": 1,
+      "explanation": "If every item of the list maps to a unique index in the hash table, the hash function is called a perfect hash function.",
+      "ncertPage": 93,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q33",
+      "chapterId": "c12_cs_ch06",
+      "question": "Which of the following is a characteristic of a perfect hash function?",
+      "options": [
+        "Collisions occur very frequently.",
+        "It requires a very small hash table.",
+        "Collisions will never occur.",
+        "It always uses the modulo division method."
+      ],
+      "correctIndex": 2,
+      "explanation": "If a hash function is perfect, collision will never occur.",
+      "ncertPage": 93,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q34",
+      "chapterId": "c12_cs_ch06",
+      "question": "Which of the following is NOT listed as a technique for hash functions in the text?",
+      "options": [
+        "Shift folding",
+        "Mid-square function",
+        "Linear extrapolation",
+        "Radix transformation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text lists integer division, shift folding, boundary folding, mid-square function, extraction, and radix transformation. It does not mention linear extrapolation.",
+      "ncertPage": 93,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q35",
+      "chapterId": "c12_cs_ch06",
+      "question": "The time required to compute the index value using a hash function is generally:",
+      "options": [
+        "Dependent on the number of items in the list",
+        "Independent of the number of items in the search list",
+        "Proportional to the square of the list size",
+        "Greater than the time required for linear search"
+      ],
+      "correctIndex": 1,
+      "explanation": "The advantage of hashing is that the time required to compute the index value is independent of the number of items in the search list.",
+      "ncertPage": 93,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q36",
+      "chapterId": "c12_cs_ch06",
+      "question": "For hashing-based searching to be more efficient than other methods, what must be true about the cost of computing the hash function?",
+      "options": [
+        "It must be large and complex.",
+        "It must require a separate processor.",
+        "It must be small enough.",
+        "It must be exactly zero."
+      ],
+      "correctIndex": 2,
+      "explanation": "It is to remember that the cost of computing a hash function must be small enough to make a hashing-based searching more efficient than other search methods.",
+      "ncertPage": 93,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q37",
+      "chapterId": "c12_cs_ch06",
+      "question": "Which Python function was suggested in the activities to arrange an unordered list before applying binary search?",
+      "options": [
+        "arrange()",
+        "order()",
+        "sort()",
+        "binary()"
+      ],
+      "correctIndex": 2,
+      "explanation": "Activity 6.3 states: \"Sort it using the sort() function of Python's Lists.\"",
+      "ncertPage": 86,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q38",
+      "chapterId": "c12_cs_ch06",
+      "question": "In the context of the summary, what does Linear Search do?",
+      "options": [
+        "Divides the list in the middle",
+        "Calculates the position using a formula",
+        "Checks the elements of a list one at a time without skipping",
+        "Maps every input key to a unique index"
+      ],
+      "correctIndex": 2,
+      "explanation": "Summary: Linear search checks the elements of a list, one at a time, without skipping any element.",
+      "ncertPage": 93,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q39",
+      "chapterId": "c12_cs_ch06",
+      "question": "In a linear search, how does the size of the list affect the time taken to search?",
+      "options": [
+        "The time taken decreases as size increases.",
+        "The time taken remains constant.",
+        "The time taken increases as the size of the list increases.",
+        "The time taken halves with every additional element."
+      ],
+      "correctIndex": 2,
+      "explanation": "Summary: The time taken to search the list increases as the size of the list increases.",
+      "ncertPage": 93,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q40",
+      "chapterId": "c12_cs_ch06",
+      "question": "When searching for the word 'Zoology' in an English dictionary using a binary-like approach, where is it more prudent to look?",
+      "options": [
+        "In the first half",
+        "In the second half",
+        "Around the middle",
+        "Sequentially from the beginning"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is certainly more prudent to look for the word in the second half of the dictionary as the word starts with the alphabet 'Z'.",
+      "ncertPage": 85,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q41",
+      "chapterId": "c12_cs_ch06",
+      "question": "Consider the list: `[8, -4, 7, 17, 0, 2, 19]`. If using linear search for the key 17, how many comparisons will be made?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "From Table 6.2, searching for 17 in `[8, -4, 7, 17, 0, 2, 19]` compares 8, -4, 7, and then 17. So, 4 comparisons.",
+      "ncertPage": 83,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q42",
+      "chapterId": "c12_cs_ch06",
+      "question": "Which of the following lines of code correctly updates the 'index' variable in a standard Linear Search `while` loop implementation (Algorithm 6.1)?",
+      "options": [
+        "index = index * 2",
+        "index = index + 1",
+        "index = mid + 1",
+        "index = last - 1"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Algorithm 6.1, under the ELSE block, it is `index = index + 1`.",
+      "ncertPage": 82,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q43",
+      "chapterId": "c12_cs_ch06",
+      "question": "In Python, which list method is used to add an element to the end of a list, as seen in the Linear Search program example?",
+      "options": [
+        "insert()",
+        "add()",
+        "append()",
+        "push()"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Program 6-1, the code uses `list1.append(n)` to append elements to the list.",
+      "ncertPage": 84,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q44",
+      "chapterId": "c12_cs_ch06",
+      "question": "According to the binary search algorithm, if `numList[mid] > key`, what must be done?",
+      "options": [
+        "first = mid + 1",
+        "last = mid - 1",
+        "first = mid - 1",
+        "last = mid + 1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Algorithm 6.2 states: `IF numList[mid] > key THEN last = mid - 1`.",
+      "ncertPage": 87,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q45",
+      "chapterId": "c12_cs_ch06",
+      "question": "Consider the list `numList = [2, 3, 5, 7, 10, 11, 12, 17, 19, 23, 29, 31, 37, 41, 43]`. What is the value of `mid` in the very first iteration of binary search?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "14"
+      ],
+      "correctIndex": 1,
+      "explanation": "The list has 15 elements (indices 0 to 14). `mid = (0 + 14) // 2 = 7`.",
+      "ncertPage": 87,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q46",
+      "chapterId": "c12_cs_ch06",
+      "question": "In the exercise example mapping Country to Capital, if the hash function is the length of the Country Name, what is the hash index for 'France'?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'France' has 6 characters, so its hash index based on string length is 6.",
+      "ncertPage": 96,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q47",
+      "chapterId": "c12_cs_ch06",
+      "question": "What does a collision resolution technique aim to achieve?",
+      "options": [
+        "To compress the data in the hash table.",
+        "To find an alternative slot for an item when its designated slot is already occupied.",
+        "To increase the size of the original list.",
+        "To sort the elements before hashing."
+      ],
+      "correctIndex": 1,
+      "explanation": "We must have a mechanism for placing the other items with the same hash value in the hash table. This process is called collision resolution.",
+      "ncertPage": 92,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q48",
+      "chapterId": "c12_cs_ch06",
+      "question": "In a Hash table implementation using a Python List, how do you handle empty positions initially?",
+      "options": [
+        "Fill them with 0",
+        "Fill them with -1",
+        "Fill them with the keyword 'None'",
+        "Leave them completely undefined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Table 6.8 shows an empty hash table with 10 positions filled with 'None'. Program 6-3 also uses `[None, None,...]`.",
+      "ncertPage": 90,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q49",
+      "chapterId": "c12_cs_ch06",
+      "question": "In binary search, intermediate comparisons that do not find the key are still useful because:",
+      "options": [
+        "They sort a small portion of the list.",
+        "They randomly guess the next location.",
+        "They reveal whether the key is before or after the current middle position, reducing the search area.",
+        "They generate a new hash value for the remaining elements."
+      ],
+      "correctIndex": 2,
+      "explanation": "They reveal whether the key is before or after the current middle position in the list, and we use this information to narrow down or reduce our search area.",
+      "ncertPage": 86,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch6_q50",
+      "chapterId": "c12_cs_ch06",
+      "question": "In Python, which function is used to find the number of elements in a list, as seen in the Linear Search and Binary Search programs?",
+      "options": [
+        "count()",
+        "size()",
+        "length()",
+        "len()"
+      ],
+      "correctIndex": 3,
+      "explanation": "The programs use `len(list)` to determine the size of the list. For example, `for index in range(0, len(list)):` in Linear Search.",
+      "ncertPage": 84,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    }
+  ]
+}

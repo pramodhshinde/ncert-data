@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch5_q1",
+      "chapterId": "math_ch5",
+      "question": "A real-valued function f is said to be continuous at a point 'c' in its domain if:",
+      "options": [
+        "f(c) is defined",
+        "Limit of f(x) as x approaches c exists",
+        "Limit of f(x) as x approaches c equals f(c)",
+        "f(x) is a polynomial"
+      ],
+      "correctIndex": 2,
+      "explanation": "A function is continuous at a point if the limit of the function at that point equals the value of the function at that point.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q2",
+      "chapterId": "math_ch5",
+      "question": "If f and g are continuous functions, then which of the following is also continuous?",
+      "options": [
+        "f + g",
+        "f - g",
+        "f * g",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sum, difference, and product of two continuous functions are always continuous.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q3",
+      "chapterId": "math_ch5",
+      "question": "The quotient function (f/g) is continuous at all points in the domain where:",
+      "options": [
+        "f(x) is not zero",
+        "g(x) is not zero",
+        "x is positive",
+        "f(x) equals g(x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The quotient of two continuous functions is continuous at all points where the denominator g(x) is non-zero.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q4",
+      "chapterId": "math_ch5",
+      "question": "Every differentiable function is:",
+      "options": [
+        "Continuous",
+        "Discontinuous",
+        "Non-linear",
+        "Constant"
+      ],
+      "correctIndex": 0,
+      "explanation": "It is a fundamental theorem that every differentiable function is continuous, though the converse is not always true.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q5",
+      "chapterId": "math_ch5",
+      "question": "The derivative of sin(x) with respect to x is:",
+      "options": [
+        "-sin(x)",
+        "cos(x)",
+        "-cos(x)",
+        "tan(x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard derivative of the sine function is the cosine function.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q6",
+      "chapterId": "math_ch5",
+      "question": "Which rule is used to differentiate the composite of functions like f = v ∘ u?",
+      "options": [
+        "Product Rule",
+        "Quotient Rule",
+        "Chain Rule",
+        "Logarithmic Differentiation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Chain Rule is specifically used to differentiate composite functions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q7",
+      "chapterId": "math_ch5",
+      "question": "The derivative of sin⁻¹(x) is:",
+      "options": [
+        "1 / (1 + x²)",
+        "1 / √(1 - x²)",
+        "-1 / √(1 - x²)",
+        "cos⁻¹(x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard derivative for the inverse sine function is 1/√(1 - x²).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q8",
+      "chapterId": "math_ch5",
+      "question": "What is the derivative of tan⁻¹(x)?",
+      "options": [
+        "1 / (1 + x²)",
+        "1 / (1 - x²)",
+        "sec²(x)",
+        "1 / √(1 + x²)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The derivative of the inverse tangent function is 1/(1 + x²).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q9",
+      "chapterId": "math_ch5",
+      "question": "The derivative of the exponential function eˣ is:",
+      "options": [
+        "x eˣ⁻¹",
+        "eˣ",
+        "log(x)",
+        "1/x"
+      ],
+      "correctIndex": 1,
+      "explanation": "The exponential function eˣ is its own derivative.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q10",
+      "chapterId": "math_ch5",
+      "question": "The derivative of log(x) (natural logarithm) is:",
+      "options": [
+        "eˣ",
+        "1/x",
+        "x log(x)",
+        "1/log(x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The derivative of the natural logarithmic function is 1/x.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q11",
+      "chapterId": "math_ch5",
+      "question": "A function is continuous if it is continuous at:",
+      "options": [
+        "At least one point",
+        "The origin",
+        "Every point in its domain",
+        "The endpoints only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A function is called continuous if it is continuous on the whole of its domain.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q12",
+      "chapterId": "math_ch5",
+      "question": "The derivative of cos(x) is:",
+      "options": [
+        "sin(x)",
+        "-sin(x)",
+        "sec(x)",
+        "-cos(x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The derivative of the cosine function is the negative of the sine function.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q13",
+      "chapterId": "math_ch5",
+      "question": "Logarithmic differentiation is particularly useful for functions of the form:",
+      "options": [
+        "f(x) = [u(x)]ᵛ⁽ˣ⁾",
+        "f(x) = ax + b",
+        "f(x) = sin(x) + cos(x)",
+        "f(x) = x²"
+      ],
+      "correctIndex": 0,
+      "explanation": "Logarithmic differentiation is a powerful technique for functions where a variable is in the exponent of another variable function.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q14",
+      "chapterId": "math_ch5",
+      "question": "If y = f(t) and x = g(t), then dy/dx is calculated as:",
+      "options": [
+        "(dy/dt) * (dx/dt)",
+        "(dy/dt) / (dx/dt)",
+        "(dx/dt) / (dy/dt)",
+        "f'(t) + g'(t)"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the rule for differentiating functions in parametric form.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q15",
+      "chapterId": "math_ch5",
+      "question": "The second-order derivative of y with respect to x is denoted as:",
+      "options": [
+        "dy²/dx²",
+        "d²y/dx²",
+        "(dy/dx)²",
+        "d²y/dx"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard notation for the second-order derivative is d²y/dx².",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q16",
+      "chapterId": "math_ch5",
+      "question": "What is the derivative of cos⁻¹(x)?",
+      "options": [
+        "1 / √(1 - x²)",
+        "-1 / √(1 - x²)",
+        "1 / (1 + x²)",
+        "-1 / (1 + x²)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The derivative of the inverse cosine function is the negative of the derivative of the inverse sine function.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q17",
+      "chapterId": "math_ch5",
+      "question": "The constant function f(x) = k is:",
+      "options": [
+        "Always continuous",
+        "Continuous only if k=0",
+        "Never continuous",
+        "Continuous only at x=k"
+      ],
+      "correctIndex": 0,
+      "explanation": "Polynomial functions (including constant functions) are continuous everywhere in their domain.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q18",
+      "chapterId": "math_ch5",
+      "question": "If a function is continuous at a point, does it have to be differentiable there?",
+      "options": [
+        "Yes, always",
+        "No, not necessarily",
+        "Only if it is a polynomial",
+        "Only at x=0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Continuity is a necessary but not sufficient condition for differentiability (e.g., the modulus function).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q19",
+      "chapterId": "math_ch5",
+      "question": "The derivative of sec(x) is:",
+      "options": [
+        "sec²(x)",
+        "sec(x)tan(x)",
+        "tan²(x)",
+        "-cosec(x)cot(x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard derivative of the secant function is sec(x)tan(x).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q20",
+      "chapterId": "math_ch5",
+      "question": "The derivative of cot(x) is:",
+      "options": [
+        "-cosec²(x)",
+        "cosec²(x)",
+        "-sec²(x)",
+        "sec(x)tan(x)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The standard derivative of the cotangent function is -cosec²(x).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q21",
+      "chapterId": "math_ch5",
+      "question": "In the Chain Rule, if f = v ∘ u and t = u(x), then df/dx equals:",
+      "options": [
+        "(dv/dt) * (dt/dx)",
+        "(dv/dx) * (du/dt)",
+        "v'(x) * u'(x)",
+        "(dv/dt) + (dt/dx)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The chain rule states that df/dx = (dv/dt) * (dt/dx).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q22",
+      "chapterId": "math_ch5",
+      "question": "The derivative of aˣ (where a > 0) is:",
+      "options": [
+        "x aˣ⁻¹",
+        "aˣ logₑ a",
+        "aˣ",
+        "logₑ a"
+      ],
+      "correctIndex": 1,
+      "explanation": "For any positive constant 'a', the derivative of aˣ is aˣ times the natural log of a.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q23",
+      "chapterId": "math_ch5",
+      "question": "If f(x) = |x|, at x = 0 the function is:",
+      "options": [
+        "Continuous and Differentiable",
+        "Continuous but not Differentiable",
+        "Differentiable but not Continuous",
+        "Neither"
+      ],
+      "correctIndex": 1,
+      "explanation": "The modulus function is continuous everywhere but not differentiable at x=0 due to the sharp corner in its graph.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q24",
+      "chapterId": "math_ch5",
+      "question": "The derivative of logₐ x (log to base a) is:",
+      "options": [
+        "1/x",
+        "1 / (x logₑ a)",
+        "logₑ a / x",
+        "aˣ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using the change of base formula, the derivative of logₐ x is 1 / (x ln a).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q25",
+      "chapterId": "math_ch5",
+      "question": "Which mathematician is credited with the quote 'The whole of science is nothing more than a refinement of everyday thinking' in the introduction?",
+      "options": [
+        "Sir Isaac Newton",
+        "Albert Einstein",
+        "Gottfried Leibnitz",
+        "Leonhard Euler"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chapter opens with this quote from Albert Einstein.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q26",
+      "chapterId": "math_ch5",
+      "question": "What is the derivative of cosec(x)?",
+      "options": [
+        "-cosec(x)cot(x)",
+        "cosec(x)cot(x)",
+        "-sec(x)tan(x)",
+        "cot²(x)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The standard derivative of the cosecant function is -cosec(x)cot(x).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q27",
+      "chapterId": "math_ch5",
+      "question": "The derivative of tan(x) is:",
+      "options": [
+        "sec(x)",
+        "sec²(x)",
+        "tan²(x)",
+        "cot(x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard derivative of the tangent function is sec²(x).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q28",
+      "chapterId": "math_ch5",
+      "question": "What is the derivative of sec⁻¹(x)?",
+      "options": [
+        "1 / (x √(x² - 1))",
+        "1 / (1 + x²)",
+        "1 / √(1 - x²)",
+        "-1 / (x √(x² - 1))"
+      ],
+      "correctIndex": 0,
+      "explanation": "The derivative of the inverse secant function is 1 / (|x| √(x² - 1)).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q29",
+      "chapterId": "math_ch5",
+      "question": "If f is continuous on [a, b] and f(a) ≠ f(b), then for any value 'k' between f(a) and f(b), there exists 'c' in (a, b) such that f(c) = k. This is known as:",
+      "options": [
+        "Mean Value Theorem",
+        "Rolle's Theorem",
+        "Intermediate Value Theorem",
+        "Chain Rule"
+      ],
+      "correctIndex": 2,
+      "explanation": "This property is a consequence of the Intermediate Value Theorem for continuous functions.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q30",
+      "chapterId": "math_ch5",
+      "question": "The identity function f(x) = x is continuous:",
+      "options": [
+        "Only at x=0",
+        "Nowhere",
+        "Everywhere in its domain",
+        "Only for positive x"
+      ],
+      "correctIndex": 2,
+      "explanation": "The identity function is a polynomial of degree 1 and is continuous on the real line.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q31",
+      "chapterId": "math_ch5",
+      "question": "What is the derivative of cot⁻¹(x)?",
+      "options": [
+        "1 / (1 + x²)",
+        "-1 / (1 + x²)",
+        "-1 / √(1 - x²)",
+        "1 / (x √(x² - 1))"
+      ],
+      "correctIndex": 1,
+      "explanation": "The derivative of the inverse cotangent function is the negative of the derivative of the inverse tangent function.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q32",
+      "chapterId": "math_ch5",
+      "question": "If u and v are functions of x, then d(u + v)/dx is:",
+      "options": [
+        "du/dx + dv/dx",
+        "du/dx * dv/dx",
+        "v du/dx + u dv/dx",
+        "du/dx - dv/dx"
+      ],
+      "correctIndex": 0,
+      "explanation": "The derivative of a sum is the sum of the derivatives.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q33",
+      "chapterId": "math_ch5",
+      "question": "The derivative of xⁿ is:",
+      "options": [
+        "n xⁿ",
+        "n xⁿ⁻¹",
+        "xⁿ log x",
+        "n xⁿ⁺¹"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the power rule for differentiation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q34",
+      "chapterId": "math_ch5",
+      "question": "If f(x) = sin(x²), then f'(x) is:",
+      "options": [
+        "cos(x²)",
+        "2x cos(x²)",
+        "2x sin(x²)",
+        "-2x cos(x²)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using the chain rule: d/dx(sin(x²)) = cos(x²) * d/dx(x²) = 2x cos(x²).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q35",
+      "chapterId": "math_ch5",
+      "question": "A function is continuous at x = c if the left-hand limit, right-hand limit and the value of the function at c are all:",
+      "options": [
+        "Zero",
+        "Finite",
+        "Equal",
+        "Positive"
+      ],
+      "correctIndex": 2,
+      "explanation": "Continuity requires LHL = RHL = f(c).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q36",
+      "chapterId": "math_ch5",
+      "question": "What is the derivative of cosec⁻¹(x)?",
+      "options": [
+        "-1 / (x √(x² - 1))",
+        "1 / (x √(x² - 1))",
+        "-1 / √(1 - x²)",
+        "1 / (1 + x²)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The derivative of the inverse cosecant function is the negative of the derivative of the inverse secant function.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q37",
+      "chapterId": "math_ch5",
+      "question": "Which of these functions is continuous everywhere but nowhere differentiable?",
+      "options": [
+        "f(x) = x",
+        "f(x) = |x|",
+        "Weierstrass function",
+        "f(x) = sin(x)"
+      ],
+      "correctIndex": 2,
+      "explanation": "While |x| is not differentiable at one point, the Weierstrass function is a famous example of a function continuous everywhere but differentiable nowhere.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q38",
+      "chapterId": "math_ch5",
+      "question": "If y = log(sin x), then dy/dx is:",
+      "options": [
+        "1 / sin x",
+        "cos x / sin x (cot x)",
+        "-tan x",
+        "1 / cos x"
+      ],
+      "correctIndex": 1,
+      "explanation": "By chain rule: (1/sin x) * d/dx(sin x) = cos x / sin x = cot x.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q39",
+      "chapterId": "math_ch5",
+      "question": "The base of the natural logarithm, 'e', is an irrational number between:",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "3 and 4",
+        "0 and 1"
+      ],
+      "correctIndex": 1,
+      "explanation": "The constant 'e' is approximately 2.718.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q40",
+      "chapterId": "math_ch5",
+      "question": "If a function is differentiable at a point, its graph at that point must be:",
+      "options": [
+        "Vertical",
+        "Broken",
+        "Smooth (no sharp corners)",
+        "A straight line"
+      ],
+      "correctIndex": 2,
+      "explanation": "Differentiability implies a unique tangent, which visually means a smooth curve without kinks.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q41",
+      "chapterId": "math_ch5",
+      "question": "The derivative of log(log x) is:",
+      "options": [
+        "1 / log x",
+        "1 / (x log x)",
+        "1 / x²",
+        "log x / x"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chain rule: [1 / log x] * d/dx(log x) = 1 / (x log x).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q42",
+      "chapterId": "math_ch5",
+      "question": "Polynomial functions are always:",
+      "options": [
+        "Continuous",
+        "Differentiable",
+        "Both A and B",
+        "Neither"
+      ],
+      "correctIndex": 2,
+      "explanation": "Polynomials are smooth and continuous across the entire real number line.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q43",
+      "chapterId": "math_ch5",
+      "question": "The limit of (eʰ - 1)/h as h approaches 0 is:",
+      "options": [
+        "0",
+        "1",
+        "e",
+        "undefined"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the definition of the derivative of eˣ at x=0.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q44",
+      "chapterId": "math_ch5",
+      "question": "In parametric differentiation, dx/dt must be ________ for dy/dx to be defined.",
+      "options": [
+        "Positive",
+        "Zero",
+        "Non-zero",
+        "Negative"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since dy/dx = (dy/dt) / (dx/dt), the denominator cannot be zero.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q45",
+      "chapterId": "math_ch5",
+      "question": "If y = e^(sin x), then dy/dx is:",
+      "options": [
+        "e^(sin x)",
+        "cos x e^(sin x)",
+        "sin x e^(sin x - 1)",
+        "-cos x e^(sin x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chain rule: e^(sin x) * d/dx(sin x) = cos x * e^(sin x).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q46",
+      "chapterId": "math_ch5",
+      "question": "Which of the following is NOT true about the exponential function y = eˣ?",
+      "options": [
+        "Domain is R",
+        "Range is (0, ∞)",
+        "It is always increasing",
+        "It passes through (0, 0)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The exponential function eˣ passes through (0, 1), as e⁰ = 1.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q47",
+      "chapterId": "math_ch5",
+      "question": "The derivative of √x is:",
+      "options": [
+        "1 / (2√x)",
+        "2√x",
+        "1 / √x",
+        "x / 2"
+      ],
+      "correctIndex": 0,
+      "explanation": "d/dx(x¹/²) = (1/2)x⁻¹/² = 1 / (2√x).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q48",
+      "chapterId": "math_ch5",
+      "question": "If f is continuous on [a, b], then f is ________ on [a, b].",
+      "options": [
+        "Bounded",
+        "Linear",
+        "Increasing",
+        "Zero"
+      ],
+      "correctIndex": 0,
+      "explanation": "A continuous function on a closed and bounded interval is itself bounded.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q49",
+      "chapterId": "math_ch5",
+      "question": "If y = xˣ, then log y is:",
+      "options": [
+        "x log x",
+        "log x",
+        "x",
+        "x²"
+      ],
+      "correctIndex": 0,
+      "explanation": "Using the properties of logarithms: log(xˣ) = x log x.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch5_q50",
+      "chapterId": "math_ch5",
+      "question": "The notation f'(x) for the derivative was introduced by:",
+      "options": [
+        "Leibnitz",
+        "Newton",
+        "Lagrange",
+        "Euler"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lagrange introduced the prime notation f'(x) for the derivative.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    }
+  ]
+}

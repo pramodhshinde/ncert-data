@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_phy_ch10_q1",
+      "chapterId": "phy_ch10",
+      "question": "What is a wavefront?",
+      "options": [
+        "A bundle of light rays",
+        "A locus of points having the same phase of oscillation",
+        "The path light travels in a vacuum",
+        "A measure of light intensity"
+      ],
+      "correctIndex": 1,
+      "explanation": "A wavefront is defined as a surface of constant phase.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q2",
+      "chapterId": "phy_ch10",
+      "question": "What shape is the wavefront from a point source in an isotropic medium?",
+      "options": [
+        "Plane",
+        "Cylindrical",
+        "Spherical",
+        "Elliptical"
+      ],
+      "correctIndex": 2,
+      "explanation": "For a point source emitting waves in all directions, the locus of points oscillating in phase is a sphere, creating a spherical wavefront.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q3",
+      "chapterId": "phy_ch10",
+      "question": "According to Huygens, each point on a wavefront acts as a:",
+      "options": [
+        "Point of absorption",
+        "Source of secondary wavelets",
+        "Reflecting surface",
+        "Phase shifter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Huygens' principle states that each point of a wavefront is the source of a secondary disturbance.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q4",
+      "chapterId": "phy_ch10",
+      "question": "At a very large distance from a source, a small portion of a spherical wavefront can be considered a:",
+      "options": [
+        "Cylindrical wavefront",
+        "Point source",
+        "Plane wavefront",
+        "Circular wave"
+      ],
+      "correctIndex": 2,
+      "explanation": "Over a small area at a large distance from the source, the wavefront appears as a plane.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q5",
+      "chapterId": "phy_ch10",
+      "question": "The speed of secondary wavelets in a medium is ________ the speed of the wave itself.",
+      "options": [
+        "Higher than",
+        "Lower than",
+        "Equal to",
+        "Half of"
+      ],
+      "correctIndex": 2,
+      "explanation": "Secondary wavelets spread out in all directions with the speed of the wave.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q6",
+      "chapterId": "phy_ch10",
+      "question": "Huygens' principle was initially criticized because it could not explain why:",
+      "options": [
+        "Light bends",
+        "No backward wave exists",
+        "Waves interfere",
+        "Light has color"
+      ],
+      "correctIndex": 1,
+      "explanation": "Huygens' model originally faced a 'logical deficiency' regarding the absence of a backwave.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q7",
+      "chapterId": "phy_ch10",
+      "question": "Which physicist is credited with the quote, 'God said, Let Newton be! and all was light'?",
+      "options": [
+        "Alexander Pope",
+        "Christian Huygens",
+        "Thomas Young",
+        "Albert Einstein"
+      ],
+      "correctIndex": 0,
+      "explanation": "The chapter opens with this quote by Alexander Pope.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q8",
+      "chapterId": "phy_ch10",
+      "question": "When a plane wave undergoes refraction into a denser medium, its speed:",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Stays the same",
+        "Becomes infinite"
+      ],
+      "correctIndex": 1,
+      "explanation": "If a medium is optically denser, the speed of the wave (v) is less than the speed in the rarer medium (c).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q9",
+      "chapterId": "phy_ch10",
+      "question": "The refractive index 'n' is defined as the ratio of:",
+      "options": [
+        "v1 to v2",
+        "v2 to v1",
+        "Angle i to angle r",
+        "Wavelength to frequency"
+      ],
+      "correctIndex": 0,
+      "explanation": "Refractive index n12 is defined as the ratio of speed in medium 1 to speed in medium 2.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q10",
+      "chapterId": "phy_ch10",
+      "question": "Which phenomenon was used by Thomas Young to demonstrate the wave nature of light?",
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Interference",
+        "Photoelectric effect"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thomas Young made the first demonstration of interference in 1801.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q11",
+      "chapterId": "phy_ch10",
+      "question": "For 'Constructive Interference' to occur, the phase difference between two waves must be:",
+      "options": [
+        "π, 3π, 5π...",
+        "0, ±2π, ±4π...",
+        "π/2, 3π/2...",
+        "Any random value"
+      ],
+      "correctIndex": 1,
+      "explanation": "Constructive interference occurs when the phase difference is an even multiple of π (0, ±2π, etc.).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q12",
+      "chapterId": "phy_ch10",
+      "question": "In 'Destructive Interference', the intensity of the resulting wave is:",
+      "options": [
+        "Maximum",
+        "Minimum",
+        "Zero",
+        "Double"
+      ],
+      "correctIndex": 1,
+      "explanation": "Destructive interference occurs where the phase difference is an odd multiple of π, leading to minimum intensity.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q13",
+      "chapterId": "phy_ch10",
+      "question": "Two sources are called 'coherent' if:",
+      "options": [
+        "They have the same intensity",
+        "They emit light of the same frequency and a constant phase difference",
+        "They are placed very close to each other",
+        "They are point sources"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coherent sources must maintain a constant phase difference over time.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q14",
+      "chapterId": "phy_ch10",
+      "question": "In Young’s double-slit experiment, the 'fringe width' (β) is given by:",
+      "options": [
+        "dλ / D",
+        "Dλ / d",
+        "Dd / λ",
+        "λ / Dd"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fringe width is equal to the distance between two consecutive bright/dark fringes, given by Dλ/d.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q15",
+      "chapterId": "phy_ch10",
+      "question": "What happens to the fringe width if the distance between the slits 'd' is increased?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "Becomes zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since fringe width is inversely proportional to 'd', increasing 'd' will decrease the width.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q16",
+      "chapterId": "phy_ch10",
+      "question": "The phenomenon of bending of light around the corners of an obstacle or aperture is called:",
+      "options": [
+        "Interference",
+        "Polarization",
+        "Diffraction",
+        "Dispersion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diffraction is the general name given to the bending of light around obstacles.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q17",
+      "chapterId": "phy_ch10",
+      "question": "In a single-slit diffraction experiment, the central maximum is ________ as wide as the other maxima.",
+      "options": [
+        "Half",
+        "Equally",
+        "Twice",
+        "Thrice"
+      ],
+      "correctIndex": 2,
+      "explanation": "The width of the central maximum is double the width of subsequent maxima.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q18",
+      "chapterId": "phy_ch10",
+      "question": "Diffraction is significant only when the size of the obstacle is:",
+      "options": [
+        "Much larger than the wavelength",
+        "Comparable to the wavelength of light",
+        "Exactly 1 meter",
+        "Negligible"
+      ],
+      "correctIndex": 1,
+      "explanation": "For diffraction to be clearly observable, the size of the opening/obstacle must be comparable to the wavelength.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q19",
+      "chapterId": "phy_ch10",
+      "question": "The resolving power of an optical instrument is limited by:",
+      "options": [
+        "Reflection",
+        "Diffraction",
+        "Refraction",
+        "Intensity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diffraction sets the ultimate limit on the resolving power of microscopes and telescopes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q20",
+      "chapterId": "phy_ch10",
+      "question": "The 'Rayleigh Criterion' is used to define the:",
+      "options": [
+        "Limit of resolution",
+        "Speed of light",
+        "Wavefront shape",
+        "Phase difference"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Rayleigh criterion determines when two close objects can just be distinguished.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q21",
+      "chapterId": "phy_ch10",
+      "question": "The phenomenon that proves light is a 'transverse' wave is:",
+      "options": [
+        "Interference",
+        "Diffraction",
+        "Polarization",
+        "Refraction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Only transverse waves can be polarized; longitudinal waves cannot.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q22",
+      "chapterId": "phy_ch10",
+      "question": "A light wave in which the electric field oscillations are restricted to a single plane is called:",
+      "options": [
+        "Unpolarized light",
+        "Linearly polarized light",
+        "Circularly polarized light",
+        "Diffracted light"
+      ],
+      "correctIndex": 1,
+      "explanation": "When vibrations are restricted to one plane, the wave is said to be plane polarized or linearly polarized.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q23",
+      "chapterId": "phy_ch10",
+      "question": "According to Malus' Law, the intensity of light passing through a polarizer (I) is proportional to:",
+      "options": [
+        "cos θ",
+        "cos² θ",
+        "sin θ",
+        "tan θ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intensity varies as the square of the cosine of the angle between the polarizer and analyzer.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q24",
+      "chapterId": "phy_ch10",
+      "question": "At the 'Brewster angle' (polarizing angle), the reflected light is:",
+      "options": [
+        "Unpolarized",
+        "Partially polarized",
+        "Completely plane polarized",
+        "Zero intensity"
+      ],
+      "correctIndex": 2,
+      "explanation": "At the Brewster angle, the reflected light is completely polarized perpendicular to the plane of incidence.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q25",
+      "chapterId": "phy_ch10",
+      "question": "Which of these devices can be used to produce polarized light?",
+      "options": [
+        "A simple glass slab",
+        "A Polaroid",
+        "A concave mirror",
+        "A convex lens"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Polaroid is a material used to produce and analyze polarized light.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q26",
+      "chapterId": "phy_ch10",
+      "question": "What happens to the frequency of light when it passes from air to glass?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains unchanged",
+        "Depends on intensity"
+      ],
+      "correctIndex": 2,
+      "explanation": "The frequency is a characteristic of the source and does not change during refraction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q27",
+      "chapterId": "phy_ch10",
+      "question": "In the 'Doppler Effect' for light, an increase in frequency is called a:",
+      "options": [
+        "Red shift",
+        "Blue shift",
+        "Phase shift",
+        "Diffraction shift"
+      ],
+      "correctIndex": 1,
+      "explanation": "When light frequency increases (source moving towards observer), it is called a blue shift.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q28",
+      "chapterId": "phy_ch10",
+      "question": "The 'Red Shift' in the spectrum of distant galaxies indicates that:",
+      "options": [
+        "Galaxies are cooling down",
+        "The universe is expanding",
+        "Galaxies are moving toward us",
+        "Light is slowing down"
+      ],
+      "correctIndex": 1,
+      "explanation": "A red shift indicates the source is moving away, providing evidence for the expansion of the universe.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q29",
+      "chapterId": "phy_ch10",
+      "question": "Fresnel distance (ZF) is the distance beyond which:",
+      "options": [
+        "Bending of light is negligible",
+        "Divergence due to diffraction becomes significant",
+        "Reflection occurs",
+        "Light becomes polarized"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Fresnel distance marks where the spread due to diffraction equals the size of the aperture.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q30",
+      "chapterId": "phy_ch10",
+      "question": "In a Young's experiment, if the two slits are covered by unpolarized filters, the interference pattern:",
+      "options": [
+        "Remains the same",
+        "Disappears",
+        "Is shifted",
+        "Depends on the orientation of the filters"
+      ],
+      "correctIndex": 1,
+      "explanation": "If the waves from the two slits are polarized in perpendicular directions, they will not interfere.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q31",
+      "chapterId": "phy_ch10",
+      "question": "A wavefront always moves in the direction ________ to the surface.",
+      "options": [
+        "Parallel",
+        "Normal (Perpendicular)",
+        "Tangent",
+        "Random"
+      ],
+      "correctIndex": 1,
+      "explanation": "A ray is a line perpendicular to the wavefront, indicating the direction of energy flow.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q32",
+      "chapterId": "phy_ch10",
+      "question": "The principle of 'Superposition' states that the net displacement is the ________ of individual displacements.",
+      "options": [
+        "Product",
+        "Difference",
+        "Vector sum",
+        "Arithmetic mean"
+      ],
+      "correctIndex": 2,
+      "explanation": "The resultant displacement is the algebraic (vector) sum of the displacements of individual waves.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q33",
+      "chapterId": "phy_ch10",
+      "question": "What is the intensity ratio if the amplitude ratio of two interfering waves is 2:1?",
+      "options": [
+        "2:1",
+        "4:1",
+        "9:1",
+        "1:1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intensity is proportional to the square of the amplitude.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q34",
+      "chapterId": "phy_ch10",
+      "question": "If the source of light is a 'linear slit', the wavefront will be:",
+      "options": [
+        "Spherical",
+        "Cylindrical",
+        "Plane",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "A line source generates a cylindrical wavefront.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q35",
+      "chapterId": "phy_ch10",
+      "question": "Polarization by 'Reflection' was first discovered by:",
+      "options": [
+        "Brewster",
+        "Malus",
+        "Huygens",
+        "Newton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Malus discovered the phenomenon of polarization by reflection in 1808.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q36",
+      "chapterId": "phy_ch10",
+      "question": "In Young's experiment, the central fringe is always:",
+      "options": [
+        "Dark",
+        "Bright",
+        "Colored",
+        "Variable"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the center, the path difference is zero, leading to constructive interference (bright fringe).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q37",
+      "chapterId": "phy_ch10",
+      "question": "The phenomenon of 'Scattering' of light can also produce:",
+      "options": [
+        "Polarized light",
+        "Interference",
+        "Refraction",
+        "Magnification"
+      ],
+      "correctIndex": 0,
+      "explanation": "Light from a clear blue portion of the sky is found to be partially polarized due to scattering.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q38",
+      "chapterId": "phy_ch10",
+      "question": "A wavefront incident on a thin convex lens becomes ________ after passing through.",
+      "options": [
+        "Diverging",
+        "Converging",
+        "Stays plane",
+        "Cylindrical"
+      ],
+      "correctIndex": 1,
+      "explanation": "A plane wavefront incident on a convex lens emerges as a spherical wavefront converging to the focus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q39",
+      "chapterId": "phy_ch10",
+      "question": "Brewster's Law relates the refractive index 'n' to the polarizing angle 'ip' as:",
+      "options": [
+        "n = sin ip",
+        "n = cos ip",
+        "n = tan ip",
+        "n = 1 / sin ip"
+      ],
+      "correctIndex": 2,
+      "explanation": "The relationship is n = tan ip.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q40",
+      "chapterId": "phy_ch10",
+      "question": "In a single-slit diffraction, the first minimum occurs when the path difference is:",
+      "options": [
+        "λ/2",
+        "λ",
+        "2λ",
+        "3λ/2"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first minimum is found where the path difference sin θ ≈ θ = λ/a.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q41",
+      "chapterId": "phy_ch10",
+      "question": "Optical resolution of a telescope improves as the aperture diameter 'D':",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays same",
+        "Becomes zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "A larger aperture reduces the size of the diffraction spot, improving resolution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q42",
+      "chapterId": "phy_ch10",
+      "question": "The 'angular width' of the central maximum in diffraction is:",
+      "options": [
+        "λ / a",
+        "2λ / a",
+        "λ / 2a",
+        "a / λ"
+      ],
+      "correctIndex": 1,
+      "explanation": "The central maximum extends from -λ/a to +λ/a, giving a total width of 2λ/a.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q43",
+      "chapterId": "phy_ch10",
+      "question": "Christian Huygens was a contemporary of which other famous scientist?",
+      "options": [
+        "Albert Einstein",
+        "Thomas Young",
+        "Isaac Newton",
+        "Max Planck"
+      ],
+      "correctIndex": 2,
+      "explanation": "Huygens was a contemporary of Isaac Newton.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q44",
+      "chapterId": "phy_ch10",
+      "question": "The time taken by light to travel from a source to a wavefront is ________ for all points on the wavefront.",
+      "options": [
+        "Different",
+        "Zero",
+        "The same",
+        "Inverse"
+      ],
+      "correctIndex": 2,
+      "explanation": "A wavefront is a surface of constant phase, which corresponds to constant travel time from the source.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q45",
+      "chapterId": "phy_ch10",
+      "question": "In polarized light, the intensity becomes ________ when the analyzer is perpendicular to the polarizer.",
+      "options": [
+        "Maximum",
+        "Half",
+        "Zero",
+        "Negative"
+      ],
+      "correctIndex": 2,
+      "explanation": "Using Malus' law, when θ = 90°, cos² θ = 0.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q46",
+      "chapterId": "phy_ch10",
+      "question": "Young's experiment showed that waves can pass through each other ________.",
+      "options": [
+        "Without change",
+        "By changing frequency",
+        "By changing speed",
+        "By being absorbed"
+      ],
+      "correctIndex": 0,
+      "explanation": "The waves maintain their individual characteristics while overlapping.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q47",
+      "chapterId": "phy_ch10",
+      "question": "If monochromatic light is replaced by white light in Young’s experiment, the central fringe is:",
+      "options": [
+        "Black",
+        "White",
+        "Red",
+        "Blue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since all wavelengths interfere constructively at the center, the fringe remains white.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q48",
+      "chapterId": "phy_ch10",
+      "question": "The intensity of the first secondary maximum in diffraction is ________ than the central maximum.",
+      "options": [
+        "Greater",
+        "Much smaller",
+        "Equal",
+        "Double"
+      ],
+      "correctIndex": 1,
+      "explanation": "The secondary maxima are significantly weaker than the central maximum.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q49",
+      "chapterId": "phy_ch10",
+      "question": "Sunlight is considered:",
+      "options": [
+        "Polarized light",
+        "Unpolarized light",
+        "Coherent light",
+        "Monochromatic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sunlight consists of waves with electric fields vibrating in all possible directions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch10_q50",
+      "chapterId": "phy_ch10",
+      "question": "The wave theory of light was successful in explaining:",
+      "options": [
+        "Rectilinear propagation",
+        "Reflection and refraction",
+        "Interference and diffraction",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wave theory accounts for reflection, refraction, interference, and diffraction.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    }
+  ]
+}

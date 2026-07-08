@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_phy_ch11_q1",
+      "chapterId": "phy_ch11",
+      "question": "Who first discovered the phenomenon of photoelectric emission in 1887?",
+      "options": [
+        "Wilhelm Hallwachs",
+        "Philipp Lenard",
+        "Heinrich Hertz",
+        "Albert Einstein"
+      ],
+      "correctIndex": 2,
+      "explanation": "Heinrich Hertz discovered the phenomenon of photoelectric emission in 1887 during his electromagnetic wave experiments.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q2",
+      "chapterId": "phy_ch11",
+      "question": "The minimum energy required by an electron to escape from a metal surface is called its:",
+      "options": [
+        "Kinetic Energy",
+        "Potential Energy",
+        "Work Function",
+        "Threshold Energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Work function ($ \\phi_0 $) is the minimum energy required by an electron to escape from the metal surface.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q3",
+      "chapterId": "phy_ch11",
+      "question": "What is the SI unit of work function?",
+      "options": [
+        "Joule",
+        "Watt",
+        "Electron volt (eV)",
+        "Ampere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Work function is commonly measured in electron volts (eV), which is a unit of energy suitable for subatomic particles.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q4",
+      "chapterId": "phy_ch11",
+      "question": "One electron volt (1 eV) is equal to approximately how many Joules?",
+      "options": [
+        "$1.6 \\times 10^{-19}$ J",
+        "$6.63 \\times 10^{-34}$ J",
+        "$3 \\times 10^8$ J",
+        "$9.1 \\times 10^{-31}$ J"
+      ],
+      "correctIndex": 0,
+      "explanation": "$1 eV = 1.602 \\times 10^{-19}$ J, representing the energy gained by an electron accelerated through 1 Volt.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q5",
+      "chapterId": "phy_ch11",
+      "question": "Which of the following metals has the lowest work function among the listed options?",
+      "options": [
+        "Platinum",
+        "Copper",
+        "Cesium",
+        "Iron"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cesium has the lowest work function ($2.14$ eV) among common metals, making it very sensitive to light.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q6",
+      "chapterId": "phy_ch11",
+      "question": "The process of electron emission from a metal surface by heating it is called:",
+      "options": [
+        "Photoelectric emission",
+        "Thermionic emission",
+        "Field emission",
+        "Secondary emission"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thermionic emission occurs when thermal energy is supplied to free electrons to help them overcome the work function.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q7",
+      "chapterId": "phy_ch11",
+      "question": "Field emission occurs when electrons are ejected by applying:",
+      "options": [
+        "High temperature",
+        "Light of suitable frequency",
+        "Strong electric fields",
+        "Strong magnetic fields"
+      ],
+      "correctIndex": 2,
+      "explanation": "Strong electric fields (about $10^8$ V/m) can pull electrons out of a metal, a process known as field emission.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q8",
+      "chapterId": "phy_ch11",
+      "question": "In photoelectric emission, the emitted electrons are called:",
+      "options": [
+        "Thermal electrons",
+        "Positrons",
+        "Photoelectrons",
+        "Neutrinos"
+      ],
+      "correctIndex": 2,
+      "explanation": "Electrons emitted from a surface specifically due to the action of light are called photoelectrons.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q9",
+      "chapterId": "phy_ch11",
+      "question": "The photoelectric current is directly proportional to the:",
+      "options": [
+        "Frequency of incident light",
+        "Intensity of incident light",
+        "Voltage applied to the anode",
+        "Work function of the metal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Photoelectric current is directly proportional to the intensity of incident light, provided frequency is above threshold.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q10",
+      "chapterId": "phy_ch11",
+      "question": "The stopping potential ($V_0$) is the negative potential at which the photoelectric current becomes:",
+      "options": [
+        "Maximum",
+        "Half",
+        "Zero",
+        "Infinite"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stopping potential is the minimum negative potential given to the collector plate for which the photocurrent stops.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q11",
+      "chapterId": "phy_ch11",
+      "question": "The maximum kinetic energy of photoelectrons depends on:",
+      "options": [
+        "Intensity of light",
+        "Frequency of light",
+        "Time of exposure",
+        "Area of the metal surface"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maximum kinetic energy is independent of intensity and depends only on the frequency of incident radiation.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q12",
+      "chapterId": "phy_ch11",
+      "question": "Threshold frequency ($\\nu_0$) is the minimum frequency required for:",
+      "options": [
+        "Maximum current",
+        "Electron escape (emission)",
+        "Saturation current",
+        "Stopping the electrons"
+      ],
+      "correctIndex": 1,
+      "explanation": "Threshold frequency is the minimum cutoff frequency below which no photoelectric emission occurs.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q13",
+      "chapterId": "phy_ch11",
+      "question": "The photoelectric effect is an ________ process.",
+      "options": [
+        "Instantaneous",
+        "Slow",
+        "Delayed",
+        "Time-dependent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Photoelectric emission is an instantaneous process with no apparent time lag ($10^{-9}$ s or less).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q14",
+      "chapterId": "phy_ch11",
+      "question": "Einstein's photoelectric equation is based on the conservation of:",
+      "options": [
+        "Mass",
+        "Charge",
+        "Energy",
+        "Momentum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Einstein's equation is based on energy conservation: $hf = \\phi_0 + K_{max}$.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q15",
+      "chapterId": "phy_ch11",
+      "question": "What is the slope of the graph of stopping potential ($V_0$) versus frequency ($\\nu$)?",
+      "options": [
+        "h",
+        "e",
+        "h/e",
+        "e/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "According to Einstein's equation ($eV_0 = h\\nu - \\phi_0$), the slope of the $V_0$ vs $\\nu$ graph is $h/e$.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q16",
+      "chapterId": "phy_ch11",
+      "question": "Which of the following is NOT a property of photons?",
+      "options": [
+        "They travel with the speed of light",
+        "They are electrically neutral",
+        "They have a fixed rest mass",
+        "They carry energy and momentum"
+      ],
+      "correctIndex": 2,
+      "explanation": "The rest mass of a photon is zero; they only exist in motion at speed $c$.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q17",
+      "chapterId": "phy_ch11",
+      "question": "Who proposed that matter, like light, should exhibit dual nature (wave-particle)?",
+      "options": [
+        "Albert Einstein",
+        "Max Planck",
+        "Louis de Broglie",
+        "Niels Bohr"
+      ],
+      "correctIndex": 2,
+      "explanation": "Louis Victor de Broglie proposed the hypothesis of matter waves in 1924.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q18",
+      "chapterId": "phy_ch11",
+      "question": "The de Broglie wavelength ($\\lambda$) of a particle of momentum p is:",
+      "options": [
+        "$\\lambda = hp$",
+        "$\\lambda = h/p$",
+        "$\\lambda = p/h$",
+        "$\\lambda = 1/hp$"
+      ],
+      "correctIndex": 1,
+      "explanation": "The de Broglie wavelength is given by $\\lambda = h/p$.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q19",
+      "chapterId": "phy_ch11",
+      "question": "The value of Planck’s constant (h) is approximately:",
+      "options": [
+        "$6.63 \\times 10^{-34}$ J s",
+        "$6.63 \\times 10^{-24}$ J s",
+        "$1.6 \\times 10^{-19}$ J s",
+        "$9.1 \\times 10^{-31}$ J s"
+      ],
+      "correctIndex": 0,
+      "explanation": "Planck's constant is approximately $6.626 \\times 10^{-34}$ J s.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q20",
+      "chapterId": "phy_ch11",
+      "question": "Which experiment confirmed the wave nature of electrons?",
+      "options": [
+        "Hertz experiment",
+        "Millikan's oil drop experiment",
+        "Davisson-Germer experiment",
+        "Einstein's experiment"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Davisson-Germer experiment confirmed the wave nature of electrons by observing electron diffraction from a nickel crystal.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q21",
+      "chapterId": "phy_ch11",
+      "question": "In a photon-particle collision, which of the following is conserved?",
+      "options": [
+        "Total energy only",
+        "Total momentum only",
+        "Both energy and momentum",
+        "The number of photons"
+      ],
+      "correctIndex": 2,
+      "explanation": "In photon-particle collisions, both total energy and total momentum are conserved.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q22",
+      "chapterId": "phy_ch11",
+      "question": "If the intensity of light is doubled, the energy of each individual photon:",
+      "options": [
+        "Is doubled",
+        "Is halved",
+        "Remains the same",
+        "Is quadrupled"
+      ],
+      "correctIndex": 2,
+      "explanation": "Photon energy depends only on frequency ($E=hf$), not on intensity. Doubling intensity only increases the number of photons.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q23",
+      "chapterId": "phy_ch11",
+      "question": "For an electron accelerated through a potential V, the de Broglie wavelength is approximately:",
+      "options": [
+        "$12.27 / \\sqrt{V}$ nm",
+        "$1.227 / \\sqrt{V}$ nm",
+        "$122.7 / V$ nm",
+        "$0.1227 / \\sqrt{V}$ nm"
+      ],
+      "correctIndex": 1,
+      "explanation": "For an electron, the numerical approximation is $\\lambda = 1.227 / \\sqrt{V}$ nm.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q24",
+      "chapterId": "phy_ch11",
+      "question": "According to Heisenberg's Uncertainty Principle, it is impossible to measure simultaneously which two variables?",
+      "options": [
+        "Mass and velocity",
+        "Position and momentum",
+        "Charge and energy",
+        "Time and frequency"
+      ],
+      "correctIndex": 1,
+      "explanation": "The uncertainty principle applies to position and momentum: $\\Delta x \\Delta p \\ge h/2\\pi$.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q25",
+      "chapterId": "phy_ch11",
+      "question": "The Wave-particle duality implies that light behaves as a wave in:",
+      "options": [
+        "Photoelectric effect",
+        "Compton effect",
+        "Interference and diffraction",
+        "Collisions with atoms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wave behavior is exhibited in phenomena like interference and diffraction, while particle behavior is seen in the photoelectric effect.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q26",
+      "chapterId": "phy_ch11",
+      "question": "Lenard's observations showed that when UV radiation falls on a quartz tube, ________ are emitted from the cathode.",
+      "options": [
+        "Protons",
+        "Neutrons",
+        "Negatively charged particles (electrons)",
+        "Positively charged ions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lenard observed that UV radiation caused the emission of negatively charged particles from the metal plate.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q27",
+      "chapterId": "phy_ch11",
+      "question": "Hallwachs observed that an uncharged zinc plate became ________ charged when irradiated with UV light.",
+      "options": [
+        "Negatively",
+        "Positively",
+        "Neutral",
+        "Magnetic"
+      ],
+      "correctIndex": 1,
+      "explanation": "The plate became positively charged because it lost negatively charged electrons through the photoelectric effect.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q28",
+      "chapterId": "phy_ch11",
+      "question": "For photoelectric emission to occur, the energy of the incident photon ($hf$) must be:",
+      "options": [
+        "Less than the work function",
+        "Greater than or equal to the work function",
+        "Equal to kinetic energy",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Energy must exceed the work function ($hf \\ge \\phi_0$) for the electron to be liberated.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q29",
+      "chapterId": "phy_ch11",
+      "question": "The saturation current in the photoelectric effect depends on:",
+      "options": [
+        "Frequency of light",
+        "Stopping potential",
+        "Intensity of incident light",
+        "Planck’s constant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Saturation current is determined by the number of photoelectrons emitted per second, which is proportional to light intensity.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q30",
+      "chapterId": "phy_ch11",
+      "question": "Photons are unaffected by ________ fields.",
+      "options": [
+        "Electric",
+        "Magnetic",
+        "Gravitational",
+        "Both A and B"
+      ],
+      "correctIndex": 3,
+      "explanation": "Since photons are electrically neutral, they are not deflected by electric or magnetic fields.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q31",
+      "chapterId": "phy_ch11",
+      "question": "Who was awarded the Nobel Prize in Physics in 1921 for the explanation of the photoelectric effect?",
+      "options": [
+        "Heinrich Hertz",
+        "Robert Millikan",
+        "Albert Einstein",
+        "Max Planck"
+      ],
+      "correctIndex": 2,
+      "explanation": "Einstein was awarded the Nobel Prize in 1921 for his discovery of the law of the photoelectric effect using the photon concept.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q32",
+      "chapterId": "phy_ch11",
+      "question": "The de Broglie wavelength is significant only for ________ particles.",
+      "options": [
+        "Macroscopic",
+        "Sub-atomic (Microscopic)",
+        "Non-moving",
+        "Positively charged"
+      ],
+      "correctIndex": 1,
+      "explanation": "The wavelength is too small to be measurable for macroscopic objects but is significant for sub-atomic particles like electrons.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q33",
+      "chapterId": "phy_ch11",
+      "question": "If an electron and a proton have the same kinetic energy, which one has a longer de Broglie wavelength?",
+      "options": [
+        "Electron",
+        "Proton",
+        "Both have the same",
+        "Neither"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since $ \\lambda = h / \\sqrt{2mK} $, the lighter particle (electron) has a longer wavelength for the same kinetic energy.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q34",
+      "chapterId": "phy_ch11",
+      "question": "The wave nature of light was first proposed by:",
+      "options": [
+        "Newton",
+        "Huygens",
+        "Maxwell",
+        "Hertz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Christian Huygens proposed the wave theory of light in the 17th century.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q35",
+      "chapterId": "phy_ch11",
+      "question": "Millikan's experiments in 1916 confirmed whose prediction of the photoelectric effect?",
+      "options": [
+        "Hertz",
+        "Planck",
+        "Einstein",
+        "Lenard"
+      ],
+      "correctIndex": 2,
+      "explanation": "Millikan performed a series of experiments that confirmed Einstein’s photoelectric equation with high precision.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q36",
+      "chapterId": "phy_ch11",
+      "question": "The kinetic energy of photoelectrons varies from zero up to a:",
+      "options": [
+        "Minimum value",
+        "Negative value",
+        "Maximum value ($K_{max}$)",
+        "Constant value hf"
+      ],
+      "correctIndex": 2,
+      "explanation": "Emitted electrons have a distribution of speeds up to a maximum value defined by the incident frequency.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q37",
+      "chapterId": "phy_ch11",
+      "question": "What happens if light of frequency less than threshold frequency falls on a metal?",
+      "options": [
+        "Slow emission",
+        "Low current emission",
+        "No emission occurs",
+        "Secondary emission occurs"
+      ],
+      "correctIndex": 2,
+      "explanation": "If $ \\nu < \\nu_0 $, no photoelectric emission is possible, regardless of the intensity of light.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q38",
+      "chapterId": "phy_ch11",
+      "question": "Alkali metals like lithium and sodium are sensitive to ________ light.",
+      "options": [
+        "Ultraviolet only",
+        "Visible",
+        "X-ray only",
+        "Infrared only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alkali metals respond to visible light, whereas other metals like zinc respond only to ultraviolet light.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q39",
+      "chapterId": "phy_ch11",
+      "question": "In the de Broglie equation, 'h' stands for:",
+      "options": [
+        "Height",
+        "Heat",
+        "Planck’s Constant",
+        "Hamiltonian"
+      ],
+      "correctIndex": 2,
+      "explanation": "h is Planck's constant in the fundamental relation $\\lambda = h/p$.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q40",
+      "chapterId": "phy_ch11",
+      "question": "Diffraction of electrons is evidence of their:",
+      "options": [
+        "Particle nature",
+        "Wave nature",
+        "Magnetic nature",
+        "Negative charge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diffraction is a characteristic property of waves; its observation in electrons confirms their wave nature.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q41",
+      "chapterId": "phy_ch11",
+      "question": "The 'photon' is a discrete packet of:",
+      "options": [
+        "Mass",
+        "Electromagnetic energy",
+        "Momentum without energy",
+        "Pure charge"
+      ],
+      "correctIndex": 1,
+      "explanation": "A photon is a quantum (discrete packet) of electromagnetic radiation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q42",
+      "chapterId": "phy_ch11",
+      "question": "According to classical wave theory, intensity of light is related to the:",
+      "options": [
+        "Frequency",
+        "Square of the amplitude",
+        "Wavelength",
+        "Speed"
+      ],
+      "correctIndex": 1,
+      "explanation": "In classical wave theory, intensity is proportional to the square of the wave's amplitude.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q43",
+      "chapterId": "phy_ch11",
+      "question": "The 'work function' of a metal depends on:",
+      "options": [
+        "Nature of the metal only",
+        "Properties of the surface only",
+        "Both A and B",
+        "Color of incident light"
+      ],
+      "correctIndex": 2,
+      "explanation": "The work function depends on both the chemical nature of the metal and the physical properties of its surface.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q44",
+      "chapterId": "phy_ch11",
+      "question": "The time lag between irradiation and emission of photoelectrons is less than:",
+      "options": [
+        "$1$ second",
+        "$10^{-3}$ seconds",
+        "$10^{-9}$ seconds",
+        "$1$ minute"
+      ],
+      "correctIndex": 2,
+      "explanation": "Photoelectric emission is almost instantaneous, occurring in less than $10^{-9}$ seconds.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q45",
+      "chapterId": "phy_ch11",
+      "question": "Stopping potential is ________ proportional to frequency.",
+      "options": [
+        "Inversely",
+        "Linearly",
+        "Inversely square",
+        "Unrelated"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stopping potential increases linearly with the frequency of incident radiation above threshold.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q46",
+      "chapterId": "phy_ch11",
+      "question": "Which constant is the same for all metals in the context of the photoelectric effect?",
+      "options": [
+        "Work function",
+        "Threshold frequency",
+        "Planck’s constant (h)",
+        "Saturation current"
+      ],
+      "correctIndex": 2,
+      "explanation": "Planck's constant is a fundamental universal constant, unlike metal-specific properties like work function.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q47",
+      "chapterId": "phy_ch11",
+      "question": "In the formula $hf = \\phi_0 + K_{max}$, $\\phi_0$ is often written as:",
+      "options": [
+        "$h\\nu$",
+        "$h\\nu_0$",
+        "$hc/\\lambda$",
+        "$e V_0$"
+      ],
+      "correctIndex": 1,
+      "explanation": "Work function $ \\phi_0 = h\\nu_0 $, where $\\nu_0$ is the threshold frequency for the metal.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q48",
+      "chapterId": "phy_ch11",
+      "question": "Matter waves travel with speed ________ the speed of light in vacuum.",
+      "options": [
+        "Equal to",
+        "Greater than",
+        "Less than",
+        "Infinite"
+      ],
+      "correctIndex": 2,
+      "explanation": "De Broglie waves for particles with mass must travel at speeds less than $c$.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q49",
+      "chapterId": "phy_ch11",
+      "question": "Who was the first to use the term 'quanta' for packets of energy?",
+      "options": [
+        "Einstein",
+        "Planck",
+        "Millikan",
+        "Bohr"
+      ],
+      "correctIndex": 1,
+      "explanation": "Max Planck first proposed the quantization of energy in 1900.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch11_q50",
+      "chapterId": "phy_ch11",
+      "question": "The dual nature of radiation and matter is the conceptual basis for which instrument?",
+      "options": [
+        "Galvanometer",
+        "Electron Microscope",
+        "Simple Microscope",
+        "Telescope"
+      ],
+      "correctIndex": 1,
+      "explanation": "The wave nature of electrons (de Broglie hypothesis) is utilized in the design of electron microscopes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch3_q1",
+      "chapterId": "bio_ch3",
+      "question": "Which of the following microorganisms is primarily responsible for the conversion of milk into curd?",
+      "options": [
+        "Saccharomyces cerevisiae",
+        "Lactobacillus",
+        "Propionibacterium sharmanii",
+        "Aspergillus niger"
+      ],
+      "correctIndex": 1,
+      "explanation": "Microorganisms such as Lactobacillus and others commonly called lactic acid bacteria (LAB) grow in milk and convert it to curd.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q2",
+      "chapterId": "bio_ch3",
+      "question": "Which vitamin content is increased during the conversion of milk into curd by LAB?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctIndex": 1,
+      "explanation": "LAB improves the nutritional quality of curd by increasing vitamin B12.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q3",
+      "chapterId": "bio_ch3",
+      "question": "The large holes in 'Swiss cheese' are due to the production of a large amount of CO2 by which bacterium?",
+      "options": [
+        "Propionibacterium sharmanii",
+        "Saccharomyces cerevisiae",
+        "Penicillium roqueforti",
+        "Lactobacillus"
+      ],
+      "correctIndex": 0,
+      "explanation": "The large holes in Swiss cheese are due to production of a large amount of CO2 by a bacterium named Propionibacterium sharmanii.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q4",
+      "chapterId": "bio_ch3",
+      "question": "Which microorganism is known as 'Brewer’s yeast' used for fermenting malted cereals and fruit juices?",
+      "options": [
+        "Candida albicans",
+        "Saccharomyces cerevisiae",
+        "Aspergillus niger",
+        "Propionibacterium"
+      ],
+      "correctIndex": 1,
+      "explanation": "The yeast Saccharomyces cerevisiae, used for making bread and commonly called brewer’s yeast, is used for fermenting malted cereals and fruit juices to produce ethanol.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q5",
+      "chapterId": "bio_ch3",
+      "question": "Which of the following beverages are produced without distillation?",
+      "options": [
+        "Whisky and Brandy",
+        "Wine and Beer",
+        "Rum and Gin",
+        "Brandy and Rum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wine and beer are produced without distillation whereas whisky, brandy and rum are produced by distillation of the fermented broth.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q6",
+      "chapterId": "bio_ch3",
+      "question": "Who is credited with the discovery of Penicillin, the first antibiotic?",
+      "options": [
+        "Ernest Chain",
+        "Howard Florey",
+        "Alexander Fleming",
+        "Selman Waksman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alexander Fleming, while working on Staphylococci bacteria, once observed a mould growing in one of his unwashed culture plates. He found it was due to a chemical produced by the mould and he named it Penicillin.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q7",
+      "chapterId": "bio_ch3",
+      "question": "Which fungus is used for the commercial production of Citric acid?",
+      "options": [
+        "Acetobacter aceti",
+        "Aspergillus niger",
+        "Clostridium butylicum",
+        "Lactobacillus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aspergillus niger (a fungus) is used for the production of citric acid.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q8",
+      "chapterId": "bio_ch3",
+      "question": "Butyric acid is produced by which bacterium?",
+      "options": [
+        "Aspergillus niger",
+        "Acetobacter aceti",
+        "Clostridium butylicum",
+        "Lactobacillus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clostridium butylicum is a bacterium used for the production of butyric acid.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q9",
+      "chapterId": "bio_ch3",
+      "question": "Which enzyme is used in detergent formulations to help remove oily stains from laundry?",
+      "options": [
+        "Pectinases",
+        "Proteases",
+        "Lipases",
+        "Amylases"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lipases are used in detergent formulations and are helpful in removing oily stains from the laundry.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q10",
+      "chapterId": "bio_ch3",
+      "question": "Which bioactive molecule is used as an immunosuppressive agent in organ-transplant patients?",
+      "options": [
+        "Statin",
+        "Streptokinase",
+        "Cyclosporin A",
+        "Penicillin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cyclosporin A is used as an immunosuppressive agent in organ-transplant patients.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q11",
+      "chapterId": "bio_ch3",
+      "question": "Cyclosporin A is produced by which fungus?",
+      "options": [
+        "Monascus purpureus",
+        "Trichoderma polysporum",
+        "Aspergillus niger",
+        "Penicillium notatum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cyclosporin A is produced by the fungus Trichoderma polysporum.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q12",
+      "chapterId": "bio_ch3",
+      "question": "Statins, used for lowering blood cholesterol levels, are produced by which microorganism?",
+      "options": [
+        "Monascus purpureus (yeast)",
+        "Trichoderma polysporum (fungus)",
+        "Saccharomyces cerevisiae",
+        "Pseudomonas putida"
+      ],
+      "correctIndex": 0,
+      "explanation": "Statins produced by the yeast Monascus purpureus have been commercialised as blood-cholesterol lowering agents.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q13",
+      "chapterId": "bio_ch3",
+      "question": "In sewage treatment, the primary treatment step involves:",
+      "options": [
+        "Biological digestion",
+        "Physical removal of particles through filtration and sedimentation",
+        "Aeration and agitation",
+        "Chlorination"
+      ],
+      "correctIndex": 1,
+      "explanation": "Primary treatment steps basically involve physical removal of particles – large and small – from the sewage through filtration and sedimentation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q14",
+      "chapterId": "bio_ch3",
+      "question": "What are 'flocs' in the context of secondary sewage treatment?",
+      "options": [
+        "Chemical precipitates",
+        "Masses of bacteria associated with fungal filaments to form mesh like structures",
+        "Floating debris in the primary tank",
+        "Dead algae"
+      ],
+      "correctIndex": 1,
+      "explanation": "Secondary treatment involves constant agitation and aeration, allowing vigorous growth of useful aerobic microbes into flocs (masses of bacteria associated with fungal filaments to form mesh like structures).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q15",
+      "chapterId": "bio_ch3",
+      "question": "BOD (Biochemical Oxygen Demand) is a measure of:",
+      "options": [
+        "The amount of inorganic matter in water",
+        "The amount of dissolved oxygen in pure water",
+        "The amount of oxygen consumed if all organic matter in one liter of water were oxidized by bacteria",
+        "The rate of evaporation of water"
+      ],
+      "correctIndex": 2,
+      "explanation": "BOD refers to the amount of the oxygen that would be consumed if all the organic matter in one liter of water were oxidized by bacteria.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q16",
+      "chapterId": "bio_ch3",
+      "question": "A higher BOD value in a water sample indicates that the water is:",
+      "options": [
+        "Very clean",
+        "More polluted with organic matter",
+        "Rich in dissolved oxygen",
+        "Free of microbes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The greater the BOD of waste water, the more is its polluting potential.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q17",
+      "chapterId": "bio_ch3",
+      "question": "During secondary treatment, once BOD is significantly reduced, the effluent is passed into a settling tank where the bacterial 'flocs' are allowed to sediment. This sediment is called:",
+      "options": [
+        "Primary sludge",
+        "Activated sludge",
+        "Tertiary sludge",
+        "Anaerobic sludge"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sediment formed by flocs in the settling tank is called activated sludge.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q18",
+      "chapterId": "bio_ch3",
+      "question": "Which gas is NOT typically a significant component of biogas produced in an anaerobic sludge digester?",
+      "options": [
+        "Methane",
+        "Hydrogen sulphide",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bacteria produce a mixture of gases such as methane, hydrogen sulphide and carbon dioxide in anaerobic sludge digesters; these gases form biogas.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q19",
+      "chapterId": "bio_ch3",
+      "question": "The Ministry of Environment and Forests has initiated which of the following plans to save major rivers from pollution?",
+      "options": [
+        "Ganga Action Plan and Yamuna Action Plan",
+        "Narmada Action Plan",
+        "Godavari Action Plan",
+        "Indus Action Plan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Ministry of Environment and Forests has initiated Ganga Action Plan and Yamuna Action Plan to save these major rivers of our country from pollution.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q20",
+      "chapterId": "bio_ch3",
+      "question": "Where are methanogens, such as Methanobacterium, commonly found?",
+      "options": [
+        "Aerobic sewage tanks",
+        "Anaerobic sludge during sewage treatment and the rumen of cattle",
+        "Deep sea vents only",
+        "Tap water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Methanogens are found in the anaerobic sludge during sewage treatment and also in the rumen (a part of stomach) of cattle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q21",
+      "chapterId": "bio_ch3",
+      "question": "The technology of biogas production was developed in India mainly due to the efforts of:",
+      "options": [
+        "ICAR and CSIR",
+        "IARI and KVIC",
+        "WHO and UNICEF",
+        "Ministry of Agriculture only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The technology of biogas production was developed in India mainly due to the efforts of Indian Agricultural Research Institute (IARI) and Khadi and Village Industries Commission (KVIC).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q22",
+      "chapterId": "bio_ch3",
+      "question": "Which beetle with red and black markings is used to get rid of aphids?",
+      "options": [
+        "Dragonflies",
+        "Ladybird",
+        "Butterfly",
+        "Wasp"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Ladybird, a beetle with red and black markings, is useful to get rid of aphids.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q23",
+      "chapterId": "bio_ch3",
+      "question": "Dragonflies are used as biocontrol agents to get rid of:",
+      "options": [
+        "Aphids",
+        "Mosquitoes",
+        "Fruit flies",
+        "Caterpillars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dragonflies are useful to get rid of mosquitoes.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q24",
+      "chapterId": "bio_ch3",
+      "question": "The bacterium Bacillus thuringiensis (Bt) is used to control:",
+      "options": [
+        "Aphids",
+        "Butterfly caterpillars",
+        "Mosquitoes",
+        "Root pathogens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bacillus thuringiensis (often written as Bt) is used to control butterfly caterpillars.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q25",
+      "chapterId": "bio_ch3",
+      "question": "Which fungus is very common in the root ecosystems and acts as a biocontrol agent against several plant pathogens?",
+      "options": [
+        "Aspergillus",
+        "Trichoderma",
+        "Penicillium",
+        "Mucor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trichoderma species are free-living fungi that are very common in the root ecosystems. They are effective biocontrol agents of several plant pathogens.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q26",
+      "chapterId": "bio_ch3",
+      "question": "Baculoviruses (specifically genus Nucleopolyhedrovirus) are excellent candidates for:",
+      "options": [
+        "Broad spectrum insecticidal applications",
+        "Species-specific, narrow spectrum insecticidal applications",
+        "Increasing soil fertility",
+        "Producing antibiotics"
+      ],
+      "correctIndex": 1,
+      "explanation": "Baculoviruses are pathogens that attack insects and other arthropods. They are excellent candidates for species-specific, narrow spectrum insecticidal applications.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q27",
+      "chapterId": "bio_ch3",
+      "question": "Which of the following organisms can act as biofertilisers?",
+      "options": [
+        "Bacteria and Fungi",
+        "Cyanobacteria",
+        "Both A and B",
+        "Insects"
+      ],
+      "correctIndex": 2,
+      "explanation": "The main sources of biofertilisers are bacteria, fungi and cyanobacteria.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q28",
+      "chapterId": "bio_ch3",
+      "question": "Rhizobium bacteria form symbiotic associations with the roots of:",
+      "options": [
+        "Cereal plants",
+        "Leguminous plants",
+        "Non-flowering plants",
+        "Aquatic plants"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rhizobium forms symbiotic associations with the root nodules of leguminous plants.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q29",
+      "chapterId": "bio_ch3",
+      "question": "Which of the following bacteria fix atmospheric nitrogen while free-living in the soil?",
+      "options": [
+        "Rhizobium",
+        "Azospirillum and Azotobacter",
+        "Lactobacillus",
+        "Methanobacterium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Other bacteria can fix atmospheric nitrogen while free-living in the soil (examples Azospirillum and Azotobacter).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q30",
+      "chapterId": "bio_ch3",
+      "question": "The symbiotic association between fungi and the roots of higher plants is called:",
+      "options": [
+        "Lichen",
+        "Mycorrhiza",
+        "Parasitism",
+        "Commensalism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fungi are also known to form symbiotic associations with plants (mycorrhiza).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q31",
+      "chapterId": "bio_ch3",
+      "question": "In a mycorrhizal association, the fungal member (e.g., genus Glomus) primarily helps the plant by absorbing ________ from the soil.",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Calcium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many members of the genus Glomus form mycorrhiza. The fungal symbiont in these associations absorbs phosphorus from soil and passes it to the plant.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q32",
+      "chapterId": "bio_ch3",
+      "question": "Which of the following is a nitrogen-fixing cyanobacterium found in both aquatic and terrestrial environments?",
+      "options": [
+        "Anabaena",
+        "Nostoc",
+        "Oscillatoria",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cyanobacteria are autotrophic microbes... many of which can fix atmospheric nitrogen, e.g., Anabaena, Nostoc, Oscillatoria, etc.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q33",
+      "chapterId": "bio_ch3",
+      "question": "Cyanobacteria serve as an important biofertiliser in which type of crop fields?",
+      "options": [
+        "Wheat",
+        "Paddy (Rice)",
+        "Maize",
+        "Cotton"
+      ],
+      "correctIndex": 1,
+      "explanation": "In paddy fields, cyanobacteria serve as an important biofertiliser.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q34",
+      "chapterId": "bio_ch3",
+      "question": "What makes the dough used for making 'Dosa' and 'Idli' puffed-up in appearance?",
+      "options": [
+        "Addition of water",
+        "Production of CO2 gas by bacteria",
+        "Production of ethanol",
+        "Kneading process"
+      ],
+      "correctIndex": 1,
+      "explanation": "The puffed-up appearance of dough is due to the production of CO2 gas.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q35",
+      "chapterId": "bio_ch3",
+      "question": "A traditional drink of some parts of southern India made by fermenting sap from palms is called:",
+      "options": [
+        "Toddy",
+        "Lassi",
+        "Buttermilk",
+        "Juice"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Toddy', a traditional drink of some parts of southern India is made by fermenting sap from palms.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q36",
+      "chapterId": "bio_ch3",
+      "question": "Bottled fruit juices bought from the market are clearer than those made at home because they are clarified using:",
+      "options": [
+        "Lipases",
+        "Pectinases and Proteases",
+        "Amylases",
+        "Cellulases"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bottled juices are clarified by the use of pectinases and proteases.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q37",
+      "chapterId": "bio_ch3",
+      "question": "Which enzyme, produced by Streptococcus and modified by genetic engineering, is used as a 'clot buster' for heart patients?",
+      "options": [
+        "Streptokinase",
+        "Lipase",
+        "Statin",
+        "Protease"
+      ],
+      "correctIndex": 0,
+      "explanation": "Streptokinase produced by the bacterium Streptococcus and modified by genetic engineering is used as a ‘clot buster’ for removing clots from the blood vessels of patients who have undergone myocardial infarction.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q38",
+      "chapterId": "bio_ch3",
+      "question": "Organisms that are only microscopic are called:",
+      "options": [
+        "Macrobes",
+        "Microbes",
+        "Plants",
+        "Animals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Microbes are the major components of biological systems on this earth... some are only microscopic.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q39",
+      "chapterId": "bio_ch3",
+      "question": "Microbes can be grown on nutritive media to form ________ that can be seen with the naked eye.",
+      "options": [
+        "Single cells",
+        "Colonies",
+        "Tissues",
+        "Organs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Microbes like bacteria and many fungi can be grown on nutritive media to form colonies.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q40",
+      "chapterId": "bio_ch3",
+      "question": "Which of the following is a proteinaceous infectious agent?",
+      "options": [
+        "Virus",
+        "Viroid",
+        "Prion",
+        "Bacterium"
+      ],
+      "correctIndex": 2,
+      "explanation": "Microbes include... also prions that are proteinacious infectious agents.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q41",
+      "chapterId": "bio_ch3",
+      "question": "The 'Inoculum' added to fresh milk to begin curd formation contains millions of:",
+      "options": [
+        "Yeast",
+        "LAB",
+        "Viruses",
+        "Fungi"
+      ],
+      "correctIndex": 1,
+      "explanation": "A small amount of curd added to the fresh milk as inoculum or starter contains millions of LAB.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q42",
+      "chapterId": "bio_ch3",
+      "question": "Antibiotics are chemical substances produced by some microbes which can kill or retard the growth of:",
+      "options": [
+        "Only viruses",
+        "Other (disease-causing) microbes",
+        "The host organism",
+        "Plants"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antibiotics are chemical substances, which are produced by some microbes and can kill or retard the growth of other (disease-causing) microbes.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q43",
+      "chapterId": "bio_ch3",
+      "question": "Which antibiotic treatment greatly improved the survival of American soldiers in World War II?",
+      "options": [
+        "Streptomycin",
+        "Penicillin",
+        "Chloramphenicol",
+        "Tetracycline"
+      ],
+      "correctIndex": 1,
+      "explanation": "Penicillin was extensively used to treat American soldiers wounded in World War II.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q44",
+      "chapterId": "bio_ch3",
+      "question": "Acetic acid is produced by which bacterium?",
+      "options": [
+        "Aspergillus niger",
+        "Acetobacter aceti",
+        "Clostridium butylicum",
+        "Lactobacillus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acetobacter aceti is a bacterium used for the production of acetic acid.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q45",
+      "chapterId": "bio_ch3",
+      "question": "Industrial scale production of microbes requires growing them in very large vessels called:",
+      "options": [
+        "Beakers",
+        "Fermenters",
+        "Test tubes",
+        "Petri dishes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Production on an industrial scale requires growing microbes in very large vessels called fermenters.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q46",
+      "chapterId": "bio_ch3",
+      "question": "The municipal waste-water is also called:",
+      "options": [
+        "Sludge",
+        "Sewage",
+        "Effluent",
+        "Inoculum"
+      ],
+      "correctIndex": 1,
+      "explanation": "The municipal waste-water is also called sewage.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q47",
+      "chapterId": "bio_ch3",
+      "question": "Methanogens produce biogas primarily containing which gas?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Methane",
+        "Chlorine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Methanogens produce large amounts of methane along with CO2 and H2.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q48",
+      "chapterId": "bio_ch3",
+      "question": "In a biogas plant, the slurry is removed through an outlet and may be used as:",
+      "options": [
+        "Fuel",
+        "Biofertiliser",
+        "Food",
+        "Water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The spent slurry is removed through another outlet and may be used as fertiliser.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q49",
+      "chapterId": "bio_ch3",
+      "question": "Biocontrol refers to the use of ________ for controlling plant diseases and pests.",
+      "options": [
+        "Chemicals",
+        "Biological methods",
+        "Mechanical traps",
+        "None of the above"
+      ],
+      "correctIndex": 1,
+      "explanation": "Biocontrol refers to the use of biological methods for controlling plant diseases and pests.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch3_q50",
+      "chapterId": "bio_ch3",
+      "question": "IPM stands for:",
+      "options": [
+        "International Pest Management",
+        "Integrated Pest Management",
+        "Internal Plant Monitoring",
+        "Integrated Parasite Management"
+      ],
+      "correctIndex": 1,
+      "explanation": "Baculoviruses... are used in Integrated Pest Management (IPM) programmes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    }
+  ]
+}

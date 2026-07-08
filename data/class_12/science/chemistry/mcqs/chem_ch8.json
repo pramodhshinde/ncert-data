@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch12_q1",
+      "chapterId": "chem_ch12",
+      "question": "Which functional group is characterized by a carbon-oxygen double bond (>C=O)?",
+      "options": [
+        "Hydroxyl group",
+        "Carbonyl group",
+        "Ether group",
+        "Ester group"
+      ],
+      "correctIndex": 1,
+      "explanation": "The carbon-oxygen double bond (>C=O) is known as the carbonyl group, which is central to aldehydes, ketones, and carboxylic acids.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q2",
+      "chapterId": "chem_ch12",
+      "question": "In an aldehyde, the carbonyl group is bonded to:",
+      "options": [
+        "Two carbon atoms",
+        "One carbon and one hydrogen atom",
+        "Two hydrogen atoms only",
+        "One carbon and one hydroxyl group"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aldehydes have the carbonyl group bonded to at least one hydrogen atom (except formaldehyde, which has two).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q3",
+      "chapterId": "chem_ch12",
+      "question": "Which of the following is the common name for Methanal?",
+      "options": [
+        "Acetaldehyde",
+        "Formaldehyde",
+        "Propionaldehyde",
+        "Benzaldehyde"
+      ],
+      "correctIndex": 1,
+      "explanation": "Methanal is commonly known as formaldehyde.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q4",
+      "chapterId": "chem_ch12",
+      "question": "The IUPAC suffix used for naming aldehydes is:",
+      "options": [
+        "-ol",
+        "-one",
+        "-al",
+        "-oic acid"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aldehydes are named in the IUPAC system by replacing the ending '-e' of the alkane with '-al'.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q5",
+      "chapterId": "chem_ch12",
+      "question": "In the IUPAC system, ketones are named by replacing the '-e' of the parent alkane with:",
+      "options": [
+        "-al",
+        "-one",
+        "-ol",
+        "-oic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ketones use the suffix '-one' to denote the presence of the carbonyl group between two carbons.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q6",
+      "chapterId": "chem_ch12",
+      "question": "What is the hybridisation of the carbonyl carbon atom?",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "dsp2"
+      ],
+      "correctIndex": 1,
+      "explanation": "The carbonyl carbon is sp2 hybridised and forms three sigma bonds with one pi bond.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q7",
+      "chapterId": "chem_ch12",
+      "question": "The C=O bond in carbonyl compounds is polar due to:",
+      "options": [
+        "Resonance",
+        "High electronegativity of oxygen compared to carbon",
+        "Inductive effect of alkyl groups",
+        "Presence of a pi bond"
+      ],
+      "correctIndex": 1,
+      "explanation": "The high electronegativity of oxygen relative to carbon causes the carbonyl group to be polar.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q8",
+      "chapterId": "chem_ch12",
+      "question": "Which reaction involves the partial reduction of acyl chlorides over a catalyst of palladium on barium sulphate?",
+      "options": [
+        "Stephen reaction",
+        "Rosenmund reduction",
+        "Etard reaction",
+        "Gatterman-Koch reaction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acyl chlorides are hydrogenated over Pd-BaSO4 to aldehydes in the Rosenmund reduction.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q9",
+      "chapterId": "chem_ch12",
+      "question": "The Stephen reaction is used to prepare aldehydes from:",
+      "options": [
+        "Acyl chlorides",
+        "Nitriles",
+        "Esters",
+        "Alcohols"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nitriles are reduced to imines with stannous chloride and HCl, which are then hydrolysed to aldehydes in the Stephen reaction.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q10",
+      "chapterId": "chem_ch12",
+      "question": "Chromyl chloride (CrO2Cl2) oxidises the methyl group of toluene to a chromium complex, which on hydrolysis gives benzaldehyde. This is known as:",
+      "options": [
+        "Etard reaction",
+        "Rosenmund reduction",
+        "Stephen reaction",
+        "Friedel-Crafts acylation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Etard reaction uses chromyl chloride to convert toluene specifically to benzaldehyde.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q11",
+      "chapterId": "chem_ch12",
+      "question": "Which of the following describes the Gatterman-Koch reaction?",
+      "options": [
+        "Reduction of nitriles",
+        "Oxidation of toluene with CrO3",
+        "Reaction of benzene with CO and HCl in presence of AlCl3",
+        "Reduction of acyl chlorides"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benzene reacts with CO and HCl in the presence of anhydrous AlCl3 to give benzaldehyde.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q12",
+      "chapterId": "chem_ch12",
+      "question": "Ketones can be prepared by the reaction of nitriles with:",
+      "options": [
+        "Grignard reagents",
+        "Tollen's reagent",
+        "Fehling's solution",
+        "Bromine water"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nitriles react with Grignard reagents to form an intermediate that hydrolyses into a ketone.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q13",
+      "chapterId": "chem_ch12",
+      "question": "The boiling points of aldehydes and ketones are higher than hydrocarbons of comparable molecular mass because of:",
+      "options": [
+        "Hydrogen bonding",
+        "Weak intermolecular dipole-dipole interactions",
+        "Van der Waals forces only",
+        "Ionic interactions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aldehydes and ketones have higher boiling points than non-polar hydrocarbons due to dipole-dipole interactions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q14",
+      "chapterId": "chem_ch12",
+      "question": "Why do aldehydes and ketones have lower boiling points than alcohols of similar molecular mass?",
+      "options": [
+        "They are less polar",
+        "Absence of intermolecular hydrogen bonding",
+        "They have lower molecular mass",
+        "They are gases at room temperature"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alcohols can form intermolecular hydrogen bonds, while aldehydes and ketones cannot as they lack H bonded to O.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q15",
+      "chapterId": "chem_ch12",
+      "question": "Lower members of aldehydes and ketones are soluble in water because:",
+      "options": [
+        "They are non-polar",
+        "They can form hydrogen bonds with water molecules",
+        "They react with water to form acids",
+        "They have high density"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lower members (like methanal, ethanal) form hydrogen bonds with water, increasing solubility.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q16",
+      "chapterId": "chem_ch12",
+      "question": "Aldehydes are generally more reactive than ketones in nucleophilic addition reactions due to:",
+      "options": [
+        "Steric and electronic reasons",
+        "Higher molecular mass",
+        "Presence of more hydrogen atoms",
+        "Being more acidic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aldehydes are more reactive because they are less sterically hindered and have a more electrophilic carbonyl carbon.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q17",
+      "chapterId": "chem_ch12",
+      "question": "Reaction of aldehydes with alcohols in the presence of dry HCl gas produces:",
+      "options": [
+        "Cyanohydrins",
+        "Acetals",
+        "Oximes",
+        "Hydrazones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aldehydes react with two equivalents of alcohol to form gem-dialkoxy compounds known as acetals.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q18",
+      "chapterId": "chem_ch12",
+      "question": "The Clemmensen reduction involves reducing a carbonyl group to a CH2 group using:",
+      "options": [
+        "Hydrazine and KOH",
+        "Zinc-amalgam and concentrated HCl",
+        "LiAlH4",
+        "NaBH4"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zinc-amalgam and conc. HCl are the reagents used in the Clemmensen reduction to produce alkanes from carbonyls.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q19",
+      "chapterId": "chem_ch12",
+      "question": "In the Wolff-Kishner reduction, the carbonyl compound is treated with ________ followed by heating with KOH in ethylene glycol.",
+      "options": [
+        "Hydroxylamine",
+        "Hydrazine",
+        "Semicarbazide",
+        "Phenylhydrazine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wolff-Kishner reduction uses hydrazine to convert >C=O to >CH2 via a hydrazone intermediate.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q20",
+      "chapterId": "chem_ch12",
+      "question": "Which of the following tests is used to distinguish aldehydes from ketones using an ammoniacal silver nitrate solution?",
+      "options": [
+        "Fehling's test",
+        "Tollens' test",
+        "Iodoform test",
+        "Lucas test"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aldehydes reduce Tollens' reagent (ammoniacal silver nitrate) to form a bright silver mirror.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q21",
+      "chapterId": "chem_ch12",
+      "question": "Fehling's reagent consists of Fehling solution A (aqueous copper sulphate) and Fehling solution B, which is:",
+      "options": [
+        "Ammoniacal silver nitrate",
+        "Alkaline sodium potassium tartrate (Rochelle salt)",
+        "Zinc-amalgam",
+        "Semicarbazide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fehling B is alkaline sodium potassium tartrate, used along with copper sulphate to test for aldehydes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q22",
+      "chapterId": "chem_ch12",
+      "question": "The iodoform test is positive for which type of carbonyl compounds?",
+      "options": [
+        "All aldehydes",
+        "All ketones",
+        "Aldehydes and ketones having at least one methyl group linked to the carbonyl carbon",
+        "Aromatic aldehydes only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Compounds with the methyl ketone structure (CH3CO-) react with iodine and base to give a positive iodoform test.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q23",
+      "chapterId": "chem_ch12",
+      "question": "The alpha-hydrogen of aldehydes and ketones is acidic because of:",
+      "options": [
+        "The strong electron-withdrawing effect of the carbonyl group",
+        "Resonance stabilization of the conjugate base (enolate ion)",
+        "Both A and B",
+        "The large size of the alkyl group"
+      ],
+      "correctIndex": 2,
+      "explanation": "The acidity is due to the electron-withdrawing nature of the carbonyl and the resonance stabilization of the resulting enolate ion.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q24",
+      "chapterId": "chem_ch12",
+      "question": "Aldehydes and ketones having at least one alpha-hydrogen undergo which reaction in the presence of dilute alkali?",
+      "options": [
+        "Cannizzaro reaction",
+        "Aldol condensation",
+        "Friedel-Crafts reaction",
+        "Rosenmund reduction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aldol condensation requires alpha-hydrogens and is catalyzed by dilute base to form beta-hydroxy aldehydes/ketones.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q25",
+      "chapterId": "chem_ch12",
+      "question": "Aldehydes which do not have an alpha-hydrogen atom (like formaldehyde and benzaldehyde) undergo self-oxidation and reduction in concentrated alkali. This is known as:",
+      "options": [
+        "Aldol condensation",
+        "Cannizzaro reaction",
+        "Cross aldol condensation",
+        "Iodoform reaction"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Cannizzaro reaction is a disproportionation reaction specifically for aldehydes lacking alpha-hydrogens.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q26",
+      "chapterId": "chem_ch12",
+      "question": "Which of the following is a use of Formaldehyde (Methanal)?",
+      "options": [
+        "As a flavouring agent",
+        "As a solvent",
+        "As formalin (40% solution) to preserve biological specimens",
+        "In making perfumes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Formalin is a 40% solution of formaldehyde widely used for the preservation of biological specimens.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q27",
+      "chapterId": "chem_ch12",
+      "question": "The IUPAC suffix for carboxylic acids is:",
+      "options": [
+        "-al",
+        "-one",
+        "-oic acid",
+        "-oate"
+      ],
+      "correctIndex": 2,
+      "explanation": "In IUPAC naming, carboxylic acids are identified by the suffix '-oic acid'.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q28",
+      "chapterId": "chem_ch12",
+      "question": "Carboxylic acids have higher boiling points than even alcohols of similar molecular mass because:",
+      "options": [
+        "They are more polar",
+        "They form stable cyclic dimers through hydrogen bonding",
+        "They have higher density",
+        "They are more acidic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Carboxylic acids form stable cyclic dimers via two hydrogen bonds, which significantly increases their boiling point.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q29",
+      "chapterId": "chem_ch12",
+      "question": "In the presence of a small amount of red phosphorus, aliphatic carboxylic acids react with chlorine or bromine to substitute an alpha-hydrogen. This is:",
+      "options": [
+        "Kolbe's electrolysis",
+        "Hell-Volhard-Zelinsky (HVZ) reaction",
+        "Cannizzaro reaction",
+        "Stephen reaction"
+      ],
+      "correctIndex": 1,
+      "explanation": "The HVZ reaction introduces a halogen at the alpha position of aliphatic carboxylic acids.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q30",
+      "chapterId": "chem_ch12",
+      "question": "The strength of a carboxylic acid is expressed by its pKa value. A smaller pKa value indicates:",
+      "options": [
+        "A weaker acid",
+        "A stronger acid",
+        "A neutral compound",
+        "A base"
+      ],
+      "correctIndex": 1,
+      "explanation": "Smaller pKa values correspond to higher acidity.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q31",
+      "chapterId": "chem_ch12",
+      "question": "Which of the following groups increases the acidity of carboxylic acids by stabilizing the carboxylate ion?",
+      "options": [
+        "-CH3 (Electron-donating group)",
+        "-NO2 (Electron-withdrawing group)",
+        "-OH",
+        "-OCH3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Electron-withdrawing groups (EWG) like -NO2 increase acidity by stabilizing the negative charge on the carboxylate ion.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q32",
+      "chapterId": "chem_ch12",
+      "question": "Which of the following is the strongest acid?",
+      "options": [
+        "Acetic acid",
+        "Trichloroacetic acid",
+        "Monochloroacetic acid",
+        "Dichloroacetic acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trichloroacetic acid is the strongest due to the inductive effect of three chlorine atoms.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q33",
+      "chapterId": "chem_ch12",
+      "question": "Carboxylic acids are reduced to primary alcohols using:",
+      "options": [
+        "NaBH4",
+        "LiAlH4",
+        "Tollen's reagent",
+        "Fehling's solution"
+      ],
+      "correctIndex": 1,
+      "explanation": "LiAlH4 is a strong reducing agent that can reduce carboxylic acids to primary alcohols.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q34",
+      "chapterId": "chem_ch12",
+      "question": "Decarboxylation of sodium salts of carboxylic acids to give alkanes is achieved by heating with:",
+      "options": [
+        "Soda lime (NaOH and CaO)",
+        "Dry ice",
+        "Zinc-amalgam",
+        "Red phosphorus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heating sodium salts of acids with soda lime removes CO2 to form an alkane.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q35",
+      "chapterId": "chem_ch12",
+      "question": "Benzaldehyde has a characteristic ________ smell.",
+      "options": [
+        "Fishy",
+        "Fruity",
+        "Bitter almond",
+        "Rotten egg"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benzaldehyde is known for its distinct bitter almond-like odor.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q36",
+      "chapterId": "chem_ch12",
+      "question": "Treatment of benzene with acetyl chloride in the presence of anhydrous AlCl3 gives:",
+      "options": [
+        "Benzaldehyde",
+        "Acetophenone",
+        "Toluene",
+        "Benzoic acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "This Friedel-Crafts acylation reaction results in the formation of acetophenone.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q37",
+      "chapterId": "chem_ch12",
+      "question": "Formaldehyde is a ________ at room temperature.",
+      "options": [
+        "Gas",
+        "Liquid",
+        "Solid",
+        "Plasma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Formaldehyde (methanal) exists as a gas at room temperature.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q38",
+      "chapterId": "chem_ch12",
+      "question": "Which of the following is commonly known as 'Acetone'?",
+      "options": [
+        "Ethanal",
+        "Propanal",
+        "Propanone",
+        "Butanone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Propanone is the IUPAC name for acetone, the simplest ketone.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q39",
+      "chapterId": "chem_ch12",
+      "question": "Carboxylic acids do not undergo which of the following reactions commonly seen in aldehydes and ketones?",
+      "options": [
+        "Oxidation",
+        "Nucleophilic addition to the carbonyl group",
+        "Reduction",
+        "Salt formation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because of resonance, the carbonyl carbon in carboxylic acids is less electrophilic than in aldehydes or ketones.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q40",
+      "chapterId": "chem_ch12",
+      "question": "In Aldol condensation, the product formed initially is a:",
+      "options": [
+        "beta-Hydroxy aldehyde",
+        "alpha-Hydroxy ketone",
+        "beta-Keto acid",
+        "gamma-Hydroxy acid"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aldol condensation yields a beta-hydroxy aldehyde, commonly called an aldol.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q41",
+      "chapterId": "chem_ch12",
+      "question": "Which reagent is used in the Etard reaction?",
+      "options": [
+        "SnCl2/HCl",
+        "CrO2Cl2",
+        "Pd/BaSO4",
+        "AlCl3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chromyl chloride (CrO2Cl2) is the specific reagent used in the Etard reaction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q42",
+      "chapterId": "chem_ch12",
+      "question": "Carboxylic acids react with ammonia to form ________ upon heating.",
+      "options": [
+        "Amines",
+        "Amides",
+        "Nitriles",
+        "Esters"
+      ],
+      "correctIndex": 1,
+      "explanation": "The reaction produces an ammonium salt that dehydrates to an amide upon heating.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q43",
+      "chapterId": "chem_ch12",
+      "question": "Aqueous solution of formaldehyde is used in industry for the preparation of:",
+      "options": [
+        "Nylon-6",
+        "Bakelite",
+        "Terylene",
+        "Buna-S"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formaldehyde is a key monomer used in the production of Bakelite.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q44",
+      "chapterId": "chem_ch12",
+      "question": "Vigorous oxidation of an alkene with KMnO4 can produce:",
+      "options": [
+        "Only alcohols",
+        "Carboxylic acids",
+        "Ethers",
+        "Nitriles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strong oxidation of alkenes results in cleavage to form carboxylic acids (or ketones).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q45",
+      "chapterId": "chem_ch12",
+      "question": "Carboxylic acids react with sodium bicarbonate to evolve which gas?",
+      "options": [
+        "O2",
+        "H2",
+        "CO2",
+        "N2"
+      ],
+      "correctIndex": 2,
+      "explanation": "The reaction between carboxylic acids and bicarbonates evolves CO2 gas.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q46",
+      "chapterId": "chem_ch12",
+      "question": "Nitriles are hydrolysed to ________ in the presence of H+ or OH-.",
+      "options": [
+        "Alcohols",
+        "Amides and then Carboxylic acids",
+        "Amines",
+        "Aldehydes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nitriles first hydrolyse to amides and then to carboxylic acids.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q47",
+      "chapterId": "chem_ch12",
+      "question": "Which of the following aromatic compounds is used in perfumery?",
+      "options": [
+        "Formaldehyde",
+        "Acetone",
+        "Benzaldehyde",
+        "Ethanoic acid"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benzaldehyde is commonly used in the perfume and flavouring industries.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q48",
+      "chapterId": "chem_ch12",
+      "question": "Heating carboxylic acids with P2O5 results in the formation of:",
+      "options": [
+        "Esters",
+        "Anhydrides",
+        "Acyl chlorides",
+        "Alcohols"
+      ],
+      "correctIndex": 1,
+      "explanation": "P2O5 acts as a dehydrating agent to convert carboxylic acids into acid anhydrides.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q49",
+      "chapterId": "chem_ch12",
+      "question": "Esters on hydrolysis with dilute mineral acids yield:",
+      "options": [
+        "Two alcohols",
+        "Two acids",
+        "A carboxylic acid and an alcohol",
+        "An aldehyde and a ketone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Acid-catalyzed hydrolysis of an ester produces its corresponding carboxylic acid and alcohol.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch12_q50",
+      "chapterId": "chem_ch12",
+      "question": "What is the common name of Benzenecarboxylic acid?",
+      "options": [
+        "Phenyl acid",
+        "Benzoic acid",
+        "Salicylic acid",
+        "Phthalic acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Benzoic acid is the universally recognized common name for benzenecarboxylic acid.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    }
+  ]
+}

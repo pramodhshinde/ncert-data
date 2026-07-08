@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch7_q1",
+      "chapterId": "math_ch7",
+      "question": "What is the process of finding the anti-derivative of a function called?",
+      "options": [
+        "Differentiation",
+        "Integration",
+        "Summation",
+        "Transformation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The process of finding anti-derivatives (or primitives) is called integration.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q2",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ f(x) dx is called an indefinite integral because:",
+      "options": [
+        "It has no unique value",
+        "It contains an arbitrary constant C",
+        "It is not defined for all x",
+        "It is used for calculating area only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anti-derivatives are not unique; they differ by a constant C, which represents a family of curves.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q3",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of xⁿ with respect to x (where n ≠ -1)?",
+      "options": [
+        "n xⁿ⁻¹ + C",
+        "(xⁿ⁺¹) / (n + 1) + C",
+        "xⁿ⁺¹ + C",
+        "n xⁿ⁺¹ + C"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard power rule for integration is ∫ xⁿ dx = (xⁿ⁺¹) / (n + 1) + C.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q4",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of (1/x) with respect to x?",
+      "options": [
+        "log|x| + C",
+        "-1/x² + C",
+        "eˣ + C",
+        "x + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since the derivative of log|x| is 1/x, the integral of 1/x is log|x| + C.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q5",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ cos x dx is equal to:",
+      "options": [
+        "sin x + C",
+        "-sin x + C",
+        "tan x + C",
+        "sec x + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "The anti-derivative of cos x is sin x.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q6",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ sin x dx is equal to:",
+      "options": [
+        "cos x + C",
+        "-cos x + C",
+        "-sin x + C",
+        "cosec x + C"
+      ],
+      "correctIndex": 1,
+      "explanation": "The anti-derivative of sin x is -cos x.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q7",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of sec² x dx?",
+      "options": [
+        "tan x + C",
+        "sec x + C",
+        "-tan x + C",
+        "cot x + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "The derivative of tan x is sec² x.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q8",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ cosec² x dx is:",
+      "options": [
+        "cot x + C",
+        "-cot x + C",
+        "tan x + C",
+        "-cosec x + C"
+      ],
+      "correctIndex": 1,
+      "explanation": "The derivative of -cot x is cosec² x.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q9",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of eˣ dx?",
+      "options": [
+        "eˣ + C",
+        "xeˣ + C",
+        "eˣ⁻¹ + C",
+        "log eˣ + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "The exponential function eˣ is its own anti-derivative.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q10",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ aˣ dx is equal to:",
+      "options": [
+        "aˣ + C",
+        "aˣ logₑ a + C",
+        "(aˣ) / (logₑ a) + C",
+        "x aˣ⁻¹ + C"
+      ],
+      "correctIndex": 2,
+      "explanation": "The derivative of (aˣ / log a) is aˣ.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q11",
+      "chapterId": "math_ch7",
+      "question": "Which mathematician is associated with the quote 'Just as a mountaineer climbs a mountain - because it is there...' in the introduction?",
+      "options": [
+        "Leibnitz",
+        "Newton",
+        "James B. Bristol",
+        "Euler"
+      ],
+      "correctIndex": 2,
+      "explanation": "The chapter opens with a quote from James B. Bristol.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q12",
+      "chapterId": "math_ch7",
+      "question": "Integral Calculus was primarily motivated by the problem of:",
+      "options": [
+        "Defining tangent lines",
+        "Calculating slope",
+        "Calculating the area of a region bounded by graphs",
+        "Finding limits"
+      ],
+      "correctIndex": 2,
+      "explanation": "Integral Calculus is motivated by defining and calculating area under curves.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q13",
+      "chapterId": "math_ch7",
+      "question": "The variable 'x' in ∫ f(x) dx is called the:",
+      "options": [
+        "Integrand",
+        "Variable of integration",
+        "Constant of integration",
+        "Derivative"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the notation ∫ f(x) dx, x is the variable of integration.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q14",
+      "chapterId": "math_ch7",
+      "question": "The function f(x) in ∫ f(x) dx is called the:",
+      "options": [
+        "Integral",
+        "Integrand",
+        "Differential",
+        "Anti-derivative"
+      ],
+      "correctIndex": 1,
+      "explanation": "The function to be integrated is called the integrand.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q15",
+      "chapterId": "math_ch7",
+      "question": "Which of the following is a property of indefinite integrals?",
+      "options": [
+        "∫ k f(x) dx = k ∫ f(x) dx",
+        "∫ [f(x) + g(x)] dx = ∫ f(x) dx + ∫ g(x) dx",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "correctIndex": 2,
+      "explanation": "Integration is a linear operator, meaning it satisfies both scalar multiplication and addition properties.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q16",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of sec x tan x dx?",
+      "options": [
+        "sec x + C",
+        "tan x + C",
+        "sec² x + C",
+        "cos x + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "The derivative of sec x is sec x tan x.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q17",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of cosec x cot x dx?",
+      "options": [
+        "cosec x + C",
+        "-cosec x + C",
+        "-cot x + C",
+        "sin x + C"
+      ],
+      "correctIndex": 1,
+      "explanation": "The derivative of -cosec x is cosec x cot x.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q18",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ dx / √(1 - x²) is equal to:",
+      "options": [
+        "sin⁻¹ x + C",
+        "cos⁻¹ x + C",
+        "tan⁻¹ x + C",
+        "-sin⁻¹ x + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is the standard integral for the inverse sine function.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q19",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ dx / (1 + x²) is equal to:",
+      "options": [
+        "tan⁻¹ x + C",
+        "cot⁻¹ x + C",
+        "sin⁻¹ x + C",
+        "sec⁻¹ x + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is the standard integral for the inverse tangent function.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q20",
+      "chapterId": "math_ch7",
+      "question": "Integration by 'Substitution' involves changing the variable x to t by setting:",
+      "options": [
+        "x = g(t)",
+        "dx = dt",
+        "f(x) = t",
+        "x = t²"
+      ],
+      "correctIndex": 0,
+      "explanation": "Method of substitution transforms the integral into a simpler form by replacing x with a function of t.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q21",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of tan x dx?",
+      "options": [
+        "log |sec x| + C",
+        "log |cos x| + C",
+        "sec² x + C",
+        "tan² x + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "∫ tan x dx = log |sec x| + C.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q22",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of cot x dx?",
+      "options": [
+        "log |sin x| + C",
+        "log |cos x| + C",
+        "-cosec² x + C",
+        "log |tan x| + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "∫ cot x dx = log |sin x| + C.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q23",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ sec x dx is:",
+      "options": [
+        "log |sec x + tan x| + C",
+        "log |sec x - tan x| + C",
+        "tan x + C",
+        "log |cos x| + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a standard substitution integral result.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q24",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ cosec x dx is:",
+      "options": [
+        "log |cosec x - cot x| + C",
+        "log |cosec x + cot x| + C",
+        "-cot x + C",
+        "log |sin x| + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard result for cosecant integration.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q25",
+      "chapterId": "math_ch7",
+      "question": "The method of 'Integration by Parts' is used for the integral of:",
+      "options": [
+        "Sum of functions",
+        "Product of two functions",
+        "Quotient of functions",
+        "Composite functions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Integration by parts is used when the integrand is a product of two functions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q26",
+      "chapterId": "math_ch7",
+      "question": "In integration by parts, ∫ u v dx =:",
+      "options": [
+        "u ∫ v dx - ∫ [u' ∫ v dx] dx",
+        "u v - ∫ u' v' dx",
+        "∫ u dx * ∫ v dx",
+        "u' v + u v'"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is the standard formula for integration by parts.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q27",
+      "chapterId": "math_ch7",
+      "question": "The rule used to choose the first function 'u' in integration by parts is often:",
+      "options": [
+        "LIATE",
+        "BODMAS",
+        "CHAIN",
+        "PRODUCT"
+      ],
+      "correctIndex": 0,
+      "explanation": "LIATE stands for Logarithmic, Inverse trigonometric, Algebraic, Trigonometric, Exponential.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q28",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of log x dx?",
+      "options": [
+        "x log x - x + C",
+        "1/x + C",
+        "x log x + C",
+        "log x / x + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Found using integration by parts with 1 as the second function.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q29",
+      "chapterId": "math_ch7",
+      "question": "The integral ∫ eˣ [f(x) + f'(x)] dx is equal to:",
+      "options": [
+        "eˣ f(x) + C",
+        "eˣ f'(x) + C",
+        "eˣ + f(x) + C",
+        "f(x) / eˣ + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a special integral form often used in problems.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q30",
+      "chapterId": "math_ch7",
+      "question": "The Fundamental Theorem of Integral Calculus relates integration to:",
+      "options": [
+        "Differentiation",
+        "Geometry",
+        "Algebra",
+        "Trigonometry"
+      ],
+      "correctIndex": 0,
+      "explanation": "It links the concept of finding anti-derivatives with finding area.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q31",
+      "chapterId": "math_ch7",
+      "question": "If A(x) is the area function, the First Fundamental Theorem states A'(x) = :",
+      "options": [
+        "f(x)",
+        "F(x)",
+        "∫ f(x) dx",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "The derivative of the area function is the function itself.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q32",
+      "chapterId": "math_ch7",
+      "question": "The Second Fundamental Theorem states ∫ₐᵇ f(x) dx =:",
+      "options": [
+        "F(b) - F(a)",
+        "F(a) - F(b)",
+        "F(b) + F(a)",
+        "f(b) - f(a)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Where F is the anti-derivative of f.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q33",
+      "chapterId": "math_ch7",
+      "question": "In a definite integral ∫ₐᵇ f(x) dx, 'a' and 'b' are called:",
+      "options": [
+        "Coordinates",
+        "Limits of integration",
+        "Variables",
+        "Constants of integration"
+      ],
+      "correctIndex": 1,
+      "explanation": "a is the lower limit and b is the upper limit.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q34",
+      "chapterId": "math_ch7",
+      "question": "Does a definite integral depend on the variable of integration (e.g., x vs t)?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if it is periodic",
+        "Only for polynomials"
+      ],
+      "correctIndex": 1,
+      "explanation": "∫ₐᵇ f(x) dx = ∫ₐᵇ f(t) dt. The variable is a 'dummy' variable.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q35",
+      "chapterId": "math_ch7",
+      "question": "What is the property of ∫ₐᵇ f(x) dx if we interchange the limits (∫_b^a)?",
+      "options": [
+        "It becomes negative",
+        "It remains the same",
+        "It becomes zero",
+        "It is undefined"
+      ],
+      "correctIndex": 0,
+      "explanation": "∫ₐᵇ f(x) dx = - ∫_b^a f(x) dx.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q36",
+      "chapterId": "math_ch7",
+      "question": "The property ∫ₐᵇ f(x) dx = ∫ₐᶜ f(x) dx + ∫_c^b f(x) dx is valid for:",
+      "options": [
+        "Any c",
+        "Only if a < c < b",
+        "Only if c = 0",
+        "Only for continuous functions"
+      ],
+      "correctIndex": 0,
+      "explanation": "This property allows breaking the interval of integration at any point c.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q37",
+      "chapterId": "math_ch7",
+      "question": "If f(x) is an odd function (f(-x) = -f(x)), then ∫₋ₐᵃ f(x) dx is:",
+      "options": [
+        "0",
+        "2 ∫₀ᵃ f(x) dx",
+        "a",
+        "2a"
+      ],
+      "correctIndex": 0,
+      "explanation": "For odd functions, the areas on either side of the y-axis cancel out.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q38",
+      "chapterId": "math_ch7",
+      "question": "If f(x) is an even function (f(-x) = f(x)), then ∫₋ₐᵃ f(x) dx is:",
+      "options": [
+        "0",
+        "2 ∫₀ᵃ f(x) dx",
+        "∫₀ᵃ f(x) dx",
+        "a²"
+      ],
+      "correctIndex": 1,
+      "explanation": "For even functions, the area is doubled.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q39",
+      "chapterId": "math_ch7",
+      "question": "The definite integral ∫ₐᵇ f(x) dx can be interpreted as the ________ sum of areas of rectangles.",
+      "options": [
+        "Infinite",
+        "Limit of a sum",
+        "Constant",
+        "Arithmetic"
+      ],
+      "correctIndex": 1,
+      "explanation": "A definite integral is defined as the limit of a sum of areas of rectangles as their width approaches zero.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q40",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of dx / (x² - a²)?",
+      "options": [
+        "(1/2a) log |(x-a)/(x+a)| + C",
+        "(1/2a) log |(x+a)/(x-a)| + C",
+        "(1/a) tan⁻¹ (x/a) + C",
+        "sin⁻¹ (x/a) + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard integral formula for algebraic fractions.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q41",
+      "chapterId": "math_ch7",
+      "question": "What is the integral of dx / (a² - x²)?",
+      "options": [
+        "(1/2a) log |(a+x)/(a-x)| + C",
+        "(1/2a) log |(a-x)/(a+x)| + C",
+        "(1/a) tan⁻¹ (x/a) + C",
+        "sin⁻¹ (x/a) + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard integral formula for algebraic fractions with negative x².",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q42",
+      "chapterId": "math_ch7",
+      "question": "The integral of dx / (x² + a²) is:",
+      "options": [
+        "(1/a) tan⁻¹ (x/a) + C",
+        "tan⁻¹ (x/a) + C",
+        "log |x² + a²| + C",
+        "sin⁻¹ (x/a) + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Generalization of the inverse tangent integral.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q43",
+      "chapterId": "math_ch7",
+      "question": "The integral of dx / √(x² - a²) is:",
+      "options": [
+        "log |x + √(x² - a²)| + C",
+        "log |x - √(x² - a²)| + C",
+        "sec⁻¹ (x/a) + C",
+        "sin⁻¹ (x/a) + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard formula involving logarithmic functions for square roots.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q44",
+      "chapterId": "math_ch7",
+      "question": "The integral of dx / √(x² + a²) is:",
+      "options": [
+        "log |x + √(x² + a²)| + C",
+        "log |x - √(x² + a²)| + C",
+        "tan⁻¹ (x/a) + C",
+        "sin⁻¹ (x/a) + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard result for integration of radical algebraic functions.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q45",
+      "chapterId": "math_ch7",
+      "question": "Integration of rational functions can often be done by decomposing the integrand into:",
+      "options": [
+        "Partial fractions",
+        "Complex numbers",
+        "Trigonometric series",
+        "Powers of e"
+      ],
+      "correctIndex": 0,
+      "explanation": "Method of partial fractions simplifies rational functions into integrable parts.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q46",
+      "chapterId": "math_ch7",
+      "question": "What is the anti-derivative of √x + 1/√x?",
+      "options": [
+        "(2/3)x³/² + 2x¹/² + C",
+        "x³/² + x¹/² + C",
+        "2/3 x¹/² + 1/2 x³/² + C",
+        "3/2 x³/² + 1/2 x¹/² + C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Integrating each term using the power rule.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q47",
+      "chapterId": "math_ch7",
+      "question": "The expression f(x) dx is called a ________.",
+      "options": [
+        "Differential",
+        "Derivative",
+        "Integral",
+        "Product"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term dx represents an infinitesimal change in x.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q48",
+      "chapterId": "math_ch7",
+      "question": "Is the constant of integration 'C' present in definite integrals?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if limits are zero",
+        "Only if it is a polynomial"
+      ],
+      "correctIndex": 1,
+      "explanation": "In definite integrals, F(b) - F(a) causes the constant C to cancel out.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q49",
+      "chapterId": "math_ch7",
+      "question": "Which mathematician lived from 1646-1716 and contributed significantly to integration?",
+      "options": [
+        "Newton",
+        "Leibnitz",
+        "Cauchy",
+        "Riemann"
+      ],
+      "correctIndex": 1,
+      "explanation": "G.W. Leibnitz is credited with significant early development of Calculus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch7_q50",
+      "chapterId": "math_ch7",
+      "question": "What is the value of ∫₀¹ dx / (1 + x²)?",
+      "options": [
+        "π/4",
+        "π/2",
+        "1",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "[tan⁻¹ x]₀¹ = tan⁻¹(1) - tan⁻¹(0) = π/4.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    }
+  ]
+}

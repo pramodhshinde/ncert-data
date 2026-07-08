@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch1_q1",
+      "chapterId": "chem_ch1",
+      "question": "What is the primary characteristic of a homogeneous mixture known as a solution?",
+      "options": [
+        "Variable composition throughout",
+        "Uniform composition and properties throughout",
+        "Visible boundaries between components",
+        "Contains only one pure substance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Solutions are homogeneous mixtures of two or more components with uniform composition and properties throughout.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q2",
+      "chapterId": "chem_ch1",
+      "question": "A solution containing only two components is known as a:",
+      "options": [
+        "Ternary solution",
+        "Binary solution",
+        "Quaternary solution",
+        "Primary solution"
+      ],
+      "correctIndex": 1,
+      "explanation": "Solutions containing two components are called binary solutions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q3",
+      "chapterId": "chem_ch1",
+      "question": "In a solution, the component that is present in the largest quantity is called the:",
+      "options": [
+        "Solute",
+        "Solvent",
+        "Precipitate",
+        "Analyte"
+      ],
+      "correctIndex": 1,
+      "explanation": "The component present in the largest quantity is known as the solvent.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q4",
+      "chapterId": "chem_ch1",
+      "question": "Brass is an example of which type of solution?",
+      "options": [
+        "Gaseous solution",
+        "Liquid solution",
+        "Solid solution",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brass is a mixture of copper and zinc, which is a solid-solid solution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q5",
+      "chapterId": "chem_ch1",
+      "question": "At what concentration do fluoride ions in water prevent tooth decay?",
+      "options": [
+        "1 ppm",
+        "1.5 ppm",
+        "10 ppm",
+        "100 ppm"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 part per million (ppm) of fluoride ions in water prevents tooth decay.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q6",
+      "chapterId": "chem_ch1",
+      "question": "Which of the following units is used to express the concentration of fluoride ions in rat poison?",
+      "options": [
+        "Molarity",
+        "Molality",
+        "Parts per million (ppm)",
+        "Mole fraction"
+      ],
+      "correctIndex": 2,
+      "explanation": "High concentrations of fluoride ions, measured in ppm, are poisonous; sodium fluoride is used in rat poison.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q7",
+      "chapterId": "chem_ch1",
+      "question": "What happens to the teeth if the concentration of fluoride ions in water is 1.5 ppm?",
+      "options": [
+        "They become stronger",
+        "They fall out",
+        "They become mottled",
+        "No effect"
+      ],
+      "correctIndex": 2,
+      "explanation": "1.5 ppm of fluoride ions causes the teeth to become mottled.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q8",
+      "chapterId": "chem_ch1",
+      "question": "Mass percentage (w/w) is defined as:",
+      "options": [
+        "Mass of component / Total mass of solution",
+        "(Mass of component / Total mass of solution) x 100",
+        "Volume of component / Total volume of solution",
+        "Mass of solute / Volume of solvent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mass percentage is the mass of the component in the solution divided by the total mass of the solution, multiplied by 100.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q9",
+      "chapterId": "chem_ch1",
+      "question": "Which concentration unit is commonly used for medicines and pharmacy to express solid-in-liquid solutions?",
+      "options": [
+        "Volume percentage (v/v)",
+        "Mass percentage (w/w)",
+        "Mass by volume percentage (w/V)",
+        "Mole fraction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mass by volume percentage is commonly used in medicine and pharmacy.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q10",
+      "chapterId": "chem_ch1",
+      "question": "Mole fraction of a component is calculated as:",
+      "options": [
+        "Moles of component / Total moles of all components",
+        "Mass of component / Total mass",
+        "Moles of solute / Liters of solution",
+        "Moles of solute / kg of solvent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mole fraction is the number of moles of the component divided by the total number of moles of all components.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q11",
+      "chapterId": "chem_ch1",
+      "question": "The sum of all mole fractions in a solution is always equal to:",
+      "options": [
+        "0",
+        "1",
+        "100",
+        "Varies with temperature"
+      ],
+      "correctIndex": 1,
+      "explanation": "In any given solution, the sum of all the mole fractions is unity (1).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q12",
+      "chapterId": "chem_ch1",
+      "question": "Molarity (M) is defined as the number of moles of solute dissolved in:",
+      "options": [
+        "1 kg of solvent",
+        "1 liter of solution",
+        "100 g of solution",
+        "1 mole of solvent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Molarity is the number of moles of solute per liter of solution.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q13",
+      "chapterId": "chem_ch1",
+      "question": "Molality (m) is defined as the number of moles of solute per:",
+      "options": [
+        "kg of solution",
+        "kg of solvent",
+        "Liter of solution",
+        "Liter of solvent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Molality is the number of moles of solute per kilogram (kg) of the solvent.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q14",
+      "chapterId": "chem_ch1",
+      "question": "Which of the following concentration units is NOT affected by temperature?",
+      "options": [
+        "Molarity",
+        "Mass by volume percentage",
+        "Molality",
+        "Normality"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mass %, mole fraction, and molality are independent of temperature, whereas molarity is a function of temperature because volume depends on temperature.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q15",
+      "chapterId": "chem_ch1",
+      "question": "When a solid solute dissolves in a solvent, the process where solute particles collide with solid solute and get separated is called:",
+      "options": [
+        "Dissolution",
+        "Crystallisation",
+        "Saturation",
+        "Precipitation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Crystallisation occurs when some solute particles in solution collide with the solid solute particles and get separated out of solution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q16",
+      "chapterId": "chem_ch1",
+      "question": "A solution in which no more solute can be dissolved at the same temperature and pressure is called a:",
+      "options": [
+        "Supersaturated solution",
+        "Unsaturated solution",
+        "Saturated solution",
+        "Dilute solution"
+      ],
+      "correctIndex": 2,
+      "explanation": "A saturated solution is one in which no more solute can be dissolved at the same temperature and pressure.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q17",
+      "chapterId": "chem_ch1",
+      "question": "In an endothermic dissolution process (ΔsolH > 0), the solubility ________ with an increase in temperature.",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Remains constant",
+        "First increases then decreases"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to Le Chatelier’s Principle, for an endothermic process, the solubility should increase with rising temperature.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q18",
+      "chapterId": "chem_ch1",
+      "question": "What is the effect of pressure on the solubility of solids in liquids?",
+      "options": [
+        "Significant increase",
+        "Significant decrease",
+        "No significant effect",
+        "Increases then decreases"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pressure does not have any significant effect on the solubility of solids in liquids because solids and liquids are highly incompressible.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q19",
+      "chapterId": "chem_ch1",
+      "question": "Henry's Law states that at a constant temperature, the solubility of a gas in a liquid is directly proportional to the:",
+      "options": [
+        "Temperature of the gas",
+        "Partial pressure of the gas above the liquid",
+        "Volume of the liquid",
+        "Molar mass of the gas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Henry’s law states that the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas present above the surface of liquid or solution.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q20",
+      "chapterId": "chem_ch1",
+      "question": "In the Henry's Law equation p = KH x, what does KH stand for?",
+      "options": [
+        "Equilibrium constant",
+        "Henry's Law constant",
+        "Partial pressure",
+        "Mole fraction"
+      ],
+      "correctIndex": 1,
+      "explanation": "KH is the Henry’s law constant.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q21",
+      "chapterId": "chem_ch1",
+      "question": "Higher the value of Henry's Law constant (KH) at a given pressure, the ________ is the solubility of the gas in the liquid.",
+      "options": [
+        "Higher",
+        "Lower",
+        "Same",
+        "Unpredictable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Higher the value of KH at a given pressure, the lower is the solubility of the gas in the liquid.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q22",
+      "chapterId": "chem_ch1",
+      "question": "Why are aquatic species more comfortable in cold waters than in warm waters?",
+      "options": [
+        "They like low temperatures",
+        "Solubility of oxygen is higher at lower temperatures",
+        "Less predators in cold water",
+        "Salinity is lower in cold water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Solubility of gases (like oxygen) increases with a decrease in temperature, making cold water richer in dissolved oxygen.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q23",
+      "chapterId": "chem_ch1",
+      "question": "To increase the solubility of CO2 in soft drinks, the bottle is sealed under:",
+      "options": [
+        "Low pressure",
+        "High pressure",
+        "Low temperature only",
+        "Vacuum"
+      ],
+      "correctIndex": 1,
+      "explanation": "To increase the solubility of CO2 in soft drinks and soda water, the bottle is sealed under high pressure.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q24",
+      "chapterId": "chem_ch1",
+      "question": "Scuba divers use tanks filled with air diluted with Helium to avoid a painful medical condition called:",
+      "options": [
+        "Anoxia",
+        "Bends",
+        "Hypertension",
+        "Asphyxiation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bends are caused by nitrogen bubbles in the blood when pressure decreases; diluting air with Helium helps prevent this.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q25",
+      "chapterId": "chem_ch1",
+      "question": "At high altitudes, low blood oxygen causes climbers to become weak and unable to think clearly, a condition known as:",
+      "options": [
+        "Bends",
+        "Anoxia",
+        "Decompression sickness",
+        "Altitude flu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Low blood oxygen at high altitudes causes anoxia.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q26",
+      "chapterId": "chem_ch1",
+      "question": "Raoult's Law for a solution of volatile liquids states that the partial vapour pressure of each component is directly proportional to its:",
+      "options": [
+        "Molar mass",
+        "Mole fraction",
+        "Volume",
+        "Density"
+      ],
+      "correctIndex": 1,
+      "explanation": "Raoult's law states that the partial vapour pressure of each component of the solution is directly proportional to its mole fraction present in solution.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q27",
+      "chapterId": "chem_ch1",
+      "question": "According to Raoult's Law, the total vapour pressure (Ptotal) of a binary solution is given by:",
+      "options": [
+        "p1 + p2",
+        "p1 - p2",
+        "p1 x p2",
+        "p1/p2"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to Dalton’s law of partial pressures, Ptotal = p1 + p2.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q28",
+      "chapterId": "chem_ch1",
+      "question": "If the vapour pressure of a solution is plotted against the mole fraction of a component, for an ideal solution, the plot is:",
+      "options": [
+        "Parabolic",
+        "Linear",
+        "Exponential",
+        "A horizontal line"
+      ],
+      "correctIndex": 1,
+      "explanation": "The linear plot of vapour pressure versus mole fraction indicates an ideal solution obeying Raoult's law.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q29",
+      "chapterId": "chem_ch1",
+      "question": "An ideal solution is one which obeys Raoult's law over the entire range of concentration and has:",
+      "options": [
+        "ΔmixH = 0 and ΔmixV = 0",
+        "ΔmixH > 0 and ΔmixV > 0",
+        "ΔmixH < 0 and ΔmixV < 0",
+        "No heat change but volume changes"
+      ],
+      "correctIndex": 0,
+      "explanation": "For ideal solutions, the enthalpy of mixing and the volume of mixing are both zero.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q30",
+      "chapterId": "chem_ch1",
+      "question": "Which of the following mixtures is nearly ideal?",
+      "options": [
+        "Phenol + Aniline",
+        "n-Hexane + n-Heptane",
+        "Ethanol + Acetone",
+        "Chloroform + Acetone"
+      ],
+      "correctIndex": 1,
+      "explanation": "n-Hexane and n-Heptane form a nearly ideal solution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q31",
+      "chapterId": "chem_ch1",
+      "question": "In a non-ideal solution showing positive deviation, the A-B interactions are ________ than A-A or B-B interactions.",
+      "options": [
+        "Stronger",
+        "Weaker",
+        "Equivalent",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "In positive deviation, intermolecular attractive forces between solute-solvent (A-B) are weaker than those between A-A and B-B.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q32",
+      "chapterId": "chem_ch1",
+      "question": "A mixture of Chloroform and Acetone shows ________ deviation from Raoult's law.",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Ideal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chloroform and acetone show negative deviation because of hydrogen bonding between them.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q33",
+      "chapterId": "chem_ch1",
+      "question": "Azeotropes are binary mixtures that:",
+      "options": [
+        "Have different compositions in liquid and vapour phase",
+        "Boil at a constant temperature",
+        "Can be separated by fractional distillation",
+        "Obey Raoult's law"
+      ],
+      "correctIndex": 1,
+      "explanation": "Azeotropes are binary mixtures having the same composition in liquid and vapour phase and boil at a constant temperature.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q34",
+      "chapterId": "chem_ch1",
+      "question": "Colligative properties depend only on the ________ and not on the nature of the solute.",
+      "options": [
+        "Molar mass of solute",
+        "Number of solute particles",
+        "Chemical properties of solute",
+        "Volume of solvent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Colligative properties depend on the number of solute particles irrespective of their nature relative to the total number of particles in the solution.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q35",
+      "chapterId": "chem_ch1",
+      "question": "Which of the following is NOT a colligative property?",
+      "options": [
+        "Relative lowering of vapour pressure",
+        "Elevation of boiling point",
+        "Vapour pressure of the solvent",
+        "Osmotic pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Colligative properties include relative lowering of vapour pressure, elevation of boiling point, depression of freezing point, and osmotic pressure.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q36",
+      "chapterId": "chem_ch1",
+      "question": "Elevation of boiling point (ΔTb) is proportional to the ________ of the solution.",
+      "options": [
+        "Molarity",
+        "Molality",
+        "Mole fraction",
+        "Mass percentage"
+      ],
+      "correctIndex": 1,
+      "explanation": "For dilute solutions, the elevation of boiling point (ΔTb) is directly proportional to the molal concentration (molality) of the solute.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q37",
+      "chapterId": "chem_ch1",
+      "question": "The constant Kb in ΔTb = Kb m is called:",
+      "options": [
+        "Freezing point depression constant",
+        "Ebullioscopic constant",
+        "Gas constant",
+        "Henry's constant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kb is known as the Boiling Point Elevation Constant or Ebullioscopic Constant.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q38",
+      "chapterId": "chem_ch1",
+      "question": "Depression of freezing point (ΔTf) occurs when a ________ solute is added to a solvent.",
+      "options": [
+        "Volatile",
+        "Non-volatile",
+        "Gaseous",
+        "Liquid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Freezing point depression occurs upon addition of a non-volatile solute to a solvent.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q39",
+      "chapterId": "chem_ch1",
+      "question": "The unit of molal elevation constant (Kb) and molal depression constant (Kf) is:",
+      "options": [
+        "K kg mol⁻¹",
+        "mol kg⁻¹",
+        "K mol⁻¹",
+        "kg mol⁻¹"
+      ],
+      "correctIndex": 0,
+      "explanation": "The unit of Kb and Kf is K kg mol⁻¹.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q40",
+      "chapterId": "chem_ch1",
+      "question": "The spontaneous flow of solvent molecules through a semi-permeable membrane from pure solvent to solution is called:",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Effusion",
+        "Transpiration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Osmosis is the process of flow of the solvent through a semi-permeable membrane from pure solvent to the solution.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q41",
+      "chapterId": "chem_ch1",
+      "question": "The excess pressure that must be applied to a solution to prevent osmosis is called:",
+      "options": [
+        "Vapour pressure",
+        "Partial pressure",
+        "Osmotic pressure",
+        "Atmospheric pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Osmotic pressure is the excess pressure that must be applied to a solution side to prevent osmosis.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q42",
+      "chapterId": "chem_ch1",
+      "question": "Which of the following is used to determine the molar mass of polymers and proteins?",
+      "options": [
+        "Elevation of boiling point",
+        "Osmotic pressure",
+        "Depression of freezing point",
+        "Relative lowering of vapour pressure"
+      ],
+      "correctIndex": 1,
+      "explanation": "The osmotic pressure method is widely used to determine molar masses of proteins, polymers, and other macromolecules because it can be measured at room temperature.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q43",
+      "chapterId": "chem_ch1",
+      "question": "Two solutions having the same osmotic pressure at a given temperature are called:",
+      "options": [
+        "Hypotonic solutions",
+        "Hypertonic solutions",
+        "Isotonic solutions",
+        "Ideal solutions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Two solutions having same osmotic pressure at a given temperature are called isotonic solutions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q44",
+      "chapterId": "chem_ch1",
+      "question": "A salt solution with concentration more than 0.9% (mass/volume) is ________ to human blood cells.",
+      "options": [
+        "Isotonic",
+        "Hypotonic",
+        "Hypertonic",
+        "None of these"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the salt concentration is more than 0.9% (mass/volume), it is hypertonic, and blood cells will shrink.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q45",
+      "chapterId": "chem_ch1",
+      "question": "The process of moving solvent from solution to pure solvent by applying pressure larger than osmotic pressure is:",
+      "options": [
+        "Osmosis",
+        "Reverse osmosis",
+        "Dialysis",
+        "Electro-osmosis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reverse osmosis occurs when pressure larger than osmotic pressure is applied to the solution side, forcing solvent to pass through the membrane to the pure solvent side.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q46",
+      "chapterId": "chem_ch1",
+      "question": "Reverse osmosis is widely used for:",
+      "options": [
+        "Purifying blood",
+        "Desalination of sea water",
+        "Determining molar mass",
+        "Sterilizing equipment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reverse osmosis is used for the desalination of sea water to obtain fresh water.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q47",
+      "chapterId": "chem_ch1",
+      "question": "The van't Hoff factor (i) for a solute that undergoes association in a solvent is:",
+      "options": [
+        "i = 1",
+        "i > 1",
+        "i < 1",
+        "i = 0"
+      ],
+      "correctIndex": 2,
+      "explanation": "In case of association, the number of particles decreases, so the van't Hoff factor 'i' is less than unity (< 1).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q48",
+      "chapterId": "chem_ch1",
+      "question": "What is the van't Hoff factor (i) for KCl in aqueous solution, assuming complete dissociation?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0.5"
+      ],
+      "correctIndex": 1,
+      "explanation": "KCl dissociates into K+ and Cl- ions (2 particles), so i = 2 for complete dissociation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q49",
+      "chapterId": "chem_ch1",
+      "question": "Abnormal molar mass is observed when the solute:",
+      "options": [
+        "Is non-volatile",
+        "Undergoes association or dissociation",
+        "Is in an ideal solution",
+        "Is a liquid at room temperature"
+      ],
+      "correctIndex": 1,
+      "explanation": "Molar mass determined by colligative properties is abnormal if the solute molecules associate or dissociate in the solution.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch1_q50",
+      "chapterId": "chem_ch1",
+      "question": "The relationship between van't Hoff factor and colligative property (CP) is:",
+      "options": [
+        "i = Observed CP / Calculated CP",
+        "i = Calculated CP / Observed CP",
+        "i = Observed CP x Calculated CP",
+        "i = Observed CP + Calculated CP"
+      ],
+      "correctIndex": 0,
+      "explanation": "The van't Hoff factor 'i' is the ratio of the observed value of the colligative property to the calculated value.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    }
+  ]
+}

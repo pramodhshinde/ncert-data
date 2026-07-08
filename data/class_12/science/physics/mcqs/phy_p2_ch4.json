@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_phy_ch12_q1",
+      "chapterId": "phy_ch12",
+      "question": "Which model was the first to propose that atoms are positive spheres with embedded electrons?",
+      "options": [
+        "Rutherford model",
+        "Bohr model",
+        "Thomson model",
+        "Quantum model"
+      ],
+      "correctIndex": 2,
+      "explanation": "J.J. Thomson proposed the 'plum pudding' model where the atom is a sphere of positive electrification with electrons embedded like seeds in a watermelon.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q2",
+      "chapterId": "phy_ch12",
+      "question": "In the Geiger-Marsden experiment, alpha particles were bombarded onto a thin foil made of:",
+      "options": [
+        "Silver",
+        "Platinum",
+        "Gold",
+        "Aluminum"
+      ],
+      "correctIndex": 2,
+      "explanation": "The experiment involved directed beams of 5.5 MeV alpha particles at a thin gold foil.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q3",
+      "chapterId": "phy_ch12",
+      "question": "What percentage of alpha particles were scattered by more than 1° in the gold foil experiment?",
+      "options": [
+        "99%",
+        "10%",
+        "About 0.14%",
+        "1%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Observations showed that about 0.14% of the incident alpha particles scattered by more than 1°.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q4",
+      "chapterId": "phy_ch12",
+      "question": "The scattering of alpha particles is explained by the ________ force between the nucleus and the alpha particle.",
+      "options": [
+        "Gravitational",
+        "Magnetic",
+        "Coulomb",
+        "Nuclear"
+      ],
+      "correctIndex": 2,
+      "explanation": "Scattering is due to the Coulomb force of repulsion between the positive charge of the nucleus and the alpha particle.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q5",
+      "chapterId": "phy_ch12",
+      "question": "The perpendicular distance of the initial velocity vector of an alpha particle from the center of the nucleus is called the:",
+      "options": [
+        "Radius of curvature",
+        "Impact parameter",
+        "Trajectory height",
+        "Displacement"
+      ],
+      "correctIndex": 1,
+      "explanation": "The impact parameter 'b' is the perpendicular distance of the initial velocity vector from the center of the nucleus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q6",
+      "chapterId": "phy_ch12",
+      "question": "A small impact parameter results in a ________ scattering angle.",
+      "options": [
+        "Large",
+        "Small",
+        "Zero",
+        "Constant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Particles with small impact parameters suffer large scattering angles because they pass close to the nucleus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q7",
+      "chapterId": "phy_ch12",
+      "question": "Rutherford's model proposed that the entire positive charge and most of the mass are concentrated in the:",
+      "options": [
+        "Electrons",
+        "Orbits",
+        "Nucleus",
+        "Shells"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rutherford concluded that the mass and positive charge are concentrated in a tiny central region called the nucleus.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q8",
+      "chapterId": "phy_ch12",
+      "question": "The size of the nucleus is approximately ________ times smaller than the size of the atom.",
+      "options": [
+        "10",
+        "100",
+        "1,000",
+        "10,000 to 100,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "The nucleus is about 10⁻¹⁵ to 10⁻¹⁴ m, while the atom is 10⁻¹⁰ m.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q9",
+      "chapterId": "phy_ch12",
+      "question": "According to the Rutherford model, what provides the centripetal force for orbiting electrons?",
+      "options": [
+        "Magnetic force",
+        "Gravitational force",
+        "Electrostatic Coulomb force",
+        "Nuclear force"
+      ],
+      "correctIndex": 2,
+      "explanation": "The electrostatic force of attraction between the nucleus and electrons provides the centripetal force.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q10",
+      "chapterId": "phy_ch12",
+      "question": "A major drawback of the Rutherford model was its inability to explain:",
+      "options": [
+        "Atomic mass",
+        "Number of electrons",
+        "Stability of the atom",
+        "The presence of neutrons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Classically, an accelerating electron should radiate energy and spiral into the nucleus, making the atom unstable.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q11",
+      "chapterId": "phy_ch12",
+      "question": "Which series of the hydrogen spectrum lies in the visible region?",
+      "options": [
+        "Lyman",
+        "Balmer",
+        "Paschen",
+        "Pfund"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Balmer series consists of lines in the visible part of the hydrogen spectrum.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q12",
+      "chapterId": "phy_ch12",
+      "question": "The Lyman series of hydrogen lines are found in the ________ region.",
+      "options": [
+        "Infrared",
+        "Visible",
+        "Ultraviolet",
+        "X-ray"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Lyman series is in the ultraviolet region.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q13",
+      "chapterId": "phy_ch12",
+      "question": "What is the value of the Rydberg constant (R) approximately?",
+      "options": [
+        "1.097 × 10⁷ m⁻¹",
+        "6.63 × 10⁻³⁴ m⁻¹",
+        "9 × 10⁹ m⁻¹",
+        "3 × 10⁸ m⁻¹"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Rydberg constant R is 1.097 × 10⁷ m⁻¹.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q14",
+      "chapterId": "phy_ch12",
+      "question": "Bohr's first postulate states that electrons revolve in ________ orbits without radiating energy.",
+      "options": [
+        "Elliptical",
+        "Stable/Stationary",
+        "Random",
+        "Decaying"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bohr's first postulate states that an electron can revolve in certain stable orbits without emission of radiant energy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q15",
+      "chapterId": "phy_ch12",
+      "question": "Bohr's quantization rule states that the angular momentum of an electron is an integral multiple of:",
+      "options": [
+        "h",
+        "h/π",
+        "h/2π",
+        "2πh"
+      ],
+      "correctIndex": 2,
+      "explanation": "The angular momentum L is n(h/2π).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q16",
+      "chapterId": "phy_ch12",
+      "question": "The energy of an electron in the nth orbit of a hydrogen atom is proportional to:",
+      "options": [
+        "n",
+        "n²",
+        "1/n",
+        "1/n²"
+      ],
+      "correctIndex": 3,
+      "explanation": "The energy En is given by -13.6/n² eV.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q17",
+      "chapterId": "phy_ch12",
+      "question": "What is the energy of a hydrogen atom in its ground state (n=1)?",
+      "options": [
+        "0 eV",
+        "13.6 eV",
+        "-13.6 eV",
+        "-3.4 eV"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ground state energy is –13.6 eV.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q18",
+      "chapterId": "phy_ch12",
+      "question": "The negative sign in the total energy of an orbiting electron indicates that the electron is:",
+      "options": [
+        "Positively charged",
+        "Bound to the nucleus",
+        "Moving at the speed of light",
+        "Repelled by the nucleus"
+      ],
+      "correctIndex": 1,
+      "explanation": "The negative sign means the electron is bound to the nucleus; energy must be supplied to remove it.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q19",
+      "chapterId": "phy_ch12",
+      "question": "The minimum energy required to free an electron from its ground state is called:",
+      "options": [
+        "Excitation energy",
+        "Potential energy",
+        "Ionization energy",
+        "Kinetic energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ionization energy is the energy required to remove an electron from the atom.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q20",
+      "chapterId": "phy_ch12",
+      "question": "What happens when an electron transitions from a higher energy state (Ei) to a lower energy state (Ef)?",
+      "options": [
+        "Heat is absorbed",
+        "A photon is emitted",
+        "Mass is gained",
+        "The atom becomes unstable"
+      ],
+      "correctIndex": 1,
+      "explanation": "A photon is emitted with energy hf = Ei - Ef.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q21",
+      "chapterId": "phy_ch12",
+      "question": "The radius of the innermost orbit of the hydrogen atom (n=1) is called the:",
+      "options": [
+        "Nucleus radius",
+        "Bohr radius",
+        "Planck length",
+        "Compton wavelength"
+      ],
+      "correctIndex": 1,
+      "explanation": "The radius of the lowest orbit (n=1) is called the Bohr radius, denoted by a₀.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q22",
+      "chapterId": "phy_ch12",
+      "question": "What is the value of the Bohr radius (a₀)?",
+      "options": [
+        "0.53 Å",
+        "1.0 Å",
+        "10 Å",
+        "0.053 Å"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Bohr radius a₀ is approximately 5.29 × 10⁻¹¹ m or 0.53 Å.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q23",
+      "chapterId": "phy_ch12",
+      "question": "The Paschen, Brackett, and Pfund series lie in which region of the spectrum?",
+      "options": [
+        "Ultraviolet",
+        "Visible",
+        "Infrared",
+        "X-ray"
+      ],
+      "correctIndex": 2,
+      "explanation": "These three series lie in the infrared region.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q24",
+      "chapterId": "phy_ch12",
+      "question": "Bohr's model is strictly applicable to:",
+      "options": [
+        "All atoms",
+        "Heavy metals only",
+        "Hydrogen and hydrogen-like ions",
+        "Gases at high pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Bohr model is applicable to hydrogenic atoms (one-electron systems like H, He⁺, Li²⁺).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q25",
+      "chapterId": "phy_ch12",
+      "question": "Hydrogenic atoms are those that have ________ electron(s).",
+      "options": [
+        "Zero",
+        "One",
+        "Two",
+        "Many"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hydrogenic atoms consist of a nucleus with charge +Ze and a single electron.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q26",
+      "chapterId": "phy_ch12",
+      "question": "Which physicist's hypothesis helped explain Bohr's quantization of angular momentum?",
+      "options": [
+        "Einstein",
+        "De Broglie",
+        "Planck",
+        "Heisenberg"
+      ],
+      "correctIndex": 1,
+      "explanation": "Louis de Broglie explained that the quantization of orbits corresponds to integral wavelengths fitting the orbit circumference.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q27",
+      "chapterId": "phy_ch12",
+      "question": "The de Broglie wavelength condition for an electron orbit is given by:",
+      "options": [
+        "2πr = nλ",
+        "πr = nλ",
+        "r = nλ",
+        "2πr = λ/n"
+      ],
+      "correctIndex": 0,
+      "explanation": "The circumference of the orbit must be an integral multiple of the de Broglie wavelength: 2πrn = nλ.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q28",
+      "chapterId": "phy_ch12",
+      "question": "The Hα line in the Balmer series corresponds to a transition from n=3 to:",
+      "options": [
+        "n=1",
+        "n=2",
+        "n=4",
+        "n=5"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Hα line is the first line of the Balmer series, corresponding to n=3 to n=2.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q29",
+      "chapterId": "phy_ch12",
+      "question": "Total energy of an electron is equal to the negative of its:",
+      "options": [
+        "Potential energy",
+        "Kinetic energy",
+        "Rest energy",
+        "Thermal energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The total energy E is -K, where K is the kinetic energy.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q30",
+      "chapterId": "phy_ch12",
+      "question": "The scattering of alpha particles in the Geiger-Marsden experiment confirmed the existence of:",
+      "options": [
+        "Quarks",
+        "The nucleus",
+        "Neutrons",
+        "Isotopes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The large angle scattering could only be explained by a tiny, massive, positive nucleus.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q31",
+      "chapterId": "phy_ch12",
+      "question": "Atoms of each element emit a characteristic ________ spectrum.",
+      "options": [
+        "Continuous",
+        "Line",
+        "Absorption only",
+        "Radio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each element has a characteristic spectrum of radiation, which is a line spectrum.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q32",
+      "chapterId": "phy_ch12",
+      "question": "When white light passes through a gas, it produces an ________ spectrum.",
+      "options": [
+        "Emission",
+        "Absorption",
+        "Infrared",
+        "Microwave"
+      ],
+      "correctIndex": 1,
+      "explanation": "A gas absorbs specific wavelengths from white light, creating an absorption spectrum.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q33",
+      "chapterId": "phy_ch12",
+      "question": "The total number of spectral lines in the Balmer series is:",
+      "options": [
+        "Five",
+        "Three",
+        "Infinitely many (approaching a limit)",
+        "Exactly ten"
+      ],
+      "correctIndex": 2,
+      "explanation": "The series consists of many lines that get closer and weaker as the wavelength decreases toward a limit.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q34",
+      "chapterId": "phy_ch12",
+      "question": "Who was the first to derive a mathematical formula for the visible lines of the hydrogen spectrum?",
+      "options": [
+        "Rutherford",
+        "Bohr",
+        "Balmer",
+        "Newton"
+      ],
+      "correctIndex": 2,
+      "explanation": "Johann Jakob Balmer, a Swiss school teacher, found the empirical formula in 1885.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q35",
+      "chapterId": "phy_ch12",
+      "question": "In the Balmer formula, λ = 364.6 nm [n² / (n² – 4)], the value of n must be:",
+      "options": [
+        "n=1",
+        "n < 2",
+        "n > 2 (integers 3, 4, 5...)",
+        "n=0"
+      ],
+      "correctIndex": 2,
+      "explanation": "For the Balmer series, n takes values 3, 4, 5, etc.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q36",
+      "chapterId": "phy_ch12",
+      "question": "The most successful application of Bohr's model was explaining the spectral series of:",
+      "options": [
+        "Helium gas",
+        "Hydrogen atom",
+        "Iron",
+        "Oxygen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bohr's model successfully combined classical and quantum physics to explain the hydrogen spectrum.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q37",
+      "chapterId": "phy_ch12",
+      "question": "Does the Bohr model explain the relative intensities of spectral lines?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for Balmer series",
+        "Only for ground state"
+      ],
+      "correctIndex": 1,
+      "explanation": "One limitation of the Bohr model is that it cannot explain the relative intensities of the frequencies.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q38",
+      "chapterId": "phy_ch12",
+      "question": "As n increases, the difference in energy between consecutive orbits ________.",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Stays constant",
+        "Becomes zero immediately"
+      ],
+      "correctIndex": 1,
+      "explanation": "The energy levels En crowd together as n increases toward infinity.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q39",
+      "chapterId": "phy_ch12",
+      "question": "The speed of an electron in the nth orbit of hydrogen is ________ to n.",
+      "options": [
+        "Directly proportional",
+        "Inversely proportional",
+        "Equal",
+        "Independent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The velocity vn is inversely proportional to n (vn ∝ 1/n).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q40",
+      "chapterId": "phy_ch12",
+      "question": "What does 'Excitation' mean in the context of an atom?",
+      "options": [
+        "Removing an electron",
+        "Adding a neutron",
+        "Raising an electron to a higher energy level",
+        "Releasing alpha particles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Excitation is the process of moving an electron from a lower state to a higher state.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q41",
+      "chapterId": "phy_ch12",
+      "question": "The 'plum pudding' model of the atom was eventually disproved by the work of:",
+      "options": [
+        "Thomson",
+        "Bohr",
+        "Rutherford",
+        "Balmer"
+      ],
+      "correctIndex": 2,
+      "explanation": "The alpha particle scattering experiments by Rutherford's team disproved Thomson's model.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q42",
+      "chapterId": "phy_ch12",
+      "question": "If an alpha particle has a head-on collision (b=0), its scattering angle will be:",
+      "options": [
+        "0°",
+        "90°",
+        "180°",
+        "360°"
+      ],
+      "correctIndex": 2,
+      "explanation": "For a head-on collision, the impact parameter is zero and the particle rebounds (θ = 180°).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q43",
+      "chapterId": "phy_ch12",
+      "question": "Rutherford's model is also known as the ________ model of the atom.",
+      "options": [
+        "Static",
+        "Planetary",
+        "Quantum",
+        "Wave"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is called the planetary model because electrons orbit the nucleus like planets orbit the sun.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q44",
+      "chapterId": "phy_ch12",
+      "question": "The frequency of light emitted in a Bohr transition is given by:",
+      "options": [
+        "ν = (Ei - Ef) / h",
+        "ν = h(Ei - Ef)",
+        "ν = Ei / Ef",
+        "ν = h / (Ei - Ef)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The third Bohr postulate states hf = Ei - Ef.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q45",
+      "chapterId": "phy_ch12",
+      "question": "Hydrogenic ion He⁺ has an atomic number Z = 2. Its ground state energy is:",
+      "options": [
+        "-13.6 eV",
+        "-27.2 eV",
+        "-54.4 eV",
+        "-3.4 eV"
+      ],
+      "correctIndex": 2,
+      "explanation": "Energy is proportional to Z², so for Z=2, it is 4 × (-13.6) eV = –54.4 eV.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q46",
+      "chapterId": "phy_ch12",
+      "question": "For the Lyman series, the final state is always:",
+      "options": [
+        "n=1",
+        "n=2",
+        "n=3",
+        "n=infinity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transitions in the Lyman series end at n=1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q47",
+      "chapterId": "phy_ch12",
+      "question": "For large n, the frequency of emitted radiation in Bohr orbits approaches ________ frequency.",
+      "options": [
+        "Zero",
+        "Infinitely high",
+        "The classical orbital",
+        "Double the orbital"
+      ],
+      "correctIndex": 2,
+      "explanation": "For large n, quantum results merge with classical physics (Correspondence Principle).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q48",
+      "chapterId": "phy_ch12",
+      "question": "Rutherford's experiments used alpha particles, which are the nuclei of ________ atoms.",
+      "options": [
+        "Hydrogen",
+        "Helium",
+        "Lithium",
+        "Gold"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alpha particles are helium nuclei (He²⁺).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q49",
+      "chapterId": "phy_ch12",
+      "question": "The total energy of an electron in a hydrogen atom is –13.6 eV. Its kinetic energy is:",
+      "options": [
+        "-13.6 eV",
+        "0 eV",
+        "13.6 eV",
+        "27.2 eV"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kinetic energy K is the absolute value of total energy E: K = |E|.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch12_q50",
+      "chapterId": "phy_ch12",
+      "question": "Who was the director of the laboratory where Geiger and Marsden conducted their experiments?",
+      "options": [
+        "Newton",
+        "Bohr",
+        "Rutherford",
+        "Thomson"
+      ],
+      "correctIndex": 2,
+      "explanation": "H. Geiger and E. Marsden performed the experiments at the suggestion of Ernest Rutherford.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    }
+  ]
+}

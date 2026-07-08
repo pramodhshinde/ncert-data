@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_cs_ch4_q1",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which principle does a Queue data structure follow?",
+      "options": [
+        "Last-In-First-Out (LIFO)",
+        "First-In-First-Out (FIFO)",
+        "Highest-Priority-First-Out",
+        "Random Access"
+      ],
+      "correctIndex": 1,
+      "explanation": "Queue follows the principle of First In First Out (FIFO), as the element entering first will be the first one to leave.",
+      "ncertPage": 53,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q2",
+      "chapterId": "c12_cs_ch04",
+      "question": "What is a Queue defined as in computer science?",
+      "options": [
+        "A non-linear list of elements",
+        "An ordered linear list of elements",
+        "A collection of key-value pairs",
+        "A set of unordered unique values"
+      ],
+      "correctIndex": 1,
+      "explanation": "Queue is an ordered linear list of elements, having different ends for adding and removing elements.",
+      "ncertPage": 53,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q3",
+      "chapterId": "c12_cs_ch04",
+      "question": "In a queue, from which end are new elements added?",
+      "options": [
+        "Front",
+        "Top",
+        "Rear",
+        "Middle"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a queue, insertion is performed at one end called 'Rear'.",
+      "ncertPage": 55,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q4",
+      "chapterId": "c12_cs_ch04",
+      "question": "In a queue, from which end are existing elements removed?",
+      "options": [
+        "Rear",
+        "Bottom",
+        "Front",
+        "Last"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a queue, deletion is performed from the other end called 'Front'.",
+      "ncertPage": 55,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q5",
+      "chapterId": "c12_cs_ch04",
+      "question": "What is the operation of adding an element to a queue called?",
+      "options": [
+        "Push",
+        "Enqueue",
+        "Dequeue",
+        "InsertFront"
+      ],
+      "correctIndex": 1,
+      "explanation": "The insertion operation in a queue is called Enqueue.",
+      "ncertPage": 55,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q6",
+      "chapterId": "c12_cs_ch04",
+      "question": "What is the operation of removing an element from a queue called?",
+      "options": [
+        "Pop",
+        "Enqueue",
+        "Dequeue",
+        "DeleteRear"
+      ],
+      "correctIndex": 2,
+      "explanation": "The deletion operation in a queue is called Dequeue.",
+      "ncertPage": 55,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q7",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which operation is used to view the first element of the queue without removing it?",
+      "options": [
+        "Peek",
+        "Front",
+        "Look",
+        "Scan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Peek operation is used to view the value of the first element (front) of the queue without removing it.",
+      "ncertPage": 55,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q8",
+      "chapterId": "c12_cs_ch04",
+      "question": "What condition occurs when we try to remove an element from an empty queue?",
+      "options": [
+        "Overflow",
+        "Memory Leak",
+        "Underflow",
+        "EmptyError"
+      ],
+      "correctIndex": 2,
+      "explanation": "Deletion from an empty queue results in a condition called Underflow.",
+      "ncertPage": 55,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q9",
+      "chapterId": "c12_cs_ch04",
+      "question": "What condition occurs when we try to add an element to a queue that has reached its maximum capacity?",
+      "options": [
+        "Underflow",
+        "Overflow",
+        "FullError",
+        "Replication"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insertion into a full queue results in a condition called Overflow.",
+      "ncertPage": 55,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q10",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which Python built-in data type is commonly used to implement a linear queue?",
+      "options": [
+        "Dictionary",
+        "Set",
+        "Tuple",
+        "List"
+      ],
+      "correctIndex": 3,
+      "explanation": "A linear queue can be implemented using a Python List.",
+      "ncertPage": 55,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q11",
+      "chapterId": "c12_cs_ch04",
+      "question": "In a Python list-based queue, which method is most suitable for the Enqueue operation at the 'Rear'?",
+      "options": [
+        "insert(0, element)",
+        "append(element)",
+        "push(element)",
+        "add(element)"
+      ],
+      "correctIndex": 1,
+      "explanation": "To enqueue an element, we use the `append()` method of the list, which adds it to the end (Rear).",
+      "ncertPage": 56,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q12",
+      "chapterId": "c12_cs_ch04",
+      "question": "In a Python list-based queue, which method is used for the Dequeue operation from the 'Front'?",
+      "options": [
+        "pop()",
+        "pop(0)",
+        "remove()",
+        "delete(0)"
+      ],
+      "correctIndex": 1,
+      "explanation": "To dequeue an element, we use the `pop(0)` method of the list, which removes and returns the first element (Front).",
+      "ncertPage": 56,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q13",
+      "chapterId": "c12_cs_ch04",
+      "question": "What is the correct way to check if a queue implemented as a Python list named 'my_queue' is empty?",
+      "options": [
+        "if my_queue == None:",
+        "if len(my_queue) == 0:",
+        "if my_queue.empty():",
+        "if my_queue == 0:"
+      ],
+      "correctIndex": 1,
+      "explanation": "To check for underflow, we check if the length of the list is zero using `len(my_queue) == 0`.",
+      "ncertPage": 56,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q14",
+      "chapterId": "c12_cs_ch04",
+      "question": "If a queue 'q' is [10, 20, 30] where 10 is at the front, what is the result of q.pop(0)?",
+      "options": [
+        "10",
+        "30",
+        "None",
+        "[20, 30]"
+      ],
+      "correctIndex": 0,
+      "explanation": "The `pop(0)` method removes the first element (the front of the queue), which is 10.",
+      "ncertPage": 56,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q15",
+      "chapterId": "c12_cs_ch04",
+      "question": "What does 'Deque' stand for?",
+      "options": [
+        "Data Entry Queue",
+        "Double Ended Queue",
+        "Direct Execution Queue",
+        "Dual Element Queue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deque (pronounced 'deck') stands for Double Ended Queue.",
+      "ncertPage": 60,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q16",
+      "chapterId": "c12_cs_ch04",
+      "question": "How is a Deque different from a regular Queue?",
+      "options": [
+        "Elements can only be added at the middle",
+        "It follows LIFO only",
+        "Elements can be added or removed at either end (Front or Rear)",
+        "It only allows adding at the Front"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Deque is a linear data structure where elements can be added or removed at either end, but not in the middle.",
+      "ncertPage": 60,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q17",
+      "chapterId": "c12_cs_ch04",
+      "question": "A Deque can act as which of the following data structures?",
+      "options": [
+        "Only a Stack",
+        "Only a Queue",
+        "Both a Stack and a Queue",
+        "Neither a Stack nor a Queue"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since a Deque allows insertion and deletion from both ends, it can be used to implement both Stack and Queue functionalities.",
+      "ncertPage": 60,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q18",
+      "chapterId": "c12_cs_ch04",
+      "question": "In a Python list-based Deque, which method is used to insert an element at the 'Front'?",
+      "options": [
+        "append()",
+        "insert(0, element)",
+        "push_front()",
+        "add()"
+      ],
+      "correctIndex": 1,
+      "explanation": "The `insert(0, element)` method is used to add an element at the index 0, which is the Front of the list.",
+      "ncertPage": 61,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q19",
+      "chapterId": "c12_cs_ch04",
+      "question": "In a Python list-based Deque, which method is used to remove an element from the 'Rear'?",
+      "options": [
+        "pop(0)",
+        "pop()",
+        "remove()",
+        "delete()"
+      ],
+      "correctIndex": 1,
+      "explanation": "The `pop()` method without any index removes the last element, which is the Rear of the list.",
+      "ncertPage": 61,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q20",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which of the following is a real-life example of a Queue?",
+      "options": [
+        "A stack of heavy boxes",
+        "A row of cars at a petrol pump",
+        "Browsing history in a web browser",
+        "Matching parentheses in an expression"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vehicles queued at fuel pumps are everyday examples of a queue.",
+      "ncertPage": 53,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q21",
+      "chapterId": "c12_cs_ch04",
+      "question": "In the context of the chapter, what does the term 'linear data structure' imply for a Queue?",
+      "options": [
+        "Data is stored in a tree-like hierarchy",
+        "Elements are arranged in a specific sequential order",
+        "The elements are non-sequential",
+        "Only numeric data is allowed"
+      ],
+      "correctIndex": 1,
+      "explanation": "A queue is defined as an ordered linear list of elements.",
+      "ncertPage": 53,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q22",
+      "chapterId": "c12_cs_ch04",
+      "question": "If we enqueue elements 'A', 'B', 'C' in order, what will be the sequence if they are dequeued one by one?",
+      "options": [
+        "C, B, A",
+        "A, B, C",
+        "B, A, C",
+        "A, C, B"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because it follows FIFO, the first element entering ('A') will be the first one to be dequeued.",
+      "ncertPage": 54,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q23",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which Python module provides a more efficient deque implementation than a standard list?",
+      "options": [
+        "collections",
+        "queue",
+        "math",
+        "sys"
+      ],
+      "correctIndex": 0,
+      "explanation": "Although lists are used in the chapter for simple examples, the `collections` module in Python provides a specialized `deque` object.",
+      "ncertPage": 60,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q24",
+      "chapterId": "c12_cs_ch04",
+      "question": "If a deque is [1, 2, 3] and we call insertFront(0), what is the new deque?",
+      "options": [
+        "[1, 2, 3, 0]",
+        "[0, 1, 2, 3]",
+        "[1, 0, 2, 3]",
+        "[0, 1, 2]"
+      ],
+      "correctIndex": 1,
+      "explanation": "insertFront adds the element at the beginning (index 0) of the list.",
+      "ncertPage": 61,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q25",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which operation is performed from both ends of a deque but NOT in the middle?",
+      "options": [
+        "Traversal",
+        "Search",
+        "Insertion and Deletion",
+        "Sorting"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elements can be added or removed at either end, but not in the middle.",
+      "ncertPage": 60,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q26",
+      "chapterId": "c12_cs_ch04",
+      "question": "What is the pronunciation of 'Deque'?",
+      "options": [
+        "D-queue",
+        "Deck",
+        "D-q",
+        "De-kew"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deque is pronounced as 'deck'.",
+      "ncertPage": 60,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q27",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which operation combines the functionality of front() and rear() retrieval in a list-based Deque?",
+      "options": [
+        "pop()",
+        "pop(0)",
+        "No such single operation exists",
+        "clear()"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a Deque, operations are distinct for front and rear ends (e.g., deleteFront vs deleteRear).",
+      "ncertPage": 61,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q28",
+      "chapterId": "c12_cs_ch04",
+      "question": "In the given Python program, how are the Front and Rear indices determined if the queue is empty?",
+      "options": [
+        "Both are 0",
+        "Both are None",
+        "Front is 0, Rear is -1",
+        "They are not explicitly managed because list length handles it"
+      ],
+      "correctIndex": 3,
+      "explanation": "The list-based implementation uses `len()` to check for empty status rather than manual pointers in the simple examples.",
+      "ncertPage": 56,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q29",
+      "chapterId": "c12_cs_ch04",
+      "question": "When elements 'z', 'x', 'c', 'v' and 'b' are in a deque and the received sequence after deletion is 'z', 'b', 'v', 'x', 'c', which end was used for the first deletion?",
+      "options": [
+        "Front",
+        "Rear",
+        "Middle",
+        "Random"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since 'z' was the first element of the deque and was deleted first, it was a deletion from the Front.",
+      "ncertPage": 65,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q30",
+      "chapterId": "c12_cs_ch04",
+      "question": "The time complexity of dequeue (pop(0)) in a Python List is:",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Python lists, `pop(0)` requires shifting all subsequent elements, making it an O(n) operation.",
+      "ncertPage": 60,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q31",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which of the following is NOT a standard operation for a linear Queue?",
+      "options": [
+        "Enqueue",
+        "Dequeue",
+        "Peek",
+        "InsertFront"
+      ],
+      "correctIndex": 3,
+      "explanation": "InsertFront is an operation specific to a Deque, not a regular linear Queue.",
+      "ncertPage": 55,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q32",
+      "chapterId": "c12_cs_ch04",
+      "question": "If a queue is used to manage a printer's tasks, which task will be printed first?",
+      "options": [
+        "The largest task",
+        "The most recent task",
+        "The first task sent to the printer",
+        "The task with the fewest pages"
+      ],
+      "correctIndex": 2,
+      "explanation": "A printer uses a queue (FIFO), so the first task received is the first task printed.",
+      "ncertPage": 54,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q33",
+      "chapterId": "c12_cs_ch04",
+      "question": "What happens to the Rear end when an element is enqueued in a linear queue?",
+      "options": [
+        "It remains same",
+        "It moves forward",
+        "It moves backward",
+        "It becomes None"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insertion occurs at the Rear, so every enqueue moves the Rear position further away from the Front.",
+      "ncertPage": 55,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q34",
+      "chapterId": "c12_cs_ch04",
+      "question": "If queue is [15, 25, 35] and we enqueue 45, what is the new Front element?",
+      "options": [
+        "45",
+        "15",
+        "None",
+        "35"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a linear queue, enqueuing at the Rear does not change the Front element unless the queue was previously empty.",
+      "ncertPage": 55,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q35",
+      "chapterId": "c12_cs_ch04",
+      "question": "In the Deque implementation, what does deletionRear() do?",
+      "options": [
+        "Removes the first element of the list",
+        "Removes the last element of the list",
+        "Removes all elements",
+        "Removes elements from the middle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deletion from the Rear end involves removing the last element of the list.",
+      "ncertPage": 61,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q36",
+      "chapterId": "c12_cs_ch04",
+      "question": "Why is Deque considered more versatile than Stack or Queue?",
+      "options": [
+        "It can store more data",
+        "It uses less memory",
+        "It supports operations of both Stack and Queue",
+        "It is faster in Python"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Deque is versatile because it allows addition/removal from both ends, enabling it to act like a Stack or a Queue.",
+      "ncertPage": 60,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q37",
+      "chapterId": "c12_cs_ch04",
+      "question": "What is the state of a queue after enqueuing 10, dequeuing once, and enqueuing 20?",
+      "options": [
+        "[10, 20]",
+        "[20]",
+        "[10]",
+        "Empty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Initial: []. Enqueue 10: [10]. Dequeue: []. Enqueue 20: [20].",
+      "ncertPage": 56,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q38",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which of the following describes a 'Circular Queue' indirectly mentioned as a solution to list shifting?",
+      "options": [
+        "A queue that only allows 5 elements",
+        "A queue where the last position is connected back to the first position",
+        "A queue that works in reverse",
+        "A queue that never overflows"
+      ],
+      "correctIndex": 1,
+      "explanation": "A circular queue is an optimization mentioned as 'Circular Queue' in the summary to avoid shifting elements.",
+      "ncertPage": 64,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q39",
+      "chapterId": "c12_cs_ch04",
+      "question": "If deque is [5, 10, 15] and we perform insertRear(20), what is the Rear element?",
+      "options": [
+        "5",
+        "15",
+        "20",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "insertRear adds to the end of the list, making that element the new Rear.",
+      "ncertPage": 62,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q40",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which Deque operation is similar to Stack's pop()?",
+      "options": [
+        "insertFront()",
+        "deleteRear()",
+        "peek()",
+        "insertRear()"
+      ],
+      "correctIndex": 1,
+      "explanation": "Both delete from the end of the collection (LIFO end).",
+      "ncertPage": 61,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q41",
+      "chapterId": "c12_cs_ch04",
+      "question": "In Program 4-1, which part of the code handles the user's choice to exit?",
+      "options": [
+        "choice == 1",
+        "choice == 5",
+        "choice == 4",
+        "choice == 0"
+      ],
+      "correctIndex": 2,
+      "explanation": "The loop continues `while choice < 4`, so 4 is the termination point.",
+      "ncertPage": 58,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q42",
+      "chapterId": "c12_cs_ch04",
+      "question": "How many functions are defined in the Deque implementation in Program 4-2?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 2,
+      "explanation": "Functions include: isEmpty, insertFront, insertRear, deleteFront, deleteRear, and getFront.",
+      "ncertPage": 61,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q43",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which end of the queue is usually designated as index 0 in a Python list implementation?",
+      "options": [
+        "Rear",
+        "Front",
+        "Top",
+        "Center"
+      ],
+      "correctIndex": 1,
+      "explanation": "Index 0 is the beginning of the list, representing the Front end from where elements are dequeued.",
+      "ncertPage": 56,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q44",
+      "chapterId": "c12_cs_ch04",
+      "question": "If a deque has 'n' elements, what is the index of the Rear element?",
+      "options": [
+        "n",
+        "n + 1",
+        "n - 1",
+        "0"
+      ],
+      "correctIndex": 2,
+      "explanation": "Python lists are zero-indexed, so the last element is at `len(list) - 1`.",
+      "ncertPage": 61,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q45",
+      "chapterId": "c12_cs_ch04",
+      "question": "Can we delete an element from the middle of a Queue according to standard definitions?",
+      "options": [
+        "Yes, always",
+        "No, never",
+        "Only if it is a Deque",
+        "Only in Python"
+      ],
+      "correctIndex": 1,
+      "explanation": "A queue is a linear structure with different ends for adding and removing; standard definitions do not allow middle access.",
+      "ncertPage": 53,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q46",
+      "chapterId": "c12_cs_ch04",
+      "question": "What error message is printed in Program 4-1 if dequeueing from an empty list?",
+      "options": [
+        "List empty",
+        "Queue is Empty!",
+        "Underflow",
+        "Empty List"
+      ],
+      "correctIndex": 1,
+      "explanation": "The program prints 'Queue is Empty!'.",
+      "ncertPage": 57,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q47",
+      "chapterId": "c12_cs_ch04",
+      "question": "Which operation increases the length of the list by 1?",
+      "options": [
+        "Dequeue",
+        "Enqueue",
+        "Peek",
+        "isEmpty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enqueue (insertion) adds one element to the collection.",
+      "ncertPage": 55,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q48",
+      "chapterId": "c12_cs_ch04",
+      "question": "In the summary, which is described as a 'First-In-First-Out' linear data structure?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Array",
+        "Dictionary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Queue is a First-In-First-Out (FIFO) linear data structure.",
+      "ncertPage": 64,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q49",
+      "chapterId": "c12_cs_ch04",
+      "question": "Is the insertion end the same as the deletion end in a Stack?",
+      "options": [
+        "Yes",
+        "No",
+        "Depends on implementation",
+        "Only in Python"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a Stack, both occur at the TOP.",
+      "ncertPage": 53,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch4_q50",
+      "chapterId": "c12_cs_ch04",
+      "question": "Is the insertion end the same as the deletion end in a Queue?",
+      "options": [
+        "Yes",
+        "No",
+        "Depends on implementation",
+        "Only in Python"
+      ],
+      "correctIndex": 1,
+      "explanation": "No, they occur at different ends (Rear and Front).",
+      "ncertPage": 53,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    }
+  ]
+}

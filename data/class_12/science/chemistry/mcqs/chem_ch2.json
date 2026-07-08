@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch2_q1",
+      "chapterId": "chem_ch2",
+      "question": "Which of the following describes a galvanic cell?",
+      "options": [
+        "Converts electrical energy into chemical energy",
+        "Converts chemical energy into electrical energy",
+        "Uses external power to drive a non-spontaneous reaction",
+        "Does not involve redox reactions"
+      ],
+      "correctIndex": 1,
+      "explanation": "A galvanic cell converts the chemical energy of a spontaneous redox reaction into electrical energy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q2",
+      "chapterId": "chem_ch2",
+      "question": "In the Daniell cell, which metal acts as the anode?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Silver",
+        "Platinum"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the Daniell cell, the oxidation of Zinc (Zn) occurs at the anode.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q3",
+      "chapterId": "chem_ch2",
+      "question": "What is the standard potential (E°cell) of the Daniell cell?",
+      "options": [
+        "0.76 V",
+        "0.34 V",
+        "1.10 V",
+        "1.50 V"
+      ],
+      "correctIndex": 2,
+      "explanation": "The standard potential of the Daniell cell is 1.1 V.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q4",
+      "chapterId": "chem_ch2",
+      "question": "In an electrochemical cell, reduction always occurs at the:",
+      "options": [
+        "Anode",
+        "Cathode",
+        "Salt bridge",
+        "Electrolyte"
+      ],
+      "correctIndex": 1,
+      "explanation": "By convention, reduction occurs at the cathode in both galvanic and electrolytic cells.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q5",
+      "chapterId": "chem_ch2",
+      "question": "What is the function of a salt bridge in a galvanic cell?",
+      "options": [
+        "To produce electricity",
+        "To complete the circuit and maintain electrical neutrality",
+        "To speed up the reaction",
+        "To act as an insulator"
+      ],
+      "correctIndex": 1,
+      "explanation": "The salt bridge completes the circuit by allowing ions to flow and maintains electrical neutrality in the half-cells.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q6",
+      "chapterId": "chem_ch2",
+      "question": "If an external potential greater than 1.1 V is applied to a Daniell cell, what happens?",
+      "options": [
+        "The cell stops working",
+        "The reaction remains the same",
+        "The electrons flow from Cu to Zn (reaction reverses)",
+        "The zinc rod dissolves faster"
+      ],
+      "correctIndex": 2,
+      "explanation": "If Eext > 1.1 V, the cell functions as an electrolytic cell and the direction of the reaction is reversed.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q7",
+      "chapterId": "chem_ch2",
+      "question": "The potential of the Standard Hydrogen Electrode (SHE) is assigned as:",
+      "options": [
+        "1.1 V",
+        "0.0 V",
+        "-0.76 V",
+        "Infinite"
+      ],
+      "correctIndex": 1,
+      "explanation": "The SHE is assigned zero potential at all temperatures to act as a reference electrode.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q8",
+      "chapterId": "chem_ch2",
+      "question": "A negative E° value indicates that the redox couple is a:",
+      "options": [
+        "Stronger oxidizing agent than H+/H2",
+        "Stronger reducing agent than H+/H2",
+        "Weak reducing agent",
+        "Non-reactive substance"
+      ],
+      "correctIndex": 1,
+      "explanation": "A negative E° means the half-cell is a stronger reducing agent compared to the standard hydrogen electrode.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q9",
+      "chapterId": "chem_ch2",
+      "question": "The Nernst equation is used to calculate the cell potential under:",
+      "options": [
+        "Standard conditions only",
+        "Non-standard concentrations and temperatures",
+        "High pressure only",
+        "No current flow conditions"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Nernst equation relates cell potential to the concentrations of the species involved in the reaction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q10",
+      "chapterId": "chem_ch2",
+      "question": "Which of the following equations represents the Nernst equation for a general electrode reaction M^n+ + ne- -> M?",
+      "options": [
+        "E = E° - (RT/nF) ln [M]/[M^n+]",
+        "E = E° + (RT/nF) ln [M]/[M^n+]",
+        "E = E° - (RT/F) ln [M^n+]",
+        "E = E° x (nF/RT)"
+      ],
+      "correctIndex": 0,
+      "explanation": "E = E° - (RT/nF) ln [M]/[M^n+] is the standard form of the Nernst equation.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q11",
+      "chapterId": "chem_ch2",
+      "question": "The relation between Gibbs energy (ΔG) and cell potential (Ecell) is:",
+      "options": [
+        "ΔG = nFEcell",
+        "ΔG = -nFEcell",
+        "ΔG = -RT ln K",
+        "ΔG = Ecell/nF"
+      ],
+      "correctIndex": 1,
+      "explanation": "ΔG = -nFEcell relates the electrical work to the free energy change of the system.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q12",
+      "chapterId": "chem_ch2",
+      "question": "For a spontaneous cell reaction, ΔG must be ________ and Ecell must be ________.",
+      "options": [
+        "Positive, Negative",
+        "Negative, Positive",
+        "Zero, Zero",
+        "Positive, Positive"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spontaneity requires a negative Gibbs energy change and a positive cell potential.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q13",
+      "chapterId": "chem_ch2",
+      "question": "The unit of resistance is:",
+      "options": [
+        "S m^-1",
+        "Ohm (Ω)",
+        "Ohm m",
+        "Siemens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resistance is measured in Ohms (Ω).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q14",
+      "chapterId": "chem_ch2",
+      "question": "The inverse of resistance is called ________.",
+      "options": [
+        "Conductivity",
+        "Resistivity",
+        "Conductance",
+        "Molar conductivity"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conductance (G) is the inverse of resistance (1/R).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q15",
+      "chapterId": "chem_ch2",
+      "question": "What is the SI unit of conductivity (κ)?",
+      "options": [
+        "S m",
+        "S m^-1",
+        "Ohm m",
+        "Ω^-1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conductivity is measured in Siemens per meter (S m^-1).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q16",
+      "chapterId": "chem_ch2",
+      "question": "Electronic conductance through metals depends on:",
+      "options": [
+        "Nature of the metal",
+        "Temperature",
+        "Number of valence electrons",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metal conductivity depends on the nature of the material, valence electrons, and it decreases with increasing temperature.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q17",
+      "chapterId": "chem_ch2",
+      "question": "Ionic (electrolytic) conductance depends on:",
+      "options": [
+        "Nature of electrolyte",
+        "Size of ions",
+        "Concentration of electrolyte",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ionic conductance is influenced by the nature and size of ions, solvent viscosity, concentration, and temperature.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q18",
+      "chapterId": "chem_ch2",
+      "question": "Molar conductivity (Λm) is defined as:",
+      "options": [
+        "κ/C",
+        "κ x C",
+        "C/κ",
+        "1/κ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Molar conductivity is the conductivity of a solution divided by its molar concentration.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q19",
+      "chapterId": "chem_ch2",
+      "question": "Which of the following decreases with a decrease in concentration (dilution)?",
+      "options": [
+        "Molar conductivity",
+        "Conductivity (κ)",
+        "Equivalent conductivity",
+        "Resistance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conductivity always decreases with dilution because the number of ions per unit volume decreases.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q20",
+      "chapterId": "chem_ch2",
+      "question": "Molar conductivity increases with decrease in concentration because:",
+      "options": [
+        "Total volume increases",
+        "Number of ions increases",
+        "The product of κ and V increases",
+        "Resistance decreases"
+      ],
+      "correctIndex": 2,
+      "explanation": "Λm = κV; even though κ decreases, the increase in volume (V) on dilution is much larger, so Λm increases.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q21",
+      "chapterId": "chem_ch2",
+      "question": "Kohlrausch's law states that limiting molar conductivity of an electrolyte is the sum of:",
+      "options": [
+        "Conductance of anions only",
+        "Individual contributions of anions and cations",
+        "Square root of concentration",
+        "Total resistance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kohlrausch law of independent migration of ions states that the total limiting molar conductivity is the sum of molar conductivities of its individual ions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q22",
+      "chapterId": "chem_ch2",
+      "question": "The Faraday constant (F) is approximately:",
+      "options": [
+        "96487 C mol^-1",
+        "1.6 x 10^-19 C",
+        "8.314 J K^-1 mol^-1",
+        "6.022 x 10^23"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 Faraday is the charge on one mole of electrons, roughly 96487 C/mol.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q23",
+      "chapterId": "chem_ch2",
+      "question": "According to Faraday’s First Law of Electrolysis, the mass of substance deposited is proportional to:",
+      "options": [
+        "Potential",
+        "Resistance",
+        "Quantity of electricity passed",
+        "Molar mass only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mass (w) is directly proportional to the charge (Q) passed through the electrolyte.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q24",
+      "chapterId": "chem_ch2",
+      "question": "A device that converts the energy of combustion of fuels like hydrogen and methane directly into electrical energy is called:",
+      "options": [
+        "Leclanche cell",
+        "Lead storage battery",
+        "Fuel cell",
+        "Mercury cell"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fuel cells are galvanic cells designed to convert energy of combustion into electricity.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q25",
+      "chapterId": "chem_ch2",
+      "question": "Which of the following is a secondary battery?",
+      "options": [
+        "Dry cell",
+        "Mercury cell",
+        "Lead storage battery",
+        "None of the above"
+      ],
+      "correctIndex": 2,
+      "explanation": "A secondary cell can be recharged by passing current through it in the opposite direction. Lead storage battery is a prime example.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q26",
+      "chapterId": "chem_ch2",
+      "question": "The primary cause of corrosion of iron is its ________.",
+      "options": [
+        "Reduction",
+        "Oxidation",
+        "Hydration",
+        "Chlorination"
+      ],
+      "correctIndex": 1,
+      "explanation": "Corrosion is an electrochemical process where iron is oxidized to Fe2+ at the anodic spot.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q27",
+      "chapterId": "chem_ch2",
+      "question": "Which metal is commonly used for 'sacrificial protection' of iron?",
+      "options": [
+        "Copper",
+        "Silver",
+        "Zinc",
+        "Gold"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zinc is more reactive than iron and is oxidized in its place (galvanization), protecting the iron.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q28",
+      "chapterId": "chem_ch2",
+      "question": "In a dry cell (Leclanche cell), the cathode is:",
+      "options": [
+        "Zinc container",
+        "Carbon (graphite) rod",
+        "Copper wire",
+        "Lead plate"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cathode is a carbon rod surrounded by powdered MnO2 and carbon.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q29",
+      "chapterId": "chem_ch2",
+      "question": "Mercury cell is used in low current devices like hearing aids because:",
+      "options": [
+        "It is very cheap",
+        "It is large in size",
+        "Its cell potential remains constant during its life",
+        "It can be recharged"
+      ],
+      "correctIndex": 2,
+      "explanation": "The overall reaction does not involve any ion in solution whose concentration can change, keeping the potential constant.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q30",
+      "chapterId": "chem_ch2",
+      "question": "What is the electrolyte used in a Lead storage battery?",
+      "options": [
+        "38% solution of H2SO4",
+        "NH4Cl and ZnCl2 paste",
+        "KOH and ZnO paste",
+        "Pure water"
+      ],
+      "correctIndex": 0,
+      "explanation": "A 38% sulphuric acid solution acts as the electrolyte in lead storage batteries.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q31",
+      "chapterId": "chem_ch2",
+      "question": "During the charging of a lead storage battery, the reaction:",
+      "options": [
+        "Remains the same as discharging",
+        "Produces electrical energy",
+        "Is reversed",
+        "Dissolves the lead plates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Charging reverses the chemical reactions that occurred during discharge.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q32",
+      "chapterId": "chem_ch2",
+      "question": "The efficiency of a fuel cell is approximately ________ compared to thermal plants.",
+      "options": [
+        "40%",
+        "70%",
+        "95%",
+        "20%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fuel cells have an efficiency of about 70%, while thermal plants are about 40% efficient.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q33",
+      "chapterId": "chem_ch2",
+      "question": "Rust is chemically composed of:",
+      "options": [
+        "FeO",
+        "FeCl3",
+        "Hydrated ferric oxide (Fe2O3 . xH2O)",
+        "FeSO4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rust is formed when Fe2+ is further oxidized and reacts with water and oxygen.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q34",
+      "chapterId": "chem_ch2",
+      "question": "Resistance (R) of a conductor is directly proportional to ________ and inversely proportional to ________.",
+      "options": [
+        "Area, length",
+        "Length, area",
+        "Conductivity, length",
+        "Current, voltage"
+      ],
+      "correctIndex": 1,
+      "explanation": "R = ρ(l/A); it is proportional to length and inversely to the cross-sectional area.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q35",
+      "chapterId": "chem_ch2",
+      "question": "The cell constant is defined as:",
+      "options": [
+        "l/A",
+        "A/l",
+        "R/κ",
+        "κ/R"
+      ],
+      "correctIndex": 0,
+      "explanation": "The quantity l/A is called the cell constant, usually denoted by G*.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q36",
+      "chapterId": "chem_ch2",
+      "question": "Which electrolyte is used to determine the cell constant of a conductivity cell?",
+      "options": [
+        "NaCl",
+        "KCl",
+        "HCl",
+        "H2SO4"
+      ],
+      "correctIndex": 1,
+      "explanation": "KCl solutions of known conductivity are typically used to measure the cell constant.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q37",
+      "chapterId": "chem_ch2",
+      "question": "In the electrolysis of molten NaCl, the product at the cathode is:",
+      "options": [
+        "Chlorine gas",
+        "Hydrogen gas",
+        "Sodium metal",
+        "Oxygen gas"
+      ],
+      "correctIndex": 2,
+      "explanation": "In molten NaCl, Na+ ions are reduced to sodium metal at the cathode.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q38",
+      "chapterId": "chem_ch2",
+      "question": "In the electrolysis of aqueous NaCl, why is H2 gas produced at the cathode instead of Na metal?",
+      "options": [
+        "Na is too heavy",
+        "H+ has a higher reduction potential than Na+",
+        "Cl- interferes with Na+",
+        "NaCl is not soluble"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water is more easily reduced than Na+ ions at the cathode.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q39",
+      "chapterId": "chem_ch2",
+      "question": "What is the product at the anode during the electrolysis of aqueous NaCl?",
+      "options": [
+        "O2 gas",
+        "Cl2 gas",
+        "H2 gas",
+        "Na metal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Due to overpotential, the oxidation of Cl- to Cl2 is preferred over the oxidation of water.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q40",
+      "chapterId": "chem_ch2",
+      "question": "The molar conductivity of a strong electrolyte ________ slowly with an increase in concentration.",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "Fluctuates"
+      ],
+      "correctIndex": 1,
+      "explanation": "Molar conductivity decreases with concentration for all electrolytes, but more steeply for weak ones.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q41",
+      "chapterId": "chem_ch2",
+      "question": "Which of the following is NOT a strong electrolyte?",
+      "options": [
+        "KCl",
+        "NaCl",
+        "CH3COOH",
+        "HCl"
+      ],
+      "correctIndex": 2,
+      "explanation": "Acetic acid (CH3COOH) is a weak electrolyte as it does not dissociate completely.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q42",
+      "chapterId": "chem_ch2",
+      "question": "Limiting molar conductivity for weak electrolytes is determined using:",
+      "options": [
+        "Direct measurement",
+        "Extrapolation of graph",
+        "Kohlrausch’s Law",
+        "Faraday's Law"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kohlrausch's Law allows calculation of Λ°m for weak electrolytes from the Λ°m of strong electrolytes.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q43",
+      "chapterId": "chem_ch2",
+      "question": "The cell potential (Ecell) is an ________ property.",
+      "options": [
+        "Extensive",
+        "Intensive",
+        "Chemical",
+        "Biological"
+      ],
+      "correctIndex": 1,
+      "explanation": "Potential is an intensive property and does not depend on the amount of substance.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q44",
+      "chapterId": "chem_ch2",
+      "question": "Gibbs free energy (ΔG) is an ________ property.",
+      "options": [
+        "Extensive",
+        "Intensive",
+        "Thermal",
+        "None"
+      ],
+      "correctIndex": 0,
+      "explanation": "ΔG depends on 'n' (the amount of electrons transferred), making it an extensive property.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q45",
+      "chapterId": "chem_ch2",
+      "question": "What happens to the conductivity (κ) when the number of ions per unit volume increases?",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays the same",
+        "Becomes zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conductivity depends on the concentration of ions; more ions means higher conductivity.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q46",
+      "chapterId": "chem_ch2",
+      "question": "In the electrolysis of sulfuric acid, at high H2SO4 concentration, which reaction is preferred at the anode?",
+      "options": [
+        "Oxidation of water to O2",
+        "Oxidation of sulphate to peroxodisulphate (S2O8^2-)",
+        "Reduction of H+",
+        "Formation of H2"
+      ],
+      "correctIndex": 1,
+      "explanation": "At high acid concentration, the formation of peroxodisulphate is preferred.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q47",
+      "chapterId": "chem_ch2",
+      "question": "A salt bridge is usually made with a paste of:",
+      "options": [
+        "NaOH",
+        "KCl or KNO3 in Agar-agar",
+        "Pure Zinc",
+        "Lead and Copper"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inert electrolytes like KCl or KNO3 are used in a salt bridge.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q48",
+      "chapterId": "chem_ch2",
+      "question": "The difference between the electrode potentials of the two electrodes is called ________.",
+      "options": [
+        "Cell emf",
+        "Resistance",
+        "Conductance",
+        "Overpotential"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cell potential is the difference between cathode and anode potentials; it is called emf when no current is drawn.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q49",
+      "chapterId": "chem_ch2",
+      "question": "Metals like ________ and ________ are used as inert electrodes.",
+      "options": [
+        "Zinc, Copper",
+        "Platinum, Gold",
+        "Iron, Silver",
+        "Lead, Mercury"
+      ],
+      "correctIndex": 1,
+      "explanation": "Platinum and gold do not participate in the reaction but provide a surface for electron transfer.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch2_q50",
+      "chapterId": "chem_ch2",
+      "question": "How many Coulombs are required to reduce 1 mole of Al3+ ions to Al?",
+      "options": [
+        "1 F",
+        "2 F",
+        "3 F",
+        "96487 C"
+      ],
+      "correctIndex": 2,
+      "explanation": "Al3+ + 3e- -> Al requires 3 moles of electrons, which is 3 Faradays.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    }
+  ]
+}

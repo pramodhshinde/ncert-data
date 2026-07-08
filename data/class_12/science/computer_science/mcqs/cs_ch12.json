@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_cs_ch12_q1",
+      "chapterId": "c12_cs_ch12",
+      "question": "What is the primary concern of network security?",
+      "options": [
+        "Increasing network speed",
+        "Protection of devices and data from illegitimate access or misuse",
+        "Connecting multiple devices globally",
+        "Creating new software applications"
+      ],
+      "correctIndex": 1,
+      "explanation": "Network security is concerned with the protection of our device as well as data from illegitimate access or misuse.",
+      "ncertPage": 224,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q2",
+      "chapterId": "c12_cs_ch12",
+      "question": "The term 'Malware' is a short form for which of the following?",
+      "options": [
+        "Malfunctioning Hardware",
+        "Malicious Hardware",
+        "Malicious Software",
+        "Multiple Wares"
+      ],
+      "correctIndex": 2,
+      "explanation": "Malware is a short term used for MALicious softWARE.",
+      "ncertPage": 225,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q3",
+      "chapterId": "c12_cs_ch12",
+      "question": "Who coined the term 'computer virus' in 1985?",
+      "options": [
+        "Alan Turing",
+        "Clifford Stoll",
+        "Charles Babbage",
+        "Fred Cohen"
+      ],
+      "correctIndex": 3,
+      "explanation": "The term computer virus was coined by Fred Cohen in 1985 and has been borrowed from biological science.",
+      "ncertPage": 225,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q4",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which of the following is a key characteristic of a computer virus?",
+      "options": [
+        "It replicates on its own without human intervention",
+        "It needs human triggering for replication",
+        "It does not need a host program to spread",
+        "It only attacks hardware components"
+      ],
+      "correctIndex": 1,
+      "explanation": "A virus needs human triggering for replication (i.e. when a user opens/executes the infected file) to copy or insert its code.",
+      "ncertPage": 225,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q5",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which of the following is an example of a computer virus?",
+      "options": [
+        "Stuxnet",
+        "Storm Worm",
+        "Code Red",
+        "Morris Worm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Some well-known viruses include CryptoLocker, ILOVEYOU, MyDoom, Sasser and Netsky, Slammer, Stuxnet, etc.",
+      "ncertPage": 225,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q6",
+      "chapterId": "c12_cs_ch12",
+      "question": "How does a 'Worm' differ from a 'Virus'?",
+      "options": [
+        "A worm requires a host program to spread",
+        "A worm cannot spread through a network",
+        "A worm does not need a host program and replicates on its own",
+        "A worm only steals passwords"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike a virus, a worm does not need a host program or software to insert its code into. Worms are standalone programs that replicate on their own.",
+      "ncertPage": 226,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q7",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which of the following is an example of a computer worm?",
+      "options": [
+        "Slammer",
+        "CryptoLocker",
+        "Stuxnet",
+        "Code Red"
+      ],
+      "correctIndex": 3,
+      "explanation": "Some prominent examples of worms include Storm Worm, Sobig, MSBlast, Code Red, Nimda, Morris Worm, etc.",
+      "ncertPage": 226,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q8",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which type of malware targets user data, blocks access, and demands payment to unlock it?",
+      "options": [
+        "Adware",
+        "Trojan",
+        "Spyware",
+        "Ransomware"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ransomware targets user data, blocks access or encrypts it, and demands ransom payment against it.",
+      "ncertPage": 226,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q9",
+      "chapterId": "c12_cs_ch12",
+      "question": "WannaCry, which infected almost 200,000 computers across 150 countries in May 2017, is an example of:",
+      "options": [
+        "A Virus",
+        "A Ransomware",
+        "A Trojan",
+        "A Worm"
+      ],
+      "correctIndex": 1,
+      "explanation": "In May 2017, a ransomware WannaCry infected almost 200,000 computers across 150 countries.",
+      "ncertPage": 226,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q10",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which malware gets its name from an ancient Greek warfare tactic involving a hidden army inside a wooden horse?",
+      "options": [
+        "Worm",
+        "Spyware",
+        "Trojan",
+        "Keylogger"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trojan borrows the concept from the ancient Greeks who infiltrated Troy using a big wooden horse with hidden soldiers inside.",
+      "ncertPage": 226,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q11",
+      "chapterId": "c12_cs_ch12",
+      "question": "Does a Trojan horse self-replicate like a worm?",
+      "options": [
+        "Yes, it replicates constantly",
+        "Yes, but only over emails",
+        "No, it spreads through user interaction",
+        "No, it does not spread at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Trojan does not self-replicate or infect other files, it spreads through user interaction such as opening an email attachment.",
+      "ncertPage": 227,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q12",
+      "chapterId": "c12_cs_ch12",
+      "question": "What is the primary function of Spyware?",
+      "options": [
+        "To encrypt user files",
+        "To display advertisements",
+        "To replicate and fill up the hard drive",
+        "To spy on a person/organisation by gathering and sending information without consent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spyware is a type of malware that spies on a person or an organisation by gathering information about them without the user's knowledge.",
+      "ncertPage": 227,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q13",
+      "chapterId": "c12_cs_ch12",
+      "question": "Malware created specifically to generate revenue for its developer by displaying online advertisements is known as:",
+      "options": [
+        "Ransomware",
+        "Trojan",
+        "Adware",
+        "Spyware"
+      ],
+      "correctIndex": 2,
+      "explanation": "An Adware is a malware that is created to generate revenue for its developer by displaying online advertisements.",
+      "ncertPage": 227,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q14",
+      "chapterId": "c12_cs_ch12",
+      "question": "How do adware developers typically charge their clients once the adware is installed on many systems?",
+      "options": [
+        "By selling encryption keys",
+        "By using a 'pay per click' mechanism against the displayed ads",
+        "By stealing bank details directly",
+        "By charging a monthly subscription fee to the victim"
+      ],
+      "correctIndex": 1,
+      "explanation": "It generates revenue either by displaying advertisements or using a 'pay per click' mechanism to charge its clients against the number of clicks on their displayed ads.",
+      "ncertPage": 227,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q15",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which of the following is designed to record the keystrokes pressed by a user on the keyboard?",
+      "options": [
+        "Trojan Horse",
+        "Ransomware",
+        "Keylogger",
+        "Worm"
+      ],
+      "correctIndex": 2,
+      "explanation": "A keylogger can either be malware or hardware. Its main purpose is to record the keys pressed by a user on the keyboard.",
+      "ncertPage": 228,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q16",
+      "chapterId": "c12_cs_ch12",
+      "question": "How is a hardware keylogger typically implemented?",
+      "options": [
+        "By downloading a malicious file",
+        "By placing a thin transparent keyboard atop the actual keyboard",
+        "By connecting to the Wi-Fi network",
+        "By installing a hidden browser extension"
+      ],
+      "correctIndex": 1,
+      "explanation": "To implement a keylogger in hardware, a thin transparent keyboard is placed atop the actual keyboard or input pad of the intended machine.",
+      "ncertPage": 228,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q17",
+      "chapterId": "c12_cs_ch12",
+      "question": "An 'on-screen' keyboard of an operating system typically uses which layout?",
+      "options": [
+        "Randomised layout",
+        "Fixed QWERTY key layout",
+        "Alphabetical layout",
+        "Numeric keypad layout"
+      ],
+      "correctIndex": 1,
+      "explanation": "The on-screen keyboard of an operating system uses a fixed QWERTY key layout.",
+      "ncertPage": 228,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q18",
+      "chapterId": "c12_cs_ch12",
+      "question": "Why is an 'online virtual' keyboard safer to use against keyloggers than an 'on-screen' keyboard?",
+      "options": [
+        "It does not require an internet connection.",
+        "It randomises the key layout every time it is used.",
+        "It is a physical hardware device.",
+        "It uses complex encryption algorithms."
+      ],
+      "correctIndex": 1,
+      "explanation": "An online virtual keyboard randomises the key layout every time it is used, thereby making it very difficult for a keylogger software to know or record the key(s) pressed.",
+      "ncertPage": 228,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q19",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which of the following is a common mode of malware distribution via unsolicited messages?",
+      "options": [
+        "Spam Email",
+        "Antivirus Updates",
+        "Operating System Patches",
+        "FOSS downloads"
+      ],
+      "correctIndex": 0,
+      "explanation": "We often receive an unsolicited email with embedded hyperlinks or attachment files. These links or attached files can be malware.",
+      "ncertPage": 229,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q20",
+      "chapterId": "c12_cs_ch12",
+      "question": "How can removable storage devices like pen drives distribute malware?",
+      "options": [
+        "By physically damaging the USB port",
+        "By infecting the device and transferring the malware to other systems they are plugged into",
+        "By deleting all files permanently",
+        "By upgrading the operating system automatically"
+      ],
+      "correctIndex": 1,
+      "explanation": "Often, the replicating malware targets the removable storage media... and infect them with malware that gets transferred to other systems that they are plugged into.",
+      "ncertPage": 229,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q21",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which of the following is a common sign of a malware infection?",
+      "options": [
+        "Faster internet speed",
+        "Changes to the default homepage of your web browser",
+        "Fewer pop-up windows",
+        "Increased available storage space"
+      ],
+      "correctIndex": 1,
+      "explanation": "Common signs of malware infection include changes to the default homepage of your web browser.",
+      "ncertPage": 230,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q22",
+      "chapterId": "c12_cs_ch12",
+      "question": "If your computer frequently crashes and runs unusually slow, it could be a sign of:",
+      "options": [
+        "Hardware upgrade",
+        "Malware infection",
+        "Network optimization",
+        "Software patching"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unusually slow computer with frequent crashes is listed as a common sign of malware infection.",
+      "ncertPage": 230,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q23",
+      "chapterId": "c12_cs_ch12",
+      "question": "To combat malware, instead of using pirated or unlicensed software, one should opt for:",
+      "options": [
+        "Beta versions",
+        "Trialware",
+        "Shareware",
+        "FOSS (Free and Open Source Software)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Never use pirated on unlicensed software. Instead go for Free and Open Source Software (FOSS).",
+      "ncertPage": 230,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q24",
+      "chapterId": "c12_cs_ch12",
+      "question": "What is the recommended way to close an unwanted pop-up advertisement safely?",
+      "options": [
+        "Click the 'close' button inside the pop-up",
+        "Click anywhere on the ad",
+        "Use the pop-up window's 'X' icon located on the top-right",
+        "Restart the computer immediately"
+      ],
+      "correctIndex": 2,
+      "explanation": "Use the pop-up window's 'X' icon located on the top-right of the popup to close the ad instead of clicking on the 'close' button in the pop-up.",
+      "ncertPage": 231,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q25",
+      "chapterId": "c12_cs_ch12",
+      "question": "What is another common name for Antivirus software?",
+      "options": [
+        "Anti-malware",
+        "Anti-firewall",
+        "Spy-blocker",
+        "Ad-blocker"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antivirus is a software, also known as anti-malware.",
+      "ncertPage": 231,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q26",
+      "chapterId": "c12_cs_ch12",
+      "question": "In the context of signature-based detection, what does VDF stand for?",
+      "options": [
+        "Virtual Data Format",
+        "Virus Definition File",
+        "Visual Detection Feature",
+        "Virus Deletion Function"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this method, an antivirus works with the help of a signature database known as 'Virus Definition File (VDF)'.",
+      "ncertPage": 231,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q27",
+      "chapterId": "c12_cs_ch12",
+      "question": "What type of malware can evade signature-based detection by changing its signature?",
+      "options": [
+        "Static malware",
+        "Polymorphic malware",
+        "Encrypted malware",
+        "Sandbox malware"
+      ],
+      "correctIndex": 1,
+      "explanation": "This method also fails to detect malware that has an ability to change its signature (polymorphic) and the malware that has some portion of its code encrypted.",
+      "ncertPage": 231,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q28",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which malware identification method involves executing a new application in a virtual environment to observe its behaviour?",
+      "options": [
+        "Signature-based detection",
+        "Sandbox detection",
+        "Heuristics",
+        "Data mining techniques"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Sandbox detection, a new application or file is executed in a virtual environment (sandbox) and its behavioural fingerprint is observed for a possible malware.",
+      "ncertPage": 231,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q29",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which method employs machine learning techniques to classify the behaviour of a file as either benign or malicious?",
+      "options": [
+        "Sandbox detection",
+        "Data mining techniques",
+        "Heuristics",
+        "Real-time protection"
+      ],
+      "correctIndex": 1,
+      "explanation": "This method employs various data mining and machine learning techniques to classify the behaviour of a file as either benign or malicious.",
+      "ncertPage": 231,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q30",
+      "chapterId": "c12_cs_ch12",
+      "question": "When an antivirus compares the source code of a suspected program to known viruses in a database, it is using:",
+      "options": [
+        "Heuristics",
+        "Sandbox detection",
+        "Data mining",
+        "Real-time protection"
+      ],
+      "correctIndex": 0,
+      "explanation": "In Heuristics, the source code of a suspected program is compared to viruses that are already known and are in the heuristic database.",
+      "ncertPage": 232,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q31",
+      "chapterId": "c12_cs_ch12",
+      "question": "The technique where anti-malware keeps running in the background to observe applications while they reside in the active memory is called:",
+      "options": [
+        "Sandbox detection",
+        "Heuristics",
+        "Signature-based detection",
+        "Real-time protection"
+      ],
+      "correctIndex": 3,
+      "explanation": "In real-time protection, the anti-malware software keeps running in the background and observes the behavior of an application or file... when it resides in the active (main) memory.",
+      "ncertPage": 232,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q32",
+      "chapterId": "c12_cs_ch12",
+      "question": "What is the most widely recognised form of Spam?",
+      "options": [
+        "Forum spam",
+        "Messaging spam",
+        "Email spam",
+        "Advertisement spam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spam is a broad term... However, the widely recognised form is email spam.",
+      "ncertPage": 232,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q33",
+      "chapterId": "c12_cs_ch12",
+      "question": "How does HTTP transmit data over the network?",
+      "options": [
+        "It encrypts all data automatically",
+        "It scrambles the data randomly",
+        "It sends information over the network as it is",
+        "It compresses data before sending"
+      ],
+      "correctIndex": 2,
+      "explanation": "HTTP sends information over the network as it is. It does not scramble the data to be transmitted, leaving it vulnerable to attacks.",
+      "ncertPage": 232,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q34",
+      "chapterId": "c12_cs_ch12",
+      "question": "What is the primary advantage of HTTPS over HTTP?",
+      "options": [
+        "HTTPS encrypts the data before transmission",
+        "HTTPS is faster",
+        "HTTPS does not use cookies",
+        "HTTPS requires less bandwidth"
+      ],
+      "correctIndex": 0,
+      "explanation": "HTTPS encrypts the data before transmission. At the receiver end, it decrypts to recover the original data.",
+      "ncertPage": 233,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q35",
+      "chapterId": "c12_cs_ch12",
+      "question": "To implement HTTPS, a website requires which type of certificate?",
+      "options": [
+        "ISO Certificate",
+        "FOSS Certificate",
+        "VDF Certificate",
+        "SSL Digital Certificate"
+      ],
+      "correctIndex": 3,
+      "explanation": "The HTTPS based websites require SSL Digital Certificate.",
+      "ncertPage": 233,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q36",
+      "chapterId": "c12_cs_ch12",
+      "question": "A network security system designed to protect a trusted private network from unauthorised access or traffic originating from an outside network is called a:",
+      "options": [
+        "Keylogger",
+        "Cookie",
+        "Firewall",
+        "Sandbox"
+      ],
+      "correctIndex": 2,
+      "explanation": "Computer firewall is a network security system designed to protect a trusted private network from unauthorised access or traffic originating from an untrusted outside network.",
+      "ncertPage": 233,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q37",
+      "chapterId": "c12_cs_ch12",
+      "question": "If a firewall is placed between two or more networks and monitors the traffic between them, it is termed as:",
+      "options": [
+        "Host-based Firewall",
+        "Network Firewall",
+        "Gateway Firewall",
+        "Server Firewall"
+      ],
+      "correctIndex": 1,
+      "explanation": "If the firewall is placed between two or more networks and monitors the network traffic between different networks, it is termed as Network Firewall.",
+      "ncertPage": 234,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q38",
+      "chapterId": "c12_cs_ch12",
+      "question": "If a firewall is placed directly on a specific computer to monitor its network traffic, it is called a:",
+      "options": [
+        "Host-based Firewall",
+        "Network Firewall",
+        "External Firewall",
+        "Hardware Firewall"
+      ],
+      "correctIndex": 0,
+      "explanation": "If the firewall is placed on a computer and monitors the network traffic to and from that computer, it is called a host-based firewall.",
+      "ncertPage": 234,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q39",
+      "chapterId": "c12_cs_ch12",
+      "question": "The term 'cookie' was derived from which term used by Unix programmers?",
+      "options": [
+        "Data cookie",
+        "Smart cookie",
+        "Magic cookie",
+        "Web cookie"
+      ],
+      "correctIndex": 2,
+      "explanation": "The term 'cookie' was derived from the term 'magic cookie' used by Unix programmers to indicate a packet of data.",
+      "ncertPage": 234,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q40",
+      "chapterId": "c12_cs_ch12",
+      "question": "Where is a computer cookie physically stored?",
+      "options": [
+        "On the website's server",
+        "On the client's computer",
+        "Inside the network router",
+        "In the firewall database"
+      ],
+      "correctIndex": 1,
+      "explanation": "A computer cookie is a small file or data packet, which is stored by a website on the client's computer.",
+      "ncertPage": 234,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q41",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which type of cookie keeps track of the current session and terminates it when there is a time-out?",
+      "options": [
+        "Authentication cookie",
+        "Zombie cookie",
+        "Session cookie",
+        "Third-party cookie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Session cookies keep track of the current session and even terminate the session when there is a time-out.",
+      "ncertPage": 234,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q42",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which type of cookie is used to check if a user has previously logged in, preventing the need to log in repeatedly?",
+      "options": [
+        "Session cookie",
+        "Zombie cookie",
+        "Third-party cookie",
+        "Authentication cookie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Authentication cookies are used by a website to check if the user is previously logged in (authenticated) or not.",
+      "ncertPage": 234,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q43",
+      "chapterId": "c12_cs_ch12",
+      "question": "A cookie that automatically gets recreated even after being deleted by the user is known as a:",
+      "options": [
+        "Session cookie",
+        "Authentication cookie",
+        "Zombie cookie",
+        "Supercookie"
+      ],
+      "correctIndex": 2,
+      "explanation": "There is another type of cookie known as 'Zombie cookie' that gets recreated after being deleted.",
+      "ncertPage": 235,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q44",
+      "chapterId": "c12_cs_ch12",
+      "question": "Security experts hired by organisations to find and fix security flaws in their systems with good intentions are called:",
+      "options": [
+        "Black Hat Hackers",
+        "White Hat Hackers",
+        "Grey Hat Hackers",
+        "Crackers"
+      ],
+      "correctIndex": 1,
+      "explanation": "If a hacker uses its knowledge to find and help in fixing the security flaws in the system, its termed as White Hat hacker.",
+      "ncertPage": 235,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q45",
+      "chapterId": "c12_cs_ch12",
+      "question": "Hackers who use their knowledge unethically to break the law and exploit flaws in a system are known as:",
+      "options": [
+        "White Hats",
+        "Ethical Hackers",
+        "Black Hats (Crackers)",
+        "Grey Hats"
+      ],
+      "correctIndex": 2,
+      "explanation": "If hackers use their knowledge unethically to break the law and disrupt security by exploiting the flaws and loopholes in a system, then they are called black hat hackers.",
+      "ncertPage": 235,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q46",
+      "chapterId": "c12_cs_ch12",
+      "question": "Hackers who exploit system vulnerabilities just for the fun and challenge of it, without monetary or political gains, are known as:",
+      "options": [
+        "White Hats",
+        "Black Hats",
+        "Grey Hats",
+        "Hacktivists"
+      ],
+      "correctIndex": 2,
+      "explanation": "The grey hats take system security as a challenge and just hack systems for the fun of it, without monetary or political gains.",
+      "ncertPage": 236,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q47",
+      "chapterId": "c12_cs_ch12",
+      "question": "A hacker with an aim to bring about political and social change through hacking is known as a:",
+      "options": [
+        "Cracker",
+        "Hacktivist",
+        "White Hat",
+        "Zombie"
+      ],
+      "correctIndex": 1,
+      "explanation": "A hacktivist is a hacker with an aim to bring about political and social change.",
+      "ncertPage": 235,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q48",
+      "chapterId": "c12_cs_ch12",
+      "question": "Which network threat involves an attacker overloading a service or device with illegitimate requests to stop authorised users from accessing it?",
+      "options": [
+        "Snooping",
+        "Denial of Service (DoS)",
+        "Eavesdropping",
+        "Asymmetric Routing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Denial of Service (DoS) is a scenario, wherein an attacker limits or stops an authorised user to access a service by overloading that resource with illegitimate requests.",
+      "ncertPage": 236,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q49",
+      "chapterId": "c12_cs_ch12",
+      "question": "In a Distributed Denial of Service (DDoS) attack, the compromised computers that the attacker controls to flood the target are called:",
+      "options": [
+        "Trojans",
+        "Zombies",
+        "White Hats",
+        "Sandboxes"
+      ],
+      "correctIndex": 1,
+      "explanation": "In DDoS, the flooded requests come from compromised computer (Zombies) systems distributed across the globe.",
+      "ncertPage": 236,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch12_q50",
+      "chapterId": "c12_cs_ch12",
+      "question": "What is the primary difference between Eavesdropping and Snooping?",
+      "options": [
+        "Eavesdropping is done in real-time, while snooping can store traffic for later analysis.",
+        "Snooping only works on voice calls, while eavesdropping works on data.",
+        "Eavesdropping is legal, but snooping is not.",
+        "There is no difference; they are the exact same attack."
+      ],
+      "correctIndex": 0,
+      "explanation": "Unlike snooping, where the network traffic can be stored for later analysis, eavesdropping is an unauthorised real-time interception or monitoring of private communication.",
+      "ncertPage": 238,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    }
+  ]
+}

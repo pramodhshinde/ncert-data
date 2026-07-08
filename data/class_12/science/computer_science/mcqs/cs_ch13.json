@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_cs_ch13_q1",
+      "chapterId": "c12_cs_ch13",
+      "question": "What kind of exposure does project based learning primarily provide to students regarding a problem?",
+      "options": [
+        "Strictly theoretical knowledge",
+        "Thorough practical exposure",
+        "Only financial management skills",
+        "Basic memorization skills"
+      ],
+      "correctIndex": 1,
+      "explanation": "Project based learning gives a thorough practical exposure to students regarding a problem upon which the project is based.",
+      "ncertPage": 241,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q2",
+      "chapterId": "c12_cs_ch13",
+      "question": "Which of the following is a skill that students learn through project based learning in groups?",
+      "options": [
+        "Isolating work processes",
+        "Memorizing textbooks",
+        "Problem solving and decision making",
+        "Avoiding team discussions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Projects are developed generally in groups where students can learn various skills such as working together, problem solving, decision making, and investigating activities.",
+      "ncertPage": 241,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q3",
+      "chapterId": "c12_cs_ch13",
+      "question": "What is the final step involved in the problem-solving phase of project based learning?",
+      "options": [
+        "Analysing the problem",
+        "Formulating the problem into small modules",
+        "Applying the mechanism to each module",
+        "Integrating the solution of all the modules"
+      ],
+      "correctIndex": 3,
+      "explanation": "Project based learning involves analyzing, formulating into modules, applying mechanisms, and then integrating the solution of all the modules to arrive at the complete solution.",
+      "ncertPage": 241,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q4",
+      "chapterId": "c12_cs_ch13",
+      "question": "Which project execution approach involves dividing a project into various manageable modules with well-defined tasks?",
+      "options": [
+        "Top down approach",
+        "Structured or modular approach",
+        "Bottom up approach",
+        "Randomized approach"
+      ],
+      "correctIndex": 1,
+      "explanation": "A structured or a modular approach to a project means that a project is divided into various manageable modules and each of the modules has a well-defined task to be performed.",
+      "ncertPage": 242,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q5",
+      "chapterId": "c12_cs_ch13",
+      "question": "Which of the following is NOT one of the approaches mentioned for solving projects?",
+      "options": [
+        "Modular approach",
+        "Top down approach",
+        "Bottom up approach",
+        "Trial and error approach"
+      ],
+      "correctIndex": 3,
+      "explanation": "There are several approaches to execute a project such as modular approach, top down approach and bottom up approach.",
+      "ncertPage": 242,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q6",
+      "chapterId": "c12_cs_ch13",
+      "question": "According to the steps in project based learning, what is the first step?",
+      "options": [
+        "Defining a plan",
+        "Identification of a project",
+        "Fixing time frame and processing",
+        "Outcome of a project"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first step in project based learning is the 'Identification of a project'.",
+      "ncertPage": 242,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q7",
+      "chapterId": "c12_cs_ch13",
+      "question": "Where does a project idea typically come from in the context of project based learning?",
+      "options": [
+        "Only from computer science textbooks",
+        "Any real-life situation",
+        "Random guessing",
+        "Fictional storybooks"
+      ],
+      "correctIndex": 1,
+      "explanation": "The project idea may come through any real-life situation.",
+      "ncertPage": 242,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q8",
+      "chapterId": "c12_cs_ch13",
+      "question": "What type of projects are students explicitly encouraged to undertake?",
+      "options": [
+        "Single-subject projects",
+        "Interdisciplinary projects",
+        "Theoretical projects only",
+        "Projects without practical application"
+      ],
+      "correctIndex": 1,
+      "explanation": "Students must be encouraged to undertake interdisciplinary projects.",
+      "ncertPage": 242,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q9",
+      "chapterId": "c12_cs_ch13",
+      "question": "During the 'Defining a plan' step, who needs to be identified if there are several project members?",
+      "options": [
+        "A sponsor",
+        "A project leader",
+        "An external auditor",
+        "A legal advisor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normally for any kind of project, there are several project members involved in it. One project leader has to be identified.",
+      "ncertPage": 242,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q10",
+      "chapterId": "c12_cs_ch13",
+      "question": "To obtain a better solution while defining a plan, one should always think of:",
+      "options": [
+        "The shortest possible path",
+        "The extreme situations",
+        "Only the best-case scenarios",
+        "Financial constraints only"
+      ],
+      "correctIndex": 1,
+      "explanation": "To obtain a better solution, one should always think of the extreme situations.",
+      "ncertPage": 242,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q11",
+      "chapterId": "c12_cs_ch13",
+      "question": "What is the third step in the project based learning process?",
+      "options": [
+        "Identification of a project",
+        "Defining a plan",
+        "Fixing of a time frame and processing",
+        "Providing guidance and monitoring"
+      ],
+      "correctIndex": 2,
+      "explanation": "The third step is 'Fixing of a time frame and processing'.",
+      "ncertPage": 242,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q12",
+      "chapterId": "c12_cs_ch13",
+      "question": "Every project must be well structured, and at the same time, it must be __________ in its time frame.",
+      "options": [
+        "Rigid",
+        "Flexible",
+        "Infinite",
+        "Unplanned"
+      ],
+      "correctIndex": 1,
+      "explanation": "Every project must be well structured and at the same time it must be flexible in its time frame.",
+      "ncertPage": 242,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q13",
+      "chapterId": "c12_cs_ch13",
+      "question": "When project participants get stuck with a particular process, who primarily helps in monitoring and guiding the project besides the project leader?",
+      "options": [
+        "The school principal",
+        "The guide teacher",
+        "External investors",
+        "The class monitor"
+      ],
+      "correctIndex": 1,
+      "explanation": "While it is essential that the project leader should ensure monitoring of the project, the guide teacher also helps in monitoring the project.",
+      "ncertPage": 243,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q14",
+      "chapterId": "c12_cs_ch13",
+      "question": "Where can guidance be obtained if participants find it impossible to proceed further?",
+      "options": [
+        "Only from the project leader",
+        "Only from the internet",
+        "From various resources such as books, websites and experts",
+        "From other competing teams"
+      ],
+      "correctIndex": 2,
+      "explanation": "In such a case, they need guidance, which can be obtained from various resources such as books, websites and experts in the field.",
+      "ncertPage": 243,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q15",
+      "chapterId": "c12_cs_ch13",
+      "question": "The outcome of a project can be:",
+      "options": [
+        "Single only",
+        "Multiple only",
+        "Single or multiple",
+        "Neither single nor multiple"
+      ],
+      "correctIndex": 2,
+      "explanation": "The outcome can be single, or it can be multiple.",
+      "ncertPage": 243,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q16",
+      "chapterId": "c12_cs_ch13",
+      "question": "The output of a project can be peer-reviewed and modified based on the feedback from:",
+      "options": [
+        "The guide teacher or other users",
+        "Only the project leader",
+        "Hardware vendors",
+        "Software developers only"
+      ],
+      "correctIndex": 0,
+      "explanation": "The output of a project can be peer reviewed and can be modified as per the feedback from the guide teacher or other users.",
+      "ncertPage": 243,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q17",
+      "chapterId": "c12_cs_ch13",
+      "question": "What is the term for efforts made by individuals collectively to accomplish a task?",
+      "options": [
+        "Parallel processing",
+        "Teamwork",
+        "Multithreading",
+        "Modular programming"
+      ],
+      "correctIndex": 1,
+      "explanation": "Efforts made by individuals collectively to accomplish a task is called teamwork.",
+      "ncertPage": 243,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q18",
+      "chapterId": "c12_cs_ch13",
+      "question": "Which sports example is explicitly used in the chapter to illustrate the concept of teamwork?",
+      "options": [
+        "Football",
+        "Basketball",
+        "Cricket",
+        "Hockey"
+      ],
+      "correctIndex": 2,
+      "explanation": "Take an example of a cricket team. We find that even if a bowler bowls a good ball but if the fielder cannot take a catch then the wicket cannot be taken.",
+      "ncertPage": 243,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q19",
+      "chapterId": "c12_cs_ch13",
+      "question": "Which of the following is NOT listed as a component of teamwork?",
+      "options": [
+        "Communicate with Others",
+        "Listen to Others",
+        "Compete with Others",
+        "Respect for Others"
+      ],
+      "correctIndex": 2,
+      "explanation": "The components of teamwork are Communicate with Others, Listen to Others, Share with Others, Respect for Others, Help Others, and Participate. Competing is not one of them.",
+      "ncertPage": 244,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q20",
+      "chapterId": "c12_cs_ch13",
+      "question": "Which component of teamwork involves arranging group meetings or using e-mails and telephones?",
+      "options": [
+        "Respect for Others",
+        "Help Others",
+        "Communicate with Others",
+        "Participate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Such communication can be done via e-mails, telephones or by arranging group meetings.",
+      "ncertPage": 244,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q21",
+      "chapterId": "c12_cs_ch13",
+      "question": "Why is effective communication necessary in teamwork?",
+      "options": [
+        "To show off technical skills",
+        "To understand each other and sort out problems",
+        "To argue over design choices",
+        "To impress the guide teacher"
+      ],
+      "correctIndex": 1,
+      "explanation": "This helps the team members to understand each other and sort out their problems to achieve the goal effectively.",
+      "ncertPage": 244,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q22",
+      "chapterId": "c12_cs_ch13",
+      "question": "Which component of teamwork helps members understand each other's ideas by actively paying attention in group meetings?",
+      "options": [
+        "Share with Others",
+        "Listen to Others",
+        "Help Others",
+        "Participate"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is necessary to understand the ideas of others while executing a job together. This can be achieved when the team members listen to each other.",
+      "ncertPage": 244,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q23",
+      "chapterId": "c12_cs_ch13",
+      "question": "Ideas, images, and tools need to be transferred among members under which component of teamwork?",
+      "options": [
+        "Help Others",
+        "Listen to Others",
+        "Share with Others",
+        "Respect for Others"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ideas, images and tools need to be shared with each other in order to perform a job. Sharing is an important component of teamwork.",
+      "ncertPage": 244,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q24",
+      "chapterId": "c12_cs_ch13",
+      "question": "What is the primary reason for a team member well versed in a certain area to share their expertise?",
+      "options": [
+        "To get a better grade",
+        "To effectively achieve the goal within the time frame",
+        "To take over the project leadership",
+        "To minimize other members' workload completely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Any member of the team who is well versed in a certain area should share the expertise and experience with others to effectively achieve the goal within the time frame.",
+      "ncertPage": 244,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q25",
+      "chapterId": "c12_cs_ch13",
+      "question": "Which component of teamwork stresses that not giving due consideration to someone's views may cause problems in project execution?",
+      "options": [
+        "Communicate with Others",
+        "Help Others",
+        "Respect for Others",
+        "Listen to Others"
+      ],
+      "correctIndex": 2,
+      "explanation": "Not respecting the views of a particular member may cause problems and that particular team member may not give his best.",
+      "ncertPage": 244,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q26",
+      "chapterId": "c12_cs_ch13",
+      "question": "Is it possible to obtain help from people who are not a part of the team in order to accomplish a job?",
+      "options": [
+        "No, it violates project rules",
+        "Yes, sometimes help from people outside the team is obtained",
+        "Only if the guide teacher does it",
+        "No, teamwork strictly limits outside help"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sometimes help from people who are not a part of the team is also obtained in order to accomplish a job.",
+      "ncertPage": 244,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q27",
+      "chapterId": "c12_cs_ch13",
+      "question": "Why should every team member take an active participation in completing the project?",
+      "options": [
+        "So they feel their importance in the team",
+        "To bypass the project leader's authority",
+        "To work fewer hours eventually",
+        "So the project takes longer to complete"
+      ],
+      "correctIndex": 0,
+      "explanation": "Also, every member should take an active participation so that they feel their importance in the team.",
+      "ncertPage": 245,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q28",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the 'Automation of Order Processing in a Restaurant' project description, what is the name of the restaurant?",
+      "options": [
+        "Healthy Bites",
+        "Stay Healthy",
+        "Fresh Orders",
+        "Quick Meals"
+      ],
+      "correctIndex": 1,
+      "explanation": "A new restaurant \"Stay Healthy\" is coming up in your locality.",
+      "ncertPage": 245,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q29",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the restaurant automation project, what are the two types of Login options specified?",
+      "options": [
+        "Admin and Developer",
+        "Manager and Customer",
+        "Chef and Waiter",
+        "Owner and Accountant"
+      ],
+      "correctIndex": 1,
+      "explanation": "There should be two types of Login options - one for the manager of the joint and other for the customer.",
+      "ncertPage": 245,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q30",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the restaurant automation project, where are the kiosks meant to be placed for placing the order?",
+      "options": [
+        "In the kitchen",
+        "At the dining tables",
+        "At the reception",
+        "Outside the restaurant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kiosk(s) running the software for customers will be placed at reception for placing the order.",
+      "ncertPage": 245,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q31",
+      "chapterId": "c12_cs_ch13",
+      "question": "What information must the customer enter to place an order in the restaurant automation software?",
+      "options": [
+        "Customer name and phone number",
+        "Item Code(s) and quantity desired",
+        "Table number and payment method",
+        "Chef's name and dish name"
+      ],
+      "correctIndex": 1,
+      "explanation": "To place orders, customers will enter Item Code(s) and quantity desired.",
+      "ncertPage": 245,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q32",
+      "chapterId": "c12_cs_ch13",
+      "question": "After placing an order in the restaurant kiosk, what is displayed to the customer?",
+      "options": [
+        "A soft copy of the bill having an Order Number",
+        "A thank you video",
+        "The estimated cooking time",
+        "A discount coupon code"
+      ],
+      "correctIndex": 0,
+      "explanation": "After placing an order, a soft copy of the bill will be displayed on the kiosk, having an Order Number.",
+      "ncertPage": 245,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q33",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the restaurant automation project, what constitutes the unique identification for every bill?",
+      "options": [
+        "Customer's phone number",
+        "Combination of date and order number of the day",
+        "Manager's ID",
+        "Item code of the first order"
+      ],
+      "correctIndex": 1,
+      "explanation": "Every bill will have a unique identification (such as combination of date, and order number of the day) and should be saved in the data file/database.",
+      "ncertPage": 245,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q34",
+      "chapterId": "c12_cs_ch13",
+      "question": "What does the Order Number start from every day in the restaurant project?",
+      "options": [
+        "100",
+        "0",
+        "1",
+        "It continues from the previous day's last number"
+      ],
+      "correctIndex": 2,
+      "explanation": "Order Number starts from 1 every day.",
+      "ncertPage": 245,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q35",
+      "chapterId": "c12_cs_ch13",
+      "question": "For the manager login in the Restaurant automation project, which specific report generation is explicitly requested?",
+      "options": [
+        "Summary of the Sales made on a Day",
+        "List of worst-performing employees",
+        "Inventory of raw materials",
+        "Feedback from all customers"
+      ],
+      "correctIndex": 0,
+      "explanation": "For Manager login-provision for... generation of following report is desired. A Report giving Summary of the Sales made on a Day.",
+      "ncertPage": 246,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q36",
+      "chapterId": "c12_cs_ch13",
+      "question": "In Project Title 2, what language is suggested to implement the puzzle solving game?",
+      "options": [
+        "Java",
+        "C++",
+        "Python",
+        "HTML"
+      ],
+      "correctIndex": 2,
+      "explanation": "Implement a puzzle solving game in Python.",
+      "ncertPage": 246,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q37",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the 'Development of a Puzzle' game project, what happens if a player clicks a cell containing a bomb?",
+      "options": [
+        "The player loses a life but continues",
+        "The cell reveals a clue",
+        "The game finishes",
+        "The bomb is defused"
+      ],
+      "correctIndex": 2,
+      "explanation": "For clearing the board, the player will click a cell on the board, if the cell contains a bomb, the game finishes.",
+      "ncertPage": 246,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q38",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the puzzle project, what does a cell reveal if it does NOT contain a bomb?",
+      "options": [
+        "A blank space",
+        "A power-up item",
+        "A number giving a clue about the number of bombs hidden in adjacent cells",
+        "The location of all other bombs"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the cell does not contain a bomb, then the cell reveals a number giving a clue about the number of bombs hidden in adjacent cells.",
+      "ncertPage": 246,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q39",
+      "chapterId": "c12_cs_ch13",
+      "question": "What existing game are students advised to play to understand the puzzle project properly?",
+      "options": [
+        "Sudoku",
+        "Minesweeper",
+        "Tetris",
+        "Chess"
+      ],
+      "correctIndex": 1,
+      "explanation": "Before you start coding the game, play any Minesweeper game five times. This will help you in proper understanding of your project.",
+      "ncertPage": 246,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q40",
+      "chapterId": "c12_cs_ch13",
+      "question": "To reduce the complexity of the puzzle game program, what fixed grid size and number of bombs are suggested?",
+      "options": [
+        "8x8 grid with 10 bombs",
+        "6x6 grid with 6 bombs",
+        "10x10 grid with 15 bombs",
+        "5x5 grid with 5 bombs"
+      ],
+      "correctIndex": 1,
+      "explanation": "To reduce the complexity of the program you can fix the grid size to 6x6 and number of bombs to 6.",
+      "ncertPage": 246,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q41",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the 'Match the Sum' educational game project, what is the specified age group of the kids whose mathematical skills are targeted?",
+      "options": [
+        "3-5 years",
+        "5-7 years",
+        "8-10 years",
+        "10-12 years"
+      ],
+      "correctIndex": 1,
+      "explanation": "As a club member, you are given the responsibility of identifying ways to improve mathematical skills of kids, in the age group of 5-7 years.",
+      "ncertPage": 246,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q42",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the 'Match the Sum' game, what is the target sum that students need to form?",
+      "options": [
+        "15",
+        "20",
+        "10",
+        "100"
+      ],
+      "correctIndex": 2,
+      "explanation": "Match the Sum will hone summing skills of student(s), by allowing them to form number 10 by adding 2/3 digits.",
+      "ncertPage": 246,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q43",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the 'Match the Sum' game, how many cells are displayed on the screen at a time?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "20"
+      ],
+      "correctIndex": 2,
+      "explanation": "Display a list of 15 cells on screen, where each cell can hold a digit (1 to 9).",
+      "ncertPage": 247,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q44",
+      "chapterId": "c12_cs_ch13",
+      "question": "What values can each cell hold in the 'Match the Sum' game?",
+      "options": [
+        "0 to 9",
+        "1 to 9",
+        "1 to 10",
+        "10 to 99"
+      ],
+      "correctIndex": 1,
+      "explanation": "Display a list of 15 cells on screen, where each cell can hold a digit (1 to 9).",
+      "ncertPage": 247,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q45",
+      "chapterId": "c12_cs_ch13",
+      "question": "In the 'Match the Sum' game, from which end are the randomly generated digits placed in the list?",
+      "options": [
+        "Left end",
+        "Right end",
+        "Center",
+        "Random position"
+      ],
+      "correctIndex": 1,
+      "explanation": "Randomly generate a digit at a time and place it in the list from the right end.",
+      "ncertPage": 247,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q46",
+      "chapterId": "c12_cs_ch13",
+      "question": "What happens to the already existing digits in the 'Match the Sum' game when a new digit is added to the list?",
+      "options": [
+        "They are shifted right by one cell",
+        "They are shifted left by one cell",
+        "They are deleted",
+        "They swap positions randomly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Already existing digits, will be shifted left, by one cell, with every new addition of digits' in the list.",
+      "ncertPage": 247,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q47",
+      "chapterId": "c12_cs_ch13",
+      "question": "To play the 'Match the Sum' game, how many digits are students allowed to type at a time to form the sum?",
+      "options": [
+        "Exactly 2 digits",
+        "Exactly 3 digits",
+        "2 or 3 digits",
+        "Any number of digits"
+      ],
+      "correctIndex": 2,
+      "explanation": "For playing the game, students' will be allowed to type 2/3 digits (one at a time) currently displayed in the list of cells.",
+      "ncertPage": 247,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q48",
+      "chapterId": "c12_cs_ch13",
+      "question": "If the sum of the typed digits in the 'Match the Sum' game is 10, what action should the program take?",
+      "options": [
+        "Highlight them in red",
+        "Double their values",
+        "Remove those digits from the list of cells",
+        "Add another 10 to the score immediately"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the sum of those digits is 10, then those digits should get removed from the list of cells.",
+      "ncertPage": 247,
+      "difficulty": "EASY",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q49",
+      "chapterId": "c12_cs_ch13",
+      "question": "Until when does the 'Match the Sum' game continue?",
+      "options": [
+        "Till the timer reaches zero",
+        "Till the student scores 100 points",
+        "Till there is an empty cell to insert a digit in the list",
+        "Till the list contains only the number 10"
+      ],
+      "correctIndex": 2,
+      "explanation": "Game will continue till there is an empty cell to insert a digit in the list of cells.",
+      "ncertPage": 247,
+      "difficulty": "MEDIUM",
+      "subject": "Computer Science"
+    },
+    {
+      "mcqId": "12_cs_ch13_q50",
+      "chapterId": "c12_cs_ch13",
+      "question": "Which of the following is an exception handling requirement specifically noted for the 'Match the Sum' project?",
+      "options": [
+        "Take care of the situation when digits displayed do not add up to 10",
+        "Prevent players from entering letters",
+        "Stop the game if the mouse is clicked",
+        "Disable the keyboard completely"
+      ],
+      "correctIndex": 0,
+      "explanation": "Note: Do take care of the situation when digits displayed in a list of cells do not add up to 10.",
+      "ncertPage": 247,
+      "difficulty": "HARD",
+      "subject": "Computer Science"
+    }
+  ]
+}

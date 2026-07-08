@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch7_q1",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following is NOT one of the three critical research areas of biotechnology?",
+      "options": [
+        "Providing the best catalyst in the form of improved organism",
+        "Creating optimal conditions for a catalyst to act",
+        "Downstream processing technologies to purify the protein",
+        "Developing new agro-chemicals for soil fertility"
+      ],
+      "correctIndex": 3,
+      "explanation": "The three critical research areas are: providing the best catalyst, creating optimal conditions for the catalyst, and downstream processing. Agro-chemical development is an alternative to biotechnology.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q2",
+      "chapterId": "bio_ch7",
+      "question": "The Green Revolution succeeded in tripling the food supply mainly due to:",
+      "options": [
+        "Genetically modified crops",
+        "Improved crop varieties and use of agro-chemicals",
+        "Organic farming techniques",
+        "Bioremediation of soil"
+      ],
+      "correctIndex": 1,
+      "explanation": "The success of the Green Revolution was due to improved crop varieties and better management along with agro-chemicals (fertilisers and pesticides).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q3",
+      "chapterId": "bio_ch7",
+      "question": "Plants, bacteria, fungi and animals whose genes have been altered by manipulation are called:",
+      "options": [
+        "Naturally Selected Organisms",
+        "Genetically Modified Organisms (GMO)",
+        "Hybrid Organisms",
+        "Somaclonal Variants"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genetically Modified Organisms (GMO) are those whose genes have been altered by manipulation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q4",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following is an advantage of GM crops?",
+      "options": [
+        "Reduced reliance on chemical pesticides",
+        "Increased post-harvest losses",
+        "Decreased efficiency of mineral usage",
+        "Increased sensitivity to cold and drought"
+      ],
+      "correctIndex": 0,
+      "explanation": "GM crops help reduce reliance on chemical pesticides (pest-resistant crops).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q5",
+      "chapterId": "bio_ch7",
+      "question": "Golden rice is a transgenic variety of rice rich in:",
+      "options": [
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin A",
+        "Iron"
+      ],
+      "correctIndex": 2,
+      "explanation": "Golden rice is rice with enhanced nutritional value, specifically enriched with Vitamin A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q6",
+      "chapterId": "bio_ch7",
+      "question": "Bt toxin is produced by a bacterium called:",
+      "options": [
+        "Bacillus anthracis",
+        "Bacillus thuringiensis",
+        "Agrobacterium tumefaciens",
+        "Escherichia coli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bt toxin is produced by the bacterium Bacillus thuringiensis.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q7",
+      "chapterId": "bio_ch7",
+      "question": "The Bt toxin exists as an inactive protoxin in the bacterium but becomes active in the insect's:",
+      "options": [
+        "Acidic pH of foregut",
+        "Alkaline pH of gut",
+        "Salivary glands",
+        "Body cavity"
+      ],
+      "correctIndex": 1,
+      "explanation": "The inactive toxin is converted into an active form due to the alkaline pH of the insect's gut.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q8",
+      "chapterId": "bio_ch7",
+      "question": "Which gene is responsible for controlling the cotton bollworm?",
+      "options": [
+        "cryIAb",
+        "cryIAc",
+        "ampR",
+        "tetR"
+      ],
+      "correctIndex": 1,
+      "explanation": "The proteins encoded by genes cryIAc and cryIIAb control cotton bollworms.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q9",
+      "chapterId": "bio_ch7",
+      "question": "The gene cryIAb is specifically used to control:",
+      "options": [
+        "Cotton bollworm",
+        "Corn borer",
+        "Tobacco budworm",
+        "Nematodes"
+      ],
+      "correctIndex": 1,
+      "explanation": "CryIAb controls corn borer.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q10",
+      "chapterId": "bio_ch7",
+      "question": "RNA interference (RNAi) takes place in all eukaryotic organisms as a method of:",
+      "options": [
+        "Reproduction",
+        "Cellular defense",
+        "Digestion",
+        "Translation"
+      ],
+      "correctIndex": 1,
+      "explanation": "RNAi occurs in all eukaryotic organisms as a method of cellular defense.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q11",
+      "chapterId": "bio_ch7",
+      "question": "The nematode that infects the roots of tobacco plants and causes a great reduction in yield is:",
+      "options": [
+        "Meloidegyne incognitia",
+        "Ascaris lumbricoides",
+        "Wuchereria bancrofti",
+        "Ancylostoma duodenale"
+      ],
+      "correctIndex": 0,
+      "explanation": "Meloidegyne incognitia infects tobacco plant roots.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q12",
+      "chapterId": "bio_ch7",
+      "question": "In RNAi, the silencing of a specific mRNA is caused by a:",
+      "options": [
+        "Single-stranded DNA",
+        "Double-stranded RNA",
+        "Single-stranded RNA",
+        "Double-stranded DNA"
+      ],
+      "correctIndex": 1,
+      "explanation": "RNAi involves silencing of mRNA due to a complementary dsRNA molecule that binds to and prevents translation.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q13",
+      "chapterId": "bio_ch7",
+      "question": "Approximately how many recombinant therapeutics have been approved for human-use the world over?",
+      "options": [
+        "12",
+        "30",
+        "100",
+        "50"
+      ],
+      "correctIndex": 1,
+      "explanation": "At present, about 30 recombinant therapeutics have been approved for human-use the world over.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q14",
+      "chapterId": "bio_ch7",
+      "question": "In India, 12 of the 30 approved recombinant therapeutics are currently being marketed.",
+      "options": [
+        "30",
+        "12",
+        "20",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "In India, 12 of the 30 approved recombinant therapeutics are currently being marketed.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q15",
+      "chapterId": "bio_ch7",
+      "question": "In genetically engineered insulin, the 'C-peptide' is:",
+      "options": [
+        "Added to make it active",
+        "Removed during maturation of pro-insulin",
+        "Part of the final active insulin",
+        "Produced by gene A only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The C-peptide is an extra stretch present in pro-insulin that is removed during maturation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q16",
+      "chapterId": "bio_ch7",
+      "question": "Which American company first prepared two DNA sequences corresponding to A and B chains of human insulin in 1983?",
+      "options": [
+        "Eli Lilly",
+        "Pfizer",
+        "Monsanto",
+        "Genentech"
+      ],
+      "correctIndex": 0,
+      "explanation": "In 1983, Eli Lilly, an American company, prepared the DNA sequences for A and B chains.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q17",
+      "chapterId": "bio_ch7",
+      "question": "The first clinical gene therapy was given in 1990 to a 4-year-old girl with which deficiency?",
+      "options": [
+        "ADA (Adenosine deaminase)",
+        "Insulin",
+        "Growth hormone",
+        "Blood clotting factor"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first clinical gene therapy was given for adenosine deaminase (ADA) deficiency.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q18",
+      "chapterId": "bio_ch7",
+      "question": "A permanent cure for ADA deficiency could be:",
+      "options": [
+        "Bone marrow transplantation",
+        "Enzyme replacement therapy",
+        "Gene introduced into cells at early embryonic stages",
+        "Periodic infusion of genetically engineered lymphocytes"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the gene isolate from marrow cells producing ADA is introduced into cells at early embryonic stages, it could be a permanent cure.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q19",
+      "chapterId": "bio_ch7",
+      "question": "Which technique is used to detect HIV in suspected AIDS patients even before symptoms appear?",
+      "options": [
+        "ELISA",
+        "PCR",
+        "Serum analysis",
+        "Urine analysis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Very low concentrations of a bacteria or virus can be detected by amplification of their nucleic acids by PCR.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q20",
+      "chapterId": "bio_ch7",
+      "question": "Molecular diagnosis using a single stranded DNA or RNA tagged with a radioactive molecule is called a:",
+      "options": [
+        "Vector",
+        "Probe",
+        "Primer",
+        "Selectable marker"
+      ],
+      "correctIndex": 1,
+      "explanation": "A single stranded DNA or RNA, tagged with a radioactive molecule (probe) is allowed to hybridise to its complementary DNA.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q21",
+      "chapterId": "bio_ch7",
+      "question": "What percentage of existing transgenic animals are mice?",
+      "options": [
+        "50%",
+        "75%",
+        "Over 95%",
+        "80%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Over 95 per cent of all existing transgenic animals are mice.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q22",
+      "chapterId": "bio_ch7",
+      "question": "The first transgenic cow, Rosie, produced human protein-enriched milk containing:",
+      "options": [
+        "Human alpha-lactalbumin",
+        "Insulin",
+        "Growth hormone",
+        "Beta-carotene"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rosie produced milk containing human alpha-lactalbumin (2.4 grams per litre).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q23",
+      "chapterId": "bio_ch7",
+      "question": "Transgenic mice are being developed for use in testing the safety of which vaccine before human use?",
+      "options": [
+        "Polio vaccine",
+        "Hepatitis B vaccine",
+        "COVID-19 vaccine",
+        "BCG vaccine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transgenic mice are being developed for use in testing the safety of vaccines before they are used on humans, e.g., polio vaccine.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q24",
+      "chapterId": "bio_ch7",
+      "question": "Which Indian organization makes decisions regarding the validity of GM research and the safety of introducing GM-organisms for public services?",
+      "options": [
+        "GEAC (Genetic Engineering Appraisal Committee)",
+        "CSIR",
+        "ICAR",
+        "IARI"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Indian Government has set up organizations such as GEAC (Genetic Engineering Appraisal Committee).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q25",
+      "chapterId": "bio_ch7",
+      "question": "How many documented varieties of rice are there in India?",
+      "options": [
+        "2,000",
+        "20,000",
+        "200,000",
+        "50,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "India has an estimated 200,000 varieties of rice.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q26",
+      "chapterId": "bio_ch7",
+      "question": "In 1997, which rice variety was patented by an American company through the US Patent and Trademark Office?",
+      "options": [
+        "Sona Masuri",
+        "Basmati",
+        "Jasmine",
+        "IR8"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1997, an American company got patent rights on Basmati rice.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q27",
+      "chapterId": "bio_ch7",
+      "question": "The use of bio-resources by multi-national companies without proper authorization from the concerned country is called:",
+      "options": [
+        "Bioremediation",
+        "Bioprospecting",
+        "Biopiracy",
+        "Bio-utilization"
+      ],
+      "correctIndex": 2,
+      "explanation": "Biopiracy is the term used to refer to the use of bio-resources without proper authorization.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q28",
+      "chapterId": "bio_ch7",
+      "question": "Bt toxins are insect-group specific. Bt tobacco is resistant to:",
+      "options": [
+        "Coleopterans (beetles)",
+        "Lepidopterans (tobacco budworm)",
+        "Dipterans (flies)",
+        "Hymenopterans"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bacillus thuringiensis forms protein crystals that kill certain insects such as lepidopterans (tobacco budworm).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q29",
+      "chapterId": "bio_ch7",
+      "question": "Pro-insulin is converted to mature insulin by removing:",
+      "options": [
+        "A-peptide",
+        "B-peptide",
+        "C-peptide",
+        "A and B peptides"
+      ],
+      "correctIndex": 2,
+      "explanation": "Insulin contains an extra stretch called C-peptide in pro-insulin which is absent in mature insulin.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q30",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following techniques can be used for early diagnosis of a disease?",
+      "options": [
+        "Serum analysis",
+        "Urine analysis",
+        "Recombinant DNA technology",
+        "Physical examination"
+      ],
+      "correctIndex": 2,
+      "explanation": "Early diagnosis is possible using recombinant DNA technology, PCR, and ELISA.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q31",
+      "chapterId": "bio_ch7",
+      "question": "The active Bt toxin causes the insect's death by:",
+      "options": [
+        "Paralyzing the nervous system",
+        "Creating pores in the midgut epithelial cells",
+        "Inhibiting DNA replication",
+        "Starvation by blocking the mouth"
+      ],
+      "correctIndex": 1,
+      "explanation": "The activated toxin binds to the surface of midgut epithelial cells and create pores that cause cell swelling and lysis and eventually cause death of the insect.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q32",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following is a 'molecular diagnostic' tool?",
+      "options": [
+        "Blood grouping",
+        "ELISA",
+        "Stethoscope",
+        "Sphygmomanometer"
+      ],
+      "correctIndex": 1,
+      "explanation": "ELISA (Enzyme Linked Immuno-sorbent Assay) is a molecular diagnostic tool based on the principle of antigen-antibody interaction.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q33",
+      "chapterId": "bio_ch7",
+      "question": "Alpha-1-antitrypsin is a human protein used to treat:",
+      "options": [
+        "Cystic fibrosis",
+        "Emphysema",
+        "Phenylketonuria",
+        "Diabetes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transgenic animals are used to produce biological products, such as alpha-1-antitrypsin used to treat emphysema.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q34",
+      "chapterId": "bio_ch7",
+      "question": "What was the significance of the first transgenic cow Rosie (1997)?",
+      "options": [
+        "It produced more milk",
+        "It was resistant to diseases",
+        "Its milk was nutritionally more balanced for human babies",
+        "It lived longer"
+      ],
+      "correctIndex": 2,
+      "explanation": "The milk of Rosie was a nutritionally more balanced product for human babies than natural cow-milk.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q35",
+      "chapterId": "bio_ch7",
+      "question": "ELISA is based on the principle of:",
+      "options": [
+        "DNA replication",
+        "Antigen-antibody interaction",
+        "Silencing of mRNA",
+        "Nucleic acid hybridisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "ELISA is based on the principle of antigen-antibody interaction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q36",
+      "chapterId": "bio_ch7",
+      "question": "To silence the nematode gene in tobacco plants using RNAi, which vector was used?",
+      "options": [
+        "pBR322",
+        "Agrobacterium vectors",
+        "Bacteriophage",
+        "BAC"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using Agrobacterium vectors, nematode-specific genes were introduced into the host plant.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q37",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following is NOT an application of biotechnology?",
+      "options": [
+        "Therapeutics",
+        "Bioremediation",
+        "Waste treatment",
+        "Traditional plant breeding"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traditional breeding is a non-biotechnological option. Biotechnology includes therapeutics, GM crops, energy production, etc.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q38",
+      "chapterId": "bio_ch7",
+      "question": "In transgenic animals, 'Chemical Safety Testing' is also known as:",
+      "options": [
+        "Toxicity testing",
+        "Vaccine safety testing",
+        "Functional testing",
+        "Physiological testing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chemical safety testing is the same as toxicity/safety testing.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q39",
+      "chapterId": "bio_ch7",
+      "question": "There are 27 documented varieties of Basmati grown in India.",
+      "options": [
+        "27",
+        "30",
+        "12",
+        "200,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "There are 27 documented varieties of Basmati grown in India.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q40",
+      "chapterId": "bio_ch7",
+      "question": "The C-peptide in human insulin is:",
+      "options": [
+        "Linked between A and B chains",
+        "Necessary for insulin function",
+        "Present only in mature insulin",
+        "Present only in pro-insulin"
+      ],
+      "correctIndex": 3,
+      "explanation": "The C-peptide is present in pro-insulin and removed during maturation. It is NOT present in mature insulin.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q41",
+      "chapterId": "bio_ch7",
+      "question": "Which of the following is used as a probe in autoradiography for detecting mutations?",
+      "options": [
+        "Double stranded DNA",
+        "Single stranded DNA or RNA tagged with radioactivity",
+        "A specific protein",
+        "The entire plasmid"
+      ],
+      "correctIndex": 1,
+      "explanation": "A probe is a single stranded DNA or RNA tagged with a radioactive molecule.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q42",
+      "chapterId": "bio_ch7",
+      "question": "Mice are used as models for studying many human diseases EXCEPT:",
+      "options": [
+        "Cancer",
+        "Cystic fibrosis",
+        "Alzheimer's",
+        "Diabetes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Transgenic models exist for cancer, cystic fibrosis, rheumatoid arthritis and Alzheimer's. Diabetes was not in that specific list.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q43",
+      "chapterId": "bio_ch7",
+      "question": "Gene therapy uses which of the following to deliver functional genes?",
+      "options": [
+        "Pills",
+        "Vectors (often viruses)",
+        "Surgery",
+        "Radiations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gene therapy involves the delivery of a normal gene into the individual via vectors.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q44",
+      "chapterId": "bio_ch7",
+      "question": "Which organism produces protein crystals during a particular phase of their growth?",
+      "options": [
+        "Agrobacterium",
+        "Bacillus thuringiensis",
+        "E. coli",
+        "Meloidegyne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bacillus thuringiensis forms protein crystals during a particular phase of their growth.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q45",
+      "chapterId": "bio_ch7",
+      "question": "RNAi was discovered as a method of defense against:",
+      "options": [
+        "Bacteria",
+        "Viruses and transposons",
+        "Fungi",
+        "Protozoa"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source of the dsRNA (in RNAi) could be from an infection by viruses having RNA genomes or mobile genetic elements (transposons).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q46",
+      "chapterId": "bio_ch7",
+      "question": "Bt cotton is NOT resistant to which of the following?",
+      "options": [
+        "Bollworms",
+        "Beetles",
+        "Mosquitoes",
+        "Certain agro-chemicals"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bt cotton is an insect-resistant plant; it is not specifically designed to be resistant to agro-chemicals.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q47",
+      "chapterId": "bio_ch7",
+      "question": "What is the primary motive behind creating transgenic animals for 'Normal Physiology and Development'?",
+      "options": [
+        "To produce pharmaceuticals",
+        "To study how genes are regulated and how they affect body functions",
+        "To test vaccine safety",
+        "To create better pets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transgenic animals are designed to allow the study of gene regulation and their effect on normal functions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q48",
+      "chapterId": "bio_ch7",
+      "question": "The use of genetically modified organisms for public services in India requires approval from:",
+      "options": [
+        "Ministry of Agriculture",
+        "GEAC",
+        "Supreme Court",
+        "UNESCO"
+      ],
+      "correctIndex": 1,
+      "explanation": "GEAC makes decisions regarding the validity of GM research and the safety of introducing GM-organisms for public services.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q49",
+      "chapterId": "bio_ch7",
+      "question": "Transgenic animals are made that carry genes which make them more sensitive to toxic substances than non-transgenic animals. This is used in:",
+      "options": [
+        "Vaccine Safety Testing",
+        "Chemical Safety Testing",
+        "Biological products production",
+        "Study of diseases"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transgenic animals are made that carry genes which make them more sensitive to toxic substances than non-transgenic animals. This is for chemical safety testing.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch7_q50",
+      "chapterId": "bio_ch7",
+      "question": "A gene isolate from bone marrow cells producing ADA is introduced into cells to treat ADA deficiency. This treatment is called:",
+      "options": [
+        "Enzyme therapy",
+        "Bone marrow transplant",
+        "Gene therapy",
+        "Chemotherapy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gene therapy is a collection of methods that allows correction of a gene defect.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    }
+  ]
+}

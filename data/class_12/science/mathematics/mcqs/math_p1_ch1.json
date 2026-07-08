@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch1_q1",
+      "chapterId": "math_ch1",
+      "question": "If A is a set, a relation R in A is called an empty relation if:",
+      "options": [
+        "R = A × A",
+        "R = ∅",
+        "R = { (a,a) : a ∈ A }",
+        "R is not a subset of A × A"
+      ],
+      "correctIndex": 1,
+      "explanation": "A relation R in A is called empty relation, if no element of A is related to any element of A, i.e., R = ∅ ⊂ A × A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q2",
+      "chapterId": "math_ch1",
+      "question": "A relation R in a set A is called a universal relation if:",
+      "options": [
+        "R = ∅",
+        "R = A × A",
+        "R contains only diagonal elements",
+        "R is a subset of A"
+      ],
+      "correctIndex": 1,
+      "explanation": "A relation R in A is called universal relation, if each element of A is related to every element of A, i.e., R = A × A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q3",
+      "chapterId": "math_ch1",
+      "question": "Both the empty relation and the universal relation are sometimes called:",
+      "options": [
+        "Equivalence relations",
+        "Trivial relations",
+        "Identity relations",
+        "Reflexive relations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Both the empty relation and the universal relation are sometimes called trivial relations.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q4",
+      "chapterId": "math_ch1",
+      "question": "A relation R in set A is reflexive if:",
+      "options": [
+        "(a, b) ∈ R implies (b, a) ∈ R",
+        "(a, a) ∈ R for every a ∈ A",
+        "(a, b) ∈ R and (b, c) ∈ R implies (a, c) ∈ R",
+        "R is a universal relation"
+      ],
+      "correctIndex": 1,
+      "explanation": "R is reflexive if (a, a) ∈ R, for every a ∈ A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q5",
+      "chapterId": "math_ch1",
+      "question": "A relation R in set A is symmetric if:",
+      "options": [
+        "(a, a) ∈ R",
+        "(a, b) ∈ R implies (b, a) ∈ R",
+        "(a, b) ∈ R and (b, c) ∈ R implies (a, c) ∈ R",
+        "a is related to itself"
+      ],
+      "correctIndex": 1,
+      "explanation": "R is symmetric if (a1, a2) ∈ R implies (a2, a1) ∈ R for all a1, a2 ∈ A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q6",
+      "chapterId": "math_ch1",
+      "question": "A relation R in set A is transitive if:",
+      "options": [
+        "(a, b) ∈ R implies (b, a) ∈ R",
+        "(a, b) ∈ R and (b, c) ∈ R implies (a, c) ∈ R",
+        "(a, a) ∈ R",
+        "R is an empty relation"
+      ],
+      "correctIndex": 1,
+      "explanation": "R is transitive if (a1, a2) ∈ R and (a2, a3) ∈ R implies (a1, a3) ∈ R for all a1, a2, a3 ∈ A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q7",
+      "chapterId": "math_ch1",
+      "question": "A relation R in a set A is said to be an equivalence relation if R is:",
+      "options": [
+        "Reflexive only",
+        "Reflexive and Symmetric",
+        "Symmetric and Transitive",
+        "Reflexive, Symmetric and Transitive"
+      ],
+      "correctIndex": 3,
+      "explanation": "R is an equivalence relation if it is reflexive, symmetric, and transitive.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q8",
+      "chapterId": "math_ch1",
+      "question": "In the set of integers Z, the relation R = {(a, b) : 2 divides a – b} is:",
+      "options": [
+        "Reflexive only",
+        "Symmetric only",
+        "Transitive only",
+        "An equivalence relation"
+      ],
+      "correctIndex": 3,
+      "explanation": "It is reflexive (2 divides 0), symmetric (if 2|a-b, 2|b-a), and transitive (if 2|a-b and 2|b-c, then 2|(a-b)+(b-c)).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q9",
+      "chapterId": "math_ch1",
+      "question": "If R is an equivalence relation, the set of all elements related to an element 'a' is called the:",
+      "options": [
+        "Domain of a",
+        "Range of a",
+        "Equivalence class of a",
+        "Function of a"
+      ],
+      "correctIndex": 2,
+      "explanation": "The subset containing all elements related to 'a' is called the equivalence class containing 'a' and is denoted by [a].",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q10",
+      "chapterId": "math_ch1",
+      "question": "Equivalence classes [a] and [b] of an equivalence relation R are either:",
+      "options": [
+        "Subsets of each other",
+        "Empty",
+        "Identical or disjoint",
+        "Finite"
+      ],
+      "correctIndex": 2,
+      "explanation": "Any two equivalence classes are either identical or disjoint.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q11",
+      "chapterId": "math_ch1",
+      "question": "A function f: X → Y is defined to be one-one (injective) if:",
+      "options": [
+        "f(x1) = f(x2) for some x1 ≠ x2",
+        "f(x1) = f(x2) implies x1 = x2",
+        "Every element in Y has a pre-image",
+        "The range is equal to the codomain"
+      ],
+      "correctIndex": 1,
+      "explanation": "A function is one-one if the images of distinct elements are distinct, which means f(x1) = f(x2) ⇒ x1 = x2.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q12",
+      "chapterId": "math_ch1",
+      "question": "A function f: X → Y is said to be onto (surjective) if:",
+      "options": [
+        "Distinct elements have distinct images",
+        "Every element of Y is the image of some element of X",
+        "The function is injective",
+        "The domain is equal to the range"
+      ],
+      "correctIndex": 1,
+      "explanation": "f is onto if every element of Y is the image of some element of X under f, i.e., for every y ∈ Y, there exists x ∈ X such that f(x) = y.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q13",
+      "chapterId": "math_ch1",
+      "question": "A function f: X → Y is called bijective if it is:",
+      "options": [
+        "One-one only",
+        "Onto only",
+        "Neither one-one nor onto",
+        "Both one-one and onto"
+      ],
+      "correctIndex": 3,
+      "explanation": "A function f: X → Y is said to be bijective if f is both one-one and onto.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q14",
+      "chapterId": "math_ch1",
+      "question": "A function f: X → Y is surjective if and only if:",
+      "options": [
+        "Range of f ⊂ Y",
+        "Range of f = Y",
+        "f is one-one",
+        "X = Y"
+      ],
+      "correctIndex": 1,
+      "explanation": "A function is onto if and only if the range of the function is equal to the codomain Y.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q15",
+      "chapterId": "math_ch1",
+      "question": "If f: X → Y and g: Y → Z are two functions, the composition g o f is defined as:",
+      "options": [
+        "(g o f)(x) = f(g(x))",
+        "(g o f)(x) = g(f(x))",
+        "(g o f)(x) = g(x) + f(x)",
+        "(g o f)(x) = g(x) . f(x)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The composition of f and g, denoted by gof, is defined as (gof)(x) = g(f(x)), for all x ∈ X.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q16",
+      "chapterId": "math_ch1",
+      "question": "Which mathematician first used the word 'function' in 1673 to mean a quantity varying from point to point on a curve?",
+      "options": [
+        "John Bernoulli",
+        "Leonhard Euler",
+        "G. W. Leibnitz",
+        "Georg Cantor"
+      ],
+      "correctIndex": 2,
+      "explanation": "G. W. Leibnitz used the word 'function' in his manuscript written in 1673.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q17",
+      "chapterId": "math_ch1",
+      "question": "Who was the first to use the phrase 'function of x'?",
+      "options": [
+        "Lejeune Dirichlet",
+        "G. W. Leibnitz",
+        "Leonhard Euler",
+        "John Bernoulli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leibnitz was the first to use the phrase 'function of x'.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q18",
+      "chapterId": "math_ch1",
+      "question": "The general adoption of symbols like f, F, φ, ψ to represent functions was made by:",
+      "options": [
+        "Joseph Louis Lagrange",
+        "Leonhard Euler",
+        "Georg Cantor",
+        "John Bernoulli"
+      ],
+      "correctIndex": 1,
+      "explanation": "The general adoption of these symbols was made by Leonhard Euler in 1734.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q19",
+      "chapterId": "math_ch1",
+      "question": "The notation f(x) was published in 1793 by:",
+      "options": [
+        "Leonhard Euler",
+        "Joseph Louis Lagrange",
+        "Lejeune Dirichlet",
+        "Isaac Newton"
+      ],
+      "correctIndex": 1,
+      "explanation": "Joseph Louis Lagrange published manuscripts in 1793 using the notation f(x).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q20",
+      "chapterId": "math_ch1",
+      "question": "The set theoretic definition of function used today was developed after the work of:",
+      "options": [
+        "G. W. Leibnitz",
+        "Georg Cantor",
+        "Leonhard Euler",
+        "John Bernoulli"
+      ],
+      "correctIndex": 1,
+      "explanation": "The set theoretic definition presently used was given after set theory was developed by Georg Cantor.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q21",
+      "chapterId": "math_ch1",
+      "question": "A function f: X → Y is injective if:",
+      "options": [
+        "x1 = x2 ⇒ f(x1) = f(x2)",
+        "x1 ≠ x2 ⇒ f(x1) ≠ f(x2)",
+        "f is onto",
+        "f is bijective"
+      ],
+      "correctIndex": 1,
+      "explanation": "Injective (one-one) means distinct elements have distinct images.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q22",
+      "chapterId": "math_ch1",
+      "question": "The set of Class XII students (A) and Class XI students (B). A relation R from A to B is a subset of:",
+      "options": [
+        "A",
+        "B",
+        "A × B",
+        "A ∪ B"
+      ],
+      "correctIndex": 2,
+      "explanation": "A relation R from set A to set B is a subset of the Cartesian product A × B.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q23",
+      "chapterId": "math_ch1",
+      "question": "A relation R in set A is reflexive if 'a' is related to ________ for all a ∈ A.",
+      "options": [
+        "b",
+        "Every element of A",
+        "Itself",
+        "No element"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reflexivity means every element is related to itself.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q24",
+      "chapterId": "math_ch1",
+      "question": "If R is an equivalence relation in A, it divides A into mutually ________ subsets.",
+      "options": [
+        "Overlapping",
+        "Disjoint",
+        "Finite",
+        "Empty"
+      ],
+      "correctIndex": 1,
+      "explanation": "An equivalence relation R in A divides A into mutually disjoint subsets Ai called partitions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q25",
+      "chapterId": "math_ch1",
+      "question": "If (a, b) ∈ R and (b, a) ∈ R for all a, b, the relation is:",
+      "options": [
+        "Reflexive",
+        "Symmetric",
+        "Transitive",
+        "Universal"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the definition of symmetry.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q26",
+      "chapterId": "math_ch1",
+      "question": "A function that is NOT one-one is called:",
+      "options": [
+        "Onto",
+        "Many-one",
+        "Bijective",
+        "Empty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Otherwise (if not one-one), f is called many-one.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q27",
+      "chapterId": "math_ch1",
+      "question": "The identity relation in set A is denoted as:",
+      "options": [
+        "I_A = {(a, a) : a ∈ A}",
+        "I_A = ∅",
+        "I_A = A × A",
+        "I_A = {a : a ∈ A}"
+      ],
+      "correctIndex": 0,
+      "explanation": "The identity relation relates every element to itself only.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q28",
+      "chapterId": "math_ch1",
+      "question": "If a relation is reflexive, symmetric, and transitive, it is called an:",
+      "options": [
+        "Identity relation",
+        "Equivalence relation",
+        "Universal relation",
+        "Inverse relation"
+      ],
+      "correctIndex": 1,
+      "explanation": "These three properties define an equivalence relation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q29",
+      "chapterId": "math_ch1",
+      "question": "For a function to be surjective, the codomain must be equal to the:",
+      "options": [
+        "Domain",
+        "Range",
+        "Set A",
+        "Empty set"
+      ],
+      "correctIndex": 1,
+      "explanation": "A function is onto if its range matches its codomain.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q30",
+      "chapterId": "math_ch1",
+      "question": "Which notation did John Bernoulli use for the first time in 1718 to indicate a function of x?",
+      "options": [
+        "f(x)",
+        "φx",
+        "F(x)",
+        "y"
+      ],
+      "correctIndex": 1,
+      "explanation": "John Bernoulli used the notation φx in 1718.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q31",
+      "chapterId": "math_ch1",
+      "question": "A relation R in set A where R = A × A is called a ________ relation.",
+      "options": [
+        "Empty",
+        "Universal",
+        "Identity",
+        "Reflexive"
+      ],
+      "correctIndex": 1,
+      "explanation": "The universal relation relates every element to every other element.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q32",
+      "chapterId": "math_ch1",
+      "question": "In the relation 'a is brother of b', if a is brother of b, then b:",
+      "options": [
+        "Is always brother of a",
+        "May be sister of a",
+        "Is not related to a",
+        "Is identical to a"
+      ],
+      "correctIndex": 1,
+      "explanation": "The example notes if 'a' is a male student and 'b' is a female student, the relation is not symmetric.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q33",
+      "chapterId": "math_ch1",
+      "question": "A partition of set A by an equivalence relation R consists of ________ subsets.",
+      "options": [
+        "Infinite",
+        "Pairwise disjoint",
+        "Equal sized",
+        "Overlapping"
+      ],
+      "correctIndex": 1,
+      "explanation": "The equivalence classes form a partition of pairwise disjoint sets whose union is A.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q34",
+      "chapterId": "math_ch1",
+      "question": "A one-one and onto function is also known as a:",
+      "options": [
+        "Injection",
+        "Surjection",
+        "Bijection",
+        "Composition"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bijection is the term for a function that is both injective and surjective.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q35",
+      "chapterId": "math_ch1",
+      "question": "Composition of functions g o f is defined only if the range of f is a subset of the ________ of g.",
+      "options": [
+        "Range",
+        "Codomain",
+        "Domain",
+        "Set Z"
+      ],
+      "correctIndex": 2,
+      "explanation": "To define g(f(x)), the output of f must be a valid input for g.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q36",
+      "chapterId": "math_ch1",
+      "question": "The phrase 'no element of A is related to any element of A' defines which relation?",
+      "options": [
+        "Universal",
+        "Identity",
+        "Empty",
+        "Symmetric"
+      ],
+      "correctIndex": 2,
+      "explanation": "This is the definition of an empty relation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q37",
+      "chapterId": "math_ch1",
+      "question": "The union of all equivalence classes of an equivalence relation in set A is:",
+      "options": [
+        "∅",
+        "A × A",
+        "A",
+        "The equivalence class [a]"
+      ],
+      "correctIndex": 2,
+      "explanation": "The union of the partitions Ai is the whole set A.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q38",
+      "chapterId": "math_ch1",
+      "question": "Is the empty relation reflexive on a non-empty set A?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if A has one element",
+        "Always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reflexivity requires (a, a) ∈ R for all a ∈ A. Since A is non-empty and R is empty, it fails.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q39",
+      "chapterId": "math_ch1",
+      "question": "In the relation R = {(1,1), (2,2), (3,3)} on set A = {1, 2, 3}, the relation is:",
+      "options": [
+        "Empty",
+        "Reflexive, Symmetric and Transitive",
+        "Symmetric only",
+        "Transitive only"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the identity relation, which is an equivalence relation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q40",
+      "chapterId": "math_ch1",
+      "question": "The domain, codomain, and range are concepts associated with:",
+      "options": [
+        "Relations only",
+        "Functions only",
+        "Both Relations and Functions",
+        "Sets only"
+      ],
+      "correctIndex": 2,
+      "explanation": "These notions were introduced in Class XI for both relations and real valued functions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q41",
+      "chapterId": "math_ch1",
+      "question": "If f: X → Y is injective, then f(x) = f(y) implies:",
+      "options": [
+        "f is onto",
+        "x = y",
+        "x ≠ y",
+        "f is a constant"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the formal condition for a function to be one-one (injective).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q42",
+      "chapterId": "math_ch1",
+      "question": "A relation where each element is related to itself and no other element is the ________ relation.",
+      "options": [
+        "Universal",
+        "Reflexive",
+        "Identity",
+        "Transitive"
+      ],
+      "correctIndex": 2,
+      "explanation": "The identity relation I_A on A is defined as {(a, a) : a ∈ A}.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q43",
+      "chapterId": "math_ch1",
+      "question": "For the relation R = {(a, b) : a is sister of b} on a set of human beings, is it symmetric?",
+      "options": [
+        "Yes",
+        "No",
+        "Always",
+        "Depends on A"
+      ],
+      "correctIndex": 1,
+      "explanation": "No, because if 'a' is sister of 'b', 'b' could be the brother of 'a'.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q44",
+      "chapterId": "math_ch1",
+      "question": "Is the universal relation R = A × A always reflexive?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if A is empty",
+        "Never"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since A × A contains all possible pairs (a, b), it certainly contains all (a, a).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q45",
+      "chapterId": "math_ch1",
+      "question": "In 'Analysis Infinitorium' (1734), who established symbols for functions?",
+      "options": [
+        "Euler",
+        "Leibnitz",
+        "Cantor",
+        "Bernoulli"
+      ],
+      "correctIndex": 0,
+      "explanation": "Leonhard Euler made this general adoption in 1734.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q46",
+      "chapterId": "math_ch1",
+      "question": "If f is one-one and g is one-one, then g o f is:",
+      "options": [
+        "Onto",
+        "One-one",
+        "Bijective",
+        "Not a function"
+      ],
+      "correctIndex": 1,
+      "explanation": "The composition of two injective functions is injective.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q47",
+      "chapterId": "math_ch1",
+      "question": "The term 'surjection' refers to which type of function?",
+      "options": [
+        "One-one",
+        "Onto",
+        "Bijective",
+        "Identity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surjective is another name for onto functions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q48",
+      "chapterId": "math_ch1",
+      "question": "What is the result of gof if f(x) = x^2 and g(x) = x+1?",
+      "options": [
+        "x^2 + 1",
+        "(x+1)^2",
+        "x^2 + x",
+        "2x + 1"
+      ],
+      "correctIndex": 0,
+      "explanation": "g(f(x)) = g(x^2) = x^2 + 1.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q49",
+      "chapterId": "math_ch1",
+      "question": "Is the relation 'a is parallel to b' on the set of lines in a plane an equivalence relation?",
+      "options": [
+        "Yes",
+        "No",
+        "Reflexive only",
+        "Symmetric only"
+      ],
+      "correctIndex": 0,
+      "explanation": "It is reflexive (a||a), symmetric (a||b ⇒ b||a), and transitive (a||b, b||c ⇒ a||c).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch1_q50",
+      "chapterId": "math_ch1",
+      "question": "Who gave the definition of function used after set theory was developed?",
+      "options": [
+        "Leibnitz",
+        "Bernoulli",
+        "Dirichlet",
+        "Cantor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Subsequent to Bernoulli and Euler, Lejeunne Dirichlet gave a definition of function used for a long time.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    }
+  ]
+}

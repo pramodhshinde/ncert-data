@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch2_q1",
+      "chapterId": "bio_ch2",
+      "question": "According to the World Health Organization (WHO), health is defined as:",
+      "options": [
+        "Absence of disease only",
+        "Physical fitness only",
+        "A state of complete physical, mental and social well-being",
+        "Being able to perform daily tasks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Health does not simply mean ‘absence of disease’ or ‘physical fitness’. It is defined as a state of complete physical, mental and social well-being.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q2",
+      "chapterId": "bio_ch2",
+      "question": "Which of the following is a bacterial disease in humans?",
+      "options": [
+        "Common cold",
+        "Malaria",
+        "Typhoid",
+        "Amoebiasis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Salmonella typhi is a pathogenic bacterium which causes typhoid fever in human beings.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q3",
+      "chapterId": "bio_ch2",
+      "question": "The Widal test is used for the susceptibility/confirmation of which disease?",
+      "options": [
+        "Pneumonia",
+        "Typhoid",
+        "Malaria",
+        "Filariasis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Typhoid fever could be confirmed by Widal test.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q4",
+      "chapterId": "bio_ch2",
+      "question": "Which bacteria are responsible for causing pneumonia in humans?",
+      "options": [
+        "Salmonella typhi",
+        "Streptococcus pneumoniae",
+        "Plasmodium vivax",
+        "Entamoeba histolytica"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bacteria like Streptococcus pneumoniae and Haemophilus influenzae are responsible for the disease pneumonia in humans.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q5",
+      "chapterId": "bio_ch2",
+      "question": "The common cold is caused by which group of viruses?",
+      "options": [
+        "Retroviruses",
+        "Rhinoviruses",
+        "Adenoviruses",
+        "Bacteriophages"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rhinoviruses represent one such group of viruses which cause one of the most infectious human ailments – the common cold.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q6",
+      "chapterId": "bio_ch2",
+      "question": "The infectious stage of Plasmodium that enters the human body through a mosquito bite is:",
+      "options": [
+        "Trophozoites",
+        "Gametocytes",
+        "Sporozoites",
+        "Merozoites"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plasmodium enters the human body as sporozoites (infectious form) through the bite of infected female Anopheles mosquito.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q7",
+      "chapterId": "bio_ch2",
+      "question": "Malignant malaria is caused by which species of Plasmodium?",
+      "options": [
+        "P. vivax",
+        "P. malaria",
+        "P. falciparum",
+        "P. ovale"
+      ],
+      "correctIndex": 2,
+      "explanation": "Malignant malaria caused by Plasmodium falciparum is the most serious one and can even be fatal.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q8",
+      "chapterId": "bio_ch2",
+      "question": "The rupture of RBCs in malaria releases a toxic substance responsible for chill and high fever called:",
+      "options": [
+        "Haemoglobin",
+        "Haemozoin",
+        "Hirudin",
+        "Histamine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The parasites multiply within the liver cells and then attack the red blood cells resulting in their rupture. The rupture of RBCs is associated with release of a toxic substance, haemozoin.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q9",
+      "chapterId": "bio_ch2",
+      "question": "Amoebiasis (amoebic dysentery) is caused by which protozoan parasite?",
+      "options": [
+        "Entamoeba histolytica",
+        "Plasmodium vivax",
+        "Trypanosoma",
+        "Leishmania"
+      ],
+      "correctIndex": 0,
+      "explanation": "Entamoeba histolytica is a protozoan parasite in the large intestine of human which causes amoebiasis.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q10",
+      "chapterId": "bio_ch2",
+      "question": "Ascariasis is caused by an intestinal parasite known as:",
+      "options": [
+        "Wuchereria bancrofti",
+        "Ascaris lumbricoides",
+        "Entamoeba histolytica",
+        "Microsporum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ascaris, the common roundworm and Wuchereria, the filarial worm, are some of the helminths which are known to be pathogenic to man. Ascaris, an intestinal parasite causes ascariasis.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q11",
+      "chapterId": "bio_ch2",
+      "question": "Which disease is characterized by the chronic inflammation of lymphatic vessels, usually of the lower limbs?",
+      "options": [
+        "Ascariasis",
+        "Elephantiasis (Filariasis)",
+        "Ringworm",
+        "Amoebiasis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wuchereria (W. bancrofti and W. malayi), the filarial worms cause a slowly developing chronic inflammation of the organs in which they live for many years, usually the lymphatic vessels of the lower limbs.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q12",
+      "chapterId": "bio_ch2",
+      "question": "Ringworm is caused by which of the following genera of fungi?",
+      "options": [
+        "Microsporum",
+        "Trichophyton",
+        "Epidermophyton",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Many fungi belonging to the genera Microsporum, Trichophyton and Epidermophyton are responsible for ringworms.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q13",
+      "chapterId": "bio_ch2",
+      "question": "Innate immunity is a ________ type of defense.",
+      "options": [
+        "Specific",
+        "Non-specific",
+        "Acquired",
+        "Memory-based"
+      ],
+      "correctIndex": 1,
+      "explanation": "Innate immunity is non-specific type of defence, that is present at the time of birth.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q14",
+      "chapterId": "bio_ch2",
+      "question": "Interferons are a type of ________ barrier in innate immunity.",
+      "options": [
+        "Physical",
+        "Physiological",
+        "Cellular",
+        "Cytokine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Virus-infected cells secrete proteins called interferons which protect non-infected cells from further viral infection. These are cytokine barriers.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q15",
+      "chapterId": "bio_ch2",
+      "question": "Acquired immunity is characterized by:",
+      "options": [
+        "Phagocytosis",
+        "Memory",
+        "Inflammation",
+        "Fever"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acquired immunity... is pathogen specific. It is characterised by memory.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q16",
+      "chapterId": "bio_ch2",
+      "question": "Humoral immune response is mediated by antibodies produced by:",
+      "options": [
+        "T-lymphocytes",
+        "B-lymphocytes",
+        "Macrophage",
+        "Neutrophils"
+      ],
+      "correctIndex": 1,
+      "explanation": "The B-lymphocytes produce an army of proteins in response to pathogens into our blood to fight with them. These proteins are called antibodies. This is called humoral immune response.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q17",
+      "chapterId": "bio_ch2",
+      "question": "Cell-mediated immunity (CMI) is responsible for graft rejection and is mediated by:",
+      "options": [
+        "B-cells",
+        "T-cells",
+        "Erythrocytes",
+        "Platelets"
+      ],
+      "correctIndex": 1,
+      "explanation": "T-lymphocytes mediate CMI. Cell-mediated immune response is responsible for the graft rejection.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q18",
+      "chapterId": "bio_ch2",
+      "question": "Which of the following is an example of passive immunity?",
+      "options": [
+        "Vaccination",
+        "Infection by a pathogen",
+        "Colostrum (IgA) received by an infant from mother",
+        "Recovery from measles"
+      ],
+      "correctIndex": 2,
+      "explanation": "The yellowish fluid colostrum secreted by mother during the initial days of lactation has abundant antibodies (IgA) to protect the infant. This is an example of passive immunity.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q19",
+      "chapterId": "bio_ch2",
+      "question": "Allergies involve the exaggerated response of the immune system to certain antigens, mediated by which antibody?",
+      "options": [
+        "IgG",
+        "IgA",
+        "IgM",
+        "IgE"
+      ],
+      "correctIndex": 3,
+      "explanation": "The antibodies produced to these (allergens) are of IgE type.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q20",
+      "chapterId": "bio_ch2",
+      "question": "Rheumatoid arthritis is an example of:",
+      "options": [
+        "Innate immunity",
+        "Auto-immune disease",
+        "Infectious disease",
+        "Allergic reaction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sometimes, due to genetic and other unknown reasons, the body attacks self-cells... Rheumatoid arthritis which affects many people in our society is an auto-immune disease.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q21",
+      "chapterId": "bio_ch2",
+      "question": "Which of the following are primary lymphoid organs?",
+      "options": [
+        "Spleen and Lymph nodes",
+        "Bone marrow and Thymus",
+        "Peyer’s patches and Tonsils",
+        "MALT and Appendix"
+      ],
+      "correctIndex": 1,
+      "explanation": "Primary lymphoid organs are bone marrow and thymus where immature lymphocytes differentiate into antigen-sensitive lymphocytes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q22",
+      "chapterId": "bio_ch2",
+      "question": "What is the full form of MALT?",
+      "options": [
+        "Macrophage Associated Lymphoid Tissue",
+        "Mucosa Associated Lymphoid Tissue",
+        "Memory Associated Lymphocyte Type",
+        "Main Antigen Lymphoid Tissue"
+      ],
+      "correctIndex": 1,
+      "explanation": "There is lymphoid tissue also located within the lining of the major tracts (respiratory, digestive and urogenital tracts) called mucosa-associated lymphoid tissue (MALT).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q23",
+      "chapterId": "bio_ch2",
+      "question": "AIDS is caused by HIV, which belongs to a group of viruses called:",
+      "options": [
+        "Bacteriophages",
+        "Retroviruses",
+        "Rhinoviruses",
+        "Reoviruses"
+      ],
+      "correctIndex": 1,
+      "explanation": "AIDS is caused by the Human Immuno deficiency Virus (HIV), a member of a group of viruses called retrovirus.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q24",
+      "chapterId": "bio_ch2",
+      "question": "HIV enters which cells of the human body and replicates within them?",
+      "options": [
+        "B-lymphocytes",
+        "Helper T-lymphocytes (TH)",
+        "Erythrocytes",
+        "Platelets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Simultaneously, HIV enters into helper T-lymphocytes (TH), replicates and produces progeny viruses.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q25",
+      "chapterId": "bio_ch2",
+      "question": "The most widely used diagnostic test for AIDS is:",
+      "options": [
+        "Widal test",
+        "ELISA",
+        "MRI",
+        "Biopsy"
+      ],
+      "correctIndex": 1,
+      "explanation": "A widely used diagnostic test for AIDS is enzyme linked immuno-sorbent assay (ELISA).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q26",
+      "chapterId": "bio_ch2",
+      "question": "Normal cells show a property by which they inhibit uncontrolled growth through contact with other cells. This property is:",
+      "options": [
+        "Metastasis",
+        "Contact inhibition",
+        "Apoptosis",
+        "Cell differentiation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normal cells show a property called contact inhibition by virtue of which contact with other cells inhibits their uncontrolled growth.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q27",
+      "chapterId": "bio_ch2",
+      "question": "The property by which cancerous cells slough off from tumors and reach distant sites to start new tumors is called:",
+      "options": [
+        "Benign tumor",
+        "Metastasis",
+        "Malignancy",
+        "Transformation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cells sloughed from such tumors reach distant sites through blood, and where ever they get lodged in the body, they start a new tumor there. This property called metastasis is the most feared property of malignant tumors.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q28",
+      "chapterId": "bio_ch2",
+      "question": "Opioids are drugs that bind to specific opioid receptors present in:",
+      "options": [
+        "Heart and lungs",
+        "Central nervous system and gastrointestinal tract",
+        "Liver and kidneys",
+        "Muscles and skin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opioids are the drugs, which bind to specific opioid receptors present in our central nervous system and gastrointestinal tract.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q29",
+      "chapterId": "bio_ch2",
+      "question": "Heroin, commonly called smack, is chemically:",
+      "options": [
+        "Cannabinoid",
+        "Diacetylmorphine",
+        "Cocaine",
+        "Morphine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heroin, commonly called smack is chemically diacetylmorphine which is a white, odourless, bitter crystalline compound.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q30",
+      "chapterId": "bio_ch2",
+      "question": "Cannabinoids are obtained from the inflorescences of the plant:",
+      "options": [
+        "Papaver somniferum",
+        "Cannabis sativa",
+        "Erythroxylum coca",
+        "Datura"
+      ],
+      "correctIndex": 1,
+      "explanation": "Natural cannabinoids are obtained from the inflorescences of the plant Cannabis sativa.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q31",
+      "chapterId": "bio_ch2",
+      "question": "Cocaine, also known as coke or crack, is derived from:",
+      "options": [
+        "Cannabis sativa",
+        "Erythroxylum coca",
+        "Papaver somniferum",
+        "Atropa belladonna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coca alkaloid or cocaine is obtained from coca plant Erythroxylum coca.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q32",
+      "chapterId": "bio_ch2",
+      "question": "Tobacco contains an alkaloid that stimulates the adrenal gland to release adrenaline. This alkaloid is:",
+      "options": [
+        "Morphine",
+        "Nicotine",
+        "Caffeine",
+        "Quinine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tobacco contains a large number of chemical substances including nicotine, an alkaloid. Nicotine stimulates adrenal gland to release adrenaline and nor-adrenaline.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q33",
+      "chapterId": "bio_ch2",
+      "question": "Chronic use of alcohol can cause severe damage to the liver, a condition known as:",
+      "options": [
+        "Hepatitis",
+        "Cirrhosis",
+        "Gastritis",
+        "Nephritis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chronic use of drugs and alcohol damages nervous system and liver (cirrhosis).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q34",
+      "chapterId": "bio_ch2",
+      "question": "In the life cycle of Plasmodium, sexual stages (gametocytes) develop in:",
+      "options": [
+        "Liver cells of human",
+        "Red blood cells of human",
+        "Salivary glands of mosquito",
+        "Gut of mosquito"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sexual stages (gametocytes) develop in red blood cells (in human).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q35",
+      "chapterId": "bio_ch2",
+      "question": "Which of the following is a physical barrier in innate immunity?",
+      "options": [
+        "Saliva in the mouth",
+        "Skin",
+        "Tears in the eyes",
+        "Acid in the stomach"
+      ],
+      "correctIndex": 1,
+      "explanation": "Skin on our body is the main barrier which prevents entry of the micro-organisms.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q36",
+      "chapterId": "bio_ch2",
+      "question": "IgM, IgA, IgD, IgE, and IgG are different types of:",
+      "options": [
+        "Antigens",
+        "Antibodies",
+        "Pathogens",
+        "Vaccines"
+      ],
+      "correctIndex": 1,
+      "explanation": "Different types of antibodies are produced in our body. IgA, IgM, IgE, IgG are some of them.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q37",
+      "chapterId": "bio_ch2",
+      "question": "Vaccination is based on which property of the immune system?",
+      "options": [
+        "Specificity",
+        "Memory",
+        "Diversity",
+        "Self/Non-self recognition"
+      ],
+      "correctIndex": 1,
+      "explanation": "The principle of immunisation or vaccination is based on the property of ‘memory’ of the immune system.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q38",
+      "chapterId": "bio_ch2",
+      "question": "The chemical substances produced by mast cells during an allergic reaction are:",
+      "options": [
+        "Insulin and Glucagon",
+        "Histamine and Serotonin",
+        "Adrenaline and Nor-adrenaline",
+        "Thyroxine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Allergy is due to the release of chemicals like histamine and serotonin from the mast cells.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q39",
+      "chapterId": "bio_ch2",
+      "question": "The yellowish fluid colostrum is rich in which antibody?",
+      "options": [
+        "IgG",
+        "IgA",
+        "IgE",
+        "IgM"
+      ],
+      "correctIndex": 1,
+      "explanation": "The yellowish fluid colostrum... has abundant antibodies (IgA) to protect the infant.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q40",
+      "chapterId": "bio_ch2",
+      "question": "Which organ acts as a filter of the blood by trapping blood-borne micro-organisms?",
+      "options": [
+        "Thymus",
+        "Spleen",
+        "Lymph nodes",
+        "Tonsils"
+      ],
+      "correctIndex": 1,
+      "explanation": "The spleen is a large bean-shaped organ... It acts as a filter of the blood by trapping blood-borne micro-organisms.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q41",
+      "chapterId": "bio_ch2",
+      "question": "In HIV-infected individuals, the progressive decrease in the number of which cells leads to immune deficiency?",
+      "options": [
+        "RBCs",
+        "Helper T-lymphocytes",
+        "B-lymphocytes",
+        "Platelets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Due to progressive decrease in the number of helper T lymphocytes, the person starts suffering from infections.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q42",
+      "chapterId": "bio_ch2",
+      "question": "Tobacco smoke contains which gas that reduces the concentration of haembound oxygen in the blood?",
+      "options": [
+        "Carbon dioxide",
+        "Carbon monoxide",
+        "Nitrogen",
+        "Methane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Smoking increases carbon monoxide (CO) content in blood and reduces the concentration of haembound oxygen.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q43",
+      "chapterId": "bio_ch2",
+      "question": "Which drug is used for patients who have undergone surgery to relieve pain?",
+      "options": [
+        "Morphine",
+        "Cocaine",
+        "Nicotine",
+        "Cannabinoids"
+      ],
+      "correctIndex": 0,
+      "explanation": "Morphine is a very effective sedative and painkiller, and is very useful in patients who have undergone surgery.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q44",
+      "chapterId": "bio_ch2",
+      "question": "What happens to the number of RBCs in the blood when the Plasmodium parasites release haemozoin?",
+      "options": [
+        "Increases",
+        "Remains same",
+        "Decreases (rupture)",
+        "Doubles"
+      ],
+      "correctIndex": 2,
+      "explanation": "The parasites... attack the red blood cells resulting in their rupture.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q45",
+      "chapterId": "bio_ch2",
+      "question": "Interferons are used in the treatment of:",
+      "options": [
+        "Typhoid",
+        "Malaria",
+        "Cancer",
+        "Amoebiasis"
+      ],
+      "correctIndex": 2,
+      "explanation": "...biological response modifiers such as α-interferon are given which activate their immune system and help in destroying the tumor.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q46",
+      "chapterId": "bio_ch2",
+      "question": "Which mosquito species serves as the vector for filariasis?",
+      "options": [
+        "Female Anopheles",
+        "Female Culex",
+        "Female Aedes",
+        "Male Anopheles"
+      ],
+      "correctIndex": 1,
+      "explanation": "The pathogens are transmitted to a healthy person through the bite by the female mosquito vectors (Culex in context of filariasis, though the text simply says female mosquito vectors for the disease).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q47",
+      "chapterId": "bio_ch2",
+      "question": "What is the common method of transmission for Ascaris?",
+      "options": [
+        "Mosquito bite",
+        "Sexual contact",
+        "Contaminated water, vegetables and fruits",
+        "Inhalation of droplets"
+      ],
+      "correctIndex": 2,
+      "explanation": "Infection takes place through contaminated water, vegetables, fruits, etc.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q48",
+      "chapterId": "bio_ch2",
+      "question": "During an inflammatory response, which cells act as a cellular barrier in innate immunity?",
+      "options": [
+        "Polymorpho-nuclear leukocytes (PMNL-neutrophils)",
+        "Monocytes",
+        "Natural killer cells",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Certain types of leukocytes... like polymorpho-nuclear leukocytes (PMNL-neutrophils) and monocytes and natural killer (type of lymphocytes) in the blood as well as macrophages in tissues can phagocytose.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q49",
+      "chapterId": "bio_ch2",
+      "question": "The site where B-lymphocytes and T-lymphocytes interact with antigens and proliferate into effector cells is:",
+      "options": [
+        "Bone marrow",
+        "Secondary lymphoid organs",
+        "Primary lymphoid organs",
+        "Liver"
+      ],
+      "correctIndex": 1,
+      "explanation": "After maturation the lymphocytes migrate to secondary lymphoid organs... The secondary lymphoid organs provide the sites for interaction of lymphocytes with antigen.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch2_q50",
+      "chapterId": "bio_ch2",
+      "question": "The use of anti-histamine, adrenaline, and steroids quickly reduces the symptoms of:",
+      "options": [
+        "Auto-immune disease",
+        "Allergy",
+        "Infectious disease",
+        "Cancer"
+      ],
+      "correctIndex": 1,
+      "explanation": "The use of drugs like anti-histamine, adrenalin and steroids quickly reduce the symptoms of allergy.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    }
+  ]
+}

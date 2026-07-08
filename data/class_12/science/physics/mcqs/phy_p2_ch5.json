@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_phy_ch13_q1",
+      "chapterId": "phy_ch13",
+      "question": "Who is credited with the discovery of the neutron in 1932?",
+      "options": [
+        "James Chadwick",
+        "Ernest Rutherford",
+        "Enrico Fermi",
+        "Marie Curie"
+      ],
+      "correctIndex": 0,
+      "explanation": "James Chadwick discovered the neutron in 1932 by observing radiation from beryllium bombarded with alpha particles.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q2",
+      "chapterId": "phy_ch13",
+      "question": "What is the approximate radius of a nucleus compared to the atom?",
+      "options": [
+        "10 times smaller",
+        "100 times smaller",
+        "1,000 times smaller",
+        "10,000 times smaller"
+      ],
+      "correctIndex": 3,
+      "explanation": "The radius of a nucleus is smaller than the radius of an atom by a factor of about 10,000.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q3",
+      "chapterId": "phy_ch13",
+      "question": "Atomic mass unit (u) is defined as ________ of the mass of a carbon-12 atom.",
+      "options": [
+        "1/2",
+        "1/6",
+        "1/12",
+        "1/16"
+      ],
+      "correctIndex": 2,
+      "explanation": "One atomic mass unit (u) is defined as 1/12th of the mass of the carbon atom 12C.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q4",
+      "chapterId": "phy_ch13",
+      "question": "The mass of a neutron is approximately:",
+      "options": [
+        "1.00727 u",
+        "1.00866 u",
+        "0.00055 u",
+        "12.0000 u"
+      ],
+      "correctIndex": 1,
+      "explanation": "The mass of a neutron (mn) is 1.00866 u.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q5",
+      "chapterId": "phy_ch13",
+      "question": "Atoms having the same atomic number but different mass numbers are called:",
+      "options": [
+        "Isotopes",
+        "Isobars",
+        "Isotones",
+        "Isomers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Atomic species of the same element possessing different mass numbers are called isotopes.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q6",
+      "chapterId": "phy_ch13",
+      "question": "Nuclei with the same mass number (A) but different atomic numbers (Z) are called:",
+      "options": [
+        "Isotopes",
+        "Isobars",
+        "Isotones",
+        "Isomers"
+      ],
+      "correctIndex": 1,
+      "explanation": "All nuclei with the same mass number A are called isobars.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q7",
+      "chapterId": "phy_ch13",
+      "question": "Nuclei having the same number of neutrons are known as:",
+      "options": [
+        "Isotopes",
+        "Isobars",
+        "Isotones",
+        "Isomers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nuclei having the same number of neutrons are called isotones.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q8",
+      "chapterId": "phy_ch13",
+      "question": "The empirical formula for nuclear radius is R = R₀ A^(1/3). What is the approximate value of R₀?",
+      "options": [
+        "1.2 x 10^-15 m",
+        "1.2 x 10^-10 m",
+        "0.53 x 10^-10 m",
+        "1.6 x 10^-19 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "R₀ is a constant with a value of about 1.2 x 10^-15 m (or 1.2 fm).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q9",
+      "chapterId": "phy_ch13",
+      "question": "The density of nuclear matter is:",
+      "options": [
+        "Variable for different nuclei",
+        "Nearly constant for all nuclei",
+        "Dependent on the number of electrons",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "The density of nuclear matter is approximately 2.3 x 10^17 kg/m³ and is nearly constant for all nuclei.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q10",
+      "chapterId": "phy_ch13",
+      "question": "Einstein's mass-energy equivalence relation is expressed as:",
+      "options": [
+        "E = mc",
+        "E = m/c²",
+        "E = mc²",
+        "E = 1/2 mc²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Einstein showed that mass is another form of energy and given by E = mc².",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q11",
+      "chapterId": "phy_ch13",
+      "question": "The energy equivalent of 1 atomic mass unit (1 u) is approximately:",
+      "options": [
+        "931.5 MeV",
+        "1.6 x 10^-19 J",
+        "0.511 MeV",
+        "1 GeV"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 u is equivalent to about 931.5 MeV of energy.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q12",
+      "chapterId": "phy_ch13",
+      "question": "Mass defect (ΔM) of a nucleus is defined as:",
+      "options": [
+        "Sum of mass of nucleons",
+        "Difference between mass of nucleons and the actual mass of the nucleus",
+        "Mass of the nucleus minus mass of electrons",
+        "Change in mass during chemical reaction"
+      ],
+      "correctIndex": 1,
+      "explanation": "The difference in mass of a nucleus and its constituents is called the mass defect.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q13",
+      "chapterId": "phy_ch13",
+      "question": "Binding energy per nucleon (E_bn) is a measure of:",
+      "options": [
+        "Nuclear radius",
+        "Nuclear stability",
+        "Total charge",
+        "Number of isotopes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Binding energy per nucleon is a measure of how tightly the nucleons are bound together and indicates stability.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q14",
+      "chapterId": "phy_ch13",
+      "question": "The nuclear force is ________ at very short distances (less than 0.8 fm) and ________ at slightly larger distances.",
+      "options": [
+        "Attractive, Repulsive",
+        "Repulsive, Attractive",
+        "Zero, Infinite",
+        "Weak, Strong"
+      ],
+      "correctIndex": 1,
+      "explanation": "The nuclear force is attractive for distances larger than 0.8 fm and repulsive for distances less than 0.8 fm.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q15",
+      "chapterId": "phy_ch13",
+      "question": "Which of the following is NOT a characteristic of the nuclear force?",
+      "options": [
+        "It is much stronger than the Coulomb force",
+        "It is independent of charge",
+        "It is a long-range force",
+        "It saturates at short ranges"
+      ],
+      "correctIndex": 2,
+      "explanation": "The nuclear force is a short-range force that exists only over a few femtometers.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q16",
+      "chapterId": "phy_ch13",
+      "question": "The phenomenon of spontaneous emission of radiation from a nucleus is called:",
+      "options": [
+        "Radioactivity",
+        "Photoelectric effect",
+        "Nuclear fission",
+        "Ionization"
+      ],
+      "correctIndex": 0,
+      "explanation": "Radioactivity is a phenomenon in which an unstable nucleus undergoes decay by emitting radiation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q17",
+      "chapterId": "phy_ch13",
+      "question": "In radioactive decay, the rate of decay (dN/dt) is proportional to:",
+      "options": [
+        "Time elapsed",
+        "The square root of N",
+        "The number of nuclei present (N)",
+        "The temperature"
+      ],
+      "correctIndex": 2,
+      "explanation": "The law of radioactive decay states that dN/dt = -λN, where N is the number of nuclei.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q18",
+      "chapterId": "phy_ch13",
+      "question": "The SI unit of radioactivity (activity) is:",
+      "options": [
+        "Curie",
+        "Becquerel",
+        "Henry",
+        "Rutherford"
+      ],
+      "correctIndex": 1,
+      "explanation": "The SI unit for activity is the becquerel (Bq), equal to one decay per second.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q19",
+      "chapterId": "phy_ch13",
+      "question": "The time required for the number of radioactive nuclei to reduce to half of their initial value is called:",
+      "options": [
+        "Mean life",
+        "Decay constant",
+        "Half-life (T_1/2)",
+        "Saturation time"
+      ],
+      "correctIndex": 2,
+      "explanation": "Half-life is the time during which half of the initial number of nuclei decay.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q20",
+      "chapterId": "phy_ch13",
+      "question": "The relation between half-life (T_1/2) and decay constant (λ) is:",
+      "options": [
+        "T_1/2 = λ/0.693",
+        "T_1/2 = 0.693/λ",
+        "T_1/2 = 1/λ",
+        "T_1/2 = λ²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Half-life is related to the decay constant by T_1/2 = ln 2 / λ ≈ 0.693 / λ.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q21",
+      "chapterId": "phy_ch13",
+      "question": "In alpha (α) decay, the atomic number of the nucleus ________ and the mass number ________.",
+      "options": [
+        "Decreases by 2, decreases by 4",
+        "Decreases by 4, decreases by 2",
+        "Increases by 2, increases by 4",
+        "Remains unchanged"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alpha decay involves the emission of a helium nucleus (4He), reducing Z by 2 and A by 4.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q22",
+      "chapterId": "phy_ch13",
+      "question": "In beta-minus (β-) decay, the nucleus emits an electron and a/an:",
+      "options": [
+        "Neutron",
+        "Alpha particle",
+        "Antineutrino",
+        "Proton"
+      ],
+      "correctIndex": 2,
+      "explanation": "In β- decay, an electron and an antineutrino are emitted from the nucleus.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q23",
+      "chapterId": "phy_ch13",
+      "question": "Gamma (γ) decay occurs when a nucleus transitions from:",
+      "options": [
+        "Ground state to excited state",
+        "Excited state to a lower energy state",
+        "Proton to neutron",
+        "Solid to liquid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gamma decay happens when an excited nucleus returns to a lower energy state by emitting a high-energy photon.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q24",
+      "chapterId": "phy_ch13",
+      "question": "The splitting of a heavy nucleus into two smaller nuclei is called:",
+      "options": [
+        "Nuclear Fusion",
+        "Nuclear Fission",
+        "Alpha Decay",
+        "Isotope formation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nuclear fission is the process where a heavy nucleus splits into lighter fragments with the release of energy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q25",
+      "chapterId": "phy_ch13",
+      "question": "Nuclear fusion involves the ________ of two light nuclei to form a heavier nucleus.",
+      "options": [
+        "Splitting",
+        "Decay",
+        "Combining",
+        "Interaction with electrons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nuclear fusion is the process of joining two light nuclei to form a heavier one, releasing energy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q26",
+      "chapterId": "phy_ch13",
+      "question": "The primary source of energy in stars (like the Sun) is:",
+      "options": [
+        "Nuclear fission",
+        "Chemical combustion",
+        "Thermonuclear fusion",
+        "Gravitational collapse only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stars generate energy through the fusion of hydrogen into helium at extremely high temperatures.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q27",
+      "chapterId": "phy_ch13",
+      "question": "Control rods in a nuclear reactor are made of materials like cadmium to:",
+      "options": [
+        "Slow down neutrons",
+        "Reflect neutrons",
+        "Absorb excess neutrons",
+        "Cool the reactor core"
+      ],
+      "correctIndex": 2,
+      "explanation": "Control rods are used to maintain a steady rate of fission by absorbing excess neutrons.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q28",
+      "chapterId": "phy_ch13",
+      "question": "A 'moderator' in a nuclear reactor is used to:",
+      "options": [
+        "Speed up neutrons",
+        "Slow down fast neutrons",
+        "Stop the chain reaction",
+        "Increase thermal energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moderators like water or graphite slow down fast neutrons to increase the probability of fission.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q29",
+      "chapterId": "phy_ch13",
+      "question": "What is the average number of neutrons emitted per fission of 235U?",
+      "options": [
+        "1",
+        "2 to 3",
+        "10",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "On average, 2.5 neutrons are emitted per fission event in 235U.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q30",
+      "chapterId": "phy_ch13",
+      "question": "The binding energy curve shows that nuclei with mass number (A) around ________ are the most stable.",
+      "options": [
+        "1 to 10",
+        "30 to 170",
+        "Above 200",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "Binding energy per nucleon is maximum and nearly constant for mass numbers between 30 and 170.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q31",
+      "chapterId": "phy_ch13",
+      "question": "A neutrino is a particle that has ________ charge and ________ mass.",
+      "options": [
+        "Positive, large",
+        "Negative, small",
+        "Zero, very small (or zero)",
+        "Zero, infinite"
+      ],
+      "correctIndex": 2,
+      "explanation": "Neutrinos are neutral particles with very small mass that are extremely difficult to detect.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q32",
+      "chapterId": "phy_ch13",
+      "question": "Which radioactive series is used for carbon dating of archaeological artifacts?",
+      "options": [
+        "Uranium series",
+        "Thorium series",
+        "Carbon-14 decay",
+        "Plutonium series"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carbon-14 (14C) is a radioactive isotope of carbon used to estimate the age of once-living objects.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q33",
+      "chapterId": "phy_ch13",
+      "question": "In a nuclear reactor, the ratio of the number of neutrons produced to the number of neutrons at the start is called:",
+      "options": [
+        "Efficiency factor",
+        "Multiplication factor (K)",
+        "Stability index",
+        "Critical mass"
+      ],
+      "correctIndex": 1,
+      "explanation": "The multiplication factor K determines if the chain reaction is subcritical, critical, or supercritical.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q34",
+      "chapterId": "phy_ch13",
+      "question": "The Q-value of a nuclear reaction is defined as:",
+      "options": [
+        "Total charge",
+        "Energy absorbed or released",
+        "Number of nucleons",
+        "Quality factor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Q is the difference between initial and final mass-energy in a reaction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q35",
+      "chapterId": "phy_ch13",
+      "question": "Who was the first woman to win two Nobel prizes in different scientific fields?",
+      "options": [
+        "Marie Curie",
+        "Irène Joliot-Curie",
+        "Lisa Meitner",
+        "Dorothy Hodgkin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marie Sklodowska Curie won Nobel prizes in Physics (1903) and Chemistry (1911).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q36",
+      "chapterId": "phy_ch13",
+      "question": "The total binding energy of a nucleus increases with:",
+      "options": [
+        "Decreasing mass number",
+        "Increasing mass number",
+        "Decreasing atomic number",
+        "None of these"
+      ],
+      "correctIndex": 1,
+      "explanation": "As the number of nucleons (A) increases, the total binding energy increases, even if binding energy per nucleon varies.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q37",
+      "chapterId": "phy_ch13",
+      "question": "In β+ (positron) decay, a ________ in the nucleus converts into a ________.",
+      "options": [
+        "Neutron, proton",
+        "Proton, neutron",
+        "Electron, positron",
+        "Alpha particle, proton"
+      ],
+      "correctIndex": 1,
+      "explanation": "In β+ decay, a proton becomes a neutron with the emission of a positron and a neutrino.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q38",
+      "chapterId": "phy_ch13",
+      "question": "The mass of a proton is approximately ________ times the mass of an electron.",
+      "options": [
+        "10",
+        "100",
+        "1836",
+        "10,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "The proton is much more massive than the electron (mp ≈ 1.00727 u vs me ≈ 0.00055 u).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q39",
+      "chapterId": "phy_ch13",
+      "question": "Nuclear forces are 'saturated', which means:",
+      "options": [
+        "They affect every nucleon in the nucleus",
+        "A nucleon only interacts with its immediate neighbors",
+        "They are always zero",
+        "They never change"
+      ],
+      "correctIndex": 1,
+      "explanation": "Saturation implies a nucleon only feels the force from nucleons in its close vicinity.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q40",
+      "chapterId": "phy_ch13",
+      "question": "Fission of 1 kg of 235U releases energy equivalent to about ________ tons of coal.",
+      "options": [
+        "100",
+        "1,000",
+        "20,000",
+        "2"
+      ],
+      "correctIndex": 2,
+      "explanation": "The energy release from nuclear fission is enormous compared to chemical fuels like coal.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q41",
+      "chapterId": "phy_ch13",
+      "question": "Curie (Ci) is an older unit of activity. 1 Ci equals how many becquerels?",
+      "options": [
+        "1",
+        "3.7 x 10^10",
+        "10^6",
+        "1.6 x 10^-19"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 Curie is defined as 3.7 x 10^10 decays per second (Bq).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q42",
+      "chapterId": "phy_ch13",
+      "question": "Mean life (τ) of a radioactive sample is the reciprocal of the ________.",
+      "options": [
+        "Half-life",
+        "Decay constant (λ)",
+        "Mass number",
+        "Activity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mean life is defined as τ = 1/λ.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q43",
+      "chapterId": "phy_ch13",
+      "question": "Fusion reactions are also called 'thermonuclear' because they require:",
+      "options": [
+        "Low temperature",
+        "Extremely high temperature",
+        "High magnetic field",
+        "Vacuum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fusion requires temperatures of millions of degrees to overcome Coulomb repulsion.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q44",
+      "chapterId": "phy_ch13",
+      "question": "If the multiplication factor (K) is greater than 1, the reactor is:",
+      "options": [
+        "Subcritical",
+        "Critical",
+        "Supercritical",
+        "Shut down"
+      ],
+      "correctIndex": 2,
+      "explanation": "K > 1 means the reaction rate is increasing exponentially, which is supercritical.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q45",
+      "chapterId": "phy_ch13",
+      "question": "Which of these particles is essentially a helium nucleus?",
+      "options": [
+        "Beta particle",
+        "Gamma ray",
+        "Alpha particle",
+        "Neutrino"
+      ],
+      "correctIndex": 2,
+      "explanation": "An alpha particle consists of two protons and two neutrons, identical to a helium nucleus.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q46",
+      "chapterId": "phy_ch13",
+      "question": "Energy in nuclear reactions is released because the binding energy per nucleon of the products is ________ than the reactants.",
+      "options": [
+        "Lower",
+        "Higher",
+        "Zero",
+        "Same"
+      ],
+      "correctIndex": 1,
+      "explanation": "Energy is released when nucleons move to a more tightly bound (higher binding energy) state.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q47",
+      "chapterId": "phy_ch13",
+      "question": "Isotopes of the same element have different ________ properties but the same ________ properties.",
+      "options": [
+        "Chemical, physical",
+        "Physical, chemical",
+        "Atomic, nuclear",
+        "Charge, mass"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chemical properties depend on Z (electrons), while physical properties like mass and stability differ.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q48",
+      "chapterId": "phy_ch13",
+      "question": "The total number of protons and neutrons in a nucleus is called its:",
+      "options": [
+        "Atomic number",
+        "Atomic mass",
+        "Mass number (A)",
+        "Avogadro number"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mass number A is the sum of Z (protons) and N (neutrons).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q49",
+      "chapterId": "phy_ch13",
+      "question": "An uncharged radioactive emission is:",
+      "options": [
+        "Alpha particle",
+        "Beta particle",
+        "Gamma ray",
+        "Proton"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gamma rays are high-energy photons and carry no electric charge.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Physics"
+    },
+    {
+      "mcqId": "12_phy_ch13_q50",
+      "chapterId": "phy_ch13",
+      "question": "The constant R₀ in nuclear radius formula is independent of:",
+      "options": [
+        "Mass number A",
+        "Atomic number Z",
+        "Temperature",
+        "All of these"
+      ],
+      "correctIndex": 3,
+      "explanation": "R₀ is a fundamental constant used for sizing nuclei and does not depend on these variables.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Physics"
+    }
+  ]
+}

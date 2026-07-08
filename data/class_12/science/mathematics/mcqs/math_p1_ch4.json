@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch4_q1",
+      "chapterId": "math_ch4",
+      "question": "To every square matrix A, we can associate a number called the:",
+      "options": [
+        "Trace",
+        "Determinant",
+        "Inverse",
+        "Adjoint"
+      ],
+      "correctIndex": 1,
+      "explanation": "To every square matrix A = [a_ij] of order n, we can associate a number (real or complex) called determinant of the square matrix A.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q2",
+      "chapterId": "math_ch4",
+      "question": "A system of linear equations has a unique solution if the determinant of its coefficient matrix is:",
+      "options": [
+        "Zero",
+        "Non-zero",
+        "Positive",
+        "Negative"
+      ],
+      "correctIndex": 1,
+      "explanation": "The system has a unique solution if a1b2 - a2b1 ≠ 0, which is the determinant of the associated matrix.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q3",
+      "chapterId": "math_ch4",
+      "question": "If A is a matrix of order 1, say A = [a], then det(A) is equal to:",
+      "options": [
+        "0",
+        "1",
+        "a",
+        "|a|"
+      ],
+      "correctIndex": 2,
+      "explanation": "Determinant of a matrix of order one is the element itself.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q4",
+      "chapterId": "math_ch4",
+      "question": "Only ________ matrices have determinants.",
+      "options": [
+        "Rectangular",
+        "Diagonal",
+        "Square",
+        "Identity"
+      ],
+      "correctIndex": 2,
+      "explanation": "Only square matrices have determinants.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q5",
+      "chapterId": "math_ch4",
+      "question": "The determinant of the 2x2 matrix [[a, b], [c, d]] is given by:",
+      "options": [
+        "ad + bc",
+        "ab - cd",
+        "ad - bc",
+        "ac - bd"
+      ],
+      "correctIndex": 2,
+      "explanation": "The determinant of a 2x2 matrix is the product of diagonal elements minus the product of off-diagonal elements.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q6",
+      "chapterId": "math_ch4",
+      "question": "Expansion of a determinant of order 3 can be done along:",
+      "options": [
+        "The first row only",
+        "The first column only",
+        "Any row or any column",
+        "Only diagonal elements"
+      ],
+      "correctIndex": 2,
+      "explanation": "Determinant of a matrix of order three can be expanded along any row or any column.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q7",
+      "chapterId": "math_ch4",
+      "question": "For easier calculations, we should expand the determinant along the row or column which contains maximum number of:",
+      "options": [
+        "Ones",
+        "Primes",
+        "Zeros",
+        "Negatives"
+      ],
+      "correctIndex": 2,
+      "explanation": "Expanding along a row or column with more zeros simplifies the summation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q8",
+      "chapterId": "math_ch4",
+      "question": "If A and B are square matrices of order n, then |AB| is equal to:",
+      "options": [
+        "|A| + |B|",
+        "|A| |B|",
+        "|A| / |B|",
+        "|A|^n"
+      ],
+      "correctIndex": 1,
+      "explanation": "A fundamental property is that the determinant of a product is the product of determinants.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q9",
+      "chapterId": "math_ch4",
+      "question": "If A is a square matrix of order n, then |kA| is equal to:",
+      "options": [
+        "k|A|",
+        "k^2|A|",
+        "k^n|A|",
+        "n^k|A|"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying a matrix by a scalar k results in each row being multiplied by k. Extracting k from n rows gives k^n.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q10",
+      "chapterId": "math_ch4",
+      "question": "The area of a triangle with vertices (x1, y1), (x2, y2), (x3, y3) using determinants is:",
+      "options": [
+        "1/2 |Δ|",
+        "2 |Δ|",
+        "|Δ|^2",
+        "None of these"
+      ],
+      "correctIndex": 0,
+      "explanation": "Area is half the absolute value of the determinant formed by coordinates and a column of ones.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q11",
+      "chapterId": "math_ch4",
+      "question": "If the area of a triangle formed by three points is zero, then the points are:",
+      "options": [
+        "Vertices of a right triangle",
+        "Equidistant",
+        "Collinear",
+        "At infinity"
+      ],
+      "correctIndex": 2,
+      "explanation": "If points are collinear, they do not form a triangle, so the area (and the determinant) is zero.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q12",
+      "chapterId": "math_ch4",
+      "question": "The determinant of a square matrix obtained by interchanging its rows and columns (transpose) is:",
+      "options": [
+        "Negative",
+        "Reciprocal",
+        "The same",
+        "Zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "The determinant remains unchanged if rows and columns are interchanged.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q13",
+      "chapterId": "math_ch4",
+      "question": "If any two rows (or columns) of a determinant are interchanged, then the sign of the determinant:",
+      "options": [
+        "Remains same",
+        "Changes",
+        "Becomes zero",
+        "Becomes imaginary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Interchanging any two rows or columns changes the sign of the determinant.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q14",
+      "chapterId": "math_ch4",
+      "question": "If any two rows (or columns) of a determinant are identical, then the value of the determinant is:",
+      "options": [
+        "1",
+        "Infinite",
+        "Zero",
+        "-1"
+      ],
+      "correctIndex": 2,
+      "explanation": "If rows/columns are identical, the determinant value is zero.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q15",
+      "chapterId": "math_ch4",
+      "question": "The minor of an element a_ij is the determinant obtained by deleting its:",
+      "options": [
+        "i-th row only",
+        "j-th column only",
+        "i-th row and j-th column",
+        "Diagonal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Minor M_ij is the determinant of the submatrix after deleting the row and column of that element.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q16",
+      "chapterId": "math_ch4",
+      "question": "The cofactor A_ij of an element a_ij is defined as:",
+      "options": [
+        "M_ij",
+        "(-1)^(i+j) M_ij",
+        "(-1)^(i-j) M_ij",
+        "1 / M_ij"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cofactor is the minor with a specific sign determined by the position (sum of row and column index).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q17",
+      "chapterId": "math_ch4",
+      "question": "If elements of a row are multiplied with cofactors of any other row, then their sum is:",
+      "options": [
+        "|A|",
+        "1",
+        "0",
+        "-|A|"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sum of products of elements of one row with cofactors of another row is zero.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q18",
+      "chapterId": "math_ch4",
+      "question": "The adjoint of a square matrix A is the ________ of the matrix of cofactors.",
+      "options": [
+        "Inverse",
+        "Transpose",
+        "Negative",
+        "Trace"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adjoint of A is defined as the transpose of the matrix [A_ij].",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q19",
+      "chapterId": "math_ch4",
+      "question": "A square matrix A is said to be singular if:",
+      "options": [
+        "|A| = 1",
+        "|A| = 0",
+        "|A| ≠ 0",
+        "A is identity"
+      ],
+      "correctIndex": 1,
+      "explanation": "A square matrix is singular if its determinant is zero.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q20",
+      "chapterId": "math_ch4",
+      "question": "A square matrix A is invertible if and only if A is a:",
+      "options": [
+        "Singular matrix",
+        "Non-singular matrix",
+        "Zero matrix",
+        "Diagonal matrix"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matrix A is invertible if and only if it is non-singular, meaning |A| ≠ 0.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q21",
+      "chapterId": "math_ch4",
+      "question": "The formula for the inverse of a matrix A is:",
+      "options": [
+        "adj A / |A|",
+        "|A| adj A",
+        "1 / adj A",
+        "adj A"
+      ],
+      "correctIndex": 0,
+      "explanation": "A inverse is calculated by dividing the adjoint of A by its determinant.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q22",
+      "chapterId": "math_ch4",
+      "question": "A system of equations AX = B is called inconsistent if:",
+      "options": [
+        "It has one solution",
+        "It has infinite solutions",
+        "No solution exists",
+        "B is zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "A system is inconsistent if no solution exists.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q23",
+      "chapterId": "math_ch4",
+      "question": "If |A| ≠ 0, the unique solution for AX = B is given by:",
+      "options": [
+        "X = AB",
+        "X = B / A",
+        "X = A⁻¹B",
+        "X = BA⁻¹"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying both sides by A inverse yields X = A⁻¹B.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q24",
+      "chapterId": "math_ch4",
+      "question": "Which Japanese mathematician showed ideas of determinants in 1683?",
+      "options": [
+        "Cauchy",
+        "Seki Kowa",
+        "Jacobi",
+        "Laplace"
+      ],
+      "correctIndex": 1,
+      "explanation": "Seki Kowa showed ideas of determinants in his work 'Kai Fukudai no Ho'.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q25",
+      "chapterId": "math_ch4",
+      "question": "Who was the first to recognize determinants as independent functions and is considered the formal founder?",
+      "options": [
+        "Vandermonde",
+        "Gauss",
+        "Lagrange",
+        "Laplace"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vandermonde may be called the formal founder of the theory of determinants.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q26",
+      "chapterId": "math_ch4",
+      "question": "Who gave the general method of expanding a determinant in terms of complementary minors in 1772?",
+      "options": [
+        "Seki Kowa",
+        "Cauchy",
+        "Laplace",
+        "Binet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laplace gave this general method in 1772.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q27",
+      "chapterId": "math_ch4",
+      "question": "In 1801, who used determinants in the theory of numbers?",
+      "options": [
+        "Gauss",
+        "Lagrange",
+        "Cauchy",
+        "Jacobi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gauss used determinants in his theory of numbers in 1801.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q28",
+      "chapterId": "math_ch4",
+      "question": "Who used the word 'determinant' in its present sense in 1812?",
+      "options": [
+        "Jacobi",
+        "Cauchy",
+        "Binet",
+        "Laplace"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cauchy used the word determinant in its present sense and proved the multiplication theorem.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q29",
+      "chapterId": "math_ch4",
+      "question": "Who was the greatest contributor after whom the word determinant received its final acceptance?",
+      "options": [
+        "Binet",
+        "Lagrange",
+        "Jacobi",
+        "Cauchy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carl Gustav Jacob Jacobi was the greatest contributor to the theory.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q30",
+      "chapterId": "math_ch4",
+      "question": "If elements of a row are written as sum of two terms, the determinant can be expressed as:",
+      "options": [
+        "Square of two determinants",
+        "Sum of two determinants",
+        "Difference of two determinants",
+        "Product of two determinants"
+      ],
+      "correctIndex": 1,
+      "explanation": "If some or all elements of a row/column are expressed as sum of two terms, then the determinant can be expressed as sum of two determinants.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q31",
+      "chapterId": "math_ch4",
+      "question": "Area is always a ________ quantity, so we take the absolute value of the determinant.",
+      "options": [
+        "Scalar",
+        "Vector",
+        "Positive",
+        "Negative"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since area is always positive, we use the absolute value of the determinant.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q32",
+      "chapterId": "math_ch4",
+      "question": "The determinant of a matrix with a row of all zeros is:",
+      "options": [
+        "1",
+        "Infinite",
+        "Zero",
+        "The sum of other elements"
+      ],
+      "correctIndex": 2,
+      "explanation": "Expansion along the row of zeros results in zero.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q33",
+      "chapterId": "math_ch4",
+      "question": "A diagonal matrix has a determinant equal to the product of its:",
+      "options": [
+        "Row sums",
+        "Column sums",
+        "Diagonal elements",
+        "Minors"
+      ],
+      "correctIndex": 2,
+      "explanation": "For diagonal matrices, the off-diagonal elements are zero, leaving only the product of diagonals in expansion.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q34",
+      "chapterId": "math_ch4",
+      "question": "The determinant of an identity matrix of any order is:",
+      "options": [
+        "0",
+        "Order n",
+        "1",
+        "-1"
+      ],
+      "correctIndex": 2,
+      "explanation": "The product of diagonal elements (all 1) is 1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q35",
+      "chapterId": "math_ch4",
+      "question": "The notation for the determinant of matrix A can be:",
+      "options": [
+        "|A|",
+        "det(A)",
+        "Δ",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "The standard notations include det A, |A|, and Δ.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q36",
+      "chapterId": "math_ch4",
+      "question": "If elements of any row are multiplied by a constant k, the value of the determinant:",
+      "options": [
+        "Remains same",
+        "Is divided by k",
+        "Is multiplied by k",
+        "Becomes zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying a row by k multiplies the whole determinant by k.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q37",
+      "chapterId": "math_ch4",
+      "question": "Is the symbol |A| for determinant the same as the 'absolute value' of A?",
+      "options": [
+        "Yes",
+        "No, for matrices it means determinant",
+        "Only for order 1",
+        "Only for order 2"
+      ],
+      "correctIndex": 1,
+      "explanation": "For matrix A, |A| is read as determinant of A, not modulus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q38",
+      "chapterId": "math_ch4",
+      "question": "In the system AX = B, if B is a zero matrix, the system is called:",
+      "options": [
+        "Inconsistent",
+        "Homogeneous",
+        "Non-homogeneous",
+        "Singular"
+      ],
+      "correctIndex": 1,
+      "explanation": "If B = 0, the system of linear equations is homogeneous.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q39",
+      "chapterId": "math_ch4",
+      "question": "Minor M_ij is defined for which elements?",
+      "options": [
+        "Only diagonal elements",
+        "Only non-zero elements",
+        "Every element a_ij of the determinant",
+        "Only for 3x3 matrices"
+      ],
+      "correctIndex": 2,
+      "explanation": "A minor is associated with every element in a square matrix.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q40",
+      "chapterId": "math_ch4",
+      "question": "The determinant of a skew-symmetric matrix of odd order is always:",
+      "options": [
+        "1",
+        "Zero",
+        "-1",
+        "A perfect square"
+      ],
+      "correctIndex": 1,
+      "explanation": "A skew-symmetric matrix of odd order always has a zero determinant.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q41",
+      "chapterId": "math_ch4",
+      "question": "Jacques - Philippe - Marie Binet contributed to which theorem in 1812?",
+      "options": [
+        "Area of triangle",
+        "Inverse theorem",
+        "Multiplication theorem for matrices",
+        "Minor expansion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Binet stated the theorem relating to the determinant of the product of two matrices.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q42",
+      "chapterId": "math_ch4",
+      "question": "If each element of a row is zero, the value of the determinant is:",
+      "options": [
+        "1",
+        "Depends on other rows",
+        "Zero",
+        "Undefined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Expansion along that row gives zero.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q43",
+      "chapterId": "math_ch4",
+      "question": "The adjoint of a diagonal matrix is a ________ matrix.",
+      "options": [
+        "Zero",
+        "Identity",
+        "Diagonal",
+        "Skew-symmetric"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cofactors of off-diagonal elements in a diagonal matrix are zero, keeping it diagonal.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q44",
+      "chapterId": "math_ch4",
+      "question": "Cofactor of an element at (1, 2) is:",
+      "options": [
+        "M_12",
+        "-M_12",
+        "M_21",
+        "(-1)^1 M_12"
+      ],
+      "correctIndex": 1,
+      "explanation": "A_12 = (-1)^(1+2) M_12 = -M_12.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q45",
+      "chapterId": "math_ch4",
+      "question": "The determinant value represents a ________ associated with a matrix.",
+      "options": [
+        "Vector",
+        "Function",
+        "Unique number",
+        "Set"
+      ],
+      "correctIndex": 2,
+      "explanation": "The determinant associates a single unique number with a square matrix.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q46",
+      "chapterId": "math_ch4",
+      "question": "If each element of a row is added to equimultiples of another row, the determinant:",
+      "options": [
+        "Remains same",
+        "Changes sign",
+        "Is multiplied by k",
+        "Becomes zero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Row operations of the type Ri -> Ri + kRj do not change the determinant value.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q47",
+      "chapterId": "math_ch4",
+      "question": "What is A adj A equal to for a matrix of order n?",
+      "options": [
+        "|A|",
+        "I",
+        "|A| I",
+        "adj A"
+      ],
+      "correctIndex": 2,
+      "explanation": "It is a standard theorem that A(adj A) = (adj A)A = |A|I.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q48",
+      "chapterId": "math_ch4",
+      "question": "Seki Kowa used determinants for eliminating quantities from ________ equations.",
+      "options": [
+        "Differential",
+        "Trigonometric",
+        "Simultaneous linear",
+        "Two"
+      ],
+      "correctIndex": 3,
+      "explanation": "Seki Kowa used it for eliminating a quantity from two equations.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q49",
+      "chapterId": "math_ch4",
+      "question": "For a system of equations, if |A| = 0 and (adj A)B ≠ 0, then the system is:",
+      "options": [
+        "Consistent",
+        "Homogeneous",
+        "Inconsistent",
+        "Trivial"
+      ],
+      "correctIndex": 2,
+      "explanation": "This condition implies no solution exists for the system AX = B.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch4_q50",
+      "chapterId": "math_ch4",
+      "question": "Determinants are commonly used to find the ________ of a triangle.",
+      "options": [
+        "Perimeter",
+        "Centroid",
+        "Area",
+        "Orthocenter"
+      ],
+      "correctIndex": 2,
+      "explanation": "A primary application of determinants is calculating the area of a triangle given its vertices.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    }
+  ]
+}

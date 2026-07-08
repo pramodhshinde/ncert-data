@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch1_q1",
+      "chapterId": "bio_ch1",
+      "question": "Which of the following is considered one of the two core techniques that enabled the birth of modern biotechnology?",
+      "options": [
+        "Bioremediation",
+        "Genetic engineering",
+        "Plant breeding",
+        "X-ray crystallography"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genetic engineering and maintenance of a sterile ambience in chemical engineering processes are the two core techniques of modern biotechnology.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q2",
+      "chapterId": "bio_ch1",
+      "question": "The European Federation of Biotechnology (EFB) defines biotechnology as the integration of ________ and organisms, cells, parts thereof, and molecular analogues for products and services.",
+      "options": [
+        "Chemical science",
+        "Natural science",
+        "Mechanical engineering",
+        "Computer science"
+      ],
+      "correctIndex": 1,
+      "explanation": "The EFB definition emphasizes the integration of natural science and organisms for products and services.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q3",
+      "chapterId": "bio_ch1",
+      "question": "Who constructed the first recombinant DNA?",
+      "options": [
+        "James Watson and Francis Crick",
+        "Stanley Cohen and Herbert Boyer",
+        "Gregor Mendel",
+        "Alexander Fleming"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stanley Cohen and Herbert Boyer accomplished the construction of the first recombinant DNA in 1972.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q4",
+      "chapterId": "bio_ch1",
+      "question": "Restriction enzymes are also known as:",
+      "options": [
+        "Molecular scissors",
+        "Molecular glue",
+        "Vector DNA",
+        "Polymerases"
+      ],
+      "correctIndex": 0,
+      "explanation": "Restriction enzymes are called 'molecular scissors' because they cut DNA at specific locations.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q5",
+      "chapterId": "bio_ch1",
+      "question": "What is the specific DNA sequence where replication is initiated called?",
+      "options": [
+        "Promoter",
+        "Terminator",
+        "Origin of replication",
+        "Selectable marker"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'origin of replication' is a specific DNA sequence responsible for initiating replication.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q6",
+      "chapterId": "bio_ch1",
+      "question": "The first restriction endonuclease to be isolated and characterized was:",
+      "options": [
+        "EcoRI",
+        "HindII",
+        "BamHI",
+        "SalI"
+      ],
+      "correctIndex": 1,
+      "explanation": "HindII was the first restriction endonuclease, whose functioning depended on a specific DNA nucleotide sequence.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q7",
+      "chapterId": "bio_ch1",
+      "question": "In the nomenclature of restriction enzymes like EcoRI, what does the first letter 'E' represent?",
+      "options": [
+        "The strain",
+        "The order of discovery",
+        "The genus name",
+        "The species name"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first letter of the name comes from the genus (Escherichia in EcoRI).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q8",
+      "chapterId": "bio_ch1",
+      "question": "Restriction enzymes belong to a larger class of enzymes called:",
+      "options": [
+        "Ligases",
+        "Nucleases",
+        "Polymerases",
+        "Proteases"
+      ],
+      "correctIndex": 1,
+      "explanation": "Restriction enzymes belong to a larger class of enzymes called nucleases, which include exonucleases and endonucleases.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q9",
+      "chapterId": "bio_ch1",
+      "question": "Which enzyme is used to remove nucleotides from the ends of DNA?",
+      "options": [
+        "Endonuclease",
+        "Exonuclease",
+        "DNA Ligase",
+        "RNA Polymerase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exonucleases remove nucleotides from the ends of the DNA.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q10",
+      "chapterId": "bio_ch1",
+      "question": "Restriction endonucleases cut the DNA at specific base sequences known as:",
+      "options": [
+        "Primer sequences",
+        "Palindromic nucleotide sequences",
+        "Repeating units",
+        "Poly-A tails"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each restriction endonuclease recognizes a specific palindromic nucleotide sequence in the DNA.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q11",
+      "chapterId": "bio_ch1",
+      "question": "What are 'Sticky Ends' in DNA technology?",
+      "options": [
+        "Ends with extra proteins",
+        "Single stranded portions left after cutting with restriction enzymes",
+        "Ends that cannot be ligated",
+        "Regions where DNA is damaged"
+      ],
+      "correctIndex": 1,
+      "explanation": "Restriction enzymes cut a little away from the center of the palindrome sites, leaving overhanging stretches called sticky ends.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q12",
+      "chapterId": "bio_ch1",
+      "question": "Which enzyme acts as 'molecular glue' to join DNA fragments?",
+      "options": [
+        "DNA Polymerase",
+        "DNA Ligase",
+        "Helicase",
+        "Restriction Endonuclease"
+      ],
+      "correctIndex": 1,
+      "explanation": "DNA ligases are used to join the sticky ends of DNA fragments.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q13",
+      "chapterId": "bio_ch1",
+      "question": "DNA fragments are negatively charged. In Gel Electrophoresis, they move towards which electrode?",
+      "options": [
+        "Cathode (Negative)",
+        "Anode (Positive)",
+        "Neutral electrode",
+        "They do not move"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since DNA fragments are negatively charged, they can be separated by forcing them to move towards the anode under an electric field.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q14",
+      "chapterId": "bio_ch1",
+      "question": "What is the most commonly used matrix for DNA gel electrophoresis?",
+      "options": [
+        "Agarose",
+        "Silica",
+        "Polyacrylamide",
+        "Cellulose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Agarose, a natural polymer extracted from sea weeds, is the most common matrix.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q15",
+      "chapterId": "bio_ch1",
+      "question": "DNA fragments separated on a gel can be visualized after staining with:",
+      "options": [
+        "Methylene blue",
+        "Ethidium bromide",
+        "Acetocarmine",
+        "Safranin"
+      ],
+      "correctIndex": 1,
+      "explanation": "The separated DNA fragments can be visualized only after staining with ethidium bromide followed by exposure to UV radiation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q16",
+      "chapterId": "bio_ch1",
+      "question": "What color do DNA bands appear as when stained with Ethidium Bromide and viewed under UV light?",
+      "options": [
+        "Blue",
+        "Green",
+        "Bright orange",
+        "Pink"
+      ],
+      "correctIndex": 2,
+      "explanation": "You can see bright orange colored bands of DNA in an ethidium bromide stained gel exposed to UV light.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q17",
+      "chapterId": "bio_ch1",
+      "question": "The process of cutting out the DNA bands from the agarose gel and extracting them is called:",
+      "options": [
+        "Elution",
+        "Transformation",
+        "Ligation",
+        "Annealing"
+      ],
+      "correctIndex": 0,
+      "explanation": "The extraction of the separated band of DNA from the gel piece is known as elution.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q18",
+      "chapterId": "bio_ch1",
+      "question": "Which of the following can act as a cloning vector?",
+      "options": [
+        "Plasmids",
+        "Bacteriophages",
+        "Both Plasmids and Bacteriophages",
+        "Human RBCs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plasmids and bacteriophages have the ability to replicate within bacterial cells independent of the control of chromosomal DNA.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q19",
+      "chapterId": "bio_ch1",
+      "question": "A 'Selectable Marker' helps in:",
+      "options": [
+        "Cutting DNA",
+        "Identifying and eliminating non-transformants",
+        "Joining DNA",
+        "Visualizing DNA bands"
+      ],
+      "correctIndex": 1,
+      "explanation": "A selectable marker helps in identifying and eliminating non-transformants and selectively permitting the growth of transformants.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q20",
+      "chapterId": "bio_ch1",
+      "question": "In the vector pBR322, which antibiotic resistance genes are present?",
+      "options": [
+        "Ampicillin and Tetracycline",
+        "Penicillin and Streptomycin",
+        "Chloramphenicol only",
+        "Kanamycin and Ampicillin"
+      ],
+      "correctIndex": 0,
+      "explanation": "The plasmid pBR322 contains genes for ampicillin (ampR) and tetracycline (tetR) resistance.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q21",
+      "chapterId": "bio_ch1",
+      "question": "The process by which a piece of DNA is introduced into a host bacterium is called:",
+      "options": [
+        "Transcription",
+        "Translation",
+        "Transformation",
+        "Transduction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Transformation is a procedure through which a piece of DNA is introduced in a host bacterium.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q22",
+      "chapterId": "bio_ch1",
+      "question": "Why is Agrobacterium tumefaciens used in plant genetic engineering?",
+      "options": [
+        "It produces insulin",
+        "It delivers a piece of DNA (T-DNA) into plant cells naturally",
+        "It is used for PCR",
+        "It creates bioluminescence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agrobacterium tumefaciens is able to deliver a piece of DNA known as 'T-DNA' to transform normal plant cells into tumor cells.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q23",
+      "chapterId": "bio_ch1",
+      "question": "Which method is used to force DNA into host cells by bombarding them with high-velocity micro-particles of gold or tungsten?",
+      "options": [
+        "Micro-injection",
+        "Biolistics or Gene gun",
+        "Heat shock",
+        "Electroporation"
+      ],
+      "correctIndex": 1,
+      "explanation": "In biolistics or gene gun, cells are bombarded with high-velocity micro-particles of gold or tungsten coated with DNA.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q24",
+      "chapterId": "bio_ch1",
+      "question": "In PCR, 'Annealing' refers to:",
+      "options": [
+        "Separation of DNA strands",
+        "Joining of primers to the DNA template",
+        "Extension of DNA by polymerase",
+        "Digestion by restriction enzymes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Annealing is the step where two sets of primers bind to the separated DNA strands.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q25",
+      "chapterId": "bio_ch1",
+      "question": "What is the source of the heat-stable DNA polymerase (Taq polymerase)?",
+      "options": [
+        "Escherichia coli",
+        "Thermus aquaticus",
+        "Agrobacterium tumefaciens",
+        "Bacillus thuringiensis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taq polymerase is isolated from the bacterium Thermus aquaticus, which remains active during high-temperature DNA denaturation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q26",
+      "chapterId": "bio_ch1",
+      "question": "The three steps of a PCR cycle are, in order:",
+      "options": [
+        "Annealing, Denaturation, Extension",
+        "Denaturation, Annealing, Extension",
+        "Extension, Annealing, Denaturation",
+        "Denaturation, Extension, Annealing"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct order of steps in PCR is Denaturation, Annealing, and then Extension.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q27",
+      "chapterId": "bio_ch1",
+      "question": "A recombinant protein is a protein that is:",
+      "options": [
+        "Naturally produced in humans",
+        "Produced in a heterologous host",
+        "Produced after radiation",
+        "Synthesized in a lab without cells"
+      ],
+      "correctIndex": 1,
+      "explanation": "If any protein encoding gene is expressed in a heterologous host, it is called a recombinant protein.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q28",
+      "chapterId": "bio_ch1",
+      "question": "What is the primary purpose of a 'Bioreactor'?",
+      "options": [
+        "To store chemicals",
+        "To provide optimal conditions for achieving the desired product from raw materials",
+        "To separate DNA fragments",
+        "To kill bacteria"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bioreactors provide optimal growth conditions (temperature, pH, substrate, salts, vitamins, oxygen) to process raw materials into products.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q29",
+      "chapterId": "bio_ch1",
+      "question": "Which of the following is the most commonly used type of bioreactor?",
+      "options": [
+        "Shake flask",
+        "Stirring type",
+        "Anaerobic digester",
+        "Vacuum chamber"
+      ],
+      "correctIndex": 1,
+      "explanation": "The most commonly used bioreactors are of stirring type.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q30",
+      "chapterId": "bio_ch1",
+      "question": "The process of separation and purification of the product before marketing is called:",
+      "options": [
+        "Upstream processing",
+        "Downstream processing",
+        "Sterilization",
+        "Ligation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Downstream processing involves separation and purification of the biosynthesized product.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q31",
+      "chapterId": "bio_ch1",
+      "question": "What is 'Insertional Inactivation' used for in biotechnology?",
+      "options": [
+        "Increasing the growth of host cells",
+        "Selection of recombinant cells",
+        "Staining DNA bands",
+        "Cutting the plasmid at the origin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insertional inactivation of a marker gene (like beta-galactosidase) allows for the selection of recombinants based on color changes.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q32",
+      "chapterId": "bio_ch1",
+      "question": "In the presence of a chromogenic substrate, non-recombinant bacterial colonies appear ________ in color.",
+      "options": [
+        "White",
+        "Blue",
+        "Orange",
+        "Red"
+      ],
+      "correctIndex": 1,
+      "explanation": "Non-recombinant colonies produce beta-galactosidase and turn blue in the presence of the substrate.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q33",
+      "chapterId": "bio_ch1",
+      "question": "Which enzyme is used to break the bacterial cell wall to release DNA?",
+      "options": [
+        "Cellulase",
+        "Lysozyme",
+        "Chitinase",
+        "Ribonuclease"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lysozyme is used for bacterial cells, while cellulase is for plant cells and chitinase for fungus.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q34",
+      "chapterId": "bio_ch1",
+      "question": "During the isolation of DNA, RNA is removed by treatment with ________.",
+      "options": [
+        "Proteases",
+        "Ribonuclease",
+        "Ethanol",
+        "Lipases"
+      ],
+      "correctIndex": 1,
+      "explanation": "RNA can be removed by treatment with ribonuclease.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q35",
+      "chapterId": "bio_ch1",
+      "question": "Purified DNA ultimately precipitates out after the addition of ________.",
+      "options": [
+        "Warm water",
+        "Chilled ethanol",
+        "Liquid nitrogen",
+        "Concentrated HCl"
+      ],
+      "correctIndex": 1,
+      "explanation": "Purified DNA precipitates out after the addition of chilled ethanol.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q36",
+      "chapterId": "bio_ch1",
+      "question": "In pBR322, if a foreign DNA is inserted at the BamHI site, the transformants lose resistance to:",
+      "options": [
+        "Ampicillin",
+        "Tetracycline",
+        "Kanamycin",
+        "Penicillin"
+      ],
+      "correctIndex": 1,
+      "explanation": "The BamHI site is located within the tetracycline resistance gene; inserting DNA there inactivates it.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q37",
+      "chapterId": "bio_ch1",
+      "question": "What is the function of 'primers' in PCR?",
+      "options": [
+        "To cut the DNA",
+        "To serve as chemically synthesized oligonucleotides that are complementary to the regions of DNA",
+        "To provide energy for the reaction",
+        "To stain the DNA"
+      ],
+      "correctIndex": 1,
+      "explanation": "Primers are small oligonucleotides complementary to the template DNA, necessary for polymerase to start replication.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q38",
+      "chapterId": "bio_ch1",
+      "question": "Which of the following is NOT a feature required for a cloning vector?",
+      "options": [
+        "Origin of replication (ori)",
+        "Selectable marker",
+        "Cloning sites",
+        "Human centromere"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vectors require ori, markers, and cloning sites; human centromeres are not standard features for bacterial vectors.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q39",
+      "chapterId": "bio_ch1",
+      "question": "The 'rope' gene in a plasmid vector codes for proteins involved in:",
+      "options": [
+        "Antibiotic resistance",
+        "Replication of the plasmid",
+        "Cell wall destruction",
+        "Staining"
+      ],
+      "correctIndex": 1,
+      "explanation": "In pBR322, the 'rop' codes for the proteins involved in the replication of the plasmid.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q40",
+      "chapterId": "bio_ch1",
+      "question": "Disarmed 'Ti' plasmids are used as vectors for:",
+      "options": [
+        "Animal cells",
+        "Plant cells",
+        "Bacterial cells only",
+        "Viruses"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Ti plasmid of Agrobacterium tumefaciens has been modified into a cloning vector for plants.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q41",
+      "chapterId": "bio_ch1",
+      "question": "DNA is a hydrophilic molecule, so it cannot pass through cell membranes. How is the cell made 'competent' to take it up?",
+      "options": [
+        "Treatment with monovalent cations",
+        "Treatment with divalent cations like calcium",
+        "Boiling the cell",
+        "Dehydrating the cell"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bacterial cells are treated with a specific concentration of a divalent cation, such as calcium, to increase the efficiency of DNA entry.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q42",
+      "chapterId": "bio_ch1",
+      "question": "In a stirring type bioreactor, the 'Sparger' is used to:",
+      "options": [
+        "Stir the liquid",
+        "Control the temperature",
+        "Bubble air into the medium",
+        "Measure pH"
+      ],
+      "correctIndex": 2,
+      "explanation": "A sparged stirred-tank bioreactor uses a sparger to bubble air through the system.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q43",
+      "chapterId": "bio_ch1",
+      "question": "After 30 cycles of PCR, approximately how many times is the DNA segment amplified?",
+      "options": [
+        "100 times",
+        "10,000 times",
+        "1 million times",
+        "1 billion times"
+      ],
+      "correctIndex": 3,
+      "explanation": "The segment of DNA can be amplified approximately a billion times through 30 cycles of PCR.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q44",
+      "chapterId": "bio_ch1",
+      "question": "What happens in the 'Denaturation' step of PCR?",
+      "options": [
+        "Primers are added",
+        "DNA strands are separated by heat",
+        "Nucleotides are polymerized",
+        "Proteins are broken down"
+      ],
+      "correctIndex": 1,
+      "explanation": "Denaturation involves using high heat to separate the two strands of the double-stranded DNA.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q45",
+      "chapterId": "bio_ch1",
+      "question": "Restriction enzymes cut at a point slightly away from the center of the palindromic sequences. This leaves single-stranded overhanging stretches. What are these called?",
+      "options": [
+        "Blunt ends",
+        "Sticky ends",
+        "Satellite DNA",
+        "Exons"
+      ],
+      "correctIndex": 1,
+      "explanation": "These overhanging stretches are called sticky ends because they form hydrogen bonds with their complementary cut counterparts.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q46",
+      "chapterId": "bio_ch1",
+      "question": "Palindromic sequences in DNA read ________ on the two strands when orientation of reading is kept the same.",
+      "options": [
+        "Differently",
+        "The same",
+        "In reverse",
+        "Randomly"
+      ],
+      "correctIndex": 1,
+      "explanation": "A palindrome in DNA is a sequence that reads the same on both strands (5' to 3').",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q47",
+      "chapterId": "bio_ch1",
+      "question": "The term 'Bioprocessing' usually refers to activities in which phase?",
+      "options": [
+        "Downstream processing",
+        "Upstream processing",
+        "Both",
+        "Visualizing DNA only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Downstream processing involves the collection, separation, and purification of the product.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q48",
+      "chapterId": "bio_ch1",
+      "question": "In plant transformation, which bacterium is often referred to as 'Nature's Genetic Engineer'?",
+      "options": [
+        "E. coli",
+        "Agrobacterium tumefaciens",
+        "Bacillus subtilis",
+        "Thermus aquaticus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because of its natural ability to transfer DNA into plants, Agrobacterium is widely used in genetic engineering.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q49",
+      "chapterId": "bio_ch1",
+      "question": "What is the primary role of DNA Polymerase in the extension step of PCR?",
+      "options": [
+        "It breaks hydrogen bonds",
+        "It adds deoxynucleotides to the 3' end of the primer",
+        "It moves the DNA to the anode",
+        "It stains the DNA orange"
+      ],
+      "correctIndex": 1,
+      "explanation": "The DNA polymerase extends the primers using the nucleotides provided in the reaction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch1_q50",
+      "chapterId": "bio_ch1",
+      "question": "Separation of DNA fragments in a gel is based on their ________.",
+      "options": [
+        "Charge only",
+        "Size only",
+        "Sequence of bases",
+        "Melting point"
+      ],
+      "correctIndex": 1,
+      "explanation": "The DNA fragments separate according to their size through the sieving effect of the agarose gel.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    }
+  ]
+}

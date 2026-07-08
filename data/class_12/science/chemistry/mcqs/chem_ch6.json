@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_chem_ch11_q1",
+      "chapterId": "chem_ch11",
+      "question": "What is the primary difference between haloalkanes and haloarenes?",
+      "options": [
+        "Haloalkanes have halogen attached to sp2 carbon; haloarenes to sp3",
+        "Haloalkanes have halogen attached to sp3 carbon; haloarenes to sp2",
+        "Haloalkanes are always gases; haloarenes are always liquids",
+        "There is no structural difference"
+      ],
+      "correctIndex": 1,
+      "explanation": "Haloalkanes contain halogen atoms attached to the sp3 hybridised carbon of an alkyl group, whereas haloarenes contain halogen attached to the sp2 hybridised carbon of an aryl group.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q2",
+      "chapterId": "chem_ch11",
+      "question": "Which halogen-containing antibiotic is used for the treatment of typhoid fever?",
+      "options": [
+        "Chloroquine",
+        "Chloramphenicol",
+        "Halothane",
+        "Thyroxine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chloramphenicol, produced by soil microorganisms, is very effective for the treatment of typhoid fever.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q3",
+      "chapterId": "chem_ch11",
+      "question": "Which compound is used as an anaesthetic during surgery?",
+      "options": [
+        "Chloroform",
+        "Chloramphenicol",
+        "Halothane",
+        "DDT"
+      ],
+      "correctIndex": 2,
+      "explanation": "Halothane is used as an anaesthetic during surgery.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q4",
+      "chapterId": "chem_ch11",
+      "question": "Compounds containing two halogen atoms on the same carbon atom are called:",
+      "options": [
+        "Vicinal dihalides",
+        "Geminal dihalides",
+        "Alkylidene halides",
+        "Both B and C"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dihaloalkanes having the same type of halogen atoms are named as alkylidene halides or gem-dihalides when both halogens are on the same carbon.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q5",
+      "chapterId": "chem_ch11",
+      "question": "In the nomenclature of dihalides, 'vic-dihalides' refer to:",
+      "options": [
+        "Halogens on the same carbon",
+        "Halogens on adjacent carbon atoms",
+        "Halogens on terminal carbons",
+        "Halogens on a benzene ring"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vicinal dihalides (or vic-dihalides) have halogen atoms on adjacent carbon atoms.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q6",
+      "chapterId": "chem_ch11",
+      "question": "What is the common name for the compound CH2=CH-CH2X?",
+      "options": [
+        "Vinyl halide",
+        "Allyl halide",
+        "Benzyl halide",
+        "Ethyl halide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Allylic halides are compounds in which the halogen atom is bonded to an sp3 hybridised carbon atom adjacent to a carbon-carbon double bond.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q7",
+      "chapterId": "chem_ch11",
+      "question": "Which of the following is the best reagent to prepare alkyl chlorides from alcohols to ensure high purity?",
+      "options": [
+        "HCl / ZnCl2",
+        "PCl3",
+        "PCl5",
+        "SOCl2 (Thionyl chloride)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thionyl chloride is preferred because the other two products (SO2 and HCl) are escapable gases, leaving behind pure alkyl halides.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q8",
+      "chapterId": "chem_ch11",
+      "question": "Free radical chlorination of butane (CH3CH2CH2CH3) yields:",
+      "options": [
+        "Only 1-chlorobutane",
+        "Only 2-chlorobutane",
+        "A mixture of 1-chlorobutane and 2-chlorobutane",
+        "Only n-butyl chloride"
+      ],
+      "correctIndex": 2,
+      "explanation": "Free radical chlorination usually gives a mixture of isomeric mono- and polyhaloalkanes which are difficult to separate.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q9",
+      "chapterId": "chem_ch11",
+      "question": "According to Markovnikov's rule, when HI adds to propene, the major product is:",
+      "options": [
+        "1-Iodopropane",
+        "2-Iodopropane",
+        "1,2-Diiodopropane",
+        "Propan-2-ol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Markovnikov's rule states that the negative part of the addendum adds to the carbon with fewer hydrogen atoms. For propene, this yields 2-iodopropane.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q10",
+      "chapterId": "chem_ch11",
+      "question": "Which reaction is used for the synthesis of alkyl fluorides?",
+      "options": [
+        "Finkelstein reaction",
+        "Swarts reaction",
+        "Sandmeyer reaction",
+        "Wurtz reaction"
+      ],
+      "correctIndex": 1,
+      "explanation": "The synthesis of alkyl fluorides is best accomplished by heating an alkyl chloride/bromide in the presence of a metallic fluoride (AgF, Hg2F2, etc.), known as the Swarts reaction.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q11",
+      "chapterId": "chem_ch11",
+      "question": "The Finkelstein reaction is used specifically for the preparation of alkyl ________.",
+      "options": [
+        "Fluorides",
+        "Chlorides",
+        "Bromides",
+        "Iodides"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alkyl iodides are often prepared by the reaction of alkyl chlorides/bromides with NaI in dry acetone.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q12",
+      "chapterId": "chem_ch11",
+      "question": "The conversion of primary aromatic amines into haloarenes using sodium nitrite, HCl, and cuprous salts is known as:",
+      "options": [
+        "Finkelstein reaction",
+        "Sandmeyer’s reaction",
+        "Swarts reaction",
+        "Wurtz-Fittig reaction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sandmeyer’s reaction involves replacing the diazonium group with Cl or Br using cuprous salts.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q13",
+      "chapterId": "chem_ch11",
+      "question": "Why do haloalkanes have higher boiling points than the parent hydrocarbons of comparable molecular mass?",
+      "options": [
+        "They are non-polar",
+        "Greater polarity and higher molecular mass leading to stronger intermolecular forces",
+        "They have hydrogen bonding",
+        "They are symmetrical"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intermolecular forces (dipole-dipole and van der Waals) are stronger in the halogen derivatives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q14",
+      "chapterId": "chem_ch11",
+      "question": "For a given alkyl group, what is the order of boiling points of alkyl halides?",
+      "options": [
+        "RF > RCl > RBr > RI",
+        "RI > RBr > RCl > RF",
+        "RCl > RBr > RF > RI",
+        "All have same boiling point"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boiling point increases with the size and mass of the halogen atom due to increased van der Waals forces.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q15",
+      "chapterId": "chem_ch11",
+      "question": "What happens to the boiling point of isomeric haloalkanes as branching increases?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains same",
+        "First increases then decreases"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boiling points of isomeric haloalkanes decrease with increase in branching because the surface area decreases, weakening van der Waals forces.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q16",
+      "chapterId": "chem_ch11",
+      "question": "Haloalkanes are only very slightly soluble in water because:",
+      "options": [
+        "They are ionic",
+        "They cannot form hydrogen bonds with water",
+        "The energy released during new attractions is less than required to break existing bonds",
+        "They are too heavy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Energy is required to overcome attractions between haloalkane molecules and break hydrogen bonds between water molecules. The energy released when new bonds form is not sufficient.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q17",
+      "chapterId": "chem_ch11",
+      "question": "The SN2 reaction mechanism is characterized by:",
+      "options": [
+        "Two steps",
+        "Formation of a carbocation intermediate",
+        "Inversion of configuration (Walden inversion)",
+        "Racemization"
+      ],
+      "correctIndex": 2,
+      "explanation": "In SN2, the nucleophile attacks from the opposite side, leading to the inversion of configuration.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q18",
+      "chapterId": "chem_ch11",
+      "question": "The order of reactivity of alkyl halides towards SN2 reaction is:",
+      "options": [
+        "Tertiary > Secondary > Primary",
+        "Primary > Secondary > Tertiary",
+        "Secondary > Primary > Tertiary",
+        "All react at same rate"
+      ],
+      "correctIndex": 1,
+      "explanation": "SN2 reactivity depends on steric hindrance; primary halides are least hindered and most reactive.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q19",
+      "chapterId": "chem_ch11",
+      "question": "The SN1 reaction follows which order of kinetics?",
+      "options": [
+        "Zero order",
+        "First order",
+        "Second order",
+        "Third order"
+      ],
+      "correctIndex": 1,
+      "explanation": "SN1 reactions (substitution nucleophilic unimolecular) follow first order kinetics as the rate depends only on the concentration of the alkyl halide.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q20",
+      "chapterId": "chem_ch11",
+      "question": "The order of reactivity of alkyl halides towards SN1 reaction is:",
+      "options": [
+        "Primary > Secondary > Tertiary",
+        "Tertiary > Secondary > Primary",
+        "Methyl > Primary > Secondary",
+        "Secondary > Tertiary > Primary"
+      ],
+      "correctIndex": 1,
+      "explanation": "SN1 reactivity depends on the stability of the carbocation formed; tertiary carbocations are the most stable.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q21",
+      "chapterId": "chem_ch11",
+      "question": "What is an 'ambident' nucleophile?",
+      "options": [
+        "A nucleophile that doesn't react",
+        "A nucleophile with two nucleophilic centers",
+        "A nucleophile that acts as an acid",
+        "A neutral nucleophile"
+      ],
+      "correctIndex": 1,
+      "explanation": "Groups like cyanides and nitrites possess two nucleophilic centers and are called ambident nucleophiles.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q22",
+      "chapterId": "chem_ch11",
+      "question": "When alkyl halides react with AgCN, the major product is:",
+      "options": [
+        "Alkyl cyanide (RCN)",
+        "Alkyl isocyanide (RNC)",
+        "Alkyl silver",
+        "Alkane"
+      ],
+      "correctIndex": 1,
+      "explanation": "AgCN is covalent; the nitrogen atom is free to donate electrons, leading to the formation of isocyanides as the major product.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q23",
+      "chapterId": "chem_ch11",
+      "question": "Which of the following describes 'Chirality'?",
+      "options": [
+        "Objects that are superimposable on their mirror image",
+        "Objects that are non-superimposable on their mirror image",
+        "Symmetrical objects",
+        "Liquids only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The objects which are non-superimposable on their mirror image are said to be chiral and this property is known as chirality.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q24",
+      "chapterId": "chem_ch11",
+      "question": "A mixture containing two enantiomers in equal proportions will have:",
+      "options": [
+        "High optical rotation",
+        "Zero optical rotation (Racemic mixture)",
+        "Inverted configuration",
+        "Blue color"
+      ],
+      "correctIndex": 1,
+      "explanation": "A mixture of equal parts enantiomers will have zero optical rotation as the rotation of one isomer is cancelled by the other. This is a racemic mixture.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q25",
+      "chapterId": "chem_ch11",
+      "question": "According to Zaitsev rule, in a dehydrohalogenation reaction, the preferred product is the alkene which has:",
+      "options": [
+        "The least number of alkyl groups",
+        "The greatest number of alkyl groups attached to the doubly bonded carbon atoms",
+        "A terminal double bond",
+        "No alkyl groups"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zaitsev rule states that the more highly substituted alkene is the preferred product in elimination reactions.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q26",
+      "chapterId": "chem_ch11",
+      "question": "Grignard reagents are formed by the reaction of alkyl halides with ________ in dry ether.",
+      "options": [
+        "Sodium",
+        "Magnesium",
+        "Zinc",
+        "Copper"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alkyl magnesium halides (RMgX) are called Grignard reagents, prepared by reacting RX with Mg in dry ether.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q27",
+      "chapterId": "chem_ch11",
+      "question": "Why must Grignard reagents be prepared under anhydrous conditions?",
+      "options": [
+        "They react with oxygen",
+        "They are highly reactive and react with any source of proton (like water) to give hydrocarbons",
+        "They evaporate",
+        "Ether doesn't mix with water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Grignard reagents are very reactive and will react with moisture to form alkanes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q28",
+      "chapterId": "chem_ch11",
+      "question": "The Wurtz reaction is used to prepare ________ from alkyl halides using sodium metal.",
+      "options": [
+        "Alkenes",
+        "Alcohols",
+        "Hydrocarbons containing double the number of carbon atoms",
+        "Aryl halides"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wurtz reaction involves the coupling of two alkyl groups using sodium in dry ether to form a higher alkane.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q29",
+      "chapterId": "chem_ch11",
+      "question": "Aryl halides are extremely less reactive towards nucleophilic substitution compared to alkyl halides because of:",
+      "options": [
+        "Resonance effect",
+        "Difference in hybridisation of carbon (sp2 vs sp3)",
+        "Instability of phenyl cation",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Resonance, sp2 hybridisation of C-X bond, and potential repulsion are all reasons for the low reactivity of aryl halides.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q30",
+      "chapterId": "chem_ch11",
+      "question": "The presence of an electron-withdrawing group (like -NO2) at which position(s) increases the reactivity of haloarenes?",
+      "options": [
+        "Meta only",
+        "Ortho and Para",
+        "Only Ortho",
+        "Only Meta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Electron-withdrawing groups at ortho and para positions facilitate nucleophilic attack by stabilising the intermediate carbanion.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q31",
+      "chapterId": "chem_ch11",
+      "question": "The reaction where two molecules of aryl halides join in the presence of sodium to give diphenyl is called:",
+      "options": [
+        "Wurtz reaction",
+        "Wurtz-Fittig reaction",
+        "Fittig reaction",
+        "Friedel-Crafts reaction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fittig reaction involves the coupling of two aryl groups.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q32",
+      "chapterId": "chem_ch11",
+      "question": "Which of the following is known as Freon-12?",
+      "options": [
+        "CCl4",
+        "CHCl3",
+        "CCl2F2",
+        "CH2Cl2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dichlorodifluoromethane (CCl2F2) is known as Freon-12.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q33",
+      "chapterId": "chem_ch11",
+      "question": "What is the full form of DDT?",
+      "options": [
+        "Dichloro-diphenyl-trichloroethane",
+        "Dimethyl-diphenyl-tetrachloroethane",
+        "Dichloro-diethyl-trichloroethane",
+        "None of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "DDT stands for p,p'-Dichlorodiphenyltrichloroethane.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q34",
+      "chapterId": "chem_ch11",
+      "question": "Which polyhalogen compound was used widely as an insecticide but later banned due to environmental persistence?",
+      "options": [
+        "Chloroform",
+        "Iodoform",
+        "DDT",
+        "Methylene chloride"
+      ],
+      "correctIndex": 2,
+      "explanation": "DDT was the first chlorinated organic insecticide, banned in many countries due to its stability and harm to wildlife.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q35",
+      "chapterId": "chem_ch11",
+      "question": "Which property of Iodoform makes it useful as an antiseptic?",
+      "options": [
+        "Its pleasant smell",
+        "The liberation of free iodine",
+        "Its yellow color",
+        "Its solubility in water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The antiseptic property of iodoform is due to the liberation of free iodine, not due to iodoform itself.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q36",
+      "chapterId": "chem_ch11",
+      "question": "In the naming of haloarenes, the prefix 'p' stands for:",
+      "options": [
+        "Primary",
+        "Para (1,4-disubstituted)",
+        "Phenyl",
+        "Propyl"
+      ],
+      "correctIndex": 1,
+      "explanation": "In common names of disubstituted benzenes, 'o' stands for ortho (1,2), 'm' for meta (1,3), and 'p' for para (1,4).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q37",
+      "chapterId": "chem_ch11",
+      "question": "What is the IUPAC name for isopropyl chloride?",
+      "options": [
+        "1-Chloropropane",
+        "2-Chloropropane",
+        "Chloroisopropane",
+        "2-Chloro-2-methylpropane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Isopropyl chloride has the chlorine on the second carbon of a three-carbon chain.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q38",
+      "chapterId": "chem_ch11",
+      "question": "Chloroform is stored in closed dark coloured bottles completely filled so that:",
+      "options": [
+        "It doesn't evaporate",
+        "Air is kept out to prevent oxidation to poisonous phosgene",
+        "Light doesn't reach it to prevent reduction",
+        "It doesn't react with the bottle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chloroform is slowly oxidised by air in the presence of light to an extremely poisonous gas, carbonyl chloride, also known as phosgene.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q39",
+      "chapterId": "chem_ch11",
+      "question": "Exposure to carbon tetrachloride (CCl4) can cause:",
+      "options": [
+        "Liver cancer in humans",
+        "Headache and dizziness",
+        "Permanent damage to nerve cells",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "CCl4 has severe health effects including nerve damage and liver cancer, and environmental effects like ozone depletion.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q40",
+      "chapterId": "chem_ch11",
+      "question": "The dipole moment of chlorobenzene is ________ than that of cyclohexyl chloride.",
+      "options": [
+        "Higher",
+        "Lower",
+        "Equal",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "Due to sp2 hybridisation and resonance, the C-Cl bond in chlorobenzene has less ionic character and is shorter, resulting in a lower dipole moment.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q41",
+      "chapterId": "chem_ch11",
+      "question": "Which of the following is an example of a vinylic halide?",
+      "options": [
+        "CH3CH2Cl",
+        "CH2=CHCl",
+        "CH2=CHCH2Cl",
+        "C6H5Cl"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vinylic halides are compounds in which the halogen is bonded to an sp2 hybridised carbon of a carbon-carbon double bond.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q42",
+      "chapterId": "chem_ch11",
+      "question": "The C-X bond length ________ from fluorine to iodine.",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Remains same",
+        "Varies randomly"
+      ],
+      "correctIndex": 1,
+      "explanation": "As the size of the halogen atom increases down the group, the C-X bond length increases.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q43",
+      "chapterId": "chem_ch11",
+      "question": "Alkyl iodides darken on standing because:",
+      "options": [
+        "They react with glass",
+        "They decompose to liberate iodine",
+        "They absorb water",
+        "They react with oxygen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alkyl iodides and bromides develop color when exposed to light due to decomposition.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q44",
+      "chapterId": "chem_ch11",
+      "question": "SN2 reactions are favored in ________ solvents.",
+      "options": [
+        "Polar protic",
+        "Polar aprotic",
+        "Non-polar",
+        "Acidic"
+      ],
+      "correctIndex": 1,
+      "explanation": "SN2 reactions are generally favored by polar aprotic solvents that don't solvate the nucleophile strongly.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q45",
+      "chapterId": "chem_ch11",
+      "question": "Reaction of alkyl halide with aqueous KOH yields:",
+      "options": [
+        "Alkene",
+        "Alcohol",
+        "Ether",
+        "Aldehyde"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nucleophilic substitution by hydroxide ion (OH-) converts alkyl halides to alcohols.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q46",
+      "chapterId": "chem_ch11",
+      "question": "The spatial arrangement of four different groups around a central carbon is called ________ geometry.",
+      "options": [
+        "Planar",
+        "Tetrahedral",
+        "Linear",
+        "Pyramidal"
+      ],
+      "correctIndex": 1,
+      "explanation": "sp3 hybridised carbon with four different substituents forms a tetrahedral geometry.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q47",
+      "chapterId": "chem_ch11",
+      "question": "Enantiomers have identical physical properties EXCEPT for:",
+      "options": [
+        "Melting point",
+        "Boiling point",
+        "Refractive index",
+        "Direction of rotation of plane polarised light"
+      ],
+      "correctIndex": 3,
+      "explanation": "Enantiomers differ only in their interaction with plane polarised light and other chiral molecules.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q48",
+      "chapterId": "chem_ch11",
+      "question": "Friedel-Crafts alkylation of chlorobenzene yields ________ as the major product.",
+      "options": [
+        "Ortho-isomer",
+        "Para-isomer",
+        "Meta-isomer",
+        "Benzene"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chlorine atom is ortho and para directing; the para isomer is usually the major product due to less steric hindrance.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q49",
+      "chapterId": "chem_ch11",
+      "question": "What is the product of the reaction between chlorobenzene and acetyl chloride in the presence of AlCl3?",
+      "options": [
+        "Chlorobenzene",
+        "o- and p-Chloroacetophenone",
+        "o- and p-Dichlorobenzene",
+        "Benzene"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is a Friedel-Crafts acylation reaction yielding ortho and para-substituted acetophenone.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    },
+    {
+      "mcqId": "12_chem_ch11_q50",
+      "chapterId": "chem_ch11",
+      "question": "A compound with the formula C6H6Cl6 is known as:",
+      "options": [
+        "Chlorobenzene",
+        "Hexachlorobenzene",
+        "Gammaxene (Lindane)",
+        "DDT"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benzene hexachloride (BHC), also called Gammaxene or Lindane, has the formula C6H6Cl6.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Chemistry"
+    }
+  ]
+}

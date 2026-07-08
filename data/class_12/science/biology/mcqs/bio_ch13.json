@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch11_q1",
+      "chapterId": "bio_ch11",
+      "question": "The term 'Biodiversity' was popularized by which sociobiologist?",
+      "options": [
+        "Robert May",
+        "Edward Wilson",
+        "Alexander von Humboldt",
+        "Paul Ehrlich"
+      ],
+      "correctIndex": 1,
+      "explanation": "Biodiversity is the term popularised by the sociobiologist Edward Wilson to describe the combined diversity at all levels of biological organisation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q2",
+      "chapterId": "bio_ch11",
+      "question": "Which of the following is NOT one of the three hierarchical levels of biodiversity?",
+      "options": [
+        "Genetic diversity",
+        "Species diversity",
+        "Ecological diversity",
+        "Population diversity"
+      ],
+      "correctIndex": 3,
+      "explanation": "The three important levels of biodiversity are Genetic diversity, Species diversity, and Ecological diversity.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q3",
+      "chapterId": "bio_ch11",
+      "question": "The medicinal plant Rauwolfia vomitoria growing in different Himalayan ranges shows variations in the potency and concentration of the active chemical 'reserpine'. This is an example of:",
+      "options": [
+        "Species diversity",
+        "Genetic diversity",
+        "Ecological diversity",
+        "Alpha diversity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genetic diversity refers to variations at the genetic level within a single species, such as the chemical variations in Rauwolfia.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q4",
+      "chapterId": "bio_ch11",
+      "question": "How many species of ants are approximately found on Earth?",
+      "options": [
+        "2,000",
+        "20,000",
+        "3,00,000",
+        "28,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "The common man would find it hard to believe that there are more than 20,000 species of ants.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q5",
+      "chapterId": "bio_ch11",
+      "question": "Western Ghats have a greater amphibian species diversity than the Eastern Ghats. This is an example of:",
+      "options": [
+        "Genetic diversity",
+        "Species diversity",
+        "Ecological diversity",
+        "Global diversity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Species diversity is the diversity at the species level, such as the difference in amphibian species between the Ghats.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q6",
+      "chapterId": "bio_ch11",
+      "question": "According to the IUCN (2004), the total number of plant and animal species described so far is slightly more than:",
+      "options": [
+        "1.5 million",
+        "7 million",
+        "10 million",
+        "20,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to IUCN (2004), the total number of plant and animal species described so far is slightly more than 1.5 million.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q7",
+      "chapterId": "bio_ch11",
+      "question": "Robert May placed the global species diversity at about:",
+      "options": [
+        "1.5 million",
+        "7 million",
+        "1.7 million",
+        "100 million"
+      ],
+      "correctIndex": 1,
+      "explanation": "Robert May’s global estimate at about 7 million species is considered sound and conservative.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q8",
+      "chapterId": "bio_ch11",
+      "question": "Which taxonomic group makes up more than 70 percent of all the recorded species?",
+      "options": [
+        "Plants",
+        "Animals",
+        "Fungi",
+        "Bacteria"
+      ],
+      "correctIndex": 1,
+      "explanation": "More than 70 per cent of all the species recorded are animals.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q9",
+      "chapterId": "bio_ch11",
+      "question": "Among animals, which group is the most species-rich taxonomic group?",
+      "options": [
+        "Crustaceans",
+        "Molluscs",
+        "Insects",
+        "Fishes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q10",
+      "chapterId": "bio_ch11",
+      "question": "What percentage of the world's land area does India possess?",
+      "options": [
+        "2.4%",
+        "8.1%",
+        "12%",
+        "5%"
+      ],
+      "correctIndex": 0,
+      "explanation": "India has only 2.4 per cent of the world’s land area.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q11",
+      "chapterId": "bio_ch11",
+      "question": "India's share of the global species diversity is an impressive ________ percent.",
+      "options": [
+        "2.4%",
+        "8.1%",
+        "22%",
+        "72%"
+      ],
+      "correctIndex": 1,
+      "explanation": "India’s share of the global species diversity is an impressive 8.1 per cent.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q12",
+      "chapterId": "bio_ch11",
+      "question": "How many 'mega diversity' countries are there in the world?",
+      "options": [
+        "5",
+        "12",
+        "25",
+        "34"
+      ],
+      "correctIndex": 1,
+      "explanation": "India is one of the 12 mega diversity countries of the world.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q13",
+      "chapterId": "bio_ch11",
+      "question": "In general, species diversity ________ as we move away from the equator towards the poles.",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "First increases then decreases"
+      ],
+      "correctIndex": 1,
+      "explanation": "In general, species diversity decreases as we move away from the equator towards the poles.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q14",
+      "chapterId": "bio_ch11",
+      "question": "The tropical Amazonian rain forest is located in:",
+      "options": [
+        "Africa",
+        "South America",
+        "South East Asia",
+        "Central America"
+      ],
+      "correctIndex": 1,
+      "explanation": "The largely tropical Amazonian rain forest in South America has the greatest biodiversity on earth.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q15",
+      "chapterId": "bio_ch11",
+      "question": "Who observed that within a region, species richness increased with increasing explored area, but only up to a limit?",
+      "options": [
+        "Paul Ehrlich",
+        "Alexander von Humboldt",
+        "Robert May",
+        "Edward Wilson"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alexander von Humboldt observed the species-area relationship during his explorations in South American jungles.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q16",
+      "chapterId": "bio_ch11",
+      "question": "The relation between species richness and area for a wide variety of taxa turns out to be a:",
+      "options": [
+        "Linear function",
+        "Rectangular hyperbola",
+        "Sigmoid curve",
+        "Bell-shaped curve"
+      ],
+      "correctIndex": 1,
+      "explanation": "On a logarithmic scale, the relationship is a straight line, but on a normal scale, it is a rectangular hyperbola.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q17",
+      "chapterId": "bio_ch11",
+      "question": "In the species-area relationship equation log S = log C + Z log A, what does 'Z' represent?",
+      "options": [
+        "Species richness",
+        "Area",
+        "Slope of the line (regression coefficient)",
+        "Y-intercept"
+      ],
+      "correctIndex": 2,
+      "explanation": "Z is the slope of the line, also known as the regression coefficient.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q18",
+      "chapterId": "bio_ch11",
+      "question": "For very large areas like entire continents, the slope of the regression line (Z value) is in the range of:",
+      "options": [
+        "0.1 to 0.2",
+        "0.6 to 1.2",
+        "1.0 to 2.0",
+        "0.01 to 0.05"
+      ],
+      "correctIndex": 1,
+      "explanation": "If you analyse the species-area relationships among very large areas like the entire continents, the slope of the line to be much steeper (Z values in the range of 0.6 to 1.2).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q19",
+      "chapterId": "bio_ch11",
+      "question": "The 'Rivet Popper hypothesis' was proposed by:",
+      "options": [
+        "David Tilman",
+        "Paul Ehrlich",
+        "Robert May",
+        "Alexander von Humboldt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stanford ecologist Paul Ehrlich used the Rivet Popper hypothesis to explain the importance of biodiversity to ecosystems.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q20",
+      "chapterId": "bio_ch11",
+      "question": "In the Rivet Popper hypothesis, what does the 'airplane' represent?",
+      "options": [
+        "Species",
+        "Ecosystem",
+        "Extinction",
+        "Biodiversity"
+      ],
+      "correctIndex": 1,
+      "explanation": "In an airplane (ecosystem) all parts are joined together using thousands of rivets (species).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q21",
+      "chapterId": "bio_ch11",
+      "question": "The 'Evil Quartet' refers to:",
+      "options": [
+        "The four levels of biological organisation",
+        "The four major causes of biodiversity loss",
+        "Four types of ecosystems",
+        "Four famous ecologists"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'Evil Quartet' is a sobriquet used to describe the four major causes of biodiversity loss.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q22",
+      "chapterId": "bio_ch11",
+      "question": "Which of the following is considered the MOST important cause of animal and plant extinction?",
+      "options": [
+        "Over-exploitation",
+        "Alien species invasion",
+        "Habitat loss and fragmentation",
+        "Co-extinction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Habitat loss and fragmentation is the most important cause driving animals and plants to extinction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q23",
+      "chapterId": "bio_ch11",
+      "question": "The Nile perch introduced into Lake Victoria in East Africa led to the extinction of an ecologically unique assemblage of more than 200 species of:",
+      "options": [
+        "Catfish",
+        "Cichlid fish",
+        "Amphibians",
+        "Molluscs"
+      ],
+      "correctIndex": 1,
+      "explanation": "The introduction of Nile perch led to the extinction of 200 species of cichlid fish.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q24",
+      "chapterId": "bio_ch11",
+      "question": "Which of the following is an example of an invasive 'Alien Species' in India?",
+      "options": [
+        "Parthenium (carrot grass)",
+        "Lantana",
+        "Eicchornia (water hyacinth)",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Parthenium, Lantana, and Eicchornia are all examples of invasive alien species that caused environmental damage in India.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q25",
+      "chapterId": "bio_ch11",
+      "question": "The illegal introduction of the African catfish for aquaculture purposes is posing a threat to indigenous catfishes in our rivers. This catfish is:",
+      "options": [
+        "Clarias gariepinus",
+        "Nile perch",
+        "Steller’s sea cow",
+        "Lantana"
+      ],
+      "correctIndex": 0,
+      "explanation": "The African catfish Clarias gariepinus poses a threat to indigenous catfishes.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q26",
+      "chapterId": "bio_ch11",
+      "question": "When a host fish species becomes extinct, its unique assemblage of parasites also meets the same fate. This phenomenon is called:",
+      "options": [
+        "Habitat fragmentation",
+        "Over-exploitation",
+        "Co-extinction",
+        "Alien invasion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Co-extinction occurs when the extinction of one species leads to the extinction of another that depends on it.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q27",
+      "chapterId": "bio_ch11",
+      "question": "Conservation of biodiversity 'on-site' (in its natural habitat) is called:",
+      "options": [
+        "Ex-situ conservation",
+        "In-situ conservation",
+        "Cryopreservation",
+        "Off-site conservation"
+      ],
+      "correctIndex": 1,
+      "explanation": "In-situ (on-site) conservation involves protecting the whole ecosystem to save the endangered species.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q28",
+      "chapterId": "bio_ch11",
+      "question": "How many 'biodiversity hotspots' have been identified globally?",
+      "options": [
+        "12",
+        "25",
+        "34",
+        "14"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total number of biodiversity hotspots in the world to 34.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q29",
+      "chapterId": "bio_ch11",
+      "question": "Which of the following is NOT one of India's biodiversity hotspots?",
+      "options": [
+        "Western Ghats and Sri Lanka",
+        "Indo-Burma",
+        "Himalaya",
+        "Gangetic Plains"
+      ],
+      "correctIndex": 3,
+      "explanation": "The three hotspots in India are Western Ghats and Sri Lanka, Indo-Burma, and Himalaya.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q30",
+      "chapterId": "bio_ch11",
+      "question": "India currently has how many 'National Parks'?",
+      "options": [
+        "14",
+        "90",
+        "448",
+        "34"
+      ],
+      "correctIndex": 1,
+      "explanation": "India now has 14 biosphere reserves, 90 national parks and 448 wildlife sanctuaries.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q31",
+      "chapterId": "bio_ch11",
+      "question": "Khasi and Jaintia Hills are famous 'Sacred Groves' located in:",
+      "options": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Meghalaya",
+        "Karnataka"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khasi and Jaintia Hills are sacred groves located in Meghalaya.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q32",
+      "chapterId": "bio_ch11",
+      "question": "Conservation of threatened animals and plants outside their natural habitat is called:",
+      "options": [
+        "In-situ conservation",
+        "Ex-situ conservation",
+        "Hotspot conservation",
+        "Sacred grove"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ex-situ (off-site) conservation involves removing threatened species from their habitat to special settings like zoological parks.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q33",
+      "chapterId": "bio_ch11",
+      "question": "Gametes of threatened species can be preserved in viable and fertile condition for long periods using:",
+      "options": [
+        "Tissue culture",
+        "Cryopreservation",
+        "Botanical gardens",
+        "Hotspots"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cryopreservation techniques allow gametes to be kept at very low temperatures for long periods.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q34",
+      "chapterId": "bio_ch11",
+      "question": "The 'Earth Summit' (Historic Convention on Biological Diversity) was held in 1992 in:",
+      "options": [
+        "Johannesburg",
+        "Rio de Janeiro",
+        "New York",
+        "Geneva"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Earth Summit was held in Rio de Janeiro in 1992.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q35",
+      "chapterId": "bio_ch11",
+      "question": "The 'World Summit on Sustainable Development' (2002) was held in:",
+      "options": [
+        "Rio de Janeiro",
+        "Johannesburg",
+        "Paris",
+        "Kyoto"
+      ],
+      "correctIndex": 1,
+      "explanation": "The World Summit on Sustainable Development was held in Johannesburg, South Africa in 2002.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q36",
+      "chapterId": "bio_ch11",
+      "question": "At the World Summit in 2002, how many countries pledged their commitment to achieve a significant reduction in biodiversity loss by 2010?",
+      "options": [
+        "100",
+        "150",
+        "190",
+        "200"
+      ],
+      "correctIndex": 2,
+      "explanation": "190 countries pledged their commitment at the 2002 Johannesburg World Summit.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q37",
+      "chapterId": "bio_ch11",
+      "question": "Which group of plants has the maximum number of species among the following?",
+      "options": [
+        "Algae",
+        "Lichens",
+        "Mosses",
+        "Fungi"
+      ],
+      "correctIndex": 3,
+      "explanation": "According to the provided diagrams, Fungi have more species than algae, mosses, or lichens.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q38",
+      "chapterId": "bio_ch11",
+      "question": "Steller’s sea cow and Passenger pigeon became extinct due to:",
+      "options": [
+        "Habitat loss",
+        "Alien species invasion",
+        "Over-exploitation by humans",
+        "Co-extinction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many species extinctions in the last 500 years (Steller’s sea cow, passenger pigeon) were due to over-exploitation by humans.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q39",
+      "chapterId": "bio_ch11",
+      "question": "According to the Rivet Popper hypothesis, which rivets are more critical to fly safety (ecosystem functioning)?",
+      "options": [
+        "Rivets on the seats",
+        "Rivets on the windows",
+        "Rivets on the wings",
+        "Rivets in the cabin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Loss of rivets on the wings (key species that drive major ecosystem functions) is obviously a more serious threat.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q40",
+      "chapterId": "bio_ch11",
+      "question": "What percentage of all bird species in the world are currently facing the threat of extinction?",
+      "options": [
+        "12%",
+        "23%",
+        "31%",
+        "32%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Currently, 12 per cent of all bird species face the threat of extinction.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q41",
+      "chapterId": "bio_ch11",
+      "question": "Approximately what percentage of the world's drug market is derived from plants?",
+      "options": [
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "correctIndex": 1,
+      "explanation": "More than 25 per cent of the drugs currently sold in the market worldwide are derived from plants.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q42",
+      "chapterId": "bio_ch11",
+      "question": "The explore-and-discover method of using molecular, genetic, and species-level diversity for products of economic importance is called:",
+      "options": [
+        "Biopiracy",
+        "Bioprospecting",
+        "Bioremediation",
+        "Bio-magnification"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bioprospecting is the exploration of molecular, genetic and species-level diversity for products of economic importance.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q43",
+      "chapterId": "bio_ch11",
+      "question": "What is the estimated value of ecosystem services such as pollination, for which no price tag can be easily put?",
+      "options": [
+        "Free",
+        "Billions of dollars",
+        "Incalculable/Intangible",
+        "Minimal"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text discusses the 'broadly utilitarian' argument, noting that services like oxygen production and pollination have intangible but massive value.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q44",
+      "chapterId": "bio_ch11",
+      "question": "The colonisation of tropical Pacific Islands by humans is said to have led to the extinction of more than ________ species of native birds.",
+      "options": [
+        "200",
+        "500",
+        "1,000",
+        "2,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Colonisation of tropical Pacific Islands has led to the extinction of more than 2,000 species of native birds.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q45",
+      "chapterId": "bio_ch11",
+      "question": "A community with more species, on average, tends to be ________ than those with less species.",
+      "options": [
+        "More stable",
+        "Less productive",
+        "More vulnerable",
+        "Constant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ecologists believe that communities with more species generally are more stable than those with less species.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q46",
+      "chapterId": "bio_ch11",
+      "question": "What is the 'Z' value for frugivorous birds and mammals in the tropical forests of different continents?",
+      "options": [
+        "0.15",
+        "0.6",
+        "1.15",
+        "1.2"
+      ],
+      "correctIndex": 2,
+      "explanation": "The slope is found to be 1.15 for frugivorous birds and mammals in tropical forests.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q47",
+      "chapterId": "bio_ch11",
+      "question": "According to the 'Narrowly Utilitarian' argument, humans derive direct economic benefits from nature such as:",
+      "options": [
+        "Food, firewood, and fiber",
+        "Oxygen and pollination",
+        "Aesthetic pleasure",
+        "Spiritual well-being"
+      ],
+      "correctIndex": 0,
+      "explanation": "The narrowly utilitarian arguments for conserving biodiversity are obvious; humans derive countless direct economic benefits from nature.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q48",
+      "chapterId": "bio_ch11",
+      "question": "The total land area of the tropical Amazonian rain forest is responsible for producing what percentage of the total oxygen in the earth’s atmosphere?",
+      "options": [
+        "10%",
+        "20%",
+        "50%",
+        "5%"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Amazon forest is estimated to produce, through photosynthesis, 20 per cent of the total oxygen in the earth’s atmosphere.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q49",
+      "chapterId": "bio_ch11",
+      "question": "Endemism refers to species that are:",
+      "options": [
+        "Found everywhere",
+        "Confined to a specific region and not found anywhere else",
+        "Extinct",
+        "Introduced from another country"
+      ],
+      "correctIndex": 1,
+      "explanation": "Endemism refers to species confined to that region and not found anywhere else.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch11_q50",
+      "chapterId": "bio_ch11",
+      "question": "Which of the following is an 'Ex-situ' conservation method?",
+      "options": [
+        "Wildlife Sanctuary",
+        "National Park",
+        "Botanical Garden",
+        "Biosphere Reserve"
+      ],
+      "correctIndex": 2,
+      "explanation": "Botanical gardens and zoological parks are ex-situ methods where species are kept outside their natural habitats.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    }
+  ]
+}

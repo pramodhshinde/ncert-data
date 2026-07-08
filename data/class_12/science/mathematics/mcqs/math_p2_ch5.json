@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_math_ch11_q1",
+      "chapterId": "math_ch11",
+      "question": "Which mathematician is associated with the quote 'The moving power of mathematical invention is not reasoning but imagination'?",
+      "options": [
+        "Leonhard Euler",
+        "A. DeMorgan",
+        "Isaac Newton",
+        "René Descartes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chapter opens with this quote from A. DeMorgan.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q2",
+      "chapterId": "math_ch11",
+      "question": "If a directed line L passing through the origin makes angles α, β, and γ with the axes, then cos α, cos β, and cos γ are called:",
+      "options": [
+        "Direction ratios",
+        "Direction angles",
+        "Direction cosines",
+        "Scalar components"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cosines of the direction angles are defined as the direction cosines of the line.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q3",
+      "chapterId": "math_ch11",
+      "question": "Any three numbers which are proportional to the direction cosines of a line are called:",
+      "options": [
+        "Direction angles",
+        "Direction ratios",
+        "Unit vectors",
+        "Co-ordinates"
+      ],
+      "correctIndex": 1,
+      "explanation": "Numbers proportional to direction cosines are called direction ratios.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q4",
+      "chapterId": "math_ch11",
+      "question": "If l, m, n are direction cosines of a line, then what is the value of l² + m² + n²?",
+      "options": [
+        "0",
+        "1",
+        "Magnitude of the line",
+        "Infinite"
+      ],
+      "correctIndex": 1,
+      "explanation": "A fundamental property of direction cosines is that the sum of their squares is always unity ($l^2 + m^2 + n^2 = 1$).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q5",
+      "chapterId": "math_ch11",
+      "question": "Direction cosines of a line joining two points P(x1, y1, z1) and Q(x2, y2, z2) are given by dividing the differences (x2-x1, y2-y1, z2-z1) by:",
+      "options": [
+        "x1 + x2",
+        "The origin distance",
+        "The distance PQ",
+        "The sum of coordinates"
+      ],
+      "correctIndex": 2,
+      "explanation": "The direction cosines are obtained by normalizing the differences with the distance between the two points PQ.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q6",
+      "chapterId": "math_ch11",
+      "question": "The vector equation of a line passing through a point with position vector 'a' and parallel to vector 'b' is:",
+      "options": [
+        "r = a + λb",
+        "r = b + λa",
+        "r = a × b",
+        "r = a · b"
+      ],
+      "correctIndex": 0,
+      "explanation": "The standard vector form of a line in 3D space is $r = a + λb$.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q7",
+      "chapterId": "math_ch11",
+      "question": "The Cartesian equation of a line passing through (x1, y1, z1) with direction ratios a, b, c is:",
+      "options": [
+        "ax + by + cz = 0",
+        "(x-x1)/a = (y-y1)/b = (z-z1)/c",
+        "x/a + y/b + z/c = 1",
+        "ax1 + by1 + cz1 = d"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the standard symmetric form of a line equation in Cartesian coordinates.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q8",
+      "chapterId": "math_ch11",
+      "question": "The vector equation of a line passing through two points with position vectors 'a' and 'b' is:",
+      "options": [
+        "r = a + λb",
+        "r = a + λ(b - a)",
+        "r = λa + μb",
+        "r = (a + b) / λ"
+      ],
+      "correctIndex": 1,
+      "explanation": "The direction of the line is determined by the vector connecting the two points $(b - a)$.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q9",
+      "chapterId": "math_ch11",
+      "question": "Two lines which are neither parallel nor intersecting and lie in different planes are called:",
+      "options": [
+        "Coplanar lines",
+        "Skew lines",
+        "Perpendicular lines",
+        "Coincident lines"
+      ],
+      "correctIndex": 1,
+      "explanation": "Skew lines are defined as lines that are not parallel and do not intersect in 3D space.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q10",
+      "chapterId": "math_ch11",
+      "question": "The shortest distance between two skew lines is measured along a line segment ________ to both lines.",
+      "options": [
+        "Parallel",
+        "Perpendicular",
+        "Tangent",
+        "Intersecting at 45 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "The shortest distance is unique and lies along the common perpendicular to both skew lines.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q11",
+      "chapterId": "math_ch11",
+      "question": "If θ is the acute angle between two lines with direction cosines (l1, m1, n1) and (l2, m2, n2), then cos θ equals:",
+      "options": [
+        "l1l2 + m1m2 + n1n2",
+        "|l1l2 + m1m2 + n1n2|",
+        "√(l1l2 + m1m2 + n1n2)",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cosine of the acute angle is the absolute value of the dot product of the direction cosine vectors.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q12",
+      "chapterId": "math_ch11",
+      "question": "Two lines with direction ratios (a1, b1, c1) and (a2, b2, c2) are perpendicular if:",
+      "options": [
+        "a1/a2 = b1/b2 = c1/c2",
+        "a1a2 + b1b2 + c1c2 = 0",
+        "a1a2 + b1b2 + c1c2 = 1",
+        "a1 = a2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lines are perpendicular if the sum of the products of their direction ratios is zero.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q13",
+      "chapterId": "math_ch11",
+      "question": "Two lines with direction ratios (a1, b1, c1) and (a2, b2, c2) are parallel if:",
+      "options": [
+        "a1a2 + b1b2 + c1c2 = 0",
+        "a1/a2 = b1/b2 = c1/c2",
+        "a1 = a2, b1 = b2, c1 = c2 only",
+        "They never meet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lines are parallel if their direction ratios are proportional.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q14",
+      "chapterId": "math_ch11",
+      "question": "The shortest distance between two parallel lines r = a1 + λb and r = a2 + μb is given by:",
+      "options": [
+        "|b · (a2 - a1)| / |b|",
+        "|b × (a2 - a1)| / |b|",
+        "|a2 - a1|",
+        "0"
+      ],
+      "correctIndex": 1,
+      "explanation": "The distance between parallel lines involves the magnitude of the cross product of the common direction vector with the point difference.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q15",
+      "chapterId": "math_ch11",
+      "question": "Direction cosines of the x-axis are:",
+      "options": [
+        "(0, 0, 0)",
+        "(1, 1, 1)",
+        "(1, 0, 0)",
+        "(0, 1, 0)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The x-axis makes angles of 0°, 90°, and 90° with the x, y, and z axes respectively.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q16",
+      "chapterId": "math_ch11",
+      "question": "Direction cosines of the y-axis are:",
+      "options": [
+        "(1, 0, 0)",
+        "(0, 1, 0)",
+        "(0, 0, 1)",
+        "(1, 1, 0)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The y-axis makes 90° with x, 0° with y, and 90° with z.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q17",
+      "chapterId": "math_ch11",
+      "question": "Direction cosines of the z-axis are:",
+      "options": [
+        "(0, 0, 0)",
+        "(0, 0, 1)",
+        "(1, 0, 1)",
+        "(0, 1, 1)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The z-axis makes angles of 90°, 90°, and 0° with the axes.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q18",
+      "chapterId": "math_ch11",
+      "question": "Which of the following coordinates represents the origin in 3D geometry?",
+      "options": [
+        "(1, 1, 1)",
+        "(0, 0)",
+        "(0, 0, 0)",
+        "(x, y, z)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Standard representation of the origin in 3-dimensional Cartesian coordinates.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q19",
+      "chapterId": "math_ch11",
+      "question": "What does 'λ' represent in the equation r = a + λb?",
+      "options": [
+        "A vector",
+        "A direction",
+        "A scalar (real number)",
+        "The length of the line"
+      ],
+      "correctIndex": 2,
+      "explanation": "λ is a scalar parameter used to scale the direction vector b to reach points on the line.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q20",
+      "chapterId": "math_ch11",
+      "question": "If a line makes equal angles with the coordinate axes, its direction cosines are:",
+      "options": [
+        "(1, 1, 1)",
+        "(1/√2, 1/√2, 1/√2)",
+        "(1/√3, 1/√3, 1/√3)",
+        "(0, 0, 0)"
+      ],
+      "correctIndex": 2,
+      "explanation": "If $l=m=n$, then $3l^2=1$, giving $l = 1/√3$.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q21",
+      "chapterId": "math_ch11",
+      "question": "The Cartesian equation (x-5)/3 = (y+4)/7 = (z-6)/2 describes a line passing through:",
+      "options": [
+        "(3, 7, 2)",
+        "(5, -4, 6)",
+        "(-5, 4, -6)",
+        "(0, 0, 0)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The line passes through $(x1, y1, z1)$, which maps to $(5, -4, 6)$.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q22",
+      "chapterId": "math_ch11",
+      "question": "In the line equation (x-5)/3 = (y+4)/7 = (z-6)/2, the direction ratios are:",
+      "options": [
+        "(5, -4, 6)",
+        "(3, 7, 2)",
+        "(1, 1, 1)",
+        "(-3, -7, -2)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The denominators in the symmetric form represent the direction ratios of the line.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q23",
+      "chapterId": "math_ch11",
+      "question": "Two skew lines r = a1 + λb1 and r = a2 + μb2 intersect if the shortest distance between them is:",
+      "options": [
+        "Infinite",
+        "Positive",
+        "Zero",
+        "1"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the shortest distance is zero, it implies the lines meet at a point.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q24",
+      "chapterId": "math_ch11",
+      "question": "Which mathematician's portrait is shown on the first page of the chapter in the source text?",
+      "options": [
+        "A. DeMorgan",
+        "Leonhard Euler",
+        "René Descartes",
+        "Isaac Newton"
+      ],
+      "correctIndex": 1,
+      "explanation": "The portrait provided in the chapter is of Leonhard Euler.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q25",
+      "chapterId": "math_ch11",
+      "question": "Vector algebra is utilized in 3D geometry to make the study:",
+      "options": [
+        "More complex",
+        "Simple and elegant",
+        "Theoretical only",
+        "Numerical only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The textbook states that using vectors makes the study of 3D geometry simple and elegant.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q26",
+      "chapterId": "math_ch11",
+      "question": "Shortest distance between lines is defined when lines are:",
+      "options": [
+        "Parallel only",
+        "Skew only",
+        "Both A and B",
+        "Intersecting only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shortest distance calculations apply to both parallel and skew lines in space.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q27",
+      "chapterId": "math_ch11",
+      "question": "If direction ratios of a line are (2, -1, -2), its direction cosines are:",
+      "options": [
+        "(2, -1, -2)",
+        "(2/3, -1/3, -2/3)",
+        "(1/2, -1, -1/2)",
+        "(4, -2, -4)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cosines are ratios divided by the magnitude $√(2^2 + (-1)^2 + (-2)^2) = 3$.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q28",
+      "chapterId": "math_ch11",
+      "question": "A line in space is uniquely determined if it passes through a point and has a given:",
+      "options": [
+        "Magnitude",
+        "Direction",
+        "Plane",
+        "Intersection"
+      ],
+      "correctIndex": 1,
+      "explanation": "A point and a direction vector are sufficient to uniquely define a line in 3D space.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q29",
+      "chapterId": "math_ch11",
+      "question": "Is the set of direction ratios for a line unique?",
+      "options": [
+        "Yes",
+        "No, they can be any proportional numbers",
+        "Only if the line passes through origin",
+        "Only for unit vectors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Direction ratios are just numbers proportional to cosines, so infinitely many sets exist.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q30",
+      "chapterId": "math_ch11",
+      "question": "Is the set of direction cosines for a line unique?",
+      "options": [
+        "Yes",
+        "No, there are two sets (positive and negative direction)",
+        "Only for the x-axis",
+        "Depends on λ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Every line has two opposite directions, giving two sets of direction cosines: (l, m, n) and (-l, -m, -n).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q31",
+      "chapterId": "math_ch11",
+      "question": "The formula for shortest distance between skew lines involves which vector operation in the numerator?",
+      "options": [
+        "Dot product only",
+        "Cross product only",
+        "Scalar triple product (b1 × b2) · (a2 - a1)",
+        "Vector addition"
+      ],
+      "correctIndex": 2,
+      "explanation": "The formula projects the displacement between points onto the common perpendicular vector.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q32",
+      "chapterId": "math_ch11",
+      "question": "Direction cosines are usually denoted by the letters:",
+      "options": [
+        "a, b, c",
+        "x, y, z",
+        "l, m, n",
+        "p, q, r"
+      ],
+      "correctIndex": 2,
+      "explanation": "Standard convention uses l, m, n to represent direction cosines.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q33",
+      "chapterId": "math_ch11",
+      "question": "Direction ratios are usually denoted by the letters:",
+      "options": [
+        "l, m, n",
+        "a, b, c",
+        "i, j, k",
+        "α, β, γ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standard convention uses a, b, c for direction ratios.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q34",
+      "chapterId": "math_ch11",
+      "question": "To convert direction ratios (a, b, c) to direction cosines l, we use l =:",
+      "options": [
+        "a / (a+b+c)",
+        "a / √(a²+b²+c²)",
+        "√(a²+b²+c²) / a",
+        "a²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normalizing the direction ratio by the vector magnitude yields the direction cosine.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q35",
+      "chapterId": "math_ch11",
+      "question": "The distance PQ between P(x1, y1, z1) and Q(x2, y2, z2) is given by:",
+      "options": [
+        "(x2-x1) + (y2-y1) + (z2-z1)",
+        "√[(x2-x1)² + (y2-y1)² + (z2-z1)²]",
+        "(x2-x1)² + (y2-y1)² + (z2-z1)²",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the standard Euclidean distance formula in 3D.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q36",
+      "chapterId": "math_ch11",
+      "question": "In Class XI geometry, the study of 3D geometry was confined to ________ methods.",
+      "options": [
+        "Vector",
+        "Cartesian",
+        "Polar",
+        "Spherical"
+      ],
+      "correctIndex": 1,
+      "explanation": "Class XI curriculum focused on the Cartesian coordinate system.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q37",
+      "chapterId": "math_ch11",
+      "question": "The angle between two lines is zero if the lines are:",
+      "options": [
+        "Parallel",
+        "Perpendicular",
+        "Skew",
+        "Vertical"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parallel lines have an angle of 0° (or 180°) between their directions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q38",
+      "chapterId": "math_ch11",
+      "question": "The distance of a line from the origin can be determined if we know its:",
+      "options": [
+        "Direction ratios",
+        "Length",
+        "Direction cosines and position vector",
+        "λ value"
+      ],
+      "correctIndex": 2,
+      "explanation": "Knowing the point and direction allows for calculating the perpendicular distance from any point, including the origin.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q39",
+      "chapterId": "math_ch11",
+      "question": "If lines are parallel, their direction vectors b1 and b2 are:",
+      "options": [
+        "Orthogonal",
+        "Collinear",
+        "Unit vectors",
+        "Zero vectors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parallel lines have direction vectors that are collinear (multiples of each other).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q40",
+      "chapterId": "math_ch11",
+      "question": "Shortest distance between two skew lines r = a1 + λb1 and r = a2 + μb2 involves which parameters?",
+      "options": [
+        "b1 · b2",
+        "b1 × b2",
+        "(a2 - a1) · (b1 × b2)",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "The formula requires calculating the cross product of direction vectors and their dot product with the distance vector.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q41",
+      "chapterId": "math_ch11",
+      "question": "Is it possible for a line to have direction angles (30°, 60°, 90°)?",
+      "options": [
+        "Yes, because cos²30 + cos²60 + cos²90 = 1",
+        "No",
+        "Only in 2D",
+        "Only if it passes through origin"
+      ],
+      "correctIndex": 0,
+      "explanation": "$(√3/2)^2 + (1/2)^2 + 0^2 = 3/4 + 1/4 = 1$. The sum of squares of cosines is 1.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q42",
+      "chapterId": "math_ch11",
+      "question": "A line passing through (x1, y1, z1) and (x2, y2, z2) has direction ratios:",
+      "options": [
+        "(x1, y1, z1)",
+        "(x2-x1, y2-y1, z2-z1)",
+        "(x1x2, y1y2, z1z2)",
+        "(1, 1, 1)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The component-wise difference between points gives direction ratios.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q43",
+      "chapterId": "math_ch11",
+      "question": "What is the relationship between direction ratios 'a' and direction cosines 'l'?",
+      "options": [
+        "l = a",
+        "a = kl",
+        "l = a²",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "Direction ratios are simply numbers proportional to direction cosines.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q44",
+      "chapterId": "math_ch11",
+      "question": "The angle between two lines is 90° if the sum of product of their ________ is zero.",
+      "options": [
+        "Coordinates",
+        "Direction ratios",
+        "Midpoints",
+        "Magnitudes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Orthogonality requires $a1a2 + b1b2 + c1c2 = 0$.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q45",
+      "chapterId": "math_ch11",
+      "question": "The denominator |b1 × b2| in the distance formula represents:",
+      "options": [
+        "A vector",
+        "A scalar magnitude",
+        "Normalized direction",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is the magnitude of the vector that is perpendicular to both lines.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q46",
+      "chapterId": "math_ch11",
+      "question": "r = xi + yj + zk is known as the ________ vector.",
+      "options": [
+        "Constant",
+        "Unit",
+        "Position",
+        "Direction"
+      ],
+      "correctIndex": 2,
+      "explanation": "It represents the position of a general point P(x, y, z) in space.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q47",
+      "chapterId": "math_ch11",
+      "question": "If l, m, n are direction cosines, what vector represents the direction of the line?",
+      "options": [
+        "li + mj + nk",
+        "xi + yj + zk",
+        "ai + bj + ck",
+        "i + j + k"
+      ],
+      "correctIndex": 0,
+      "explanation": "A vector composed of direction cosines is a unit vector in the direction of the line.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q48",
+      "chapterId": "math_ch11",
+      "question": "Which form of line representation is better for a 'clear geometric picture'?",
+      "options": [
+        "Vector form",
+        "Clumsy form",
+        "Cartesian form",
+        "Symmetric form"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text notes that Cartesian coordinates often provide a clearer analytic picture.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q49",
+      "chapterId": "math_ch11",
+      "question": "The angle between two lines is conventionally taken as ________ in the standard formula.",
+      "options": [
+        "Obtuse",
+        "Acute",
+        "Right angle",
+        "Reflex"
+      ],
+      "correctIndex": 1,
+      "explanation": "By taking the absolute value of the cosine, the acute angle is derived.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Mathematics"
+    },
+    {
+      "mcqId": "12_math_ch11_q50",
+      "chapterId": "math_ch11",
+      "question": "Shortest distance between two skew lines r = a1 + λb1 and r = a2 + μb2 is formula: d = |(b1 × b2) · (a2 - a1)| / ________.",
+      "options": [
+        "|a1 × a2|",
+        "|b1 × b2|",
+        "|b1 · b2|",
+        "PQ"
+      ],
+      "correctIndex": 1,
+      "explanation": "The magnitude of the normal vector $b1 × b2$ is the divisor.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Mathematics"
+    }
+  ]
+}

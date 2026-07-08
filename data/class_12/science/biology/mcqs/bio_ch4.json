@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bio_ch13_q1",
+      "chapterId": "bio_ch13",
+      "question": "Who is known as the 'Father of Genetics' for his work on garden peas?",
+      "options": [
+        "Thomas Hunt Morgan",
+        "Gregor Mendel",
+        "James Watson",
+        "Hugo de Vries"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gregor Mendel conducted hybridisation experiments on garden peas for seven years and proposed the laws of inheritance.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q2",
+      "chapterId": "bio_ch13",
+      "question": "Mendel conducted his hybridisation experiments on garden peas during which period?",
+      "options": [
+        "1840-1847",
+        "1856-1863",
+        "1865-1872",
+        "1900-1907"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mendel conducted experiments from 1856 to 1863.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q3",
+      "chapterId": "bio_ch13",
+      "question": "Which of the following is NOT one of the seven pairs of contrasting traits studied by Mendel?",
+      "options": [
+        "Stem height",
+        "Seed colour",
+        "Flower position",
+        "Leaf shape"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mendel studied stem height, flower colour, flower position, pod shape, pod colour, seed shape, and seed colour. Leaf shape was not one of them.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q4",
+      "chapterId": "bio_ch13",
+      "question": "In Mendel's experiments, the 'factors' that carry hereditary information are now known as:",
+      "options": [
+        "Chromosomes",
+        "Genes",
+        "Alleles",
+        "Genotypes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mendel called them 'factors'; they are now called genes.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q5",
+      "chapterId": "bio_ch13",
+      "question": "Genes which code for a pair of contrasting traits are known as:",
+      "options": [
+        "Genotypes",
+        "Phenotypes",
+        "Alleles",
+        "Homozygotes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alleles are slightly different forms of the same gene.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q6",
+      "chapterId": "bio_ch13",
+      "question": "A cross used to determine whether a dominant phenotype is homozygous or heterozygous is called a:",
+      "options": [
+        "Monohybrid cross",
+        "Dihybrid cross",
+        "Test cross",
+        "Back cross"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a test cross, an organism showing a dominant phenotype is crossed with the recessive parent.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q7",
+      "chapterId": "bio_ch13",
+      "question": "According to the Law of Segregation, during gamete formation, the alleles:",
+      "options": [
+        "Blend together",
+        "Do not show any blending",
+        "Stay together",
+        "Are lost"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Law of Segregation states that alleles do not show blending and both characters are recovered in the F2 generation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q8",
+      "chapterId": "bio_ch13",
+      "question": "In the F2 generation of a monohybrid cross, what is the phenotypic ratio?",
+      "options": [
+        "1:2:1",
+        "3:1",
+        "9:3:3:1",
+        "1:1"
+      ],
+      "correctIndex": 1,
+      "explanation": "The phenotypic ratio for a monohybrid cross (e.g., Tall vs Dwarf) is 3:1.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q9",
+      "chapterId": "bio_ch13",
+      "question": "The occurrence of pink flowers in Snapdragon (Antirrhinum sp.) when crossing red and white is an example of:",
+      "options": [
+        "Co-dominance",
+        "Incomplete dominance",
+        "Multiple alleles",
+        "Polygenic inheritance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Incomplete dominance occurs when the F1 phenotype is intermediate between the two parents.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q10",
+      "chapterId": "bio_ch13",
+      "question": "Human ABO blood groups are an example of:",
+      "options": [
+        "Incomplete dominance",
+        "Co-dominance and Multiple alleles",
+        "Pleiotropy",
+        "Linkage"
+      ],
+      "correctIndex": 1,
+      "explanation": "ABO blood grouping is controlled by three alleles (Multiple alleles) and IA and IB are both expressed (Co-dominance).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q11",
+      "chapterId": "bio_ch13",
+      "question": "Who proposed the Chromosomal Theory of Inheritance?",
+      "options": [
+        "Gregor Mendel",
+        "Sutton and Boveri",
+        "T.H. Morgan",
+        "Henking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Walter Sutton and Theodore Boveri noted that the behaviour of chromosomes was parallel to the behaviour of genes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q12",
+      "chapterId": "bio_ch13",
+      "question": "Which organism was used by T.H. Morgan to study linkage and recombination?",
+      "options": [
+        "Garden pea",
+        "Snapdragon",
+        "Drosophila melanogaster",
+        "Honey bee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Morgan used the fruit fly (Drosophila melanogaster) because they could be grown easily in the lab and have a short life cycle.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q13",
+      "chapterId": "bio_ch13",
+      "question": "The physical association of genes on a chromosome is termed as:",
+      "options": [
+        "Recombination",
+        "Linkage",
+        "Mutation",
+        "Aneuploidy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Morgan coined the term linkage to describe the physical association of genes on a chromosome.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q14",
+      "chapterId": "bio_ch13",
+      "question": "Who developed the first genetic map using frequency of recombination?",
+      "options": [
+        "T.H. Morgan",
+        "Alfred Sturtevant",
+        "Gregor Mendel",
+        "Hugo de Vries"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alfred Sturtevant, a student of Morgan, used recombination frequency as a measure of distance between genes.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q15",
+      "chapterId": "bio_ch13",
+      "question": "In which organism is the female heterogametic (ZW sex chromosomes)?",
+      "options": [
+        "Humans",
+        "Drosophila",
+        "Birds",
+        "Grasshoppers"
+      ],
+      "correctIndex": 2,
+      "explanation": "In birds, females have ZW chromosomes while males have ZZ.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q16",
+      "chapterId": "bio_ch13",
+      "question": "The 'X-body' discovered by Henking in insect sperm is now known as the:",
+      "options": [
+        "Autosome",
+        "Y chromosome",
+        "X chromosome",
+        "Nucleolus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Henking traced a specific nuclear structure through spermatogenesis and called it the X-body.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q17",
+      "chapterId": "bio_ch13",
+      "question": "Haplodiploid sex-determination is seen in:",
+      "options": [
+        "Birds",
+        "Honey bees",
+        "Humans",
+        "Grasshoppers"
+      ],
+      "correctIndex": 1,
+      "explanation": "In honey bees, males (drones) are haploid and females (queens/workers) are diploid.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q18",
+      "chapterId": "bio_ch13",
+      "question": "Which of the following is a Mendelian disorder showing X-linked recessive inheritance?",
+      "options": [
+        "Sickle cell anemia",
+        "Phenylketonuria",
+        "Haemophilia",
+        "Cystic fibrosis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Haemophilia is a sex-linked recessive disease which shows its transmission from unaffected carrier female to male progeny.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q19",
+      "chapterId": "bio_ch13",
+      "question": "Sickle cell anemia is caused by a substitution of Glutamic acid by _______ in the beta globin chain.",
+      "options": [
+        "Leucine",
+        "Valine",
+        "Proline",
+        "Glycine"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is caused by the substitution of Glutamic acid (Glu) by Valine (Val) at the sixth position.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q20",
+      "chapterId": "bio_ch13",
+      "question": "Phenylketonuria is an inborn error of metabolism inherited as an:",
+      "options": [
+        "Autosomal dominant trait",
+        "Autosomal recessive trait",
+        "X-linked trait",
+        "Y-linked trait"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phenylketonuria is an autosomal recessive trait where the body lacks an enzyme to convert phenylalanine to tyrosine.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q21",
+      "chapterId": "bio_ch13",
+      "question": "Down's syndrome is caused by the presence of an additional copy of chromosome number:",
+      "options": [
+        "13",
+        "18",
+        "21",
+        "23"
+      ],
+      "correctIndex": 2,
+      "explanation": "Down's syndrome is the trisomy of chromosome 21.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q22",
+      "chapterId": "bio_ch13",
+      "question": "Which chromosomal disorder is characterized by a karyotype of 47, XXY?",
+      "options": [
+        "Turner's syndrome",
+        "Down's syndrome",
+        "Klinefelter's syndrome",
+        "Edward's syndrome"
+      ],
+      "correctIndex": 2,
+      "explanation": "Klinefelter's syndrome results from an extra X chromosome in males.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q23",
+      "chapterId": "bio_ch13",
+      "question": "Turner's syndrome is caused by the absence of one X chromosome, resulting in a karyotype of:",
+      "options": [
+        "45 with XO",
+        "47 with XXY",
+        "47 with XYY",
+        "46 with XX"
+      ],
+      "correctIndex": 0,
+      "explanation": "Turner's syndrome involves the loss of an X chromosome (45, XO), causing females to be sterile.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q24",
+      "chapterId": "bio_ch13",
+      "question": "Failure of segregation of chromatids during cell division cycle results in the gain or loss of a chromosome(s), called:",
+      "options": [
+        "Polyploidy",
+        "Aneuploidy",
+        "Linkage",
+        "Mutation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aneuploidy is the gain or loss of a chromosome due to segregation failure.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q25",
+      "chapterId": "bio_ch13",
+      "question": "In a dihybrid cross studying two traits, what is the F2 phenotypic ratio?",
+      "options": [
+        "3:1",
+        "1:2:1",
+        "9:3:3:1",
+        "1:1:1:1"
+      ],
+      "correctIndex": 2,
+      "explanation": "For a dihybrid cross (e.g., Round Yellow vs Wrinkled Green), the ratio is 9:3:3:1.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q26",
+      "chapterId": "bio_ch13",
+      "question": "What is the graphical representation to calculate the probability of all possible genotypes of offspring in a genetic cross?",
+      "options": [
+        "Mendel's Square",
+        "Morgan's Grid",
+        "Punnett Square",
+        "Sturtevant Map"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Punnett Square was developed by British geneticist Reginald C. Punnett.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q27",
+      "chapterId": "bio_ch13",
+      "question": "Which type of mutation involves a change in a single base pair of DNA?",
+      "options": [
+        "Deletion",
+        "Insertion",
+        "Point mutation",
+        "Frame-shift mutation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Point mutation is a change in a single base pair, as seen in sickle cell anemia.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q28",
+      "chapterId": "bio_ch13",
+      "question": "Analysis of traits in several generations of a family is called:",
+      "options": [
+        "Punnett analysis",
+        "Pedigree analysis",
+        "Linkage analysis",
+        "Map distance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pedigree analysis is used to study the inheritance of a particular trait across generations.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q29",
+      "chapterId": "bio_ch13",
+      "question": "Which of the following is a dominant trait in garden peas?",
+      "options": [
+        "Green seed colour",
+        "Wrinkled seed shape",
+        "Violet flower colour",
+        "Dwarf stem height"
+      ],
+      "correctIndex": 2,
+      "explanation": "Violet flower colour is dominant over white.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q30",
+      "chapterId": "bio_ch13",
+      "question": "Failure of cytokinesis after telophase stage of cell division results in an increase in a whole set of chromosomes, called:",
+      "options": [
+        "Aneuploidy",
+        "Polyploidy",
+        "Trisomy",
+        "Monosomy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polyploidy is the condition of having multiple sets of chromosomes, often seen in plants.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q31",
+      "chapterId": "bio_ch13",
+      "question": "The Law of Independent Assortment is based on Mendel's observations of which type of cross?",
+      "options": [
+        "Monohybrid",
+        "Dihybrid",
+        "Test cross",
+        "Back cross"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Law of Independent Assortment was derived from dihybrid crosses.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q32",
+      "chapterId": "bio_ch13",
+      "question": "In humans, the sex of the child is determined by:",
+      "options": [
+        "The egg",
+        "The sperm",
+        "Both parents equally",
+        "Environmental temperature"
+      ],
+      "correctIndex": 1,
+      "explanation": "Males produce two types of gametes (X and Y), while females produce only X. The type of sperm fertilizing the egg determines the sex.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q33",
+      "chapterId": "bio_ch13",
+      "question": "Gynaecomastia (development of breast tissue) is a symptom of:",
+      "options": [
+        "Down's syndrome",
+        "Turner's syndrome",
+        "Klinefelter's syndrome",
+        "Phenylketonuria"
+      ],
+      "correctIndex": 2,
+      "explanation": "Klinefelter's syndrome individuals have overall masculine development but express feminine traits like Gynaecomastia.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q34",
+      "chapterId": "bio_ch13",
+      "question": "Thalassemia is an example of an:",
+      "options": [
+        "Autosomal dominant disorder",
+        "Autosomal recessive blood disease",
+        "X-linked recessive disorder",
+        "Chromosomal trisomy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thalassemia is an autosomal recessive blood disease resulting in reduced synthesis of globin chains.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q35",
+      "chapterId": "bio_ch13",
+      "question": "Which scientist(s) rediscovered Mendel's results independently in 1900?",
+      "options": [
+        "T.H. Morgan",
+        "de Vries, Correns and von Tschermak",
+        "Watson and Crick",
+        "Sutton and Boveri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Three scientists independently rediscovered Mendel’s laws in 1900.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q36",
+      "chapterId": "bio_ch13",
+      "question": "The modified allele is equivalent to the unmodified allele when it produces:",
+      "options": [
+        "No enzyme at all",
+        "A non-functional enzyme",
+        "The normal/less efficient enzyme",
+        "A completely different trait"
+      ],
+      "correctIndex": 2,
+      "explanation": "If the modified allele produces the same phenotype as the unmodified one, they are equivalent.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q37",
+      "chapterId": "bio_ch13",
+      "question": "In a pedigree chart, a solid/filled symbol represents:",
+      "options": [
+        "Male",
+        "Female",
+        "Affected individual",
+        "Carrier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Filled circles or squares in a pedigree indicate individuals affected by the trait.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q38",
+      "chapterId": "bio_ch13",
+      "question": "Mendel's 'Law of Dominance' explains that in a dissimilar pair of factors, one member of the pair _______ the other.",
+      "options": [
+        "Blends with",
+        "Dominates",
+        "Mutates",
+        "Is lost by"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Law of Dominance states that one factor (dominant) masks the expression of the other (recessive).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q39",
+      "chapterId": "bio_ch13",
+      "question": "Human skin colour is an example of:",
+      "options": [
+        "Multiple allelism",
+        "Polygenic inheritance",
+        "Pleiotropy",
+        "Linkage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polygenic inheritance occurs when a trait is controlled by three or more genes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q40",
+      "chapterId": "bio_ch13",
+      "question": "A single gene exhibiting multiple phenotypic expressions (like starch grain size and seed shape in peas) is called:",
+      "options": [
+        "Polygeny",
+        "Pleiotropy",
+        "Incomplete dominance",
+        "Multiple allelism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pleiotropy is the phenomenon where a single gene can influence multiple traits.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q41",
+      "chapterId": "bio_ch13",
+      "question": "Grasshoppers show which type of sex determination?",
+      "options": [
+        "XX-XY",
+        "XX-XO",
+        "ZZ-ZW",
+        "Haplodiploidy"
+      ],
+      "correctIndex": 1,
+      "explanation": "In grasshoppers, males have only one X chromosome (XO) while females have two (XX).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q42",
+      "chapterId": "bio_ch13",
+      "question": "In the haplodiploid system of honey bees, drones have how many chromosomes?",
+      "options": [
+        "32",
+        "16",
+        "8",
+        "46"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drones are haploid and have 16 chromosomes, whereas females have 32.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q43",
+      "chapterId": "bio_ch13",
+      "question": "UV radiation can act as a _______ by inducing mutations.",
+      "options": [
+        "Genotype",
+        "Mutagen",
+        "Allele",
+        "Phenotype"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chemical and physical factors that induce mutations are called mutagens.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q44",
+      "chapterId": "bio_ch13",
+      "question": "A condition where an individual has short stature, small round head, furrowed tongue and partially open mouth is:",
+      "options": [
+        "Klinefelter's syndrome",
+        "Down's syndrome",
+        "Turner's syndrome",
+        "Thalassemia"
+      ],
+      "correctIndex": 1,
+      "explanation": "These are the characteristic physical symptoms of Down's syndrome.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q45",
+      "chapterId": "bio_ch13",
+      "question": "What is the genotypic ratio of the F2 generation in a monohybrid cross?",
+      "options": [
+        "3:1",
+        "1:2:1",
+        "9:3:3:1",
+        "1:1"
+      ],
+      "correctIndex": 1,
+      "explanation": "The genotypic ratio is 1 (TT) : 2 (Tt) : 1 (tt).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q46",
+      "chapterId": "bio_ch13",
+      "question": "Cystic fibrosis and Myotonic dystrophy are examples of _______ disorders.",
+      "options": [
+        "Chromosomal",
+        "Mendelian",
+        "Infectious",
+        "Nutritional"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mendelian disorders are determined by alteration or mutation in a single gene.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q47",
+      "chapterId": "bio_ch13",
+      "question": "Mendel selected how many true-breeding pea plant varieties?",
+      "options": [
+        "7",
+        "14",
+        "21",
+        "2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mendel selected 14 true-breeding pea plant varieties, as pairs which were similar except for one character.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q48",
+      "chapterId": "bio_ch13",
+      "question": "The term for the proportion of parental gene combinations being much higher than non-parental types is:",
+      "options": [
+        "Crossing over",
+        "Linkage",
+        "Segregation",
+        "Independent assortment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Linkage keeps genes together, resulting in higher parental combinations in offspring.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q49",
+      "chapterId": "bio_ch13",
+      "question": "In a dihybrid cross, if the traits were perfectly linked, the F2 phenotypic ratio would resemble a:",
+      "options": [
+        "Monohybrid ratio (3:1)",
+        "Dihybrid ratio (9:3:3:1)",
+        "Test cross ratio (1:1)",
+        "Incomplete dominance ratio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Linked genes do not assort independently and behave as a single unit, mimicking a monohybrid cross.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Biology"
+    },
+    {
+      "mcqId": "12_bio_ch13_q50",
+      "chapterId": "bio_ch13",
+      "question": "The study of heredity and the variation of inherited characters is called:",
+      "options": [
+        "Evolution",
+        "Genetics",
+        "Ecology",
+        "Physiology"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genetics deals with the inheritance as well as the variation of characters from parents to offspring.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Biology"
+    }
+  ]
+}
