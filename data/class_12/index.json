@@ -1,0 +1,33 @@
+{
+  "classNumber": 12,
+  "displayName": "Class 12",
+  "hasStreams": true,
+  "streams": {
+    "science": [
+      "physics",
+      "chemistry",
+      "biology",
+      "mathematics",
+      "computer_science",
+      "informatics_practices"
+    ],
+    "commerce": [
+      "accountancy",
+      "business_studies",
+      "economics",
+      "entrepreneurship"
+    ],
+    "arts": [
+      "history",
+      "political_science",
+      "psychology",
+      "sociology",
+      "geography"
+    ],
+    "common": [
+      "english",
+      "hindi",
+      "physical_education"
+    ]
+  }
+}
