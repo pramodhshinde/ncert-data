@@ -1,0 +1,125 @@
+{
+  "books": [
+    {
+      "id": 1241,
+      "title": "Themes in Indian History Part I",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "History",
+      "chapterCount": 4,
+      "parts": 3
+    },
+    {
+      "id": 1242,
+      "title": "Themes in Indian History Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "History",
+      "chapterCount": 4,
+      "parts": 3
+    },
+    {
+      "id": 1243,
+      "title": "Themes in Indian History Part III",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "History",
+      "chapterCount": 4,
+      "parts": 3
+    },
+    {
+      "id": 1244,
+      "title": "Contemporary World Politics",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Political Science",
+      "chapterCount": 7,
+      "parts": 2
+    },
+    {
+      "id": 1245,
+      "title": "Politics in India since Independence",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Political Science",
+      "chapterCount": 8,
+      "parts": 2
+    },
+    {
+      "id": 1246,
+      "title": "Indian Society",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Sociology",
+      "chapterCount": 7,
+      "parts": 2
+    },
+    {
+      "id": 1248,
+      "title": "Psychology",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Psychology",
+      "chapterCount": 7,
+      "parts": 1
+    },
+    {
+      "id": 1249,
+      "title": "An introduction to Indian art part 2",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Fine Arts",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1251,
+      "title": "Fundamental of Human Geography",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Geography",
+      "chapterCount": 8,
+      "parts": 3
+    },
+    {
+      "id": 1252,
+      "title": "India - People & Economy",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Geography",
+      "chapterCount": 9,
+      "parts": 3
+    },
+    {
+      "id": 1253,
+      "title": "Practical Work in Geography Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Geography",
+      "chapterCount": 4,
+      "parts": 3
+    }
+  ]
+}

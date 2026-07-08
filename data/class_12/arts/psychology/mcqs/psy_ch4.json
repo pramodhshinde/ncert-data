@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "psy_c4_01",
+    "chapter_id": "c4",
+    "question": "What are the 'four Ds' commonly used in definitions of abnormality?",
+    "options": [
+      "Desire, Devotion, Duty, Danger",
+      "Deviance, Distress, Dysfunction, Danger",
+      "Diagnosis, Distress, Disability, Danger",
+      "Deviance, Disease, Dysfunction, Delight"
+    ],
+    "correct_index": 1,
+    "explanation": "Psychological disorders are generally characterized by being deviant (unusual), distressing (unpleasant), dysfunctional (interfering with daily life), and potentially dangerous[span_0](start_span)[span_0](end_span).",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_02",
+    "chapter_id": "c4",
+    "question": "Which neurotransmitter's low activity is linked to anxiety disorders?",
+    "options": [
+      "Dopamine",
+      "Serotonin",
+      "Gamma aminobutyric acid (GABA)",
+      "Acetylcholine"
+    ],
+    "correct_index": 2,
+    "explanation": "Anxiety disorders have been linked to low activity of the neurotransmitter gamma aminobutyric acid (GABA)[span_1](start_span)[span_1](end_span).",
+    "ncert_page": 74,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_03",
+    "chapter_id": "c4",
+    "question": "According to the diathesis-stress model, what is a diathesis?",
+    "options": [
+      "A stressful life event",
+      "The result of poor parenting",
+      "A biological predisposition to a disorder",
+      "A social stigma"
+    ],
+    "correct_index": 2,
+    "explanation": "The diathesis-stress model states that disorders develop when a diathesis (biological predisposition) is set off by a stressful situation[span_2](start_span)[span_2](end_span).",
+    "ncert_page": 75,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_04",
+    "chapter_id": "c4",
+    "question": "What is the official manual published by the American Psychiatric Association (APA) for classifying psychological disorders?",
+    "options": [
+      "ICD-10",
+      "DSM-5",
+      "WHO Classification",
+      "Psychology Manual"
+    ],
+    "correct_index": 1,
+    "explanation": "The American Psychiatric Association (APA) published the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5)[span_3](start_span)[span_3](end_span).",
+    "ncert_page": 73,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_05",
+    "chapter_id": "c4",
+    "question": "Which of the following is considered a positive symptom of schizophrenia?",
+    "options": [
+      "Social withdrawal",
+      "Flat affect",
+      "Hallucinations",
+      "Poverty of speech"
+    ],
+    "correct_index": 2,
+    "explanation": "Positive symptoms of schizophrenia include 'pathological excesses' such as delusions, disorganised thinking, and hallucinations[span_4](start_span)[span_4](end_span).",
+    "ncert_page": 81,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_06",
+    "chapter_id": "c4",
+    "question": "What characterizes a person with anorexia nervosa?",
+    "options": [
+      "Eating excessive amounts of food and then purging",
+      "A distorted body image leading to restricted eating",
+      "Episodes of out-of-control eating without purging",
+      "A loss of appetite due to medication"
+    ],
+    "correct_index": 1,
+    "explanation": "Anorexia nervosa involves a distorted body image that leads the individual to see themselves as overweight, often refusing to eat[span_5](start_span)[span_5](end_span).",
+    "ncert_page": 84,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_07",
+    "chapter_id": "c4",
+    "question": "Which disorder involves the assumption of a new identity and the inability to recall one's previous identity?",
+    "options": [
+      "Dissociative identity disorder",
+      "Dissociative fugue",
+      "Depersonalisation disorder",
+      "Conversion disorder"
+    ],
+    "correct_index": 1,
+    "explanation": "Dissociative fugue involves unexpected travel away from home, the assumption of a new identity, and the inability to recall the previous identity[span_6](start_span)[span_6](end_span).",
+    "ncert_page": 79,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_08",
+    "chapter_id": "c4",
+    "question": "What is the primary feature of intellectual disability according to the text?",
+    "options": [
+      "IQ below 50 only",
+      "IQ of approximately 70 or below and deficits in adaptive behaviour",
+      "Inability to speak by age 10",
+      "Deficits in physical coordination only"
+    ],
+    "correct_index": 1,
+    "explanation": "Intellectual disability refers to below average intellectual functioning (IQ of 70 or below) and deficits in adaptive behaviour manifested before age 18[span_7](start_span)[span_7](end_span).",
+    "ncert_page": 83,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_09",
+    "chapter_id": "c4",
+    "question": "What does 'excoriation disorder' refer to?",
+    "options": [
+      "Hair-pulling",
+      "Skin-picking",
+      "Excessive washing",
+      "Compulsive counting"
+    ],
+    "correct_index": 1,
+    "explanation": "Excoriation disorder is identified as skin-picking disorder within the obsessive-compulsive category[span_8](start_span)[span_8](end_span).",
+    "ncert_page": 78,
+    "difficulty": "hard",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_10",
+    "chapter_id": "c4",
+    "question": "Which approach to abnormal behaviour focuses on the role of conditioning and learning?",
+    "options": [
+      "Psychodynamic model",
+      "Cognitive model",
+      "Behavioural model",
+      "Humanistic model"
+    ],
+    "correct_index": 2,
+    "explanation": "The behavioural model states that abnormal behaviours are learned through classical conditioning, operant conditioning, or social learning[span_9](start_span)[span_9](end_span).",
+    "ncert_page": 74,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_11",
+    "chapter_id": "c4",
+    "question": "What are 'delusions of persecution'?",
+    "options": [
+      "Believing one is an empowered person",
+      "Believing one's thoughts are controlled by others",
+      "Believing one is being plotted against or spied on",
+      "Believing actions have special personal meanings"
+    ],
+    "correct_index": 2,
+    "explanation": "Delusions of persecution involve believing that one is being plotted against, spied on, threatened, or victimized[span_10](start_span)[span_10](end_span).",
+    "ncert_page": 81,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_12",
+    "chapter_id": "c4",
+    "question": "Which disorder is characterized by 'recurrent anxiety attacks' in which the person experiences intense terror?",
+    "options": [
+      "Generalised anxiety disorder",
+      "Panic disorder",
+      "Specific phobia",
+      "Separation anxiety disorder"
+    ],
+    "correct_index": 1,
+    "explanation": "Panic disorder consists of recurrent, unpredictable anxiety attacks characterized by feelings of intense terror and physiological symptoms[span_11](start_span)[span_11](end_span).",
+    "ncert_page": 76,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_13",
+    "chapter_id": "c4",
+    "question": "What is 'alogia' in the context of schizophrenia?",
+    "options": [
+      "Excessive talking",
+      "Poverty of speech",
+      "Inappropriate laughter",
+      "Repetitive motor movements"
+    ],
+    "correct_index": 1,
+    "explanation": "Alogia, or poverty of speech, refers to a reduction in speech and speech content[span_12](start_span)[span_12](end_span).",
+    "ncert_page": 82,
+    "difficulty": "hard",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_14",
+    "chapter_id": "c4",
+    "question": "Which of the following is NOT typically a symptom of ADHD?",
+    "options": [
+      "Inattention",
+      "Hyperactivity",
+      "Impulsivity",
+      "Fear of social interaction"
+    ],
+    "correct_index": 3,
+    "explanation": "The two main features of ADHD are inattention and hyperactivity-impulsivity[span_13](start_span)[span_13](end_span).",
+    "ncert_page": 83,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_15",
+    "chapter_id": "c4",
+    "question": "What does the 'sociocultural model' emphasize as a cause for abnormal behaviour?",
+    "options": [
+      "Faulty genes",
+      "Unconscious conflicts",
+      "Social and cultural forces",
+      "Irrational thinking"
+    ],
+    "correct_index": 2,
+    "explanation": "The sociocultural model posits that abnormal behaviour is best understood in light of social and cultural forces like family structure and societal labels[span_14](start_span)[span_14](end_span).",
+    "ncert_page": 75,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_16",
+    "chapter_id": "c4",
+    "question": "What is the primary characteristic of bulimia nervosa?",
+    "options": [
+      "Starving oneself",
+      "Binge eating followed by purging",
+      "Avoiding eating in front of others",
+      "A complete loss of hunger"
+    ],
+    "correct_index": 1,
+    "explanation": "In bulimia nervosa, the individual eats excessive amounts of food (binge) and then purges using laxatives, diuretics, or vomiting[span_15](start_span)[span_15](end_span).",
+    "ncert_page": 84,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_17",
+    "chapter_id": "c4",
+    "question": "What is 'catatonic stupor'?",
+    "options": [
+      "A state of constant talking",
+      "Maintaining a rigid, upright posture for hours",
+      "Remaining motionless and silent for long stretches of time",
+      "Assuming awkward, bizarre positions"
+    ],
+    "correct_index": 2,
+    "explanation": "People in a catatonic stupor remain motionless and silent for long stretches of time[span_16](start_span)[span_16](end_span).",
+    "ncert_page": 82,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_18",
+    "chapter_id": "c4",
+    "question": "Which of these is a known risk factor for suicide?",
+    "options": [
+      "High social support",
+      "Previous suicidal attempt",
+      "Optimistic outlook",
+      "Strong emotional expression skills"
+    ],
+    "correct_index": 1,
+    "explanation": "Previous suicidal attempt is the strongest risk factor for suicide[span_17](start_span)[span_17](end_span).",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_19",
+    "chapter_id": "c4",
+    "question": "What does the 'humanistic-existential model' suggest about human nature?",
+    "options": [
+      "Humans are driven by unconscious impulses",
+      "Humans are inherently evil",
+      "Humans are born with a tendency to self-actualize",
+      "Humans learn all behaviours through conditioning"
+    ],
+    "correct_index": 2,
+    "explanation": "Humanists believe humans are born with a natural tendency to be friendly, cooperative, and driven to self-actualize[span_18](start_span)[span_18](end_span).",
+    "ncert_page": 75,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_20",
+    "chapter_id": "c4",
+    "question": "What is 'depersonalisation'?",
+    "options": [
+      "A loss of personal memory",
+      "A change in self-perception and reality sense",
+      "The development of two distinct personalities",
+      "An intense fear of public places"
+    ],
+    "correct_index": 1,
+    "explanation": "In depersonalisation, there is a change of self-perception, and the person's sense of reality is temporarily lost or changed[span_19](start_span)[span_19](end_span).",
+    "ncert_page": 79,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_21",
+    "chapter_id": "c4",
+    "question": "Which neurotransmitter excess is linked to schizophrenia?",
+    "options": [
+      "Serotonin",
+      "GABA",
+      "Dopamine",
+      "Acetylcholine"
+    ],
+    "correct_index": 2,
+    "explanation": "Studies indicate that excess activity of dopamine is linked to schizophrenia[span_20](start_span)[span_20](end_span).",
+    "ncert_page": 74,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_22",
+    "chapter_id": "c4",
+    "question": "What is the primary focus of 'Abnormal Psychology'?",
+    "options": [
+      "The study of normal social behaviour",
+      "The study of maladaptive behaviour, its causes, and treatment",
+      "The study of brain surgery techniques",
+      "The study of childhood development only"
+    ],
+    "correct_index": 1,
+    "explanation": "Abnormal Psychology is focused on maladaptive behaviour - its causes, consequences, and treatment[span_21](start_span)[span_21](end_span).",
+    "ncert_page": 70,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_23",
+    "chapter_id": "c4",
+    "question": "What characterizes 'Conduct Disorder'?",
+    "options": [
+      "Stubbornness and irritability",
+      "Age-inappropriate actions that violate rights of others",
+      "Over-attachment to parents",
+      "Difficulty in reading and writing"
+    ],
+    "correct_index": 1,
+    "explanation": "Conduct disorder refers to age-inappropriate actions and attitudes that violate family expectations, societal norms, and rights of others[span_22](start_span)[span_22](end_span).",
+    "ncert_page": 84,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_24",
+    "chapter_id": "c4",
+    "question": "What are 'obsessions'?",
+    "options": [
+      "Repetitive acts like washing",
+      "The need to perform rituals",
+      "An inability to stop thinking about a particular idea",
+      "The fear of enclosed spaces"
+    ],
+    "correct_index": 2,
+    "explanation": "Obsessive behaviour is the inability to stop thinking about a particular idea or topic[span_23](start_span)[span_23](end_span).",
+    "ncert_page": 77,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_25",
+    "chapter_id": "c4",
+    "question": "What is the defining characteristic of 'conversion disorders'?",
+    "options": [
+      "Excessive worry about health",
+      "The loss of basic body functions without physical cause",
+      "The development of two distinct personalities",
+      "A fear of leaving home"
+    ],
+    "correct_index": 1,
+    "explanation": "Conversion disorder symptoms involve the reported loss of part or all of some basic body functions, such as paralysis or blindness, without a biological cause[span_24](start_span)[span_24](end_span).",
+    "ncert_page": 78,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_26",
+    "chapter_id": "c4",
+    "question": "Which organization prepared the ICD-10?",
+    "options": [
+      "American Psychological Association",
+      "World Health Organization (WHO)",
+      "Indian Council of Medical Research",
+      "United Nations"
+    ],
+    "correct_index": 1,
+    "explanation": "The ICD-10 was prepared by the World Health Organization (WHO)[span_25](start_span)[span_25](end_span).",
+    "ncert_page": 73,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_27",
+    "chapter_id": "c4",
+    "question": "What is 'delusion of grandeur'?",
+    "options": [
+      "Believing you are being spied on",
+      "Believing your thoughts are being stolen",
+      "Believing oneself to be a specially empowered person",
+      "Believing your actions are controlled by satellites"
+    ],
+    "correct_index": 2,
+    "explanation": "In delusions of grandeur, people believe themselves to be specially empowered persons[span_26](start_span)[span_26](end_span).",
+    "ncert_page": 81,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_28",
+    "chapter_id": "c4",
+    "question": "Which of these is considered a 'negative symptom' of schizophrenia?",
+    "options": [
+      "Hallucinations",
+      "Delusions",
+      "Blunted affect",
+      "Inappropriate affect"
+    ],
+    "correct_index": 2,
+    "explanation": "Negative symptoms include pathological deficits such as blunted and flat affect, poverty of speech, and social withdrawal[span_27](start_span)[span_27](end_span).",
+    "ncert_page": 82,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_29",
+    "chapter_id": "c4",
+    "question": "What is 'bipolar I disorder' characterized by?",
+    "options": [
+      "Only mania",
+      "Only depression",
+      "Both mania and depression",
+      "Neither mania nor depression"
+    ],
+    "correct_index": 2,
+    "explanation": "Bipolar I disorder involves both mania and depression, which are alternately present[span_28](start_span)[span_28](end_span).",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_30",
+    "chapter_id": "c4",
+    "question": "What does 'neologism' refer to in schizophrenia?",
+    "options": [
+      "Rapidly shifting topics",
+      "Inventing new words or phrases",
+      "Persistent repetition of thoughts",
+      "Hearing auditory voices"
+    ],
+    "correct_index": 1,
+    "explanation": "Formal thought disorders include inventing new words or phrases, known as neologisms[span_29](start_span)[span_29](end_span).",
+    "ncert_page": 81,
+    "difficulty": "hard",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_31",
+    "chapter_id": "c4",
+    "question": "What is 'separation anxiety disorder'?",
+    "options": [
+      "Fear of being alone in a room",
+      "Extreme distress regarding separation from attachment figures",
+      "Fear of going to school with friends",
+      "Inability to form new friendships"
+    ],
+    "correct_index": 1,
+    "explanation": "Individuals with separation anxiety disorder are fearful and anxious about separation from attachment figures to an extent that is developmentally inappropriate[span_30](start_span)[span_30](end_span).",
+    "ncert_page": 77,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_32",
+    "chapter_id": "c4",
+    "question": "Which of the following is NOT a form of phobia?",
+    "options": [
+      "Specific phobias",
+      "Social phobias",
+      "Agoraphobia",
+      "Panic phobias"
+    ],
+    "correct_index": 3,
+    "explanation": "Phobias can be grouped into three main types: specific phobias, social phobias, and agoraphobia[span_31](start_span)[span_31](end_span).",
+    "ncert_page": 76,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_33",
+    "chapter_id": "c4",
+    "question": "What is a 'hallucination'?",
+    "options": [
+      "A firmly held false belief",
+      "A perception that occurs without external stimuli",
+      "The act of forgetting personal events",
+      "A repetitive motor movement"
+    ],
+    "correct_index": 1,
+    "explanation": "Hallucinations are perceptions that occur in the absence of external stimuli[span_32](start_span)[span_32](end_span).",
+    "ncert_page": 81,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_34",
+    "chapter_id": "c4",
+    "question": "What is 'flat affect' in schizophrenia?",
+    "options": [
+      "Showing extreme anger",
+      "Showing no emotions at all",
+      "Rapidly changing emotions",
+      "Showing only joy"
+    ],
+    "correct_index": 1,
+    "explanation": "Some show no emotions at all, a condition known as flat affect[span_33](start_span)[span_33](end_span).",
+    "ncert_page": 82,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_35",
+    "chapter_id": "c4",
+    "question": "What does the psychodynamic model suggest about abnormal behaviour?",
+    "options": [
+      "It is caused by learned associations",
+      "It is a symbolic expression of unconscious mental conflicts",
+      "It is solely due to chemical imbalances",
+      "It is the result of irrational social labels"
+    ],
+    "correct_index": 1,
+    "explanation": "The psychodynamic model views abnormal behaviour as a symbolic expression of unconscious mental conflicts[span_34](start_span)[span_34](end_span).",
+    "ncert_page": 74,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_36",
+    "chapter_id": "c4",
+    "question": "What is the primary concern in 'illness anxiety disorder'?",
+    "options": [
+      "Physical complaints",
+      "The anxiety about developing a serious illness",
+      "The loss of limb function",
+      "The fear of social judgment"
+    ],
+    "correct_index": 1,
+    "explanation": "In illness anxiety disorder, the anxiety itself is the main concern, rather than specific physical complaints[span_35](start_span)[span_35](end_span).",
+    "ncert_page": 78,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_37",
+    "chapter_id": "c4",
+    "question": "What does 'enmeshed family structure' mean?",
+    "options": [
+      "Family members are independent",
+      "Family members are overinvolved in each other's lives",
+      "Family members have no communication",
+      "Family members do not live together"
+    ],
+    "correct_index": 1,
+    "explanation": "Some families have an enmeshed structure in which the members are overinvolved in each other's activities, thoughts, and feelings[span_36](start_span)[span_36](end_span).",
+    "ncert_page": 75,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_38",
+    "chapter_id": "c4",
+    "question": "Which of these is a common abused substance according to Box 4.3?",
+    "options": [
+      "Water",
+      "Opioids",
+      "Vitamins",
+      "Sugar"
+    ],
+    "correct_index": 1,
+    "explanation": "Opioids (morphine, heroin) are listed as commonly abused substances[span_37](start_span)[span_37](end_span).",
+    "ncert_page": 86,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_39",
+    "chapter_id": "c4",
+    "question": "What is 'deinstitutionalisation'?",
+    "options": [
+      "The process of putting more people into asylums",
+      "Providing community care for recovered mentally ill individuals",
+      "Using only biological treatments",
+      "The increase of demonological practices"
+    ],
+    "correct_index": 1,
+    "explanation": "Deinstitutionalisation placed emphasis on providing community care for recovered mentally ill individuals[span_38](start_span)[span_38](end_span).",
+    "ncert_page": 72,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_40",
+    "chapter_id": "c4",
+    "question": "What characterizes 'Autism Spectrum Disorder'?",
+    "options": [
+      "Only physical disabilities",
+      "Widespread impairments in social interaction and communication",
+      "A high desire for social changes",
+      "A complete absence of repetitive behaviours"
+    ],
+    "correct_index": 1,
+    "explanation": "Autism Spectrum Disorder is characterized by widespread impairments in social interaction and communication skills[span_39](start_span)[span_39](end_span).",
+    "ncert_page": 83,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_41",
+    "chapter_id": "c4",
+    "question": "What is the primary effect of ethyl alcohol on the brain?",
+    "options": [
+      "Stimulation of judgment",
+      "Depression of areas that control judgment and inhibition",
+      "Increase in memory capacity",
+      "Elimination of motor difficulties"
+    ],
+    "correct_index": 1,
+    "explanation": "Ethyl alcohol depresses those areas in the brain that control judgment and inhibition[span_40](start_span)[span_40](end_span).",
+    "ncert_page": 86,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_42",
+    "chapter_id": "c4",
+    "question": "What does the cognitive model suggest is a cause of abnormal functioning?",
+    "options": [
+      "Unconscious drives",
+      "Irrational assumptions and inaccurate attitudes",
+      "Biochemical imbalances",
+      "Social isolation"
+    ],
+    "correct_index": 1,
+    "explanation": "The cognitive model states that abnormal functioning can result from cognitive problems, such as irrational and inaccurate attitudes[span_41](start_span)[span_41](end_span).",
+    "ncert_page": 75,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_43",
+    "chapter_id": "c4",
+    "question": "What is 'oppositional defiant disorder'?",
+    "options": [
+      "Age-inappropriate stubbornness and irritability",
+      "The loss of identity",
+      "Persistent fear of crowds",
+      "Excessive washing of hands"
+    ],
+    "correct_index": 0,
+    "explanation": "Children with Oppositional Defiant Disorder (ODD) display age-inappropriate amounts of stubbornness, are irritable, defiant, and disobedient[span_42](start_span)[span_42](end_span).",
+    "ncert_page": 84,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_44",
+    "chapter_id": "c4",
+    "question": "Which of these is NOT a dissociative disorder?",
+    "options": [
+      "Dissociative amnesia",
+      "Dissociative identity disorder",
+      "Depersonalisation disorder",
+      "Conversion disorder"
+    ],
+    "correct_index": 3,
+    "explanation": "Conversion disorder is classified under somatic symptom and related disorders, not dissociative disorders[span_43](start_span)[span_43](end_span).",
+    "ncert_page": 78,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_45",
+    "chapter_id": "c4",
+    "question": "What is the most common auditory hallucination in schizophrenia?",
+    "options": [
+      "Music",
+      "Voices that speak directly to or refer to the patient",
+      "Sounds of animals",
+      "Static noise"
+    ],
+    "correct_index": 1,
+    "explanation": "Auditory hallucinations are most common; patients hear sounds or voices that speak directly to them or talk to one another referring to the patient[span_44](start_span)[span_44](end_span).",
+    "ncert_page": 81,
+    "difficulty": "hard",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_46",
+    "chapter_id": "c4",
+    "question": "Which of the following is true about suicide?",
+    "options": [
+      "It is always caused by one single factor",
+      "It is a result of a complex interface of biological, psychological, and social factors",
+      "It is impossible to prevent",
+      "It is never linked to mental disorders"
+    ],
+    "correct_index": 1,
+    "explanation": "Suicide is a result of a complex interface of biological, genetic, psychological, sociological, cultural, and environmental factors[span_45](start_span)[span_45](end_span).",
+    "ncert_page": 80,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_47",
+    "chapter_id": "c4",
+    "question": "What is 'agoraphobia'?",
+    "options": [
+      "Fear of small spaces",
+      "Fear of entering unfamiliar situations",
+      "Fear of animals",
+      "Fear of social judgment"
+    ],
+    "correct_index": 1,
+    "explanation": "Agoraphobia is the term used when people develop a fear of entering unfamiliar situations[span_46](start_span)[span_46](end_span).",
+    "ncert_page": 76,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_48",
+    "chapter_id": "c4",
+    "question": "What characterizes 'binge eating'?",
+    "options": [
+      "Eating small amounts constantly",
+      "Frequent episodes of out-of-control eating",
+      "Purging after every meal",
+      "Refusing to eat in public"
+    ],
+    "correct_index": 1,
+    "explanation": "In binge eating, there are frequent episodes of out-of-control eating, often at a higher speed than normal[span_47](start_span)[span_47](end_span).",
+    "ncert_page": 84,
+    "difficulty": "easy",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_49",
+    "chapter_id": "c4",
+    "question": "What are 'delusions of reference'?",
+    "options": [
+      "Believing one is being plotted against",
+      "Attaching special and personal meaning to the actions of others",
+      "Believing one is an incarnation of God",
+      "Believing one's brain is controlled by extraterrestrials"
+    ],
+    "correct_index": 1,
+    "explanation": "In delusions of reference, people attach special and personal meaning to the actions of others or to objects and events[span_48](start_span)[span_48](end_span).",
+    "ncert_page": 81,
+    "difficulty": "hard",
+    "subject": "Psychology"
+  },
+  {
+    "mcq_id": "psy_c4_50",
+    "chapter_id": "c4",
+    "question": "What is the primary role of the 'shaman' (ojha) in ancient theories?",
+    "options": [
+      "To provide medical surgery",
+      "To serve as a medium between human beings and supernatural forces",
+      "To conduct cognitive therapy",
+      "To prescribe modern medication"
+    ],
+    "correct_index": 1,
+    "explanation": "The shaman is believed to have contact with supernatural forces and is the medium through which spirits communicate with human beings[span_49](start_span)[span_49](end_span).",
+    "ncert_page": 71,
+    "difficulty": "medium",
+    "subject": "Psychology"
+  }
+]

@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "c12ps_ch01_q01",
+      "chapterId": "c12_ps_ch01",
+      "question": "In which year was the Berlin Wall built to separate East Berlin from West Berlin?",
+      "options": [
+        "1945",
+        "1951",
+        "1961",
+        "1989"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Berlin Wall was built in 1961 to separate East Berlin from West Berlin and symbolised the division between the capitalist and communist worlds.",
+      "ncertPage": 1,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q02",
+      "chapterId": "c12_ps_ch01",
+      "question": "On which date was the Berlin Wall finally broken by the people?",
+      "options": [
+        "15 August 1947",
+        "9 November 1989",
+        "25 December 1991",
+        "1 May 1990"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Berlin Wall stood for 28 years and was finally broken by the people on 9 November 1989.",
+      "ncertPage": 1,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q03",
+      "chapterId": "c12_ps_ch01",
+      "question": "What did the Union of Soviet Socialist Republics (USSR) come into being after?",
+      "options": [
+        "The French Revolution",
+        "The Socialist Revolution in Russia in 1917",
+        "The Second World War",
+        "The Cold War"
+      ],
+      "correctIndex": 1,
+      "explanation": "The USSR came into being after the Socialist Revolution in Russia in 1917.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q04",
+      "chapterId": "c12_ps_ch01",
+      "question": "The Soviet system of economy was based on which ideology?",
+      "options": [
+        "Capitalism",
+        "Liberalism",
+        "Socialism",
+        "Fascism"
+      ],
+      "correctIndex": 2,
+      "explanation": "The revolution was inspired by the ideals of socialism and the need for an egalitarian society.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q05",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which political party dominated the Soviet Union's political system?",
+      "options": [
+        "Democratic Party",
+        "Communist Party",
+        "Labour Party",
+        "Socialist Party"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Soviet political system centred around the Communist Party, and no other political party or opposition was allowed.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q06",
+      "chapterId": "c12_ps_ch01",
+      "question": "After the Second World War, the East European countries that the Soviet army had liberated from fascist forces came under the control of the USSR. This group was known as:",
+      "options": [
+        "First World",
+        "The Second World or Socialist Bloc",
+        "Third World",
+        "The Allied Forces"
+      ],
+      "correctIndex": 1,
+      "explanation": "This group of countries was called the Second World or the 'socialist bloc'.",
+      "ncertPage": 2,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q07",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which military alliance held the Socialist Bloc together?",
+      "options": [
+        "NATO",
+        "SEATO",
+        "Warsaw Pact",
+        "CENTO"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Warsaw Pact was the military alliance that held the socialist bloc countries together.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q08",
+      "chapterId": "c12_ps_ch01",
+      "question": "Who became the General Secretary of the Communist Party of the Soviet Union in 1985?",
+      "options": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Mikhail Gorbachev",
+        "Boris Yeltsin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mikhail Gorbachev became the General Secretary of the Communist Party of the Soviet Union in 1985.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q09",
+      "chapterId": "c12_ps_ch01",
+      "question": "What were the two main reform policies introduced by Mikhail Gorbachev?",
+      "options": [
+        "Glasnost and Perestroika",
+        "New Economic Policy",
+        "Five Year Plan",
+        "Strategic Arms Limitation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gorbachev carried out reforms and democratisation known as 'perestroika' (restructuring) and 'glasnost' (openness).",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q10",
+      "chapterId": "c12_ps_ch01",
+      "question": "In December 1991, which three major republics of the USSR declared that the Soviet Union was disbanded?",
+      "options": [
+        "Uzbekistan, Tajikistan, Georgia",
+        "Russia, Ukraine, Belarus",
+        "Lithuania, Latvia, Estonia",
+        "Armenia, Azerbaijan, Moldova"
+      ],
+      "correctIndex": 1,
+      "explanation": "In December 1991, under the leadership of Yeltsin, Russia, Ukraine and Belarus, three major republics of the USSR, declared that the Soviet Union was disbanded.",
+      "ncertPage": 3,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q11",
+      "chapterId": "c12_ps_ch01",
+      "question": "What does CIS stand for in the context of the post-Soviet era?",
+      "options": [
+        "Common Independent States",
+        "Commonwealth of Independent States",
+        "Council of Independent States",
+        "Coalition of International States"
+      ],
+      "correctIndex": 1,
+      "explanation": "The formation of the Commonwealth of Independent States (CIS) came as a surprise to the other republics.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q12",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which country inherited the Soviet seat in the UN Security Council?",
+      "options": [
+        "Ukraine",
+        "Belarus",
+        "Russia",
+        "Kazakhstan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Russia was accepted as the successor state of the Soviet Union and inherited the Soviet seat in the UN Security Council.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q13",
+      "chapterId": "c12_ps_ch01",
+      "question": "What was the immediate cause for the rise of nationalism in the Soviet republics like Estonia, Latvia, and Lithuania?",
+      "options": [
+        "Economic prosperity",
+        "Desire for sovereignty",
+        "Support for the Communist Party",
+        "Alliance with China"
+      ],
+      "correctIndex": 1,
+      "explanation": "The rise of nationalism and the desire for sovereignty within various republics including Russia and the Baltic republics (Estonia, Latvia and Lithuania) proved to be the final cause for the disintegration of the USSR.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q14",
+      "chapterId": "c12_ps_ch01",
+      "question": "One major reason for the Soviet Union's stagnation was that its resources were used primarily for:",
+      "options": [
+        "Public health and education",
+        "Space exploration and military",
+        "Consumer goods production",
+        "International tourism"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Soviet economy used much of its resources in maintaining a nuclear and military arsenal and the development of its satellite states in Eastern Europe and within the Soviet system.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q15",
+      "chapterId": "c12_ps_ch01",
+      "question": "With the disintegration of the Soviet Union, the Cold War era came to an end. This resulted in the end of which type of confrontation?",
+      "options": [
+        "Religious confrontation",
+        "Ideological confrontation",
+        "Territorial confrontation in Africa",
+        "Trade war with Japan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disintegration meant the end of the Cold War confrontations. The ideological dispute over whether the socialist system would beat the capitalist system was not an issue any more.",
+      "ncertPage": 6,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q16",
+      "chapterId": "c12_ps_ch01",
+      "question": "After the collapse of the Soviet Union, the world order transitioned to a ___________ system.",
+      "options": [
+        "Bipolar",
+        "Multipolar",
+        "Unipolar",
+        "Tripolar"
+      ],
+      "correctIndex": 2,
+      "explanation": "The end of the Cold War left open the possibility that either the remaining superpower would dominate and create a unipolar system.",
+      "ncertPage": 6,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q17",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which institutions became powerful advisors to all the transitional countries after the fall of the USSR?",
+      "options": [
+        "UNESCO and UNICEF",
+        "World Bank and International Monetary Fund (IMF)",
+        "NATO and Warsaw Pact",
+        "Greenpeace and Amnesty International"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capitalism became the dominant economic system. Institutions like the World Bank and the IMF became powerful advisors to these countries.",
+      "ncertPage": 6,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q18",
+      "chapterId": "c12_ps_ch01",
+      "question": "The model of transition from an authoritarian socialist system to a democratic capitalist system in Russia and Central Asia is called:",
+      "options": [
+        "The Marshall Plan",
+        "The New Deal",
+        "Shock Therapy",
+        "Operation Desert Storm"
+      ],
+      "correctIndex": 2,
+      "explanation": "The model of transition in Russia, Central Asia and East Europe that was influenced by the World Bank and the IMF came to be known as 'Shock Therapy'.",
+      "ncertPage": 7,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q19",
+      "chapterId": "c12_ps_ch01",
+      "question": "Shock Therapy involved a drastic change in which area of the economy?",
+      "options": [
+        "Shift from private to public ownership",
+        "Shift from state-controlled to private ownership",
+        "Increased subsidies for food",
+        "Banning of foreign trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shock Therapy meant a total shift to a capitalist economy, which meant rooting out any structures evolved during the Soviet period and private ownership being the dominant pattern.",
+      "ncertPage": 7,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q20",
+      "chapterId": "c12_ps_ch01",
+      "question": "What was the 'largest garage sale in history'?",
+      "options": [
+        "Selling of surplus military equipment to the US",
+        "The privatisation of valuable state-controlled industries in Russia at throwaway prices",
+        "A massive festival in Moscow in 1991",
+        "Selling of Soviet art to Europe"
+      ],
+      "correctIndex": 1,
+      "explanation": "The privatisation led to the 'largest garage sale in history', as valuable industries were undervalued and sold at throwaway prices.",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q21",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which Russian currency declined dramatically in value as a result of Shock Therapy?",
+      "options": [
+        "Dollar",
+        "Euro",
+        "Rouble",
+        "Yen"
+      ],
+      "correctIndex": 2,
+      "explanation": "The value of the rouble, the Russian currency, declined dramatically.",
+      "ncertPage": 8,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q22",
+      "chapterId": "c12_ps_ch01",
+      "question": "What happened to the old system of social welfare in Russia after the transition?",
+      "options": [
+        "It was strengthened",
+        "It was systematically destroyed as subsidies were withdrawn",
+        "It was replaced by a UN-led system",
+        "It remained unchanged"
+      ],
+      "correctIndex": 1,
+      "explanation": "The old system of social welfare was systematically destroyed. The withdrawal of government subsidies pushed large sections of the people into poverty.",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q23",
+      "chapterId": "c12_ps_ch01",
+      "question": "Russia started experiencing economic recovery around the year 2000, largely due to:",
+      "options": [
+        "American financial aid",
+        "Export of natural resources like oil, gas, and minerals",
+        "Agricultural boom",
+        "Tourism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Most of these economies, especially Russia, started reviving in 2000... the reason for a revival for most of their economies was the export of natural resources like oil, natural gas and minerals.",
+      "ncertPage": 9,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q24",
+      "chapterId": "c12_ps_ch01",
+      "question": "In Tajikistan, a civil war went on for ten years until which year?",
+      "options": [
+        "1991",
+        "1995",
+        "2001",
+        "2010"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Tajikistan, a civil war went on for ten years till 2001.",
+      "ncertPage": 9,
+      "difficulty": "HARD",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q25",
+      "chapterId": "c12_ps_ch01",
+      "question": "The two republics of Russia that experienced violent secessionist movements were:",
+      "options": [
+        "Lithuania and Estonia",
+        "Chechnya and Dagestan",
+        "Ukraine and Belarus",
+        "Georgia and Armenia"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Russia, two republics, Chechnya and Dagestan, have had violent secessionist movements.",
+      "ncertPage": 9,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q26",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which country split into two peaceful parts, the Czechs and the Slovaks?",
+      "options": [
+        "Yugoslavia",
+        "Czechoslovakia",
+        "Soviet Union",
+        "East Germany"
+      ],
+      "correctIndex": 1,
+      "explanation": "Czechoslovakia split peacefully into two, with the Czechs and the Slovaks forming independent countries.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q27",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which of the following was a severe case of conflict after 1991 where several provinces declared independence and a civil war ensued?",
+      "options": [
+        "Hungary",
+        "Poland",
+        "Yugoslavia",
+        "Bulgaria"
+      ],
+      "correctIndex": 2,
+      "explanation": "The most severe conflict took place in the Balkan republics of Yugoslavia. After 1991, it broke apart with several provinces like Croatia, Slovenia and Bosnia-Herzegovina declaring independence.",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q28",
+      "chapterId": "c12_ps_ch01",
+      "question": "India's relations with which post-Soviet country are the strongest?",
+      "options": [
+        "Uzbekistan",
+        "Kazakhstan",
+        "Russia",
+        "Estonia"
+      ],
+      "correctIndex": 2,
+      "explanation": "India’s relations with Russia are an important aspect of India’s foreign policy.",
+      "ncertPage": 10,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q29",
+      "chapterId": "c12_ps_ch01",
+      "question": "India and Russia share a vision of a ____________ world order.",
+      "options": [
+        "Unipolar",
+        "Bipolar",
+        "Multipolar",
+        "Socialist"
+      ],
+      "correctIndex": 2,
+      "explanation": "India and Russia share a vision of a multipolar world order.",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q30",
+      "chapterId": "c12_ps_ch01",
+      "question": "In which year was the Indo-Russian Strategic Agreement signed?",
+      "options": [
+        "1971",
+        "1991",
+        "2001",
+        "2010"
+      ],
+      "correctIndex": 2,
+      "explanation": "More than 80 bilateral agreements have been signed between India and Russia as part of the Indo-Russian Strategic Agreement of 2001.",
+      "ncertPage": 11,
+      "difficulty": "HARD",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q31",
+      "chapterId": "c12_ps_ch01",
+      "question": "What was a major benefit India received from Russia regarding energy?",
+      "options": [
+        "Russia provided free electricity",
+        "Russia is crucial for India’s nuclear energy plans and oil supplies",
+        "Russia built all of India's dams",
+        "Russia supplies coal for free"
+      ],
+      "correctIndex": 1,
+      "explanation": "India is the second largest arms market for Russia. Russia is important for India’s nuclear energy plans and assisted India’s space industry.",
+      "ncertPage": 11,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q32",
+      "chapterId": "c12_ps_ch01",
+      "question": "Who was the first elected President of Russia?",
+      "options": [
+        "Vladimir Putin",
+        "Boris Yeltsin",
+        "Mikhail Gorbachev",
+        "Leonid Brezhnev"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boris Yeltsin emerged as a popular leader and became the President of Russia after the 1991 coup.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q33",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which Soviet leader was involved in suppressing a popular rebellion in Czechoslovakia in 1968?",
+      "options": [
+        "Nikita Khrushchev",
+        "Leonid Brezhnev",
+        "Vladimir Lenin",
+        "Joseph Stalin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leonid Brezhnev was involved in the suppression of a popular rebellion in Czechoslovakia.",
+      "ncertPage": 4,
+      "difficulty": "HARD",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q34",
+      "chapterId": "c12_ps_ch01",
+      "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+      "options": [
+        "Joseph Stalin",
+        "Nikita Khrushchev",
+        "Mikhail Gorbachev",
+        "Vladimir Lenin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nikita Khrushchev was the leader of the USSR during the Cuban Missile Crisis.",
+      "ncertPage": 4,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q35",
+      "chapterId": "c12_ps_ch01",
+      "question": "The military alliance of the USSR, the Warsaw Pact, was created in which year?",
+      "options": [
+        "1945",
+        "1949",
+        "1955",
+        "1991"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Warsaw Pact was created in 1955.",
+      "ncertPage": 2,
+      "difficulty": "HARD",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q36",
+      "chapterId": "c12_ps_ch01",
+      "question": "What was the 'G-7'?",
+      "options": [
+        "A group of 7 socialist countries",
+        "A group of 7 highly industrialised capitalist countries",
+        "A group of 7 Middle Eastern nations",
+        "A group of 7 African nations"
+      ],
+      "correctIndex": 1,
+      "explanation": "The G-7 was a group of 7 highly industrialised capitalist countries.",
+      "ncertPage": 13,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q37",
+      "chapterId": "c12_ps_ch01",
+      "question": "Mikhail Gorbachev's decision to stop Soviet intervention in which region led to the collapse of communist regimes there?",
+      "options": [
+        "South Asia",
+        "East Europe",
+        "North America",
+        "Australia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gorbachev’s decision to normalise relations with the West and stop Soviet intervention in East Europe led to the collapse of communist regimes there.",
+      "ncertPage": 3,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q38",
+      "chapterId": "c12_ps_ch01",
+      "question": "The 'Second World' countries were those that followed the _________ pattern of development.",
+      "options": [
+        "Democratic",
+        "Capitalist",
+        "Socialist",
+        "Feudal"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Second World countries followed the socialist pattern of development under the USSR.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q39",
+      "chapterId": "c12_ps_ch01",
+      "question": "What was the 'New World Order' mentioned by some after the collapse of the USSR?",
+      "options": [
+        "A world led by Russia",
+        "A world led by the UN alone",
+        "A unipolar world led by the USA",
+        "A world divided among many small nations"
+      ],
+      "correctIndex": 2,
+      "explanation": "The collapse of the USSR left the US as the only superpower, leading some to describe the emerging order as a unipolar system.",
+      "ncertPage": 6,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q40",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which of the following was NOT a result of Shock Therapy?",
+      "options": [
+        "High inflation",
+        "Food imports in Russia",
+        "Collective farming was strengthened",
+        "Withdrawal of government subsidies"
+      ],
+      "correctIndex": 2,
+      "explanation": "Collective farming was replaced by private farming under Shock Therapy; it was not strengthened.",
+      "ncertPage": 8,
+      "difficulty": "HARD",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q41",
+      "chapterId": "c12_ps_ch01",
+      "question": "In the Soviet Union, who owned and controlled the land and productive assets?",
+      "options": [
+        "Private individuals",
+        "Foreign investors",
+        "The State",
+        "The workers directly"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the Soviet Union, the state owned and controlled the land and productive assets.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q42",
+      "chapterId": "c12_ps_ch01",
+      "question": "The Soviet system became very _________ and authoritarian, making life difficult for its citizens.",
+      "options": [
+        "Democratic",
+        "Bureaucratic",
+        "Liberal",
+        "Transparent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Soviet system became very bureaucratic and authoritarian, which led to a lack of democracy and freedom of speech.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q43",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which republic of the USSR was considered to have the most dominance over others?",
+      "options": [
+        "Ukraine",
+        "Russia",
+        "Georgia",
+        "Uzbekistan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Although on paper Russia was only one of the 15 republics, in reality it exercised dominance over everything.",
+      "ncertPage": 2,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q44",
+      "chapterId": "c12_ps_ch01",
+      "question": "The Soviet invasion of which country in 1979 weakened the system even further?",
+      "options": [
+        "Vietnam",
+        "Afghanistan",
+        "Korea",
+        "Egypt"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Soviet invasion of Afghanistan in 1979 weakened the system even further.",
+      "ncertPage": 5,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q45",
+      "chapterId": "c12_ps_ch01",
+      "question": "What happened to the 'mafia' in Russia after the economic transition?",
+      "options": [
+        "They were eliminated",
+        "They emerged and started controlling many economic activities",
+        "They joined the government",
+        "They fled to the US"
+      ],
+      "correctIndex": 1,
+      "explanation": "A mafia emerged in most of these countries and started controlling many economic activities after the collapse of the state-controlled system.",
+      "ncertPage": 8,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q46",
+      "chapterId": "c12_ps_ch01",
+      "question": "The Central Asian republics are rich in which type of resources?",
+      "options": [
+        "Hydrocarbon (oil and gas)",
+        "Gold and Diamond",
+        "Coal and Iron",
+        "Timber"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Central Asian republics have huge hydrocarbon resources, which have given them economic benefit.",
+      "ncertPage": 9,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q47",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which international power has established military bases in Central Asia after the 9/11 attacks?",
+      "options": [
+        "China",
+        "India",
+        "The US",
+        "France"
+      ],
+      "correctIndex": 2,
+      "explanation": "After 11 September 2001, the US wanted military bases in the region and paid the governments of Central Asian states to hire bases.",
+      "ncertPage": 10,
+      "difficulty": "MEDIUM",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q48",
+      "chapterId": "c12_ps_ch01",
+      "question": "Russia has assisted India on which major issue in the UN?",
+      "options": [
+        "Climate Change",
+        "Kashmir",
+        "Human Rights in Africa",
+        "Trade tariffs"
+      ],
+      "correctIndex": 1,
+      "explanation": "India stands to benefit from its relationship with Russia on issues like Kashmir and energy supplies.",
+      "ncertPage": 11,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q49",
+      "chapterId": "c12_ps_ch01",
+      "question": "What is the primary language used in the diplomatic and strategic documents between India and Russia?",
+      "options": [
+        "Russian",
+        "Hindi",
+        "English",
+        "French"
+      ],
+      "correctIndex": 2,
+      "explanation": "Most bilateral agreements and documents between India and Russia are in English.",
+      "ncertPage": 11,
+      "difficulty": "HARD",
+      "subject": "Political Science"
+    },
+    {
+      "mcqId": "c12ps_ch01_q50",
+      "chapterId": "c12_ps_ch01",
+      "question": "Which event marked the definitive 'End of Bipolarity'?",
+      "options": [
+        "Fall of the Berlin Wall",
+        "End of the Vietnam War",
+        "Disintegration of the Soviet Union",
+        "Signing of the SALT treaty"
+      ],
+      "correctIndex": 2,
+      "explanation": "The disintegration of the Soviet Union in 1991 marked the definitive end of the bipolar world order.",
+      "ncertPage": 3,
+      "difficulty": "EASY",
+      "subject": "Political Science"
+    }
+  ]
+}
