@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bs_ch7_q1",
+      "chapterId": "bs_ch7",
+      "question": "Which function of management is referred to as the 'management in action'?",
+      "options": [
+        "Planning",
+        "Organising",
+        "Staffing",
+        "Directing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Directing is considered the life-spark of the enterprise which sets it in motion; it translates plans into action, hence called 'management in action'.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q2",
+      "chapterId": "bs_ch7",
+      "question": "At which level of management is the directing function performed?",
+      "options": [
+        "Top level only",
+        "Middle level only",
+        "Lower level only",
+        "All levels"
+      ],
+      "correctIndex": 3,
+      "explanation": "Directing takes place at every level of management. Every manager, from the top executive to the first-line supervisor, performs the function of directing.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q3",
+      "chapterId": "bs_ch7",
+      "question": "Directing flows in which direction within the formal organizational hierarchy?",
+      "options": [
+        "Upward",
+        "Downward",
+        "Horizontal",
+        "Diagonal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Directing flows downward through the formal organizational hierarchy, originating at the top and traveling down to the operational level.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q4",
+      "chapterId": "bs_ch7",
+      "question": "Which of the following is NOT an element of directing?",
+      "options": [
+        "Supervision",
+        "Motivation",
+        "Leadership",
+        "Budgeting"
+      ],
+      "correctIndex": 3,
+      "explanation": "The four main elements of directing are Supervision, Motivation, Leadership, and Communication. Budgeting is a part of planning and controlling.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q5",
+      "chapterId": "bs_ch7",
+      "question": "What is the primary role of supervision in an organization?",
+      "options": [
+        "Creating plans",
+        "Evaluating financial results",
+        "Overseeing the work of subordinates",
+        "Hiring new staff"
+      ],
+      "correctIndex": 2,
+      "explanation": "Supervision means instructing, guiding, and overseeing the work of subordinates to ensure that they perform their tasks according to plans.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q6",
+      "chapterId": "bs_ch7",
+      "question": "The process of stimulating people to action to accomplish desired goals is known as:",
+      "options": [
+        "Communication",
+        "Motivation",
+        "Leadership",
+        "Supervision"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motivation is the process of making subordinates act in a desired manner to achieve certain organizational goals by satisfying their needs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q7",
+      "chapterId": "bs_ch7",
+      "question": "Motivation is considered a ________ phenomenon as it comes from within an individual.",
+      "options": [
+        "Physical",
+        "Financial",
+        "Psychological",
+        "Social"
+      ],
+      "correctIndex": 2,
+      "explanation": "Motivation is an internal, psychological feeling. The urges, drives, or needs of human beings influence their behavior.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q8",
+      "chapterId": "bs_ch7",
+      "question": "According to Maslow's Need Hierarchy, which needs are the most basic and at the bottom of the pyramid?",
+      "options": [
+        "Safety needs",
+        "Self-actualisation needs",
+        "Physiological needs",
+        "Esteem needs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Physiological needs are the most basic in the hierarchy and correspond to primary survival needs like hunger, thirst, and shelter.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q9",
+      "chapterId": "bs_ch7",
+      "question": "In Maslow's hierarchy, 'Affiliation or Social Needs' refer to the need for:",
+      "options": [
+        "Job security",
+        "Love and affection",
+        "Promotion",
+        "Self-fulfillment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Affiliation/Social needs emerge once safety needs are met and refer to the human desire for affection, belongingness, acceptance, and friendship.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q10",
+      "chapterId": "bs_ch7",
+      "question": "What is the highest level of need in Maslow's hierarchy?",
+      "options": [
+        "Esteem needs",
+        "Safety needs",
+        "Self-actualisation needs",
+        "Basic physiological needs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Self-actualisation is the highest level of need, representing the drive to become everything one is capable of becoming (maximizing potential).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q11",
+      "chapterId": "bs_ch7",
+      "question": "Monetary incentives or rewards that can be measured in terms of money are called:",
+      "options": [
+        "Non-financial incentives",
+        "Financial incentives",
+        "Social incentives",
+        "Intrinsic rewards"
+      ],
+      "correctIndex": 1,
+      "explanation": "Financial incentives refer to rewards or inducements which are in direct monetary form or are easily measurable in monetary terms.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q12",
+      "chapterId": "bs_ch7",
+      "question": "Which of the following is an example of a financial incentive?",
+      "options": [
+        "Job security",
+        "Status",
+        "Profit sharing",
+        "Employee recognition"
+      ],
+      "correctIndex": 2,
+      "explanation": "Profit sharing is a financial incentive where employees are given a share in the monetary profits of the organisation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q13",
+      "chapterId": "bs_ch7",
+      "question": "The incentive that provides a psychological or emotional satisfaction rather than money is:",
+      "options": [
+        "Bonus",
+        "Commission",
+        "Non-financial incentive",
+        "Perquisites"
+      ],
+      "correctIndex": 2,
+      "explanation": "Incentives which provide psychological or social satisfaction (like status, recognition) and are not measurable in terms of money are non-financial incentives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q14",
+      "chapterId": "bs_ch7",
+      "question": "What does 'Job Enrichment' as a non-financial incentive involve?",
+      "options": [
+        "Increasing the salary",
+        "Designing jobs with higher variety of content and responsibility",
+        "Providing permanent jobs",
+        "Giving a better cabin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Job enrichment is concerned with designing jobs that include greater variety of work content, require higher-level knowledge, and provide more autonomy and responsibility.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q15",
+      "chapterId": "bs_ch7",
+      "question": "The process of influencing the behaviour of people by making them strive voluntarily towards achievement of organisational goals is:",
+      "options": [
+        "Communication",
+        "Supervision",
+        "Leadership",
+        "Management"
+      ],
+      "correctIndex": 2,
+      "explanation": "Leadership is defined as the process of influencing the behavior of people to make them strive voluntarily towards the achievement of organizational goals.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q16",
+      "chapterId": "bs_ch7",
+      "question": "Which leadership style is also known as 'Leader-Centred' leadership?",
+      "options": [
+        "Democratic",
+        "Laissez-faire",
+        "Autocratic",
+        "Participative"
+      ],
+      "correctIndex": 2,
+      "explanation": "An autocratic (authoritarian) leader assumes full power, gives orders, and expects subordinates to obey without question, making it highly leader-centred.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q17",
+      "chapterId": "bs_ch7",
+      "question": "In which leadership style does the leader develop action plans and make decisions in consultation with subordinates?",
+      "options": [
+        "Autocratic",
+        "Democratic",
+        "Free-rein",
+        "Authoritarian"
+      ],
+      "correctIndex": 1,
+      "explanation": "A democratic or participative leader involves subordinates in the decision-making process and develops action plans in consultation with them.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q18",
+      "chapterId": "bs_ch7",
+      "question": "The leadership style where the leader gives a high degree of independence to subordinates and acts only as a contact person is:",
+      "options": [
+        "Autocratic",
+        "Democratic",
+        "Laissez-faire",
+        "Dictatorial"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laissez-faire or free-rein leaders do not believe in the use of power unless absolutely essential. Subordinates are given a high degree of independence to formulate their own objectives.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q19",
+      "chapterId": "bs_ch7",
+      "question": "Communication is defined as the exchange of ________ between two or more persons to create common understanding.",
+      "options": [
+        "Money",
+        "Facts and ideas",
+        "Machines",
+        "Hierarchies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Communication is a process of exchange of facts, ideas, opinions, or emotions between two or more persons to create a common understanding.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q20",
+      "chapterId": "bs_ch7",
+      "question": "In the communication process, 'Encoding' refers to:",
+      "options": [
+        "Receiving the message",
+        "Converting the message into communication symbols",
+        "Interpreting the symbols",
+        "The feedback received"
+      ],
+      "correctIndex": 1,
+      "explanation": "Encoding is the process where the sender converts their idea or message into communication symbols such as words, pictures, or gestures.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q21",
+      "chapterId": "bs_ch7",
+      "question": "What is 'Decoding' in the communication process?",
+      "options": [
+        "Transmitting the message",
+        "Converting symbols into meaning",
+        "Choosing the channel",
+        "Generating the idea"
+      ],
+      "correctIndex": 1,
+      "explanation": "Decoding is the process by which the receiver interprets and converts the encoded symbols of the sender back into meaning.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q22",
+      "chapterId": "bs_ch7",
+      "question": "Any obstruction or hindrance to communication is called:",
+      "options": [
+        "Media",
+        "Channel",
+        "Noise",
+        "Feedback"
+      ],
+      "correctIndex": 2,
+      "explanation": "Noise refers to some obstruction or hindrance to communication. This hindrance may be caused by the sender, the message, or the receiver.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q23",
+      "chapterId": "bs_ch7",
+      "question": "Formal communication that flows from a superior to a subordinate is called:",
+      "options": [
+        "Upward communication",
+        "Downward communication",
+        "Horizontal communication",
+        "Diagonal communication"
+      ],
+      "correctIndex": 1,
+      "explanation": "Downward communication refers to the flow of information or instructions from a superior to a subordinate.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q24",
+      "chapterId": "bs_ch7",
+      "question": "Communication taking place between two divisions of the same organization at the same level is:",
+      "options": [
+        "Vertical",
+        "Upward",
+        "Horizontal",
+        "Formal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Horizontal or lateral communication takes place between one division and another at the same hierarchical level (e.g., between two department heads).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q25",
+      "chapterId": "bs_ch7",
+      "question": "The network of informal communication is popularly known as:",
+      "options": [
+        "Chain network",
+        "Wheel network",
+        "Grapevine",
+        "Formal channel"
+      ],
+      "correctIndex": 2,
+      "explanation": "The informal communication network is called the grapevine because its branches spread throughout the organization in all directions without regard to formal authority.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q26",
+      "chapterId": "bs_ch7",
+      "question": "Barriers related to the encoding and decoding of a message in terms of words and symbols are:",
+      "options": [
+        "Psychological barriers",
+        "Semantic barriers",
+        "Organisational barriers",
+        "Personal barriers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Semantic barriers are concerned with problems and obstructions in the process of encoding and decoding of a message into words or impressions.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q27",
+      "chapterId": "bs_ch7",
+      "question": "A lack of attention by the receiver while the sender is speaking is which type of barrier?",
+      "options": [
+        "Semantic barrier",
+        "Psychological barrier",
+        "Organisational barrier",
+        "Technical barrier"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lack of attention is a psychological barrier. A preoccupied mind of the receiver results in non-listening, acting as a major hindrance.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q28",
+      "chapterId": "bs_ch7",
+      "question": "Status or 'Rigid Rules and Regulations' in an organization act as which type of barrier?",
+      "options": [
+        "Personal barrier",
+        "Semantic barrier",
+        "Organisational barrier",
+        "Psychological barrier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Factors related to the organization structure, authority relationships, and rigid rules may act as organizational barriers to effective communication.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q29",
+      "chapterId": "bs_ch7",
+      "question": "Which of the following is a measure to improve communication effectiveness?",
+      "options": [
+        "Using technical jargon",
+        "Communicating according to the needs of the receiver",
+        "Avoiding feedback",
+        "Relying only on formal channels"
+      ],
+      "correctIndex": 1,
+      "explanation": "A manager should adjust communication according to the education and understanding levels of the receiver to make it effective.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q30",
+      "chapterId": "bs_ch7",
+      "question": "Directing is necessary because it initiates ________ in the organization.",
+      "options": [
+        "Planning",
+        "Action",
+        "Staffing",
+        "Selection"
+      ],
+      "correctIndex": 1,
+      "explanation": "Directing is the function that actually initiates action by people in the organization towards the attainment of desired objectives.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q31",
+      "chapterId": "bs_ch7",
+      "question": "Motivation can be ________.",
+      "options": [
+        "Positive only",
+        "Negative only",
+        "Either positive or negative",
+        "Neither"
+      ],
+      "correctIndex": 2,
+      "explanation": "Motivation can be either positive (providing rewards like a pay increase) or negative (using means like punishment or fear of job loss).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q32",
+      "chapterId": "bs_ch7",
+      "question": "In the directing principle of 'Unity of Command', a subordinate should receive instructions from:",
+      "options": [
+        "All managers",
+        "Two superiors",
+        "Only one superior",
+        "Directly from the CEO"
+      ],
+      "correctIndex": 2,
+      "explanation": "This principle insists that a person in the organization should receive instructions from and report to one superior only to avoid confusion.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q33",
+      "chapterId": "bs_ch7",
+      "question": "What is 'Perquisites' as a financial incentive?",
+      "options": [
+        "Monthly salary",
+        "Bonus",
+        "Allowances like car or housing beyond salary",
+        "Stock options"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perquisites (Perks) include fringe benefits and allowances like car allowance, housing, medical aid, etc., offered over and above the basic salary.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q34",
+      "chapterId": "bs_ch7",
+      "question": "Which leadership quality involves the ability to convince others to behave in a particular manner?",
+      "options": [
+        "Self-confidence",
+        "Integrity",
+        "Persuasiveness",
+        "Communication skills"
+      ],
+      "correctIndex": 2,
+      "explanation": "Persuasiveness is the capacity of a leader to influence and convince others without coercion.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q35",
+      "chapterId": "bs_ch7",
+      "question": "A manager who uses 'Fear of Dismissal' to get work done is using which type of motivation?",
+      "options": [
+        "Positive",
+        "Negative",
+        "Intrinsic",
+        "Social"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negative motivation utilizes negative means like fear of punishment, stopping increments, or threatening dismissal to extract work.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q36",
+      "chapterId": "bs_ch7",
+      "question": "Which of the following is a characteristic of leadership?",
+      "options": [
+        "It is a one-time process",
+        "It involves a superior-subordinate relationship",
+        "It creates conflict",
+        "It is done alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leadership is inherently exercised in a relationship where a leader influences a follower (often superior-subordinate).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q37",
+      "chapterId": "bs_ch7",
+      "question": "In the communication process, 'Media' refers to:",
+      "options": [
+        "The person who sends the message",
+        "The symbol used",
+        "The path through which the message is transmitted",
+        "The receiver"
+      ],
+      "correctIndex": 2,
+      "explanation": "Media (or Channel) is the path or vehicle through which the encoded message is transmitted to the receiver (e.g., face-to-face, phone, email).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q38",
+      "chapterId": "bs_ch7",
+      "question": "What is the 'Single Strand Network' in informal communication?",
+      "options": [
+        "Leader communicates with everyone in a wheel",
+        "Each person communicates with the next in sequence",
+        "Someone communicates with everyone randomly",
+        "One person tells everyone he trusts"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a single strand network of a grapevine, information is passed sequentially from one person to the next in a long line.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q39",
+      "chapterId": "bs_ch7",
+      "question": "In which informal network does an individual share information with everyone on a non-selective basis?",
+      "options": [
+        "Gossip network",
+        "Probability network",
+        "Cluster network",
+        "Single strand"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a gossip network, an individual communicates the message with everyone they encounter on a non-selective basis.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q40",
+      "chapterId": "bs_ch7",
+      "question": "What is the 'Cluster' network in grapevine communication?",
+      "options": [
+        "One person tells everyone",
+        "Information moves in a straight line",
+        "An individual communicates with only those people he trusts",
+        "People talk randomly"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a cluster network, the individual communicates only with trusted people, and then one or two from that group pass it to their trusted circles.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q41",
+      "chapterId": "bs_ch7",
+      "question": "Directing helps in 'Integrating Employee Efforts' by:",
+      "options": [
+        "Firing employees who don't agree",
+        "Ensuring every individual effort contributes to organisational objectives",
+        "Keeping everyone separate",
+        "Only focusing on top level goals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Directing integrates the diverse efforts of employees so that each individual's contribution aligns towards the overall organizational objectives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q42",
+      "chapterId": "bs_ch7",
+      "question": "A manager who reconciles personal goals with organizational goals is following which principle of directing?",
+      "options": [
+        "Unity of Command",
+        "Maximum Individual Contribution",
+        "Harmony of Objectives",
+        "Appropriateness of Directing Technique"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'Harmony of Objectives' principle states that a manager should reconcile personal goals with organizational goals for effective directing.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q43",
+      "chapterId": "bs_ch7",
+      "question": "Motivation is a 'Complex' process because:",
+      "options": [
+        "It is easy to understand",
+        "Individuals are heterogeneous and have different expectations",
+        "It only involves money",
+        "It is done by robots"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motivation is complex because individuals are heterogeneous in their expectations, perceptions, and reactions, meaning one approach does not fit all.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q44",
+      "chapterId": "bs_ch7",
+      "question": "In Maslow's theory, when one need is largely satisfied, it ________.",
+      "options": [
+        "Becomes more important",
+        "Remains the same",
+        "No longer motivates the individual",
+        "Doubles in intensity"
+      ],
+      "correctIndex": 2,
+      "explanation": "According to Maslow, a satisfied need can no longer act as a motivator; only the next higher level need can motivate the individual.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q45",
+      "chapterId": "bs_ch7",
+      "question": "What is the 'Stock Option' incentive?",
+      "options": [
+        "Giving free shares to customers",
+        "Offering shares at a price lower than market price to employees",
+        "Selling all stocks to competitors",
+        "Dividing profits equally"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under stock option or co-partnership schemes, employees are offered company shares at a set price which is usually lower than the market price.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q46",
+      "chapterId": "bs_ch7",
+      "question": "The 'Organisational Climate' as a non-financial incentive refers to:",
+      "options": [
+        "The weather in the office",
+        "Characteristics like individual autonomy and reward orientation",
+        "The building architecture",
+        "The location of the firm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Organisational climate indicates characteristics which describe an organisation (such as autonomy, reward orientation) that influence employee behavior.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q47",
+      "chapterId": "bs_ch7",
+      "question": "Effective leadership leads to 'Better management of change' by:",
+      "options": [
+        "Forcing people to change",
+        "Influencing people to accept and carry out changes with less resistance",
+        "Ignoring the need for change",
+        "Reducing staff during change"
+      ],
+      "correctIndex": 1,
+      "explanation": "A good leader persuades, clarifies, and inspires people to accept necessary organizational changes whole-heartedly rather than resisting them.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q48",
+      "chapterId": "bs_ch7",
+      "question": "The 'Inverted V' network in formal communication means:",
+      "options": [
+        "A subordinate communicates only with his direct boss",
+        "A subordinate communicates with his boss and his boss's superior",
+        "Everyone talks to everyone",
+        "Leader talks only to one person"
+      ],
+      "correctIndex": 1,
+      "explanation": "In an inverted V network, a subordinate is allowed to communicate with his immediate superior as well as his superior's superior, though the immediate boss is the primary route.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q49",
+      "chapterId": "bs_ch7",
+      "question": "Faulty translations or unclarified assumptions are examples of which type of communication barrier?",
+      "options": [
+        "Psychological",
+        "Organisational",
+        "Semantic",
+        "Personal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Semantic barriers deal with language, meaning, and translation issues, including badly expressed messages or unclarified assumptions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch7_q50",
+      "chapterId": "bs_ch7",
+      "question": "A manager should 'Follow up' his communication to:",
+      "options": [
+        "Harass subordinates",
+        "Check response and see if instructions are understood and implemented",
+        "Fire employees who didn't listen",
+        "Change the message"
+      ],
+      "correctIndex": 1,
+      "explanation": "Follow-up is a measure to improve communication effectiveness by checking if the instructions were understood and acted upon correctly.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    }
+  ]
+}

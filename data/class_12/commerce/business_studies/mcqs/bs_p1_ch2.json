@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bst_ch2_q1",
+      "chapterId": "bst_ch2",
+      "question": "What is a 'principle of management'?",
+      "options": [
+        "A rigid rule that must be followed without change",
+        "A broad and general guideline for decision-making and behavior",
+        "A technical procedure for manufacturing goods",
+        "A mathematical formula for calculating profit"
+      ],
+      "correctIndex": 1,
+      "explanation": "A managerial principle is a broad and general guideline for decision-making and behavior, unlike pure science principles which are rigid.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q2",
+      "chapterId": "bst_ch2",
+      "question": "Management principles are NOT as rigid as principles of:",
+      "options": [
+        "Art",
+        "Pure Science",
+        "Business",
+        "Law"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management principles are not as rigid as principles of pure science because they deal with human behavior, which is unpredictable and dynamic.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q3",
+      "chapterId": "bst_ch2",
+      "question": "How are principles of management formed?",
+      "options": [
+        "In a laboratory overnight",
+        "By the decrees of the government",
+        "Experience and collective wisdom of managers as well as experimentation",
+        "By the customers of the organization"
+      ],
+      "correctIndex": 2,
+      "explanation": "Management principles are derived through continuous observation, experimentation, and the accumulated experience of managers over time.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q4",
+      "chapterId": "bst_ch2",
+      "question": "The applicability of management principles to all types of organizations is known as:",
+      "options": [
+        "Flexibility",
+        "Universal applicability",
+        "Contingency",
+        "Behavioral nature"
+      ],
+      "correctIndex": 1,
+      "explanation": "Universal applicability means that management principles are intended to apply to all types of organizations, whether business or non-business, small or large.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q5",
+      "chapterId": "bst_ch2",
+      "question": "Management principles can be modified by the manager when the situation demands. This shows that they are:",
+      "options": [
+        "Rigid",
+        "Contingent",
+        "Flexible",
+        "General guidelines"
+      ],
+      "correctIndex": 2,
+      "explanation": "Principles of management are not rigid prescriptions; their flexibility allows managers to modify them based on changing circumstances.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q6",
+      "chapterId": "bst_ch2",
+      "question": "The application of management principles is dependent upon the prevailing situation at a particular point of time. This feature is called:",
+      "options": [
+        "Contingent",
+        "Flexible",
+        "Universal",
+        "Behavioral"
+      ],
+      "correctIndex": 0,
+      "explanation": "The application of principles of management is contingent or dependent upon the prevailing situation at a particular point of time.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q7",
+      "chapterId": "bst_ch2",
+      "question": "Principles of management emphasize 'cause and effect' relationships. This helps in:",
+      "options": [
+        "Predicting the outcome of managerial actions",
+        "Reducing the cost of production",
+        "Increasing the sales volume",
+        "Hiring new employees"
+      ],
+      "correctIndex": 0,
+      "explanation": "By establishing cause and effect relationships, principles help managers predict the probable outcome if a certain principle is applied in a given situation.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q8",
+      "chapterId": "bst_ch2",
+      "question": "Which of the following is NOT a significance of management principles?",
+      "options": [
+        "Providing managers with useful insights into reality",
+        "Optimum utilization of resources",
+        "Scientific decisions",
+        "Meeting the requirements of only large enterprises"
+      ],
+      "correctIndex": 3,
+      "explanation": "Management principles are universally applicable and significant for all enterprises, not just large ones.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q9",
+      "chapterId": "bst_ch2",
+      "question": "Who is known as the 'Father of Scientific Management'?",
+      "options": [
+        "Henri Fayol",
+        "F.W. Taylor",
+        "Max Weber",
+        "Peter Drucker"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frederick Winslow Taylor (1856-1915) pioneered the scientific approach to management and is known as the founder of Scientific Management.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q10",
+      "chapterId": "bst_ch2",
+      "question": "Taylor's principle 'Science, Not Rule of Thumb' means:",
+      "options": [
+        "Management should be based on personal intuition",
+        "Standard methods should be developed through study and analysis",
+        "Rules should be followed without questioning",
+        "Work should be done manually without machines"
+      ],
+      "correctIndex": 1,
+      "explanation": "It means replacing intuition or trial-and-error ('rule of thumb') with scientific investigation to find the 'one best way' of doing a job.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q11",
+      "chapterId": "bst_ch2",
+      "question": "The concept of 'Mental Revolution' was proposed by:",
+      "options": [
+        "Henri Fayol",
+        "F.W. Taylor",
+        "Frank Gilbreth",
+        "Herbert Simon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taylor called for a 'Mental Revolution' which involves a complete change in the attitude of workers and management towards each other, promoting cooperation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q12",
+      "chapterId": "bst_ch2",
+      "question": "Under functional foremanship, who is responsible for maintaining the 'speed' of the work?",
+      "options": [
+        "Instruction card clerk",
+        "Route clerk",
+        "Speed boss",
+        "Gang boss"
+      ],
+      "correctIndex": 2,
+      "explanation": "Under the production in-charge, the speed boss is responsible for ensuring timely and accurate completion of the job.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q13",
+      "chapterId": "bst_ch2",
+      "question": "Which boss under functional foremanship keeps the machines and tools ready for operation?",
+      "options": [
+        "Repair boss",
+        "Gang boss",
+        "Inspector",
+        "Route clerk"
+      ],
+      "correctIndex": 1,
+      "explanation": "The gang boss is responsible for keeping machines and tools ready for operation by the workers.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q14",
+      "chapterId": "bst_ch2",
+      "question": "What was the purpose of 'Method Study' in scientific management?",
+      "options": [
+        "To find the one best way to do the job",
+        "To calculate the time required for a job",
+        "To determine the number of workers needed",
+        "To design new machinery"
+      ],
+      "correctIndex": 0,
+      "explanation": "The objective of method study is to find out the 'one best way' of doing the job to minimize production cost and maximize quality.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q15",
+      "chapterId": "bst_ch2",
+      "question": "The study which determines the 'standard time' taken to perform a well-defined job is:",
+      "options": [
+        "Method study",
+        "Motion study",
+        "Time study",
+        "Fatigue study"
+      ],
+      "correctIndex": 2,
+      "explanation": "Time study involves observing and recording the time taken to perform a well-defined job to establish standard time targets.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q16",
+      "chapterId": "bst_ch2",
+      "question": "What is the primary objective of 'Motion Study'?",
+      "options": [
+        "To increase the speed of machines",
+        "To eliminate unproductive movements",
+        "To set the piece rate of wages",
+        "To decrease the working hours"
+      ],
+      "correctIndex": 1,
+      "explanation": "Motion study involves analyzing workers' movements to eliminate unnecessary and wasteful motions, saving time and effort.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q17",
+      "chapterId": "bst_ch2",
+      "question": "According to Taylor, 'Fatigue Study' determines:",
+      "options": [
+        "The salary of workers",
+        "The number and frequency of rest intervals",
+        "The best way to sit",
+        "The age of retirement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fatigue study seeks to determine the amount and frequency of rest intervals needed in completing a task to maintain stamina.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q18",
+      "chapterId": "bst_ch2",
+      "question": "The wage system that rewards efficient workers with higher pay is:",
+      "options": [
+        "Uniform wage system",
+        "Differential piece rate system",
+        "Time-based wage system",
+        "Fixed salary system"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taylor proposed the Differential Piece Rate System to differentiate between efficient and inefficient workers and reward efficiency with higher rates.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q19",
+      "chapterId": "bst_ch2",
+      "question": "Who developed the 14 Principles of Management?",
+      "options": [
+        "F.W. Taylor",
+        "Henri Fayol",
+        "Max Weber",
+        "Elton Mayo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Henri Fayol, a French management theorist, developed 14 general principles of management based on his experience.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q20",
+      "chapterId": "bst_ch2",
+      "question": "The principle that suggests work should be divided into small tasks to achieve specialization is:",
+      "options": [
+        "Unity of Command",
+        "Division of Work",
+        "Discipline",
+        "Centralization"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to Fayol, the intent of 'Division of Work' is to produce more and better work with the same effort through specialization.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q21",
+      "chapterId": "bst_ch2",
+      "question": "What is the 'Principle of Authority and Responsibility'?",
+      "options": [
+        "Authority should be less than responsibility",
+        "Responsibility should be less than authority",
+        "There should be a balance between authority and responsibility",
+        "Managers should have no responsibility"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fayol emphasized that there must be a balance (parity) between authority and responsibility; giving authority without responsibility leads to irresponsible behavior, and vice versa makes a person ineffective.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q22",
+      "chapterId": "bst_ch2",
+      "question": "The obedience to organizational rules and the employment agreement is:",
+      "options": [
+        "Order",
+        "Discipline",
+        "Unity of Command",
+        "Stability"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discipline refers to obedience to organizational rules and employment agreements which are necessary for the smooth working of the enterprise.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q23",
+      "chapterId": "bst_ch2",
+      "question": "Which principle states that an employee should receive orders from one superior only?",
+      "options": [
+        "Unity of Direction",
+        "Unity of Command",
+        "Scalar Chain",
+        "Centralization"
+      ],
+      "correctIndex": 1,
+      "explanation": "The principle of Unity of Command dictates that an employee should receive orders from and be accountable to only one boss to avoid confusion.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q24",
+      "chapterId": "bst_ch2",
+      "question": "If 'Unity of Command' is violated, it results in:",
+      "options": [
+        "Increased productivity",
+        "Authority being undermined and order being disturbed",
+        "Higher employee satisfaction",
+        "More specialization"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fayol noted that if Unity of Command is violated, 'authority is undermined, discipline is in jeopardy, order disturbed and stability threatened.'",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q25",
+      "chapterId": "bst_ch2",
+      "question": "The principle 'One Head, One Plan' refers to:",
+      "options": [
+        "Unity of Command",
+        "Unity of Direction",
+        "Scalar Chain",
+        "Order"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unity of Direction means that each group of activities having the same objective must have one head and one plan to ensure coordination.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q26",
+      "chapterId": "bst_ch2",
+      "question": "Fayol's principle regarding the 'Subordination of Individual Interest to General Interest' means:",
+      "options": [
+        "Managers should focus on their own goals",
+        "Organization's interest should come first over individual interests",
+        "Workers should be allowed to do whatever they want",
+        "Personal goals are more important than profit"
+      ],
+      "correctIndex": 1,
+      "explanation": "This principle states that the interests of an organization should take priority over the interests of any one individual employee.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q27",
+      "chapterId": "bst_ch2",
+      "question": "Remuneration of employees should be:",
+      "options": [
+        "As low as possible to save money",
+        "Just and equitable to both employees and the organization",
+        "Determined by the workers only",
+        "Always the same regardless of performance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Remuneration should be just and equitable. It should provide a reasonable standard of living to employees while remaining within the paying capacity of the company.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q28",
+      "chapterId": "bst_ch2",
+      "question": "The concentration of decision-making authority is called ________, while its dispersal is called ________.",
+      "options": [
+        "Delegation, Decentralization",
+        "Centralization, Decentralization",
+        "Authority, Responsibility",
+        "Planning, Execution"
+      ],
+      "correctIndex": 1,
+      "explanation": "Centralization is the concentration of decision-making authority, whereas decentralization is its dispersal among more than one person.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q29",
+      "chapterId": "bst_ch2",
+      "question": "What is the 'Scalar Chain'?",
+      "options": [
+        "A chain used in factories",
+        "The formal line of authority from highest to lowest rank",
+        "The sequence of manufacturing steps",
+        "A network of friends in the office"
+      ],
+      "correctIndex": 1,
+      "explanation": "The scalar chain is the formal line of authority and communication stretching from the highest executive to the lowest ranks.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q30",
+      "chapterId": "bst_ch2",
+      "question": "The provision that allows direct communication between people of the same rank in case of emergency is:",
+      "options": [
+        "Gang Plank",
+        "Direct Plank",
+        "Emergency Link",
+        "Scalar Jump"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fayol introduced the 'Gang Plank' to permit direct communication between employees at the same level to avoid delays in emergencies.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q31",
+      "chapterId": "bst_ch2",
+      "question": "The 'Principle of Order' states that:",
+      "options": [
+        "Employees should be ordered around by bosses",
+        "There should be a place for everything and everyone, and everything/everyone in its place",
+        "The boss's orders are final",
+        "Orders must be written on paper"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to Fayol, 'People and materials must be in suitable places at appropriate time for maximum efficiency,' highlighting material and social order.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q32",
+      "chapterId": "bst_ch2",
+      "question": "Which principle emphasizes kindliness and justice in the behavior of managers towards workers?",
+      "options": [
+        "Discipline",
+        "Equity",
+        "Stability of Tenure",
+        "Initiative"
+      ],
+      "correctIndex": 1,
+      "explanation": "Equity means dealing with employees with kindliness and justice to ensure their loyalty and devotion.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q33",
+      "chapterId": "bst_ch2",
+      "question": "The principle that employee turnover should be minimized to maintain efficiency is:",
+      "options": [
+        "Equity",
+        "Stability of Personnel",
+        "Order",
+        "Espirit de Corps"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stability of personnel means minimizing employee turnover, as time is required to settle into a job, and frequent changes harm efficiency.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q34",
+      "chapterId": "bst_ch2",
+      "question": "Allowing workers to take the first step with self-motivation to carry out plans is the principle of:",
+      "options": [
+        "Equity",
+        "Initiative",
+        "Unity of Direction",
+        "Order"
+      ],
+      "correctIndex": 1,
+      "explanation": "Initiative means taking the first step with self-motivation; Fayol believed employees should be encouraged to develop and carry out improvement plans.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q35",
+      "chapterId": "bst_ch2",
+      "question": "The principle 'Espirit de Corps' means:",
+      "options": [
+        "Management should use 'I' instead of 'We'",
+        "Management should promote team spirit and unity",
+        "Every corps should have a manager",
+        "Authority should be centralized"
+      ],
+      "correctIndex": 1,
+      "explanation": "Espirit de Corps translates to team spirit; management should promote unity and harmony among employees.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q36",
+      "chapterId": "bst_ch2",
+      "question": "A major difference between Taylor and Fayol is that Taylor's principles apply to the ________ while Fayol's apply to the ________.",
+      "options": [
+        "Top management, Shop floor",
+        "Shop floor, Top management",
+        "Human resources, Machinery",
+        "Finance, Marketing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taylor’s focus was on the shop floor (production level efficiency), whereas Fayol’s principles were designed for top management and general administration.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q37",
+      "chapterId": "bst_ch2",
+      "question": "Taylor's 'Functional Foremanship' is a direct violation of Fayol's principle of:",
+      "options": [
+        "Division of work",
+        "Unity of Command",
+        "Discipline",
+        "Scalar Chain"
+      ],
+      "correctIndex": 1,
+      "explanation": "In functional foremanship, a worker receives orders from eight different specialists, directly contradicting Fayol's 'Unity of Command' (one boss).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q38",
+      "chapterId": "bst_ch2",
+      "question": "Standardization refers to:",
+      "options": [
+        "Setting standards for every business activity",
+        "Making only one type of product",
+        "Reducing the number of employees",
+        "Fixing a high price for products"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standardization is the process of setting uniform standards for every business activity, including processes, raw materials, and machinery.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q39",
+      "chapterId": "bst_ch2",
+      "question": "The technique of 'Simplification' in scientific management aims to:",
+      "options": [
+        "Make the products look simple",
+        "Eliminate unnecessary diversity of products",
+        "Hire less skilled workers",
+        "Reduce the number of departments"
+      ],
+      "correctIndex": 1,
+      "explanation": "Simplification aims to eliminate unnecessary diversity of products, sizes, and types, saving costs on inventory and machinery.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q40",
+      "chapterId": "bst_ch2",
+      "question": "Scientific management generally results in:",
+      "options": [
+        "Increased cost of production",
+        "Lower productivity",
+        "Enhancement of efficiency",
+        "Confusion among workers"
+      ],
+      "correctIndex": 2,
+      "explanation": "The implementation of scientific management principles and techniques ultimately leads to the enhancement of efficiency and productivity.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q41",
+      "chapterId": "bst_ch2",
+      "question": "Which principle is being followed when a manager consciously replaces 'I' with 'We' in conversations with subordinates?",
+      "options": [
+        "Initiative",
+        "Espirit de Corps",
+        "Equity",
+        "Unity of Direction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Espirit de Corps involves a manager replacing 'I' with 'We' to promote team spirit and foster a sense of belonging.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q42",
+      "chapterId": "bst_ch2",
+      "question": "According to Taylor, the 'Rule of Thumb' should be replaced by:",
+      "options": [
+        "Scientific investigation",
+        "Tradition",
+        "Personal judgment",
+        "Group consensus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Taylor believed that the one best method to maximize efficiency should be found through scientific investigation and analysis, not intuition.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q43",
+      "chapterId": "bst_ch2",
+      "question": "Fayol's contributions are considered ________ while Taylor's contributions are considered ________.",
+      "options": [
+        "Theoretical, Practical",
+        "General principles, Specific techniques",
+        "Flexible, Rigid",
+        "Shop floor based, Administrative"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fayol provided general principles of management applicable broadly, whereas Taylor provided specific scientific techniques focused on production.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q44",
+      "chapterId": "bst_ch2",
+      "question": "What does 'Unity of Direction' ensure in an organization?",
+      "options": [
+        "Unity of action and coordination",
+        "Specialization of workers",
+        "Fair remuneration",
+        "Prompt disciplinary action"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unity of Direction ensures that all units moving towards the same objective are directed by one head using one plan, ensuring unity of action.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q45",
+      "chapterId": "bst_ch2",
+      "question": "Fayol argued that 'Equity' does not exclude:",
+      "options": [
+        "Favoritism",
+        "Force and Harshness",
+        "Discrimination",
+        "Laziness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fayol noted that while equity emphasizes fairness, it does not exclude the use of force and harshness if a worker is ill-disposed or undisciplined.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q46",
+      "chapterId": "bst_ch2",
+      "question": "In scientific management, the 'Planning' and 'Execution' functions should be:",
+      "options": [
+        "Performed by the same person",
+        "Separated",
+        "Combined for efficiency",
+        "Ignored"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taylor's functional foremanship technique was specifically based on the separation of planning (done by clerks) and execution (done by bosses) functions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q47",
+      "chapterId": "bst_ch2",
+      "question": "The number and frequency of rest intervals in a Fatigue Study depends on:",
+      "options": [
+        "The mood of the manager",
+        "The nature of the task and its physical/mental demands",
+        "The number of workers available",
+        "The size of the factory"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fatigue study determines rest intervals based scientifically on the nature of the work and how quickly workers tire from it.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q48",
+      "chapterId": "bst_ch2",
+      "question": "Scientific management aims to develop each person to his or her greatest:",
+      "options": [
+        "Speed",
+        "Efficiency and Prosperity",
+        "Salary",
+        "Wealth"
+      ],
+      "correctIndex": 1,
+      "explanation": "A core principle of scientific management is the development of each and every person to their greatest efficiency and prosperity through proper training.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q49",
+      "chapterId": "bst_ch2",
+      "question": "Principles of management help in meeting 'Changing Environment Requirements' by being:",
+      "options": [
+        "Rigidly applied",
+        "Flexible and adaptable",
+        "Fixed in writing",
+        "Ignore environmental changes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because management principles are flexible guidelines, they can be adapted by managers to meet the dynamic and changing business environment.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch2_q50",
+      "chapterId": "bst_ch2",
+      "question": "Which principle was violated if an organization has no fixed place for its tools or its employees?",
+      "options": [
+        "Scalar Chain",
+        "Order",
+        "Equity",
+        "Initiative"
+      ],
+      "correctIndex": 1,
+      "explanation": "The principle of Order states that 'A place for everything (everyone) and everything (everyone) in its place' is essential for efficiency.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    }
+  ]
+}

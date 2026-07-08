@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bst_ch1_q1",
+      "chapterId": "bst_ch1",
+      "question": "Which concept of management is defined as 'finishing the given task' regardless of the cost involved?",
+      "options": [
+        "Efficiency",
+        "Effectiveness",
+        "Planning",
+        "Controlling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Effectiveness in management is concerned with doing the right task, completing activities and achieving goals; it is essentially about the end result.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q2",
+      "chapterId": "bst_ch1",
+      "question": "Management is said to be poor if it is:",
+      "options": [
+        "Efficient but ineffective",
+        "Effective but inefficient",
+        "Both A and B",
+        "Neither efficient nor effective"
+      ],
+      "correctIndex": 2,
+      "explanation": "Management should aim to be both effective (achieving goals) and efficient (at minimum cost). Being only one of the two leads to poor management.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q3",
+      "chapterId": "bst_ch1",
+      "question": "Which of the following is NOT a feature of management?",
+      "options": [
+        "Goal-oriented process",
+        "All pervasive",
+        "Tangible force",
+        "Continuous process"
+      ],
+      "correctIndex": 2,
+      "explanation": "Management is an intangible force. Its presence can be felt in the way the organization functions, but it cannot be seen.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q4",
+      "chapterId": "bst_ch1",
+      "question": "Management is considered 'all pervasive' because:",
+      "options": [
+        "It is required in all types of organizations",
+        "It is performed by all managers",
+        "It is required at all levels",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Management is universal; it is required in all types of organizations (economic, social, political) and at all levels.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q5",
+      "chapterId": "bst_ch1",
+      "question": "The three dimensions of 'Management of Work', 'Management of People', and 'Management of Operations' make management a:",
+      "options": [
+        "Continuous process",
+        "Multidimensional activity",
+        "Group activity",
+        "Dynamic function"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management is a complex activity that has three main dimensions: work, people, and operations.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q6",
+      "chapterId": "bst_ch1",
+      "question": "Management is a dynamic function because:",
+      "options": [
+        "It consists of a series of functions",
+        "It has to change according to the changing environment",
+        "It is performed by a group of people",
+        "It is a never-ending process"
+      ],
+      "correctIndex": 1,
+      "explanation": "To be successful, an organization must change itself and its goals according to the needs of the environment.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q7",
+      "chapterId": "bst_ch1",
+      "question": "Providing basic amenities like schools and crèches to employees and their families is part of which management objective?",
+      "options": [
+        "Organizational Objective",
+        "Social Objective",
+        "Personal Objective",
+        "Economic Objective"
+      ],
+      "correctIndex": 1,
+      "explanation": "Social objectives involve the creation of benefit for society, including providing basic amenities to employees.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q8",
+      "chapterId": "bst_ch1",
+      "question": "The organizational objective of 'Survival' is achieved when a business earns enough revenue to cover:",
+      "options": [
+        "Profits",
+        "Costs",
+        "Expansion",
+        "Taxes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management must strive to ensure the survival of the organization by earning enough revenues to cover costs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q9",
+      "chapterId": "bst_ch1",
+      "question": "Management is considered a science because it is based on:",
+      "options": [
+        "Personalized application",
+        "Systematized body of knowledge",
+        "Practice and creativity",
+        "Ethical codes of conduct"
+      ],
+      "correctIndex": 0,
+      "explanation": "Science is a systematized body of knowledge that explains certain general truths or the operation of general laws.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q10",
+      "chapterId": "bst_ch1",
+      "question": "Management is an 'inexact science' because:",
+      "options": [
+        "It deals with humans and their unpredictable behavior",
+        "It has no principles",
+        "It cannot be learned",
+        "It is purely based on luck"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since management deals with human beings and human behavior, the outcomes of experiments are not capable of being predicted with absolute accuracy.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q11",
+      "chapterId": "bst_ch1",
+      "question": "Which aspect of management involves the use of theoretical knowledge in a personalized and skillful manner?",
+      "options": [
+        "Management as a Science",
+        "Management as an Art",
+        "Management as a Profession",
+        "Management as a Process"
+      ],
+      "correctIndex": 1,
+      "explanation": "Art is the skillful and personal application of existing knowledge to achieve desired results.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q12",
+      "chapterId": "bst_ch1",
+      "question": "The Authority-Responsibility relationship binds individuals as superiors and subordinates and gives rise to:",
+      "options": [
+        "Levels of management",
+        "Functions of management",
+        "Objectives of management",
+        "Characteristics of management"
+      ],
+      "correctIndex": 0,
+      "explanation": "The hierarchy of levels in the organization (Top, Middle, Lower) is created by the superior-subordinate relationships.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q13",
+      "chapterId": "bst_ch1",
+      "question": "Who among the following is NOT part of the 'Top Management'?",
+      "options": [
+        "Chief Executive Officer",
+        "Chairman",
+        "Plant Superintendent",
+        "President"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plant Superintendent belongs to the operational or lower-level management. Top management includes CEOs, Chairmen, and Presidents.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q14",
+      "chapterId": "bst_ch1",
+      "question": "The main task of Middle Management is to:",
+      "options": [
+        "Formulate overall organizational goals",
+        "Interpret policies framed by top management",
+        "Directly oversee the workforce",
+        "Represent the organization to the public"
+      ],
+      "correctIndex": 1,
+      "explanation": "Middle management is responsible for implementing and controlling plans and strategies developed by top management and interpreting policies.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q15",
+      "chapterId": "bst_ch1",
+      "question": "Which level of management is directly responsible for the quality of output and safety standards?",
+      "options": [
+        "Top Level",
+        "Middle Level",
+        "Supervisory/Operational Level",
+        "Administrative Level"
+      ],
+      "correctIndex": 2,
+      "explanation": "Supervisory management (foremen/supervisors) directly oversee the efforts of the workforce and maintain quality and safety.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q16",
+      "chapterId": "bst_ch1",
+      "question": "Which function of management involves setting goals and establishing a strategy to achieve them?",
+      "options": [
+        "Organizing",
+        "Planning",
+        "Staffing",
+        "Directing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning is the function of determining in advance what is to be done and who is to do it.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q17",
+      "chapterId": "bst_ch1",
+      "question": "The management function of 'Staffing' is also known as the:",
+      "options": [
+        "Production function",
+        "Human resource function",
+        "Financial function",
+        "Marketing function"
+      ],
+      "correctIndex": 1,
+      "explanation": "Staffing is simply stated as finding the right people for the right job, often called the human resource function.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q18",
+      "chapterId": "bst_ch1",
+      "question": "Which function of management involves leading, influencing, and motivating employees?",
+      "options": [
+        "Planning",
+        "Organizing",
+        "Directing",
+        "Controlling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Directing involves leading, influencing, and motivating employees to perform the tasks assigned to them.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q19",
+      "chapterId": "bst_ch1",
+      "question": "The function that monitors organizational performance towards goal attainment is:",
+      "options": [
+        "Planning",
+        "Directing",
+        "Controlling",
+        "Staffing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Controlling is the management function of monitoring organizational performance towards the attainment of organizational goals.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q20",
+      "chapterId": "bst_ch1",
+      "question": "Coordination is often called the ________ of management.",
+      "options": [
+        "Function",
+        "Objective",
+        "Essence",
+        "Feature"
+      ],
+      "correctIndex": 2,
+      "explanation": "Coordination is the force that binds all the other functions of management; it is the essence of management.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q21",
+      "chapterId": "bst_ch1",
+      "question": "Coordination acts as a 'thread in a garland'. It is a:",
+      "options": [
+        "One-time act",
+        "Deliberate function",
+        "Separate function",
+        "Top-level activity only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A manager has to coordinate the efforts of different people in a conscious and deliberate manner.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q22",
+      "chapterId": "bst_ch1",
+      "question": "Which characteristic of coordination ensures that all action is directed towards achieving organizational goals?",
+      "options": [
+        "Integrates group effort",
+        "Ensures unity of action",
+        "Continuous process",
+        "All pervasive function"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unity of action acts as the binding force between departments and ensures that all action is aimed at achieving the goals of the organization.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q23",
+      "chapterId": "bst_ch1",
+      "question": "Management is important because it helps in:",
+      "options": [
+        "Achieving group goals",
+        "Increasing efficiency",
+        "Creating a dynamic organization",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "The importance of management includes achieving group goals, increasing efficiency, creating a dynamic organization, achieving personal objectives, and development of society.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q24",
+      "chapterId": "bst_ch1",
+      "question": "The growth of an organization can be measured by:",
+      "options": [
+        "Increase in sales volume",
+        "Increase in number of employees",
+        "Increase in capital investment",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Growth can be measured by various indicators like sales volume, number of employees, number of products, or increase in capital investment.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q25",
+      "chapterId": "bst_ch1",
+      "question": "In the case of Fabmart (from the text), the firm failed because of a lack of:",
+      "options": [
+        "Efficiency",
+        "Effectiveness",
+        "Coordination",
+        "Planning"
+      ],
+      "correctIndex": 2,
+      "explanation": "The example of Fabmart illustrates that even with good intentions, a lack of coordination between production and sales leads to failure.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q26",
+      "chapterId": "bst_ch1",
+      "question": "Which dimension of management involves translating goals into means to achieve them?",
+      "options": [
+        "Management of People",
+        "Management of Work",
+        "Management of Operations",
+        "Management of Time"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management of work involves identifying problems, making decisions, and assigning goals to be achieved.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q27",
+      "chapterId": "bst_ch1",
+      "question": "The 'Management of People' dimension implies:",
+      "options": [
+        "Dealing with individuals as humans",
+        "Dealing with people as a group",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "correctIndex": 2,
+      "explanation": "Managing people has two dimensions: dealing with employees as individuals with diverse needs and as a collective group.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q28",
+      "chapterId": "bst_ch1",
+      "question": "What happens when management is ineffective but efficient?",
+      "options": [
+        "Goals are achieved at high cost",
+        "Goals are not achieved but resources are saved",
+        "Both goals and resources are lost",
+        "Goals are achieved at low cost"
+      ],
+      "correctIndex": 1,
+      "explanation": "Efficiency means reducing costs, but if the final goal (effectiveness) is not met, the organization still suffers.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q29",
+      "chapterId": "bst_ch1",
+      "question": "The 'survival' of a firm depends on its ability to:",
+      "options": [
+        "Maximize profit",
+        "Cover its costs",
+        "Outperform competitors",
+        "Advertise well"
+      ],
+      "correctIndex": 1,
+      "explanation": "The basic objective of any business is survival, which requires earning enough revenue to cover costs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q30",
+      "chapterId": "bst_ch1",
+      "question": "Modern management considers the goal of a business to be:",
+      "options": [
+        "Profit only",
+        "Service only",
+        "Balanced achievement of multiple objectives",
+        "Sales only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Management has to achieve various objectives including organizational, social, and personal.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q31",
+      "chapterId": "bst_ch1",
+      "question": "At which level of management is the 'Chief Operating Officer' (COO) positioned?",
+      "options": [
+        "Lower Level",
+        "Middle Level",
+        "Top Level",
+        "Staff Level"
+      ],
+      "correctIndex": 2,
+      "explanation": "Top management consists of senior-most executives such as CEO, COO, and Chairman.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q32",
+      "chapterId": "bst_ch1",
+      "question": "The 'Foreman' and 'Supervisor' belong to:",
+      "options": [
+        "Top Level Management",
+        "Middle Level Management",
+        "Supervisory/Operational Management",
+        "Strategic Management"
+      ],
+      "correctIndex": 2,
+      "explanation": "Supervisors and foremen comprise the lower level in the hierarchy of the organization.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q33",
+      "chapterId": "bst_ch1",
+      "question": "Middle management acts as a link between:",
+      "options": [
+        "Top management and workers",
+        "Top management and first-line managers",
+        "Workers and supervisors",
+        "Organization and Society"
+      ],
+      "correctIndex": 1,
+      "explanation": "Middle management is the link between top and lower level managers.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q34",
+      "chapterId": "bst_ch1",
+      "question": "Which of the following is an example of an 'organizational objective'?",
+      "options": [
+        "Using environment-friendly methods",
+        "Achieving a certain growth rate",
+        "Providing fair wages",
+        "Ensuring employees' safety"
+      ],
+      "correctIndex": 1,
+      "explanation": "Growth is an organizational objective, whereas others are social or personal objectives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q35",
+      "chapterId": "bst_ch1",
+      "question": "Cooperation in the absence of coordination may lead to:",
+      "options": [
+        "Wasted effort",
+        "High satisfaction",
+        "Unachieved goals",
+        "None of the above"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cooperation without coordination may lead to wasted effort and coordination without cooperation may create dissatisfaction.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q36",
+      "chapterId": "bst_ch1",
+      "question": "Coordination is required when:",
+      "options": [
+        "An organization grows in size",
+        "There is functional differentiation",
+        "There is specialization",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "The need for coordination arises due to growth in size, functional differentiation (different departments), and specialization.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q37",
+      "chapterId": "bst_ch1",
+      "question": "Management as a profession in India is:",
+      "options": [
+        "Fully developed",
+        "On the path of development",
+        "Non-existent",
+        "Only restricted to CEOs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management does not meet all the criteria of a profession (like restricted entry) but it is moving in that direction.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q38",
+      "chapterId": "bst_ch1",
+      "question": "Who is responsible for the 'welfare and survival' of the organization?",
+      "options": [
+        "Middle management",
+        "Top management",
+        "Supervisory level",
+        "The workers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Top management is responsible for the welfare and survival of the organization.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q39",
+      "chapterId": "bst_ch1",
+      "question": "Functional differentiation in coordination refers to:",
+      "options": [
+        "Different departments having their own objectives",
+        "People having different levels of authority",
+        "Changing the product design",
+        "Improving machine efficiency"
+      ],
+      "correctIndex": 0,
+      "explanation": "Functional differentiation happens when an organization is divided into departments (finance, production, etc.) that may have their own interests.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q40",
+      "chapterId": "bst_ch1",
+      "question": "Successful management is the process of:",
+      "options": [
+        "Getting things done with the help of others",
+        "Controlling others",
+        "Working alone",
+        "Maximizing sales only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Management is the process of working with and through others to effectively achieve organizational objectives.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q41",
+      "chapterId": "bst_ch1",
+      "question": "The 'Management of Operations' is a mix of:",
+      "options": [
+        "Planning and Controlling",
+        "Work and People",
+        "Marketing and Sales",
+        "Profit and Loss"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management of operations is interlinked with both the management of work and the management of people.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q42",
+      "chapterId": "bst_ch1",
+      "question": "Management aims to reduce 'Cost' and increase 'Productivity'. This refers to:",
+      "options": [
+        "Effectiveness",
+        "Efficiency",
+        "Planning",
+        "Directing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Efficiency is doing the task correctly and with minimum cost.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q43",
+      "chapterId": "bst_ch1",
+      "question": "Which function precedes all other functions of management?",
+      "options": [
+        "Organizing",
+        "Staffing",
+        "Planning",
+        "Controlling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Planning is the first function that must be performed; other functions follow based on the plan.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q44",
+      "chapterId": "bst_ch1",
+      "question": "The 'Personal Objectives' of management are related to:",
+      "options": [
+        "Shareholders",
+        "Society",
+        "Employees",
+        "Customers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Management has to reconcile personal goals of employees with organizational objectives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q45",
+      "chapterId": "bst_ch1",
+      "question": "Management is an 'Intangible Force' because:",
+      "options": [
+        "It cannot be seen",
+        "It has no physical form",
+        "Its presence is felt through results",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Management is an intangible force whose presence is felt in the organization's results and orderliness.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q46",
+      "chapterId": "bst_ch1",
+      "question": "Which of the following describes management principles best?",
+      "options": [
+        "They are rigid",
+        "They are universal truths",
+        "They provide general guidelines",
+        "They are not required in modern times"
+      ],
+      "correctIndex": 2,
+      "explanation": "Management principles are not as rigid as scientific principles; they provide general guidelines for decision making.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q47",
+      "chapterId": "bst_ch1",
+      "question": "What is the primary motive of a profession like medicine or law?",
+      "options": [
+        "Profit maximization",
+        "Service to society",
+        "Personal growth",
+        "Competition"
+      ],
+      "correctIndex": 1,
+      "explanation": "The primary motive of a profession is service to the clients and society.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q48",
+      "chapterId": "bst_ch1",
+      "question": "Coordination is a ________ function.",
+      "options": [
+        "One-time",
+        "Continuous",
+        "Top-level",
+        "Redundant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coordination is a continuous process that begins at the planning stage and continues until controlling.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q49",
+      "chapterId": "bst_ch1",
+      "question": "A manager who ensures that 'inventory is always available' and 'orders are met on time' is focusing on:",
+      "options": [
+        "Management of Work",
+        "Management of Operations",
+        "Management of People",
+        "Social Objectives"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management of operations involves the production process, turning inputs into outputs.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch1_q50",
+      "chapterId": "bst_ch1",
+      "question": "The essence of coordination is to:",
+      "options": [
+        "Minimize conflict",
+        "Achieve unity of effort",
+        "Balance the budget",
+        "Hire more people"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coordination provides the requisite amount, quality, timing and sequence of efforts to ensure goals are achieved.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bs_ch5_q1",
+      "chapterId": "bs_ch5",
+      "question": "Which function of management follows the planning function and involves defining the framework of the organization?",
+      "options": [
+        "Directing",
+        "Organising",
+        "Staffing",
+        "Controlling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Organising is the function of management which follows planning. It involves translating plans into action by defining the roles of personnel and the relationships between them.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q2",
+      "chapterId": "bs_ch5",
+      "question": "In the organising process, 'Grouping of similar activities together' is known as:",
+      "options": [
+        "Identification of work",
+        "Departmentalisation",
+        "Assignment of duties",
+        "Establishing reporting relationships"
+      ],
+      "correctIndex": 1,
+      "explanation": "Departmentalisation is the step in organising that involves grouping activities which are similar in nature into distinct departments or divisions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q3",
+      "chapterId": "bs_ch5",
+      "question": "Which of the following is an importance of organising mentioned in the text?",
+      "options": [
+        "Reduces efficiency",
+        "Leads to confusion",
+        "Adaptation to change",
+        "Increases wastage of resources"
+      ],
+      "correctIndex": 2,
+      "explanation": "The process of organising allows a business enterprise to flexibly accommodate changes in the business environment by modifying its structure.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q4",
+      "chapterId": "bs_ch5",
+      "question": "What is the framework within which managerial and operating tasks are performed?",
+      "options": [
+        "Span of management",
+        "Organisation structure",
+        "Informal organisation",
+        "Job description"
+      ],
+      "correctIndex": 1,
+      "explanation": "Organisation structure is defined as the framework or network of job positions, responsibilities, and relationships within which tasks are performed.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q5",
+      "chapterId": "bs_ch5",
+      "question": "The number of subordinates that can be effectively managed by a superior is called:",
+      "options": [
+        "Chain of command",
+        "Span of management",
+        "Unity of command",
+        "Departmentalisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Span of management (or span of control) refers to the number of subordinates or direct reports a manager can effectively supervise.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q6",
+      "chapterId": "bs_ch5",
+      "question": "A functional structure is most suitable for an organization that:",
+      "options": [
+        "Produces multiple product lines",
+        "Is small in size",
+        "Has a high degree of functional specialization",
+        "Operates in a very simple environment"
+      ],
+      "correctIndex": 2,
+      "explanation": "Functional structure is most suitable for large organizations with activities requiring a high degree of specialization across different functions.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q7",
+      "chapterId": "bs_ch5",
+      "question": "Which structure involves grouping activities primarily on the basis of products?",
+      "options": [
+        "Functional structure",
+        "Divisional structure",
+        "Formal structure",
+        "Informal structure"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a divisional structure, the organization is divided into separate units or divisions based primarily on products or services.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q8",
+      "chapterId": "bs_ch5",
+      "question": "What is the main advantage of a divisional structure?",
+      "options": [
+        "Functional specialization",
+        "Product specialization",
+        "Ease of communication",
+        "Lower cost of operation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divisional structure leads to product specialization as the head of the division gains experience in all functions related to that specific product.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q9",
+      "chapterId": "bs_ch5",
+      "question": "Formal organisation is characterized by:",
+      "options": [
+        "Spontaneous birth",
+        "Social interactions",
+        "Defined boundaries of authority and responsibility",
+        "Lack of rules"
+      ],
+      "correctIndex": 2,
+      "explanation": "A formal organisation is a deliberately designed system of well-defined jobs, each bearing a definite measure of authority, responsibility, and accountability.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q10",
+      "chapterId": "bs_ch5",
+      "question": "An informal organisation emerges from:",
+      "options": [
+        "The will of management",
+        "Formal organisation structure",
+        "Social interaction among employees",
+        "Specific organizational objectives"
+      ],
+      "correctIndex": 2,
+      "explanation": "Informal organisation arises spontaneously out of the social and personal interactions among employees beyond their official work roles.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q11",
+      "chapterId": "bs_ch5",
+      "question": "Delegation involves the transfer of:",
+      "options": [
+        "Responsibility only",
+        "Authority only",
+        "Authority and Responsibility",
+        "Accountability"
+      ],
+      "correctIndex": 2,
+      "explanation": "Delegation is the process of a superior assigning responsibility and granting the necessary authority to a subordinate to perform a task.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q12",
+      "chapterId": "bs_ch5",
+      "question": "Accountability can be defined as:",
+      "options": [
+        "Right to command",
+        "Obligation to perform",
+        "Answerability for the final outcome",
+        "Freedom of action"
+      ],
+      "correctIndex": 2,
+      "explanation": "Accountability means being answerable or liable for the final outcome of the assigned task.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q13",
+      "chapterId": "bs_ch5",
+      "question": "Which of the following elements of delegation flows upward?",
+      "options": [
+        "Authority",
+        "Responsibility",
+        "Accountability",
+        "Both B and C"
+      ],
+      "correctIndex": 3,
+      "explanation": "Authority flows downward from superior to subordinate, whereas Responsibility and Accountability flow upward to the superior.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q14",
+      "chapterId": "bs_ch5",
+      "question": "Delegation is ________, whereas decentralization is ________.",
+      "options": [
+        "Optional, Compulsory",
+        "A narrow term, A wide term",
+        "Wide, Narrow",
+        "Temporary, Permanent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Delegation is a narrow term (manager to subordinate), while decentralization is a wider term involving the systematic delegation of authority throughout the entire organization.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q15",
+      "chapterId": "bs_ch5",
+      "question": "Decentralization is most suitable when:",
+      "options": [
+        "Quick decision making is needed",
+        "Management wants total control",
+        "The organization is very small",
+        "Consistency is the only goal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Decentralization allows those closest to the action to take decisions, leading to quicker response times and faster decision-making.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q16",
+      "chapterId": "bs_ch5",
+      "question": "Which principle states that authority must be equal to responsibility?",
+      "options": [
+        "Principle of Unity of Command",
+        "Principle of Parity of Authority and Responsibility",
+        "Principle of Absolute Accountability",
+        "Principle of Scaler Chain"
+      ],
+      "correctIndex": 1,
+      "explanation": "For effective delegation, the authority granted to a subordinate must be commensurate (equal) with the responsibility assigned to them.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q17",
+      "chapterId": "bs_ch5",
+      "question": "What is the primary goal of the 'Organising' function?",
+      "options": [
+        "Establishing goals",
+        "Directing people",
+        "Coordinating efforts and resources",
+        "Evaluating performance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Organising primarily coordinates human effort and assembles physical and financial resources to efficiently achieve organizational objectives.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q18",
+      "chapterId": "bs_ch5",
+      "question": "Which of the following is a disadvantage of functional structure?",
+      "options": [
+        "Increased cost",
+        "Functional empires",
+        "Lack of specialization",
+        "Difficulty in training"
+      ],
+      "correctIndex": 1,
+      "explanation": "A major disadvantage is the creation of 'functional empires', where functional heads prioritize their department's interests over the overall organizational goals.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q19",
+      "chapterId": "bs_ch5",
+      "question": "Divisional structure promotes ________ because each division is a profit center.",
+      "options": [
+        "Accountability",
+        "Centralization",
+        "Functional efficiency",
+        "Social interaction"
+      ],
+      "correctIndex": 0,
+      "explanation": "Because revenues and costs can be traced to specific divisions, performance can be easily measured, making the division head highly accountable.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q20",
+      "chapterId": "bs_ch5",
+      "question": "Informal organisation can help the formal organisation by:",
+      "options": [
+        "Creating rumors",
+        "Providing a faster channel of communication",
+        "Challenging management policies",
+        "Restricting output"
+      ],
+      "correctIndex": 1,
+      "explanation": "The informal communication network (grapevine) often transmits information much faster than rigid formal channels.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q21",
+      "chapterId": "bs_ch5",
+      "question": "Delegation of authority is necessary because:",
+      "options": [
+        "A manager cannot do all the work himself",
+        "Subordinates are lazy",
+        "It reduces the manager's power",
+        "It is required by law"
+      ],
+      "correctIndex": 0,
+      "explanation": "Due to limitations of time and capacity, no individual manager can perform all tasks alone, making delegation essential.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q22",
+      "chapterId": "bs_ch5",
+      "question": "The 'Principle of Absoluteness of Accountability' means:",
+      "options": [
+        "Subordinates are not accountable",
+        "Superior remains accountable even after delegation",
+        "Authority can never be delegated",
+        "Responsibility cannot be assigned"
+      ],
+      "correctIndex": 1,
+      "explanation": "Delegation does not mean abdication; the superior manager remains ultimately answerable to their own boss for the task's completion.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q23",
+      "chapterId": "bs_ch5",
+      "question": "Which element of delegation cannot be delegated?",
+      "options": [
+        "Authority",
+        "Responsibility",
+        "Accountability",
+        "None of the above"
+      ],
+      "correctIndex": 2,
+      "explanation": "Accountability is absolute and cannot be passed on or delegated to others.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q24",
+      "chapterId": "bs_ch5",
+      "question": "What is the usual basis for creating a divisional structure?",
+      "options": [
+        "Functions",
+        "Product lines",
+        "Geographical areas",
+        "Both B and C"
+      ],
+      "correctIndex": 3,
+      "explanation": "Divisions in an organization are typically created based on different product lines or geographical territories.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q25",
+      "chapterId": "bs_ch5",
+      "question": "Which of the following processes creates a 'Scalar Chain' within an organization?",
+      "options": [
+        "Planning",
+        "Delegation",
+        "Decentralization",
+        "Organising process"
+      ],
+      "correctIndex": 1,
+      "explanation": "Delegation establishes superior-subordinate relationships, creating a hierarchy or chain of command (scalar chain).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q26",
+      "chapterId": "bs_ch5",
+      "question": "Span of management determines the ________ of the organization structure.",
+      "options": [
+        "Width",
+        "Height",
+        "Levels",
+        "Complexity"
+      ],
+      "correctIndex": 2,
+      "explanation": "The span of management directly determines how many levels are needed in the hierarchy (e.g., wide span leads to flat structure, narrow span leads to tall structure).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q27",
+      "chapterId": "bs_ch5",
+      "question": "Functional structure leads to ________ because it involves repeating the same task.",
+      "options": [
+        "Inefficiency",
+        "Occupational specialization",
+        "Product variety",
+        "Conflict"
+      ],
+      "correctIndex": 1,
+      "explanation": "Functional structure promotes occupational specialization and efficiency because employees perform repeated tasks within a specific functional area.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q28",
+      "chapterId": "bs_ch5",
+      "question": "A significant disadvantage of informal organisation is:",
+      "options": [
+        "Fast communication",
+        "Social support",
+        "Resistance to change",
+        "Fulfilling psychological needs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Informal groups may resist changes introduced by management if they feel it threatens their group norms or interests.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q29",
+      "chapterId": "bs_ch5",
+      "question": "In the organising process, assigning work to people should ideally be based on their:",
+      "options": [
+        "Salary",
+        "Competence",
+        "Seniority",
+        "Personal preference"
+      ],
+      "correctIndex": 1,
+      "explanation": "Effective assignment of duties requires matching the nature of the job with the skills and competence of the individual.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q30",
+      "chapterId": "bs_ch5",
+      "question": "The concept 'Everything which goes to increase the importance of the subordinate’s role is decentralization' is attributed to:",
+      "options": [
+        "Henri Fayol",
+        "F.W. Taylor",
+        "Louis Allen",
+        "Peter Drucker"
+      ],
+      "correctIndex": 0,
+      "explanation": "This specific definition of decentralization versus centralization was provided by management pioneer Henri Fayol.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q31",
+      "chapterId": "bs_ch5",
+      "question": "Organising helps in 'Avoidance of duplication of work' because:",
+      "options": [
+        "It reduces staff",
+        "Roles are clearly defined",
+        "It uses technology",
+        "It centralizes authority"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clear job descriptions and assignment of duties prevent overlapping of activities and duplication of effort.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q32",
+      "chapterId": "bs_ch5",
+      "question": "Divisional structure is often more expensive to maintain because:",
+      "options": [
+        "It requires expert managers",
+        "There is duplication of resources across divisions",
+        "It is hard to manage",
+        "It involves many functions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each division needs its own set of functional resources (e.g., separate HR or marketing departments for each product), leading to higher costs.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q33",
+      "chapterId": "bs_ch5",
+      "question": "Formal organisation is described as a 'means to an end' because:",
+      "options": [
+        "It is temporary",
+        "It is created to achieve specific goals",
+        "It is social in nature",
+        "It is complex"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formal organisation is not an end in itself; it is a structural tool designed specifically to reach the organization's objectives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q34",
+      "chapterId": "bs_ch5",
+      "question": "The flow of authority in an organization is ________.",
+      "options": [
+        "Upward",
+        "Downward",
+        "Horizontal",
+        "Diagonal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Authority always flows downward, from a superior possessing power to a subordinate.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q35",
+      "chapterId": "bs_ch5",
+      "question": "Decentralization helps in 'Developing managerial talent' by:",
+      "options": [
+        "Reducing training costs",
+        "Giving subordinates chance to take decisions",
+        "Hiring experts",
+        "Increasing workload"
+      ],
+      "correctIndex": 1,
+      "explanation": "Granting autonomy allows subordinates to practice decision-making, prove their abilities, and prepare for higher roles.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q36",
+      "chapterId": "bs_ch5",
+      "question": "Organising leads to 'Optimum utilization of resources' primarily because:",
+      "options": [
+        "It uses cheap materials",
+        "It prevents duplication and confusion",
+        "It hires more people",
+        "It focuses on one product"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clear assignment of jobs and relationships ensures there is no wastage of effort, time, or materials due to confusion or duplication.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q37",
+      "chapterId": "bs_ch5",
+      "question": "Which of the following is NOT a recognized element of delegation?",
+      "options": [
+        "Authority",
+        "Responsibility",
+        "Accountability",
+        "Decentralization"
+      ],
+      "correctIndex": 3,
+      "explanation": "Authority, Responsibility, and Accountability are the three core elements of delegation. Decentralization is a separate concept.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q38",
+      "chapterId": "bs_ch5",
+      "question": "Functional structure is characterized by:",
+      "options": [
+        "Profit centers",
+        "Ease of training",
+        "Conflict between product lines",
+        "Flexibility"
+      ],
+      "correctIndex": 1,
+      "explanation": "Training employees is easier in a functional structure as it focuses on developing a limited, specific range of functional skills.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q39",
+      "chapterId": "bs_ch5",
+      "question": "Responsibility is derived from ________.",
+      "options": [
+        "Accountability",
+        "Authority",
+        "Job position",
+        "Experience"
+      ],
+      "correctIndex": 1,
+      "explanation": "When authority is granted to an individual, the responsibility to perform the task naturally arises from that authority.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q40",
+      "chapterId": "bs_ch5",
+      "question": "A 'tall' organization structure generally has:",
+      "options": [
+        "Wide span of management",
+        "Narrow span of management",
+        "No span of management",
+        "Many products"
+      ],
+      "correctIndex": 1,
+      "explanation": "A narrow span of management means managers oversee fewer people, leading to more levels in the hierarchy (a tall structure).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q41",
+      "chapterId": "bs_ch5",
+      "question": "Which step in the organising process involves defining 'who reports to whom'?",
+      "options": [
+        "Assignment of duties",
+        "Departmentalisation",
+        "Establishing reporting relationships",
+        "Identification of work"
+      ],
+      "correctIndex": 2,
+      "explanation": "Establishing reporting relationships creates the hierarchical structure by defining the lines of communication and command.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q42",
+      "chapterId": "bs_ch5",
+      "question": "Organising facilitates 'Growth and Expansion' by:",
+      "options": [
+        "Allowing addition of new departments and product lines",
+        "Reducing staff turnover",
+        "Increasing salaries",
+        "Keeping the structure fixed"
+      ],
+      "correctIndex": 0,
+      "explanation": "A well-organized structure allows a business to smoothly expand by adding more product lines, territories, or departments.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q43",
+      "chapterId": "bs_ch5",
+      "question": "Decentralization primarily reduces the burden of ________.",
+      "options": [
+        "Subordinates",
+        "Top management",
+        "Shareholders",
+        "Customers"
+      ],
+      "correctIndex": 1,
+      "explanation": "By delegating operational decisions to lower levels, top management is relieved from routine tasks and can focus on strategy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q44",
+      "chapterId": "bs_ch5",
+      "question": "Which structure is best if an organization is large and 'Coordination is difficult' across diverse product lines?",
+      "options": [
+        "Functional structure",
+        "Divisional structure",
+        "Formal structure",
+        "Informal structure"
+      ],
+      "correctIndex": 1,
+      "explanation": "Divisional structure groups all functions related to a specific product under one head, greatly improving product-level coordination.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q45",
+      "chapterId": "bs_ch5",
+      "question": "An informal organisation generally ________ the formal structure.",
+      "options": [
+        "Replaces",
+        "Complements",
+        "Destroys",
+        "Ignores"
+      ],
+      "correctIndex": 1,
+      "explanation": "Informal groups supplement and complement the formal structure by fulfilling social needs and facilitating faster communication.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q46",
+      "chapterId": "bs_ch5",
+      "question": "What is the primary 'source' of authority in a formal organisation?",
+      "options": [
+        "Social interaction",
+        "Formal position",
+        "Personality",
+        "Subordinate's consent"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a formal organisation, authority is tied directly to the job position or role an individual holds in the hierarchy.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q47",
+      "chapterId": "bs_ch5",
+      "question": "Delegation helps in 'Employee Development' because:",
+      "options": [
+        "Employees get more money",
+        "Employees get more authority to use their skills",
+        "Employees can avoid work",
+        "Employees get promoted immediately"
+      ],
+      "correctIndex": 1,
+      "explanation": "Delegation provides subordinates with opportunities to use their talents, take initiative, and develop skills for future roles.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q48",
+      "chapterId": "bs_ch5",
+      "question": "Management control is considered easier in a decentralized organization because:",
+      "options": [
+        "Subordinates are scared",
+        "Performance of each unit can be measured separately",
+        "Top management watches everything",
+        "It is more formal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Decentralization allows for better evaluation as the contribution and accountability of individual departments or units are clear.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q49",
+      "chapterId": "bs_ch5",
+      "question": "Functional structure leads to ________ because it involves repetitions of the same task within a department.",
+      "options": [
+        "Efficiency",
+        "Boredom",
+        "Conflict",
+        "High turnover"
+      ],
+      "correctIndex": 0,
+      "explanation": "Specialization within functional areas means employees perform similar tasks repeatedly, leading to increased operational efficiency.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch5_q50",
+      "chapterId": "bs_ch5",
+      "question": "Delegation leads to 'Effective Management' because:",
+      "options": [
+        "Managers can relax",
+        "Managers can focus on more important, strategic areas",
+        "Subordinates do all the work",
+        "There are no conflicts"
+      ],
+      "correctIndex": 1,
+      "explanation": "By delegating routine tasks, managers free up their time to concentrate on high-priority, strategic activities.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    }
+  ]
+}

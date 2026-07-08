@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bs_ch4_q1",
+      "chapterId": "bs_ch4",
+      "question": "Which function of management involves deciding in advance what to do and how to do it?",
+      "options": [
+        "Organising",
+        "Staffing",
+        "Planning",
+        "Controlling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Planning is defined as the process of deciding in advance what is to be done, how it is to be done, when it is to be done, and who is to do it.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q2",
+      "chapterId": "bs_ch4",
+      "question": "Planning seeks to bridge the gap between:",
+      "options": [
+        "Input and Output",
+        "Where we are and where we want to go",
+        "Management and Workers",
+        "Past and Present"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning bridges the gap from where we are currently to where we want to reach in the future by charting a course of action.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q3",
+      "chapterId": "bs_ch4",
+      "question": "Planning is a ________ process because it is the first function performed by every manager.",
+      "options": [
+        "Secondary",
+        "Primary",
+        "Final",
+        "Optional"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning is the primary (first) function of management because it precedes and provides the basis for all other managerial functions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q4",
+      "chapterId": "bs_ch4",
+      "question": "Which feature of planning refers to its requirement at all levels of management and in all departments?",
+      "options": [
+        "Continuous",
+        "Futuristic",
+        "Pervasive",
+        "Mental Exercise"
+      ],
+      "correctIndex": 2,
+      "explanation": "Planning is pervasive because it is not an exclusive function of top management; it is required at all levels and in all departments of the organisation.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q5",
+      "chapterId": "bs_ch4",
+      "question": "Planning is described as 'futuristic' because it involves:",
+      "options": [
+        "Recording past events",
+        "Managing current employees",
+        "Looking ahead and preparing for the future",
+        "Achieving immediate profit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Planning is fundamentally forward-looking; it involves anticipating future events and preparing the organization to meet them effectively.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q6",
+      "chapterId": "bs_ch4",
+      "question": "Planning is a mental exercise that requires ________ rather than guess work.",
+      "options": [
+        "Physical strength",
+        "Logical and systematic thinking",
+        "Financial capital",
+        "Luck"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning requires application of the mind involving foresight, intelligent imagination, and sound judgment, making it a logical and systematic process.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q7",
+      "chapterId": "bs_ch4",
+      "question": "Which of the following importance of planning helps in reducing the risk of uncertainty?",
+      "options": [
+        "Planning provides direction",
+        "Planning promotes innovative ideas",
+        "Planning prepares for changes",
+        "Planning facilitates decision making"
+      ],
+      "correctIndex": 2,
+      "explanation": "By anticipating future changes and developing planned responses, planning helps an organization reduce the risks associated with uncertainties.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q8",
+      "chapterId": "bs_ch4",
+      "question": "How does planning facilitate controlling?",
+      "options": [
+        "By hiring controllers",
+        "By providing standards against which actual performance is measured",
+        "By increasing the budget",
+        "By eliminating all errors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning establishes the goals or standards. Controlling involves comparing actual performance against these planned standards to find deviations.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q9",
+      "chapterId": "bs_ch4",
+      "question": "One of the limitations of planning is that it leads to ________ because plans are pre-determined and managers may not be able to change them.",
+      "options": [
+        "Creativity",
+        "Efficiency",
+        "Rigidity",
+        "Dynamic behavior"
+      ],
+      "correctIndex": 2,
+      "explanation": "Once a plan is drawn up, managers are expected to strictly adhere to it, which can create internal rigidity and prevent quick responses to changes.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q10",
+      "chapterId": "bs_ch4",
+      "question": "Planning may not work in a ________ environment.",
+      "options": [
+        "Stable",
+        "Dynamic",
+        "Internal",
+        "Predictable"
+      ],
+      "correctIndex": 1,
+      "explanation": "The business environment is highly dynamic (constantly changing). Rigid plans often fail when the external environment changes rapidly.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q11",
+      "chapterId": "bs_ch4",
+      "question": "Which limitation suggests that planning is an expensive process?",
+      "options": [
+        "Reduces creativity",
+        "Involves huge costs",
+        "Time-consuming",
+        "Does not guarantee success"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formulating comprehensive plans involves significant costs in terms of time, money, data collection, and expert consultations.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q12",
+      "chapterId": "bs_ch4",
+      "question": "The first step in the planning process is:",
+      "options": [
+        "Developing premises",
+        "Identifying alternatives",
+        "Setting objectives",
+        "Evaluating alternatives"
+      ],
+      "correctIndex": 2,
+      "explanation": "The entire planning process begins with the clear definition and setting of organizational objectives.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q13",
+      "chapterId": "bs_ch4",
+      "question": "What are 'Planning Premises'?",
+      "options": [
+        "Office buildings",
+        "Assumptions about the future",
+        "Past records",
+        "Government laws"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning premises are the logical assumptions about future conditions or events upon which plans are built.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q14",
+      "chapterId": "bs_ch4",
+      "question": "In the planning process, 'Evaluating alternative courses' involves weighing which factors?",
+      "options": [
+        "Color and shape",
+        "Pros and cons",
+        "Employee names",
+        "Historical data only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Evaluating alternatives requires analyzing the positive and negative aspects (pros and cons) of each identified option.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q15",
+      "chapterId": "bs_ch4",
+      "question": "The 'Follow-up action' step in planning is concerned with:",
+      "options": [
+        "Creating new objectives",
+        "Firing employees",
+        "Seeing whether plans are being implemented and activities performed according to schedule",
+        "Closing the business"
+      ],
+      "correctIndex": 2,
+      "explanation": "Follow-up ensures that the plans are actually being implemented correctly and activities are progressing as scheduled.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q16",
+      "chapterId": "bs_ch4",
+      "question": "A plan developed for a one-time event or project is called a:",
+      "options": [
+        "Standing plan",
+        "Single-use plan",
+        "Strategic plan",
+        "Method"
+      ],
+      "correctIndex": 1,
+      "explanation": "Single-use plans are designed specifically to meet the needs of a unique situation or one-time project and are not meant to be repeated.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q17",
+      "chapterId": "bs_ch4",
+      "question": "Standing plans are used for:",
+      "options": [
+        "Unique projects",
+        "Activities that occur regularly over a period of time",
+        "Budgeting only",
+        "Hiring a CEO"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standing plans (like policies and rules) provide guidelines for repetitive activities that occur regularly in the organization.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q18",
+      "chapterId": "bs_ch4",
+      "question": "Which of the following is NOT a type of plan based on the text?",
+      "options": [
+        "Objective",
+        "Strategy",
+        "Profit",
+        "Policy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Profit is a goal or an outcome, whereas Objectives, Strategy, and Policy are distinct types of organizational plans.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q19",
+      "chapterId": "bs_ch4",
+      "question": "A 'Strategy' in planning includes which three dimensions?",
+      "options": [
+        "Past, Present, Future",
+        "Long-term objectives, course of action, and resource allocation",
+        "Profit, Loss, Break-even",
+        "Setting rules, making budgets, and hiring"
+      ],
+      "correctIndex": 1,
+      "explanation": "A comprehensive strategy involves setting long-term objectives, choosing a specific course of action, and allocating necessary resources to achieve them.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q20",
+      "chapterId": "bs_ch4",
+      "question": "General statements that guide thinking or channelize energies towards a particular direction are called:",
+      "options": [
+        "Rules",
+        "Procedures",
+        "Policies",
+        "Methods"
+      ],
+      "correctIndex": 2,
+      "explanation": "Policies are general guidelines that define the boundaries within which decisions must be made by managers.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q21",
+      "chapterId": "bs_ch4",
+      "question": "The 'Policy' of a company serves as a guide to ________.",
+      "options": [
+        "Control results",
+        "Managerial action",
+        "Physical tasks",
+        "Setting budgets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Policies provide a framework for interpreting strategy and specifically guide managerial action and decision-making.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q22",
+      "chapterId": "bs_ch4",
+      "question": "Routine steps on how to carry out activities in a chronological order are:",
+      "options": [
+        "Rules",
+        "Procedures",
+        "Strategies",
+        "Objectives"
+      ],
+      "correctIndex": 1,
+      "explanation": "Procedures dictate the exact chronological sequence of steps to be followed to carry out a specific routine activity.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q23",
+      "chapterId": "bs_ch4",
+      "question": "Which plan provides the prescribed way or manner in which a task has to be performed?",
+      "options": [
+        "Rule",
+        "Method",
+        "Policy",
+        "Programme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Methods outline the specific, standardized way a single task within a procedure should be performed to maximize efficiency.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q24",
+      "chapterId": "bs_ch4",
+      "question": "Specific statements that inform what is to be done and do not allow for any flexibility are:",
+      "options": [
+        "Policies",
+        "Methods",
+        "Rules",
+        "Strategies"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rules are explicit commands dictating specific action or non-action with zero flexibility or managerial discretion.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q25",
+      "chapterId": "bs_ch4",
+      "question": "Detailed statements about a project which outline objectives, policies, procedures, and rules are known as:",
+      "options": [
+        "Budgets",
+        "Strategies",
+        "Programmes",
+        "Methods"
+      ],
+      "correctIndex": 2,
+      "explanation": "Programmes are comprehensive, single-use plans containing a complex mix of objectives, policies, procedures, rules, and tasks.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q26",
+      "chapterId": "bs_ch4",
+      "question": "A statement of expected results expressed in numerical terms is a:",
+      "options": [
+        "Policy",
+        "Programme",
+        "Budget",
+        "Procedure"
+      ],
+      "correctIndex": 2,
+      "explanation": "A budget is a plan expressed strictly in quantitative or numerical terms (like money, units, hours) for a defined future period.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q27",
+      "chapterId": "bs_ch4",
+      "question": "A 'Budget' serves as a tool for both planning and ________.",
+      "options": [
+        "Staffing",
+        "Organising",
+        "Directing",
+        "Controlling"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because a budget sets numerical standards, it acts as a baseline against which actual performance is measured, making it a key controlling tool.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q28",
+      "chapterId": "bs_ch4",
+      "question": "Planning reduces overlapping and wasteful activities by:",
+      "options": [
+        "Hiring more people",
+        "Ensuring clarity in thought and action",
+        "Focusing on the past",
+        "Eliminating competition"
+      ],
+      "correctIndex": 1,
+      "explanation": "By coordinating the efforts of different departments, planning provides clarity in thought and action, preventing duplicated efforts.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q29",
+      "chapterId": "bs_ch4",
+      "question": "The planning process involves making a choice from among various alternatives. This shows that planning involves:",
+      "options": [
+        "Mental Exercise",
+        "Decision Making",
+        "Physical Work",
+        "Social Service"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because managers must evaluate and select the best alternative course of action, planning inherently involves decision making.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q30",
+      "chapterId": "bs_ch4",
+      "question": "If there is only one possible course of action, is there a need for planning?",
+      "options": [
+        "Yes",
+        "No",
+        "Always",
+        "Depends on the manager"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning implies making a choice. If there are no alternatives and only one way to do something, there is no decision to make, hence no need for planning.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q31",
+      "chapterId": "bs_ch4",
+      "question": "Objectives should ideally be stated in ________ terms.",
+      "options": [
+        "Vague",
+        "General",
+        "Quantitative/Clear",
+        "Emotional"
+      ],
+      "correctIndex": 2,
+      "explanation": "Objectives must be clear, measurable, and stated in quantitative terms so that actual results can be accurately compared against them.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q32",
+      "chapterId": "bs_ch4",
+      "question": "Planning is a continuous process because:",
+      "options": [
+        "It never works",
+        "Plans are framed for a specific period and new plans are needed after that",
+        "Managers are always busy",
+        "It involves guessing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plans are time-bound. Once a period ends, new plans must be drawn up for the next period, making it a continuous cycle.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q33",
+      "chapterId": "bs_ch4",
+      "question": "Innovation is a feature of planning because planning:",
+      "options": [
+        "Is a physical task",
+        "Encourages managers to think differently and develop new ideas",
+        "Is based on luck",
+        "Reduces profit"
+      ],
+      "correctIndex": 1,
+      "explanation": "As the first managerial function, planning demands intellectual creativity, leading to the development of new ideas and innovative strategies.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q34",
+      "chapterId": "bs_ch4",
+      "question": "External premises in planning include which of the following?",
+      "options": [
+        "Company capital",
+        "Existing machines",
+        "Government policies and tax laws",
+        "Employee skills"
+      ],
+      "correctIndex": 2,
+      "explanation": "External premises relate to factors outside the organization's control, such as government policies, economy, and competition.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q35",
+      "chapterId": "bs_ch4",
+      "question": "In the planning process, 'Selecting an alternative' is the real point of ________.",
+      "options": [
+        "Confusion",
+        "Decision making",
+        "Action",
+        "Observation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Selecting the most feasible, profitable, and least risky alternative is the definitive act of decision making in planning.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q36",
+      "chapterId": "bs_ch4",
+      "question": "Which of the following is a 'Single-use plan'?",
+      "options": [
+        "Policy",
+        "Budget",
+        "Rule",
+        "Method"
+      ],
+      "correctIndex": 1,
+      "explanation": "A budget is prepared for a specific period (e.g., annual budget) and is not used repeatedly in its exact form, making it a single-use plan.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q37",
+      "chapterId": "bs_ch4",
+      "question": "Objectives are the ________ points of management.",
+      "options": [
+        "Starting",
+        "Middle",
+        "End",
+        "Optional"
+      ],
+      "correctIndex": 2,
+      "explanation": "Objectives represent the final desired outcomes or end points towards which all organizational activities are directed.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q38",
+      "chapterId": "bs_ch4",
+      "question": "Which plan is concerned with 'how' tasks are performed to save time, money, and effort?",
+      "options": [
+        "Policy",
+        "Rule",
+        "Method",
+        "Programme"
+      ],
+      "correctIndex": 2,
+      "explanation": "A method specifies the standardized way to perform a particular step within a procedure to maximize efficiency.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q39",
+      "chapterId": "bs_ch4",
+      "question": "Rules are different from policies because rules:",
+      "options": [
+        "Are more flexible",
+        "Are general guidelines",
+        "Prescribe what is to be done without discretion",
+        "Apply only to top management"
+      ],
+      "correctIndex": 2,
+      "explanation": "While policies guide thinking and allow some discretion, rules dictate specific actions or non-actions rigidly without exceptions.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q40",
+      "chapterId": "bs_ch4",
+      "question": "Organisations are not always able to accomplish all their objectives because planning:",
+      "options": [
+        "Is a magic wand",
+        "Does not guarantee success",
+        "Is too cheap",
+        "Involves no thinking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning reduces risk but does not guarantee success, as future conditions can change unpredictably.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q41",
+      "chapterId": "bs_ch4",
+      "question": "Which step follows 'Selecting an alternative' in the planning process?",
+      "options": [
+        "Identifying alternatives",
+        "Implementing the plan",
+        "Developing premises",
+        "Setting objectives"
+      ],
+      "correctIndex": 1,
+      "explanation": "After the best alternative is selected, the next step is implementing the plan—putting the decision into action.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q42",
+      "chapterId": "bs_ch4",
+      "question": "Major strategies and policies are usually formulated by:",
+      "options": [
+        "First-line supervisors",
+        "Middle management",
+        "Top management",
+        "External consultants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Top management is responsible for framing the overall direction, major policies, and long-term strategies of the organization.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q43",
+      "chapterId": "bs_ch4",
+      "question": "A plan is a ________ document that outlines how goals are to be met.",
+      "options": [
+        "Verbal",
+        "Specific",
+        "Uncertain",
+        "Historical"
+      ],
+      "correctIndex": 1,
+      "explanation": "A plan is a specific action proposal or document designed to help the organisation achieve its stated objectives.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q44",
+      "chapterId": "bs_ch4",
+      "question": "Planning involves looking at the ________.",
+      "options": [
+        "Past",
+        "Present",
+        "Future",
+        "None"
+      ],
+      "correctIndex": 2,
+      "explanation": "Planning is essentially a futuristic and forward-looking function, preparing the organization for tomorrow.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q45",
+      "chapterId": "bs_ch4",
+      "question": "Why does planning sometimes reduce creativity among lower-level managers?",
+      "options": [
+        "Because managers don't think",
+        "Because subordinates are required to follow pre-determined plans strictly",
+        "Because it is expensive",
+        "Because it is futuristic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strict adherence to plans made by top management leaves little room for middle/lower managers to show initiative or be creative.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q46",
+      "chapterId": "bs_ch4",
+      "question": "Which of the following is considered an internal premise for planning?",
+      "options": [
+        "Interest rates",
+        "Capital and existing facilities",
+        "Technological changes",
+        "Consumer tastes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Internal premises are factors within the organization's control, such as its capital, labor, and existing physical facilities.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q47",
+      "chapterId": "bs_ch4",
+      "question": "Standing plans are also referred to as ________ plans.",
+      "options": [
+        "Temporary",
+        "Repeat-use",
+        "Single-event",
+        "One-off"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standing plans (like policies and procedures) are repeat-use plans because they guide recurring activities over an extended period.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q48",
+      "chapterId": "bs_ch4",
+      "question": "A recruitment policy is an example of a:",
+      "options": [
+        "Strategy",
+        "Budget",
+        "Policy",
+        "Rule"
+      ],
+      "correctIndex": 2,
+      "explanation": "A recruitment policy provides a general guideline or framework for managers on how to handle hiring, making it a policy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q49",
+      "chapterId": "bs_ch4",
+      "question": "Planning provides the ________ for all other managerial functions.",
+      "options": [
+        "Money",
+        "Base/Framework",
+        "Employees",
+        "Customers"
+      ],
+      "correctIndex": 1,
+      "explanation": "As the primary function, planning lays down the base or framework upon which organizing, staffing, directing, and controlling are built.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch4_q50",
+      "chapterId": "bs_ch4",
+      "question": "What happens if a plan is implemented without proper follow-up action?",
+      "options": [
+        "It always succeeds",
+        "Objectives may not be achieved due to undetected deviations",
+        "Employees get happy",
+        "Costs reduce"
+      ],
+      "correctIndex": 1,
+      "explanation": "Without follow-up (monitoring), deviations from the plan go unnoticed, and the objectives may not be achieved.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "books": [
+    {
+      "id": 1221,
+      "title": "Accountancy Part I",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Accountancy",
+      "chapterCount": 4,
+      "parts": 2
+    },
+    {
+      "id": 1222,
+      "title": "Accountancy Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Accountancy",
+      "chapterCount": 5,
+      "parts": 2
+    },
+    {
+      "id": 1223,
+      "title": "Business Studies Part I",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Business Studies",
+      "chapterCount": 8,
+      "parts": 2
+    },
+    {
+      "id": 1227,
+      "title": "Business Studies Part II",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Business Studies",
+      "chapterCount": 3,
+      "parts": 2
+    },
+    {
+      "id": 1224,
+      "title": "Introductory Macroeconomics",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Economics",
+      "chapterCount": 6,
+      "parts": 1
+    }
+  ]
+}

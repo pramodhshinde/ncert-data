@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bst_ch3_q1",
+      "chapterId": "bst_ch3",
+      "question": "Which of the following best describes 'Business Environment'?",
+      "options": [
+        "Internal management of the firm",
+        "Sum total of all individuals, institutions, and other forces outside the control of a business",
+        "The physical infrastructure of a factory",
+        "The financial statements of a company"
+      ],
+      "correctIndex": 1,
+      "explanation": "The term business environment refers to the total of all external forces—individuals, institutions, and conditions—that are outside the control of a business but can affect its performance.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q2",
+      "chapterId": "bst_ch3",
+      "question": "Forces like investors, customers, and competitors that affect individual enterprises directly are called:",
+      "options": [
+        "General forces",
+        "Specific forces",
+        "Internal forces",
+        "Global forces"
+      ],
+      "correctIndex": 1,
+      "explanation": "Specific forces (such as investors, customers, competitors) affect individual enterprises directly and immediately in their day-to-day operations.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q3",
+      "chapterId": "bst_ch3",
+      "question": "Social, political, and legal conditions are examples of:",
+      "options": [
+        "Specific forces",
+        "General forces",
+        "Controllable forces",
+        "Internal forces"
+      ],
+      "correctIndex": 1,
+      "explanation": "General forces like social, political, legal, and technological conditions have an indirect impact on all business enterprises rather than just a specific firm.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q4",
+      "chapterId": "bst_ch3",
+      "question": "The fact that different parts of the business environment are closely related (e.g., health awareness leading to demand for organic food) is known as:",
+      "options": [
+        "Complexity",
+        "Uncertainty",
+        "Inter-relatedness",
+        "Relativity"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inter-relatedness highlights that the various elements of the business environment do not exist in isolation; a change in one often leads to a change in another.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q5",
+      "chapterId": "bst_ch3",
+      "question": "Business environment is ________ because it keeps on changing, whether in terms of technology or consumer preferences.",
+      "options": [
+        "Static",
+        "Dynamic",
+        "Stable",
+        "Predictable"
+      ],
+      "correctIndex": 1,
+      "explanation": "The business environment is highly dynamic, constantly experiencing shifts in technology, consumer tastes, and market conditions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q6",
+      "chapterId": "bst_ch3",
+      "question": "Why is business environment considered 'uncertain'?",
+      "options": [
+        "Because it is very easy to predict",
+        "Because it is difficult to predict future happenings",
+        "Because it never changes",
+        "Because it is the same everywhere"
+      ],
+      "correctIndex": 1,
+      "explanation": "The environment is uncertain because it is very difficult to accurately predict future events, especially in rapidly changing industries like IT.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q7",
+      "chapterId": "bst_ch3",
+      "question": "The concept that business environment differs from country to country or region to region is:",
+      "options": [
+        "Relativity",
+        "Complexity",
+        "Dynamic nature",
+        "Uncertainty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Relativity implies that the business environment is a relative concept, its impact and nature differing significantly across different geographic regions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q8",
+      "chapterId": "bst_ch3",
+      "question": "A firm that identifies the environment early and acts on it gains:",
+      "options": [
+        "Second-mover advantage",
+        "First-mover advantage",
+        "Profit only",
+        "Market share only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Early identification of opportunities allows a firm to exploit them before competitors, thereby gaining a first-mover advantage.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q9",
+      "chapterId": "bst_ch3",
+      "question": "Scanning the environment helps a firm identify ________ which act as hurdles to its performance.",
+      "options": [
+        "Opportunities",
+        "Threats",
+        "Resources",
+        "Strengths"
+      ],
+      "correctIndex": 1,
+      "explanation": "Threats refer to external environmental trends or changes that will hinder an organization's performance or survival.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q10",
+      "chapterId": "bst_ch3",
+      "question": "Which dimension of business environment includes interest rates, inflation rates, and stock market indices?",
+      "options": [
+        "Social Environment",
+        "Legal Environment",
+        "Economic Environment",
+        "Political Environment"
+      ],
+      "correctIndex": 2,
+      "explanation": "The economic environment consists of broader economic factors like interest rates, inflation rates, and disposable income that affect business.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q11",
+      "chapterId": "bst_ch3",
+      "question": "Customs, traditions, and values of a society form part of the:",
+      "options": [
+        "Economic Environment",
+        "Social Environment",
+        "Political Environment",
+        "Technological Environment"
+      ],
+      "correctIndex": 1,
+      "explanation": "The social environment encompasses social forces, including the customs, traditions, values, and social trends of the society in which a business operates.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q12",
+      "chapterId": "bst_ch3",
+      "question": "The 'Political Environment' of business is concerned with:",
+      "options": [
+        "Court judgments",
+        "Legislations passed by government",
+        "Political conditions and general stability of the country",
+        "Technological advancements"
+      ],
+      "correctIndex": 2,
+      "explanation": "The political environment includes political conditions such as general stability and peace in the country, and the attitudes of elected government representatives.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q13",
+      "chapterId": "bst_ch3",
+      "question": "Statutory warnings required on packages (e.g., for cigarettes) are part of which environment?",
+      "options": [
+        "Social",
+        "Political",
+        "Legal",
+        "Economic"
+      ],
+      "correctIndex": 2,
+      "explanation": "The legal environment includes laws and regulations passed by the government, which businesses must comply with, such as statutory warnings.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q14",
+      "chapterId": "bst_ch3",
+      "question": "Scientific improvements and innovations which provide new ways of producing goods are part of:",
+      "options": [
+        "Legal Environment",
+        "Social Environment",
+        "Technological Environment",
+        "Political Environment"
+      ],
+      "correctIndex": 2,
+      "explanation": "The technological environment includes forces relating to scientific improvements and innovations that change how goods are produced or services rendered.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q15",
+      "chapterId": "bst_ch3",
+      "question": "What was the immediate effect of the New Industrial Policy announced in July 1991?",
+      "options": [
+        "Increased licensing",
+        "Economic reforms including Liberalization, Privatization, and Globalization",
+        "Decreased foreign investment",
+        "End of private sector"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1991 policy marked a major shift, initiating comprehensive economic reforms known broadly as Liberalisation, Privatisation, and Globalisation (LPG).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q16",
+      "chapterId": "bst_ch3",
+      "question": "Liberalization of the economy means:",
+      "options": [
+        "Giving more power to the public sector",
+        "Removing unnecessary controls and restrictions",
+        "Restricting foreign trade",
+        "Increasing tax rates"
+      ],
+      "correctIndex": 1,
+      "explanation": "Liberalization signifies the end of the license-quota-raj and the removal of unnecessary restrictions and controls on business operations.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q17",
+      "chapterId": "bst_ch3",
+      "question": "Privatization refers to:",
+      "options": [
+        "Integration of world economies",
+        "Giving a greater role to the private sector in nation building",
+        "Government control of all industries",
+        "Strict licensing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Privatization involves reducing the role of the public sector and giving a much greater role to the private sector in the nation's economic development.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q18",
+      "chapterId": "bst_ch3",
+      "question": "Globalization leads to:",
+      "options": [
+        "Isolation of the economy",
+        "Integration of various economies of the world",
+        "Higher import duties",
+        "Restriction on capital movement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Globalization is the process of integrating the domestic economy with the rest of the world, leading to a more interdependent global economy.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q19",
+      "chapterId": "bst_ch3",
+      "question": "Which of the following is NOT an impact of government policy changes on business and industry?",
+      "options": [
+        "Increasing competition",
+        "More demanding customers",
+        "Rapidly changing technological environment",
+        "Decrease in the need for human resources"
+      ],
+      "correctIndex": 3,
+      "explanation": "Policy changes actually increased the need for developing human resources because trained personnel are required to handle new, complex technologies.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q20",
+      "chapterId": "bst_ch3",
+      "question": "Demonetization of ₹500 and ₹1,000 notes was announced by the Government of India on:",
+      "options": [
+        "August 15, 2016",
+        "November 8, 2016",
+        "January 1, 2017",
+        "November 8, 2015"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Government of India made the major announcement regarding demonetization on November 8, 2016.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q21",
+      "chapterId": "bst_ch3",
+      "question": "Which of the following is a feature of demonetization?",
+      "options": [
+        "Tax administration measure",
+        "Channelizing savings into the formal financial system",
+        "Creating a less-cash or 'cash-lite' economy",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Demonetization functioned as a tax measure to curb evasion, shifted savings into banks, and aimed to transition the country toward a less-cash economy.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q22",
+      "chapterId": "bst_ch3",
+      "question": "The 'Economic Environment' in India is influenced by:",
+      "options": [
+        "Five-year plans",
+        "Monetary and Fiscal policies",
+        "Infrastructure development",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "India's economic environment is shaped by a multitude of macroeconomic factors including planning, fiscal/monetary policies, and infrastructure.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q23",
+      "chapterId": "bst_ch3",
+      "question": "The 'Relativity' of business environment means:",
+      "options": [
+        "It is absolute",
+        "Demand for sarees may be high in India but almost nil in France",
+        "It is same for all countries",
+        "It only affects large businesses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Relativity illustrates that the business environment is not uniform globally; what applies in one country (like demand for sarees) may not apply in another.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q24",
+      "chapterId": "bst_ch3",
+      "question": "Disinvestment of public sector enterprises was a part of:",
+      "options": [
+        "Liberalization",
+        "Privatization",
+        "Globalization",
+        "Internalization"
+      ],
+      "correctIndex": 1,
+      "explanation": "Privatization was largely achieved through the process of disinvestment, which involves the government selling off its equity stake in public sector units.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q25",
+      "chapterId": "bst_ch3",
+      "question": "Economic reforms have resulted in 'Demanding Customers' because:",
+      "options": [
+        "Prices have increased",
+        "Customers are now better informed and have more choice",
+        "Advertising has stopped",
+        "Government has mandated it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Increased competition brought wider choice and better quality, leading to customers who are well-informed and therefore more demanding.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q26",
+      "chapterId": "bst_ch3",
+      "question": "Environment scanning is useful for:",
+      "options": [
+        "Policy formulation",
+        "Identifying warning signals",
+        "Tapping useful resources",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Scanning the environment helps management in formulating policies, acting as an early warning system, and gathering necessary resources.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q27",
+      "chapterId": "bst_ch3",
+      "question": "The shift from typewriters to computers is an example of:",
+      "options": [
+        "Social change",
+        "Legal change",
+        "Technological environment change",
+        "Political change"
+      ],
+      "correctIndex": 2,
+      "explanation": "This represents a change in the technological environment, involving scientific innovations that alter how work is done.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q28",
+      "chapterId": "bst_ch3",
+      "question": "High 'Uncertainty' in business environment is most common in which industry?",
+      "options": [
+        "Agriculture",
+        "Information Technology",
+        "Mining",
+        "Steel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Industries like Information Technology (IT) and fashion face rapid and frequent changes, making their environments highly uncertain.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q29",
+      "chapterId": "bst_ch3",
+      "question": "Which of the following describes 'Complexity' in business environment?",
+      "options": [
+        "It is easy to understand in parts but difficult to grasp in totality",
+        "It is same for everyone",
+        "It only refers to legal rules",
+        "It never changes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Complexity means that while individual factors might be understood, predicting their combined impact on the business is very difficult.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q30",
+      "chapterId": "bst_ch3",
+      "question": "An example of a 'Specific Force' in the business environment is:",
+      "options": [
+        "Tax laws",
+        "Customers",
+        "Inflation",
+        "Technological innovation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Specific forces directly impact an individual firm; customers are a prime example of a specific force.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q31",
+      "chapterId": "bst_ch3",
+      "question": "Changes in 'disposable income' of people primarily affect which environment?",
+      "options": [
+        "Economic Environment",
+        "Social Environment",
+        "Legal Environment",
+        "Political Environment"
+      ],
+      "correctIndex": 0,
+      "explanation": "Disposable income dictates purchasing power and demand, which is a core component of the economic environment.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q32",
+      "chapterId": "bst_ch3",
+      "question": "The 'Ease of Doing Business' initiative in India is part of the:",
+      "options": [
+        "Social Environment",
+        "Political and Legal Environment",
+        "Natural Environment",
+        "Technological Environment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Government-led initiatives and legislative changes aimed at easing business operations fall under the political and legal environments.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q33",
+      "chapterId": "bst_ch3",
+      "question": "The 1991 reforms resulted in the number of industries under compulsory licensing being reduced to:",
+      "options": [
+        "None",
+        "Five",
+        "Ten",
+        "Six"
+      ],
+      "correctIndex": 3,
+      "explanation": "Under the new industrial policy, compulsory licensing was abolished for all but six specific industries.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q34",
+      "chapterId": "bst_ch3",
+      "question": "What is the primary aim of 'Liberalization'?",
+      "options": [
+        "End of license quota",
+        "End of private sector",
+        "Strict border controls",
+        "Increase in government debt"
+      ],
+      "correctIndex": 0,
+      "explanation": "The core aim of liberalization was to dismantle the restrictive license-quota-raj and free the economy from unnecessary controls.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q35",
+      "chapterId": "bst_ch3",
+      "question": "Which institution was set up to check 'sick' public sector units?",
+      "options": [
+        "RBI",
+        "BIFR",
+        "SEBI",
+        "WTO"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Board of Industrial and Financial Reconstruction (BIFR) was established to address the problem of sick (loss-making) public sector units.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q36",
+      "chapterId": "bst_ch3",
+      "question": "Economic reforms led to a shift from the 'Selling Concept' to:",
+      "options": [
+        "Buying Concept",
+        "Marketing Concept",
+        "Financial Concept",
+        "Social Concept"
+      ],
+      "correctIndex": 1,
+      "explanation": "Increased competition forced businesses to shift from a production/selling orientation to a customer-focused marketing orientation.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q37",
+      "chapterId": "bst_ch3",
+      "question": "The stated purpose of demonetization was to:",
+      "options": [
+        "Increase corruption",
+        "Curb black money and illegal activities",
+        "Stop all banking",
+        "Discourage digital payments"
+      ],
+      "correctIndex": 1,
+      "explanation": "Demonetization was primarily aimed at curbing corruption, tax evasion, black money, and the funding of illegal activities.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q38",
+      "chapterId": "bst_ch3",
+      "question": "Which environment dimension includes consumer protection acts passed by the government?",
+      "options": [
+        "Social",
+        "Economic",
+        "Legal",
+        "Technological"
+      ],
+      "correctIndex": 2,
+      "explanation": "Acts and legislations passed by the government, such as the Consumer Protection Act, constitute the legal environment.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q39",
+      "chapterId": "bst_ch3",
+      "question": "A rise in 'Inflation Rates' generally leads to:",
+      "options": [
+        "Increase in purchasing power",
+        "Increase in cost of production",
+        "Decrease in interest rates",
+        "Higher profits for all"
+      ],
+      "correctIndex": 1,
+      "explanation": "High inflation rates increase the cost of raw materials and machinery, thereby increasing the overall cost of production for businesses.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q40",
+      "chapterId": "bst_ch3",
+      "question": "Which of the following was a direct result of Globalization in India?",
+      "options": [
+        "Indian companies became limited to India",
+        "Entry of MNCs and expansion of Indian companies abroad",
+        "Increase in tariffs",
+        "Lowering of technological standards"
+      ],
+      "correctIndex": 1,
+      "explanation": "Globalization facilitated the entry of multinational corporations into India and allowed Indian firms to expand their operations globally.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q41",
+      "chapterId": "bst_ch3",
+      "question": "Threats identify external environment trends that:",
+      "options": [
+        "Help performance",
+        "Hinder performance",
+        "Provide resources",
+        "Change management"
+      ],
+      "correctIndex": 1,
+      "explanation": "Threats are negative trends or changes in the external environment that are likely to hinder an organization's performance.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q42",
+      "chapterId": "bst_ch3",
+      "question": "Which of the following is NOT part of the 'Internal' environment of a firm?",
+      "options": [
+        "Corporate culture",
+        "Organization structure",
+        "Legal rules",
+        "Management policy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Legal rules are external forces imposed by the government, whereas culture, structure, and internal policies are within the firm's control.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q43",
+      "chapterId": "bst_ch3",
+      "question": "The 'Dynamic' nature of environment scanning means:",
+      "options": [
+        "Once scanned, it's done",
+        "It's an ongoing process as the environment keeps changing",
+        "Only top management does it",
+        "It is limited to social media"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because the environment is dynamic (constantly changing), scanning must be a continuous, ongoing process to stay relevant.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q44",
+      "chapterId": "bst_ch3",
+      "question": "Demanding customers after 1991 meant firms had to:",
+      "options": [
+        "Ignore customer needs",
+        "Provide better quality and service to stay competitive",
+        "Decrease variety",
+        "Fixed prices high"
+      ],
+      "correctIndex": 1,
+      "explanation": "With increased choices due to liberalization, customers demanded better quality and services, forcing firms to improve to survive.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q45",
+      "chapterId": "bst_ch3",
+      "question": "The 1991 reforms removed restrictions on the expansion and ________ of business activities.",
+      "options": [
+        "Closure",
+        "Contraction",
+        "Controlling",
+        "Financing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Liberalization removed earlier restrictions, giving businesses the freedom to decide on the scale of their activities, including expansion or contraction.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q46",
+      "chapterId": "bst_ch3",
+      "question": "The 'Social' dimension of the business environment includes which of the following trends?",
+      "options": [
+        "Online ticket booking",
+        "Increased health consciousness",
+        "Court orders",
+        "Political stability"
+      ],
+      "correctIndex": 1,
+      "explanation": "Increased health consciousness is a change in societal values and lifestyles, thus a part of the social environment.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q47",
+      "chapterId": "bst_ch3",
+      "question": "Environment scanning helps a firm to 'Tap Useful Resources' by:",
+      "options": [
+        "Stealing from others",
+        "Identifying resources needed to match environment (e.g., raw materials, finance)",
+        "Ignoring competitors",
+        "Increasing taxes"
+      ],
+      "correctIndex": 1,
+      "explanation": "By understanding what the environment (customers) demands, an enterprise can identify and tap the specific resources needed to produce those outputs.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q48",
+      "chapterId": "bst_ch3",
+      "question": "Relativity implies that the business environment is a/an:",
+      "options": [
+        "Absolute concept",
+        "Relative concept",
+        "Internal concept",
+        "Static concept"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is a relative concept because the environmental conditions and their impacts differ from one country or region to another.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q49",
+      "chapterId": "bst_ch3",
+      "question": "The immediate impact of demonetization on 'Real Estate' was generally:",
+      "options": [
+        "Increase in prices",
+        "Decline in prices",
+        "No impact",
+        "Legalization of all property"
+      ],
+      "correctIndex": 1,
+      "explanation": "Demonetization removed significant amounts of cash (often black money) from the economy, leading to a decline in real estate prices which relied heavily on cash transactions.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch3_q50",
+      "chapterId": "bst_ch3",
+      "question": "Political environment includes 'peace' because:",
+      "options": [
+        "It doesn't affect business",
+        "Business thrives in stable and peaceful conditions",
+        "It is only for citizens",
+        "It decreases taxes"
+      ],
+      "correctIndex": 1,
+      "explanation": "General stability and peace are vital political conditions because they build confidence among investors and allow businesses to operate without disruption.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    }
+  ]
+}

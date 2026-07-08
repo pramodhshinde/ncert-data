@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bst_ch6_q1",
+      "chapterId": "bst_ch6",
+      "question": "Which function of management is concerned with obtaining, utilizing, and maintaining a satisfactory and satisfied workforce?",
+      "options": [
+        "Planning",
+        "Organising",
+        "Staffing",
+        "Directing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Staffing has been described as the managerial function of filling and keeping filled the positions in the organisation structure.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q2",
+      "chapterId": "bst_ch6",
+      "question": "The 'foundation of any organisation' as per the text is its:",
+      "options": [
+        "Capital",
+        "Talented and hardworking people",
+        "Machinery",
+        "Building"
+      ],
+      "correctIndex": 1,
+      "explanation": "The foundation of any organisation is the talented and hardworking people, who are the principal assets of any firm.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q3",
+      "chapterId": "bst_ch6",
+      "question": "Which of the following is NOT an importance of staffing mentioned in the text?",
+      "options": [
+        "Discovering competent personnel",
+        "Higher performance",
+        "Continuous survival and growth",
+        "Reducing the cost of marketing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proper staffing ensures competent personnel, higher performance, and survival/growth; marketing cost reduction is not a direct staffing importance.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q4",
+      "chapterId": "bst_ch6",
+      "question": "Staffing is a part of which broader management concept?",
+      "options": [
+        "Financial Management",
+        "Human Resource Management",
+        "Marketing Management",
+        "Operations Management"
+      ],
+      "correctIndex": 1,
+      "explanation": "Staffing is a function which all managers have to perform. It is a separate and specialised function and there are many aspects of human relations to be considered.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q5",
+      "chapterId": "bst_ch6",
+      "question": "In a small organization, who usually performs the staffing function?",
+      "options": [
+        "Human Resource Department",
+        "Every manager",
+        "Only the CEO",
+        "External Consultants"
+      ],
+      "correctIndex": 1,
+      "explanation": "In small organisations, every manager may perform all duties related to employees.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q6",
+      "chapterId": "bst_ch6",
+      "question": "What is the first step in the staffing process?",
+      "options": [
+        "Recruitment",
+        "Selection",
+        "Estimating the manpower requirements",
+        "Placement"
+      ],
+      "correctIndex": 2,
+      "explanation": "Staffing process begins with estimating manpower requirements, which involves knowing how many persons and of what type are needed.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q7",
+      "chapterId": "bst_ch6",
+      "question": "A 'Workload Analysis' helps in determining:",
+      "options": [
+        "The number and type of human resources necessary",
+        "The number of people currently available",
+        "The salary of employees",
+        "The training needs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Workload analysis would enable an assessment of the number and types of human resources necessary for the performance of various jobs.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q8",
+      "chapterId": "bst_ch6",
+      "question": "A 'Workforce Analysis' helps in revealing:",
+      "options": [
+        "Future job requirements",
+        "Number and type of human resources available",
+        "Profitability of the firm",
+        "Market competition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Workforce analysis reveals the number and type available.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q9",
+      "chapterId": "bst_ch6",
+      "question": "The process of searching for prospective employees and stimulating them to apply for jobs is called:",
+      "options": [
+        "Selection",
+        "Recruitment",
+        "Orientation",
+        "Induction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Recruitment may be defined as the process of searching for prospective employees and stimulating them to apply for jobs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q10",
+      "chapterId": "bst_ch6",
+      "question": "Selection is often described as a 'negative' process because:",
+      "options": [
+        "It makes employees sad",
+        "More candidates are rejected than selected",
+        "It reduces company profits",
+        "It involves difficult tests"
+      ],
+      "correctIndex": 1,
+      "explanation": "Selection is the process of choosing the best person. It is often called a negative process because the number of rejected candidates is usually more than the selected ones.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q11",
+      "chapterId": "bst_ch6",
+      "question": "Which activity involves a brief presentation of the company and introduction to colleagues?",
+      "options": [
+        "Placement",
+        "Selection",
+        "Orientation",
+        "Training"
+      ],
+      "correctIndex": 2,
+      "explanation": "Orientation is introducing the selected employee to other employees and familiarising him with the rules and policies of the organisation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q12",
+      "chapterId": "bst_ch6",
+      "question": "Evaluating an employee's current and past performance against set standards is called:",
+      "options": [
+        "Promotion",
+        "Performance Appraisal",
+        "Career Planning",
+        "Compensation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Performance appraisal means evaluating an employee’s current and/or past performance as against certain predetermined standards.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q13",
+      "chapterId": "bst_ch6",
+      "question": "Direct financial payments like wages, salaries, and bonuses are part of:",
+      "options": [
+        "Incentives",
+        "Compensation",
+        "Perks",
+        "Promotion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Compensation refers to all forms of pay or rewards going to employees. It includes direct financial payments like wages and salaries.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q14",
+      "chapterId": "bst_ch6",
+      "question": "Which of the following is an 'Internal Source' of recruitment?",
+      "options": [
+        "Campus recruitment",
+        "Transfers",
+        "Employment Exchange",
+        "Advertising"
+      ],
+      "correctIndex": 1,
+      "explanation": "Internal sources of recruitment include transfers and promotions.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q15",
+      "chapterId": "bst_ch6",
+      "question": "In which type of internal recruitment is there no substantive change in the job's responsibility or grade?",
+      "options": [
+        "Promotion",
+        "Transfer",
+        "Demotion",
+        "Lay-off"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transfer involves shifting of an employee from one job to another... without a substantive change in the responsibilities or status.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q16",
+      "chapterId": "bst_ch6",
+      "question": "Which source of recruitment is best for filling vacancies in higher jobs with existing employees?",
+      "options": [
+        "Direct recruitment",
+        "Promotion",
+        "Campus recruitment",
+        "Labor contractors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Promotion involves shifting an employee to a higher post carrying higher responsibilities and status.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q17",
+      "chapterId": "bst_ch6",
+      "question": "A merit of internal recruitment is that it is:",
+      "options": [
+        "Economical",
+        "Brings 'fresh blood' to the firm",
+        "Encourages competition among outsiders",
+        "Suitable for new enterprises"
+      ],
+      "correctIndex": 0,
+      "explanation": "Recruitment from internal sources is very economical as it does not involve much time or money.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q18",
+      "chapterId": "bst_ch6",
+      "question": "A major limitation of internal recruitment is that:",
+      "options": [
+        "It is expensive",
+        "It stops the infusion of fresh talent",
+        "It demotivates employees",
+        "It is a long process"
+      ],
+      "correctIndex": 1,
+      "explanation": "When vacancies are filled through internal promotions, the scope for induction of fresh talent is reduced.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q19",
+      "chapterId": "bst_ch6",
+      "question": "What is the recruitment method where a notice is placed on the notice-board specifying job details, usually for unskilled workers?",
+      "options": [
+        "Casual Callers",
+        "Direct Recruitment",
+        "Advertisement",
+        "Employment Exchange"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under direct recruitment, a notice is placed on the notice-board of the enterprise specifying the details of the jobs available.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q20",
+      "chapterId": "bst_ch6",
+      "question": "Which external source of recruitment maintains a database of unsolicited applicants?",
+      "options": [
+        "Employment Exchange",
+        "Casual Callers",
+        "Labor Contractors",
+        "Web Publishing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many business organisations keep a database of unsolicited applicants in their offices. Such list can be used as a source of recruitment (Casual Callers).",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q21",
+      "chapterId": "bst_ch6",
+      "question": "Which of the following acts as a 'link' between job-seekers and employers and is run by the government?",
+      "options": [
+        "Placement Agencies",
+        "Employment Exchanges",
+        "Management Consultants",
+        "Campus Recruitment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Employment exchanges run by the Government are regarded as a good source of recruitment for unskilled and skilled operative jobs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q22",
+      "chapterId": "bst_ch6",
+      "question": "Management Consultants are preferred for recruiting:",
+      "options": [
+        "Unskilled labor",
+        "Technical and professional personnel",
+        "Temporary staff",
+        "Security guards"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management consultancy firms help the organisations to recruit technical, professional and managerial personnel.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q23",
+      "chapterId": "bst_ch6",
+      "question": "In selection tests, which test measures the 'potential' to learn new skills?",
+      "options": [
+        "Intelligence Test",
+        "Aptitude Test",
+        "Trade Test",
+        "Interest Test"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aptitude test is a measure of a person’s capacity or potential for learning new skills.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q24",
+      "chapterId": "bst_ch6",
+      "question": "The 'Trade Test' is used to measure:",
+      "options": [
+        "Intelligence",
+        "Existing skills and knowledge",
+        "Personality",
+        "Motivation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trade tests measure the existing skills of the individual. They measure the level of knowledge and proficiency in the area of professions or technical training.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q25",
+      "chapterId": "bst_ch6",
+      "question": "The step in the selection process that follows the 'Selection Decision' and before the 'Contract of Employment' is:",
+      "options": [
+        "Reference and Background checks",
+        "Medical Examination",
+        "Job Offer",
+        "Employment Interview"
+      ],
+      "correctIndex": 1,
+      "explanation": "After the selection decision and before the job offer is made, the candidate is required to undergo a medical fitness test.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q26",
+      "chapterId": "bst_ch6",
+      "question": "Which term refers to any process by which the aptitudes, skills and abilities of employees to perform specific jobs are increased?",
+      "options": [
+        "Education",
+        "Development",
+        "Training",
+        "Placement"
+      ],
+      "correctIndex": 2,
+      "explanation": "Training is any process by which the aptitudes, skills and abilities of employees to perform specific jobs are increased.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q27",
+      "chapterId": "bst_ch6",
+      "question": "Development differs from training because development is more concerned with:",
+      "options": [
+        "Current job skills",
+        "Growth of the individual in all respects",
+        "Mechanical skills",
+        "Short-term goals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Development refers to the learning opportunities designed to help employees grow. It is a process by which the employees acquire skills and competence for handling higher jobs.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q28",
+      "chapterId": "bst_ch6",
+      "question": "Which of the following is a 'Benefit of Training to the Organisation'?",
+      "options": [
+        "Better career prospects for employees",
+        "Reduced absenteeism and employee turnover",
+        "Increased earnings for workers",
+        "Safety of employees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Training increases employee morale and reduces absenteeism and employee turnover.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q29",
+      "chapterId": "bst_ch6",
+      "question": "Which training method places the trainee under the guidance of a master worker?",
+      "options": [
+        "Coaching",
+        "Apprenticeship Programme",
+        "Job Rotation",
+        "Internship Training"
+      ],
+      "correctIndex": 1,
+      "explanation": "Apprenticeship programmes put the trainee under the guidance of a master worker.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q30",
+      "chapterId": "bst_ch6",
+      "question": "The method of training where an employee is shifted from one department to another is:",
+      "options": [
+        "Apprenticeship",
+        "Job Rotation",
+        "Vestibule Training",
+        "Case Study"
+      ],
+      "correctIndex": 1,
+      "explanation": "Job rotation involves shifting the trainee from one department to another or from one job to another.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q31",
+      "chapterId": "bst_ch6",
+      "question": "Vestibule Training is a/an ________ method.",
+      "options": [
+        "On-the-job",
+        "Off-the-job",
+        "Internal",
+        "Traditional"
+      ],
+      "correctIndex": 1,
+      "explanation": "Off-the-job methods are used away from the work place. Vestibule training is an example of an off-the-job method.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q32",
+      "chapterId": "bst_ch6",
+      "question": "What is the joint programme of training in which educational institutions and business firms cooperate?",
+      "options": [
+        "Coaching",
+        "Apprenticeship",
+        "Internship Training",
+        "Job Rotation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Internship training is a joint programme of training in which educational institutions and business firms cooperate.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q33",
+      "chapterId": "bst_ch6",
+      "question": "Which training method uses equipment that is an identical copy of what is used on the job, but is located in a separate classroom?",
+      "options": [
+        "Apprenticeship",
+        "Vestibule Training",
+        "Coaching",
+        "Job Rotation"
+      ],
+      "correctIndex": 1,
+      "explanation": "In vestibule training, employees learn their jobs on the equipment they will be using, but the training is conducted away from the actual work floor.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q34",
+      "chapterId": "bst_ch6",
+      "question": "The process of increasing the knowledge and understanding of a subject or a certain field is:",
+      "options": [
+        "Training",
+        "Education",
+        "Development",
+        "Recruitment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Education is the process of increasing the knowledge and understanding of employees.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q35",
+      "chapterId": "bst_ch6",
+      "question": "Which of the following is an example of 'Direct Recruitment'?",
+      "options": [
+        "Campus interview",
+        "Labor contractors",
+        "Notice on the factory gate",
+        "Employment exchange"
+      ],
+      "correctIndex": 2,
+      "explanation": "Direct recruitment involves placing a notice on the notice board of the enterprise specifying the details of the jobs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q36",
+      "chapterId": "bst_ch6",
+      "question": "The 'Staffing' function is also known as:",
+      "options": [
+        "Marketing Function",
+        "Financial Function",
+        "Human Resource Function",
+        "Directing Function"
+      ],
+      "correctIndex": 2,
+      "explanation": "Staffing is simply stated as finding the right people for the right job... in small organisations... in large organisations, there is a separate department called the Human Resources Department.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q37",
+      "chapterId": "bst_ch6",
+      "question": "Which test in the selection process is used to measure an individual's 'emotional reactions' and 'maturity'?",
+      "options": [
+        "Intelligence Test",
+        "Aptitude Test",
+        "Personality Test",
+        "Interest Test"
+      ],
+      "correctIndex": 2,
+      "explanation": "Personality tests provide clues to a person’s emotions, her reactions, maturity and value system etc.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q38",
+      "chapterId": "bst_ch6",
+      "question": "Internal sources of recruitment ________ of employees.",
+      "options": [
+        "Increase the cost",
+        "Decrease the motivation",
+        "Improve the motivation",
+        "Increase the turnover"
+      ],
+      "correctIndex": 2,
+      "explanation": "Filling of higher jobs by promoting employees from lower levels... motivates the employees to improve their performance.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q39",
+      "chapterId": "bst_ch6",
+      "question": "Which external source is most suitable for a 'Fresh graduate' looking for a job?",
+      "options": [
+        "Promotion",
+        "Transfer",
+        "Campus Recruitment",
+        "Direct Recruitment"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many big organisations maintain a close liaison with the universities... to recruit qualified personnel for various jobs (Campus Recruitment).",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q40",
+      "chapterId": "bst_ch6",
+      "question": "In the staffing process, the step of 'Placement' means:",
+      "options": [
+        "Giving a job offer",
+        "Employee occupying the position for which they are selected",
+        "evaluation of performance",
+        "Sending for training"
+      ],
+      "correctIndex": 1,
+      "explanation": "Placement refers to the employee occupying the position or post for which the person has been selected.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q41",
+      "chapterId": "bst_ch6",
+      "question": "Under-staffing leads to:",
+      "options": [
+        "Increased efficiency",
+        "Workload on employees and lower quality",
+        "Higher profits",
+        "Better coordination"
+      ],
+      "correctIndex": 1,
+      "explanation": "Understaffing would mean more work for the existing employees and may lead to lower quality.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q42",
+      "chapterId": "bst_ch6",
+      "question": "Which of the following is a limitation of External Sources of Recruitment?",
+      "options": [
+        "Wider choice",
+        "Infusion of new talent",
+        "Lengthy process",
+        "Qualified personnel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Recruitment from external sources takes more time.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q43",
+      "chapterId": "bst_ch6",
+      "question": "The 'Selection Process' starts after:",
+      "options": [
+        "Planning",
+        "Organising",
+        "Recruitment",
+        "Training"
+      ],
+      "correctIndex": 2,
+      "explanation": "The recruitment process provides a pool of candidates from which the selection process begins.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q44",
+      "chapterId": "bst_ch6",
+      "question": "What is the primary objective of a 'Preliminary Screening'?",
+      "options": [
+        "To conduct final interviews",
+        "To eliminate unqualified applicants",
+        "To offer the job",
+        "To check background"
+      ],
+      "correctIndex": 1,
+      "explanation": "Preliminary screening helps the manager eliminate unqualified or unfit job seekers based on information in application forms.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q45",
+      "chapterId": "bst_ch6",
+      "question": "An employment interview is conducted to:",
+      "options": [
+        "Test physical strength",
+        "Find out suitability and give information about the job",
+        "Check medical fitness",
+        "Verify educational degrees only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Interview is a formal, in-depth conversation conducted to evaluate the applicant’s suitability for the job.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q46",
+      "chapterId": "bst_ch6",
+      "question": "Which training method is suitable for 'Operative employees' like plumbers or electricians?",
+      "options": [
+        "Case Study",
+        "Apprenticeship Training",
+        "Management Games",
+        "Job Rotation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Apprenticeship programmes are used for jobs where a higher level of skill is required (e.g. plumbers, electricians).",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q47",
+      "chapterId": "bst_ch6",
+      "question": "Staffing is a ________ function of management.",
+      "options": [
+        "One-time",
+        "Continuous",
+        "Temporary",
+        "Static"
+      ],
+      "correctIndex": 1,
+      "explanation": "Staffing is a continuous process because new jobs may be created and some existing employees may leave the organisation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q48",
+      "chapterId": "bst_ch6",
+      "question": "Which term describes the 'movement of an employee to a higher post'?",
+      "options": [
+        "Transfer",
+        "Promotion",
+        "Placement",
+        "Orientation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Promotion refers to being placed in a higher position.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q49",
+      "chapterId": "bst_ch6",
+      "question": "The 'Contract of Employment' contains:",
+      "options": [
+        "Job title",
+        "Terms of service and leave rules",
+        "Work hours",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "The contract of employment includes job title, responsibilities, date, pay, allowance, hours of work, leave rules, etc.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bst_ch6_q50",
+      "chapterId": "bst_ch6",
+      "question": "The main focus of 'Training' is to:",
+      "options": [
+        "Improve overall personality",
+        "Increase job proficiency",
+        "Find new applicants",
+        "Assess intelligence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Training is concerned with increasing the aptitudes, skills and abilities of employees to perform specific jobs.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    }
+  ]
+}

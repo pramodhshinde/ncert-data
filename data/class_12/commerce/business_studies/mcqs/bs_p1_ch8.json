@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "mcqId": "12_bs_ch8_q1",
+      "chapterId": "bs_ch8",
+      "question": "Which function of management ensures that activities in an organization are performed as per the plans?",
+      "options": [
+        "Planning",
+        "Organising",
+        "Staffing",
+        "Controlling"
+      ],
+      "correctIndex": 3,
+      "explanation": "Controlling is the managerial function that ensures that activities in an organization are performed as per the plans and that resources are being used effectively and efficiently.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q2",
+      "chapterId": "bs_ch8",
+      "question": "Controlling is called a 'backward-looking' function because:",
+      "options": [
+        "It relates to future planning",
+        "It is like a post-mortem of past activities",
+        "It ignores past performance",
+        "It is only done by lower management"
+      ],
+      "correctIndex": 1,
+      "explanation": "Controlling is backward-looking because it is like a post-mortem of past activities to find out deviations from the established standards.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q3",
+      "chapterId": "bs_ch8",
+      "question": "What is the first step in the process of controlling?",
+      "options": [
+        "Measurement of actual performance",
+        "Comparing actual performance with standards",
+        "Setting performance standards",
+        "Taking corrective action"
+      ],
+      "correctIndex": 2,
+      "explanation": "The controlling process always begins with setting up of performance standards against which actual performance will be evaluated.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q4",
+      "chapterId": "bs_ch8",
+      "question": "Standards that can be expressed in numerical terms, like revenue or units, are called:",
+      "options": [
+        "Qualitative standards",
+        "Quantitative standards",
+        "Flexible standards",
+        "Subjective standards"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standards are said to be quantitative when they are expressed in measurable, numerical terms such as cost, revenue, time, or units produced.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q5",
+      "chapterId": "bs_ch8",
+      "question": "Which of the following is a 'Qualitative' standard?",
+      "options": [
+        "Production of 100 units",
+        "Cost per unit",
+        "Improving goodwill and motivation",
+        "Time taken to finish a task"
+      ],
+      "correctIndex": 2,
+      "explanation": "Improving goodwill and employee motivation are qualitative standards because they are subjective and cannot be easily measured in exact numbers.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q6",
+      "chapterId": "bs_ch8",
+      "question": "Controlling is a ________ function because it is required in all types of organizations and at all levels.",
+      "options": [
+        "Pervasive",
+        "One-time",
+        "Optional",
+        "Administrative"
+      ],
+      "correctIndex": 0,
+      "explanation": "Controlling is a pervasive function as it is an essential part of a manager's job at all levels and in all types of organizations.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q7",
+      "chapterId": "bs_ch8",
+      "question": "How does controlling help in 'Judging Accuracy of Standards'?",
+      "options": [
+        "By firing employees",
+        "By reviewing standards when environment changes",
+        "By increasing the budget",
+        "By making plans rigid"
+      ],
+      "correctIndex": 1,
+      "explanation": "An efficient control system enables management to verify if standards are accurate by continuously reviewing and revising them in light of changes in the business environment.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q8",
+      "chapterId": "bs_ch8",
+      "question": "Comparing actual performance with standards helps in identifying:",
+      "options": [
+        "Employees' names",
+        "Deviations",
+        "New goals",
+        "Profit"
+      ],
+      "correctIndex": 1,
+      "explanation": "The primary purpose of comparing actual performance with the established standards is to reveal any deviations or variances.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q9",
+      "chapterId": "bs_ch8",
+      "question": "The concept 'Control by Exception' means:",
+      "options": [
+        "Controlling everything is easy",
+        "An attempt to control everything results in controlling nothing",
+        "Only top management should control",
+        "No deviations should be allowed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management by exception is based on the belief that if you try to control everything, you may end up controlling nothing; therefore, only significant deviations should be brought to management's attention.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q10",
+      "chapterId": "bs_ch8",
+      "question": "Critical Point Control focuses on:",
+      "options": [
+        "Minor deviations",
+        "Every single activity",
+        "Key Result Areas (KRAs)",
+        "The last step of production"
+      ],
+      "correctIndex": 2,
+      "explanation": "Critical Point Control emphasizes that management should focus its attention on Key Result Areas (KRAs) which are critical to the overall success of the organization.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q11",
+      "chapterId": "bs_ch8",
+      "question": "Controlling is 'Forward-Looking' because:",
+      "options": [
+        "It looks at past mistakes",
+        "It helps in improving future performance based on past experience",
+        "It is done before planning",
+        "It ignores the past"
+      ],
+      "correctIndex": 1,
+      "explanation": "Controlling is forward-looking because it uses the analysis of past deviations as feedback to improve future planning and performance.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q12",
+      "chapterId": "bs_ch8",
+      "question": "Which function of management is 'blind' without controlling?",
+      "options": [
+        "Organising",
+        "Staffing",
+        "Planning",
+        "Directing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Planning is said to be 'blind' without controlling because without a control mechanism, there is no way to ensure that the plans are actually being achieved.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q13",
+      "chapterId": "bs_ch8",
+      "question": "A deviation is considered ________ if the actual performance is less than the standard.",
+      "options": [
+        "Positive",
+        "Negative",
+        "Neutral",
+        "Zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "When actual performance falls short of the set standard target, it results in an unfavourable or negative deviation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q14",
+      "chapterId": "bs_ch8",
+      "question": "The final step in the controlling process is:",
+      "options": [
+        "Comparing",
+        "Measuring",
+        "Taking corrective action",
+        "Analysing deviations"
+      ],
+      "correctIndex": 2,
+      "explanation": "The final step in the controlling process is taking corrective action to rectify deviations and prevent their recurrence.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q15",
+      "chapterId": "bs_ch8",
+      "question": "Controlling provides 'Unity of Direction' by:",
+      "options": [
+        "Ensuring everyone works toward common goals",
+        "Giving orders",
+        "Increasing salary",
+        "Reducing working hours"
+      ],
+      "correctIndex": 0,
+      "explanation": "Controlling ensures that activities across all departments are performed according to pre-determined plans, thereby directing efforts towards common organizational goals.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q16",
+      "chapterId": "bs_ch8",
+      "question": "Standards should be ________ so they can be changed with the changing business environment.",
+      "options": [
+        "Rigid",
+        "Flexible",
+        "Unattainable",
+        "Static"
+      ],
+      "correctIndex": 1,
+      "explanation": "To remain effective, standards should be flexible enough to be modified in response to changes occurring in the dynamic business environment.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q17",
+      "chapterId": "bs_ch8",
+      "question": "Which of the following is NOT a limitation of controlling?",
+      "options": [
+        "Difficulty in setting quantitative standards",
+        "Little control on external factors",
+        "Resistance from employees",
+        "Accomplishing organizational goals"
+      ],
+      "correctIndex": 3,
+      "explanation": "Accomplishing organizational goals is a primary benefit or importance of controlling, whereas the other options are its limitations.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q18",
+      "chapterId": "bs_ch8",
+      "question": "An example of an 'External Factor' on which a manager has little control is:",
+      "options": [
+        "Employee strike",
+        "Machine breakdown",
+        "Government policy changes",
+        "Poor quality raw materials"
+      ],
+      "correctIndex": 2,
+      "explanation": "External factors such as government policies, technological changes, and competition are outside the direct control of the organization's management.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q19",
+      "chapterId": "bs_ch8",
+      "question": "Why do employees sometimes 'Resist' control?",
+      "options": [
+        "Because they hate management",
+        "Because control is seen as a restriction on their freedom",
+        "Because they want more work",
+        "Because control increases their salary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Control is often resisted by employees because they perceive it as a restriction on their freedom and an intrusion into their work.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q20",
+      "chapterId": "bs_ch8",
+      "question": "Measurement of performance should be done:",
+      "options": [
+        "Only at the end of the year",
+        "After the task is completed",
+        "On a continuous basis as far as possible",
+        "Only when deviations are high"
+      ],
+      "correctIndex": 2,
+      "explanation": "Performance measurement should ideally be an ongoing, continuous process to allow for timely detection of deviations rather than waiting until the end.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q21",
+      "chapterId": "bs_ch8",
+      "question": "Which method is commonly used to measure the performance of a worker on the shop floor?",
+      "options": [
+        "Sample checking",
+        "Checking every single piece",
+        "Financial ratios",
+        "Budgetary control"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the context of shop floor workers, their performance is easily and directly measured by counting the number of units they produce or checking the output pieces.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q22",
+      "chapterId": "bs_ch8",
+      "question": "Planning provides the ________ for controlling.",
+      "options": [
+        "Resources",
+        "Standards/Basis",
+        "Personnel",
+        "Authority"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning lays down the objectives and standards which serve as the fundamental basis against which controlling measures actual performance.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q23",
+      "chapterId": "bs_ch8",
+      "question": "Controlling improves employee motivation by:",
+      "options": [
+        "Letting them do what they want",
+        "Making them aware in advance of the standards of performance",
+        "Firing low performers",
+        "Increasing their work hours"
+      ],
+      "correctIndex": 1,
+      "explanation": "A good control system motivates employees because they know well in advance what is expected of them and the standards against which they will be judged.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q24",
+      "chapterId": "bs_ch8",
+      "question": "If 'Actual Production' is 90 units and 'Standard Production' is 100 units, the deviation is:",
+      "options": [
+        "+10",
+        "-10",
+        "Zero",
+        "190"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deviation is calculated as Actual Performance minus Standard Performance. Here, 90 - 100 = -10, indicating a negative deviation.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q25",
+      "chapterId": "bs_ch8",
+      "question": "Standard costs, budget, and profit targets are examples of:",
+      "options": [
+        "Planning premises",
+        "Controlling standards",
+        "Directing techniques",
+        "Organisational structures"
+      ],
+      "correctIndex": 1,
+      "explanation": "These are specific benchmarks or quantitative standards established during planning and used in the controlling process to measure actual results.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q26",
+      "chapterId": "bs_ch8",
+      "question": "The 'Management Audit' is a technique used to:",
+      "options": [
+        "Count inventory",
+        "Appraise the overall management performance",
+        "Check employee attendance",
+        "Verify sales figures only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management audit is a systematic evaluation technique used to appraise the overall performance and efficiency of the management of an organization.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q27",
+      "chapterId": "bs_ch8",
+      "question": "Controlling is a 'continuous' process because:",
+      "options": [
+        "It is only done at the end",
+        "It involves constant monitoring and feedback",
+        "It never ends because managers never sleep",
+        "It is required only during a crisis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Controlling is not an isolated, one-time activity; it is a continuous cycle of setting standards, measuring, comparing, and taking corrective actions.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q28",
+      "chapterId": "bs_ch8",
+      "question": "What should a manager do if a deviation is within 'Permissible Limits'?",
+      "options": [
+        "Take immediate action",
+        "Report to top management",
+        "Ignore the deviation",
+        "Redesign the whole plan"
+      ],
+      "correctIndex": 2,
+      "explanation": "According to the principle of management by exception, minor deviations that fall within an acceptable, permissible range should be ignored by top management.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q29",
+      "chapterId": "bs_ch8",
+      "question": "Which of the following can be a 'Corrective Action' for poor quality material?",
+      "options": [
+        "Increasing production speed",
+        "Change in quality specification of material used",
+        "Fire the supervisor",
+        "Decrease employee salary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Corrective action must target the root cause of the deviation; if the material is defective, changing the quality specification or the supplier is the appropriate action.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q30",
+      "chapterId": "bs_ch8",
+      "question": "Standards should be ________ to be effective.",
+      "options": [
+        "Unrealistic",
+        "Challenging but attainable",
+        "Too easy",
+        "Static forever"
+      ],
+      "correctIndex": 1,
+      "explanation": "To effectively motivate employees and be useful for control, standards should be realistic, achievable, yet challenging.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q31",
+      "chapterId": "bs_ch8",
+      "question": "How does controlling help in 'Optimum Utilization of Resources'?",
+      "options": [
+        "By buying more machines",
+        "By reducing wastage and spoilage",
+        "By hiring cheaper labor",
+        "By increasing work hours"
+      ],
+      "correctIndex": 1,
+      "explanation": "Controlling ensures activities are performed according to plans, thereby minimizing wastage and spoilage and ensuring resources are used optimally.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q32",
+      "chapterId": "bs_ch8",
+      "question": "Controlling is 'Goal-Oriented' because:",
+      "options": [
+        "It aims to achieve organizational objectives",
+        "It focus on employees",
+        "It is done by the CEO",
+        "It is expensive"
+      ],
+      "correctIndex": 0,
+      "explanation": "The primary aim of controlling is to guide the organization's activities to ensure they lead to the accomplishment of predetermined organizational goals.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q33",
+      "chapterId": "bs_ch8",
+      "question": "In a clothing factory, the standard for a tailor is to stitch 5 shirts a day. This is a ________ standard.",
+      "options": [
+        "Financial",
+        "Qualitative",
+        "Quantitative",
+        "Strategic"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stitching 5 shirts is a clearly defined, numerical benchmark, making it a quantitative standard.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q34",
+      "chapterId": "bs_ch8",
+      "question": "The relationship between Planning and Controlling is ________.",
+      "options": [
+        "Unrelated",
+        "Interdependent and Interlinked",
+        "Opposite",
+        "Temporary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning and controlling are deeply interconnected; planning sets the standards for controlling, and controlling provides feedback to improve future planning.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q35",
+      "chapterId": "bs_ch8",
+      "question": "Controlling is 'Blind' without ________.",
+      "options": [
+        "Staffing",
+        "Organising",
+        "Planning",
+        "Money"
+      ],
+      "correctIndex": 2,
+      "explanation": "Controlling requires a plan to set the standards. Without the standards provided by planning, there is nothing to measure performance against, rendering control blind.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q36",
+      "chapterId": "bs_ch8",
+      "question": "Which level of management is responsible for the 'Controlling' function?",
+      "options": [
+        "Only Top Level",
+        "Only Middle Level",
+        "Only Lower Level",
+        "All Levels"
+      ],
+      "correctIndex": 3,
+      "explanation": "Controlling is a pervasive function; managers at all levels (Top, Middle, Lower) must exercise control over the activities of their respective subordinates.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q37",
+      "chapterId": "bs_ch8",
+      "question": "An efficient control system helps to 'Ensure Order and Discipline' by:",
+      "options": [
+        "Creating fear",
+        "Minimizing dishonest behavior of employees",
+        "Installing cameras",
+        "Reducing salary"
+      ],
+      "correctIndex": 1,
+      "explanation": "By keeping a close check on employee activities and performance, controlling creates an atmosphere of order and minimizes dishonest or undisciplined behavior.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q38",
+      "chapterId": "bs_ch8",
+      "question": "If standards are revised upward because they were too easy to achieve, this is an example of:",
+      "options": [
+        "Corrective action",
+        "Planning error",
+        "Staffing failure",
+        "Re-setting standards"
+      ],
+      "correctIndex": 3,
+      "explanation": "If actual performance consistently exceeds standards easily, it indicates the standards were set too low, necessitating re-setting or revising the standards upward.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q39",
+      "chapterId": "bs_ch8",
+      "question": "Critical Point Control (CPC) is economical because:",
+      "options": [
+        "It doesn't require managers",
+        "It saves time and effort by focusing only on key areas",
+        "It stops production",
+        "It is only for small businesses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Focusing control efforts only on critical points (KRAs) rather than every minor detail saves valuable managerial time, effort, and money.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q40",
+      "chapterId": "bs_ch8",
+      "question": "A deviation of 2% in labor cost might be acceptable, but 5% requires reporting. This follows:",
+      "options": [
+        "Total Quality Management",
+        "Critical Point Control",
+        "Management by Exception",
+        "Financial Analysis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Management by exception involves setting an acceptable range of deviation; only variances outside this range (like the 5%) are reported to management.",
+      "ncertPage": 0,
+      "difficulty": "HARD",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q41",
+      "chapterId": "bs_ch8",
+      "question": "The measurement of performance should be ________.",
+      "options": [
+        "Biased",
+        "Objective and reliable",
+        "Based on feelings",
+        "Done only when profit is low"
+      ],
+      "correctIndex": 1,
+      "explanation": "To accurately compare actual performance against standards, the measurement must be conducted in an objective, unbiased, and reliable manner.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q42",
+      "chapterId": "bs_ch8",
+      "question": "A manager should 'Analyse Deviations' to find out:",
+      "options": [
+        "Whom to blame",
+        "The exact cause of deviation",
+        "How much salary to cut",
+        "How to close the company"
+      ],
+      "correctIndex": 1,
+      "explanation": "The purpose of analyzing deviations is to determine their exact root cause (e.g., poor materials, faulty machines) so that precise corrective action can be taken.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q43",
+      "chapterId": "bs_ch8",
+      "question": "Controlling is often perceived as an 'expensive' process because:",
+      "options": [
+        "It requires a lot of time, effort, and money",
+        "It only uses money",
+        "It increases production",
+        "It reduces employees"
+      ],
+      "correctIndex": 0,
+      "explanation": "Implementing and maintaining a control system involves significant costs in terms of time, effort, and financial resources.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q44",
+      "chapterId": "bs_ch8",
+      "question": "If actual sales are ₹10 lakhs and standard was ₹8 lakhs, this is a ________ deviation.",
+      "options": [
+        "Negative",
+        "Positive",
+        "Permissible",
+        "Critical"
+      ],
+      "correctIndex": 1,
+      "explanation": "A positive deviation occurs when the actual performance exceeds the predetermined standard target.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q45",
+      "chapterId": "bs_ch8",
+      "question": "A Departure Control System (DCS) in airlines automates which process?",
+      "options": [
+        "Cooking food",
+        "Airport management operations like check-in and boarding",
+        "Building airplanes",
+        "Hiring pilots"
+      ],
+      "correctIndex": 1,
+      "explanation": "As described in the text, DCS is an automated system used by airlines to manage airport operations such as check-in, boarding, and load control.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q46",
+      "chapterId": "bs_ch8",
+      "question": "One common way to 'Measure Financial Performance' of a company is by looking at:",
+      "options": [
+        "Ratios like Gross Profit ratio",
+        "The building height",
+        "The color of the logo",
+        "The number of holidays"
+      ],
+      "correctIndex": 0,
+      "explanation": "Financial performance is objectively measured and analyzed using various financial metrics and ratios, such as the Gross Profit ratio.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q47",
+      "chapterId": "bs_ch8",
+      "question": "Standards set during the 'Planning' phase are also known as:",
+      "options": [
+        "Goals",
+        "Benchmarks",
+        "Targets",
+        "All of the above"
+      ],
+      "correctIndex": 3,
+      "explanation": "Standards are the predetermined benchmarks, targets, or goals against which actual performance is measured during controlling.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q48",
+      "chapterId": "bs_ch8",
+      "question": "In the control process, 'Comparing actual with standards' is step number:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2,
+      "explanation": "The process is: 1. Setting standards, 2. Measurement of performance, 3. Comparing performance with standards, 4. Analyzing deviations, 5. Corrective action.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q49",
+      "chapterId": "bs_ch8",
+      "question": "Controlling leads to 'Better Coordination' because:",
+      "options": [
+        "Managers can talk more",
+        "It provides a common direction to all activities",
+        "It reduces number of employees",
+        "It stops planning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Controlling ensures that all activities are aligned and directed towards achieving predetermined organizational goals, thereby facilitating coordination.",
+      "ncertPage": 0,
+      "difficulty": "MEDIUM",
+      "subject": "Business Studies"
+    },
+    {
+      "mcqId": "12_bs_ch8_q50",
+      "chapterId": "bs_ch8",
+      "question": "What is the probable result of 'Ineffective' controlling?",
+      "options": [
+        "Increased efficiency",
+        "Loss of resources and failure to achieve goals",
+        "Higher profit",
+        "Stable environment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Without effective control, an organization is unable to identify deviations or fix errors, leading to wasted resources and failure to meet targets.",
+      "ncertPage": 0,
+      "difficulty": "EASY",
+      "subject": "Business Studies"
+    }
+  ]
+}
