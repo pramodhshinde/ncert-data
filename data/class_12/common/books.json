@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "id": 1231,
+      "title": "Vistas",
+      "subtitle": "Class 12 NCERT English Supplementary",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "English",
+      "chapterCount": 6,
+      "parts": 1
+    },
+    {
+      "id": 1232,
+      "title": "Flamingo",
+      "subtitle": "Class 12 NCERT English Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "English",
+      "chapterCount": 13,
+      "parts": 1
+    }
+  ]
+}
