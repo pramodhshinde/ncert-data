@@ -230,7 +230,7 @@
       "chapterNumber": 6,
       "title": "Polymers",
       "topicCount": 4,
-      "questionCount": 0,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 45,
@@ -238,9 +238,9 @@
       "hasRead": true,
       "hasSolutions": true,
       "hasNotes": true,
-      "hasMCQ": false,
+      "hasMCQ": true,
       "pdfUrl": "https://drive.google.com/file/d/11kPkX8VYbC80s0AIVh0K22MBl3hBiMWQ/view?usp=drivesdk",
-      "solutionsUrl": "",
+      "solutionsUrl": "https://drive.google.com/file/d/1DVhYL8_mSpLAVRXjWgXP1tpsDOoMz4cv/view?usp=drivesdk",
       "notesUrl": "https://drive.google.com/file/d/1duc332hyDkDFoBWtOJDMKzo4IdLG0ZUj/view?usp=drivesdk",
       "mcqUrl": "class_12/science/chemistry/mcqs/chem_ch11.json"
     }

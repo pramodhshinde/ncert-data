@@ -1,0 +1,802 @@
+[
+  {
+    "mcqId": "12_phy_ch2_q1",
+    "chapterId": "phy_ch2",
+    "question": "The work done by an external force in moving a charge from one point to another in an electrostatic field is stored as:",
+    "options": [
+      "Kinetic energy",
+      "Electrostatic potential energy",
+      "Thermal energy",
+      "Magnetic energy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Work done against the conservative electrostatic force is stored as the potential energy of the charge.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q2",
+    "chapterId": "phy_ch2",
+    "question": "Electrostatic potential at a point is defined as the work done in bringing a unit positive charge from ________ to that point.",
+    "options": [
+      "The origin",
+      "A nearby charge",
+      "Infinity",
+      "The ground"
+    ],
+    "correctIndex": 2,
+    "explanation": "Potential is the work done per unit test charge in bringing it from infinity to the specific point in the field.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q3",
+    "chapterId": "phy_ch2",
+    "question": "Which of the following represents the electrostatic potential (V) due to a point charge Q at a distance r?",
+    "options": [
+      "V = kQ/r²",
+      "V = kQ/r",
+      "V = kQ²/r",
+      "V = k/Qr"
+    ],
+    "correctIndex": 1,
+    "explanation": "The potential due to a point charge is inversely proportional to the distance r.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q4",
+    "chapterId": "phy_ch2",
+    "question": "A surface over which the electrostatic potential is constant throughout is called:",
+    "options": [
+      "Isothermal surface",
+      "Equipotential surface",
+      "Gaussian surface",
+      "Polarized surface"
+    ],
+    "correctIndex": 1,
+    "explanation": "An equipotential surface has the same potential value at every point on it.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q5",
+    "chapterId": "phy_ch2",
+    "question": "The work done in moving a charge between any two points on an equipotential surface is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Infinite",
+      "Zero"
+    ],
+    "correctIndex": 3,
+    "explanation": "Since the potential difference between any two points on such a surface is zero, the work done (W = qΔV) is zero.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q6",
+    "chapterId": "phy_ch2",
+    "question": "The electrostatic field is always ________ to the equipotential surface at every point.",
+    "options": [
+      "Parallel",
+      "Normal (Perpendicular)",
+      "At 45 degrees",
+      "Tangential"
+    ],
+    "correctIndex": 1,
+    "explanation": "If the field had a tangential component, work would be done moving a charge, contradicting the definition of an equipotential surface.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q7",
+    "chapterId": "phy_ch2",
+    "question": "The potential due to an electric dipole at a point on its axial line varies with distance 'r' as:",
+    "options": [
+      "1/r",
+      "1/r²",
+      "1/r³",
+      "log r"
+    ],
+    "correctIndex": 1,
+    "explanation": "For a dipole, the potential falls off as 1/r², faster than a point charge.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q8",
+    "chapterId": "phy_ch2",
+    "question": "What is the electrostatic potential at any point on the equatorial plane of an electric dipole?",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "Depends on the charge magnitude"
+    ],
+    "correctIndex": 2,
+    "explanation": "On the equatorial plane, the distance from both charges is equal, and their potential contributions cancel out.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q9",
+    "chapterId": "phy_ch2",
+    "question": "Capacitance (C) of a conductor is defined as the ratio of:",
+    "options": [
+      "Potential to Charge",
+      "Charge to Potential (Q/V)",
+      "Work to Charge",
+      "Energy to Potential"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capacitance C = Q/V is a constant for a given conductor.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q10",
+    "chapterId": "phy_ch2",
+    "question": "The SI unit of capacitance is:",
+    "options": [
+      "Farad (F)",
+      "Henry (H)",
+      "Ohm (Ω)",
+      "Coulomb (C)"
+    ],
+    "correctIndex": 0,
+    "explanation": "The unit Farad is named after Michael Faraday.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q11",
+    "chapterId": "phy_ch2",
+    "question": "The capacitance of a parallel plate capacitor with plate area A and separation d in vacuum is:",
+    "options": [
+      "ε₀A d",
+      "ε₀A / d",
+      "ε₀d / A",
+      "A / (ε₀d)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Capacitance is directly proportional to the area and inversely proportional to the distance between plates.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q12",
+    "chapterId": "phy_ch2",
+    "question": "When a dielectric material of constant K is inserted between the plates of a capacitor, its capacitance:",
+    "options": [
+      "Decreases by K",
+      "Increases by K",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correctIndex": 1,
+    "explanation": "The dielectric reduces the electric field and potential, thus increasing the charge-storing capacity.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q13",
+    "chapterId": "phy_ch2",
+    "question": "Inside a charged conductor, the electrostatic potential is:",
+    "options": [
+      "Zero",
+      "Maximum at the center",
+      "Constant and equal to its value on the surface",
+      "Varying with distance"
+    ],
+    "correctIndex": 2,
+    "explanation": "Since the electric field inside a conductor is zero, the potential is the same everywhere inside.",
+    "ncertPage": 0,
+    "difficulty": "HARD",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q14",
+    "chapterId": "phy_ch2",
+    "question": "Energy stored in a capacitor of capacitance C and charge Q is given by:",
+    "options": [
+      "1/2 QV",
+      "1/2 CV²",
+      "Q² / (2C)",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "explanation": "These are all equivalent forms of the energy formula for a capacitor.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q15",
+    "chapterId": "phy_ch2",
+    "question": "In a series combination of n capacitors, which quantity remains the same for all capacitors?",
+    "options": [
+      "Potential difference",
+      "Capacitance",
+      "Charge",
+      "Energy"
+    ],
+    "correctIndex": 2,
+    "explanation": "In series, the charge Q is the same on each capacitor, while the total voltage is divided.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q16",
+    "chapterId": "phy_ch2",
+    "question": "In a parallel combination of capacitors, which quantity is the same across all capacitors?",
+    "options": [
+      "Charge",
+      "Potential difference (V)",
+      "Energy",
+      "Work"
+    ],
+    "correctIndex": 1,
+    "explanation": "In parallel, all capacitors are connected across the same potential terminals.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q17",
+    "chapterId": "phy_ch2",
+    "question": "The total capacitance (C_p) of n capacitors connected in parallel is:",
+    "options": [
+      "C1 + C2 + ... + Cn",
+      "1/C1 + 1/C2 + ...",
+      "Product of capacitances",
+      "Average of capacitances"
+    ],
+    "correctIndex": 0,
+    "explanation": "In parallel, individual capacitances add up directly.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q18",
+    "chapterId": "phy_ch2",
+    "question": "Dielectric strength is the ________ electric field that a material can withstand without breakdown.",
+    "options": [
+      "Minimum",
+      "Average",
+      "Maximum",
+      "Zero"
+    ],
+    "correctIndex": 2,
+    "explanation": "It is the limit of the electric field intensity above which the material begins to conduct.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q19",
+    "chapterId": "phy_ch2",
+    "question": "The polarization of a dielectric is defined as the ________ per unit volume.",
+    "options": [
+      "Charge",
+      "Electric field",
+      "Dipole moment",
+      "Potential"
+    ],
+    "correctIndex": 2,
+    "explanation": "Polarization P measures the alignment of dipoles within the material.",
+    "ncertPage": 0,
+    "difficulty": "HARD",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q20",
+    "chapterId": "phy_ch2",
+    "question": "For two charges q1 and q2 separated by distance r, the electrostatic potential energy of the system is:",
+    "options": [
+      "k q1q2 / r²",
+      "k q1q2 / r",
+      "1/2 k q1q2 / r",
+      "k (q1+q2) / r"
+    ],
+    "correctIndex": 1,
+    "explanation": "This represents the work done to assemble the two-charge system from infinity.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q21",
+    "chapterId": "phy_ch2",
+    "question": "If the electric field E is zero in a region, the electrostatic potential V must be:",
+    "options": [
+      "Zero",
+      "Constant",
+      "Infinite",
+      "Negative"
+    ],
+    "correctIndex": 1,
+    "explanation": "E = -dV/dr. If E is zero, then dV/dr = 0, which means V is constant.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q22",
+    "chapterId": "phy_ch2",
+    "question": "Non-polar molecules are those in which the centers of positive and negative charges ________.",
+    "options": [
+      "Are separated by a large distance",
+      "Coincide",
+      "Are at the vertices of a triangle",
+      "Vibrate"
+    ],
+    "correctIndex": 1,
+    "explanation": "In non-polar molecules like O₂ or H₂, the symmetry causes the charge centers to overlap.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q23",
+    "chapterId": "phy_ch2",
+    "question": "What is the potential at a point due to a charge Q if the distance is doubled?",
+    "options": [
+      "Doubled",
+      "Halved",
+      "Quadrupled",
+      "Stays same"
+    ],
+    "correctIndex": 1,
+    "explanation": "V is proportional to 1/r, so doubling r reduces V to half.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q24",
+    "chapterId": "phy_ch2",
+    "question": "Which of the following is a polar molecule?",
+    "options": [
+      "O₂",
+      "H₂",
+      "H₂O",
+      "CO₂"
+    ],
+    "correctIndex": 2,
+    "explanation": "Water is a polar molecule because the centers of positive and negative charges do not coincide.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q25",
+    "chapterId": "phy_ch2",
+    "question": "For a system of multiple charges, the total potential at a point is the ________ sum of individual potentials.",
+    "options": [
+      "Vector",
+      "Algebraic",
+      "Geometric",
+      "Negative"
+    ],
+    "correctIndex": 1,
+    "explanation": "Potential is a scalar quantity, so we simply add the values with their signs.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q26",
+    "chapterId": "phy_ch2",
+    "question": "The potential due to a uniformly charged spherical shell at a point outside it is the same as if the entire charge were:",
+    "options": [
+      "Distributed on the surface",
+      "At the center",
+      "At infinity",
+      "Zero"
+    ],
+    "correctIndex": 1,
+    "explanation": "For points outside, the shell behaves like a point charge at its center.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q27",
+    "chapterId": "phy_ch2",
+    "question": "A capacitor is a system of two conductors separated by an ________.",
+    "options": [
+      "Insulator",
+      "Conductor",
+      "Semiconductor",
+      "Metal wire"
+    ],
+    "correctIndex": 0,
+    "explanation": "An insulating (dielectric) medium usually separates the two conducting plates.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q28",
+    "chapterId": "phy_ch2",
+    "question": "The net electric field inside a dielectric ________ when placed in an external electric field.",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Becomes zero"
+    ],
+    "correctIndex": 1,
+    "explanation": "The induced internal field opposes the external field, reducing the net field.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q29",
+    "chapterId": "phy_ch2",
+    "question": "The total energy stored in a combination of capacitors is equal to the ________ of energies stored in individual capacitors.",
+    "options": [
+      "Product",
+      "Difference",
+      "Sum",
+      "Reciprocal sum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Total energy is the sum of individual energies, regardless of connection type.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q30",
+    "chapterId": "phy_ch2",
+    "question": "1 Pico-farad (pF) is equal to:",
+    "options": [
+      "10⁻⁶ F",
+      "10⁻⁹ F",
+      "10⁻¹² F",
+      "10⁻³ F"
+    ],
+    "correctIndex": 2,
+    "explanation": "Commonly used sub-units for capacitance: 1 pF = 10⁻¹² F.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q31",
+    "chapterId": "phy_ch2",
+    "question": "If three capacitors of 9 pF each are connected in series, the total capacitance is:",
+    "options": [
+      "27 pF",
+      "9 pF",
+      "3 pF",
+      "1 pF"
+    ],
+    "correctIndex": 2,
+    "explanation": "1/Cs = 1/9 + 1/9 + 1/9 = 3/9 = 1/3; so Cs = 3 pF.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q32",
+    "chapterId": "phy_ch2",
+    "question": "The direction of the dipole moment of an electric dipole is from:",
+    "options": [
+      "Positive to negative charge",
+      "Negative to positive charge",
+      "Center to infinity",
+      "Vertical to horizontal"
+    ],
+    "correctIndex": 1,
+    "explanation": "By convention, the dipole moment vector points from -q to +q.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q33",
+    "chapterId": "phy_ch2",
+    "question": "When two capacitors are connected in parallel, the equivalent capacitance is ________ than the largest individual capacitance.",
+    "options": [
+      "Smaller",
+      "Equal",
+      "Larger",
+      "Half"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cp = C1 + C2, hence it must be greater than any single one.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q34",
+    "chapterId": "phy_ch2",
+    "question": "The electric potential energy of a dipole in a uniform electric field is minimum when the dipole is aligned ________ to the field.",
+    "options": [
+      "Antiparallel",
+      "Parallel",
+      "Perpendicular",
+      "At 60 degrees"
+    ],
+    "correctIndex": 1,
+    "explanation": "U = -p.E = -pE cos θ. Potential is minimum (-pE) when θ = 0 (parallel).",
+    "ncertPage": 0,
+    "difficulty": "HARD",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q35",
+    "chapterId": "phy_ch2",
+    "question": "The capacity of a parallel plate capacitor does NOT depend on:",
+    "options": [
+      "Plate area",
+      "Plate separation",
+      "Material of the plates",
+      "Medium between plates"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capacitance depends on geometry and the dielectric constant, not the metal used for the plates.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q36",
+    "chapterId": "phy_ch2",
+    "question": "Electric field intensity is equal to the ________ of the electric potential.",
+    "options": [
+      "Positive gradient",
+      "Negative gradient",
+      "Square",
+      "Integral"
+    ],
+    "correctIndex": 1,
+    "explanation": "E = -dV/dr.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q37",
+    "chapterId": "phy_ch2",
+    "question": "Potential difference is a ________ quantity.",
+    "options": [
+      "Scalar",
+      "Vector",
+      "Tensor",
+      "Imaginary"
+    ],
+    "correctIndex": 0,
+    "explanation": "Potential and potential difference are scalars.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q38",
+    "chapterId": "phy_ch2",
+    "question": "Equipotential surfaces for a point charge are:",
+    "options": [
+      "Concentric spheres",
+      "Parallel planes",
+      "Coaxial cylinders",
+      "Random shapes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Potential depends only on the distance r, forming spherical shells around the charge.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q39",
+    "chapterId": "phy_ch2",
+    "question": "The work done in bringing a charge from infinity to a point in an external electric field E(r) is:",
+    "options": [
+      "q V(r)",
+      "q E(r)",
+      "V(r) / q",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "explanation": "By definition, work done per unit charge is V, so for charge q, it is qV.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q40",
+    "chapterId": "phy_ch2",
+    "question": "A dielectric slab is inserted in a capacitor while keeping it connected to a battery. The ________ remains constant.",
+    "options": [
+      "Charge",
+      "Capacitance",
+      "Potential difference",
+      "Energy stored"
+    ],
+    "correctIndex": 2,
+    "explanation": "Since the battery is connected, the voltage V remains constant.",
+    "ncertPage": 0,
+    "difficulty": "HARD",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q41",
+    "chapterId": "phy_ch2",
+    "question": "Van de Graaff generator is used to produce:",
+    "options": [
+      "High current",
+      "High voltage",
+      "Magnetic fields",
+      "Radio waves"
+    ],
+    "correctIndex": 1,
+    "explanation": "It builds up huge amounts of potential by collecting charge on a large conducting sphere.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q42",
+    "chapterId": "phy_ch2",
+    "question": "The ratio of the electric field in vacuum to the electric field in a dielectric is called:",
+    "options": [
+      "Dielectric constant (K)",
+      "Permittivity",
+      "Conductivity",
+      "Polarizability"
+    ],
+    "correctIndex": 0,
+    "explanation": "K = E₀ / E.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q43",
+    "chapterId": "phy_ch2",
+    "question": "Two equipotential surfaces can ________ intersect.",
+    "options": [
+      "Always",
+      "Never",
+      "At the origin",
+      "In a vacuum"
+    ],
+    "correctIndex": 1,
+    "explanation": "If they intersected, the electric field would have two directions at one point, which is impossible.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q44",
+    "chapterId": "phy_ch2",
+    "question": "If a dielectric is inserted into an isolated charged capacitor (battery disconnected), the ________ remains constant.",
+    "options": [
+      "Voltage",
+      "Charge",
+      "Capacitance",
+      "Electric field"
+    ],
+    "correctIndex": 1,
+    "explanation": "Charge is trapped on the plates and cannot change.",
+    "ncertPage": 0,
+    "difficulty": "HARD",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q45",
+    "chapterId": "phy_ch2",
+    "question": "Which of the following describes 'Linear Isotropic Dielectrics'?",
+    "options": [
+      "Polarization is non-linear",
+      "Induced dipole moment is in the direction of the field",
+      "They are metals",
+      "They cannot be polarized"
+    ],
+    "correctIndex": 1,
+    "explanation": "In such dielectrics, the induced dipole moment is in the same direction as the external field.",
+    "ncertPage": 0,
+    "difficulty": "HARD",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q46",
+    "chapterId": "phy_ch2",
+    "question": "The potential due to a point charge at infinity is assumed to be:",
+    "options": [
+      "Maximum",
+      "Infinite",
+      "Zero",
+      "Positive"
+    ],
+    "correctIndex": 2,
+    "explanation": "Infinity is taken as the reference point with zero potential.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q47",
+    "chapterId": "phy_ch2",
+    "question": "What happens to the energy stored in a capacitor if the potential difference is doubled?",
+    "options": [
+      "Doubled",
+      "Halved",
+      "Quadrupled",
+      "Eight times"
+    ],
+    "correctIndex": 2,
+    "explanation": "Energy U = 1/2 CV². If V is doubled, V² becomes 4 times.",
+    "ncertPage": 0,
+    "difficulty": "MEDIUM",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q48",
+    "chapterId": "phy_ch2",
+    "question": "For a uniformly charged shell, the potential inside is:",
+    "options": [
+      "Zero",
+      "Constant",
+      "Varies as 1/r",
+      "Varies as 1/r²"
+    ],
+    "correctIndex": 1,
+    "explanation": "Potential inside a shell is constant and equal to the surface potential.",
+    "ncertPage": 0,
+    "difficulty": "HARD",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q49",
+    "chapterId": "phy_ch2",
+    "question": "The unit of electric potential V is Joules per ________.",
+    "options": [
+      "Meter",
+      "Second",
+      "Coulomb",
+      "Ohm"
+    ],
+    "correctIndex": 2,
+    "explanation": "V = W / q, so Joules per Coulomb.",
+    "ncertPage": 0,
+    "difficulty": "EASY",
+    "subject": "Physics"
+  },
+  {
+    "mcqId": "12_phy_ch2_q50",
+    "chapterId": "phy_ch2",
+    "question": "A capacitor with air has 8 pF. If distance is halved and K=6 inserted, new capacitance is:",
+    "options": [
+      "24 pF",
+      "48 pF",
+      "96 pF",
+      "8 pF"
+    ],
+    "correctIndex": 2,
+    "explanation": "C_new = K * ε₀A / (d/2) = 2 * K * C_old = 2 * 6 * 8 = 96 pF.",
+    "ncertPage": 0,
+    "difficulty": "HARD",
+    "subject": "Physics"
+  }
+]
