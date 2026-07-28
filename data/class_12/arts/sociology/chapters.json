@@ -170,7 +170,7 @@
       "chapterNumber": 1,
       "title": "Structural Change",
       "topicCount": 0,
-      "questionCount": 0,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 45,
@@ -178,11 +178,11 @@
       "hasRead": false,
       "hasSolutions": false,
       "hasNotes": false,
-      "hasMCQ": false,
+      "hasMCQ": true,
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_12/arts/sociology/mcqs/soc_p2_ch1.json"
+      "mcqUrl": "class_12/arts/sociology/mcqs/soc_ch8.json"
     },
     {
       "id": 124702,
@@ -190,7 +190,7 @@
       "chapterNumber": 2,
       "title": "Cultural Change",
       "topicCount": 0,
-      "questionCount": 0,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 45,
@@ -198,11 +198,11 @@
       "hasRead": false,
       "hasSolutions": false,
       "hasNotes": false,
-      "hasMCQ": false,
+      "hasMCQ": true,
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_12/arts/sociology/mcqs/soc_p2_ch2.json"
+      "mcqUrl": "class_12/arts/sociology/mcqs/soc_ch9.json"
     },
     {
       "id": 124703,
@@ -210,7 +210,7 @@
       "chapterNumber": 3,
       "title": "The Story of Indian Democracy",
       "topicCount": 0,
-      "questionCount": 0,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 45,
@@ -218,11 +218,11 @@
       "hasRead": false,
       "hasSolutions": false,
       "hasNotes": false,
-      "hasMCQ": false,
+      "hasMCQ": true,
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_12/arts/sociology/mcqs/soc_p2_ch3.json"
+      "mcqUrl": "class_12/arts/sociology/mcqs/soc_ch10.json"
     },
     {
       "id": 124704,
@@ -230,7 +230,7 @@
       "chapterNumber": 4,
       "title": "Change and Development in Rural Society",
       "topicCount": 0,
-      "questionCount": 0,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 45,
@@ -238,11 +238,11 @@
       "hasRead": false,
       "hasSolutions": false,
       "hasNotes": false,
-      "hasMCQ": false,
+      "hasMCQ": true,
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_12/arts/sociology/mcqs/soc_p2_ch4.json"
+      "mcqUrl": "class_12/arts/sociology/mcqs/soc_ch11.json"
     },
     {
       "id": 124705,
@@ -250,7 +250,7 @@
       "chapterNumber": 5,
       "title": "Change and Development in Industrial Society",
       "topicCount": 0,
-      "questionCount": 0,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 45,
@@ -258,11 +258,11 @@
       "hasRead": false,
       "hasSolutions": false,
       "hasNotes": false,
-      "hasMCQ": false,
+      "hasMCQ": true,
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_12/arts/sociology/mcqs/soc_p2_ch5.json"
+      "mcqUrl": "class_12/arts/sociology/mcqs/soc_ch12.json"
     },
     {
       "id": 124706,
@@ -270,7 +270,7 @@
       "chapterNumber": 6,
       "title": "Globalisation and Social Change",
       "topicCount": 0,
-      "questionCount": 0,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 45,
@@ -278,11 +278,11 @@
       "hasRead": false,
       "hasSolutions": false,
       "hasNotes": false,
-      "hasMCQ": false,
+      "hasMCQ": true,
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_12/arts/sociology/mcqs/soc_p2_ch6.json"
+      "mcqUrl": "class_12/arts/sociology/mcqs/soc_ch13.json"
     },
     {
       "id": 124707,
@@ -290,7 +290,7 @@
       "chapterNumber": 7,
       "title": "Mass Media and Communications",
       "topicCount": 0,
-      "questionCount": 0,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 45,
@@ -298,11 +298,11 @@
       "hasRead": false,
       "hasSolutions": false,
       "hasNotes": false,
-      "hasMCQ": false,
+      "hasMCQ": true,
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_12/arts/sociology/mcqs/soc_p2_ch7.json"
+      "mcqUrl": "class_12/arts/sociology/mcqs/soc_ch14.json"
     },
     {
       "id": 124708,
@@ -310,7 +310,7 @@
       "chapterNumber": 8,
       "title": "Social Movements",
       "topicCount": 0,
-      "questionCount": 0,
+      "questionCount": 50,
       "progressPercent": 0,
       "status": "NOT_STARTED",
       "estimatedMinutes": 45,
@@ -318,12 +318,11 @@
       "hasRead": false,
       "hasSolutions": false,
       "hasNotes": false,
-      "hasMCQ": false,
+      "hasMCQ": true,
       "pdfUrl": "",
       "solutionsUrl": "",
       "notesUrl": "",
-      "mcqUrl": "class_12/arts/sociology/mcqs/soc_p2_ch8.json"
+      "mcqUrl": "class_12/arts/sociology/mcqs/soc_ch15.json"
     }
-
   ]
 }
