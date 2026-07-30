@@ -1,802 +1,802 @@
 [
-  {
-    "mcqId": "12_phy_ch7_q1",
-    "chapterId": "phy_ch7",
-    "question": "What is the main reason for preferring AC voltage over DC voltage for long-distance transmission?",
-    "options": [
-      "AC voltage is safer",
-      "AC can be easily and efficiently converted by transformers",
-      "AC current travels faster",
-      "DC sources are more expensive"
-    ],
-    "correctIndex": 1,
-    "explanation": "The main reason for preferring AC over DC is that AC voltages can be easily and efficiently converted from one voltage to another by transformers, allowing for economical long-distance transmission.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q2",
-    "chapterId": "phy_ch7",
-    "question": "The rms (root mean square) value of AC current is also known as:",
-    "options": [
-      "Peak current",
-      "Average current",
-      "Effective current",
-      "Instantaneous current"
-    ],
-    "correctIndex": 2,
-    "explanation": "The rms current, also denoted as I, is the effective value of AC, equivalent to the DC current that produces the same average power in a resistor.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q3",
-    "chapterId": "phy_ch7",
-    "question": "The relation between the peak current (im) and the rms current (I) is given by:",
-    "options": [
-      "I = im / 2",
-      "I = im / √2",
-      "I = im * √2",
-      "I = 2 * im"
-    ],
-    "correctIndex": 1,
-    "explanation": "The rms current is im divided by the square root of 2, which is approximately 0.707 im.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q4",
-    "chapterId": "phy_ch7",
-    "question": "In a purely resistive AC circuit, the current and voltage are:",
-    "options": [
-      "Out of phase by π/2",
-      "Out of phase by π",
-      "In phase",
-      "Inverted"
-    ],
-    "correctIndex": 2,
-    "explanation": "In a circuit containing only a resistor, the current reaches its maximum and zero values at the same time as the voltage, meaning they are in phase.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q5",
-    "chapterId": "phy_ch7",
-    "question": "The phasor diagram for a resistive circuit shows the current and voltage vectors pointing in:",
-    "options": [
-      "Opposite directions",
-      "The same direction",
-      "Perpendicular directions",
-      "An angle of 45 degrees"
-    ],
-    "correctIndex": 1,
-    "explanation": "Because current and voltage are in phase in a resistor, their phasors are aligned in the same direction.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q6",
-    "chapterId": "phy_ch7",
-    "question": "In a purely inductive AC circuit, the current ________ the voltage by π/2.",
-    "options": [
-      "Leads",
-      "Lags",
-      "Is in phase with",
-      "Is out of phase by π"
-    ],
-    "correctIndex": 1,
-    "explanation": "In an inductor, the current lags behind the voltage by a phase angle of π/2 (90 degrees).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q7",
-    "chapterId": "phy_ch7",
-    "question": "The opposition offered by an inductor to the flow of AC is called:",
-    "options": [
-      "Resistance",
-      "Capacitive Reactance",
-      "Inductive Reactance",
-      "Impedance"
-    ],
-    "correctIndex": 2,
-    "explanation": "Inductive reactance (XL) is the quantity that limits the AC current in an inductive circuit, similar to resistance.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q8",
-    "chapterId": "phy_ch7",
-    "question": "The formula for inductive reactance XL is:",
-    "options": [
-      "XL = ωL",
-      "XL = 1/ωL",
-      "XL = ω/L",
-      "XL = L/ω"
-    ],
-    "correctIndex": 0,
-    "explanation": "Inductive reactance is the product of the angular frequency (ω) and the inductance (L).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q9",
-    "chapterId": "phy_ch7",
-    "question": "In a purely capacitive AC circuit, the current ________ the voltage by π/2.",
-    "options": [
-      "Lags",
-      "Leads",
-      "Is in phase with",
-      "Is opposite to"
-    ],
-    "correctIndex": 1,
-    "explanation": "In a capacitor, the current leads the voltage by a phase angle of π/2 (90 degrees).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q10",
-    "chapterId": "phy_ch7",
-    "question": "What is the unit of capacitive reactance XC?",
-    "options": [
-      "Farad",
-      "Henry",
-      "Ohm",
-      "Volt"
-    ],
-    "correctIndex": 2,
-    "explanation": "Like resistance and inductive reactance, capacitive reactance is measured in Ohms.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q11",
-    "chapterId": "phy_ch7",
-    "question": "The capacitive reactance XC is ________ proportional to the frequency of the AC source.",
-    "options": [
-      "Directly",
-      "Inversely",
-      "Not",
-      "Linearly"
-    ],
-    "correctIndex": 1,
-    "explanation": "XC = 1 / (ωC). As frequency (and thus ω) increases, XC decreases.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q12",
-    "chapterId": "phy_ch7",
-    "question": "The total effective opposition to current in a series LCR circuit is called:",
-    "options": [
-      "Reactance",
-      "Resistance",
-      "Impedance",
-      "Admittance"
-    ],
-    "correctIndex": 2,
-    "explanation": "Impedance (Z) is the combined effect of resistance, inductive reactance, and capacitive reactance in an AC circuit.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q13",
-    "chapterId": "phy_ch7",
-    "question": "At resonance in a series LCR circuit, the impedance Z is equal to:",
-    "options": [
-      "XL",
-      "XC",
-      "R",
-      "Zero"
-    ],
-    "correctIndex": 2,
-    "explanation": "At resonance, XL = XC, which means the reactive components cancel out, and Z = R (the minimum value).",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q14",
-    "chapterId": "phy_ch7",
-    "question": "The average power dissipated in a purely inductive or purely capacitive circuit over a complete cycle is:",
-    "options": [
-      "V im",
-      "V im / 2",
-      "Zero",
-      "V² / R"
-    ],
-    "correctIndex": 2,
-    "explanation": "Since the phase difference is π/2, the power factor cos(π/2) is zero, resulting in zero average power dissipation.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q15",
-    "chapterId": "phy_ch7",
-    "question": "A series LCR circuit exhibits resonance when the angular frequency ω₀ is equal to:",
-    "options": [
-      "√(LC)",
-      "1 / √(LC)",
-      "L / C",
-      "C / L"
-    ],
-    "correctIndex": 1,
-    "explanation": "Resonance occurs when XL = XC, which gives ω₀L = 1 / (ω₀C), hence ω₀ = 1 / √(LC).",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q16",
-    "chapterId": "phy_ch7",
-    "question": "The 'Power Factor' in an AC circuit is defined as the:",
-    "options": [
-      "Sine of the phase angle",
-      "Cosine of the phase angle",
-      "Tangent of the phase angle",
-      "Phase angle itself"
-    ],
-    "correctIndex": 1,
-    "explanation": "The power factor is cos φ, where φ is the phase angle between voltage and current.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q17",
-    "chapterId": "phy_ch7",
-    "question": "In a series LCR circuit, Sharpness of Resonance is determined by which factor?",
-    "options": [
-      "Impedance",
-      "Quality Factor (Q)",
-      "Resistance only",
-      "Voltage amplitude"
-    ],
-    "correctIndex": 1,
-    "explanation": "The Q-factor (ω₀L / R) determines how 'sharp' or narrow the resonance peak is.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q18",
-    "chapterId": "phy_ch7",
-    "question": "What is the purpose of a transformer?",
-    "options": [
-      "To convert AC to DC",
-      "To store charge",
-      "To increase or decrease AC voltage",
-      "To measure current"
-    ],
-    "correctIndex": 2,
-    "explanation": "A transformer is used to step-up (increase) or step-down (decrease) the voltage of an AC source.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q19",
-    "chapterId": "phy_ch7",
-    "question": "In an ideal transformer with no power loss, if the number of turns in the secondary (Ns) is greater than the primary (Np), it is a:",
-    "options": [
-      "Step-up transformer",
-      "Step-down transformer",
-      "Isolation transformer",
-      "Auto transformer"
-    ],
-    "correctIndex": 0,
-    "explanation": "When Ns > Np, the secondary voltage is higher than the primary voltage, making it a step-up transformer.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q20",
-    "chapterId": "phy_ch7",
-    "question": "Transformers work on the principle of:",
-    "options": [
-      "Self induction",
-      "Mutual induction",
-      "Eddy currents",
-      "Coulomb's Law"
-    ],
-    "correctIndex": 1,
-    "explanation": "Transformers operate based on mutual induction between two coils (primary and secondary) wound on the same core.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q21",
-    "chapterId": "phy_ch7",
-    "question": "The soft iron core of a transformer is laminated to reduce energy loss due to:",
-    "options": [
-      "Hysteresis",
-      "Eddy currents",
-      "Flux leakage",
-      "Resistance of the winding"
-    ],
-    "correctIndex": 1,
-    "explanation": "Lamination of the core minimizes the path of eddy currents, thereby reducing heating losses.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q22",
-    "chapterId": "phy_ch7",
-    "question": "In a step-down transformer, the secondary current is ________ than the primary current (assuming ideal conditions).",
-    "options": [
-      "Higher",
-      "Lower",
-      "Equal",
-      "Zero"
-    ],
-    "correctIndex": 0,
-    "explanation": "In an ideal transformer, power (V*I) is constant. Since voltage is stepped down, current must be stepped up.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q23",
-    "chapterId": "phy_ch7",
-    "question": "What is the frequency of AC mains supply in India?",
-    "options": [
-      "60 Hz",
-      "50 Hz",
-      "100 Hz",
-      "220 Hz"
-    ],
-    "correctIndex": 1,
-    "explanation": "While the voltage is 220V, the standard frequency of AC in India is 50 Hz.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "General Knowledge/Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q24",
-    "chapterId": "phy_ch7",
-    "question": "In an LC circuit, the total energy is conserved and oscillates between:",
-    "options": [
-      "Resistor and Inductor",
-      "Battery and Capacitor",
-      "Electric field (Capacitor) and Magnetic field (Inductor)",
-      "Heat and Light"
-    ],
-    "correctIndex": 2,
-    "explanation": "In LC oscillations, energy shifts back and forth between the electric field of the capacitor and the magnetic field of the inductor.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q25",
-    "chapterId": "phy_ch7",
-    "question": "Which of the following describes a 'Wattless Current'?",
-    "options": [
-      "A current that has no magnitude",
-      "A current where no power is dissipated",
-      "A current in a DC circuit",
-      "A current that flows through a high resistor"
-    ],
-    "correctIndex": 1,
-    "explanation": "If the phase difference is π/2 (purely inductive or capacitive), the current is called wattless because it consumes zero power.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q26",
-    "chapterId": "phy_ch7",
-    "question": "The angular frequency of free oscillations in an LC circuit is given by:",
-    "options": [
-      "ω = 1 / LC",
-      "ω = 1 / √(LC)",
-      "ω = √(LC)",
-      "ω = L / C"
-    ],
-    "correctIndex": 1,
-    "explanation": "The natural frequency of an LC circuit follows the same formula as the resonance frequency of an LCR circuit.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q27",
-    "chapterId": "phy_ch7",
-    "question": "A transformer cannot be used with:",
-    "options": [
-      "Variable AC",
-      "Steady DC",
-      "Sinusoidal AC",
-      "High frequency AC"
-    ],
-    "correctIndex": 1,
-    "explanation": "Transformers require a changing magnetic flux to induce voltage; a steady DC produces a constant flux and thus no induction in the secondary.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q28",
-    "chapterId": "phy_ch7",
-    "question": "What is the peak value of voltage (vm) if the rms voltage is 220 V?",
-    "options": [
-      "220 V",
-      "110 V",
-      "311 V",
-      "440 V"
-    ],
-    "correctIndex": 2,
-    "explanation": "vm = V * √2 = 220 * 1.414 ≈ 311 V.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q29",
-    "chapterId": "phy_ch7",
-    "question": "In a series LCR circuit, resonance is used for ________ in radios.",
-    "options": [
-      "Amplification",
-      "Tuning",
-      "Rectification",
-      "Modulation"
-    ],
-    "correctIndex": 1,
-    "explanation": "Tuning a radio involves changing the capacitance to match the natural frequency of the LCR circuit to the signal frequency.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q30",
-    "chapterId": "phy_ch7",
-    "question": "The phase angle φ in a purely resistive circuit is:",
-    "options": [
-      "π/2",
-      "π",
-      "0",
-      "-π/2"
-    ],
-    "correctIndex": 2,
-    "explanation": "In a resistor, voltage and current are in phase, so the phase difference is zero.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q31",
-    "chapterId": "phy_ch7",
-    "question": "Inductive reactance XL is zero for ________ current.",
-    "options": [
-      "High frequency AC",
-      "Low frequency AC",
-      "Direct current (DC)",
-      "Sinusoidal current"
-    ],
-    "correctIndex": 2,
-    "explanation": "For DC, ω = 0, so XL = ωL = 0. Inductors act as simple conductors for DC.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q32",
-    "chapterId": "phy_ch7",
-    "question": "A capacitor acts as a block to ________ current.",
-    "options": [
-      "Alternating Current (AC)",
-      "Direct Current (DC)",
-      "Transient Current",
-      "Peak Current"
-    ],
-    "correctIndex": 1,
-    "explanation": "For DC, ω = 0, so XC = 1/(ωC) becomes infinite. Capacitors prevent steady DC from flowing.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q33",
-    "chapterId": "phy_ch7",
-    "question": "The current amplitude in a purely capacitive circuit is:",
-    "options": [
-      "im = vm / XC",
-      "im = vm * XC",
-      "im = vm / R",
-      "im = vm / XL"
-    ],
-    "correctIndex": 0,
-    "explanation": "Standard application of Ohm's Law for capacitive reactance: im = vm / XC.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q34",
-    "chapterId": "phy_ch7",
-    "question": "Which component in an LCR circuit dissipates energy as heat?",
-    "options": [
-      "Inductor",
-      "Capacitor",
-      "Resistor",
-      "All of the above"
-    ],
-    "correctIndex": 2,
-    "explanation": "Only the resistor dissipates energy; inductors and capacitors store and release energy without net loss over a cycle.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q35",
-    "chapterId": "phy_ch7",
-    "question": "The average of sin²(ωt) over a complete cycle is:",
-    "options": [
-      "0",
-      "1",
-      "1/2",
-      "√2"
-    ],
-    "correctIndex": 2,
-    "explanation": "This identity is used to derive the rms value of current and voltage, indicating average power is half of peak power in resistors.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Mathematics/Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q36",
-    "chapterId": "phy_ch7",
-    "question": "The average value of AC current over a full cycle is:",
-    "options": [
-      "Peak current",
-      "RMS current",
-      "Zero",
-      "Double the peak"
-    ],
-    "correctIndex": 2,
-    "explanation": "The average of sin(ωt) over a full period is zero.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q37",
-    "chapterId": "phy_ch7",
-    "question": "A step-up transformer increases the voltage while ________ the current.",
-    "options": [
-      "Increasing",
-      "Decreasing",
-      "Keeping constant",
-      "Zeroing"
-    ],
-    "correctIndex": 1,
-    "explanation": "Conservation of energy (VpIp = VsIs) implies if voltage goes up, current must go down.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q38",
-    "chapterId": "phy_ch7",
-    "question": "Copper loss in a transformer is due to:",
-    "options": [
-      "Heat in the iron core",
-      "Resistance of the windings",
-      "Magnetostriction",
-      "Air gaps"
-    ],
-    "correctIndex": 1,
-    "explanation": "Heat is produced due to the resistance of the copper wire used in the primary and secondary coils.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q39",
-    "chapterId": "phy_ch7",
-    "question": "The angular frequency ω is related to frequency f by:",
-    "options": [
-      "ω = f",
-      "ω = 2π f",
-      "ω = f / 2π",
-      "ω = 1 / f"
-    ],
-    "correctIndex": 1,
-    "explanation": "Standard relationship in wave mechanics: ω = 2πf.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q40",
-    "chapterId": "phy_ch7",
-    "question": "In the mechanical analogy of LC oscillations, Inductance (L) is analogous to:",
-    "options": [
-      "Spring constant",
-      "Mass (m)",
-      "Velocity",
-      "Displacement"
-    ],
-    "correctIndex": 1,
-    "explanation": "Inductance represents the inertia of the electrical system, similar to mass in mechanics.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q41",
-    "chapterId": "phy_ch7",
-    "question": "In the mechanical analogy of LC oscillations, the Charge (q) is analogous to:",
-    "options": [
-      "Force",
-      "Velocity",
-      "Displacement (x)",
-      "Momentum"
-    ],
-    "correctIndex": 2,
-    "explanation": "Charge is the coordinate variable, similar to position/displacement in a spring-mass system.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q42",
-    "chapterId": "phy_ch7",
-    "question": "An LCR circuit has R=0. At resonance, the current im becomes:",
-    "options": [
-      "Zero",
-      "im = vm / L",
-      "Infinite",
-      "Constant"
-    ],
-    "correctIndex": 2,
-    "explanation": "Since im = vm / Z and at resonance Z = R, if R is zero, current becomes infinite in theory.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q43",
-    "chapterId": "phy_ch7",
-    "question": "High-voltage transmission reduces ________ in cables.",
-    "options": [
-      "Current",
-      "Energy loss (i²R)",
-      "Both current and energy loss",
-      "Voltage"
-    ],
-    "correctIndex": 2,
-    "explanation": "High voltage allows for low current, which greatly reduces heating losses (power dissipation) in the lines.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q44",
-    "chapterId": "phy_ch7",
-    "question": "The phase angle φ in an LCR circuit is calculated as tan φ =:",
-    "options": [
-      "R / XL",
-      "(XL - XC) / R",
-      "XL / XC",
-      "R / Z"
-    ],
-    "correctIndex": 1,
-    "explanation": "This follows from the impedance phasor triangle: tan φ = (XL - XC) / R.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q45",
-    "chapterId": "phy_ch7",
-    "question": "The energy of a capacitor is stored in its:",
-    "options": [
-      "Magnetic field",
-      "Electric field",
-      "Plates",
-      "Wires"
-    ],
-    "correctIndex": 1,
-    "explanation": "Energy is stored as electric potential energy in the electric field between the plates.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q46",
-    "chapterId": "phy_ch7",
-    "question": "The SI unit of Impedance is:",
-    "options": [
-      "Ohm",
-      "Henry",
-      "Watt",
-      "Farad"
-    ],
-    "correctIndex": 0,
-    "explanation": "Impedance is a form of total AC resistance and is measured in Ohms.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q47",
-    "chapterId": "phy_ch7",
-    "question": "In a series LCR circuit, if XL > XC, the circuit is said to be:",
-    "options": [
-      "Capacitive",
-      "Resistive",
-      "Inductive",
-      "Resonant"
-    ],
-    "correctIndex": 2,
-    "explanation": "The phase angle φ is positive, meaning the inductive reactance dominates over the capacitive reactance.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q48",
-    "chapterId": "phy_ch7",
-    "question": "In an AC circuit, P = V I cos φ. Here V and I are:",
-    "options": [
-      "Average values",
-      "Peak values",
-      "RMS values",
-      "Instantaneous values"
-    ],
-    "correctIndex": 2,
-    "explanation": "Average power is always expressed in terms of rms voltage and current.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q49",
-    "chapterId": "phy_ch7",
-    "question": "The time period (T) of AC is given by:",
-    "options": [
-      "T = 1/f",
-      "T = 2π/ω",
-      "Both A and B",
-      "T = ω/2π"
-    ],
-    "correctIndex": 2,
-    "explanation": "Time period is the reciprocal of frequency and is related to angular frequency as T = 2π/ω.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch7_q50",
-    "chapterId": "phy_ch7",
-    "question": "A transformer works on the principle that a ________ in the primary coil induces an emf in the secondary.",
-    "options": [
-      "Steady current",
-      "Changing magnetic flux",
-      "Constant electric field",
-      "High resistance"
-    ],
-    "correctIndex": 1,
-    "explanation": "Changing current in the primary creates a changing magnetic field, which is linked to the secondary to induce voltage via mutual induction.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  }
+    {
+        "question": "What is the main reason for preferring AC voltage over DC voltage for long-distance transmission?",
+        "options": [
+            "AC voltage is safer",
+            "AC can be easily and efficiently converted by transformers",
+            "AC current travels faster",
+            "DC sources are more expensive"
+        ],
+        "explanation": "The main reason for preferring AC over DC is that AC voltages can be easily and efficiently converted from one voltage to another by transformers, allowing for economical long-distance transmission.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q1",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The rms (root mean square) value of AC current is also known as:",
+        "options": [
+            "Peak current",
+            "Average current",
+            "Effective current",
+            "Instantaneous current"
+        ],
+        "explanation": "The rms current, also denoted as I, is the effective value of AC, equivalent to the DC current that produces the same average power in a resistor.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q2",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The relation between the peak current (im) and the rms current (I) is given by:",
+        "options": [
+            "I = im / 2",
+            "I = im / √2",
+            "I = im * √2",
+            "I = 2 * im"
+        ],
+        "explanation": "The rms current is im divided by the square root of 2, which is approximately 0.707 im.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q3",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a purely resistive AC circuit, the current and voltage are:",
+        "options": [
+            "Out of phase by π/2",
+            "Out of phase by π",
+            "In phase",
+            "Inverted"
+        ],
+        "explanation": "In a circuit containing only a resistor, the current reaches its maximum and zero values at the same time as the voltage, meaning they are in phase.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q4",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The phasor diagram for a resistive circuit shows the current and voltage vectors pointing in:",
+        "options": [
+            "Opposite directions",
+            "The same direction",
+            "Perpendicular directions",
+            "An angle of 45 degrees"
+        ],
+        "explanation": "Because current and voltage are in phase in a resistor, their phasors are aligned in the same direction.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q5",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a purely inductive AC circuit, the current ________ the voltage by π/2.",
+        "options": [
+            "Leads",
+            "Lags",
+            "Is in phase with",
+            "Is out of phase by π"
+        ],
+        "explanation": "In an inductor, the current lags behind the voltage by a phase angle of π/2 (90 degrees).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q6",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The opposition offered by an inductor to the flow of AC is called:",
+        "options": [
+            "Resistance",
+            "Capacitive Reactance",
+            "Inductive Reactance",
+            "Impedance"
+        ],
+        "explanation": "Inductive reactance (XL) is the quantity that limits the AC current in an inductive circuit, similar to resistance.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q7",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The formula for inductive reactance XL is:",
+        "options": [
+            "XL = ωL",
+            "XL = 1/ωL",
+            "XL = ω/L",
+            "XL = L/ω"
+        ],
+        "explanation": "Inductive reactance is the product of the angular frequency (ω) and the inductance (L).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q8",
+        "chapter_id": "phy_ch7",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a purely capacitive AC circuit, the current ________ the voltage by π/2.",
+        "options": [
+            "Lags",
+            "Leads",
+            "Is in phase with",
+            "Is opposite to"
+        ],
+        "explanation": "In a capacitor, the current leads the voltage by a phase angle of π/2 (90 degrees).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q9",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the unit of capacitive reactance XC?",
+        "options": [
+            "Farad",
+            "Henry",
+            "Ohm",
+            "Volt"
+        ],
+        "explanation": "Like resistance and inductive reactance, capacitive reactance is measured in Ohms.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q10",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The capacitive reactance XC is ________ proportional to the frequency of the AC source.",
+        "options": [
+            "Directly",
+            "Inversely",
+            "Not",
+            "Linearly"
+        ],
+        "explanation": "XC = 1 / (ωC). As frequency (and thus ω) increases, XC decreases.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q11",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The total effective opposition to current in a series LCR circuit is called:",
+        "options": [
+            "Reactance",
+            "Resistance",
+            "Impedance",
+            "Admittance"
+        ],
+        "explanation": "Impedance (Z) is the combined effect of resistance, inductive reactance, and capacitive reactance in an AC circuit.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q12",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "At resonance in a series LCR circuit, the impedance Z is equal to:",
+        "options": [
+            "XL",
+            "XC",
+            "R",
+            "Zero"
+        ],
+        "explanation": "At resonance, XL = XC, which means the reactive components cancel out, and Z = R (the minimum value).",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q13",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The average power dissipated in a purely inductive or purely capacitive circuit over a complete cycle is:",
+        "options": [
+            "V im",
+            "V im / 2",
+            "Zero",
+            "V² / R"
+        ],
+        "explanation": "Since the phase difference is π/2, the power factor cos(π/2) is zero, resulting in zero average power dissipation.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q14",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "A series LCR circuit exhibits resonance when the angular frequency ω₀ is equal to:",
+        "options": [
+            "√(LC)",
+            "1 / √(LC)",
+            "L / C",
+            "C / L"
+        ],
+        "explanation": "Resonance occurs when XL = XC, which gives ω₀L = 1 / (ω₀C), hence ω₀ = 1 / √(LC).",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q15",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The 'Power Factor' in an AC circuit is defined as the:",
+        "options": [
+            "Sine of the phase angle",
+            "Cosine of the phase angle",
+            "Tangent of the phase angle",
+            "Phase angle itself"
+        ],
+        "explanation": "The power factor is cos φ, where φ is the phase angle between voltage and current.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q16",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a series LCR circuit, Sharpness of Resonance is determined by which factor?",
+        "options": [
+            "Impedance",
+            "Quality Factor (Q)",
+            "Resistance only",
+            "Voltage amplitude"
+        ],
+        "explanation": "The Q-factor (ω₀L / R) determines how 'sharp' or narrow the resonance peak is.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q17",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the purpose of a transformer?",
+        "options": [
+            "To convert AC to DC",
+            "To store charge",
+            "To increase or decrease AC voltage",
+            "To measure current"
+        ],
+        "explanation": "A transformer is used to step-up (increase) or step-down (decrease) the voltage of an AC source.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q18",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "In an ideal transformer with no power loss, if the number of turns in the secondary (Ns) is greater than the primary (Np), it is a:",
+        "options": [
+            "Step-up transformer",
+            "Step-down transformer",
+            "Isolation transformer",
+            "Auto transformer"
+        ],
+        "explanation": "When Ns > Np, the secondary voltage is higher than the primary voltage, making it a step-up transformer.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q19",
+        "chapter_id": "phy_ch7",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Transformers work on the principle of:",
+        "options": [
+            "Self induction",
+            "Mutual induction",
+            "Eddy currents",
+            "Coulomb's Law"
+        ],
+        "explanation": "Transformers operate based on mutual induction between two coils (primary and secondary) wound on the same core.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q20",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The soft iron core of a transformer is laminated to reduce energy loss due to:",
+        "options": [
+            "Hysteresis",
+            "Eddy currents",
+            "Flux leakage",
+            "Resistance of the winding"
+        ],
+        "explanation": "Lamination of the core minimizes the path of eddy currents, thereby reducing heating losses.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q21",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a step-down transformer, the secondary current is ________ than the primary current (assuming ideal conditions).",
+        "options": [
+            "Higher",
+            "Lower",
+            "Equal",
+            "Zero"
+        ],
+        "explanation": "In an ideal transformer, power (V*I) is constant. Since voltage is stepped down, current must be stepped up.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q22",
+        "chapter_id": "phy_ch7",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the frequency of AC mains supply in India?",
+        "options": [
+            "60 Hz",
+            "50 Hz",
+            "100 Hz",
+            "220 Hz"
+        ],
+        "explanation": "While the voltage is 220V, the standard frequency of AC in India is 50 Hz.",
+        "difficulty": "easy",
+        "subject": "General Knowledge/Physics",
+        "mcq_id": "12_phy_ch7_q23",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In an LC circuit, the total energy is conserved and oscillates between:",
+        "options": [
+            "Resistor and Inductor",
+            "Battery and Capacitor",
+            "Electric field (Capacitor) and Magnetic field (Inductor)",
+            "Heat and Light"
+        ],
+        "explanation": "In LC oscillations, energy shifts back and forth between the electric field of the capacitor and the magnetic field of the inductor.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q24",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following describes a 'Wattless Current'?",
+        "options": [
+            "A current that has no magnitude",
+            "A current where no power is dissipated",
+            "A current in a DC circuit",
+            "A current that flows through a high resistor"
+        ],
+        "explanation": "If the phase difference is π/2 (purely inductive or capacitive), the current is called wattless because it consumes zero power.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q25",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The angular frequency of free oscillations in an LC circuit is given by:",
+        "options": [
+            "ω = 1 / LC",
+            "ω = 1 / √(LC)",
+            "ω = √(LC)",
+            "ω = L / C"
+        ],
+        "explanation": "The natural frequency of an LC circuit follows the same formula as the resonance frequency of an LCR circuit.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q26",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A transformer cannot be used with:",
+        "options": [
+            "Variable AC",
+            "Steady DC",
+            "Sinusoidal AC",
+            "High frequency AC"
+        ],
+        "explanation": "Transformers require a changing magnetic flux to induce voltage; a steady DC produces a constant flux and thus no induction in the secondary.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q27",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the peak value of voltage (vm) if the rms voltage is 220 V?",
+        "options": [
+            "220 V",
+            "110 V",
+            "311 V",
+            "440 V"
+        ],
+        "explanation": "vm = V * √2 = 220 * 1.414 ≈ 311 V.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q28",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a series LCR circuit, resonance is used for ________ in radios.",
+        "options": [
+            "Amplification",
+            "Tuning",
+            "Rectification",
+            "Modulation"
+        ],
+        "explanation": "Tuning a radio involves changing the capacitance to match the natural frequency of the LCR circuit to the signal frequency.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q29",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The phase angle φ in a purely resistive circuit is:",
+        "options": [
+            "π/2",
+            "π",
+            "0",
+            "-π/2"
+        ],
+        "explanation": "In a resistor, voltage and current are in phase, so the phase difference is zero.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q30",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Inductive reactance XL is zero for ________ current.",
+        "options": [
+            "High frequency AC",
+            "Low frequency AC",
+            "Direct current (DC)",
+            "Sinusoidal current"
+        ],
+        "explanation": "For DC, ω = 0, so XL = ωL = 0. Inductors act as simple conductors for DC.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q31",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "A capacitor acts as a block to ________ current.",
+        "options": [
+            "Alternating Current (AC)",
+            "Direct Current (DC)",
+            "Transient Current",
+            "Peak Current"
+        ],
+        "explanation": "For DC, ω = 0, so XC = 1/(ωC) becomes infinite. Capacitors prevent steady DC from flowing.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q32",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The current amplitude in a purely capacitive circuit is:",
+        "options": [
+            "im = vm / XC",
+            "im = vm * XC",
+            "im = vm / R",
+            "im = vm / XL"
+        ],
+        "explanation": "Standard application of Ohm's Law for capacitive reactance: im = vm / XC.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q33",
+        "chapter_id": "phy_ch7",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which component in an LCR circuit dissipates energy as heat?",
+        "options": [
+            "Inductor",
+            "Capacitor",
+            "Resistor",
+            "All of the above"
+        ],
+        "explanation": "Only the resistor dissipates energy; inductors and capacitors store and release energy without net loss over a cycle.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q34",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The average of sin²(ωt) over a complete cycle is:",
+        "options": [
+            "0",
+            "1",
+            "1/2",
+            "√2"
+        ],
+        "explanation": "This identity is used to derive the rms value of current and voltage, indicating average power is half of peak power in resistors.",
+        "difficulty": "hard",
+        "subject": "Mathematics/Physics",
+        "mcq_id": "12_phy_ch7_q35",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The average value of AC current over a full cycle is:",
+        "options": [
+            "Peak current",
+            "RMS current",
+            "Zero",
+            "Double the peak"
+        ],
+        "explanation": "The average of sin(ωt) over a full period is zero.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q36",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "A step-up transformer increases the voltage while ________ the current.",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Keeping constant",
+            "Zeroing"
+        ],
+        "explanation": "Conservation of energy (VpIp = VsIs) implies if voltage goes up, current must go down.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q37",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Copper loss in a transformer is due to:",
+        "options": [
+            "Heat in the iron core",
+            "Resistance of the windings",
+            "Magnetostriction",
+            "Air gaps"
+        ],
+        "explanation": "Heat is produced due to the resistance of the copper wire used in the primary and secondary coils.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q38",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The angular frequency ω is related to frequency f by:",
+        "options": [
+            "ω = f",
+            "ω = 2π f",
+            "ω = f / 2π",
+            "ω = 1 / f"
+        ],
+        "explanation": "Standard relationship in wave mechanics: ω = 2πf.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q39",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In the mechanical analogy of LC oscillations, Inductance (L) is analogous to:",
+        "options": [
+            "Spring constant",
+            "Mass (m)",
+            "Velocity",
+            "Displacement"
+        ],
+        "explanation": "Inductance represents the inertia of the electrical system, similar to mass in mechanics.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q40",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In the mechanical analogy of LC oscillations, the Charge (q) is analogous to:",
+        "options": [
+            "Force",
+            "Velocity",
+            "Displacement (x)",
+            "Momentum"
+        ],
+        "explanation": "Charge is the coordinate variable, similar to position/displacement in a spring-mass system.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q41",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "An LCR circuit has R=0. At resonance, the current im becomes:",
+        "options": [
+            "Zero",
+            "im = vm / L",
+            "Infinite",
+            "Constant"
+        ],
+        "explanation": "Since im = vm / Z and at resonance Z = R, if R is zero, current becomes infinite in theory.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q42",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "High-voltage transmission reduces ________ in cables.",
+        "options": [
+            "Current",
+            "Energy loss (i²R)",
+            "Both current and energy loss",
+            "Voltage"
+        ],
+        "explanation": "High voltage allows for low current, which greatly reduces heating losses (power dissipation) in the lines.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q43",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The phase angle φ in an LCR circuit is calculated as tan φ =:",
+        "options": [
+            "R / XL",
+            "(XL - XC) / R",
+            "XL / XC",
+            "R / Z"
+        ],
+        "explanation": "This follows from the impedance phasor triangle: tan φ = (XL - XC) / R.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q44",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The energy of a capacitor is stored in its:",
+        "options": [
+            "Magnetic field",
+            "Electric field",
+            "Plates",
+            "Wires"
+        ],
+        "explanation": "Energy is stored as electric potential energy in the electric field between the plates.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q45",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The SI unit of Impedance is:",
+        "options": [
+            "Ohm",
+            "Henry",
+            "Watt",
+            "Farad"
+        ],
+        "explanation": "Impedance is a form of total AC resistance and is measured in Ohms.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q46",
+        "chapter_id": "phy_ch7",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a series LCR circuit, if XL > XC, the circuit is said to be:",
+        "options": [
+            "Capacitive",
+            "Resistive",
+            "Inductive",
+            "Resonant"
+        ],
+        "explanation": "The phase angle φ is positive, meaning the inductive reactance dominates over the capacitive reactance.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q47",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "In an AC circuit, P = V I cos φ. Here V and I are:",
+        "options": [
+            "Average values",
+            "Peak values",
+            "RMS values",
+            "Instantaneous values"
+        ],
+        "explanation": "Average power is always expressed in terms of rms voltage and current.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q48",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The time period (T) of AC is given by:",
+        "options": [
+            "T = 1/f",
+            "T = 2π/ω",
+            "Both A and B",
+            "T = ω/2π"
+        ],
+        "explanation": "Time period is the reciprocal of frequency and is related to angular frequency as T = 2π/ω.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q49",
+        "chapter_id": "phy_ch7",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "A transformer works on the principle that a ________ in the primary coil induces an emf in the secondary.",
+        "options": [
+            "Steady current",
+            "Changing magnetic flux",
+            "Constant electric field",
+            "High resistance"
+        ],
+        "explanation": "Changing current in the primary creates a changing magnetic field, which is linked to the secondary to induce voltage via mutual induction.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch7_q50",
+        "chapter_id": "phy_ch7",
+        "correct_index": 1,
+        "ncert_page": 0
+    }
 ]

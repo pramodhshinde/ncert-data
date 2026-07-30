@@ -1,802 +1,802 @@
 [
-  {
-    "mcqId": "12_phy_ch8_q1",
-    "chapterId": "phy_ch8",
-    "question": "Who suggested the existence of 'displacement current' to remove the inconsistency in Ampere's circuital law?",
-    "options": [
-      "Heinrich Hertz",
-      "James Clerk Maxwell",
-      "Guglielmo Marconi",
-      "Jagadish Chandra Bose"
-    ],
-    "correctIndex": 1,
-    "explanation": "James Clerk Maxwell noticed an inconsistency in Ampere's circuital law for time-varying currents and suggested the displacement current.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q2",
-    "chapterId": "phy_ch8",
-    "question": "The displacement current arises due to:",
-    "options": [
-      "Flow of electrons in a conductor",
-      "A time-varying electric field",
-      "Steady magnetic fields",
-      "Ionization of gases"
-    ],
-    "correctIndex": 1,
-    "explanation": "Displacement current is proportional to the rate of change of electric flux, which is caused by a time-varying electric field.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q3",
-    "chapterId": "phy_ch8",
-    "question": "What is the source of an electromagnetic wave?",
-    "options": [
-      "A charge moving with constant velocity",
-      "A stationary charge",
-      "An accelerating charge",
-      "A neutral particle at rest"
-    ],
-    "correctIndex": 2,
-    "explanation": "Accelerating charges radiate electromagnetic waves as they produce time-varying magnetic and electric fields.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q4",
-    "chapterId": "phy_ch8",
-    "question": "In a plane electromagnetic wave, the angle between the electric field (E) and magnetic field (B) vectors is:",
-    "options": [
-      "0°",
-      "45°",
-      "90°",
-      "180°"
-    ],
-    "correctIndex": 2,
-    "explanation": "The electric and magnetic fields in an electromagnetic wave are perpendicular to each other and to the direction of propagation.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q5",
-    "chapterId": "phy_ch8",
-    "question": "Which of the following represents the speed of light (c) in terms of permeability (μ₀) and permittivity (ε₀) of vacuum?",
-    "options": [
-      "c = μ₀ε₀",
-      "c = 1 / √(μ₀ε₀)",
-      "c = √(μ₀/ε₀)",
-      "c = 1 / (μ₀ε₀)"
-    ],
-    "correctIndex": 1,
-    "explanation": "Maxwell's equations show that the speed of electromagnetic waves in a vacuum is given by c = 1 / √(μ₀ε₀).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q6",
-    "chapterId": "phy_ch8",
-    "question": "The ratio of the amplitudes of the electric field (E₀) and magnetic field (B₀) in an EM wave is equal to:",
-    "options": [
-      "c",
-      "1/c",
-      "c²",
-      "√c"
-    ],
-    "correctIndex": 0,
-    "explanation": "In an electromagnetic wave, the relationship between field amplitudes is E₀ / B₀ = c.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q7",
-    "chapterId": "phy_ch8",
-    "question": "Electromagnetic waves carry ________ from one place to another.",
-    "options": [
-      "Mass",
-      "Charge",
-      "Energy and Momentum",
-      "Only electric field"
-    ],
-    "correctIndex": 2,
-    "explanation": "EM waves transport both energy and momentum through space.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q8",
-    "chapterId": "phy_ch8",
-    "question": "If an EM wave with energy 'U' is completely absorbed by a surface, the momentum delivered (p) is:",
-    "options": [
-      "U/c",
-      "Uc",
-      "U/c²",
-      "zero"
-    ],
-    "correctIndex": 0,
-    "explanation": "According to the properties of EM waves, the momentum delivered to a surface at normal incidence is p = U / c.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q9",
-    "chapterId": "phy_ch8",
-    "question": "Who first experimentally demonstrated the existence of electromagnetic waves in 1887?",
-    "options": [
-      "Maxwell",
-      "Heinrich Hertz",
-      "Marconi",
-      "Newton"
-    ],
-    "correctIndex": 1,
-    "explanation": "Heinrich Hertz was the first to experimentally prove the existence of EM waves using a spark gap oscillator.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q10",
-    "chapterId": "phy_ch8",
-    "question": "Which waves are used in Radar systems for aircraft navigation?",
-    "options": [
-      "X-rays",
-      "Infrared waves",
-      "Microwaves",
-      "Ultraviolet rays"
-    ],
-    "correctIndex": 2,
-    "explanation": "Microwaves are used in radar systems because of their short wavelengths.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q11",
-    "chapterId": "phy_ch8",
-    "question": "The 'Greenhouse Effect' is primarily associated with which part of the EM spectrum?",
-    "options": [
-      "Visible light",
-      "Gamma rays",
-      "Infrared waves",
-      "Radio waves"
-    ],
-    "correctIndex": 2,
-    "explanation": "Infrared waves (heat waves) are trapped by greenhouse gases like CO₂ and water vapor, maintaining the earth's warmth.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q12",
-    "chapterId": "phy_ch8",
-    "question": "Which of the following electromagnetic waves has the shortest wavelength?",
-    "options": [
-      "Radio waves",
-      "Microwaves",
-      "Ultraviolet rays",
-      "Gamma rays"
-    ],
-    "correctIndex": 3,
-    "explanation": "Gamma rays are at the high-frequency/short-wavelength end of the electromagnetic spectrum.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q13",
-    "chapterId": "phy_ch8",
-    "question": "The waves used in household remote switches (for TV/VCR) are usually:",
-    "options": [
-      "Radio waves",
-      "Infrared waves",
-      "Visible light",
-      "X-rays"
-    ],
-    "correctIndex": 1,
-    "explanation": "Infrared lamps and LEDs are commonly used in electronic remote control units.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q14",
-    "chapterId": "phy_ch8",
-    "question": "Overexposure to ________ can lead to the production of more melanin, resulting in a suntan.",
-    "options": [
-      "Visible light",
-      "Infrared waves",
-      "Ultraviolet (UV) radiation",
-      "Microwaves"
-    ],
-    "correctIndex": 2,
-    "explanation": "UV radiation from the sun causes suntans by stimulating melanin production.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q15",
-    "chapterId": "phy_ch8",
-    "question": "Which diagnostic tool in medicine uses electromagnetic waves to detect bone fractures?",
-    "options": [
-      "UV lamps",
-      "X-rays",
-      "Infrared scanners",
-      "Radio transmitters"
-    ],
-    "correctIndex": 1,
-    "explanation": "X-rays are widely used in medicine for imaging bones because they can penetrate soft tissue but are absorbed by bones.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q16",
-    "chapterId": "phy_ch8",
-    "question": "The ozone layer in the atmosphere absorbs harmful ________ radiation from the sun.",
-    "options": [
-      "X-ray",
-      "Infrared",
-      "Ultraviolet",
-      "Radio"
-    ],
-    "correctIndex": 2,
-    "explanation": "The ozone layer serves as a protective shield against harmful UV radiation.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q17",
-    "chapterId": "phy_ch8",
-    "question": "Electromagnetic waves are ________ in nature.",
-    "options": [
-      "Longitudinal",
-      "Transverse",
-      "Stationary",
-      "Non-propagating"
-    ],
-    "correctIndex": 1,
-    "explanation": "EM waves are transverse because the E and B fields oscillate perpendicular to the direction of wave travel.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q18",
-    "chapterId": "phy_ch8",
-    "question": "Which waves have wavelengths ranging from about 1 mm to 0.1 m?",
-    "options": [
-      "Radio waves",
-      "Microwaves",
-      "Infrared waves",
-      "Visible light"
-    ],
-    "correctIndex": 1,
-    "explanation": "Microwaves are short-wavelength radio waves with wavelengths in the millimeter to decimeter range.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q19",
-    "chapterId": "phy_ch8",
-    "question": "The total energy density of an EM wave is the sum of the energy densities of:",
-    "options": [
-      "Electric field and gravitational field",
-      "Electric field and magnetic field",
-      "Magnetic field and thermal energy",
-      "Kinetic energy and potential energy"
-    ],
-    "correctIndex": 1,
-    "explanation": "The total energy in an EM wave is distributed equally between the electric and magnetic fields.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q20",
-    "chapterId": "phy_ch8",
-    "question": "The wavelength range of visible light is approximately:",
-    "options": [
-      "400 nm to 700 nm",
-      "1 nm to 100 nm",
-      "1 mm to 1 cm",
-      "700 nm to 1 mm"
-    ],
-    "correctIndex": 0,
-    "explanation": "Human eyes are sensitive to electromagnetic radiation in the range of roughly 400 nm to 700 nm.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q21",
-    "chapterId": "phy_ch8",
-    "question": "The 'Welders' mask' is used to protect eyes from which type of radiation?",
-    "options": [
-      "Infrared",
-      "Microwaves",
-      "Ultraviolet (UV)",
-      "Gamma rays"
-    ],
-    "correctIndex": 2,
-    "explanation": "Welding arcs produce large amounts of UV radiation, which can damage the eyes.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q22",
-    "chapterId": "phy_ch8",
-    "question": "Which of the following is NOT one of Maxwell's equations?",
-    "options": [
-      "Gauss's Law for Electricity",
-      "Gauss's Law for Magnetism",
-      "Faraday's Law",
-      "Ohm's Law"
-    ],
-    "correctIndex": 3,
-    "explanation": "Maxwell's equations include Gauss's laws (E and B), Faraday's law, and the Ampere-Maxwell law.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q23",
-    "chapterId": "phy_ch8",
-    "question": "Electromagnetic waves can exert ________ on surfaces they strike.",
-    "options": [
-      "Pressure",
-      "Mass",
-      "Charge",
-      "Static electricity"
-    ],
-    "correctIndex": 0,
-    "explanation": "Because EM waves carry momentum, they exert radiation pressure on surfaces.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q24",
-    "chapterId": "phy_ch8",
-    "question": "The displacement current is given by the formula I_d = :",
-    "options": [
-      "ε₀ (dΦ_E / dt)",
-      "μ₀ (dΦ_B / dt)",
-      "E / B",
-      "q / t"
-    ],
-    "correctIndex": 0,
-    "explanation": "Displacement current is ε₀ times the time rate of change of electric flux.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q25",
-    "chapterId": "phy_ch8",
-    "question": "In a capacitor being charged, where does the displacement current exist?",
-    "options": [
-      "In the connecting wires",
-      "In the space between the plates",
-      "On the surface of the plates",
-      "It doesn't exist during charging"
-    ],
-    "correctIndex": 1,
-    "explanation": "The conduction current exists in the wires, while the displacement current exists in the gap between the capacitor plates where the electric field is changing.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q26",
-    "chapterId": "phy_ch8",
-    "question": "The FM radio band is roughly in the frequency range of:",
-    "options": [
-      "540 kHz to 1600 kHz",
-      "88 MHz to 108 MHz",
-      "1 GHz to 10 GHz",
-      "30 MHz to 300 MHz"
-    ],
-    "correctIndex": 1,
-    "explanation": "The Frequency Modulated (FM) radio band typically occupies 88 MHz to 108 MHz.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q27",
-    "chapterId": "phy_ch8",
-    "question": "Which part of the EM spectrum is used to treat muscular strains?",
-    "options": [
-      "Ultraviolet rays",
-      "Infrared waves",
-      "Microwaves",
-      "X-rays"
-    ],
-    "correctIndex": 1,
-    "explanation": "Infrared waves are used in physical therapy to treat muscular strains.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q28",
-    "chapterId": "phy_ch8",
-    "question": "The frequency of an EM wave is determined by the frequency of:",
-    "options": [
-      "The medium",
-      "The source oscillator",
-      "The speed of light",
-      "The wavelength"
-    ],
-    "correctIndex": 1,
-    "explanation": "The frequency of the EM wave equals the frequency of oscillation of the charge that produced it.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q29",
-    "chapterId": "phy_ch8",
-    "question": "Which of the following is used in 'LASIK' eye surgery?",
-    "options": [
-      "Gamma rays",
-      "Infrared",
-      "Ultraviolet (UV) rays",
-      "Microwaves"
-    ],
-    "correctIndex": 2,
-    "explanation": "UV radiation (specifically from an excimer laser) is used in LASIK to precisely reshape the cornea.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q30",
-    "chapterId": "phy_ch8",
-    "question": "What is the speed of EM waves in a medium with permittivity 'ε' and permeability 'μ'?",
-    "options": [
-      "v = 1 / √(με)",
-      "v = με",
-      "v = c",
-      "v = √(μ/ε)"
-    ],
-    "correctIndex": 0,
-    "explanation": "The speed of light in a material medium is v = 1 / √(με).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q31",
-    "chapterId": "phy_ch8",
-    "question": "Which scientist used a short wavelength (about 5 mm to 25 mm) to demonstrate EM waves in Calcutta?",
-    "options": [
-      "Maxwell",
-      "Hertz",
-      "J.C. Bose",
-      "Marconi"
-    ],
-    "correctIndex": 2,
-    "explanation": "Jagadish Chandra Bose demonstrated EMW of short wavelengths in his laboratory.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q32",
-    "chapterId": "phy_ch8",
-    "question": "Radio waves are produced by:",
-    "options": [
-      "Inner shell electrons",
-      "Accelerated motion of charges in conducting wires",
-      "Radioactive decay of nuclei",
-      "Vibrations of atoms"
-    ],
-    "correctIndex": 1,
-    "explanation": "Radio waves are generated by the accelerated motion of charges in wires or LC circuits.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q33",
-    "chapterId": "phy_ch8",
-    "question": "Cellular phones use which part of the EM spectrum for communication?",
-    "options": [
-      "Visible light",
-      "Infrared",
-      "Ultra High Frequency (UHF) radio waves",
-      "Gamma rays"
-    ],
-    "correctIndex": 2,
-    "explanation": "Cellular phones use radio waves in the UHF band to transmit voice.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q34",
-    "chapterId": "phy_ch8",
-    "question": "The direction of propagation of an EM wave is given by the direction of:",
-    "options": [
-      "E vector",
-      "B vector",
-      "E x B",
-      "B x E"
-    ],
-    "correctIndex": 2,
-    "explanation": "The wave propagates in a direction perpendicular to both E and B, given by the cross product E x B.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q35",
-    "chapterId": "phy_ch8",
-    "question": "Which of these waves can be polarized?",
-    "options": [
-      "Sound waves",
-      "Electromagnetic waves",
-      "Ultrasonic waves",
-      "None"
-    ],
-    "correctIndex": 1,
-    "explanation": "Because EMW are transverse waves, they can be polarized.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q36",
-    "chapterId": "phy_ch8",
-    "question": "A microwave oven works by matching the microwave frequency to the resonant frequency of ________ molecules.",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Water",
-      "Carbon"
-    ],
-    "correctIndex": 2,
-    "explanation": "Microwave ovens heat food by matching the frequency to the rotational resonance frequency of water molecules.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q37",
-    "chapterId": "phy_ch8",
-    "question": "Which part of the EM spectrum has frequencies between 10¹⁹ Hz and 10²³ Hz?",
-    "options": [
-      "Radio waves",
-      "Gamma rays",
-      "Ultraviolet",
-      "Visible light"
-    ],
-    "correctIndex": 1,
-    "explanation": "Gamma rays are the highest frequency radiation in the spectrum.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q38",
-    "chapterId": "phy_ch8",
-    "question": "Standard AM radio broadcast band is:",
-    "options": [
-      "88-108 MHz",
-      "540-1600 kHz",
-      "1-10 GHz",
-      "300-400 nm"
-    ],
-    "correctIndex": 1,
-    "explanation": "Amplitude Modulated (AM) radio uses frequencies in the kilohertz range (540 to 1600 kHz).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q39",
-    "chapterId": "phy_ch8",
-    "question": "The total current I entering a capacitor plate is equal to:",
-    "options": [
-      "Conduction current only",
-      "Displacement current only",
-      "Sum of conduction and displacement currents",
-      "Difference of currents"
-    ],
-    "correctIndex": 2,
-    "explanation": "The generalized Ampere's Law includes both conduction (I_c) and displacement current (I_d).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q40",
-    "chapterId": "phy_ch8",
-    "question": "If the electric field is in the x-direction and the magnetic field is in the y-direction, the wave propagates in the:",
-    "options": [
-      "x-direction",
-      "y-direction",
-      "z-direction",
-      "negative x-direction"
-    ],
-    "correctIndex": 2,
-    "explanation": "Using the cross product (E x B), x cross y equals z.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q41",
-    "chapterId": "phy_ch8",
-    "question": "Night vision goggles utilize which part of the spectrum?",
-    "options": [
-      "X-rays",
-      "Visible light",
-      "Infrared waves",
-      "UV rays"
-    ],
-    "correctIndex": 2,
-    "explanation": "Infrared detectors are used in night vision equipment to sense heat emitted by objects.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q42",
-    "chapterId": "phy_ch8",
-    "question": "Short-wavelength UV radiation (UV-B) is responsible for:",
-    "options": [
-      "Bone fractures",
-      "Cataracts and skin cancer",
-      "Cooking food",
-      "Radio transmission"
-    ],
-    "correctIndex": 1,
-    "explanation": "Exposure to UV-B radiation is linked to cataracts and skin cancer.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q43",
-    "chapterId": "phy_ch8",
-    "question": "The magnetic field amplitude B₀ of an EM wave with electric field amplitude 48 V/m is:",
-    "options": [
-      "1.6 x 10⁻⁷ T",
-      "1.6 x 10⁻⁸ T",
-      "1.44 x 10⁹ T",
-      "zero"
-    ],
-    "correctIndex": 0,
-    "explanation": "B₀ = E₀ / c = 48 / (3 x 10⁸) = 1.6 x 10⁻⁷ T.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q44",
-    "chapterId": "phy_ch8",
-    "question": "Which of the following does NOT change when an EM wave enters a new medium?",
-    "options": [
-      "Speed",
-      "Wavelength",
-      "Frequency",
-      "Amplitude"
-    ],
-    "correctIndex": 2,
-    "explanation": "The frequency of a wave is determined by the source and does not change when the medium changes.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q45",
-    "chapterId": "phy_ch8",
-    "question": "Visible light is produced when:",
-    "options": [
-      "Nuclei decay",
-      "Inner shell electrons move",
-      "Outer shell electrons in atoms move from higher to lower energy levels",
-      "Charges oscillate in wires"
-    ],
-    "correctIndex": 2,
-    "explanation": "Visible light emissions are associated with transitions of outer electrons in atoms.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q46",
-    "chapterId": "phy_ch8",
-    "question": "What is the frequency of an EM wave with a wavelength of 3 meters in vacuum?",
-    "options": [
-      "100 MHz",
-      "10 MHz",
-      "300 MHz",
-      "1 MHz"
-    ],
-    "correctIndex": 0,
-    "explanation": "f = c / λ = (3 x 10⁸) / 3 = 10⁸ Hz = 100 MHz.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q47",
-    "chapterId": "phy_ch8",
-    "question": "The existence of the ionosphere allows for the propagation of ________ over long distances.",
-    "options": [
-      "Microwaves",
-      "Gamma rays",
-      "Short-wave radio signals",
-      "X-rays"
-    ],
-    "correctIndex": 2,
-    "explanation": "The ionosphere reflects short-wave radio signals, enabling global communication.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q48",
-    "chapterId": "phy_ch8",
-    "question": "Infrared waves are often called ________.",
-    "options": [
-      "Light waves",
-      "Cold waves",
-      "Heat waves",
-      "Neutral waves"
-    ],
-    "correctIndex": 2,
-    "explanation": "Infrared waves are referred to as heat waves because they increase the internal energy and temperature of objects.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q49",
-    "chapterId": "phy_ch8",
-    "question": "Electromagnetic waves carry energy. This means they ________ any object they fall upon.",
-    "options": [
-      "Cool down",
-      "Charge up",
-      "Heat up",
-      "Neutralize"
-    ],
-    "correctIndex": 2,
-    "explanation": "By transferring energy, EM waves can increase the temperature of the object they hit.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch8_q50",
-    "chapterId": "phy_ch8",
-    "question": "According to Maxwell, a changing electric field produces a ________.",
-    "options": [
-      "Static charge",
-      "Magnetic field",
-      "Gravitational wave",
-      "Conducting wire"
-    ],
-    "correctIndex": 1,
-    "explanation": "Maxwell's Ampere law predicts that a time-varying electric field acts as a source of a magnetic field.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  }
+    {
+        "question": "Who suggested the existence of 'displacement current' to remove the inconsistency in Ampere's circuital law?",
+        "options": [
+            "Heinrich Hertz",
+            "James Clerk Maxwell",
+            "Guglielmo Marconi",
+            "Jagadish Chandra Bose"
+        ],
+        "explanation": "James Clerk Maxwell noticed an inconsistency in Ampere's circuital law for time-varying currents and suggested the displacement current.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q1",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The displacement current arises due to:",
+        "options": [
+            "Flow of electrons in a conductor",
+            "A time-varying electric field",
+            "Steady magnetic fields",
+            "Ionization of gases"
+        ],
+        "explanation": "Displacement current is proportional to the rate of change of electric flux, which is caused by a time-varying electric field.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q2",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the source of an electromagnetic wave?",
+        "options": [
+            "A charge moving with constant velocity",
+            "A stationary charge",
+            "An accelerating charge",
+            "A neutral particle at rest"
+        ],
+        "explanation": "Accelerating charges radiate electromagnetic waves as they produce time-varying magnetic and electric fields.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q3",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a plane electromagnetic wave, the angle between the electric field (E) and magnetic field (B) vectors is:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "explanation": "The electric and magnetic fields in an electromagnetic wave are perpendicular to each other and to the direction of propagation.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q4",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following represents the speed of light (c) in terms of permeability (μ₀) and permittivity (ε₀) of vacuum?",
+        "options": [
+            "c = μ₀ε₀",
+            "c = 1 / √(μ₀ε₀)",
+            "c = √(μ₀/ε₀)",
+            "c = 1 / (μ₀ε₀)"
+        ],
+        "explanation": "Maxwell's equations show that the speed of electromagnetic waves in a vacuum is given by c = 1 / √(μ₀ε₀).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q5",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The ratio of the amplitudes of the electric field (E₀) and magnetic field (B₀) in an EM wave is equal to:",
+        "options": [
+            "c",
+            "1/c",
+            "c²",
+            "√c"
+        ],
+        "explanation": "In an electromagnetic wave, the relationship between field amplitudes is E₀ / B₀ = c.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q6",
+        "chapter_id": "phy_ch8",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electromagnetic waves carry ________ from one place to another.",
+        "options": [
+            "Mass",
+            "Charge",
+            "Energy and Momentum",
+            "Only electric field"
+        ],
+        "explanation": "EM waves transport both energy and momentum through space.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q7",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "If an EM wave with energy 'U' is completely absorbed by a surface, the momentum delivered (p) is:",
+        "options": [
+            "U/c",
+            "Uc",
+            "U/c²",
+            "zero"
+        ],
+        "explanation": "According to the properties of EM waves, the momentum delivered to a surface at normal incidence is p = U / c.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q8",
+        "chapter_id": "phy_ch8",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Who first experimentally demonstrated the existence of electromagnetic waves in 1887?",
+        "options": [
+            "Maxwell",
+            "Heinrich Hertz",
+            "Marconi",
+            "Newton"
+        ],
+        "explanation": "Heinrich Hertz was the first to experimentally prove the existence of EM waves using a spark gap oscillator.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q9",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which waves are used in Radar systems for aircraft navigation?",
+        "options": [
+            "X-rays",
+            "Infrared waves",
+            "Microwaves",
+            "Ultraviolet rays"
+        ],
+        "explanation": "Microwaves are used in radar systems because of their short wavelengths.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q10",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The 'Greenhouse Effect' is primarily associated with which part of the EM spectrum?",
+        "options": [
+            "Visible light",
+            "Gamma rays",
+            "Infrared waves",
+            "Radio waves"
+        ],
+        "explanation": "Infrared waves (heat waves) are trapped by greenhouse gases like CO₂ and water vapor, maintaining the earth's warmth.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q11",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+        "options": [
+            "Radio waves",
+            "Microwaves",
+            "Ultraviolet rays",
+            "Gamma rays"
+        ],
+        "explanation": "Gamma rays are at the high-frequency/short-wavelength end of the electromagnetic spectrum.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q12",
+        "chapter_id": "phy_ch8",
+        "correct_index": 3,
+        "ncert_page": 0
+    },
+    {
+        "question": "The waves used in household remote switches (for TV/VCR) are usually:",
+        "options": [
+            "Radio waves",
+            "Infrared waves",
+            "Visible light",
+            "X-rays"
+        ],
+        "explanation": "Infrared lamps and LEDs are commonly used in electronic remote control units.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q13",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Overexposure to ________ can lead to the production of more melanin, resulting in a suntan.",
+        "options": [
+            "Visible light",
+            "Infrared waves",
+            "Ultraviolet (UV) radiation",
+            "Microwaves"
+        ],
+        "explanation": "UV radiation from the sun causes suntans by stimulating melanin production.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q14",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which diagnostic tool in medicine uses electromagnetic waves to detect bone fractures?",
+        "options": [
+            "UV lamps",
+            "X-rays",
+            "Infrared scanners",
+            "Radio transmitters"
+        ],
+        "explanation": "X-rays are widely used in medicine for imaging bones because they can penetrate soft tissue but are absorbed by bones.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q15",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The ozone layer in the atmosphere absorbs harmful ________ radiation from the sun.",
+        "options": [
+            "X-ray",
+            "Infrared",
+            "Ultraviolet",
+            "Radio"
+        ],
+        "explanation": "The ozone layer serves as a protective shield against harmful UV radiation.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q16",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electromagnetic waves are ________ in nature.",
+        "options": [
+            "Longitudinal",
+            "Transverse",
+            "Stationary",
+            "Non-propagating"
+        ],
+        "explanation": "EM waves are transverse because the E and B fields oscillate perpendicular to the direction of wave travel.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q17",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which waves have wavelengths ranging from about 1 mm to 0.1 m?",
+        "options": [
+            "Radio waves",
+            "Microwaves",
+            "Infrared waves",
+            "Visible light"
+        ],
+        "explanation": "Microwaves are short-wavelength radio waves with wavelengths in the millimeter to decimeter range.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q18",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The total energy density of an EM wave is the sum of the energy densities of:",
+        "options": [
+            "Electric field and gravitational field",
+            "Electric field and magnetic field",
+            "Magnetic field and thermal energy",
+            "Kinetic energy and potential energy"
+        ],
+        "explanation": "The total energy in an EM wave is distributed equally between the electric and magnetic fields.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q19",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The wavelength range of visible light is approximately:",
+        "options": [
+            "400 nm to 700 nm",
+            "1 nm to 100 nm",
+            "1 mm to 1 cm",
+            "700 nm to 1 mm"
+        ],
+        "explanation": "Human eyes are sensitive to electromagnetic radiation in the range of roughly 400 nm to 700 nm.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q20",
+        "chapter_id": "phy_ch8",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The 'Welders' mask' is used to protect eyes from which type of radiation?",
+        "options": [
+            "Infrared",
+            "Microwaves",
+            "Ultraviolet (UV)",
+            "Gamma rays"
+        ],
+        "explanation": "Welding arcs produce large amounts of UV radiation, which can damage the eyes.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q21",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following is NOT one of Maxwell's equations?",
+        "options": [
+            "Gauss's Law for Electricity",
+            "Gauss's Law for Magnetism",
+            "Faraday's Law",
+            "Ohm's Law"
+        ],
+        "explanation": "Maxwell's equations include Gauss's laws (E and B), Faraday's law, and the Ampere-Maxwell law.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q22",
+        "chapter_id": "phy_ch8",
+        "correct_index": 3,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electromagnetic waves can exert ________ on surfaces they strike.",
+        "options": [
+            "Pressure",
+            "Mass",
+            "Charge",
+            "Static electricity"
+        ],
+        "explanation": "Because EM waves carry momentum, they exert radiation pressure on surfaces.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q23",
+        "chapter_id": "phy_ch8",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The displacement current is given by the formula I_d = :",
+        "options": [
+            "ε₀ (dΦ_E / dt)",
+            "μ₀ (dΦ_B / dt)",
+            "E / B",
+            "q / t"
+        ],
+        "explanation": "Displacement current is ε₀ times the time rate of change of electric flux.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q24",
+        "chapter_id": "phy_ch8",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a capacitor being charged, where does the displacement current exist?",
+        "options": [
+            "In the connecting wires",
+            "In the space between the plates",
+            "On the surface of the plates",
+            "It doesn't exist during charging"
+        ],
+        "explanation": "The conduction current exists in the wires, while the displacement current exists in the gap between the capacitor plates where the electric field is changing.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q25",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The FM radio band is roughly in the frequency range of:",
+        "options": [
+            "540 kHz to 1600 kHz",
+            "88 MHz to 108 MHz",
+            "1 GHz to 10 GHz",
+            "30 MHz to 300 MHz"
+        ],
+        "explanation": "The Frequency Modulated (FM) radio band typically occupies 88 MHz to 108 MHz.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q26",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which part of the EM spectrum is used to treat muscular strains?",
+        "options": [
+            "Ultraviolet rays",
+            "Infrared waves",
+            "Microwaves",
+            "X-rays"
+        ],
+        "explanation": "Infrared waves are used in physical therapy to treat muscular strains.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q27",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The frequency of an EM wave is determined by the frequency of:",
+        "options": [
+            "The medium",
+            "The source oscillator",
+            "The speed of light",
+            "The wavelength"
+        ],
+        "explanation": "The frequency of the EM wave equals the frequency of oscillation of the charge that produced it.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q28",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following is used in 'LASIK' eye surgery?",
+        "options": [
+            "Gamma rays",
+            "Infrared",
+            "Ultraviolet (UV) rays",
+            "Microwaves"
+        ],
+        "explanation": "UV radiation (specifically from an excimer laser) is used in LASIK to precisely reshape the cornea.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q29",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the speed of EM waves in a medium with permittivity 'ε' and permeability 'μ'?",
+        "options": [
+            "v = 1 / √(με)",
+            "v = με",
+            "v = c",
+            "v = √(μ/ε)"
+        ],
+        "explanation": "The speed of light in a material medium is v = 1 / √(με).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q30",
+        "chapter_id": "phy_ch8",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which scientist used a short wavelength (about 5 mm to 25 mm) to demonstrate EM waves in Calcutta?",
+        "options": [
+            "Maxwell",
+            "Hertz",
+            "J.C. Bose",
+            "Marconi"
+        ],
+        "explanation": "Jagadish Chandra Bose demonstrated EMW of short wavelengths in his laboratory.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q31",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Radio waves are produced by:",
+        "options": [
+            "Inner shell electrons",
+            "Accelerated motion of charges in conducting wires",
+            "Radioactive decay of nuclei",
+            "Vibrations of atoms"
+        ],
+        "explanation": "Radio waves are generated by the accelerated motion of charges in wires or LC circuits.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q32",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Cellular phones use which part of the EM spectrum for communication?",
+        "options": [
+            "Visible light",
+            "Infrared",
+            "Ultra High Frequency (UHF) radio waves",
+            "Gamma rays"
+        ],
+        "explanation": "Cellular phones use radio waves in the UHF band to transmit voice.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q33",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The direction of propagation of an EM wave is given by the direction of:",
+        "options": [
+            "E vector",
+            "B vector",
+            "E x B",
+            "B x E"
+        ],
+        "explanation": "The wave propagates in a direction perpendicular to both E and B, given by the cross product E x B.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q34",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of these waves can be polarized?",
+        "options": [
+            "Sound waves",
+            "Electromagnetic waves",
+            "Ultrasonic waves",
+            "None"
+        ],
+        "explanation": "Because EMW are transverse waves, they can be polarized.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q35",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A microwave oven works by matching the microwave frequency to the resonant frequency of ________ molecules.",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Water",
+            "Carbon"
+        ],
+        "explanation": "Microwave ovens heat food by matching the frequency to the rotational resonance frequency of water molecules.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q36",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which part of the EM spectrum has frequencies between 10¹⁹ Hz and 10²³ Hz?",
+        "options": [
+            "Radio waves",
+            "Gamma rays",
+            "Ultraviolet",
+            "Visible light"
+        ],
+        "explanation": "Gamma rays are the highest frequency radiation in the spectrum.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q37",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Standard AM radio broadcast band is:",
+        "options": [
+            "88-108 MHz",
+            "540-1600 kHz",
+            "1-10 GHz",
+            "300-400 nm"
+        ],
+        "explanation": "Amplitude Modulated (AM) radio uses frequencies in the kilohertz range (540 to 1600 kHz).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q38",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The total current I entering a capacitor plate is equal to:",
+        "options": [
+            "Conduction current only",
+            "Displacement current only",
+            "Sum of conduction and displacement currents",
+            "Difference of currents"
+        ],
+        "explanation": "The generalized Ampere's Law includes both conduction (I_c) and displacement current (I_d).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q39",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "If the electric field is in the x-direction and the magnetic field is in the y-direction, the wave propagates in the:",
+        "options": [
+            "x-direction",
+            "y-direction",
+            "z-direction",
+            "negative x-direction"
+        ],
+        "explanation": "Using the cross product (E x B), x cross y equals z.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q40",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Night vision goggles utilize which part of the spectrum?",
+        "options": [
+            "X-rays",
+            "Visible light",
+            "Infrared waves",
+            "UV rays"
+        ],
+        "explanation": "Infrared detectors are used in night vision equipment to sense heat emitted by objects.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q41",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Short-wavelength UV radiation (UV-B) is responsible for:",
+        "options": [
+            "Bone fractures",
+            "Cataracts and skin cancer",
+            "Cooking food",
+            "Radio transmission"
+        ],
+        "explanation": "Exposure to UV-B radiation is linked to cataracts and skin cancer.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q42",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic field amplitude B₀ of an EM wave with electric field amplitude 48 V/m is:",
+        "options": [
+            "1.6 x 10⁻⁷ T",
+            "1.6 x 10⁻⁸ T",
+            "1.44 x 10⁹ T",
+            "zero"
+        ],
+        "explanation": "B₀ = E₀ / c = 48 / (3 x 10⁸) = 1.6 x 10⁻⁷ T.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q43",
+        "chapter_id": "phy_ch8",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following does NOT change when an EM wave enters a new medium?",
+        "options": [
+            "Speed",
+            "Wavelength",
+            "Frequency",
+            "Amplitude"
+        ],
+        "explanation": "The frequency of a wave is determined by the source and does not change when the medium changes.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q44",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Visible light is produced when:",
+        "options": [
+            "Nuclei decay",
+            "Inner shell electrons move",
+            "Outer shell electrons in atoms move from higher to lower energy levels",
+            "Charges oscillate in wires"
+        ],
+        "explanation": "Visible light emissions are associated with transitions of outer electrons in atoms.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q45",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the frequency of an EM wave with a wavelength of 3 meters in vacuum?",
+        "options": [
+            "100 MHz",
+            "10 MHz",
+            "300 MHz",
+            "1 MHz"
+        ],
+        "explanation": "f = c / λ = (3 x 10⁸) / 3 = 10⁸ Hz = 100 MHz.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q46",
+        "chapter_id": "phy_ch8",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The existence of the ionosphere allows for the propagation of ________ over long distances.",
+        "options": [
+            "Microwaves",
+            "Gamma rays",
+            "Short-wave radio signals",
+            "X-rays"
+        ],
+        "explanation": "The ionosphere reflects short-wave radio signals, enabling global communication.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q47",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Infrared waves are often called ________.",
+        "options": [
+            "Light waves",
+            "Cold waves",
+            "Heat waves",
+            "Neutral waves"
+        ],
+        "explanation": "Infrared waves are referred to as heat waves because they increase the internal energy and temperature of objects.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q48",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electromagnetic waves carry energy. This means they ________ any object they fall upon.",
+        "options": [
+            "Cool down",
+            "Charge up",
+            "Heat up",
+            "Neutralize"
+        ],
+        "explanation": "By transferring energy, EM waves can increase the temperature of the object they hit.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q49",
+        "chapter_id": "phy_ch8",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "According to Maxwell, a changing electric field produces a ________.",
+        "options": [
+            "Static charge",
+            "Magnetic field",
+            "Gravitational wave",
+            "Conducting wire"
+        ],
+        "explanation": "Maxwell's Ampere law predicts that a time-varying electric field acts as a source of a magnetic field.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch8_q50",
+        "chapter_id": "phy_ch8",
+        "correct_index": 1,
+        "ncert_page": 0
+    }
 ]

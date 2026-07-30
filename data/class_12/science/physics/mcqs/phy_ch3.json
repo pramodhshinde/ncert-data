@@ -1,802 +1,802 @@
 [
-  {
-    "mcqId": "12_phy_ch3_q1",
-    "chapterId": "phy_ch3",
-    "question": "Which of the following is the correct definition of electric current (I) for a steady flow of charge?",
-    "options": [
-      "I = q * t",
-      "I = q / t",
-      "I = t / q",
-      "I = q² / t"
-    ],
-    "correctIndex": 1,
-    "explanation": "For a steady flow of charge, the current I is defined as the quotient of the net charge q flowing across an area and the time interval t.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q2",
-    "chapterId": "phy_ch3",
-    "question": "What is the SI unit of electric current?",
-    "options": [
-      "Volt",
-      "Ohm",
-      "Ampere",
-      "Coulomb"
-    ],
-    "correctIndex": 2,
-    "explanation": "The SI unit of current is the Ampere (A).",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q3",
-    "chapterId": "phy_ch3",
-    "question": "The direction of conventional current is taken as the direction of flow of:",
-    "options": [
-      "Negative charges",
-      "Positive charges",
-      "Neutrons",
-      "Atoms"
-    ],
-    "correctIndex": 1,
-    "explanation": "By convention, the direction of current is the direction in which positive charges would flow.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q4",
-    "chapterId": "phy_ch3",
-    "question": "According to Ohm's law, at a constant physical condition, the current density J is proportional to:",
-    "options": [
-      "Magnetic field B",
-      "Electric field E",
-      "Area A",
-      "Length l"
-    ],
-    "correctIndex": 1,
-    "explanation": "Ohm's law states that the current density J is proportional to the electric field E, usually written as J = σE.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q5",
-    "chapterId": "phy_ch3",
-    "question": "The resistance (R) of a conductor is directly proportional to its length (l) and inversely proportional to its:",
-    "options": [
-      "Volume",
-      "Mass",
-      "Cross-sectional area (A)",
-      "Density"
-    ],
-    "correctIndex": 2,
-    "explanation": "Resistance R is given by R = ρl/A, where A is the cross-sectional area.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q6",
-    "chapterId": "phy_ch3",
-    "question": "The SI unit of resistivity (ρ) is:",
-    "options": [
-      "Ω m",
-      "Ω / m",
-      "Ω",
-      "m / Ω"
-    ],
-    "correctIndex": 0,
-    "explanation": "From the formula R = ρl/A, ρ = RA/l, which gives units of (Ω * m²) / m = Ω m.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q7",
-    "chapterId": "phy_ch3",
-    "question": "Drift velocity (v_d) of electrons in a conductor is typically of the order of:",
-    "options": [
-      "3 x 10^8 m/s",
-      "10^6 m/s",
-      "A few millimeters per second",
-      "Speed of sound"
-    ],
-    "correctIndex": 2,
-    "explanation": "Although electrons move fast individually, their net drift velocity is very small, typically around 10^-4 m/s (mm/s).",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q8",
-    "chapterId": "phy_ch3",
-    "question": "The relation between current I and drift velocity v_d is:",
-    "options": [
-      "I = nAev_d",
-      "I = nAe / v_d",
-      "I = v_d / nAe",
-      "I = nAe²v_d"
-    ],
-    "correctIndex": 0,
-    "explanation": "Current is the product of number density of electrons, area, electron charge, and drift velocity.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q9",
-    "chapterId": "phy_ch3",
-    "question": "Mobility (μ) is defined as the magnitude of drift velocity per unit:",
-    "options": [
-      "Current",
-      "Electric field",
-      "Resistance",
-      "Time"
-    ],
-    "correctIndex": 1,
-    "explanation": "Mobility is defined as the magnitude of drift velocity per unit electric field: μ = |v_d| / E.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q10",
-    "chapterId": "phy_ch3",
-    "question": "What is the SI unit of mobility?",
-    "options": [
-      "m² / (V s)",
-      "V / (m s)",
-      "Ω m",
-      "A / m²"
-    ],
-    "correctIndex": 0,
-    "explanation": "Since μ = v_d / E, the units are (m/s) / (V/m) = m² V⁻¹ s⁻¹.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q11",
-    "chapterId": "phy_ch3",
-    "question": "The resistivity of a metallic conductor generally ________ with an increase in temperature.",
-    "options": [
-      "Decreases",
-      "Increases",
-      "Remains constant",
-      "First increases then decreases"
-    ],
-    "correctIndex": 1,
-    "explanation": "In metals, increased temperature leads to more frequent electron-ion collisions, increasing resistivity.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q12",
-    "chapterId": "phy_ch3",
-    "question": "Which material is commonly used to make standard resistors because its resistivity is almost independent of temperature?",
-    "options": [
-      "Copper",
-      "Silicon",
-      "Manganin",
-      "Silver"
-    ],
-    "correctIndex": 2,
-    "explanation": "Alloys like Manganin, Constantan, and Nichrome have very small temperature coefficients of resistance.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q13",
-    "chapterId": "phy_ch3",
-    "question": "The resistivity of semiconductors ________ with an increase in temperature.",
-    "options": [
-      "Increases",
-      "Decreases",
-      "Remains constant",
-      "Increases exponentially"
-    ],
-    "correctIndex": 1,
-    "explanation": "In semiconductors, higher temperature increases the number density 'n' of charge carriers, which causes resistivity to drop.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q14",
-    "chapterId": "phy_ch3",
-    "question": "Electric energy dissipated as heat in a resistor R is given by:",
-    "options": [
-      "V / I",
-      "I² R t",
-      "I R² t",
-      "V² R t"
-    ],
-    "correctIndex": 1,
-    "explanation": "Ohmic loss (heat) is calculated as P = I²R, and energy is P * t.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q15",
-    "chapterId": "phy_ch3",
-    "question": "The power loss in transmission lines is minimized by transmitting power at:",
-    "options": [
-      "Low voltage",
-      "High current",
-      "High voltage",
-      "Low resistance wires only"
-    ],
-    "correctIndex": 2,
-    "explanation": "Since P_loss = P²/V² * R, a higher voltage V significantly reduces the current and the power lost as heat.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q16",
-    "chapterId": "phy_ch3",
-    "question": "In a series combination of n resistors R1, R2... Rn, the equivalent resistance R_eq is:",
-    "options": [
-      "1/R1 + 1/R2...",
-      "R1 + R2 + ... + Rn",
-      "R1 * R2 / (R1 + R2)",
-      "Average of all resistances"
-    ],
-    "correctIndex": 1,
-    "explanation": "Resistances in series add up directly.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q17",
-    "chapterId": "phy_ch3",
-    "question": "In a parallel combination of resistors, which quantity remains the same across each resistor?",
-    "options": [
-      "Current",
-      "Potential difference",
-      "Power",
-      "Resistance"
-    ],
-    "correctIndex": 1,
-    "explanation": "In parallel, all resistors are connected between the same two points, so the voltage across them is identical.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q18",
-    "chapterId": "phy_ch3",
-    "question": "Electromotive force (emf) of a cell is the potential difference between its terminals when:",
-    "options": [
-      "Current is maximum",
-      "No current is drawn from the cell",
-      "The cell is short-circuited",
-      "The cell is charging"
-    ],
-    "correctIndex": 1,
-    "explanation": "Emf is defined as the potential difference across an open circuit (no current flow).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q19",
-    "chapterId": "phy_ch3",
-    "question": "The internal resistance of a cell ________ as more current is drawn from it over time.",
-    "options": [
-      "Decreases",
-      "Remains constant",
-      "Increases",
-      "Becomes zero"
-    ],
-    "correctIndex": 2,
-    "explanation": "Internal resistance of cells is not constant and usually increases as the cell is used and depleted.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q20",
-    "chapterId": "phy_ch3",
-    "question": "The terminal voltage V of a cell with emf ε, internal resistance r, and current I is:",
-    "options": [
-      "V = ε + Ir",
-      "V = ε - Ir",
-      "V = Ir",
-      "V = ε / Ir"
-    ],
-    "correctIndex": 1,
-    "explanation": "Terminal voltage is lower than emf during discharge due to the internal voltage drop Ir.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q21",
-    "chapterId": "phy_ch3",
-    "question": "Kirchhoff's First Rule (Junction Rule) is based on the law of conservation of:",
-    "options": [
-      "Energy",
-      "Momentum",
-      "Charge",
-      "Mass"
-    ],
-    "correctIndex": 2,
-    "explanation": "The junction rule states that total current entering equals total current leaving, which is a statement of charge conservation.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q22",
-    "chapterId": "phy_ch3",
-    "question": "Kirchhoff's Second Rule (Loop Rule) is based on the law of conservation of:",
-    "options": [
-      "Charge",
-      "Energy",
-      "Angular momentum",
-      "Voltage"
-    ],
-    "correctIndex": 1,
-    "explanation": "The loop rule states the sum of potential changes in a closed loop is zero, which is due to the conservative nature of electric forces.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q23",
-    "chapterId": "phy_ch3",
-    "question": "A Wheatstone bridge is balanced when the current through the galvanometer is:",
-    "options": [
-      "Maximum",
-      "Minimum but non-zero",
-      "Zero",
-      "Constant"
-    ],
-    "correctIndex": 2,
-    "explanation": "The bridge is balanced (null point) when the galvanometer shows no deflection (I_g = 0).",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q24",
-    "chapterId": "phy_ch3",
-    "question": "The balance condition for a Wheatstone bridge with resistors P, Q, R, S is:",
-    "options": [
-      "P/Q = R/S",
-      "P+Q = R+S",
-      "P*Q = R*S",
-      "P/R = S/Q"
-    ],
-    "correctIndex": 0,
-    "explanation": "At balance, the ratio of adjacent arms is equal: P/Q = R/S (using standard arm labels).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q25",
-    "chapterId": "phy_ch3",
-    "question": "Resistance of a wire is 10 Ω. If it is stretched to double its length (keeping volume constant), the new resistance will be:",
-    "options": [
-      "10 Ω",
-      "20 Ω",
-      "40 Ω",
-      "5 Ω"
-    ],
-    "correctIndex": 2,
-    "explanation": "Stretching to double length means area becomes half. R = ρ(2l)/(A/2) = 4 * ρl/A = 4 * 10 = 40 Ω.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q26",
-    "chapterId": "phy_ch3",
-    "question": "For which of the following substances does Ohm's law NOT hold true?",
-    "options": [
-      "Copper",
-      "Silver",
-      "Diode",
-      "Aluminum"
-    ],
-    "correctIndex": 2,
-    "explanation": "Semiconductor devices like diodes and transistors are non-ohmic; their V-I relationship is not linear.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q27",
-    "chapterId": "phy_ch3",
-    "question": "The relaxation time (τ) in a conductor ________ as temperature increases.",
-    "options": [
-      "Increases",
-      "Decreases",
-      "Stays same",
-      "Becomes zero"
-    ],
-    "correctIndex": 1,
-    "explanation": "At higher temperatures, ions vibrate more, leading to more frequent collisions and a shorter relaxation time.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q28",
-    "chapterId": "phy_ch3",
-    "question": "Two cells of emfs ε1 and ε2 and internal resistances r1 and r2 are connected in parallel. The equivalent emf is:",
-    "options": [
-      "ε1 + ε2",
-      "(ε1r2 + ε2r1) / (r1 + r2)",
-      "(ε1r1 + ε2r2) / (r1 + r2)",
-      "ε1 * ε2"
-    ],
-    "correctIndex": 1,
-    "explanation": "This is the standard formula for equivalent emf of two cells in parallel.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q29",
-    "chapterId": "phy_ch3",
-    "question": "Current density J is a ________ quantity.",
-    "options": [
-      "Scalar",
-      "Vector",
-      "Dimensionless",
-      "Tensor"
-    ],
-    "correctIndex": 1,
-    "explanation": "Current density has both magnitude and a specific direction (along the electric field), making it a vector.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q30",
-    "chapterId": "phy_ch3",
-    "question": "The resistance of a hollow cylinder of length L and inner/outer radii r1 and r2 is calculated along its axis. The area used in the formula is:",
-    "options": [
-      "π(r1 + r2)²",
-      "π(r2² - r1²)",
-      "2πr2L",
-      "πr1r2"
-    ],
-    "correctIndex": 1,
-    "explanation": "The cross-sectional area of a hollow tube is the area of the outer circle minus the inner circle: π(r2² - r1²).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q31",
-    "chapterId": "phy_ch3",
-    "question": "The number density of electrons in copper is approximately:",
-    "options": [
-      "8.5 x 10^28 m⁻³",
-      "10^10 m⁻³",
-      "6.0 x 10^23 m⁻³",
-      "9.1 x 10^-31 m⁻³"
-    ],
-    "correctIndex": 0,
-    "explanation": "Typical metal number density is mentioned as ~8.5 x 10^28 per cubic meter in the source text.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q32",
-    "chapterId": "phy_ch3",
-    "question": "What happens to the terminal voltage of a battery while it is being charged?",
-    "options": [
-      "V = ε",
-      "V < ε",
-      "V > ε",
-      "V = 0"
-    ],
-    "correctIndex": 2,
-    "explanation": "During charging, current flows into the positive terminal, so V = ε + Ir.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q33",
-    "chapterId": "phy_ch3",
-    "question": "Which of the following is used in a charging circuit to limit the current?",
-    "options": [
-      "Voltmeter",
-      "Series resistor",
-      "Parallel capacitor",
-      "Galvanometer"
-    ],
-    "correctIndex": 1,
-    "explanation": "A series resistor is used to limit the current drawn from the DC supply during charging to prevent battery damage.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q34",
-    "chapterId": "phy_ch3",
-    "question": "One Ampere is defined as the flow of ________ per second.",
-    "options": [
-      "One Joule",
-      "One Coulomb",
-      "One Volt",
-      "One Ohm"
-    ],
-    "correctIndex": 1,
-    "explanation": "Current is the rate of flow of charge, so 1 A = 1 C / 1 s.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q35",
-    "chapterId": "phy_ch3",
-    "question": "Electrical resistivity of insulators is in the range of:",
-    "options": [
-      "10^-8 to 10^-6 Ω m",
-      "10^4 to 10^16 Ω m",
-      "1 to 100 Ω m",
-      "Zero"
-    ],
-    "correctIndex": 1,
-    "explanation": "Insulators have very high resistivities, roughly 10^4 to 10^16 times that of metals.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q36",
-    "chapterId": "phy_ch3",
-    "question": "In a simple circuit with a cell (ε, r) and external resistance R, the current I is:",
-    "options": [
-      "ε / R",
-      "ε / (R + r)",
-      "ε / r",
-      "ε(R + r)"
-    ],
-    "correctIndex": 1,
-    "explanation": "Total resistance is the sum of external and internal resistances.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q37",
-    "chapterId": "phy_ch3",
-    "question": "Kirchhoff's rules are applicable to:",
-    "options": [
-      "Only AC circuits",
-      "Only DC circuits",
-      "Both AC and DC circuits",
-      "Only simple circuits with one battery"
-    ],
-    "correctIndex": 2,
-    "explanation": "Kirchhoff's rules are general laws for any electrical network, AC or DC.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q38",
-    "chapterId": "phy_ch3",
-    "question": "For a series combination of two cells (ε1, r1) and (ε2, r2) assisting each other, the equivalent emf is:",
-    "options": [
-      "ε1 - ε2",
-      "ε1 + ε2",
-      "(ε1 + ε2)/2",
-      "ε1*ε2"
-    ],
-    "correctIndex": 1,
-    "explanation": "Emfs in series add if the cells are connected such that they drive current in the same direction.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q39",
-    "chapterId": "phy_ch3",
-    "question": "The temperature coefficient of resistance (α) is ________ for semiconductors.",
-    "options": [
-      "Positive",
-      "Negative",
-      "Zero",
-      "One"
-    ],
-    "correctIndex": 1,
-    "explanation": "Semiconductors have a negative α because their resistance decreases as temperature increases.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q40",
-    "chapterId": "phy_ch3",
-    "question": "The current in a lightning bolt can be as high as:",
-    "options": [
-      "10 A",
-      "1,000 A",
-      "10,000 A",
-      "1,000,000 A"
-    ],
-    "correctIndex": 2,
-    "explanation": "Natural currents like lightning involve very high magnitudes, often around 10,000 Amperes.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q41",
-    "chapterId": "phy_ch3",
-    "question": "If n resistors each of resistance R are connected in parallel, the equivalent resistance is:",
-    "options": [
-      "nR",
-      "R / n",
-      "R / n²",
-      "n²R"
-    ],
-    "correctIndex": 1,
-    "explanation": "1/R_eq = 1/R + 1/R ... n times = n/R, so R_eq = R/n.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q42",
-    "chapterId": "phy_ch3",
-    "question": "Current is a ________ quantity.",
-    "options": [
-      "Scalar",
-      "Vector",
-      "Dimensionless",
-      "Tensor"
-    ],
-    "correctIndex": 0,
-    "explanation": "Although current has direction, it does not follow vector addition laws; hence it is a scalar.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q43",
-    "chapterId": "phy_ch3",
-    "question": "The time rate of change of charge (dq/dt) is called:",
-    "options": [
-      "Static current",
-      "Instantaneous current",
-      "Steady current",
-      "Average current"
-    ],
-    "correctIndex": 1,
-    "explanation": "The limit of Δq/Δt as Δt approaches zero is the instantaneous current.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q44",
-    "chapterId": "phy_ch3",
-    "question": "A conductor has resistance R. If its volume is kept constant and length is tripled, resistivity will:",
-    "options": [
-      "Triple",
-      "Become 1/3",
-      "Become 9 times",
-      "Remain the same"
-    ],
-    "correctIndex": 3,
-    "explanation": "Resistivity is an intrinsic material property and does not change with the sample's dimensions.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q45",
-    "chapterId": "phy_ch3",
-    "question": "For a balanced Wheatstone bridge, if the galvanometer and battery are interchanged, the null point will:",
-    "options": [
-      "Change",
-      "Not change",
-      "Disappear",
-      "Double"
-    ],
-    "correctIndex": 1,
-    "explanation": "Interchanging the source and the detector does not affect the balance condition of the bridge.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q46",
-    "chapterId": "phy_ch3",
-    "question": "The potential difference across the terminals of a cell is ________ than its emf when it is discharging.",
-    "options": [
-      "Greater",
-      "Smaller",
-      "Equal",
-      "Zero"
-    ],
-    "correctIndex": 1,
-    "explanation": "Due to the internal resistance drop, the terminal voltage is smaller: V = ε - Ir.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q47",
-    "chapterId": "phy_ch3",
-    "question": "A nichrome wire is used as a heating element because it has:",
-    "options": [
-      "High resistivity and high melting point",
-      "Low resistivity",
-      "Negative temperature coefficient",
-      "No resistance"
-    ],
-    "correctIndex": 0,
-    "explanation": "Nichrome is used because it can withstand high temperatures and has significant resistivity for heat production.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q48",
-    "chapterId": "phy_ch3",
-    "question": "When resistors are connected in series, the ________ through each resistor is the same.",
-    "options": [
-      "Voltage",
-      "Current",
-      "Power",
-      "Resistivity"
-    ],
-    "correctIndex": 1,
-    "explanation": "In a series circuit, there is only one path for the flow of charge, so current is constant.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q49",
-    "chapterId": "phy_ch3",
-    "question": "The total resistance of a parallel combination is always ________ than the smallest individual resistance.",
-    "options": [
-      "Greater",
-      "Smaller",
-      "Equal",
-      "Twice"
-    ],
-    "correctIndex": 1,
-    "explanation": "Adding paths in parallel always reduces the total equivalent resistance to less than any single branch.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch3_q50",
-    "chapterId": "phy_ch3",
-    "question": "Conductivity (σ) is defined as the reciprocal of:",
-    "options": [
-      "Resistance",
-      "Resistivity",
-      "Current",
-      "Voltage"
-    ],
-    "correctIndex": 1,
-    "explanation": "Conductivity σ is defined as 1/ρ.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  }
+    {
+        "question": "Which of the following is the correct definition of electric current (I) for a steady flow of charge?",
+        "options": [
+            "I = q * t",
+            "I = q / t",
+            "I = t / q",
+            "I = q² / t"
+        ],
+        "explanation": "For a steady flow of charge, the current I is defined as the quotient of the net charge q flowing across an area and the time interval t.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q1",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the SI unit of electric current?",
+        "options": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Coulomb"
+        ],
+        "explanation": "The SI unit of current is the Ampere (A).",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q2",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The direction of conventional current is taken as the direction of flow of:",
+        "options": [
+            "Negative charges",
+            "Positive charges",
+            "Neutrons",
+            "Atoms"
+        ],
+        "explanation": "By convention, the direction of current is the direction in which positive charges would flow.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q3",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "According to Ohm's law, at a constant physical condition, the current density J is proportional to:",
+        "options": [
+            "Magnetic field B",
+            "Electric field E",
+            "Area A",
+            "Length l"
+        ],
+        "explanation": "Ohm's law states that the current density J is proportional to the electric field E, usually written as J = σE.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q4",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The resistance (R) of a conductor is directly proportional to its length (l) and inversely proportional to its:",
+        "options": [
+            "Volume",
+            "Mass",
+            "Cross-sectional area (A)",
+            "Density"
+        ],
+        "explanation": "Resistance R is given by R = ρl/A, where A is the cross-sectional area.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q5",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The SI unit of resistivity (ρ) is:",
+        "options": [
+            "Ω m",
+            "Ω / m",
+            "Ω",
+            "m / Ω"
+        ],
+        "explanation": "From the formula R = ρl/A, ρ = RA/l, which gives units of (Ω * m²) / m = Ω m.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q6",
+        "chapter_id": "phy_ch3",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Drift velocity (v_d) of electrons in a conductor is typically of the order of:",
+        "options": [
+            "3 x 10^8 m/s",
+            "10^6 m/s",
+            "A few millimeters per second",
+            "Speed of sound"
+        ],
+        "explanation": "Although electrons move fast individually, their net drift velocity is very small, typically around 10^-4 m/s (mm/s).",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q7",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The relation between current I and drift velocity v_d is:",
+        "options": [
+            "I = nAev_d",
+            "I = nAe / v_d",
+            "I = v_d / nAe",
+            "I = nAe²v_d"
+        ],
+        "explanation": "Current is the product of number density of electrons, area, electron charge, and drift velocity.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q8",
+        "chapter_id": "phy_ch3",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Mobility (μ) is defined as the magnitude of drift velocity per unit:",
+        "options": [
+            "Current",
+            "Electric field",
+            "Resistance",
+            "Time"
+        ],
+        "explanation": "Mobility is defined as the magnitude of drift velocity per unit electric field: μ = |v_d| / E.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q9",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the SI unit of mobility?",
+        "options": [
+            "m² / (V s)",
+            "V / (m s)",
+            "Ω m",
+            "A / m²"
+        ],
+        "explanation": "Since μ = v_d / E, the units are (m/s) / (V/m) = m² V⁻¹ s⁻¹.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q10",
+        "chapter_id": "phy_ch3",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The resistivity of a metallic conductor generally ________ with an increase in temperature.",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Remains constant",
+            "First increases then decreases"
+        ],
+        "explanation": "In metals, increased temperature leads to more frequent electron-ion collisions, increasing resistivity.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q11",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which material is commonly used to make standard resistors because its resistivity is almost independent of temperature?",
+        "options": [
+            "Copper",
+            "Silicon",
+            "Manganin",
+            "Silver"
+        ],
+        "explanation": "Alloys like Manganin, Constantan, and Nichrome have very small temperature coefficients of resistance.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q12",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The resistivity of semiconductors ________ with an increase in temperature.",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Increases exponentially"
+        ],
+        "explanation": "In semiconductors, higher temperature increases the number density 'n' of charge carriers, which causes resistivity to drop.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q13",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electric energy dissipated as heat in a resistor R is given by:",
+        "options": [
+            "V / I",
+            "I² R t",
+            "I R² t",
+            "V² R t"
+        ],
+        "explanation": "Ohmic loss (heat) is calculated as P = I²R, and energy is P * t.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q14",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The power loss in transmission lines is minimized by transmitting power at:",
+        "options": [
+            "Low voltage",
+            "High current",
+            "High voltage",
+            "Low resistance wires only"
+        ],
+        "explanation": "Since P_loss = P²/V² * R, a higher voltage V significantly reduces the current and the power lost as heat.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q15",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a series combination of n resistors R1, R2... Rn, the equivalent resistance R_eq is:",
+        "options": [
+            "1/R1 + 1/R2...",
+            "R1 + R2 + ... + Rn",
+            "R1 * R2 / (R1 + R2)",
+            "Average of all resistances"
+        ],
+        "explanation": "Resistances in series add up directly.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q16",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a parallel combination of resistors, which quantity remains the same across each resistor?",
+        "options": [
+            "Current",
+            "Potential difference",
+            "Power",
+            "Resistance"
+        ],
+        "explanation": "In parallel, all resistors are connected between the same two points, so the voltage across them is identical.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q17",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electromotive force (emf) of a cell is the potential difference between its terminals when:",
+        "options": [
+            "Current is maximum",
+            "No current is drawn from the cell",
+            "The cell is short-circuited",
+            "The cell is charging"
+        ],
+        "explanation": "Emf is defined as the potential difference across an open circuit (no current flow).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q18",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The internal resistance of a cell ________ as more current is drawn from it over time.",
+        "options": [
+            "Decreases",
+            "Remains constant",
+            "Increases",
+            "Becomes zero"
+        ],
+        "explanation": "Internal resistance of cells is not constant and usually increases as the cell is used and depleted.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q19",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The terminal voltage V of a cell with emf ε, internal resistance r, and current I is:",
+        "options": [
+            "V = ε + Ir",
+            "V = ε - Ir",
+            "V = Ir",
+            "V = ε / Ir"
+        ],
+        "explanation": "Terminal voltage is lower than emf during discharge due to the internal voltage drop Ir.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q20",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Kirchhoff's First Rule (Junction Rule) is based on the law of conservation of:",
+        "options": [
+            "Energy",
+            "Momentum",
+            "Charge",
+            "Mass"
+        ],
+        "explanation": "The junction rule states that total current entering equals total current leaving, which is a statement of charge conservation.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q21",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Kirchhoff's Second Rule (Loop Rule) is based on the law of conservation of:",
+        "options": [
+            "Charge",
+            "Energy",
+            "Angular momentum",
+            "Voltage"
+        ],
+        "explanation": "The loop rule states the sum of potential changes in a closed loop is zero, which is due to the conservative nature of electric forces.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q22",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A Wheatstone bridge is balanced when the current through the galvanometer is:",
+        "options": [
+            "Maximum",
+            "Minimum but non-zero",
+            "Zero",
+            "Constant"
+        ],
+        "explanation": "The bridge is balanced (null point) when the galvanometer shows no deflection (I_g = 0).",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q23",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The balance condition for a Wheatstone bridge with resistors P, Q, R, S is:",
+        "options": [
+            "P/Q = R/S",
+            "P+Q = R+S",
+            "P*Q = R*S",
+            "P/R = S/Q"
+        ],
+        "explanation": "At balance, the ratio of adjacent arms is equal: P/Q = R/S (using standard arm labels).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q24",
+        "chapter_id": "phy_ch3",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Resistance of a wire is 10 Ω. If it is stretched to double its length (keeping volume constant), the new resistance will be:",
+        "options": [
+            "10 Ω",
+            "20 Ω",
+            "40 Ω",
+            "5 Ω"
+        ],
+        "explanation": "Stretching to double length means area becomes half. R = ρ(2l)/(A/2) = 4 * ρl/A = 4 * 10 = 40 Ω.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q25",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "For which of the following substances does Ohm's law NOT hold true?",
+        "options": [
+            "Copper",
+            "Silver",
+            "Diode",
+            "Aluminum"
+        ],
+        "explanation": "Semiconductor devices like diodes and transistors are non-ohmic; their V-I relationship is not linear.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q26",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The relaxation time (τ) in a conductor ________ as temperature increases.",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Stays same",
+            "Becomes zero"
+        ],
+        "explanation": "At higher temperatures, ions vibrate more, leading to more frequent collisions and a shorter relaxation time.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q27",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Two cells of emfs ε1 and ε2 and internal resistances r1 and r2 are connected in parallel. The equivalent emf is:",
+        "options": [
+            "ε1 + ε2",
+            "(ε1r2 + ε2r1) / (r1 + r2)",
+            "(ε1r1 + ε2r2) / (r1 + r2)",
+            "ε1 * ε2"
+        ],
+        "explanation": "This is the standard formula for equivalent emf of two cells in parallel.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q28",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Current density J is a ________ quantity.",
+        "options": [
+            "Scalar",
+            "Vector",
+            "Dimensionless",
+            "Tensor"
+        ],
+        "explanation": "Current density has both magnitude and a specific direction (along the electric field), making it a vector.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q29",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The resistance of a hollow cylinder of length L and inner/outer radii r1 and r2 is calculated along its axis. The area used in the formula is:",
+        "options": [
+            "π(r1 + r2)²",
+            "π(r2² - r1²)",
+            "2πr2L",
+            "πr1r2"
+        ],
+        "explanation": "The cross-sectional area of a hollow tube is the area of the outer circle minus the inner circle: π(r2² - r1²).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q30",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The number density of electrons in copper is approximately:",
+        "options": [
+            "8.5 x 10^28 m⁻³",
+            "10^10 m⁻³",
+            "6.0 x 10^23 m⁻³",
+            "9.1 x 10^-31 m⁻³"
+        ],
+        "explanation": "Typical metal number density is mentioned as ~8.5 x 10^28 per cubic meter in the source text.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q31",
+        "chapter_id": "phy_ch3",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "What happens to the terminal voltage of a battery while it is being charged?",
+        "options": [
+            "V = ε",
+            "V < ε",
+            "V > ε",
+            "V = 0"
+        ],
+        "explanation": "During charging, current flows into the positive terminal, so V = ε + Ir.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q32",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following is used in a charging circuit to limit the current?",
+        "options": [
+            "Voltmeter",
+            "Series resistor",
+            "Parallel capacitor",
+            "Galvanometer"
+        ],
+        "explanation": "A series resistor is used to limit the current drawn from the DC supply during charging to prevent battery damage.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q33",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "One Ampere is defined as the flow of ________ per second.",
+        "options": [
+            "One Joule",
+            "One Coulomb",
+            "One Volt",
+            "One Ohm"
+        ],
+        "explanation": "Current is the rate of flow of charge, so 1 A = 1 C / 1 s.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q34",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electrical resistivity of insulators is in the range of:",
+        "options": [
+            "10^-8 to 10^-6 Ω m",
+            "10^4 to 10^16 Ω m",
+            "1 to 100 Ω m",
+            "Zero"
+        ],
+        "explanation": "Insulators have very high resistivities, roughly 10^4 to 10^16 times that of metals.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q35",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a simple circuit with a cell (ε, r) and external resistance R, the current I is:",
+        "options": [
+            "ε / R",
+            "ε / (R + r)",
+            "ε / r",
+            "ε(R + r)"
+        ],
+        "explanation": "Total resistance is the sum of external and internal resistances.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q36",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Kirchhoff's rules are applicable to:",
+        "options": [
+            "Only AC circuits",
+            "Only DC circuits",
+            "Both AC and DC circuits",
+            "Only simple circuits with one battery"
+        ],
+        "explanation": "Kirchhoff's rules are general laws for any electrical network, AC or DC.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q37",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "For a series combination of two cells (ε1, r1) and (ε2, r2) assisting each other, the equivalent emf is:",
+        "options": [
+            "ε1 - ε2",
+            "ε1 + ε2",
+            "(ε1 + ε2)/2",
+            "ε1*ε2"
+        ],
+        "explanation": "Emfs in series add if the cells are connected such that they drive current in the same direction.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q38",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The temperature coefficient of resistance (α) is ________ for semiconductors.",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "One"
+        ],
+        "explanation": "Semiconductors have a negative α because their resistance decreases as temperature increases.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q39",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The current in a lightning bolt can be as high as:",
+        "options": [
+            "10 A",
+            "1,000 A",
+            "10,000 A",
+            "1,000,000 A"
+        ],
+        "explanation": "Natural currents like lightning involve very high magnitudes, often around 10,000 Amperes.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q40",
+        "chapter_id": "phy_ch3",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "If n resistors each of resistance R are connected in parallel, the equivalent resistance is:",
+        "options": [
+            "nR",
+            "R / n",
+            "R / n²",
+            "n²R"
+        ],
+        "explanation": "1/R_eq = 1/R + 1/R ... n times = n/R, so R_eq = R/n.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q41",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Current is a ________ quantity.",
+        "options": [
+            "Scalar",
+            "Vector",
+            "Dimensionless",
+            "Tensor"
+        ],
+        "explanation": "Although current has direction, it does not follow vector addition laws; hence it is a scalar.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q42",
+        "chapter_id": "phy_ch3",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The time rate of change of charge (dq/dt) is called:",
+        "options": [
+            "Static current",
+            "Instantaneous current",
+            "Steady current",
+            "Average current"
+        ],
+        "explanation": "The limit of Δq/Δt as Δt approaches zero is the instantaneous current.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q43",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A conductor has resistance R. If its volume is kept constant and length is tripled, resistivity will:",
+        "options": [
+            "Triple",
+            "Become 1/3",
+            "Become 9 times",
+            "Remain the same"
+        ],
+        "explanation": "Resistivity is an intrinsic material property and does not change with the sample's dimensions.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q44",
+        "chapter_id": "phy_ch3",
+        "correct_index": 3,
+        "ncert_page": 0
+    },
+    {
+        "question": "For a balanced Wheatstone bridge, if the galvanometer and battery are interchanged, the null point will:",
+        "options": [
+            "Change",
+            "Not change",
+            "Disappear",
+            "Double"
+        ],
+        "explanation": "Interchanging the source and the detector does not affect the balance condition of the bridge.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q45",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The potential difference across the terminals of a cell is ________ than its emf when it is discharging.",
+        "options": [
+            "Greater",
+            "Smaller",
+            "Equal",
+            "Zero"
+        ],
+        "explanation": "Due to the internal resistance drop, the terminal voltage is smaller: V = ε - Ir.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q46",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A nichrome wire is used as a heating element because it has:",
+        "options": [
+            "High resistivity and high melting point",
+            "Low resistivity",
+            "Negative temperature coefficient",
+            "No resistance"
+        ],
+        "explanation": "Nichrome is used because it can withstand high temperatures and has significant resistivity for heat production.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q47",
+        "chapter_id": "phy_ch3",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "When resistors are connected in series, the ________ through each resistor is the same.",
+        "options": [
+            "Voltage",
+            "Current",
+            "Power",
+            "Resistivity"
+        ],
+        "explanation": "In a series circuit, there is only one path for the flow of charge, so current is constant.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q48",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The total resistance of a parallel combination is always ________ than the smallest individual resistance.",
+        "options": [
+            "Greater",
+            "Smaller",
+            "Equal",
+            "Twice"
+        ],
+        "explanation": "Adding paths in parallel always reduces the total equivalent resistance to less than any single branch.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q49",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Conductivity (σ) is defined as the reciprocal of:",
+        "options": [
+            "Resistance",
+            "Resistivity",
+            "Current",
+            "Voltage"
+        ],
+        "explanation": "Conductivity σ is defined as 1/ρ.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch3_q50",
+        "chapter_id": "phy_ch3",
+        "correct_index": 1,
+        "ncert_page": 0
+    }
 ]

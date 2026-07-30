@@ -1,552 +1,802 @@
 [
-  {
-    "mcqId": "12_chem_ch11_q1",
-    "chapterId": "chem_ch11",
-    "question": "Polymers are best described as:",
-    "options": ["Small molecules of low molecular mass", "High molecular mass macromolecules made of repeating structural units", "Only naturally occurring carbon compounds", "Molecules that cannot be synthesised in a laboratory"],
-    "correctIndex": 1,
-    "explanation": "Polymers are large molecules (macromolecules) formed by linking many small repeating units called monomers.",
-    "ncertPage": 95,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q2",
-    "chapterId": "chem_ch11",
-    "question": "The word 'polymer' is derived from Greek words meaning:",
-    "options": ["Many parts", "Long chain", "Repeating unit", "Giant molecule"],
-    "correctIndex": 0,
-    "explanation": "'Polymer' comes from Greek 'poly' (many) and 'mer' (part/unit), i.e. many repeating parts.",
-    "ncertPage": 95,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q3",
-    "chapterId": "chem_ch11",
-    "question": "The small repeating units from which a polymer is built are called:",
-    "options": ["Isomers", "Monomers", "Oligomers", "Dimers"],
-    "correctIndex": 1,
-    "explanation": "Monomers are the simple, low molecular mass repeating units that combine to form the polymer chain.",
-    "ncertPage": 95,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q4",
-    "chapterId": "chem_ch11",
-    "question": "Which of the following is a naturally occurring polymer?",
-    "options": ["Polythene", "Nylon 6,6", "Cellulose", "PVC"],
-    "correctIndex": 2,
-    "explanation": "Cellulose is a natural polymer found in plant cell walls, made of repeating glucose units; the others are synthetic.",
-    "ncertPage": 96,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q5",
-    "chapterId": "chem_ch11",
-    "question": "Polymers such as nylon and polyester, which are synthesised in the laboratory, are called:",
-    "options": ["Natural polymers", "Semi-synthetic polymers", "Synthetic polymers", "Biopolymers"],
-    "correctIndex": 2,
-    "explanation": "Synthetic polymers are man-made polymers prepared in laboratories/industries, e.g. nylon, polyester, rubber (synthetic).",
-    "ncertPage": 96,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q6",
-    "chapterId": "chem_ch11",
-    "question": "Cellulose acetate (rayon) is an example of which category of polymer?",
-    "options": ["Natural polymer", "Semi-synthetic polymer", "Elastomer only", "Thermosetting polymer only"],
-    "correctIndex": 1,
-    "explanation": "Semi-synthetic polymers are chemically modified natural polymers; cellulose acetate is obtained by acetylation of natural cellulose.",
-    "ncertPage": 96,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q7",
-    "chapterId": "chem_ch11",
-    "question": "Based on the structure of the polymer chain, polymers are classified as:",
-    "options": ["Linear, branched and cross-linked", "Natural and synthetic only", "Addition and condensation only", "Elastomer and fibre only"],
-    "correctIndex": 0,
-    "explanation": "Structurally, polymers can be linear (e.g. HDPE), branched (e.g. LDPE), or cross-linked/network (e.g. bakelite).",
-    "ncertPage": 97,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q8",
-    "chapterId": "chem_ch11",
-    "question": "High density polythene (HDPE) has which type of structure?",
-    "options": ["Highly branched", "Linear", "Cross-linked/network", "Cyclic"],
-    "correctIndex": 1,
-    "explanation": "HDPE consists of linear chains of polythene molecules with minimal branching, giving it high density and rigidity.",
-    "ncertPage": 97,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q9",
-    "chapterId": "chem_ch11",
-    "question": "Low density polythene (LDPE) is an example of a:",
-    "options": ["Linear polymer", "Branched-chain polymer", "Cross-linked polymer", "Copolymer"],
-    "correctIndex": 1,
-    "explanation": "LDPE has a highly branched structure, which lowers its density compared to linear HDPE.",
-    "ncertPage": 97,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q10",
-    "chapterId": "chem_ch11",
-    "question": "Bakelite, a hard and rigid polymer used for electrical switches, has which structural type?",
-    "options": ["Linear", "Branched", "Cross-linked/network", "Elastomeric"],
-    "correctIndex": 2,
-    "explanation": "Bakelite is a heavily cross-linked (network) polymer formed from phenol and formaldehyde, giving it rigidity and heat resistance.",
-    "ncertPage": 97,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q11",
-    "chapterId": "chem_ch11",
-    "question": "On the basis of the mode of polymerisation, polymers are classified as:",
-    "options": ["Fibres and elastomers", "Addition polymers and condensation polymers", "Homopolymers and copolymers", "Thermoplastic and thermosetting"],
-    "correctIndex": 1,
-    "explanation": "Based on the polymerisation mechanism, polymers are grouped as addition polymers (chain growth) or condensation polymers (step growth).",
-    "ncertPage": 98,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q12",
-    "chapterId": "chem_ch11",
-    "question": "Addition polymers are formed by the repeated addition of monomer molecules that generally possess:",
-    "options": ["An amine and a carboxylic acid group", "A double or triple bond", "Two hydroxyl groups", "A benzene ring only"],
-    "correctIndex": 1,
-    "explanation": "Addition polymerisation involves monomers with double or triple bonds (e.g. alkenes) that add together without losing any atoms.",
-    "ncertPage": 98,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q13",
-    "chapterId": "chem_ch11",
-    "question": "Polythene is prepared by the addition polymerisation of which monomer?",
-    "options": ["Propene", "Ethene", "Styrene", "Vinyl chloride"],
-    "correctIndex": 1,
-    "explanation": "Polythene (polyethylene) is formed by addition polymerisation of ethene (ethylene) molecules.",
-    "ncertPage": 98,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q14",
-    "chapterId": "chem_ch11",
-    "question": "Which polymer is obtained by the addition polymerisation of tetrafluoroethene under high pressure with a peroxide catalyst?",
-    "options": ["PVC", "Teflon", "Polystyrene", "Polypropene"],
-    "correctIndex": 1,
-    "explanation": "Teflon (polytetrafluoroethylene) is prepared by heating tetrafluoroethene with a peroxide catalyst under high pressure.",
-    "ncertPage": 99,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q15",
-    "chapterId": "chem_ch11",
-    "question": "Polyvinyl chloride (PVC) is formed from which monomer?",
-    "options": ["Vinyl chloride (chloroethene)", "Ethene", "Propene", "Acrylonitrile"],
-    "correctIndex": 0,
-    "explanation": "PVC is the addition polymer of vinyl chloride (chloroethene) monomer units.",
-    "ncertPage": 99,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q16",
-    "chapterId": "chem_ch11",
-    "question": "When two different monomeric units are polymerised together, the product is called a:",
-    "options": ["Homopolymer", "Copolymer", "Isopolymer", "Elastomer"],
-    "correctIndex": 1,
-    "explanation": "A copolymer is formed from the addition polymerisation of a mixture of two (or more) different monomers.",
-    "ncertPage": 99,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q17",
-    "chapterId": "chem_ch11",
-    "question": "Buna-S, a copolymer used in the manufacture of tyres, is obtained by copolymerising which two monomers?",
-    "options": ["Butadiene and styrene", "Isoprene and sulphur", "Chloroprene and butadiene", "Acrylonitrile and butadiene"],
-    "correctIndex": 0,
-    "explanation": "Buna-S ('Butadiene' + 'Na' catalyst + 'Styrene') is a copolymer of 1,3-butadiene and styrene, used to make synthetic rubber for tyres.",
-    "ncertPage": 100,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q18",
-    "chapterId": "chem_ch11",
-    "question": "Buna-N, used to make oil-resistant rubber tubes and gaskets, is a copolymer of butadiene and:",
-    "options": ["Styrene", "Acrylonitrile", "Isoprene", "Chloroprene"],
-    "correctIndex": 1,
-    "explanation": "Buna-N is a copolymer of 1,3-butadiene and acrylonitrile, giving it good resistance to petrol, oil and organic solvents.",
-    "ncertPage": 100,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q19",
-    "chapterId": "chem_ch11",
-    "question": "Condensation polymers are formed by the repeated condensation reaction between monomers containing:",
-    "options": ["Only double bonds", "Two different bifunctional or trifunctional groups, with elimination of small molecules like water", "Only halogen atoms", "Only aromatic rings"],
-    "correctIndex": 1,
-    "explanation": "Condensation polymerisation proceeds through repeated condensation reactions between two bi/trifunctional monomers, usually with elimination of small molecules like H2O or alcohol.",
-    "ncertPage": 100,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q20",
-    "chapterId": "chem_ch11",
-    "question": "Terylene (Dacron), a polyester fibre, is formed by the condensation of ethylene glycol with:",
-    "options": ["Adipic acid", "Terephthalic acid", "Phenol", "Caprolactam"],
-    "correctIndex": 1,
-    "explanation": "Terylene/Dacron is a polyester obtained by the condensation polymerisation of ethylene glycol and terephthalic acid.",
-    "ncertPage": 101,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q21",
-    "chapterId": "chem_ch11",
-    "question": "Nylon 6,6 is synthesised by the condensation polymerisation of hexamethylenediamine with:",
-    "options": ["Terephthalic acid", "Adipic acid", "Caprolactam", "Phthalic anhydride"],
-    "correctIndex": 1,
-    "explanation": "Nylon 6,6 is formed by condensing hexamethylenediamine with adipic acid under high pressure and temperature.",
-    "ncertPage": 101,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q22",
-    "chapterId": "chem_ch11",
-    "question": "The numbers '6,6' in Nylon 6,6 indicate:",
-    "options": ["The year of its discovery", "That both monomers (diamine and diacid) contain 6 carbon atoms each", "The molecular weight in thousands", "The number of repeating units"],
-    "correctIndex": 1,
-    "explanation": "Nylon 6,6 is named because both the diamine (hexamethylenediamine) and the diacid (adipic acid) monomers each have 6 carbon atoms.",
-    "ncertPage": 101,
-    "difficulty": "hard",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q23",
-    "chapterId": "chem_ch11",
-    "question": "Nylon 6 is obtained by the self-condensation of which monomer?",
-    "options": ["Caprolactam", "Adipic acid", "Hexamethylenediamine", "Phenol"],
-    "correctIndex": 0,
-    "explanation": "Nylon 6 is prepared by heating caprolactam with water at high temperature; it undergoes self-condensation (ring-opening) polymerisation.",
-    "ncertPage": 101,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q24",
-    "chapterId": "chem_ch11",
-    "question": "Bakelite is formed by the condensation polymerisation of phenol with:",
-    "options": ["Formaldehyde", "Urea", "Melamine", "Ethylene glycol"],
-    "correctIndex": 0,
-    "explanation": "Bakelite is a phenol-formaldehyde resin, formed by the condensation of phenol with formaldehyde in the presence of acid or base catalyst.",
-    "ncertPage": 102,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q25",
-    "chapterId": "chem_ch11",
-    "question": "Melamine, used to make unbreakable crockery, is formed by the condensation of formaldehyde with:",
-    "options": ["Phenol", "Melamine (a cyclic trimer of cyanamide) itself", "Urea", "Caprolactam"],
-    "correctIndex": 1,
-    "explanation": "Melamine-formaldehyde polymer is formed from melamine (a trifunctional monomer) and formaldehyde, giving cross-linked resins used in unbreakable crockery.",
-    "ncertPage": 102,
-    "difficulty": "hard",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q26",
-    "chapterId": "chem_ch11",
-    "question": "Polymers with elastic properties, similar to natural rubber, are known as:",
-    "options": ["Fibres", "Elastomers", "Thermosets", "Copolymers only"],
-    "correctIndex": 1,
-    "explanation": "Elastomers are rubber-like polymers with weak intermolecular forces that allow the polymer to stretch and return to its original shape.",
-    "ncertPage": 103,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q27",
-    "chapterId": "chem_ch11",
-    "question": "Natural rubber is a polymer of which monomer?",
-    "options": ["Chloroprene", "Isoprene (2-methyl-1,3-butadiene)", "Styrene", "Butadiene"],
-    "correctIndex": 1,
-    "explanation": "Natural rubber (cis-1,4-polyisoprene) is a linear polymer of isoprene units, obtained from the latex of rubber trees.",
-    "ncertPage": 103,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q28",
-    "chapterId": "chem_ch11",
-    "question": "Natural rubber has which geometrical configuration of its double bonds?",
-    "options": ["All-trans", "All-cis", "A random mixture of cis and trans", "It has no double bonds"],
-    "correctIndex": 1,
-    "explanation": "Natural rubber is cis-1,4-polyisoprene; the cis configuration gives it a coiled structure responsible for its elasticity.",
-    "ncertPage": 103,
-    "difficulty": "hard",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q29",
-    "chapterId": "chem_ch11",
-    "question": "The process of heating natural rubber with sulphur to improve its elasticity and mechanical strength is called:",
-    "options": ["Vulcanisation", "Cracking", "Polymerisation", "Esterification"],
-    "correctIndex": 0,
-    "explanation": "Vulcanisation involves heating raw rubber with sulphur (and additives), which introduces cross-links between polymer chains and improves strength, elasticity and reduces tackiness.",
-    "ncertPage": 104,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q30",
-    "chapterId": "chem_ch11",
-    "question": "In vulcanised rubber, sulphur forms which structural feature between polymer chains?",
-    "options": ["Hydrogen bonds", "Cross-links (disulphide bridges)", "Van der Waals forces only", "Ionic bonds"],
-    "correctIndex": 1,
-    "explanation": "During vulcanisation, sulphur atoms form cross-links (mainly disulphide bridges) between different polyisoprene chains, restricting free chain movement.",
-    "ncertPage": 104,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q31",
-    "chapterId": "chem_ch11",
-    "question": "Neoprene, a synthetic rubber, is the polymer of which monomer?",
-    "options": ["Isoprene", "Chloroprene", "Styrene", "Ethylene"],
-    "correctIndex": 1,
-    "explanation": "Neoprene (polychloroprene) is a synthetic rubber obtained by free radical polymerisation of chloroprene.",
-    "ncertPage": 104,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q32",
-    "chapterId": "chem_ch11",
-    "question": "Polymers with strong intermolecular forces such as hydrogen bonding, giving them high tensile strength, are classified as:",
-    "options": ["Elastomers", "Fibres", "Thermosetting plastics only", "Amorphous polymers only"],
-    "correctIndex": 1,
-    "explanation": "Fibres are thread-like polymers with strong intermolecular forces (like hydrogen bonding) leading to close packing of chains and high tensile strength, e.g. nylon, terylene.",
-    "ncertPage": 105,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q33",
-    "chapterId": "chem_ch11",
-    "question": "Which of the following is classified as a biodegradable polymer?",
-    "options": ["PHBV (Poly β-hydroxybutyrate-co-β-hydroxyvalerate)", "Bakelite", "Nylon 6,6", "PVC"],
-    "correctIndex": 0,
-    "explanation": "PHBV is a biodegradable aliphatic polyester copolymer of 3-hydroxybutanoic acid and 3-hydroxypentanoic acid, broken down by microorganisms.",
-    "ncertPage": 106,
-    "difficulty": "hard",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q34",
-    "chapterId": "chem_ch11",
-    "question": "Nylon 2-nylon 6, a biodegradable polymer, is an alternating copolymer of glycine and:",
-    "options": ["Adipic acid", "Aminocaproic acid", "Caprolactam", "Terephthalic acid"],
-    "correctIndex": 1,
-    "explanation": "Nylon 2-nylon 6 is a biodegradable polyamide copolymer of glycine (H2N-CH2-COOH) and amino caproic acid.",
-    "ncertPage": 106,
-    "difficulty": "hard",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q35",
-    "chapterId": "chem_ch11",
-    "question": "PHBV is mainly used for which application, according to the NCERT text?",
-    "options": ["Making surgical sutures", "Packaging, orthopaedic devices, and controlled drug release", "Manufacturing tyres", "Making unbreakable crockery"],
-    "correctIndex": 1,
-    "explanation": "PHBV is used in specialty packaging, orthopaedic devices, and as a matrix for controlled drug release due to its biodegradability.",
-    "ncertPage": 106,
-    "difficulty": "hard",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q36",
-    "chapterId": "chem_ch11",
-    "question": "Which of the following is used as an insulator for electrical wires because of its resistance to chemicals?",
-    "options": ["PVC", "Nylon", "Natural rubber", "Cellulose"],
-    "correctIndex": 0,
-    "explanation": "PVC (polyvinyl chloride) is chemically resistant and a good electrical insulator, widely used for wire insulation, pipes and flooring.",
-    "ncertPage": 99,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q37",
-    "chapterId": "chem_ch11",
-    "question": "Polypropene (polypropylene) is prepared by the addition polymerisation of which monomer using Ziegler-Natta catalyst?",
-    "options": ["Ethene", "Propene", "Styrene", "Vinyl chloride"],
-    "correctIndex": 1,
-    "explanation": "Polypropene is obtained by addition polymerisation of propene in the presence of Ziegler-Natta catalyst.",
-    "ncertPage": 98,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q38",
-    "chapterId": "chem_ch11",
-    "question": "Which catalyst system is commonly used in industrial addition polymerisation to control polymer chain structure (e.g. producing HDPE)?",
-    "options": ["Ziegler-Natta catalyst", "Grignard reagent", "Lucas reagent", "Fehling's solution"],
-    "correctIndex": 0,
-    "explanation": "Ziegler-Natta catalysts (organometallic complexes) are used to produce stereoregular, linear polymers such as HDPE.",
-    "ncertPage": 97,
-    "difficulty": "hard",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q39",
-    "chapterId": "chem_ch11",
-    "question": "Polystyrene, used in packaging and insulation, is the addition polymer of:",
-    "options": ["Styrene", "Vinyl chloride", "Acrylonitrile", "Ethene"],
-    "correctIndex": 0,
-    "explanation": "Polystyrene is formed by the addition polymerisation of the monomer styrene (vinylbenzene).",
-    "ncertPage": 98,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q40",
-    "chapterId": "chem_ch11",
-    "question": "Orlon (acrilan), a synthetic fibre used as a wool substitute, is the polymer of which monomer?",
-    "options": ["Acrylonitrile", "Vinyl chloride", "Styrene", "Tetrafluoroethene"],
-    "correctIndex": 0,
-    "explanation": "Orlon is polyacrylonitrile, formed by addition polymerisation of acrylonitrile (vinyl cyanide).",
-    "ncertPage": 99,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q41",
-    "chapterId": "chem_ch11",
-    "question": "The property of an elastomer to return to its original shape after being stretched is due to:",
-    "options": ["Strong hydrogen bonding between chains", "Weak intermolecular forces allowing chains to coil and uncoil, with occasional cross-links", "Extensive covalent cross-linking throughout", "The complete absence of any bonding between chains"],
-    "correctIndex": 1,
-    "explanation": "Elastomer chains are held by weak intermolecular forces and a few cross-links, letting the coiled chains stretch under force and spring back when released.",
-    "ncertPage": 103,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q42",
-    "chapterId": "chem_ch11",
-    "question": "Polymers used to make plastic bottles for cold drinks (like PET) belong to which category by use?",
-    "options": ["Fibres", "Thermoplastic polyesters", "Elastomers", "Thermosetting resins"],
-    "correctIndex": 1,
-    "explanation": "PET (polyethylene terephthalate) is a thermoplastic polyester, widely moulded into bottles and used as a fibre (Dacron/Terylene).",
-    "ncertPage": 101,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q43",
-    "chapterId": "chem_ch11",
-    "question": "Which of these is classified based on molecular forces as a 'thermoplastic', softening on heating and hardening on cooling repeatedly?",
-    "options": ["Bakelite", "Melamine-formaldehyde resin", "Polythene", "Urea-formaldehyde resin"],
-    "correctIndex": 2,
-    "explanation": "Polythene, being a linear/branched polymer without extensive cross-linking, is thermoplastic — it softens on heating and can be remoulded.",
-    "ncertPage": 97,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q44",
-    "chapterId": "chem_ch11",
-    "question": "Thermosetting polymers, once moulded, cannot be remoulded because they:",
-    "options": ["Remain linear chains", "Undergo extensive cross-linking on heating/curing, forming an infusible solid", "Are elastomers", "Have no intermolecular forces"],
-    "correctIndex": 1,
-    "explanation": "Thermosetting polymers become extensively cross-linked (network structure) on moulding/curing, so they cannot be softened and reshaped again.",
-    "ncertPage": 97,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q45",
-    "chapterId": "chem_ch11",
-    "question": "Silk and wool are examples of which type of polymer?",
-    "options": ["Synthetic fibres", "Natural fibres (protein-based polymers)", "Elastomers", "Thermosetting plastics"],
-    "correctIndex": 1,
-    "explanation": "Silk and wool are natural polymers made of protein chains, classified as natural fibres due to their thread-forming, high tensile strength structure.",
-    "ncertPage": 105,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q46",
-    "chapterId": "chem_ch11",
-    "question": "Starch is a natural polymer made up of repeating units of:",
-    "options": ["Glucose", "Fructose", "Amino acids", "Fatty acids"],
-    "correctIndex": 0,
-    "explanation": "Starch is a natural polysaccharide, a polymer of glucose units linked by glycosidic bonds.",
-    "ncertPage": 96,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q47",
-    "chapterId": "chem_ch11",
-    "question": "Which addition polymer, made from tetrafluoroethene, is well known for its non-stick, chemically inert coating on cookware?",
-    "options": ["Polythene", "Teflon", "PVC", "Polystyrene"],
-    "correctIndex": 1,
-    "explanation": "Teflon (PTFE) is highly resistant to chemicals and heat, making it ideal for non-stick cookware coatings and gaskets.",
-    "ncertPage": 99,
-    "difficulty": "EASY",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q48",
-    "chapterId": "chem_ch11",
-    "question": "In condensation polymerisation of nylon 6,6, what small molecule is eliminated during each linking step?",
-    "options": ["Ammonia", "Water", "Carbon dioxide", "Hydrogen"],
-    "correctIndex": 1,
-    "explanation": "As hexamethylenediamine reacts with adipic acid to form amide linkages, a molecule of water is eliminated at each step, characteristic of condensation polymerisation.",
-    "ncertPage": 101,
-    "difficulty": "medium",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q49",
-    "chapterId": "chem_ch11",
-    "question": "Which of the following best distinguishes addition polymerisation from condensation polymerisation?",
-    "options": ["Addition polymerisation always uses two different monomers", "Addition polymerisation adds monomers without loss of any atoms, while condensation polymerisation eliminates small molecules like water", "Condensation polymerisation only occurs with alkenes", "There is no real difference between them"],
-    "correctIndex": 1,
-    "explanation": "In addition polymerisation, monomers simply add together with no by-product; in condensation polymerisation, monomers join with elimination of small molecules such as water or alcohol.",
-    "ncertPage": 98,
-    "difficulty": "hard",
-    "subject": "Chemistry"
-  },
-  {
-    "mcqId": "12_chem_ch11_q50",
-    "chapterId": "chem_ch11",
-    "question": "Which of the following polymers is most suitable for making unbreakable crockery and laminated sheets due to its hardness and scratch resistance?",
-    "options": ["Polythene", "Melamine-formaldehyde resin", "Natural rubber", "Neoprene"],
-    "correctIndex": 1,
-    "explanation": "Melamine-formaldehyde resin's dense cross-linked network makes it hard, scratch-resistant and heat-resistant, ideal for unbreakable crockery and laminates.",
-    "ncertPage": 102,
-    "difficulty": "hard",
-    "subject": "Chemistry"
-  }
+    {
+        "question": "Polymers are best described as:",
+        "options": [
+            "Small molecules of low molecular mass",
+            "High molecular mass macromolecules made of repeating structural units",
+            "Only naturally occurring carbon compounds",
+            "Molecules that cannot be synthesised in a laboratory"
+        ],
+        "explanation": "Polymers are large molecules (macromolecules) formed by linking many small repeating units called monomers.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q1",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 95
+    },
+    {
+        "question": "The word 'polymer' is derived from Greek words meaning:",
+        "options": [
+            "Many parts",
+            "Long chain",
+            "Repeating unit",
+            "Giant molecule"
+        ],
+        "explanation": "'Polymer' comes from Greek 'poly' (many) and 'mer' (part/unit), i.e. many repeating parts.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q2",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 95
+    },
+    {
+        "question": "The small repeating units from which a polymer is built are called:",
+        "options": [
+            "Isomers",
+            "Monomers",
+            "Oligomers",
+            "Dimers"
+        ],
+        "explanation": "Monomers are the simple, low molecular mass repeating units that combine to form the polymer chain.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q3",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 95
+    },
+    {
+        "question": "Which of the following is a naturally occurring polymer?",
+        "options": [
+            "Polythene",
+            "Nylon 6,6",
+            "Cellulose",
+            "PVC"
+        ],
+        "explanation": "Cellulose is a natural polymer found in plant cell walls, made of repeating glucose units; the others are synthetic.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q4",
+        "chapter_id": "chem_ch11",
+        "correct_index": 2,
+        "ncert_page": 96
+    },
+    {
+        "question": "Polymers such as nylon and polyester, which are synthesised in the laboratory, are called:",
+        "options": [
+            "Natural polymers",
+            "Semi-synthetic polymers",
+            "Synthetic polymers",
+            "Biopolymers"
+        ],
+        "explanation": "Synthetic polymers are man-made polymers prepared in laboratories/industries, e.g. nylon, polyester, rubber (synthetic).",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q5",
+        "chapter_id": "chem_ch11",
+        "correct_index": 2,
+        "ncert_page": 96
+    },
+    {
+        "question": "Cellulose acetate (rayon) is an example of which category of polymer?",
+        "options": [
+            "Natural polymer",
+            "Semi-synthetic polymer",
+            "Elastomer only",
+            "Thermosetting polymer only"
+        ],
+        "explanation": "Semi-synthetic polymers are chemically modified natural polymers; cellulose acetate is obtained by acetylation of natural cellulose.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q6",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 96
+    },
+    {
+        "question": "Based on the structure of the polymer chain, polymers are classified as:",
+        "options": [
+            "Linear, branched and cross-linked",
+            "Natural and synthetic only",
+            "Addition and condensation only",
+            "Elastomer and fibre only"
+        ],
+        "explanation": "Structurally, polymers can be linear (e.g. HDPE), branched (e.g. LDPE), or cross-linked/network (e.g. bakelite).",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q7",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 97
+    },
+    {
+        "question": "High density polythene (HDPE) has which type of structure?",
+        "options": [
+            "Highly branched",
+            "Linear",
+            "Cross-linked/network",
+            "Cyclic"
+        ],
+        "explanation": "HDPE consists of linear chains of polythene molecules with minimal branching, giving it high density and rigidity.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q8",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 97
+    },
+    {
+        "question": "Low density polythene (LDPE) is an example of a:",
+        "options": [
+            "Linear polymer",
+            "Branched-chain polymer",
+            "Cross-linked polymer",
+            "Copolymer"
+        ],
+        "explanation": "LDPE has a highly branched structure, which lowers its density compared to linear HDPE.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q9",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 97
+    },
+    {
+        "question": "Bakelite, a hard and rigid polymer used for electrical switches, has which structural type?",
+        "options": [
+            "Linear",
+            "Branched",
+            "Cross-linked/network",
+            "Elastomeric"
+        ],
+        "explanation": "Bakelite is a heavily cross-linked (network) polymer formed from phenol and formaldehyde, giving it rigidity and heat resistance.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q10",
+        "chapter_id": "chem_ch11",
+        "correct_index": 2,
+        "ncert_page": 97
+    },
+    {
+        "question": "On the basis of the mode of polymerisation, polymers are classified as:",
+        "options": [
+            "Fibres and elastomers",
+            "Addition polymers and condensation polymers",
+            "Homopolymers and copolymers",
+            "Thermoplastic and thermosetting"
+        ],
+        "explanation": "Based on the polymerisation mechanism, polymers are grouped as addition polymers (chain growth) or condensation polymers (step growth).",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q11",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 98
+    },
+    {
+        "question": "Addition polymers are formed by the repeated addition of monomer molecules that generally possess:",
+        "options": [
+            "An amine and a carboxylic acid group",
+            "A double or triple bond",
+            "Two hydroxyl groups",
+            "A benzene ring only"
+        ],
+        "explanation": "Addition polymerisation involves monomers with double or triple bonds (e.g. alkenes) that add together without losing any atoms.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q12",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 98
+    },
+    {
+        "question": "Polythene is prepared by the addition polymerisation of which monomer?",
+        "options": [
+            "Propene",
+            "Ethene",
+            "Styrene",
+            "Vinyl chloride"
+        ],
+        "explanation": "Polythene (polyethylene) is formed by addition polymerisation of ethene (ethylene) molecules.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q13",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 98
+    },
+    {
+        "question": "Which polymer is obtained by the addition polymerisation of tetrafluoroethene under high pressure with a peroxide catalyst?",
+        "options": [
+            "PVC",
+            "Teflon",
+            "Polystyrene",
+            "Polypropene"
+        ],
+        "explanation": "Teflon (polytetrafluoroethylene) is prepared by heating tetrafluoroethene with a peroxide catalyst under high pressure.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q14",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 99
+    },
+    {
+        "question": "Polyvinyl chloride (PVC) is formed from which monomer?",
+        "options": [
+            "Vinyl chloride (chloroethene)",
+            "Ethene",
+            "Propene",
+            "Acrylonitrile"
+        ],
+        "explanation": "PVC is the addition polymer of vinyl chloride (chloroethene) monomer units.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q15",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 99
+    },
+    {
+        "question": "When two different monomeric units are polymerised together, the product is called a:",
+        "options": [
+            "Homopolymer",
+            "Copolymer",
+            "Isopolymer",
+            "Elastomer"
+        ],
+        "explanation": "A copolymer is formed from the addition polymerisation of a mixture of two (or more) different monomers.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q16",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 99
+    },
+    {
+        "question": "Buna-S, a copolymer used in the manufacture of tyres, is obtained by copolymerising which two monomers?",
+        "options": [
+            "Butadiene and styrene",
+            "Isoprene and sulphur",
+            "Chloroprene and butadiene",
+            "Acrylonitrile and butadiene"
+        ],
+        "explanation": "Buna-S ('Butadiene' + 'Na' catalyst + 'Styrene') is a copolymer of 1,3-butadiene and styrene, used to make synthetic rubber for tyres.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q17",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 100
+    },
+    {
+        "question": "Buna-N, used to make oil-resistant rubber tubes and gaskets, is a copolymer of butadiene and:",
+        "options": [
+            "Styrene",
+            "Acrylonitrile",
+            "Isoprene",
+            "Chloroprene"
+        ],
+        "explanation": "Buna-N is a copolymer of 1,3-butadiene and acrylonitrile, giving it good resistance to petrol, oil and organic solvents.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q18",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 100
+    },
+    {
+        "question": "Condensation polymers are formed by the repeated condensation reaction between monomers containing:",
+        "options": [
+            "Only double bonds",
+            "Two different bifunctional or trifunctional groups, with elimination of small molecules like water",
+            "Only halogen atoms",
+            "Only aromatic rings"
+        ],
+        "explanation": "Condensation polymerisation proceeds through repeated condensation reactions between two bi/trifunctional monomers, usually with elimination of small molecules like H2O or alcohol.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q19",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 100
+    },
+    {
+        "question": "Terylene (Dacron), a polyester fibre, is formed by the condensation of ethylene glycol with:",
+        "options": [
+            "Adipic acid",
+            "Terephthalic acid",
+            "Phenol",
+            "Caprolactam"
+        ],
+        "explanation": "Terylene/Dacron is a polyester obtained by the condensation polymerisation of ethylene glycol and terephthalic acid.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q20",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 101
+    },
+    {
+        "question": "Nylon 6,6 is synthesised by the condensation polymerisation of hexamethylenediamine with:",
+        "options": [
+            "Terephthalic acid",
+            "Adipic acid",
+            "Caprolactam",
+            "Phthalic anhydride"
+        ],
+        "explanation": "Nylon 6,6 is formed by condensing hexamethylenediamine with adipic acid under high pressure and temperature.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q21",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 101
+    },
+    {
+        "question": "The numbers '6,6' in Nylon 6,6 indicate:",
+        "options": [
+            "The year of its discovery",
+            "That both monomers (diamine and diacid) contain 6 carbon atoms each",
+            "The molecular weight in thousands",
+            "The number of repeating units"
+        ],
+        "explanation": "Nylon 6,6 is named because both the diamine (hexamethylenediamine) and the diacid (adipic acid) monomers each have 6 carbon atoms.",
+        "difficulty": "hard",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q22",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 101
+    },
+    {
+        "question": "Nylon 6 is obtained by the self-condensation of which monomer?",
+        "options": [
+            "Caprolactam",
+            "Adipic acid",
+            "Hexamethylenediamine",
+            "Phenol"
+        ],
+        "explanation": "Nylon 6 is prepared by heating caprolactam with water at high temperature; it undergoes self-condensation (ring-opening) polymerisation.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q23",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 101
+    },
+    {
+        "question": "Bakelite is formed by the condensation polymerisation of phenol with:",
+        "options": [
+            "Formaldehyde",
+            "Urea",
+            "Melamine",
+            "Ethylene glycol"
+        ],
+        "explanation": "Bakelite is a phenol-formaldehyde resin, formed by the condensation of phenol with formaldehyde in the presence of acid or base catalyst.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q24",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 102
+    },
+    {
+        "question": "Melamine, used to make unbreakable crockery, is formed by the condensation of formaldehyde with:",
+        "options": [
+            "Phenol",
+            "Melamine (a cyclic trimer of cyanamide) itself",
+            "Urea",
+            "Caprolactam"
+        ],
+        "explanation": "Melamine-formaldehyde polymer is formed from melamine (a trifunctional monomer) and formaldehyde, giving cross-linked resins used in unbreakable crockery.",
+        "difficulty": "hard",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q25",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 102
+    },
+    {
+        "question": "Polymers with elastic properties, similar to natural rubber, are known as:",
+        "options": [
+            "Fibres",
+            "Elastomers",
+            "Thermosets",
+            "Copolymers only"
+        ],
+        "explanation": "Elastomers are rubber-like polymers with weak intermolecular forces that allow the polymer to stretch and return to its original shape.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q26",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 103
+    },
+    {
+        "question": "Natural rubber is a polymer of which monomer?",
+        "options": [
+            "Chloroprene",
+            "Isoprene (2-methyl-1,3-butadiene)",
+            "Styrene",
+            "Butadiene"
+        ],
+        "explanation": "Natural rubber (cis-1,4-polyisoprene) is a linear polymer of isoprene units, obtained from the latex of rubber trees.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q27",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 103
+    },
+    {
+        "question": "Natural rubber has which geometrical configuration of its double bonds?",
+        "options": [
+            "All-trans",
+            "All-cis",
+            "A random mixture of cis and trans",
+            "It has no double bonds"
+        ],
+        "explanation": "Natural rubber is cis-1,4-polyisoprene; the cis configuration gives it a coiled structure responsible for its elasticity.",
+        "difficulty": "hard",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q28",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 103
+    },
+    {
+        "question": "The process of heating natural rubber with sulphur to improve its elasticity and mechanical strength is called:",
+        "options": [
+            "Vulcanisation",
+            "Cracking",
+            "Polymerisation",
+            "Esterification"
+        ],
+        "explanation": "Vulcanisation involves heating raw rubber with sulphur (and additives), which introduces cross-links between polymer chains and improves strength, elasticity and reduces tackiness.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q29",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 104
+    },
+    {
+        "question": "In vulcanised rubber, sulphur forms which structural feature between polymer chains?",
+        "options": [
+            "Hydrogen bonds",
+            "Cross-links (disulphide bridges)",
+            "Van der Waals forces only",
+            "Ionic bonds"
+        ],
+        "explanation": "During vulcanisation, sulphur atoms form cross-links (mainly disulphide bridges) between different polyisoprene chains, restricting free chain movement.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q30",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 104
+    },
+    {
+        "question": "Neoprene, a synthetic rubber, is the polymer of which monomer?",
+        "options": [
+            "Isoprene",
+            "Chloroprene",
+            "Styrene",
+            "Ethylene"
+        ],
+        "explanation": "Neoprene (polychloroprene) is a synthetic rubber obtained by free radical polymerisation of chloroprene.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q31",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 104
+    },
+    {
+        "question": "Polymers with strong intermolecular forces such as hydrogen bonding, giving them high tensile strength, are classified as:",
+        "options": [
+            "Elastomers",
+            "Fibres",
+            "Thermosetting plastics only",
+            "Amorphous polymers only"
+        ],
+        "explanation": "Fibres are thread-like polymers with strong intermolecular forces (like hydrogen bonding) leading to close packing of chains and high tensile strength, e.g. nylon, terylene.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q32",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 105
+    },
+    {
+        "question": "Which of the following is classified as a biodegradable polymer?",
+        "options": [
+            "PHBV (Poly β-hydroxybutyrate-co-β-hydroxyvalerate)",
+            "Bakelite",
+            "Nylon 6,6",
+            "PVC"
+        ],
+        "explanation": "PHBV is a biodegradable aliphatic polyester copolymer of 3-hydroxybutanoic acid and 3-hydroxypentanoic acid, broken down by microorganisms.",
+        "difficulty": "hard",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q33",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 106
+    },
+    {
+        "question": "Nylon 2-nylon 6, a biodegradable polymer, is an alternating copolymer of glycine and:",
+        "options": [
+            "Adipic acid",
+            "Aminocaproic acid",
+            "Caprolactam",
+            "Terephthalic acid"
+        ],
+        "explanation": "Nylon 2-nylon 6 is a biodegradable polyamide copolymer of glycine (H2N-CH2-COOH) and amino caproic acid.",
+        "difficulty": "hard",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q34",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 106
+    },
+    {
+        "question": "PHBV is mainly used for which application, according to the NCERT text?",
+        "options": [
+            "Making surgical sutures",
+            "Packaging, orthopaedic devices, and controlled drug release",
+            "Manufacturing tyres",
+            "Making unbreakable crockery"
+        ],
+        "explanation": "PHBV is used in specialty packaging, orthopaedic devices, and as a matrix for controlled drug release due to its biodegradability.",
+        "difficulty": "hard",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q35",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 106
+    },
+    {
+        "question": "Which of the following is used as an insulator for electrical wires because of its resistance to chemicals?",
+        "options": [
+            "PVC",
+            "Nylon",
+            "Natural rubber",
+            "Cellulose"
+        ],
+        "explanation": "PVC (polyvinyl chloride) is chemically resistant and a good electrical insulator, widely used for wire insulation, pipes and flooring.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q36",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 99
+    },
+    {
+        "question": "Polypropene (polypropylene) is prepared by the addition polymerisation of which monomer using Ziegler-Natta catalyst?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Styrene",
+            "Vinyl chloride"
+        ],
+        "explanation": "Polypropene is obtained by addition polymerisation of propene in the presence of Ziegler-Natta catalyst.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q37",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 98
+    },
+    {
+        "question": "Which catalyst system is commonly used in industrial addition polymerisation to control polymer chain structure (e.g. producing HDPE)?",
+        "options": [
+            "Ziegler-Natta catalyst",
+            "Grignard reagent",
+            "Lucas reagent",
+            "Fehling's solution"
+        ],
+        "explanation": "Ziegler-Natta catalysts (organometallic complexes) are used to produce stereoregular, linear polymers such as HDPE.",
+        "difficulty": "hard",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q38",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 97
+    },
+    {
+        "question": "Polystyrene, used in packaging and insulation, is the addition polymer of:",
+        "options": [
+            "Styrene",
+            "Vinyl chloride",
+            "Acrylonitrile",
+            "Ethene"
+        ],
+        "explanation": "Polystyrene is formed by the addition polymerisation of the monomer styrene (vinylbenzene).",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q39",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 98
+    },
+    {
+        "question": "Orlon (acrilan), a synthetic fibre used as a wool substitute, is the polymer of which monomer?",
+        "options": [
+            "Acrylonitrile",
+            "Vinyl chloride",
+            "Styrene",
+            "Tetrafluoroethene"
+        ],
+        "explanation": "Orlon is polyacrylonitrile, formed by addition polymerisation of acrylonitrile (vinyl cyanide).",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q40",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 99
+    },
+    {
+        "question": "The property of an elastomer to return to its original shape after being stretched is due to:",
+        "options": [
+            "Strong hydrogen bonding between chains",
+            "Weak intermolecular forces allowing chains to coil and uncoil, with occasional cross-links",
+            "Extensive covalent cross-linking throughout",
+            "The complete absence of any bonding between chains"
+        ],
+        "explanation": "Elastomer chains are held by weak intermolecular forces and a few cross-links, letting the coiled chains stretch under force and spring back when released.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q41",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 103
+    },
+    {
+        "question": "Polymers used to make plastic bottles for cold drinks (like PET) belong to which category by use?",
+        "options": [
+            "Fibres",
+            "Thermoplastic polyesters",
+            "Elastomers",
+            "Thermosetting resins"
+        ],
+        "explanation": "PET (polyethylene terephthalate) is a thermoplastic polyester, widely moulded into bottles and used as a fibre (Dacron/Terylene).",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q42",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 101
+    },
+    {
+        "question": "Which of these is classified based on molecular forces as a 'thermoplastic', softening on heating and hardening on cooling repeatedly?",
+        "options": [
+            "Bakelite",
+            "Melamine-formaldehyde resin",
+            "Polythene",
+            "Urea-formaldehyde resin"
+        ],
+        "explanation": "Polythene, being a linear/branched polymer without extensive cross-linking, is thermoplastic — it softens on heating and can be remoulded.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q43",
+        "chapter_id": "chem_ch11",
+        "correct_index": 2,
+        "ncert_page": 97
+    },
+    {
+        "question": "Thermosetting polymers, once moulded, cannot be remoulded because they:",
+        "options": [
+            "Remain linear chains",
+            "Undergo extensive cross-linking on heating/curing, forming an infusible solid",
+            "Are elastomers",
+            "Have no intermolecular forces"
+        ],
+        "explanation": "Thermosetting polymers become extensively cross-linked (network structure) on moulding/curing, so they cannot be softened and reshaped again.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q44",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 97
+    },
+    {
+        "question": "Silk and wool are examples of which type of polymer?",
+        "options": [
+            "Synthetic fibres",
+            "Natural fibres (protein-based polymers)",
+            "Elastomers",
+            "Thermosetting plastics"
+        ],
+        "explanation": "Silk and wool are natural polymers made of protein chains, classified as natural fibres due to their thread-forming, high tensile strength structure.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q45",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 105
+    },
+    {
+        "question": "Starch is a natural polymer made up of repeating units of:",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Amino acids",
+            "Fatty acids"
+        ],
+        "explanation": "Starch is a natural polysaccharide, a polymer of glucose units linked by glycosidic bonds.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q46",
+        "chapter_id": "chem_ch11",
+        "correct_index": 0,
+        "ncert_page": 96
+    },
+    {
+        "question": "Which addition polymer, made from tetrafluoroethene, is well known for its non-stick, chemically inert coating on cookware?",
+        "options": [
+            "Polythene",
+            "Teflon",
+            "PVC",
+            "Polystyrene"
+        ],
+        "explanation": "Teflon (PTFE) is highly resistant to chemicals and heat, making it ideal for non-stick cookware coatings and gaskets.",
+        "difficulty": "easy",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q47",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 99
+    },
+    {
+        "question": "In condensation polymerisation of nylon 6,6, what small molecule is eliminated during each linking step?",
+        "options": [
+            "Ammonia",
+            "Water",
+            "Carbon dioxide",
+            "Hydrogen"
+        ],
+        "explanation": "As hexamethylenediamine reacts with adipic acid to form amide linkages, a molecule of water is eliminated at each step, characteristic of condensation polymerisation.",
+        "difficulty": "medium",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q48",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 101
+    },
+    {
+        "question": "Which of the following best distinguishes addition polymerisation from condensation polymerisation?",
+        "options": [
+            "Addition polymerisation always uses two different monomers",
+            "Addition polymerisation adds monomers without loss of any atoms, while condensation polymerisation eliminates small molecules like water",
+            "Condensation polymerisation only occurs with alkenes",
+            "There is no real difference between them"
+        ],
+        "explanation": "In addition polymerisation, monomers simply add together with no by-product; in condensation polymerisation, monomers join with elimination of small molecules such as water or alcohol.",
+        "difficulty": "hard",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q49",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 98
+    },
+    {
+        "question": "Which of the following polymers is most suitable for making unbreakable crockery and laminated sheets due to its hardness and scratch resistance?",
+        "options": [
+            "Polythene",
+            "Melamine-formaldehyde resin",
+            "Natural rubber",
+            "Neoprene"
+        ],
+        "explanation": "Melamine-formaldehyde resin's dense cross-linked network makes it hard, scratch-resistant and heat-resistant, ideal for unbreakable crockery and laminates.",
+        "difficulty": "hard",
+        "subject": "Chemistry",
+        "mcq_id": "12_chem_ch11_q50",
+        "chapter_id": "chem_ch11",
+        "correct_index": 1,
+        "ncert_page": 102
+    }
 ]

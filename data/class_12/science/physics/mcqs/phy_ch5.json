@@ -1,802 +1,802 @@
 [
-  {
-    "mcqId": "12_phy_ch5_q1",
-    "chapterId": "phy_ch5",
-    "question": "The word 'magnet' is derived from the name of an island in which country?",
-    "options": [
-      "Italy",
-      "Egypt",
-      "Greece",
-      "India"
-    ],
-    "correctIndex": 2,
-    "explanation": "The word magnet is derived from the name of an island in Greece called magnesia where magnetic ore deposits were found as early as 600 BC.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q2",
-    "chapterId": "phy_ch5",
-    "question": "When a bar magnet is freely suspended, the tip which points to the geographic north is called the:",
-    "options": [
-      "South pole",
-      "Magnetic axis",
-      "North pole",
-      "Equator"
-    ],
-    "correctIndex": 2,
-    "explanation": "When a bar magnet is freely suspended, it points in the north-south direction. The tip which points to the geographic north is called the north pole.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q3",
-    "chapterId": "phy_ch5",
-    "question": "What happens when the north poles of two magnets are brought close together?",
-    "options": [
-      "Attractive force",
-      "Repulsive force",
-      "No force",
-      "They neutralize each other"
-    ],
-    "correctIndex": 1,
-    "explanation": "There is a repulsive force when north poles (or south poles) of two magnets are brought close together.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q4",
-    "chapterId": "phy_ch5",
-    "question": "Which of the following is true regarding magnetic poles in nature?",
-    "options": [
-      "Magnetic monopoles exist in nature",
-      "North poles can be isolated from south poles",
-      "Magnetic monopoles do not exist",
-      "A magnet only has one pole"
-    ],
-    "correctIndex": 2,
-    "explanation": "Magnetic monopoles do not exist. If a bar magnet is broken into two halves, we get two similar bar magnets with somewhat weaker properties, both possessing two poles.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q5",
-    "chapterId": "phy_ch5",
-    "question": "The earth behaves as a magnet with its magnetic field pointing approximately from:",
-    "options": [
-      "Geographic north to south",
-      "Geographic south to north",
-      "East to west",
-      "West to east"
-    ],
-    "correctIndex": 1,
-    "explanation": "The earth behaves as a magnet with the magnetic field pointing approximately from the geographic south to the north.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q6",
-    "chapterId": "phy_ch5",
-    "question": "Which property of magnetic field lines is correct?",
-    "options": [
-      "They form continuous closed loops",
-      "They start from the South pole and end at the North pole outside the magnet",
-      "They intersect each other at the center",
-      "They represent the strength of the electric field"
-    ],
-    "correctIndex": 0,
-    "explanation": "Magnetic field lines form continuous closed loops, unlike electric field lines which begin from a positive charge and end on a negative charge.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q7",
-    "chapterId": "phy_ch5",
-    "question": "Outside a magnet, the direction of magnetic field lines is from:",
-    "options": [
-      "South to North",
-      "Center to Poles",
-      "North to South",
-      "East to West"
-    ],
-    "correctIndex": 2,
-    "explanation": "The direction of magnetic field lines is from the north pole to the south pole outside the magnet.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q8",
-    "chapterId": "phy_ch5",
-    "question": "The tangent to the magnetic field line at a given point represents the direction of the:",
-    "options": [
-      "Net magnetic field (B)",
-      "Magnetic moment",
-      "Torque",
-      "Force"
-    ],
-    "correctIndex": 0,
-    "explanation": "The tangent to the field line at a given point represents the direction of the net magnetic field B at that point.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q9",
-    "chapterId": "phy_ch5",
-    "question": "Why do magnetic field lines never intersect?",
-    "options": [
-      "Because they are closed loops",
-      "Because the magnetic field would have two directions at the point of intersection",
-      "Because they are parallel",
-      "Because they repel each other"
-    ],
-    "correctIndex": 1,
-    "explanation": "Magnetic field lines do not intersect, for if they did, the direction of the magnetic field would not be unique at the point of intersection.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q10",
-    "chapterId": "phy_ch5",
-    "question": "The magnetic moment (m) of a solenoid with N turns, current I, and area A is given by:",
-    "options": [
-      "m = NIA",
-      "m = NI/A",
-      "m = B/A",
-      "m = Φ/A"
-    ],
-    "correctIndex": 0,
-    "explanation": "The magnetic moment associated with a solenoid is m = NIA.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q11",
-    "chapterId": "phy_ch5",
-    "question": "When a magnetic dipole of moment 'm' is placed in a uniform magnetic field 'B', the torque (τ) acting on it is:",
-    "options": [
-      "τ = m · B",
-      "τ = m x B",
-      "τ = m + B",
-      "τ = m / B"
-    ],
-    "correctIndex": 1,
-    "explanation": "The torque on a magnetic dipole in a uniform magnetic field is given by the vector product τ = m x B.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q12",
-    "chapterId": "phy_ch5",
-    "question": "The magnitude of the torque on a magnetic dipole is maximum when the angle (θ) between m and B is:",
-    "options": [
-      "0°",
-      "45°",
-      "90°",
-      "180°"
-    ],
-    "correctIndex": 2,
-    "explanation": "τ = mB sin θ. The value of sin θ is maximum (1) at 90°.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q13",
-    "chapterId": "phy_ch5",
-    "question": "What is the potential energy (U_m) of a magnetic dipole in a uniform magnetic field?",
-    "options": [
-      "U_m = mB",
-      "U_m = -m · B",
-      "U_m = mB sin θ",
-      "U_m = 1/2 mB²"
-    ],
-    "correctIndex": 1,
-    "explanation": "The potential energy of a magnetic dipole is given by U_m = -m · B = -mB cos θ.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q14",
-    "chapterId": "phy_ch5",
-    "question": "A magnetic dipole is in stable equilibrium when the angle between m and B is:",
-    "options": [
-      "0°",
-      "90°",
-      "180°",
-      "270°"
-    ],
-    "correctIndex": 0,
-    "explanation": "Stable equilibrium occurs at θ = 0°, where the potential energy is minimum (U_m = -mB).",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q15",
-    "chapterId": "phy_ch5",
-    "question": "A magnetic dipole is in unstable equilibrium when the angle between m and B is:",
-    "options": [
-      "0°",
-      "90°",
-      "180°",
-      "360°"
-    ],
-    "correctIndex": 2,
-    "explanation": "Unstable equilibrium occurs at θ = 180°, where the potential energy is maximum (U_m = +mB).",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q16",
-    "chapterId": "phy_ch5",
-    "question": "The SI unit of magnetic moment is:",
-    "options": [
-      "Tesla (T)",
-      "Weber (Wb)",
-      "Ampere-meter square (A m²)",
-      "Newton/Tesla"
-    ],
-    "correctIndex": 2,
-    "explanation": "The units of magnetic moment are A m² or Joules per Tesla (J T⁻¹).",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q17",
-    "chapterId": "phy_ch5",
-    "question": "What is the magnetic field 'B' at a distance 'r' on the axial line of a short bar magnet?",
-    "options": [
-      "(μ₀ / 4π) (m / r³)",
-      "(μ₀ / 4π) (2m / r³)",
-      "(μ₀ / 4π) (m / r²)",
-      "Zero"
-    ],
-    "correctIndex": 1,
-    "explanation": "For a short bar magnet, the axial field is B = (μ₀ / 4π) (2m / r³).",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q18",
-    "chapterId": "phy_ch5",
-    "question": "The magnetic field 'B' at a distance 'r' on the equatorial line of a short bar magnet is:",
-    "options": [
-      "(μ₀ / 4π) (m / r³)",
-      "(μ₀ / 4π) (2m / r³)",
-      "Zero",
-      "(μ₀ / 4π) (m / r²)"
-    ],
-    "correctIndex": 0,
-    "explanation": "For a short bar magnet, the equatorial field is B = (μ₀ / 4π) (m / r³).",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q19",
-    "chapterId": "phy_ch5",
-    "question": "Gauss's Law for magnetism states that the net magnetic flux through any closed surface is:",
-    "options": [
-      "μ₀ times the current",
-      "q / ε₀",
-      "Always zero",
-      "B times the Area"
-    ],
-    "correctIndex": 2,
-    "explanation": "Gauss's law for magnetism states that the net magnetic flux through any closed surface is zero.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q20",
-    "chapterId": "phy_ch5",
-    "question": "Gauss's Law for magnetism implies that:",
-    "options": [
-      "Magnetic monopoles do not exist",
-      "Magnetic monopoles exist",
-      "Magnetic field is always uniform",
-      "Magnetic flux is always positive"
-    ],
-    "correctIndex": 0,
-    "explanation": "The fact that net flux is zero indicates that magnetic poles always exist in pairs; there are no magnetic monopoles.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q21",
-    "chapterId": "phy_ch5",
-    "question": "Which of the following is used to visualize magnetic fields?",
-    "options": [
-      "Iron filings",
-      "Glass powder",
-      "Wood dust",
-      "Water droplets"
-    ],
-    "correctIndex": 0,
-    "explanation": "A common method to visualize the magnetic field is to sprinkle iron filings around a magnet.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q22",
-    "chapterId": "phy_ch5",
-    "question": "The magnetic field of a solenoid is ________ to its axis.",
-    "options": [
-      "Perpendicular",
-      "Parallel",
-      "At 45°",
-      "Tangential"
-    ],
-    "correctIndex": 1,
-    "explanation": "The magnetic field produced by a solenoid is along (parallel to) its axis.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q23",
-    "chapterId": "phy_ch5",
-    "question": "An external torque required to align a magnet (moment m) from θ1 to θ2 in field B is given by:",
-    "options": [
-      "mB(sin θ2 - sin θ1)",
-      "mB(cos θ1 - cos θ2)",
-      "mB(tan θ1)",
-      "Zero"
-    ],
-    "correctIndex": 1,
-    "explanation": "Work W = ∫ τ dθ = ∫ mB sin θ dθ = mB(cos θ1 - cos θ2).",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q24",
-    "chapterId": "phy_ch5",
-    "question": "Electrostatic field lines differ from magnetic field lines because electrostatic lines:",
-    "options": [
-      "Form closed loops",
-      "Do not form closed loops",
-      "Are always circular",
-      "Never end"
-    ],
-    "correctIndex": 1,
-    "explanation": "Unlike magnetic field lines, electric field lines do not form closed loops; they start from positive and end on negative charges.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q25",
-    "chapterId": "phy_ch5",
-    "question": "What is the net force on a bar magnet placed in a uniform magnetic field?",
-    "options": [
-      "mB",
-      "Zero",
-      "m x B",
-      "m · B"
-    ],
-    "correctIndex": 1,
-    "explanation": "In a uniform magnetic field, the net force on a bar magnet is zero, although it experiences a torque.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q26",
-    "chapterId": "phy_ch5",
-    "question": "A closely wound solenoid of 2000 turns and area 1.6 x 10⁻⁴ m² carrying 4.0 A current has a magnetic moment of:",
-    "options": [
-      "1.28 A m²",
-      "0.64 A m²",
-      "2.56 A m²",
-      "0.128 A m²"
-    ],
-    "correctIndex": 0,
-    "explanation": "m = NIA = 2000 * 4.0 * 1.6 x 10⁻⁴ = 1.28 A m².",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q27",
-    "chapterId": "phy_ch5",
-    "question": "The magnetic field is a ________ quantity.",
-    "options": [
-      "Scalar",
-      "Vector",
-      "Dimensionless",
-      "Constant"
-    ],
-    "correctIndex": 1,
-    "explanation": "Magnetic field B is a vector quantity having both magnitude and direction.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q28",
-    "chapterId": "phy_ch5",
-    "question": "Magnetic field lines are more crowded in a region where the magnetic field is:",
-    "options": [
-      "Zero",
-      "Weak",
-      "Strong",
-      "Uniform"
-    ],
-    "correctIndex": 2,
-    "explanation": "The density of field lines indicates the strength of the magnetic field; crowded lines represent a strong field.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q29",
-    "chapterId": "phy_ch5",
-    "question": "The time period of oscillation of a magnetic needle in a uniform magnetic field is T =:",
-    "options": [
-      "2π √(I / mB)",
-      "2π √(mB / I)",
-      "1/2π √(I / mB)",
-      "2π √(m / IB)"
-    ],
-    "correctIndex": 0,
-    "explanation": "T = 2π √(I / mB) where I is the moment of inertia.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q30",
-    "chapterId": "phy_ch5",
-    "question": "If a magnet is broken into two pieces, the new pieces will have:",
-    "options": [
-      "Only North poles",
-      "Only South poles",
-      "Both North and South poles",
-      "No magnetic properties"
-    ],
-    "correctIndex": 2,
-    "explanation": "Breaking a magnet results in two smaller magnets, each with its own North and South pole.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q31",
-    "chapterId": "phy_ch5",
-    "question": "Which constant appears in the expression for the magnetic field of a bar magnet, analogous to 1/ε₀ in electrostatics?",
-    "options": [
-      "μ₀",
-      "1/μ₀",
-      "4π",
-      "G"
-    ],
-    "correctIndex": 0,
-    "explanation": "μ₀ (permeability of free space) is the magnetic analog to 1/ε₀.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q32",
-    "chapterId": "phy_ch5",
-    "question": "The angle between the magnetic moment 'm' and the magnetic field 'B' is 90°. The potential energy is:",
-    "options": [
-      "Maximum",
-      "Minimum",
-      "Zero",
-      "-mB"
-    ],
-    "correctIndex": 2,
-    "explanation": "U_m = -mB cos(90°) = 0.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q33",
-    "chapterId": "phy_ch5",
-    "question": "What is the torque on a magnet aligned with the magnetic field (θ = 0°)?",
-    "options": [
-      "mB",
-      "mB/2",
-      "Zero",
-      "m x B"
-    ],
-    "correctIndex": 2,
-    "explanation": "τ = mB sin(0°) = 0.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q34",
-    "chapterId": "phy_ch5",
-    "question": "For a short bar magnet, the ratio of the magnetic field at an axial point to an equatorial point at the same distance is:",
-    "options": [
-      "1:1",
-      "2:1",
-      "1:2",
-      "4:1"
-    ],
-    "correctIndex": 1,
-    "explanation": "Axial field involves a factor of 2m and equatorial involves m, so the ratio is 2.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q35",
-    "chapterId": "phy_ch5",
-    "question": "Magnetic field lines inside a bar magnet run from:",
-    "options": [
-      "North to South",
-      "South to North",
-      "Side to Side",
-      "They do not exist inside"
-    ],
-    "correctIndex": 1,
-    "explanation": "To form closed loops, the lines run North to South outside and South to North inside.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q36",
-    "chapterId": "phy_ch5",
-    "question": "The net magnetic flux through any closed surface is Σ B · ΔS = :",
-    "options": [
-      "μ₀I",
-      "q/ε₀",
-      "Zero",
-      "BA"
-    ],
-    "correctIndex": 2,
-    "explanation": "This is the mathematical form of Gauss's Law for magnetism.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q37",
-    "chapterId": "phy_ch5",
-    "question": "Which of the following is NOT a source of magnetic fields?",
-    "options": [
-      "Moving charges",
-      "Electric currents",
-      "Stationary charges",
-      "Bar magnets"
-    ],
-    "correctIndex": 2,
-    "explanation": "Stationary charges produce only electric fields, not magnetic fields.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q38",
-    "chapterId": "phy_ch5",
-    "question": "The 'dipole' in magnetism always consists of:",
-    "options": [
-      "One North pole",
-      "One South pole",
-      "Both a North and a South pole",
-      "A single positive charge"
-    ],
-    "correctIndex": 2,
-    "explanation": "Magnetic dipoles always come with two poles, North and South.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q39",
-    "chapterId": "phy_ch5",
-    "question": "The work required to rotate a magnet of moment 1.5 J T⁻¹ from parallel to perpendicular in a field of 0.22 T is:",
-    "options": [
-      "0.33 J",
-      "1.5 J",
-      "0.22 J",
-      "Zero"
-    ],
-    "correctIndex": 0,
-    "explanation": "W = mB(cos 0 - cos 90) = 1.5 * 0.22 * (1 - 0) = 0.33 J.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q40",
-    "chapterId": "phy_ch5",
-    "question": "Magnetic field lines prefer to pass through:",
-    "options": [
-      "Vacuum",
-      "Non-magnetic materials",
-      "Ferromagnetic materials",
-      "Insulators"
-    ],
-    "correctIndex": 2,
-    "explanation": "Magnetic field lines are concentrated in materials with high permeability, such as ferromagnetic substances.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q41",
-    "chapterId": "phy_ch5",
-    "question": "The direction of the magnetic moment is from:",
-    "options": [
-      "North to South",
-      "South to North",
-      "East to West",
-      "Center to Outside"
-    ],
-    "correctIndex": 1,
-    "explanation": "The magnetic moment vector points from the South pole to the North pole.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q42",
-    "chapterId": "phy_ch5",
-    "question": "A small loop of current behaves as a:",
-    "options": [
-      "Magnetic monopole",
-      "Magnetic dipole",
-      "Electric monopole",
-      "Non-magnetic object"
-    ],
-    "correctIndex": 1,
-    "explanation": "A planar current loop is the basic element of magnetism and acts as a magnetic dipole.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q43",
-    "chapterId": "phy_ch5",
-    "question": "Is earth's magnetism universal in nature?",
-    "options": [
-      "No, only on earth",
-      "Yes",
-      "Only in our solar system",
-      "Only near poles"
-    ],
-    "correctIndex": 1,
-    "explanation": "Magnetic phenomena are universal in nature, appearing across galaxies, atoms, and living organisms.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q44",
-    "chapterId": "phy_ch5",
-    "question": "The electrostatic analog of magnetic moment 'm' is:",
-    "options": [
-      "Charge q",
-      "Electric field E",
-      "Dipole moment p",
-      "Permittivity ε₀"
-    ],
-    "correctIndex": 2,
-    "explanation": "Magnetic moment m is the analog of electric dipole moment p.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q45",
-    "chapterId": "phy_ch5",
-    "question": "In the formula B = (μ₀ / 4π) (2m / r³), 'm' represents:",
-    "options": [
-      "Mass",
-      "Meters",
-      "Magnetic moment",
-      "Magnetic field"
-    ],
-    "correctIndex": 2,
-    "explanation": "In magnetic field formulas, 'm' denotes the magnetic moment of the source.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q46",
-    "chapterId": "phy_ch5",
-    "question": "A solenoid of length 0.5 m and 500 turns carrying 5 A has a magnetic field at the center of:",
-    "options": [
-      "6.28 x 10⁻³ T",
-      "3.14 x 10⁻³ T",
-      "1.25 x 10⁻² T",
-      "Zero"
-    ],
-    "correctIndex": 0,
-    "explanation": "B = μ₀nI = (4π x 10⁻⁷) * (500/0.5) * 5 ≈ 6.28 x 10⁻³ T.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q47",
-    "chapterId": "phy_ch5",
-    "question": "Which scientist is NOT credited with discovering that moving charges produce magnetic fields?",
-    "options": [
-      "Oersted",
-      "Ampere",
-      "Biot",
-      "Newton"
-    ],
-    "correctIndex": 3,
-    "explanation": "Oersted, Ampere, Biot, and Savart are the primary discoverers listed for magnetic fields produced by currents.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q48",
-    "chapterId": "phy_ch5",
-    "question": "The field of a solenoid is similar to the field of a:",
-    "options": [
-      "Point charge",
-      "Single wire",
-      "Bar magnet",
-      "Electric dipole"
-    ],
-    "correctIndex": 2,
-    "explanation": "The magnetic field lines of a solenoid resemble those of a bar magnet.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q49",
-    "chapterId": "phy_ch5",
-    "question": "For a magnetic dipole, the work done to rotate it from θ=0 to θ=180 is:",
-    "options": [
-      "mB",
-      "2mB",
-      "Zero",
-      "-mB"
-    ],
-    "correctIndex": 1,
-    "explanation": "W = mB(cos 0 - cos 180) = mB(1 - (-1)) = 2mB.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch5_q50",
-    "chapterId": "phy_ch5",
-    "question": "What is the value of the magnetic constant μ₀ / 4π in SI units?",
-    "options": [
-      "10⁻⁷ T m/A",
-      "10⁻⁹ T m/A",
-      "8.85 x 10⁻¹²",
-      "9 x 10⁹"
-    ],
-    "correctIndex": 0,
-    "explanation": "The constant μ₀ / 4π has a value of exactly 10⁻⁷ in SI units.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  }
+    {
+        "question": "The word 'magnet' is derived from the name of an island in which country?",
+        "options": [
+            "Italy",
+            "Egypt",
+            "Greece",
+            "India"
+        ],
+        "explanation": "The word magnet is derived from the name of an island in Greece called magnesia where magnetic ore deposits were found as early as 600 BC.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q1",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "When a bar magnet is freely suspended, the tip which points to the geographic north is called the:",
+        "options": [
+            "South pole",
+            "Magnetic axis",
+            "North pole",
+            "Equator"
+        ],
+        "explanation": "When a bar magnet is freely suspended, it points in the north-south direction. The tip which points to the geographic north is called the north pole.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q2",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What happens when the north poles of two magnets are brought close together?",
+        "options": [
+            "Attractive force",
+            "Repulsive force",
+            "No force",
+            "They neutralize each other"
+        ],
+        "explanation": "There is a repulsive force when north poles (or south poles) of two magnets are brought close together.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q3",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following is true regarding magnetic poles in nature?",
+        "options": [
+            "Magnetic monopoles exist in nature",
+            "North poles can be isolated from south poles",
+            "Magnetic monopoles do not exist",
+            "A magnet only has one pole"
+        ],
+        "explanation": "Magnetic monopoles do not exist. If a bar magnet is broken into two halves, we get two similar bar magnets with somewhat weaker properties, both possessing two poles.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q4",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The earth behaves as a magnet with its magnetic field pointing approximately from:",
+        "options": [
+            "Geographic north to south",
+            "Geographic south to north",
+            "East to west",
+            "West to east"
+        ],
+        "explanation": "The earth behaves as a magnet with the magnetic field pointing approximately from the geographic south to the north.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q5",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which property of magnetic field lines is correct?",
+        "options": [
+            "They form continuous closed loops",
+            "They start from the South pole and end at the North pole outside the magnet",
+            "They intersect each other at the center",
+            "They represent the strength of the electric field"
+        ],
+        "explanation": "Magnetic field lines form continuous closed loops, unlike electric field lines which begin from a positive charge and end on a negative charge.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q6",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Outside a magnet, the direction of magnetic field lines is from:",
+        "options": [
+            "South to North",
+            "Center to Poles",
+            "North to South",
+            "East to West"
+        ],
+        "explanation": "The direction of magnetic field lines is from the north pole to the south pole outside the magnet.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q7",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The tangent to the magnetic field line at a given point represents the direction of the:",
+        "options": [
+            "Net magnetic field (B)",
+            "Magnetic moment",
+            "Torque",
+            "Force"
+        ],
+        "explanation": "The tangent to the field line at a given point represents the direction of the net magnetic field B at that point.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q8",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Why do magnetic field lines never intersect?",
+        "options": [
+            "Because they are closed loops",
+            "Because the magnetic field would have two directions at the point of intersection",
+            "Because they are parallel",
+            "Because they repel each other"
+        ],
+        "explanation": "Magnetic field lines do not intersect, for if they did, the direction of the magnetic field would not be unique at the point of intersection.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q9",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic moment (m) of a solenoid with N turns, current I, and area A is given by:",
+        "options": [
+            "m = NIA",
+            "m = NI/A",
+            "m = B/A",
+            "m = Φ/A"
+        ],
+        "explanation": "The magnetic moment associated with a solenoid is m = NIA.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q10",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "When a magnetic dipole of moment 'm' is placed in a uniform magnetic field 'B', the torque (τ) acting on it is:",
+        "options": [
+            "τ = m · B",
+            "τ = m x B",
+            "τ = m + B",
+            "τ = m / B"
+        ],
+        "explanation": "The torque on a magnetic dipole in a uniform magnetic field is given by the vector product τ = m x B.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q11",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnitude of the torque on a magnetic dipole is maximum when the angle (θ) between m and B is:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "explanation": "τ = mB sin θ. The value of sin θ is maximum (1) at 90°.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q12",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the potential energy (U_m) of a magnetic dipole in a uniform magnetic field?",
+        "options": [
+            "U_m = mB",
+            "U_m = -m · B",
+            "U_m = mB sin θ",
+            "U_m = 1/2 mB²"
+        ],
+        "explanation": "The potential energy of a magnetic dipole is given by U_m = -m · B = -mB cos θ.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q13",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A magnetic dipole is in stable equilibrium when the angle between m and B is:",
+        "options": [
+            "0°",
+            "90°",
+            "180°",
+            "270°"
+        ],
+        "explanation": "Stable equilibrium occurs at θ = 0°, where the potential energy is minimum (U_m = -mB).",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q14",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "A magnetic dipole is in unstable equilibrium when the angle between m and B is:",
+        "options": [
+            "0°",
+            "90°",
+            "180°",
+            "360°"
+        ],
+        "explanation": "Unstable equilibrium occurs at θ = 180°, where the potential energy is maximum (U_m = +mB).",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q15",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The SI unit of magnetic moment is:",
+        "options": [
+            "Tesla (T)",
+            "Weber (Wb)",
+            "Ampere-meter square (A m²)",
+            "Newton/Tesla"
+        ],
+        "explanation": "The units of magnetic moment are A m² or Joules per Tesla (J T⁻¹).",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q16",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the magnetic field 'B' at a distance 'r' on the axial line of a short bar magnet?",
+        "options": [
+            "(μ₀ / 4π) (m / r³)",
+            "(μ₀ / 4π) (2m / r³)",
+            "(μ₀ / 4π) (m / r²)",
+            "Zero"
+        ],
+        "explanation": "For a short bar magnet, the axial field is B = (μ₀ / 4π) (2m / r³).",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q17",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic field 'B' at a distance 'r' on the equatorial line of a short bar magnet is:",
+        "options": [
+            "(μ₀ / 4π) (m / r³)",
+            "(μ₀ / 4π) (2m / r³)",
+            "Zero",
+            "(μ₀ / 4π) (m / r²)"
+        ],
+        "explanation": "For a short bar magnet, the equatorial field is B = (μ₀ / 4π) (m / r³).",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q18",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Gauss's Law for magnetism states that the net magnetic flux through any closed surface is:",
+        "options": [
+            "μ₀ times the current",
+            "q / ε₀",
+            "Always zero",
+            "B times the Area"
+        ],
+        "explanation": "Gauss's law for magnetism states that the net magnetic flux through any closed surface is zero.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q19",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Gauss's Law for magnetism implies that:",
+        "options": [
+            "Magnetic monopoles do not exist",
+            "Magnetic monopoles exist",
+            "Magnetic field is always uniform",
+            "Magnetic flux is always positive"
+        ],
+        "explanation": "The fact that net flux is zero indicates that magnetic poles always exist in pairs; there are no magnetic monopoles.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q20",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following is used to visualize magnetic fields?",
+        "options": [
+            "Iron filings",
+            "Glass powder",
+            "Wood dust",
+            "Water droplets"
+        ],
+        "explanation": "A common method to visualize the magnetic field is to sprinkle iron filings around a magnet.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q21",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic field of a solenoid is ________ to its axis.",
+        "options": [
+            "Perpendicular",
+            "Parallel",
+            "At 45°",
+            "Tangential"
+        ],
+        "explanation": "The magnetic field produced by a solenoid is along (parallel to) its axis.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q22",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "An external torque required to align a magnet (moment m) from θ1 to θ2 in field B is given by:",
+        "options": [
+            "mB(sin θ2 - sin θ1)",
+            "mB(cos θ1 - cos θ2)",
+            "mB(tan θ1)",
+            "Zero"
+        ],
+        "explanation": "Work W = ∫ τ dθ = ∫ mB sin θ dθ = mB(cos θ1 - cos θ2).",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q23",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electrostatic field lines differ from magnetic field lines because electrostatic lines:",
+        "options": [
+            "Form closed loops",
+            "Do not form closed loops",
+            "Are always circular",
+            "Never end"
+        ],
+        "explanation": "Unlike magnetic field lines, electric field lines do not form closed loops; they start from positive and end on negative charges.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q24",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the net force on a bar magnet placed in a uniform magnetic field?",
+        "options": [
+            "mB",
+            "Zero",
+            "m x B",
+            "m · B"
+        ],
+        "explanation": "In a uniform magnetic field, the net force on a bar magnet is zero, although it experiences a torque.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q25",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A closely wound solenoid of 2000 turns and area 1.6 x 10⁻⁴ m² carrying 4.0 A current has a magnetic moment of:",
+        "options": [
+            "1.28 A m²",
+            "0.64 A m²",
+            "2.56 A m²",
+            "0.128 A m²"
+        ],
+        "explanation": "m = NIA = 2000 * 4.0 * 1.6 x 10⁻⁴ = 1.28 A m².",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q26",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic field is a ________ quantity.",
+        "options": [
+            "Scalar",
+            "Vector",
+            "Dimensionless",
+            "Constant"
+        ],
+        "explanation": "Magnetic field B is a vector quantity having both magnitude and direction.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q27",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Magnetic field lines are more crowded in a region where the magnetic field is:",
+        "options": [
+            "Zero",
+            "Weak",
+            "Strong",
+            "Uniform"
+        ],
+        "explanation": "The density of field lines indicates the strength of the magnetic field; crowded lines represent a strong field.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q28",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The time period of oscillation of a magnetic needle in a uniform magnetic field is T =:",
+        "options": [
+            "2π √(I / mB)",
+            "2π √(mB / I)",
+            "1/2π √(I / mB)",
+            "2π √(m / IB)"
+        ],
+        "explanation": "T = 2π √(I / mB) where I is the moment of inertia.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q29",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "If a magnet is broken into two pieces, the new pieces will have:",
+        "options": [
+            "Only North poles",
+            "Only South poles",
+            "Both North and South poles",
+            "No magnetic properties"
+        ],
+        "explanation": "Breaking a magnet results in two smaller magnets, each with its own North and South pole.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q30",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which constant appears in the expression for the magnetic field of a bar magnet, analogous to 1/ε₀ in electrostatics?",
+        "options": [
+            "μ₀",
+            "1/μ₀",
+            "4π",
+            "G"
+        ],
+        "explanation": "μ₀ (permeability of free space) is the magnetic analog to 1/ε₀.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q31",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The angle between the magnetic moment 'm' and the magnetic field 'B' is 90°. The potential energy is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "-mB"
+        ],
+        "explanation": "U_m = -mB cos(90°) = 0.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q32",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the torque on a magnet aligned with the magnetic field (θ = 0°)?",
+        "options": [
+            "mB",
+            "mB/2",
+            "Zero",
+            "m x B"
+        ],
+        "explanation": "τ = mB sin(0°) = 0.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q33",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "For a short bar magnet, the ratio of the magnetic field at an axial point to an equatorial point at the same distance is:",
+        "options": [
+            "1:1",
+            "2:1",
+            "1:2",
+            "4:1"
+        ],
+        "explanation": "Axial field involves a factor of 2m and equatorial involves m, so the ratio is 2.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q34",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Magnetic field lines inside a bar magnet run from:",
+        "options": [
+            "North to South",
+            "South to North",
+            "Side to Side",
+            "They do not exist inside"
+        ],
+        "explanation": "To form closed loops, the lines run North to South outside and South to North inside.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q35",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The net magnetic flux through any closed surface is Σ B · ΔS = :",
+        "options": [
+            "μ₀I",
+            "q/ε₀",
+            "Zero",
+            "BA"
+        ],
+        "explanation": "This is the mathematical form of Gauss's Law for magnetism.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q36",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following is NOT a source of magnetic fields?",
+        "options": [
+            "Moving charges",
+            "Electric currents",
+            "Stationary charges",
+            "Bar magnets"
+        ],
+        "explanation": "Stationary charges produce only electric fields, not magnetic fields.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q37",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The 'dipole' in magnetism always consists of:",
+        "options": [
+            "One North pole",
+            "One South pole",
+            "Both a North and a South pole",
+            "A single positive charge"
+        ],
+        "explanation": "Magnetic dipoles always come with two poles, North and South.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q38",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The work required to rotate a magnet of moment 1.5 J T⁻¹ from parallel to perpendicular in a field of 0.22 T is:",
+        "options": [
+            "0.33 J",
+            "1.5 J",
+            "0.22 J",
+            "Zero"
+        ],
+        "explanation": "W = mB(cos 0 - cos 90) = 1.5 * 0.22 * (1 - 0) = 0.33 J.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q39",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Magnetic field lines prefer to pass through:",
+        "options": [
+            "Vacuum",
+            "Non-magnetic materials",
+            "Ferromagnetic materials",
+            "Insulators"
+        ],
+        "explanation": "Magnetic field lines are concentrated in materials with high permeability, such as ferromagnetic substances.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q40",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The direction of the magnetic moment is from:",
+        "options": [
+            "North to South",
+            "South to North",
+            "East to West",
+            "Center to Outside"
+        ],
+        "explanation": "The magnetic moment vector points from the South pole to the North pole.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q41",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A small loop of current behaves as a:",
+        "options": [
+            "Magnetic monopole",
+            "Magnetic dipole",
+            "Electric monopole",
+            "Non-magnetic object"
+        ],
+        "explanation": "A planar current loop is the basic element of magnetism and acts as a magnetic dipole.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q42",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Is earth's magnetism universal in nature?",
+        "options": [
+            "No, only on earth",
+            "Yes",
+            "Only in our solar system",
+            "Only near poles"
+        ],
+        "explanation": "Magnetic phenomena are universal in nature, appearing across galaxies, atoms, and living organisms.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q43",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The electrostatic analog of magnetic moment 'm' is:",
+        "options": [
+            "Charge q",
+            "Electric field E",
+            "Dipole moment p",
+            "Permittivity ε₀"
+        ],
+        "explanation": "Magnetic moment m is the analog of electric dipole moment p.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q44",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "In the formula B = (μ₀ / 4π) (2m / r³), 'm' represents:",
+        "options": [
+            "Mass",
+            "Meters",
+            "Magnetic moment",
+            "Magnetic field"
+        ],
+        "explanation": "In magnetic field formulas, 'm' denotes the magnetic moment of the source.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q45",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "A solenoid of length 0.5 m and 500 turns carrying 5 A has a magnetic field at the center of:",
+        "options": [
+            "6.28 x 10⁻³ T",
+            "3.14 x 10⁻³ T",
+            "1.25 x 10⁻² T",
+            "Zero"
+        ],
+        "explanation": "B = μ₀nI = (4π x 10⁻⁷) * (500/0.5) * 5 ≈ 6.28 x 10⁻³ T.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q46",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which scientist is NOT credited with discovering that moving charges produce magnetic fields?",
+        "options": [
+            "Oersted",
+            "Ampere",
+            "Biot",
+            "Newton"
+        ],
+        "explanation": "Oersted, Ampere, Biot, and Savart are the primary discoverers listed for magnetic fields produced by currents.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q47",
+        "chapter_id": "phy_ch5",
+        "correct_index": 3,
+        "ncert_page": 0
+    },
+    {
+        "question": "The field of a solenoid is similar to the field of a:",
+        "options": [
+            "Point charge",
+            "Single wire",
+            "Bar magnet",
+            "Electric dipole"
+        ],
+        "explanation": "The magnetic field lines of a solenoid resemble those of a bar magnet.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q48",
+        "chapter_id": "phy_ch5",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "For a magnetic dipole, the work done to rotate it from θ=0 to θ=180 is:",
+        "options": [
+            "mB",
+            "2mB",
+            "Zero",
+            "-mB"
+        ],
+        "explanation": "W = mB(cos 0 - cos 180) = mB(1 - (-1)) = 2mB.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q49",
+        "chapter_id": "phy_ch5",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the value of the magnetic constant μ₀ / 4π in SI units?",
+        "options": [
+            "10⁻⁷ T m/A",
+            "10⁻⁹ T m/A",
+            "8.85 x 10⁻¹²",
+            "9 x 10⁹"
+        ],
+        "explanation": "The constant μ₀ / 4π has a value of exactly 10⁻⁷ in SI units.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch5_q50",
+        "chapter_id": "phy_ch5",
+        "correct_index": 0,
+        "ncert_page": 0
+    }
 ]

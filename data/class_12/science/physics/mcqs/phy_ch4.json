@@ -1,802 +1,802 @@
 [
-  {
-    "mcqId": "12_phy_ch4_q1",
-    "chapterId": "phy_ch4",
-    "question": "In 1820, who observed that a magnetic needle is deflected by an electric current in a nearby wire?",
-    "options": [
-      "James Clerk Maxwell",
-      "Hans Christian Oersted",
-      "André-Marie Ampère",
-      "Hendrik Lorentz"
-    ],
-    "correctIndex": 1,
-    "explanation": "Danish physicist Hans Christian Oersted experimentally discovered the deflection of a magnetic needle by a current-carrying wire in 1820.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q2",
-    "chapterId": "phy_ch4",
-    "question": "The magnetic field is defined as a ________ field.",
-    "options": [
-      "Scalar",
-      "Vector",
-      "Tensor",
-      "Dimensionless"
-    ],
-    "correctIndex": 1,
-    "explanation": "Both electric and magnetic fields are vector quantities, having both magnitude and direction.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q3",
-    "chapterId": "phy_ch4",
-    "question": "According to the Principle of Superposition, the total magnetic field of several sources is the ________ of individual fields.",
-    "options": [
-      "Scalar sum",
-      "Product",
-      "Vector sum",
-      "Difference"
-    ],
-    "correctIndex": 2,
-    "explanation": "The magnetic field follows the principle of superposition, where the total field is the vector sum of individual contributions.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q4",
-    "chapterId": "phy_ch4",
-    "question": "What is the magnetic force on a charge q moving with velocity v in a magnetic field B?",
-    "options": [
-      "F = q(v · B)",
-      "F = q(v x B)",
-      "F = v(q x B)",
-      "F = B(v x q)"
-    ],
-    "correctIndex": 1,
-    "explanation": "The magnetic force is given by the expression F = q (v × B).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q5",
-    "chapterId": "phy_ch4",
-    "question": "If a charge moves parallel or anti-parallel to the magnetic field, the magnetic force is:",
-    "options": [
-      "Maximum",
-      "q v B",
-      "Zero",
-      "1 Newton"
-    ],
-    "correctIndex": 2,
-    "explanation": "Since the force formula involves a sin θ term (from the cross product), the force is zero when the angle θ between v and B is 0° or 180°.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q6",
-    "chapterId": "phy_ch4",
-    "question": "The total force exerted by both electric and magnetic fields on a moving charge is called:",
-    "options": [
-      "Ampere Force",
-      "Lorentz Force",
-      "Maxwell Force",
-      "Newton Force"
-    ],
-    "correctIndex": 1,
-    "explanation": "The Lorentz force is the sum of the electric force qE and the magnetic force q(v x B).",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q7",
-    "chapterId": "phy_ch4",
-    "question": "What is the SI unit of magnetic field strength B?",
-    "options": [
-      "Weber",
-      "Gauss",
-      "Tesla",
-      "Ampere"
-    ],
-    "correctIndex": 2,
-    "explanation": "The SI unit for magnetic field is the tesla (T).",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q8",
-    "chapterId": "phy_ch4",
-    "question": "A magnetic field of 1 Tesla is equivalent to how many Gauss?",
-    "options": [
-      "10^2",
-      "10^4",
-      "10^-4",
-      "10^6"
-    ],
-    "correctIndex": 1,
-    "explanation": "One tesla is equivalent to 10^4 gauss.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q9",
-    "chapterId": "phy_ch4",
-    "question": "The magnetic force F = q(v x B) is always perpendicular to which vector?",
-    "options": [
-      "Velocity v only",
-      "Magnetic field B only",
-      "Both velocity v and magnetic field B",
-      "The direction of current"
-    ],
-    "correctIndex": 2,
-    "explanation": "The cross product results in a vector perpendicular to both input vectors (v and B).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q10",
-    "chapterId": "phy_ch4",
-    "question": "How much work is done by the magnetic force on a moving charge?",
-    "options": [
-      "Positive",
-      "Negative",
-      "Zero",
-      "Infinite"
-    ],
-    "correctIndex": 2,
-    "explanation": "Because the magnetic force is always perpendicular to the velocity, the work done (dW = F · ds) is zero.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q11",
-    "chapterId": "phy_ch4",
-    "question": "When a charged particle enters a uniform magnetic field perpendicularly, its path is:",
-    "options": [
-      "A straight line",
-      "A circle",
-      "A helix",
-      "A parabola"
-    ],
-    "correctIndex": 1,
-    "explanation": "A perpendicular force acts as a centripetal force, leading to uniform circular motion.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q12",
-    "chapterId": "phy_ch4",
-    "question": "The radius r of a circular path in a magnetic field is directly proportional to the particle's:",
-    "options": [
-      "Magnetic field B",
-      "Charge q",
-      "Momentum mv",
-      "Square of velocity"
-    ],
-    "correctIndex": 2,
-    "explanation": "The radius r = mv / qB is directly proportional to the momentum of the particle.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q13",
-    "chapterId": "phy_ch4",
-    "question": "The angular frequency of a particle in a magnetic field is ________ of its speed.",
-    "options": [
-      "Dependent",
-      "Independent",
-      "The square",
-      "The reciprocal"
-    ],
-    "correctIndex": 1,
-    "explanation": "The cyclotron frequency is independent of the velocity and radius of the particle.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q14",
-    "chapterId": "phy_ch4",
-    "question": "If a particle has a velocity component along the direction of the magnetic field, its trajectory is a:",
-    "options": [
-      "Circle",
-      "Helix",
-      "Straight line",
-      "Cycloid"
-    ],
-    "correctIndex": 1,
-    "explanation": "The component along the field stays constant while the perpendicular component causes rotation, creating a helical path.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q15",
-    "chapterId": "phy_ch4",
-    "question": "In helical motion, the distance moved along the magnetic field in one rotation is called:",
-    "options": [
-      "Radius",
-      "Circumference",
-      "Pitch",
-      "Diameter"
-    ],
-    "correctIndex": 2,
-    "explanation": "The pitch is defined as the distance traveled along the magnetic field during one full rotation.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q16",
-    "chapterId": "phy_ch4",
-    "question": "A configuration of crossed electric and magnetic fields can be used as a:",
-    "options": [
-      "Voltage regulator",
-      "Frequency multiplier",
-      "Velocity selector",
-      "Current amplifier"
-    ],
-    "correctIndex": 2,
-    "explanation": "Crossed fields allow only particles of a specific velocity (v = E/B) to pass undeflected.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q17",
-    "chapterId": "phy_ch4",
-    "question": "Who used crossed E and B fields to determine the charge-to-mass ratio (e/m) of electrons?",
-    "options": [
-      "Hans Oersted",
-      "J.J. Thomson",
-      "Ernest Rutherford",
-      "Niels Bohr"
-    ],
-    "correctIndex": 1,
-    "explanation": "J.J. Thomson utilized the velocity selector principle (crossed fields) to measure the e/m ratio of electrons.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q18",
-    "chapterId": "phy_ch4",
-    "question": "What is the primary function of a Cyclotron?",
-    "options": [
-      "To measure small currents",
-      "To accelerate charged particles to high energies",
-      "To detect magnetic fields",
-      "To generate stable voltage"
-    ],
-    "correctIndex": 1,
-    "explanation": "A cyclotron is a machine used to accelerate charged particles or ions to high energies.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q19",
-    "chapterId": "phy_ch4",
-    "question": "In a cyclotron, the time for one revolution is independent of:",
-    "options": [
-      "The charge of the particle",
-      "The magnetic field strength",
-      "The radius and speed of the particle",
-      "The mass of the particle"
-    ],
-    "correctIndex": 2,
-    "explanation": "The period of revolution in a cyclotron is constant and does not depend on the particle's speed or radius.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q20",
-    "chapterId": "phy_ch4",
-    "question": "The magnetic force on a straight conductor of length l carrying current I in a field B is:",
-    "options": [
-      "F = IlB",
-      "F = I(l x B)",
-      "F = B(l x I)",
-      "F = q(l x B)"
-    ],
-    "correctIndex": 1,
-    "explanation": "The force on a current-carrying conductor is the vector product of the length element and field, F = I (l × B).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q21",
-    "chapterId": "phy_ch4",
-    "question": "Fleming's left-hand rule helps in determining the direction of:",
-    "options": [
-      "The magnetic field",
-      "The current",
-      "The magnetic force",
-      "The electric potential"
-    ],
-    "correctIndex": 2,
-    "explanation": "The left-hand rule provides the direction of the magnetic force relative to the current and magnetic field.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q22",
-    "chapterId": "phy_ch4",
-    "question": "Two parallel wires carrying currents in the same direction ________ each other.",
-    "options": [
-      "Repel",
-      "Attract",
-      "Do not affect",
-      "Rotate"
-    ],
-    "correctIndex": 1,
-    "explanation": "Parallel currents flowing in the same direction attract each other due to magnetic interaction.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q23",
-    "chapterId": "phy_ch4",
-    "question": "One Ampere is the current that produces a force of ________ N/m between two parallel conductors 1m apart in vacuum.",
-    "options": [
-      "10^-7",
-      "2 x 10^-7",
-      "4π x 10^-7",
-      "1"
-    ],
-    "correctIndex": 1,
-    "explanation": "The ampere is defined by the force of 2 x 10^-7 Newtons per meter of length.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q24",
-    "chapterId": "phy_ch4",
-    "question": "The Biot-Savart Law relates the magnetic field to the:",
-    "options": [
-      "Total voltage",
-      "Resistance",
-      "Current element Idl",
-      "Capacitance"
-    ],
-    "correctIndex": 2,
-    "explanation": "The Biot-Savart law describes the field dB produced by an infinitesimal current element Idl.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q25",
-    "chapterId": "phy_ch4",
-    "question": "The constant μ₀ is defined as the:",
-    "options": [
-      "Permittivity of free space",
-      "Conductivity of vacuum",
-      "Permeability of free space",
-      "Reactance of space"
-    ],
-    "correctIndex": 2,
-    "explanation": "μ₀ is the permeability of free space.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q26",
-    "chapterId": "phy_ch4",
-    "question": "What is the value of μ₀ / 4π in SI units?",
-    "options": [
-      "10^7",
-      "10^-7",
-      "8.85 x 10^-12",
-      "9 x 10^9"
-    ],
-    "correctIndex": 1,
-    "explanation": "The constant in the Biot-Savart law has the value 10^-7 T m/A.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q27",
-    "chapterId": "phy_ch4",
-    "question": "The magnetic field due to a current element follows which distance relationship?",
-    "options": [
-      "Inverse-square (1/r^2)",
-      "Inverse-cube (1/r^3)",
-      "Directly proportional (r)",
-      "Linear (1/r)"
-    ],
-    "correctIndex": 0,
-    "explanation": "Like Coulomb's law, the Biot-Savart law is an inverse-square law with respect to distance.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q28",
-    "chapterId": "phy_ch4",
-    "question": "What is the magnetic field at the center of a circular current loop of radius R?",
-    "options": [
-      "μ₀I / 2R",
-      "μ₀I / 4πR",
-      "Zero",
-      "μ₀I / R"
-    ],
-    "correctIndex": 0,
-    "explanation": "Applying the Biot-Savart law to a circular loop gives B = μ₀I / 2R at the center.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q29",
-    "chapterId": "phy_ch4",
-    "question": "Ampere's Circuital Law is analogous to which law in electrostatics?",
-    "options": [
-      "Coulomb's Law",
-      "Ohm's Law",
-      "Gauss's Law",
-      "Faraday's Law"
-    ],
-    "correctIndex": 2,
-    "explanation": "Ampere's law relates magnetic field to current, just as Gauss's law relates electric field to charge.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q30",
-    "chapterId": "phy_ch4",
-    "question": "The line integral of the magnetic field around any closed loop is equal to:",
-    "options": [
-      "μ₀ / I",
-      "I / μ₀",
-      "μ₀ I",
-      "Zero"
-    ],
-    "correctIndex": 2,
-    "explanation": "Ampere's law states that the line integral of B · dl is equal to μ₀ times the total current enclosed.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q31",
-    "chapterId": "phy_ch4",
-    "question": "Inside a long straight solenoid, the magnetic field is:",
-    "options": [
-      "Zero",
-      "Uniform and parallel to the axis",
-      "Highly divergent",
-      "Circular around the wire"
-    ],
-    "correctIndex": 1,
-    "explanation": "The magnetic field inside a long solenoid is strong and uniform.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q32",
-    "chapterId": "phy_ch4",
-    "question": "The magnetic field B of a solenoid with n turns per unit length and current I is:",
-    "options": [
-      "B = μ₀ n I",
-      "B = μ₀ N I",
-      "B = μ₀ I / n",
-      "B = Zero"
-    ],
-    "correctIndex": 0,
-    "explanation": "The field is determined by the permeability, number of turns per unit length, and current.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q33",
-    "chapterId": "phy_ch4",
-    "question": "A Toroid can be described as a solenoid bent into a:",
-    "options": [
-      "Straight line",
-      "Circular hollow ring",
-      "Square",
-      "Rectangle"
-    ],
-    "correctIndex": 1,
-    "explanation": "A toroid is essentially a long solenoid shaped into a closed circular ring.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q34",
-    "chapterId": "phy_ch4",
-    "question": "The magnetic field in the open space interior to a toroid is:",
-    "options": [
-      "Maximum",
-      "μ₀ n I",
-      "Zero",
-      "μ₀ I / 2πr"
-    ],
-    "correctIndex": 2,
-    "explanation": "According to Ampere's law, the magnetic field is zero in the open space interior to the toroid.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q35",
-    "chapterId": "phy_ch4",
-    "question": "A current loop placed in a uniform magnetic field experiences a net ________ but zero net ________.",
-    "options": [
-      "Force, Torque",
-      "Torque, Force",
-      "Flux, Torque",
-      "Flux, Force"
-    ],
-    "correctIndex": 1,
-    "explanation": "A current loop experiences torque but no net force when placed in a uniform magnetic field.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q36",
-    "chapterId": "phy_ch4",
-    "question": "The magnetic dipole moment m of a single current loop with area A and current I is:",
-    "options": [
-      "I/A",
-      "I · A",
-      "A/I",
-      "I^2 A"
-    ],
-    "correctIndex": 1,
-    "explanation": "The magnetic moment vector is defined as the product of current and area, m = I A.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q37",
-    "chapterId": "phy_ch4",
-    "question": "What is the torque τ on a magnetic dipole in a uniform magnetic field B?",
-    "options": [
-      "τ = m · B",
-      "τ = m x B",
-      "τ = m / B",
-      "τ = Zero"
-    ],
-    "correctIndex": 1,
-    "explanation": "The torque is the vector product of the magnetic moment and the external magnetic field.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q38",
-    "chapterId": "phy_ch4",
-    "question": "The torque on a current loop is maximum when the magnetic moment is ________ to the field.",
-    "options": [
-      "Parallel",
-      "Anti-parallel",
-      "Perpendicular",
-      "At 0°"
-    ],
-    "correctIndex": 2,
-    "explanation": "Torque magnitude involves a sin θ term, which is maximum when the angle is 90° (perpendicular).",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q39",
-    "chapterId": "phy_ch4",
-    "question": "The magnetic moment of a revolving electron is proportional to its ________ momentum.",
-    "options": [
-      "Linear",
-      "Angular",
-      "Radial",
-      "Total"
-    ],
-    "correctIndex": 1,
-    "explanation": "The orbital magnetic moment of an electron is directly related to its orbital angular momentum.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q40",
-    "chapterId": "phy_ch4",
-    "question": "The fundamental unit of magnetic moment for an atomic electron is called the:",
-    "options": [
-      "Lorentz Moment",
-      "Ampere Moment",
-      "Bohr Magneton",
-      "Coulomb Moment"
-    ],
-    "correctIndex": 2,
-    "explanation": "The Bohr magneton is the fundamental constant for atomic-scale magnetic moments.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q41",
-    "chapterId": "phy_ch4",
-    "question": "A Moving Coil Galvanometer (MCG) is primarily used to:",
-    "options": [
-      "Accelerate particles",
-      "Measure high voltages",
-      "Detect and measure small electric currents",
-      "Generate magnetism"
-    ],
-    "correctIndex": 2,
-    "explanation": "An MCG is a sensitive instrument designed specifically for detecting and measuring small electric currents.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q42",
-    "chapterId": "phy_ch4",
-    "question": "In an MCG, the steady deflection φ is ________ proportional to the current I.",
-    "options": [
-      "Inversely",
-      "Directly",
-      "Linearly",
-      "Not"
-    ],
-    "correctIndex": 1,
-    "explanation": "The deflection φ is directly proportional to the current I flowing through the coil.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q43",
-    "chapterId": "phy_ch4",
-    "question": "To make the magnetic field radial in a galvanometer, we use:",
-    "options": [
-      "Flat magnets",
-      "Soft iron core and cylindrical pole pieces",
-      "Plastic separators",
-      "None of these"
-    ],
-    "correctIndex": 1,
-    "explanation": "A soft iron core combined with concave cylindrical magnets ensures the field is radial, keeping torque constant.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q44",
-    "chapterId": "phy_ch4",
-    "question": "Current sensitivity of a galvanometer is defined as the ________ per unit current.",
-    "options": [
-      "Voltage",
-      "Resistance",
-      "Deflection",
-      "Power"
-    ],
-    "correctIndex": 2,
-    "explanation": "Current sensitivity is the angular deflection produced in the galvanometer per unit current.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q45",
-    "chapterId": "phy_ch4",
-    "question": "To convert a galvanometer into an Ammeter, we connect a ________ resistance in parallel.",
-    "options": [
-      "High",
-      "Low (Shunt)",
-      "Infinite",
-      "Variable"
-    ],
-    "correctIndex": 1,
-    "explanation": "A low resistance (shunt) is connected in parallel to bypass most of the current when converting to an ammeter.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q46",
-    "chapterId": "phy_ch4",
-    "question": "To convert a galvanometer into a Voltmeter, we connect a ________ resistance in series.",
-    "options": [
-      "Low",
-      "High",
-      "Zero",
-      "Negative"
-    ],
-    "correctIndex": 1,
-    "explanation": "A high resistance is connected in series to limit the current through the galvanometer when used as a voltmeter.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q47",
-    "chapterId": "phy_ch4",
-    "question": "Voltage sensitivity is defined as the deflection per unit ________.",
-    "options": [
-      "Current",
-      "Voltage",
-      "Power",
-      "Resistance"
-    ],
-    "correctIndex": 1,
-    "explanation": "Voltage sensitivity is defined as the angular deflection produced per unit voltage applied.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q48",
-    "chapterId": "phy_ch4",
-    "question": "Does doubling the number of turns in an MCG necessarily double the voltage sensitivity?",
-    "options": [
-      "Yes, always",
-      "No, because resistance also increases",
-      "Only in a vacuum",
-      "Only for large currents"
-    ],
-    "correctIndex": 1,
-    "explanation": "Doubling the turns usually doubles the coil's resistance, so the voltage sensitivity (deflection/voltage) remains unchanged.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q49",
-    "chapterId": "phy_ch4",
-    "question": "Two parallel wires carrying currents in opposite directions ________ each other.",
-    "options": [
-      "Attract",
-      "Repel",
-      "Have no effect",
-      "Stop current flow"
-    ],
-    "correctIndex": 1,
-    "explanation": "Anti-parallel currents (flowing in opposite directions) result in a repulsive magnetic force between the wires.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch4_q50",
-    "chapterId": "phy_ch4",
-    "question": "The direction of the magnetic field due to a long straight wire can be found using the:",
-    "options": [
-      "Left-hand rule",
-      "Right-hand thumb rule",
-      "Lenz's Law",
-      "Ohm's Law"
-    ],
-    "correctIndex": 1,
-    "explanation": "The right-hand thumb rule is the standard convention used to find the direction of magnetic field lines around a current-carrying wire.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  }
+    {
+        "question": "In 1820, who observed that a magnetic needle is deflected by an electric current in a nearby wire?",
+        "options": [
+            "James Clerk Maxwell",
+            "Hans Christian Oersted",
+            "André-Marie Ampère",
+            "Hendrik Lorentz"
+        ],
+        "explanation": "Danish physicist Hans Christian Oersted experimentally discovered the deflection of a magnetic needle by a current-carrying wire in 1820.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q1",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic field is defined as a ________ field.",
+        "options": [
+            "Scalar",
+            "Vector",
+            "Tensor",
+            "Dimensionless"
+        ],
+        "explanation": "Both electric and magnetic fields are vector quantities, having both magnitude and direction.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q2",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "According to the Principle of Superposition, the total magnetic field of several sources is the ________ of individual fields.",
+        "options": [
+            "Scalar sum",
+            "Product",
+            "Vector sum",
+            "Difference"
+        ],
+        "explanation": "The magnetic field follows the principle of superposition, where the total field is the vector sum of individual contributions.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q3",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the magnetic force on a charge q moving with velocity v in a magnetic field B?",
+        "options": [
+            "F = q(v · B)",
+            "F = q(v x B)",
+            "F = v(q x B)",
+            "F = B(v x q)"
+        ],
+        "explanation": "The magnetic force is given by the expression F = q (v × B).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q4",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "If a charge moves parallel or anti-parallel to the magnetic field, the magnetic force is:",
+        "options": [
+            "Maximum",
+            "q v B",
+            "Zero",
+            "1 Newton"
+        ],
+        "explanation": "Since the force formula involves a sin θ term (from the cross product), the force is zero when the angle θ between v and B is 0° or 180°.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q5",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The total force exerted by both electric and magnetic fields on a moving charge is called:",
+        "options": [
+            "Ampere Force",
+            "Lorentz Force",
+            "Maxwell Force",
+            "Newton Force"
+        ],
+        "explanation": "The Lorentz force is the sum of the electric force qE and the magnetic force q(v x B).",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q6",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the SI unit of magnetic field strength B?",
+        "options": [
+            "Weber",
+            "Gauss",
+            "Tesla",
+            "Ampere"
+        ],
+        "explanation": "The SI unit for magnetic field is the tesla (T).",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q7",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "A magnetic field of 1 Tesla is equivalent to how many Gauss?",
+        "options": [
+            "10^2",
+            "10^4",
+            "10^-4",
+            "10^6"
+        ],
+        "explanation": "One tesla is equivalent to 10^4 gauss.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q8",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic force F = q(v x B) is always perpendicular to which vector?",
+        "options": [
+            "Velocity v only",
+            "Magnetic field B only",
+            "Both velocity v and magnetic field B",
+            "The direction of current"
+        ],
+        "explanation": "The cross product results in a vector perpendicular to both input vectors (v and B).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q9",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "How much work is done by the magnetic force on a moving charge?",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Infinite"
+        ],
+        "explanation": "Because the magnetic force is always perpendicular to the velocity, the work done (dW = F · ds) is zero.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q10",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "When a charged particle enters a uniform magnetic field perpendicularly, its path is:",
+        "options": [
+            "A straight line",
+            "A circle",
+            "A helix",
+            "A parabola"
+        ],
+        "explanation": "A perpendicular force acts as a centripetal force, leading to uniform circular motion.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q11",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The radius r of a circular path in a magnetic field is directly proportional to the particle's:",
+        "options": [
+            "Magnetic field B",
+            "Charge q",
+            "Momentum mv",
+            "Square of velocity"
+        ],
+        "explanation": "The radius r = mv / qB is directly proportional to the momentum of the particle.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q12",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The angular frequency of a particle in a magnetic field is ________ of its speed.",
+        "options": [
+            "Dependent",
+            "Independent",
+            "The square",
+            "The reciprocal"
+        ],
+        "explanation": "The cyclotron frequency is independent of the velocity and radius of the particle.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q13",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "If a particle has a velocity component along the direction of the magnetic field, its trajectory is a:",
+        "options": [
+            "Circle",
+            "Helix",
+            "Straight line",
+            "Cycloid"
+        ],
+        "explanation": "The component along the field stays constant while the perpendicular component causes rotation, creating a helical path.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q14",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In helical motion, the distance moved along the magnetic field in one rotation is called:",
+        "options": [
+            "Radius",
+            "Circumference",
+            "Pitch",
+            "Diameter"
+        ],
+        "explanation": "The pitch is defined as the distance traveled along the magnetic field during one full rotation.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q15",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "A configuration of crossed electric and magnetic fields can be used as a:",
+        "options": [
+            "Voltage regulator",
+            "Frequency multiplier",
+            "Velocity selector",
+            "Current amplifier"
+        ],
+        "explanation": "Crossed fields allow only particles of a specific velocity (v = E/B) to pass undeflected.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q16",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Who used crossed E and B fields to determine the charge-to-mass ratio (e/m) of electrons?",
+        "options": [
+            "Hans Oersted",
+            "J.J. Thomson",
+            "Ernest Rutherford",
+            "Niels Bohr"
+        ],
+        "explanation": "J.J. Thomson utilized the velocity selector principle (crossed fields) to measure the e/m ratio of electrons.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q17",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the primary function of a Cyclotron?",
+        "options": [
+            "To measure small currents",
+            "To accelerate charged particles to high energies",
+            "To detect magnetic fields",
+            "To generate stable voltage"
+        ],
+        "explanation": "A cyclotron is a machine used to accelerate charged particles or ions to high energies.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q18",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a cyclotron, the time for one revolution is independent of:",
+        "options": [
+            "The charge of the particle",
+            "The magnetic field strength",
+            "The radius and speed of the particle",
+            "The mass of the particle"
+        ],
+        "explanation": "The period of revolution in a cyclotron is constant and does not depend on the particle's speed or radius.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q19",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic force on a straight conductor of length l carrying current I in a field B is:",
+        "options": [
+            "F = IlB",
+            "F = I(l x B)",
+            "F = B(l x I)",
+            "F = q(l x B)"
+        ],
+        "explanation": "The force on a current-carrying conductor is the vector product of the length element and field, F = I (l × B).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q20",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Fleming's left-hand rule helps in determining the direction of:",
+        "options": [
+            "The magnetic field",
+            "The current",
+            "The magnetic force",
+            "The electric potential"
+        ],
+        "explanation": "The left-hand rule provides the direction of the magnetic force relative to the current and magnetic field.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q21",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Two parallel wires carrying currents in the same direction ________ each other.",
+        "options": [
+            "Repel",
+            "Attract",
+            "Do not affect",
+            "Rotate"
+        ],
+        "explanation": "Parallel currents flowing in the same direction attract each other due to magnetic interaction.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q22",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "One Ampere is the current that produces a force of ________ N/m between two parallel conductors 1m apart in vacuum.",
+        "options": [
+            "10^-7",
+            "2 x 10^-7",
+            "4π x 10^-7",
+            "1"
+        ],
+        "explanation": "The ampere is defined by the force of 2 x 10^-7 Newtons per meter of length.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q23",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The Biot-Savart Law relates the magnetic field to the:",
+        "options": [
+            "Total voltage",
+            "Resistance",
+            "Current element Idl",
+            "Capacitance"
+        ],
+        "explanation": "The Biot-Savart law describes the field dB produced by an infinitesimal current element Idl.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q24",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The constant μ₀ is defined as the:",
+        "options": [
+            "Permittivity of free space",
+            "Conductivity of vacuum",
+            "Permeability of free space",
+            "Reactance of space"
+        ],
+        "explanation": "μ₀ is the permeability of free space.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q25",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the value of μ₀ / 4π in SI units?",
+        "options": [
+            "10^7",
+            "10^-7",
+            "8.85 x 10^-12",
+            "9 x 10^9"
+        ],
+        "explanation": "The constant in the Biot-Savart law has the value 10^-7 T m/A.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q26",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic field due to a current element follows which distance relationship?",
+        "options": [
+            "Inverse-square (1/r^2)",
+            "Inverse-cube (1/r^3)",
+            "Directly proportional (r)",
+            "Linear (1/r)"
+        ],
+        "explanation": "Like Coulomb's law, the Biot-Savart law is an inverse-square law with respect to distance.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q27",
+        "chapter_id": "phy_ch4",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the magnetic field at the center of a circular current loop of radius R?",
+        "options": [
+            "μ₀I / 2R",
+            "μ₀I / 4πR",
+            "Zero",
+            "μ₀I / R"
+        ],
+        "explanation": "Applying the Biot-Savart law to a circular loop gives B = μ₀I / 2R at the center.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q28",
+        "chapter_id": "phy_ch4",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "Ampere's Circuital Law is analogous to which law in electrostatics?",
+        "options": [
+            "Coulomb's Law",
+            "Ohm's Law",
+            "Gauss's Law",
+            "Faraday's Law"
+        ],
+        "explanation": "Ampere's law relates magnetic field to current, just as Gauss's law relates electric field to charge.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q29",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The line integral of the magnetic field around any closed loop is equal to:",
+        "options": [
+            "μ₀ / I",
+            "I / μ₀",
+            "μ₀ I",
+            "Zero"
+        ],
+        "explanation": "Ampere's law states that the line integral of B · dl is equal to μ₀ times the total current enclosed.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q30",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Inside a long straight solenoid, the magnetic field is:",
+        "options": [
+            "Zero",
+            "Uniform and parallel to the axis",
+            "Highly divergent",
+            "Circular around the wire"
+        ],
+        "explanation": "The magnetic field inside a long solenoid is strong and uniform.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q31",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic field B of a solenoid with n turns per unit length and current I is:",
+        "options": [
+            "B = μ₀ n I",
+            "B = μ₀ N I",
+            "B = μ₀ I / n",
+            "B = Zero"
+        ],
+        "explanation": "The field is determined by the permeability, number of turns per unit length, and current.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q32",
+        "chapter_id": "phy_ch4",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "A Toroid can be described as a solenoid bent into a:",
+        "options": [
+            "Straight line",
+            "Circular hollow ring",
+            "Square",
+            "Rectangle"
+        ],
+        "explanation": "A toroid is essentially a long solenoid shaped into a closed circular ring.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q33",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic field in the open space interior to a toroid is:",
+        "options": [
+            "Maximum",
+            "μ₀ n I",
+            "Zero",
+            "μ₀ I / 2πr"
+        ],
+        "explanation": "According to Ampere's law, the magnetic field is zero in the open space interior to the toroid.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q34",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "A current loop placed in a uniform magnetic field experiences a net ________ but zero net ________.",
+        "options": [
+            "Force, Torque",
+            "Torque, Force",
+            "Flux, Torque",
+            "Flux, Force"
+        ],
+        "explanation": "A current loop experiences torque but no net force when placed in a uniform magnetic field.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q35",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic dipole moment m of a single current loop with area A and current I is:",
+        "options": [
+            "I/A",
+            "I · A",
+            "A/I",
+            "I^2 A"
+        ],
+        "explanation": "The magnetic moment vector is defined as the product of current and area, m = I A.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q36",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the torque τ on a magnetic dipole in a uniform magnetic field B?",
+        "options": [
+            "τ = m · B",
+            "τ = m x B",
+            "τ = m / B",
+            "τ = Zero"
+        ],
+        "explanation": "The torque is the vector product of the magnetic moment and the external magnetic field.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q37",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The torque on a current loop is maximum when the magnetic moment is ________ to the field.",
+        "options": [
+            "Parallel",
+            "Anti-parallel",
+            "Perpendicular",
+            "At 0°"
+        ],
+        "explanation": "Torque magnitude involves a sin θ term, which is maximum when the angle is 90° (perpendicular).",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q38",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The magnetic moment of a revolving electron is proportional to its ________ momentum.",
+        "options": [
+            "Linear",
+            "Angular",
+            "Radial",
+            "Total"
+        ],
+        "explanation": "The orbital magnetic moment of an electron is directly related to its orbital angular momentum.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q39",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The fundamental unit of magnetic moment for an atomic electron is called the:",
+        "options": [
+            "Lorentz Moment",
+            "Ampere Moment",
+            "Bohr Magneton",
+            "Coulomb Moment"
+        ],
+        "explanation": "The Bohr magneton is the fundamental constant for atomic-scale magnetic moments.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q40",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "A Moving Coil Galvanometer (MCG) is primarily used to:",
+        "options": [
+            "Accelerate particles",
+            "Measure high voltages",
+            "Detect and measure small electric currents",
+            "Generate magnetism"
+        ],
+        "explanation": "An MCG is a sensitive instrument designed specifically for detecting and measuring small electric currents.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q41",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "In an MCG, the steady deflection φ is ________ proportional to the current I.",
+        "options": [
+            "Inversely",
+            "Directly",
+            "Linearly",
+            "Not"
+        ],
+        "explanation": "The deflection φ is directly proportional to the current I flowing through the coil.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q42",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "To make the magnetic field radial in a galvanometer, we use:",
+        "options": [
+            "Flat magnets",
+            "Soft iron core and cylindrical pole pieces",
+            "Plastic separators",
+            "None of these"
+        ],
+        "explanation": "A soft iron core combined with concave cylindrical magnets ensures the field is radial, keeping torque constant.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q43",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Current sensitivity of a galvanometer is defined as the ________ per unit current.",
+        "options": [
+            "Voltage",
+            "Resistance",
+            "Deflection",
+            "Power"
+        ],
+        "explanation": "Current sensitivity is the angular deflection produced in the galvanometer per unit current.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q44",
+        "chapter_id": "phy_ch4",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "To convert a galvanometer into an Ammeter, we connect a ________ resistance in parallel.",
+        "options": [
+            "High",
+            "Low (Shunt)",
+            "Infinite",
+            "Variable"
+        ],
+        "explanation": "A low resistance (shunt) is connected in parallel to bypass most of the current when converting to an ammeter.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q45",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "To convert a galvanometer into a Voltmeter, we connect a ________ resistance in series.",
+        "options": [
+            "Low",
+            "High",
+            "Zero",
+            "Negative"
+        ],
+        "explanation": "A high resistance is connected in series to limit the current through the galvanometer when used as a voltmeter.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q46",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Voltage sensitivity is defined as the deflection per unit ________.",
+        "options": [
+            "Current",
+            "Voltage",
+            "Power",
+            "Resistance"
+        ],
+        "explanation": "Voltage sensitivity is defined as the angular deflection produced per unit voltage applied.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q47",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Does doubling the number of turns in an MCG necessarily double the voltage sensitivity?",
+        "options": [
+            "Yes, always",
+            "No, because resistance also increases",
+            "Only in a vacuum",
+            "Only for large currents"
+        ],
+        "explanation": "Doubling the turns usually doubles the coil's resistance, so the voltage sensitivity (deflection/voltage) remains unchanged.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q48",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Two parallel wires carrying currents in opposite directions ________ each other.",
+        "options": [
+            "Attract",
+            "Repel",
+            "Have no effect",
+            "Stop current flow"
+        ],
+        "explanation": "Anti-parallel currents (flowing in opposite directions) result in a repulsive magnetic force between the wires.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q49",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The direction of the magnetic field due to a long straight wire can be found using the:",
+        "options": [
+            "Left-hand rule",
+            "Right-hand thumb rule",
+            "Lenz's Law",
+            "Ohm's Law"
+        ],
+        "explanation": "The right-hand thumb rule is the standard convention used to find the direction of magnetic field lines around a current-carrying wire.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch4_q50",
+        "chapter_id": "phy_ch4",
+        "correct_index": 1,
+        "ncert_page": 0
+    }
 ]

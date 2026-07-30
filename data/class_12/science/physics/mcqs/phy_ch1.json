@@ -1,802 +1,802 @@
 [
-  {
-    "mcqId": "12_phy_ch1_q1",
-    "chapterId": "phy_ch1",
-    "question": "The property of 'amber' to attract light objects when rubbed was discovered by which Greek philosopher around 600 BC?",
-    "options": [
-      "Socrates",
-      "Thales of Miletus",
-      "Aristotle",
-      "Plato"
-    ],
-    "correctIndex": 1,
-    "explanation": "Historically, Thales of Miletus is credited with discovering that amber rubbed with silk or wool attracts light objects.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q2",
-    "chapterId": "phy_ch1",
-    "question": "The name 'Electricity' is derived from the Greek word 'elektron', which means:",
-    "options": [
-      "Charge",
-      "Thunder",
-      "Amber",
-      "Glass"
-    ],
-    "correctIndex": 2,
-    "explanation": "Electricity is named after the Greek word for amber, 'elektron'.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q3",
-    "chapterId": "phy_ch1",
-    "question": "An object that possesses an electric charge is said to be:",
-    "options": [
-      "Magnetized",
-      "Electrified",
-      "Polarized",
-      "Neutralized"
-    ],
-    "correctIndex": 1,
-    "explanation": "When an object acquires a net charge through processes like rubbing, it is called electrified or charged.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q4",
-    "chapterId": "phy_ch1",
-    "question": "The property which differentiates the two kinds of electric charges is called:",
-    "options": [
-      "Magnitude",
-      "Polarity",
-      "Strength",
-      "Density"
-    ],
-    "correctIndex": 1,
-    "explanation": "The two kinds of charges (positive and negative) are distinguished by their polarity.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q5",
-    "chapterId": "phy_ch1",
-    "question": "Which of the following describes the interaction between two like charges?",
-    "options": [
-      "They attract each other",
-      "They repel each other",
-      "They neutralize each other",
-      "They have no interaction"
-    ],
-    "correctIndex": 1,
-    "explanation": "A fundamental law of electrostatics is that like charges repel and unlike charges attract.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q6",
-    "chapterId": "phy_ch1",
-    "question": "Benjamin Franklin named the two types of charges as:",
-    "options": [
-      "North and South",
-      "Positive and Negative",
-      "Up and Down",
-      "Proton and Electron"
-    ],
-    "correctIndex": 1,
-    "explanation": "American scientist Benjamin Franklin introduced the terms positive and negative for the two types of charges.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q7",
-    "chapterId": "phy_ch1",
-    "question": "A simple apparatus used to detect the presence of charge on a body is the:",
-    "options": [
-      "Galvanometer",
-      "Gold-leaf electroscope",
-      "Voltmeter",
-      "Ammeter"
-    ],
-    "correctIndex": 1,
-    "explanation": "A gold-leaf electroscope is used to detect charge and its degree of divergence indicates the amount of charge.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q8",
-    "chapterId": "phy_ch1",
-    "question": "Substances that allow electricity to pass through them easily are called:",
-    "options": [
-      "Insulators",
-      "Semiconductors",
-      "Conductors",
-      "Dielectrics"
-    ],
-    "correctIndex": 2,
-    "explanation": "Conductors have free electrons that allow easy flow of electric charge.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q9",
-    "chapterId": "phy_ch1",
-    "question": "Which of the following is a good insulator?",
-    "options": [
-      "Copper",
-      "Human body",
-      "Porcelain",
-      "Iron"
-    ],
-    "correctIndex": 2,
-    "explanation": "Non-metals like porcelain, glass, and plastic offer high resistance to charge flow and are insulators.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q10",
-    "chapterId": "phy_ch1",
-    "question": "The process of sharing charges with the earth is called:",
-    "options": [
-      "Charging",
-      "Induction",
-      "Earthing (or Grounding)",
-      "Polarization"
-    ],
-    "correctIndex": 2,
-    "explanation": "Connecting a charged body to the earth to transfer its charge is known as grounding or earthing.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q11",
-    "chapterId": "phy_ch1",
-    "question": "The total charge of an isolated system is always conserved. This is known as:",
-    "options": [
-      "Quantization of charge",
-      "Law of conservation of charge",
-      "Additivity of charge",
-      "Coulomb's Law"
-    ],
-    "correctIndex": 1,
-    "explanation": "Conservation of charge states that charges can be transferred but neither created nor destroyed in an isolated system.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q12",
-    "chapterId": "phy_ch1",
-    "question": "The fact that all free charges are integral multiples of a basic unit (e) is known as:",
-    "options": [
-      "Conservation of charge",
-      "Additivity of charge",
-      "Quantization of charge",
-      "Coulomb's Law"
-    ],
-    "correctIndex": 2,
-    "explanation": "Quantization of charge means q = ne, where n is an integer.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q13",
-    "chapterId": "phy_ch1",
-    "question": "What is the value of the elementary charge (e) in SI units?",
-    "options": [
-      "9.1 x 10^-31 C",
-      "1.6 x 10^-19 C",
-      "8.85 x 10^-12 C",
-      "6.6 x 10^-34 C"
-    ],
-    "correctIndex": 1,
-    "explanation": "The basic unit of charge is roughly 1.602 x 10^-19 C.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q14",
-    "chapterId": "phy_ch1",
-    "question": "According to Coulomb's Law, the force between two point charges is inversely proportional to:",
-    "options": [
-      "The sum of the charges",
-      "The product of the charges",
-      "The square of the distance between them",
-      "The distance between them"
-    ],
-    "correctIndex": 2,
-    "explanation": "Coulomb's law states F is proportional to 1/r².",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q15",
-    "chapterId": "phy_ch1",
-    "question": "The SI unit of electric charge is:",
-    "options": [
-      "Volt",
-      "Farad",
-      "Coulomb",
-      "Ampere"
-    ],
-    "correctIndex": 2,
-    "explanation": "The unit of charge is the Coulomb (C).",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q16",
-    "chapterId": "phy_ch1",
-    "question": "The value of the permittivity of free space (ε₀) is approximately:",
-    "options": [
-      "9 x 10^9 Nm²/C²",
-      "1.6 x 10^-19 C",
-      "8.854 x 10^-12 C²/Nm²",
-      "1.0 C"
-    ],
-    "correctIndex": 2,
-    "explanation": "ε₀ is defined with the value 8.854 x 10^-12 C² N⁻¹ m⁻².",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q17",
-    "chapterId": "phy_ch1",
-    "question": "In Coulomb's law, the constant 'k' (1/4πε₀) in vacuum is equal to:",
-    "options": [
-      "8.85 x 10^-12",
-      "1.6 x 10^-19",
-      "9 x 10^9 Nm²/C²",
-      "1"
-    ],
-    "correctIndex": 2,
-    "explanation": "For calculation purposes, k ≈ 9 x 10^9 Nm²/C².",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q18",
-    "chapterId": "phy_ch1",
-    "question": "The principle that states the total force on any charge due to a number of other charges is the vector sum of individual forces is:",
-    "options": [
-      "Coulomb's Principle",
-      "Superposition Principle",
-      "Ohm's Law",
-      "Quantization Principle"
-    ],
-    "correctIndex": 1,
-    "explanation": "The superposition principle allows us to calculate force in a multi-charge system.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q19",
-    "chapterId": "phy_ch1",
-    "question": "Electric field intensity (E) at a point is defined as ________ experienced by a unit positive test charge.",
-    "options": [
-      "Work",
-      "Potential",
-      "Force",
-      "Flux"
-    ],
-    "correctIndex": 2,
-    "explanation": "E = F/q, where F is the force on a test charge q.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q20",
-    "chapterId": "phy_ch1",
-    "question": "What is the SI unit of electric field?",
-    "options": [
-      "N/C",
-      "C/N",
-      "Nm²/C",
-      "V/m²"
-    ],
-    "correctIndex": 0,
-    "explanation": "Since E = Force/Charge, the unit is Newtons per Coulomb (N/C).",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q21",
-    "chapterId": "phy_ch1",
-    "question": "The electric field due to a point charge 'Q' at a distance 'r' varies as:",
-    "options": [
-      "r",
-      "1/r",
-      "1/r²",
-      "1/r³"
-    ],
-    "correctIndex": 2,
-    "explanation": "The magnitude of the field is given by |E| = k|Q|/r².",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q22",
-    "chapterId": "phy_ch1",
-    "question": "Which of the following properties of electric field lines is FALSE?",
-    "options": [
-      "They start from positive and end at negative charges",
-      "They never intersect each other",
-      "They form closed loops",
-      "The tangent at any point gives the field direction"
-    ],
-    "correctIndex": 2,
-    "explanation": "Electrostatic field lines do not form closed loops; this distinguishes them from magnetic field lines.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q23",
-    "chapterId": "phy_ch1",
-    "question": "Electric flux (Φ) through an area element ΔS in a uniform electric field E is defined as:",
-    "options": [
-      "E / ΔS",
-      "E · ΔS (E ΔS cos θ)",
-      "E + ΔS",
-      "ΔS / E"
-    ],
-    "correctIndex": 1,
-    "explanation": "Flux is the dot product of the electric field and the area vector.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q24",
-    "chapterId": "phy_ch1",
-    "question": "What is the SI unit of electric flux?",
-    "options": [
-      "N/C",
-      "Nm²/C",
-      "C/Nm²",
-      "Nm/C"
-    ],
-    "correctIndex": 1,
-    "explanation": "Unit is (N/C) * m² = Nm²/C.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q25",
-    "chapterId": "phy_ch1",
-    "question": "A pair of equal and opposite charges separated by a small distance is called an:",
-    "options": [
-      "Electric Flux",
-      "Electric Monopole",
-      "Electric Dipole",
-      "Electric Field"
-    ],
-    "correctIndex": 2,
-    "explanation": "An electric dipole consists of charges +q and -q separated by a distance 2a.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q26",
-    "chapterId": "phy_ch1",
-    "question": "The dipole moment (p) of an electric dipole is given by:",
-    "options": [
-      "q * a",
-      "2 * q * a",
-      "q / 2a",
-      "q² * 2a"
-    ],
-    "correctIndex": 1,
-    "explanation": "p = q * (2a), directed from -q to +q.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q27",
-    "chapterId": "phy_ch1",
-    "question": "The electric field of a dipole at large distances (r >> a) on its axial line varies as:",
-    "options": [
-      "1/r",
-      "1/r²",
-      "1/r³",
-      "1/r⁴"
-    ],
-    "correctIndex": 2,
-    "explanation": "Dipole fields fall off as 1/r³, faster than the 1/r² rate for point charges.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q28",
-    "chapterId": "phy_ch1",
-    "question": "When an electric dipole is placed in a uniform electric field (E), it experiences a net torque (τ) given by:",
-    "options": [
-      "p · E",
-      "p x E (p E sin θ)",
-      "p / E",
-      "E x p"
-    ],
-    "correctIndex": 1,
-    "explanation": "Torque is the vector product of dipole moment and electric field.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q29",
-    "chapterId": "phy_ch1",
-    "question": "In a uniform electric field, the net force on an electric dipole is:",
-    "options": [
-      "Maximum",
-      "p * E",
-      "Zero",
-      "Depends on orientation"
-    ],
-    "correctIndex": 2,
-    "explanation": "Because the forces on +q and -q are equal and opposite, they cancel out, leaving only a torque.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q30",
-    "chapterId": "phy_ch1",
-    "question": "Linear charge density (λ) is defined as charge per unit:",
-    "options": [
-      "Area",
-      "Volume",
-      "Length",
-      "Mass"
-    ],
-    "correctIndex": 2,
-    "explanation": "λ = ΔQ / ΔL.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q31",
-    "chapterId": "phy_ch1",
-    "question": "Surface charge density (σ) is defined as charge per unit:",
-    "options": [
-      "Length",
-      "Area",
-      "Volume",
-      "Flux"
-    ],
-    "correctIndex": 1,
-    "explanation": "σ = ΔQ / ΔS.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q32",
-    "chapterId": "phy_ch1",
-    "question": "Volume charge density (ρ) is defined as charge per unit:",
-    "options": [
-      "Length",
-      "Area",
-      "Volume",
-      "Dipole"
-    ],
-    "correctIndex": 2,
-    "explanation": "ρ = ΔQ / ΔV.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q33",
-    "chapterId": "phy_ch1",
-    "question": "According to Gauss's Law, the total flux through a closed surface is ________ times the net charge enclosed.",
-    "options": [
-      "ε₀",
-      "1/ε₀",
-      "4π",
-      "k"
-    ],
-    "correctIndex": 1,
-    "explanation": "Gauss's law states Φ = q / ε₀.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q34",
-    "chapterId": "phy_ch1",
-    "question": "Gauss's Law is valid for any closed surface, regardless of its shape or size. This surface is often called a:",
-    "options": [
-      "Coulomb surface",
-      "Gaussian surface",
-      "Equipotential surface",
-      "Faraday cage"
-    ],
-    "correctIndex": 1,
-    "explanation": "The closed surface used in Gauss's Law calculations is called a Gaussian surface.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q35",
-    "chapterId": "phy_ch1",
-    "question": "The electric field due to an infinitely long straight uniformly charged wire varies with distance 'r' as:",
-    "options": [
-      "1/r",
-      "1/r²",
-      "1/r³",
-      "r"
-    ],
-    "correctIndex": 0,
-    "explanation": "E = λ / (2πε₀r).",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q36",
-    "chapterId": "phy_ch1",
-    "question": "The electric field due to a uniformly charged infinite plane sheet is:",
-    "options": [
-      "Proportional to distance r",
-      "Inversely proportional to distance r",
-      "Independent of distance r",
-      "Inversely proportional to r²"
-    ],
-    "correctIndex": 2,
-    "explanation": "E = σ / 2ε₀, which is independent of the distance r from the sheet.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q37",
-    "chapterId": "phy_ch1",
-    "question": "Inside a uniformly charged thin spherical shell, the electric field is:",
-    "options": [
-      "Constant",
-      "Zero",
-      "Maximum",
-      "Infinite"
-    ],
-    "correctIndex": 1,
-    "explanation": "Since no charge is enclosed by a Gaussian surface inside the shell, the field is zero.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q38",
-    "chapterId": "phy_ch1",
-    "question": "If the electric flux entering and leaving a closed surface is zero, it means:",
-    "options": [
-      "The electric field must be zero",
-      "The net charge inside is zero",
-      "There are no charges outside",
-      "The surface is a conductor"
-    ],
-    "correctIndex": 1,
-    "explanation": "Gauss's law links net flux to net enclosed charge.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q39",
-    "chapterId": "phy_ch1",
-    "question": "Coulomb's Law is based on the interaction between ________ charges.",
-    "options": [
-      "Extended",
-      "Moving",
-      "Point",
-      "Infinite"
-    ],
-    "correctIndex": 2,
-    "explanation": "Coulomb's law specifically applies to point charges (where size is much smaller than separation).",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q40",
-    "chapterId": "phy_ch1",
-    "question": "Charging a body by bringing another charged body near it without actual contact is called:",
-    "options": [
-      "Conduction",
-      "Induction",
-      "Friction",
-      "Radiation"
-    ],
-    "correctIndex": 1,
-    "explanation": "Charging by induction involves using the field of a nearby charge to redistribute charges on a conductor.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q41",
-    "chapterId": "phy_ch1",
-    "question": "What happens to the mass of an object when it is positively charged by friction?",
-    "options": [
-      "Increases",
-      "Decreases",
-      "Remains same",
-      "Becomes zero"
-    ],
-    "correctIndex": 1,
-    "explanation": "Positive charge results from the loss of electrons, which have mass, so the object's mass decreases slightly.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q42",
-    "chapterId": "phy_ch1",
-    "question": "Two charges +Q and -Q are placed at a distance 'd'. The point where the net electric field is zero is:",
-    "options": [
-      "Midpoint",
-      "At infinity",
-      "Near +Q",
-      "Near -Q"
-    ],
-    "correctIndex": 1,
-    "explanation": "For equal and opposite charges, the fields only perfectly cancel out at an infinite distance.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q43",
-    "chapterId": "phy_ch1",
-    "question": "A system has two charges qA = 2.5 x 10^-7 C and qB = -2.5 x 10^-7 C. The net charge of the system is:",
-    "options": [
-      "5.0 x 10^-7 C",
-      "Zero",
-      "2.5 x 10^-7 C",
-      "-5.0 x 10^-7 C"
-    ],
-    "correctIndex": 1,
-    "explanation": "The algebraic sum of equal and opposite charges is zero.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q44",
-    "chapterId": "phy_ch1",
-    "question": "For a macroscopic object, quantization of charge can be ignored because:",
-    "options": [
-      "e is very large",
-      "e is very small compared to macroscopic charges",
-      "Charges are not made of electrons",
-      "It is always a whole number"
-    ],
-    "correctIndex": 1,
-    "explanation": "The basic unit e is so small that charge appears continuous at the macroscopic scale.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q45",
-    "chapterId": "phy_ch1",
-    "question": "Electric field lines ________ each other.",
-    "options": [
-      "Always cross",
-      "Intersect at 90 degrees",
-      "Never cross",
-      "Cross only near charges"
-    ],
-    "correctIndex": 2,
-    "explanation": "If lines crossed, the field would have two directions at one point, which is impossible.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q46",
-    "chapterId": "phy_ch1",
-    "question": "The total electric flux through a cube enclosing a charge 'q' at its center is:",
-    "options": [
-      "q / ε₀",
-      "q / 6ε₀",
-      "6q / ε₀",
-      "Zero"
-    ],
-    "correctIndex": 0,
-    "explanation": "By Gauss's law, total flux depends only on enclosed charge, not the surface geometry.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q47",
-    "chapterId": "phy_ch1",
-    "question": "The electric flux through ONE face of a cube enclosing charge 'q' at its center is:",
-    "options": [
-      "q / ε₀",
-      "q / 6ε₀",
-      "q / 2ε₀",
-      "Zero"
-    ],
-    "correctIndex": 1,
-    "explanation": "Due to symmetry, the flux is distributed equally across the 6 faces.",
-    "ncertPage": 0,
-    "difficulty": "HARD",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q48",
-    "chapterId": "phy_ch1",
-    "question": "A plastic rod rubbed with wool is found to have a negative charge of 3 x 10^-7 C. This means ________ were transferred from wool to rod.",
-    "options": [
-      "Protons",
-      "Electrons",
-      "Neutrons",
-      "Atoms"
-    ],
-    "correctIndex": 1,
-    "explanation": "Negative charge is acquired by gaining electrons.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q49",
-    "chapterId": "phy_ch1",
-    "question": "Dipole moment is a ________ quantity.",
-    "options": [
-      "Scalar",
-      "Vector",
-      "Dimensionless",
-      "Tensor"
-    ],
-    "correctIndex": 1,
-    "explanation": "It has both magnitude and a defined direction from negative to positive charge.",
-    "ncertPage": 0,
-    "difficulty": "EASY",
-    "subject": "Physics"
-  },
-  {
-    "mcqId": "12_phy_ch1_q50",
-    "chapterId": "phy_ch1",
-    "question": "The torque on a dipole is maximum when the angle between dipole moment and electric field is:",
-    "options": [
-      "0°",
-      "45°",
-      "90°",
-      "180°"
-    ],
-    "correctIndex": 2,
-    "explanation": "τ = pE sin θ; sin θ is maximum (1) at 90°.",
-    "ncertPage": 0,
-    "difficulty": "MEDIUM",
-    "subject": "Physics"
-  }
+    {
+        "question": "The property of 'amber' to attract light objects when rubbed was discovered by which Greek philosopher around 600 BC?",
+        "options": [
+            "Socrates",
+            "Thales of Miletus",
+            "Aristotle",
+            "Plato"
+        ],
+        "explanation": "Historically, Thales of Miletus is credited with discovering that amber rubbed with silk or wool attracts light objects.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q1",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The name 'Electricity' is derived from the Greek word 'elektron', which means:",
+        "options": [
+            "Charge",
+            "Thunder",
+            "Amber",
+            "Glass"
+        ],
+        "explanation": "Electricity is named after the Greek word for amber, 'elektron'.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q2",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "An object that possesses an electric charge is said to be:",
+        "options": [
+            "Magnetized",
+            "Electrified",
+            "Polarized",
+            "Neutralized"
+        ],
+        "explanation": "When an object acquires a net charge through processes like rubbing, it is called electrified or charged.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q3",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The property which differentiates the two kinds of electric charges is called:",
+        "options": [
+            "Magnitude",
+            "Polarity",
+            "Strength",
+            "Density"
+        ],
+        "explanation": "The two kinds of charges (positive and negative) are distinguished by their polarity.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q4",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following describes the interaction between two like charges?",
+        "options": [
+            "They attract each other",
+            "They repel each other",
+            "They neutralize each other",
+            "They have no interaction"
+        ],
+        "explanation": "A fundamental law of electrostatics is that like charges repel and unlike charges attract.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q5",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Benjamin Franklin named the two types of charges as:",
+        "options": [
+            "North and South",
+            "Positive and Negative",
+            "Up and Down",
+            "Proton and Electron"
+        ],
+        "explanation": "American scientist Benjamin Franklin introduced the terms positive and negative for the two types of charges.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q6",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A simple apparatus used to detect the presence of charge on a body is the:",
+        "options": [
+            "Galvanometer",
+            "Gold-leaf electroscope",
+            "Voltmeter",
+            "Ammeter"
+        ],
+        "explanation": "A gold-leaf electroscope is used to detect charge and its degree of divergence indicates the amount of charge.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q7",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Substances that allow electricity to pass through them easily are called:",
+        "options": [
+            "Insulators",
+            "Semiconductors",
+            "Conductors",
+            "Dielectrics"
+        ],
+        "explanation": "Conductors have free electrons that allow easy flow of electric charge.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q8",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following is a good insulator?",
+        "options": [
+            "Copper",
+            "Human body",
+            "Porcelain",
+            "Iron"
+        ],
+        "explanation": "Non-metals like porcelain, glass, and plastic offer high resistance to charge flow and are insulators.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q9",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The process of sharing charges with the earth is called:",
+        "options": [
+            "Charging",
+            "Induction",
+            "Earthing (or Grounding)",
+            "Polarization"
+        ],
+        "explanation": "Connecting a charged body to the earth to transfer its charge is known as grounding or earthing.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q10",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The total charge of an isolated system is always conserved. This is known as:",
+        "options": [
+            "Quantization of charge",
+            "Law of conservation of charge",
+            "Additivity of charge",
+            "Coulomb's Law"
+        ],
+        "explanation": "Conservation of charge states that charges can be transferred but neither created nor destroyed in an isolated system.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q11",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The fact that all free charges are integral multiples of a basic unit (e) is known as:",
+        "options": [
+            "Conservation of charge",
+            "Additivity of charge",
+            "Quantization of charge",
+            "Coulomb's Law"
+        ],
+        "explanation": "Quantization of charge means q = ne, where n is an integer.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q12",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the value of the elementary charge (e) in SI units?",
+        "options": [
+            "9.1 x 10^-31 C",
+            "1.6 x 10^-19 C",
+            "8.85 x 10^-12 C",
+            "6.6 x 10^-34 C"
+        ],
+        "explanation": "The basic unit of charge is roughly 1.602 x 10^-19 C.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q13",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "According to Coulomb's Law, the force between two point charges is inversely proportional to:",
+        "options": [
+            "The sum of the charges",
+            "The product of the charges",
+            "The square of the distance between them",
+            "The distance between them"
+        ],
+        "explanation": "Coulomb's law states F is proportional to 1/r².",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q14",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The SI unit of electric charge is:",
+        "options": [
+            "Volt",
+            "Farad",
+            "Coulomb",
+            "Ampere"
+        ],
+        "explanation": "The unit of charge is the Coulomb (C).",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q15",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The value of the permittivity of free space (ε₀) is approximately:",
+        "options": [
+            "9 x 10^9 Nm²/C²",
+            "1.6 x 10^-19 C",
+            "8.854 x 10^-12 C²/Nm²",
+            "1.0 C"
+        ],
+        "explanation": "ε₀ is defined with the value 8.854 x 10^-12 C² N⁻¹ m⁻².",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q16",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "In Coulomb's law, the constant 'k' (1/4πε₀) in vacuum is equal to:",
+        "options": [
+            "8.85 x 10^-12",
+            "1.6 x 10^-19",
+            "9 x 10^9 Nm²/C²",
+            "1"
+        ],
+        "explanation": "For calculation purposes, k ≈ 9 x 10^9 Nm²/C².",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q17",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The principle that states the total force on any charge due to a number of other charges is the vector sum of individual forces is:",
+        "options": [
+            "Coulomb's Principle",
+            "Superposition Principle",
+            "Ohm's Law",
+            "Quantization Principle"
+        ],
+        "explanation": "The superposition principle allows us to calculate force in a multi-charge system.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q18",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electric field intensity (E) at a point is defined as ________ experienced by a unit positive test charge.",
+        "options": [
+            "Work",
+            "Potential",
+            "Force",
+            "Flux"
+        ],
+        "explanation": "E = F/q, where F is the force on a test charge q.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q19",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the SI unit of electric field?",
+        "options": [
+            "N/C",
+            "C/N",
+            "Nm²/C",
+            "V/m²"
+        ],
+        "explanation": "Since E = Force/Charge, the unit is Newtons per Coulomb (N/C).",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q20",
+        "chapter_id": "phy_ch1",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The electric field due to a point charge 'Q' at a distance 'r' varies as:",
+        "options": [
+            "r",
+            "1/r",
+            "1/r²",
+            "1/r³"
+        ],
+        "explanation": "The magnitude of the field is given by |E| = k|Q|/r².",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q21",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Which of the following properties of electric field lines is FALSE?",
+        "options": [
+            "They start from positive and end at negative charges",
+            "They never intersect each other",
+            "They form closed loops",
+            "The tangent at any point gives the field direction"
+        ],
+        "explanation": "Electrostatic field lines do not form closed loops; this distinguishes them from magnetic field lines.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q22",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electric flux (Φ) through an area element ΔS in a uniform electric field E is defined as:",
+        "options": [
+            "E / ΔS",
+            "E · ΔS (E ΔS cos θ)",
+            "E + ΔS",
+            "ΔS / E"
+        ],
+        "explanation": "Flux is the dot product of the electric field and the area vector.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q23",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What is the SI unit of electric flux?",
+        "options": [
+            "N/C",
+            "Nm²/C",
+            "C/Nm²",
+            "Nm/C"
+        ],
+        "explanation": "Unit is (N/C) * m² = Nm²/C.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q24",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A pair of equal and opposite charges separated by a small distance is called an:",
+        "options": [
+            "Electric Flux",
+            "Electric Monopole",
+            "Electric Dipole",
+            "Electric Field"
+        ],
+        "explanation": "An electric dipole consists of charges +q and -q separated by a distance 2a.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q25",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The dipole moment (p) of an electric dipole is given by:",
+        "options": [
+            "q * a",
+            "2 * q * a",
+            "q / 2a",
+            "q² * 2a"
+        ],
+        "explanation": "p = q * (2a), directed from -q to +q.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q26",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The electric field of a dipole at large distances (r >> a) on its axial line varies as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "1/r⁴"
+        ],
+        "explanation": "Dipole fields fall off as 1/r³, faster than the 1/r² rate for point charges.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q27",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "When an electric dipole is placed in a uniform electric field (E), it experiences a net torque (τ) given by:",
+        "options": [
+            "p · E",
+            "p x E (p E sin θ)",
+            "p / E",
+            "E x p"
+        ],
+        "explanation": "Torque is the vector product of dipole moment and electric field.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q28",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "In a uniform electric field, the net force on an electric dipole is:",
+        "options": [
+            "Maximum",
+            "p * E",
+            "Zero",
+            "Depends on orientation"
+        ],
+        "explanation": "Because the forces on +q and -q are equal and opposite, they cancel out, leaving only a torque.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q29",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Linear charge density (λ) is defined as charge per unit:",
+        "options": [
+            "Area",
+            "Volume",
+            "Length",
+            "Mass"
+        ],
+        "explanation": "λ = ΔQ / ΔL.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q30",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Surface charge density (σ) is defined as charge per unit:",
+        "options": [
+            "Length",
+            "Area",
+            "Volume",
+            "Flux"
+        ],
+        "explanation": "σ = ΔQ / ΔS.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q31",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Volume charge density (ρ) is defined as charge per unit:",
+        "options": [
+            "Length",
+            "Area",
+            "Volume",
+            "Dipole"
+        ],
+        "explanation": "ρ = ΔQ / ΔV.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q32",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "According to Gauss's Law, the total flux through a closed surface is ________ times the net charge enclosed.",
+        "options": [
+            "ε₀",
+            "1/ε₀",
+            "4π",
+            "k"
+        ],
+        "explanation": "Gauss's law states Φ = q / ε₀.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q33",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Gauss's Law is valid for any closed surface, regardless of its shape or size. This surface is often called a:",
+        "options": [
+            "Coulomb surface",
+            "Gaussian surface",
+            "Equipotential surface",
+            "Faraday cage"
+        ],
+        "explanation": "The closed surface used in Gauss's Law calculations is called a Gaussian surface.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q34",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The electric field due to an infinitely long straight uniformly charged wire varies with distance 'r' as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "r"
+        ],
+        "explanation": "E = λ / (2πε₀r).",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q35",
+        "chapter_id": "phy_ch1",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The electric field due to a uniformly charged infinite plane sheet is:",
+        "options": [
+            "Proportional to distance r",
+            "Inversely proportional to distance r",
+            "Independent of distance r",
+            "Inversely proportional to r²"
+        ],
+        "explanation": "E = σ / 2ε₀, which is independent of the distance r from the sheet.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q36",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Inside a uniformly charged thin spherical shell, the electric field is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Maximum",
+            "Infinite"
+        ],
+        "explanation": "Since no charge is enclosed by a Gaussian surface inside the shell, the field is zero.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q37",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "If the electric flux entering and leaving a closed surface is zero, it means:",
+        "options": [
+            "The electric field must be zero",
+            "The net charge inside is zero",
+            "There are no charges outside",
+            "The surface is a conductor"
+        ],
+        "explanation": "Gauss's law links net flux to net enclosed charge.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q38",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Coulomb's Law is based on the interaction between ________ charges.",
+        "options": [
+            "Extended",
+            "Moving",
+            "Point",
+            "Infinite"
+        ],
+        "explanation": "Coulomb's law specifically applies to point charges (where size is much smaller than separation).",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q39",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "Charging a body by bringing another charged body near it without actual contact is called:",
+        "options": [
+            "Conduction",
+            "Induction",
+            "Friction",
+            "Radiation"
+        ],
+        "explanation": "Charging by induction involves using the field of a nearby charge to redistribute charges on a conductor.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q40",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "What happens to the mass of an object when it is positively charged by friction?",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "explanation": "Positive charge results from the loss of electrons, which have mass, so the object's mass decreases slightly.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q41",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Two charges +Q and -Q are placed at a distance 'd'. The point where the net electric field is zero is:",
+        "options": [
+            "Midpoint",
+            "At infinity",
+            "Near +Q",
+            "Near -Q"
+        ],
+        "explanation": "For equal and opposite charges, the fields only perfectly cancel out at an infinite distance.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q42",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A system has two charges qA = 2.5 x 10^-7 C and qB = -2.5 x 10^-7 C. The net charge of the system is:",
+        "options": [
+            "5.0 x 10^-7 C",
+            "Zero",
+            "2.5 x 10^-7 C",
+            "-5.0 x 10^-7 C"
+        ],
+        "explanation": "The algebraic sum of equal and opposite charges is zero.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q43",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "For a macroscopic object, quantization of charge can be ignored because:",
+        "options": [
+            "e is very large",
+            "e is very small compared to macroscopic charges",
+            "Charges are not made of electrons",
+            "It is always a whole number"
+        ],
+        "explanation": "The basic unit e is so small that charge appears continuous at the macroscopic scale.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q44",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Electric field lines ________ each other.",
+        "options": [
+            "Always cross",
+            "Intersect at 90 degrees",
+            "Never cross",
+            "Cross only near charges"
+        ],
+        "explanation": "If lines crossed, the field would have two directions at one point, which is impossible.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q45",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    },
+    {
+        "question": "The total electric flux through a cube enclosing a charge 'q' at its center is:",
+        "options": [
+            "q / ε₀",
+            "q / 6ε₀",
+            "6q / ε₀",
+            "Zero"
+        ],
+        "explanation": "By Gauss's law, total flux depends only on enclosed charge, not the surface geometry.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q46",
+        "chapter_id": "phy_ch1",
+        "correct_index": 0,
+        "ncert_page": 0
+    },
+    {
+        "question": "The electric flux through ONE face of a cube enclosing charge 'q' at its center is:",
+        "options": [
+            "q / ε₀",
+            "q / 6ε₀",
+            "q / 2ε₀",
+            "Zero"
+        ],
+        "explanation": "Due to symmetry, the flux is distributed equally across the 6 faces.",
+        "difficulty": "hard",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q47",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "A plastic rod rubbed with wool is found to have a negative charge of 3 x 10^-7 C. This means ________ were transferred from wool to rod.",
+        "options": [
+            "Protons",
+            "Electrons",
+            "Neutrons",
+            "Atoms"
+        ],
+        "explanation": "Negative charge is acquired by gaining electrons.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q48",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "Dipole moment is a ________ quantity.",
+        "options": [
+            "Scalar",
+            "Vector",
+            "Dimensionless",
+            "Tensor"
+        ],
+        "explanation": "It has both magnitude and a defined direction from negative to positive charge.",
+        "difficulty": "easy",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q49",
+        "chapter_id": "phy_ch1",
+        "correct_index": 1,
+        "ncert_page": 0
+    },
+    {
+        "question": "The torque on a dipole is maximum when the angle between dipole moment and electric field is:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "explanation": "τ = pE sin θ; sin θ is maximum (1) at 90°.",
+        "difficulty": "medium",
+        "subject": "Physics",
+        "mcq_id": "12_phy_ch1_q50",
+        "chapter_id": "phy_ch1",
+        "correct_index": 2,
+        "ncert_page": 0
+    }
 ]
