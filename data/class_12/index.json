@@ -6,9 +6,7 @@
     "science": [
       "physics",
       "chemistry",
-      "biology",
-      "computer_science",
-      "informatics_practices"
+      "biology"
     ],
     "commerce": [
       "accountancy",
@@ -17,7 +15,6 @@
     "arts": [
       "history",
       "political_science",
-      "psychology",
       "sociology",
       "fine_arts"
     ],
@@ -25,7 +22,10 @@
       "english",
       "mathematics",
       "economics",
-      "geography"
+      "geography",
+      "informatics_practices",
+      "computer_science",
+      "psychology"
     ]
   }
 }

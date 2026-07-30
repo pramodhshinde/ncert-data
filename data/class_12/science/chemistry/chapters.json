@@ -18,7 +18,7 @@
       "language": "english",
       "classNumber": "Class 12",
       "subject": "Chemistry",
-      "chapterCount": 6,
+      "chapterCount": 5,
       "parts": 2,
       "coverUrl": ""
     }
@@ -223,26 +223,6 @@
       "solutionsUrl": "https://drive.google.com/file/d/1VNAIvngxkrrw1LYpYjyo2-Ww8ShftNJq/view?usp=drivesdk",
       "notesUrl": "https://drive.google.com/file/d/1SsnDcV7-pT08t6Jmlno6W6_bDqhtJnEx/view?usp=drivesdk",
       "mcqUrl": "class_12/science/chemistry/mcqs/chem_ch10.json"
-    },
-    {
-      "id": 120406,
-      "bookId": 1204,
-      "chapterNumber": 6,
-      "title": "Polymers",
-      "topicCount": 4,
-      "questionCount": 50,
-      "progressPercent": 0,
-      "status": "NOT_STARTED",
-      "estimatedMinutes": 45,
-      "pageCount": 20,
-      "hasRead": true,
-      "hasSolutions": true,
-      "hasNotes": true,
-      "hasMCQ": true,
-      "pdfUrl": "https://drive.google.com/file/d/11kPkX8VYbC80s0AIVh0K22MBl3hBiMWQ/view?usp=drivesdk",
-      "solutionsUrl": "https://drive.google.com/file/d/1DVhYL8_mSpLAVRXjWgXP1tpsDOoMz4cv/view?usp=drivesdk",
-      "notesUrl": "https://drive.google.com/file/d/1duc332hyDkDFoBWtOJDMKzo4IdLG0ZUj/view?usp=drivesdk",
-      "mcqUrl": "class_12/science/chemistry/mcqs/chem_ch11.json"
     }
   ]
 }
