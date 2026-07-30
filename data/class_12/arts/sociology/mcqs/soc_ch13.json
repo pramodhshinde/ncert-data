@@ -1,552 +1,802 @@
 [
-  {
-    "mcq_id": "c13_q01",
-    "chapter_id": "c13",
-    "question": "Globalisation is best described in the NCERT chapter as a process that is:",
-    "options": ["Purely economic in nature", "Multidimensional, involving economic, political and cultural changes", "Limited only to trade in goods", "Restricted to Western countries"],
-    "correct_index": 1,
-    "explanation": "The chapter defines globalisation as a multidimensional process involving economic, political and cultural changes that increase interconnectedness across the world.",
-    "ncert_page": 146,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q02",
-    "chapter_id": "c13",
-    "question": "In which year did India adopt major economic reforms popularly known as the LPG reforms?",
-    "options": ["1985", "1991", "1998", "2001"],
-    "correct_index": 1,
-    "explanation": "India introduced Liberalisation, Privatisation and Globalisation (LPG) reforms in 1991 to open up the economy.",
-    "ncert_page": 146,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q03",
-    "chapter_id": "c13",
-    "question": "What does the 'L' in the 1991 LPG reforms stand for?",
-    "options": ["Localisation", "Liberalisation", "Legislation", "Liquidation"],
-    "correct_index": 1,
-    "explanation": "The 'L' stands for Liberalisation, referring to the reduction of government restrictions on economic activity.",
-    "ncert_page": 146,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q04",
-    "chapter_id": "c13",
-    "question": "Which two international financial institutions are mentioned as pushing developing countries toward structural adjustment programmes?",
-    "options": ["ADB and WHO", "World Bank and IMF", "WTO and UNESCO", "UNICEF and FAO"],
-    "correct_index": 1,
-    "explanation": "The World Bank and the International Monetary Fund (IMF) are the institutions associated with promoting structural adjustment programmes in developing nations.",
-    "ncert_page": 147,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q05",
-    "chapter_id": "c13",
-    "question": "What is a Structural Adjustment Programme (SAP) primarily meant to do?",
-    "options": ["Increase government subsidies", "Restructure a country's economy as a condition for loans", "Nationalise private industries", "Ban foreign trade"],
-    "correct_index": 1,
-    "explanation": "Structural Adjustment Programmes are policy conditions attached by institutions like the World Bank and IMF requiring countries to restructure their economies, often by cutting subsidies and opening markets, in exchange for loans.",
-    "ncert_page": 147,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q06",
-    "chapter_id": "c13",
-    "question": "According to the chapter, globalisation is often confused with which other concept?",
-    "options": ["Modernisation", "Westernisation", "Industrialisation", "Urbanisation"],
-    "correct_index": 1,
-    "explanation": "The chapter clarifies that globalisation is often equated with westernisation, though they are distinct processes since globalisation also allows non-Western influences to spread.",
-    "ncert_page": 148,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q07",
-    "chapter_id": "c13",
-    "question": "Which of the following is given as an example of Indian culture spreading globally due to globalisation?",
-    "options": ["Cricket becoming a global sport", "Yoga becoming popular worldwide", "Bollywood replacing Hollywood", "Sanskrit becoming a global language"],
-    "correct_index": 1,
-    "explanation": "The chapter cites yoga as an example of an Indian practice that has spread globally, showing that globalisation is not simply one-way westernisation.",
-    "ncert_page": 149,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q08",
-    "chapter_id": "c13",
-    "question": "The term used to describe the process of global and local cultures blending together is:",
-    "options": ["Glocalisation", "Hybridisation only", "Homogenisation", "Deculturation"],
-    "correct_index": 0,
-    "explanation": "Glocalisation refers to the way global products and ideas are adapted to local conditions and cultures, a concept discussed in the chapter.",
-    "ncert_page": 150,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q09",
-    "chapter_id": "c13",
-    "question": "Which industry is highlighted as a major beneficiary of globalisation in India, leading to significant growth in employment for educated youth?",
-    "options": ["Textile industry", "Information Technology (IT) and BPO industry", "Fishing industry", "Handicrafts industry"],
-    "correct_index": 1,
-    "explanation": "The IT and BPO (Business Process Outsourcing) sector grew rapidly due to globalisation, providing new employment opportunities especially in urban India.",
-    "ncert_page": 151,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q10",
-    "chapter_id": "c13",
-    "question": "What term describes the practice of companies in developed countries getting work done by companies in developing countries like India?",
-    "options": ["Insourcing", "Outsourcing", "Franchising", "Subcontracting only"],
-    "correct_index": 1,
-    "explanation": "Outsourcing refers to companies contracting work such as call centres and data processing to firms in other countries, notably India, due to lower costs and skilled labour.",
-    "ncert_page": 151,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q11",
-    "chapter_id": "c13",
-    "question": "Which city is often cited as India's leading hub for the IT industry?",
-    "options": ["Bengaluru", "Patna", "Bhopal", "Guwahati"],
-    "correct_index": 0,
-    "explanation": "Bengaluru is widely known as India's IT hub, often referred to as the Silicon Valley of India, due to the concentration of software companies.",
-    "ncert_page": 151,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q12",
-    "chapter_id": "c13",
-    "question": "What impact did globalisation have on the organised/formal sector of Indian employment, according to the chapter?",
-    "options": ["It grew massively while the informal sector shrank", "It largely stagnated while the informal/unorganised sector expanded", "It disappeared completely", "It became fully unionised"],
-    "correct_index": 1,
-    "explanation": "The chapter notes that formal sector employment largely stagnated after liberalisation while informal, insecure employment expanded significantly.",
-    "ncert_page": 152,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q13",
-    "chapter_id": "c13",
-    "question": "What is one major consequence of globalisation on Indian agriculture mentioned in the chapter?",
-    "options": ["Complete self-sufficiency of farmers", "Exposure of Indian farmers to global market competition and price fluctuations", "Elimination of cash crops", "Total ban on agricultural imports"],
-    "correct_index": 1,
-    "explanation": "Globalisation exposed Indian farmers to volatile global commodity prices and competition from subsidised produce of developed countries, affecting their livelihoods.",
-    "ncert_page": 153,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q14",
-    "chapter_id": "c13",
-    "question": "The rise in farmer distress and suicides in some regions is linked in the chapter to which globalisation-related factor?",
-    "options": ["Excess government subsidies", "Withdrawal of state support and exposure to volatile global markets", "Too much rainfall", "Overproduction of food grains only"],
-    "correct_index": 1,
-    "explanation": "The chapter connects agrarian distress to reduced state support, rising input costs, and vulnerability to global price volatility under liberalised policies.",
-    "ncert_page": 153,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q15",
-    "chapter_id": "c13",
-    "question": "What does the term 'diaspora' refer to in the context of globalisation discussed in the chapter?",
-    "options": ["A type of trade agreement", "A dispersed population living outside their original homeland", "A stock market index", "A form of government subsidy"],
-    "correct_index": 1,
-    "explanation": "Diaspora refers to communities of people who have migrated from their homeland and settled in other countries, maintaining connections to their culture of origin.",
-    "ncert_page": 154,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q16",
-    "chapter_id": "c13",
-    "question": "Which factor is described as a major driver of international migration in the era of globalisation?",
-    "options": ["Search for better economic opportunities and employment", "Compulsory government relocation", "Religious pilgrimage alone", "Climate stability"],
-    "correct_index": 0,
-    "explanation": "Globalisation has increased migration flows as people move across borders in search of better jobs and economic opportunities.",
-    "ncert_page": 154,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q17",
-    "chapter_id": "c13",
-    "question": "The Non-Resident Indian (NRI) community is discussed in the chapter mainly in relation to:",
-    "options": ["Domestic agricultural policy", "Remittances and cultural links maintained with India", "Local caste panchayats", "Colonial-era land reforms"],
-    "correct_index": 1,
-    "explanation": "The chapter discusses how NRIs contribute significant remittances to India's economy while maintaining strong cultural and familial ties with their homeland.",
-    "ncert_page": 154,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q18",
-    "chapter_id": "c13",
-    "question": "What is the term for money sent back home by migrants working abroad?",
-    "options": ["Dividends", "Remittances", "Royalties", "Tariffs"],
-    "correct_index": 1,
-    "explanation": "Remittances are funds transferred by migrants to their families or communities in their home country, forming a significant part of India's foreign exchange earnings.",
-    "ncert_page": 155,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q19",
-    "chapter_id": "c13",
-    "question": "According to the chapter, cultural globalisation is exemplified by the worldwide spread of:",
-    "options": ["Fast food chains and global consumer brands", "Traditional handloom weaving only", "Village-level barter systems", "Ancient scripts"],
-    "correct_index": 0,
-    "explanation": "The spread of fast food chains and global consumer brands into local markets is presented as an example of cultural globalisation.",
-    "ncert_page": 156,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q20",
-    "chapter_id": "c13",
-    "question": "What critique is made regarding the media's role in globalisation?",
-    "options": ["Media has no role in shaping consumer culture", "Global media promotes uniform consumer culture and can marginalise local traditions", "Media only broadcasts sports events", "Television has disappeared due to globalisation"],
-    "correct_index": 1,
-    "explanation": "The chapter critiques how transnational media conglomerates spread a homogenised consumer culture that can overshadow local traditions and diversity.",
-    "ncert_page": 156,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q21",
-    "chapter_id": "c13",
-    "question": "The chapter notes that Indian television and film industries have also influenced global audiences, an example being:",
-    "options": ["The popularity of Indian soap operas and Bollywood films abroad", "The disappearance of regional cinema", "The banning of satellite television", "The closure of Doordarshan"],
-    "correct_index": 0,
-    "explanation": "The chapter highlights how Indian television serials and Bollywood films have gained international audiences, showing globalisation as a two-way cultural flow.",
-    "ncert_page": 157,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q22",
-    "chapter_id": "c13",
-    "question": "Which of the following best explains why globalisation cannot be equated with westernisation, as argued in the chapter?",
-    "options": ["Because globalisation only affects Western countries", "Because non-Western cultures also spread and influence the West through globalisation", "Because westernisation happened before colonialism", "Because globalisation is only economic"],
-    "correct_index": 1,
-    "explanation": "The chapter argues globalisation is not one-directional; non-Western cultural elements such as yoga, cuisine and films also spread to Western societies, unlike simple westernisation.",
-    "ncert_page": 149,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q23",
-    "chapter_id": "c13",
-    "question": "Privatisation, as part of the 1991 reforms, primarily refers to:",
-    "options": ["Transfer of ownership and control from public/government to private entities", "Nationalisation of banks", "Government takeover of private firms", "Abolition of the stock market"],
-    "correct_index": 0,
-    "explanation": "Privatisation involves reducing the role of the state and public sector by transferring ownership of enterprises to private players.",
-    "ncert_page": 146,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q24",
-    "chapter_id": "c13",
-    "question": "What happened to Indian industries such as small-scale manufacturing after trade barriers were reduced post-1991?",
-    "options": ["They faced increased competition from cheaper imported goods", "They became completely monopolistic", "They were entirely shut down by the government", "They received unlimited state protection"],
-    "correct_index": 0,
-    "explanation": "Reduced tariffs and trade barriers exposed small-scale and traditional Indian industries to competition from cheaper imported goods, threatening their survival.",
-    "ncert_page": 152,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q25",
-    "chapter_id": "c13",
-    "question": "The chapter discusses 'jobless growth' in the context of:",
-    "options": ["Economic growth occurring without a proportional increase in employment", "A situation where unemployment is zero", "Complete absence of economic growth", "Growth only in agriculture"],
-    "correct_index": 0,
-    "explanation": "Jobless growth refers to the phenomenon where GDP grows but employment generation, particularly in the formal sector, does not keep pace.",
-    "ncert_page": 152,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q26",
-    "chapter_id": "c13",
-    "question": "How has globalisation affected gender relations according to the chapter?",
-    "options": ["It has had no impact on gender roles", "It has created new employment opportunities for women, such as in the IT/BPO sector, while also raising concerns about job insecurity", "It has completely eliminated gender inequality", "It has banned women from working outside the home"],
-    "correct_index": 1,
-    "explanation": "The chapter notes that globalisation opened new avenues of employment for women, particularly in IT and service sectors, though issues of job insecurity and exploitation persist.",
-    "ncert_page": 158,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q27",
-    "chapter_id": "c13",
-    "question": "What change in family structure is associated with increased migration and globalisation, as discussed in the chapter?",
-    "options": ["Universal return to joint family systems", "Increasing instances of nuclear families and long-distance/transnational family arrangements", "Complete disappearance of the family institution", "Mandatory extended family living"],
-    "correct_index": 1,
-    "explanation": "Migration for work due to globalisation has contributed to more nuclear families and new transnational family arrangements where members live in different countries.",
-    "ncert_page": 158,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q28",
-    "chapter_id": "c13",
-    "question": "Which environmental concern is linked to globalisation in the chapter?",
-    "options": ["Reduction in industrial pollution worldwide", "Increased resource extraction and pollution due to rapid industrialisation and consumerism", "Complete ban on the use of fossil fuels", "Elimination of environmental movements"],
-    "correct_index": 1,
-    "explanation": "The chapter connects globalisation-driven industrial expansion and consumerism to increased environmental degradation and resource exploitation.",
-    "ncert_page": 159,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q29",
-    "chapter_id": "c13",
-    "question": "Social movements resisting globalisation, as mentioned in the chapter, often protest against:",
-    "options": ["Improvements in local infrastructure", "Displacement, loss of livelihood, and environmental degradation caused by large projects and MNCs", "The construction of schools", "Traditional festivals"],
-    "correct_index": 1,
-    "explanation": "The chapter describes how various social movements have emerged to resist the negative consequences of globalisation, such as displacement and environmental harm from large-scale projects.",
-    "ncert_page": 160,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q30",
-    "chapter_id": "c13",
-    "question": "The Narmada Bachao Andolan is an example, in the broader context of the textbook, of resistance against:",
-    "options": ["Globalisation-linked development projects causing displacement", "Foreign cultural imports", "IT sector expansion", "Agricultural subsidies"],
-    "correct_index": 0,
-    "explanation": "The Narmada Bachao Andolan opposed large dam projects that caused displacement of communities, reflecting resistance to development models linked with globalisation.",
-    "ncert_page": 160,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q31",
-    "chapter_id": "c13",
-    "question": "What does the chapter suggest about India's position in the global economic order after liberalisation?",
-    "options": ["India became isolated from world markets", "India emerged as one of the fast-growing economies increasingly integrated into the global market", "India stopped all foreign trade", "India's economy shrank continuously"],
-    "correct_index": 1,
-    "explanation": "The chapter presents India as an emerging economy that became increasingly integrated with global markets and recognised as a fast-growing economy after the 1991 reforms.",
-    "ncert_page": 161,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q32",
-    "chapter_id": "c13",
-    "question": "Multinational corporations (MNCs) are described in the chapter as playing which role in globalisation?",
-    "options": ["They have no significant economic role", "They are key agents driving investment, production and cultural flows across countries", "They only operate within a single country", "They are banned from developing countries"],
-    "correct_index": 1,
-    "explanation": "MNCs are highlighted as major agents of globalisation, investing across borders and spreading both economic activity and cultural influence.",
-    "ncert_page": 151,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q33",
-    "chapter_id": "c13",
-    "question": "The term 'flexibilisation' of labour, discussed in relation to globalisation, refers to:",
-    "options": ["Guaranteed lifetime employment for all workers", "Reduction of job security through contractual and temporary employment arrangements", "Increase in permanent government jobs", "Abolition of the labour market"],
-    "correct_index": 1,
-    "explanation": "Flexibilisation refers to the shift toward temporary, contractual and less secure forms of employment, which increased under globalisation as firms sought to cut costs.",
-    "ncert_page": 152,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q34",
-    "chapter_id": "c13",
-    "question": "Which of these is NOT identified in the chapter as a dimension of globalisation?",
-    "options": ["Economic", "Political", "Cultural", "Astrological"],
-    "correct_index": 3,
-    "explanation": "The chapter identifies economic, political and cultural dimensions of globalisation; astrological is not a recognised dimension.",
-    "ncert_page": 146,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q35",
-    "chapter_id": "c13",
-    "question": "What role did satellite television play in cultural globalisation in India, according to the chapter?",
-    "options": ["It had no effect on Indian audiences", "It exposed Indian audiences to a wide range of global lifestyles and consumer products", "It was banned throughout the 1990s", "It only broadcast government programming"],
-    "correct_index": 1,
-    "explanation": "The expansion of satellite television after liberalisation exposed Indian viewers to global lifestyles, advertising, and consumer culture.",
-    "ncert_page": 157,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q36",
-    "chapter_id": "c13",
-    "question": "Before 1991, India's economic policy is generally characterised in the chapter as being oriented toward:",
-    "options": ["An open, fully liberalised free market", "A relatively closed, state-regulated economy with import substitution", "Complete dependence on foreign investment", "Total privatisation of all industries"],
-    "correct_index": 1,
-    "explanation": "Prior to the 1991 reforms, India followed a largely state-regulated, protectionist economic policy emphasising import substitution and public sector dominance.",
-    "ncert_page": 146,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q37",
-    "chapter_id": "c13",
-    "question": "The growth of shopping malls and multiplexes in Indian cities is used in the chapter as an illustration of:",
-    "options": ["Deglobalisation", "Changing consumption patterns and lifestyles due to globalisation", "Decline of urban development", "Return to traditional markets only"],
-    "correct_index": 1,
-    "explanation": "The proliferation of malls and multiplexes reflects new, globalised consumption patterns and lifestyle changes among India's urban middle class.",
-    "ncert_page": 156,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q38",
-    "chapter_id": "c13",
-    "question": "The chapter notes that globalisation has had an uneven impact across India, meaning:",
-    "options": ["All regions and social groups have benefited equally", "Benefits and costs of globalisation are unevenly distributed across regions, classes, and social groups", "Only rural areas have benefited", "Urban and rural India were affected identically"],
-    "correct_index": 1,
-    "explanation": "A key theme of the chapter is that globalisation's effects are unevenly distributed, with some regions, classes, and groups benefiting more than others, deepening inequalities.",
-    "ncert_page": 162,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q39",
-    "chapter_id": "c13",
-    "question": "Which sociological concern is raised about the growth of call centres employing young workers in India?",
-    "options": ["Concerns about night shifts, health issues, and disruption of traditional work-life patterns", "Complete elimination of stress among workers", "Guaranteed permanent employment for life", "No effect on personal or family life"],
-    "correct_index": 0,
-    "explanation": "The chapter discusses how call centre jobs, often involving night shifts to match foreign time zones, raise concerns about health, social life and altered daily routines of young workers.",
-    "ncert_page": 158,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q40",
-    "chapter_id": "c13",
-    "question": "The concept of a 'global village' is used to describe:",
-    "options": ["A physical village built for tourists", "The idea that the world has become closely interconnected through communication technology and media", "A UN administrative unit", "A rural development scheme in India"],
-    "correct_index": 1,
-    "explanation": "The 'global village' concept describes how advances in communication and media technology have made the world feel more interconnected, a key theme in discussions of globalisation.",
-    "ncert_page": 148,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q41",
-    "chapter_id": "c13",
-    "question": "According to the chapter, what has been one effect of globalisation on Indian consumer choices?",
-    "options": ["Availability of a much wider range of domestic and foreign goods and brands", "Restriction to only locally made products", "Elimination of consumer choice entirely", "Return to a barter economy"],
-    "correct_index": 0,
-    "explanation": "Liberalisation and globalisation opened Indian markets to a vastly expanded range of foreign and domestic consumer goods and brands.",
-    "ncert_page": 156,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q42",
-    "chapter_id": "c13",
-    "question": "Special Economic Zones (SEZs) are mentioned in the context of globalisation primarily to:",
-    "options": ["Attract foreign investment and boost exports through tax and regulatory incentives", "Prohibit all foreign companies from operating", "Increase agricultural subsidies", "Restrict internal migration"],
-    "correct_index": 0,
-    "explanation": "SEZs were established to attract foreign investment and promote exports by offering tax breaks and simplified regulations, a policy linked to globalisation-era reforms.",
-    "ncert_page": 153,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q43",
-    "chapter_id": "c13",
-    "question": "How does the chapter describe the relationship between globalisation and local identities?",
-    "options": ["Local identities are always completely erased by globalisation", "Globalisation can simultaneously weaken and strengthen local/regional identities and assertions", "Local identities have no relation to globalisation", "Globalisation only strengthens national identity"],
-    "correct_index": 1,
-    "explanation": "The chapter discusses the paradox that globalisation can dilute certain local identities while also provoking a resurgence of regional and cultural assertions in reaction to homogenising pressures.",
-    "ncert_page": 162,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q44",
-    "chapter_id": "c13",
-    "question": "What is a commonly cited criticism of globalisation regarding income inequality in India?",
-    "options": ["It has eliminated income inequality entirely", "It has contributed to widening the gap between the rich and the poor", "It has made all citizens equally wealthy", "It has no relationship to income distribution"],
-    "correct_index": 1,
-    "explanation": "Critics highlighted in the chapter argue that globalisation, while boosting overall economic growth, has widened income disparities between different sections of society.",
-    "ncert_page": 162,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q45",
-    "chapter_id": "c13",
-    "question": "The chapter mentions that Indian food and cuisine have also become globalised, as seen in:",
-    "options": ["The disappearance of Indian restaurants abroad", "The popularity of Indian restaurants and cuisine in cities across the world", "A total ban on food exports", "The decline of Indian spice exports"],
-    "correct_index": 1,
-    "explanation": "The global spread of Indian restaurants and cuisine is cited as another example of globalisation working in both directions rather than just westernising India.",
-    "ncert_page": 149,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q46",
-    "chapter_id": "c13",
-    "question": "What does the chapter suggest is a key sociological task when studying globalisation?",
-    "options": ["To view it as a uniformly positive or negative process without analysis", "To critically examine both the opportunities and challenges it presents for different social groups", "To ignore its economic aspects", "To study it only from a Western perspective"],
-    "correct_index": 1,
-    "explanation": "The chapter emphasises a balanced, critical sociological approach that examines both the benefits and the costs of globalisation for different sections of Indian society.",
-    "ncert_page": 163,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q47",
-    "chapter_id": "c13",
-    "question": "The World Trade Organisation (WTO), relevant to the chapter's discussion, primarily deals with:",
-    "options": ["Regulating global trade rules and agreements between member countries", "Managing global weather patterns", "Issuing passports for migrants", "Controlling national education policies"],
-    "correct_index": 0,
-    "explanation": "The WTO is an international body that sets and enforces rules governing international trade, playing a central role in the globalisation of markets.",
-    "ncert_page": 147,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q48",
-    "chapter_id": "c13",
-    "question": "Which of the following best captures the chapter's overall conclusion about globalisation's impact on India?",
-    "options": ["It has been an entirely negative process with no benefits", "It has brought about complex, uneven changes with both opportunities and challenges for Indian society", "It has had no measurable effect on India", "It has completely reversed India's economic development"],
-    "correct_index": 1,
-    "explanation": "The chapter concludes that globalisation has produced complex and uneven outcomes, generating both new opportunities and significant challenges across different sections of Indian society.",
-    "ncert_page": 163,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q49",
-    "chapter_id": "c13",
-    "question": "The chapter discusses how traditional artisans and craftspeople have been affected by globalisation mainly through:",
-    "options": ["Guaranteed government protection from all competition", "Competition from machine-made and imported goods threatening their livelihoods", "Complete elimination of demand for handicrafts everywhere", "Full state ownership of all craft industries"],
-    "correct_index": 1,
-    "explanation": "Traditional artisans have faced increased competition from cheaper machine-made and imported goods following liberalisation, threatening their traditional livelihoods.",
-    "ncert_page": 153,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c13_q50",
-    "chapter_id": "c13",
-    "question": "Which term is used in the chapter to describe globalisation's effect where distant events and decisions increasingly shape local lives?",
-    "options": ["Time-space compression / increasing interconnectedness", "Total isolation of localities", "Permanent economic self-sufficiency", "Reduction of global communication"],
-    "correct_index": 0,
-    "explanation": "The chapter discusses how globalisation involves a compression of time and space, meaning that distant economic and political decisions now have immediate, direct effects on local communities.",
-    "ncert_page": 148,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  }
+    {
+        "mcq_id": "c13_q01",
+        "chapter_id": "soc_ch13",
+        "question": "Globalisation is best described in the NCERT chapter as a process that is:",
+        "options": [
+            "Purely economic in nature",
+            "Multidimensional, involving economic, political and cultural changes",
+            "Limited only to trade in goods",
+            "Restricted to Western countries"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter defines globalisation as a multidimensional process involving economic, political and cultural changes that increase interconnectedness across the world.",
+        "ncert_page": 146,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q02",
+        "chapter_id": "soc_ch13",
+        "question": "In which year did India adopt major economic reforms popularly known as the LPG reforms?",
+        "options": [
+            "1985",
+            "1991",
+            "1998",
+            "2001"
+        ],
+        "correct_index": 1,
+        "explanation": "India introduced Liberalisation, Privatisation and Globalisation (LPG) reforms in 1991 to open up the economy.",
+        "ncert_page": 146,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q03",
+        "chapter_id": "soc_ch13",
+        "question": "What does the 'L' in the 1991 LPG reforms stand for?",
+        "options": [
+            "Localisation",
+            "Liberalisation",
+            "Legislation",
+            "Liquidation"
+        ],
+        "correct_index": 1,
+        "explanation": "The 'L' stands for Liberalisation, referring to the reduction of government restrictions on economic activity.",
+        "ncert_page": 146,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q04",
+        "chapter_id": "soc_ch13",
+        "question": "Which two international financial institutions are mentioned as pushing developing countries toward structural adjustment programmes?",
+        "options": [
+            "ADB and WHO",
+            "World Bank and IMF",
+            "WTO and UNESCO",
+            "UNICEF and FAO"
+        ],
+        "correct_index": 1,
+        "explanation": "The World Bank and the International Monetary Fund (IMF) are the institutions associated with promoting structural adjustment programmes in developing nations.",
+        "ncert_page": 147,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q05",
+        "chapter_id": "soc_ch13",
+        "question": "What is a Structural Adjustment Programme (SAP) primarily meant to do?",
+        "options": [
+            "Increase government subsidies",
+            "Restructure a country's economy as a condition for loans",
+            "Nationalise private industries",
+            "Ban foreign trade"
+        ],
+        "correct_index": 1,
+        "explanation": "Structural Adjustment Programmes are policy conditions attached by institutions like the World Bank and IMF requiring countries to restructure their economies, often by cutting subsidies and opening markets, in exchange for loans.",
+        "ncert_page": 147,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q06",
+        "chapter_id": "soc_ch13",
+        "question": "According to the chapter, globalisation is often confused with which other concept?",
+        "options": [
+            "Modernisation",
+            "Westernisation",
+            "Industrialisation",
+            "Urbanisation"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter clarifies that globalisation is often equated with westernisation, though they are distinct processes since globalisation also allows non-Western influences to spread.",
+        "ncert_page": 148,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q07",
+        "chapter_id": "soc_ch13",
+        "question": "Which of the following is given as an example of Indian culture spreading globally due to globalisation?",
+        "options": [
+            "Cricket becoming a global sport",
+            "Yoga becoming popular worldwide",
+            "Bollywood replacing Hollywood",
+            "Sanskrit becoming a global language"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter cites yoga as an example of an Indian practice that has spread globally, showing that globalisation is not simply one-way westernisation.",
+        "ncert_page": 149,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q08",
+        "chapter_id": "soc_ch13",
+        "question": "The term used to describe the process of global and local cultures blending together is:",
+        "options": [
+            "Glocalisation",
+            "Hybridisation only",
+            "Homogenisation",
+            "Deculturation"
+        ],
+        "correct_index": 0,
+        "explanation": "Glocalisation refers to the way global products and ideas are adapted to local conditions and cultures, a concept discussed in the chapter.",
+        "ncert_page": 150,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q09",
+        "chapter_id": "soc_ch13",
+        "question": "Which industry is highlighted as a major beneficiary of globalisation in India, leading to significant growth in employment for educated youth?",
+        "options": [
+            "Textile industry",
+            "Information Technology (IT) and BPO industry",
+            "Fishing industry",
+            "Handicrafts industry"
+        ],
+        "correct_index": 1,
+        "explanation": "The IT and BPO (Business Process Outsourcing) sector grew rapidly due to globalisation, providing new employment opportunities especially in urban India.",
+        "ncert_page": 151,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q10",
+        "chapter_id": "soc_ch13",
+        "question": "What term describes the practice of companies in developed countries getting work done by companies in developing countries like India?",
+        "options": [
+            "Insourcing",
+            "Outsourcing",
+            "Franchising",
+            "Subcontracting only"
+        ],
+        "correct_index": 1,
+        "explanation": "Outsourcing refers to companies contracting work such as call centres and data processing to firms in other countries, notably India, due to lower costs and skilled labour.",
+        "ncert_page": 151,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q11",
+        "chapter_id": "soc_ch13",
+        "question": "Which city is often cited as India's leading hub for the IT industry?",
+        "options": [
+            "Bengaluru",
+            "Patna",
+            "Bhopal",
+            "Guwahati"
+        ],
+        "correct_index": 0,
+        "explanation": "Bengaluru is widely known as India's IT hub, often referred to as the Silicon Valley of India, due to the concentration of software companies.",
+        "ncert_page": 151,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q12",
+        "chapter_id": "soc_ch13",
+        "question": "What impact did globalisation have on the organised/formal sector of Indian employment, according to the chapter?",
+        "options": [
+            "It grew massively while the informal sector shrank",
+            "It largely stagnated while the informal/unorganised sector expanded",
+            "It disappeared completely",
+            "It became fully unionised"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter notes that formal sector employment largely stagnated after liberalisation while informal, insecure employment expanded significantly.",
+        "ncert_page": 152,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q13",
+        "chapter_id": "soc_ch13",
+        "question": "What is one major consequence of globalisation on Indian agriculture mentioned in the chapter?",
+        "options": [
+            "Complete self-sufficiency of farmers",
+            "Exposure of Indian farmers to global market competition and price fluctuations",
+            "Elimination of cash crops",
+            "Total ban on agricultural imports"
+        ],
+        "correct_index": 1,
+        "explanation": "Globalisation exposed Indian farmers to volatile global commodity prices and competition from subsidised produce of developed countries, affecting their livelihoods.",
+        "ncert_page": 153,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q14",
+        "chapter_id": "soc_ch13",
+        "question": "The rise in farmer distress and suicides in some regions is linked in the chapter to which globalisation-related factor?",
+        "options": [
+            "Excess government subsidies",
+            "Withdrawal of state support and exposure to volatile global markets",
+            "Too much rainfall",
+            "Overproduction of food grains only"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter connects agrarian distress to reduced state support, rising input costs, and vulnerability to global price volatility under liberalised policies.",
+        "ncert_page": 153,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q15",
+        "chapter_id": "soc_ch13",
+        "question": "What does the term 'diaspora' refer to in the context of globalisation discussed in the chapter?",
+        "options": [
+            "A type of trade agreement",
+            "A dispersed population living outside their original homeland",
+            "A stock market index",
+            "A form of government subsidy"
+        ],
+        "correct_index": 1,
+        "explanation": "Diaspora refers to communities of people who have migrated from their homeland and settled in other countries, maintaining connections to their culture of origin.",
+        "ncert_page": 154,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q16",
+        "chapter_id": "soc_ch13",
+        "question": "Which factor is described as a major driver of international migration in the era of globalisation?",
+        "options": [
+            "Search for better economic opportunities and employment",
+            "Compulsory government relocation",
+            "Religious pilgrimage alone",
+            "Climate stability"
+        ],
+        "correct_index": 0,
+        "explanation": "Globalisation has increased migration flows as people move across borders in search of better jobs and economic opportunities.",
+        "ncert_page": 154,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q17",
+        "chapter_id": "soc_ch13",
+        "question": "The Non-Resident Indian (NRI) community is discussed in the chapter mainly in relation to:",
+        "options": [
+            "Domestic agricultural policy",
+            "Remittances and cultural links maintained with India",
+            "Local caste panchayats",
+            "Colonial-era land reforms"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter discusses how NRIs contribute significant remittances to India's economy while maintaining strong cultural and familial ties with their homeland.",
+        "ncert_page": 154,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q18",
+        "chapter_id": "soc_ch13",
+        "question": "What is the term for money sent back home by migrants working abroad?",
+        "options": [
+            "Dividends",
+            "Remittances",
+            "Royalties",
+            "Tariffs"
+        ],
+        "correct_index": 1,
+        "explanation": "Remittances are funds transferred by migrants to their families or communities in their home country, forming a significant part of India's foreign exchange earnings.",
+        "ncert_page": 155,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q19",
+        "chapter_id": "soc_ch13",
+        "question": "According to the chapter, cultural globalisation is exemplified by the worldwide spread of:",
+        "options": [
+            "Fast food chains and global consumer brands",
+            "Traditional handloom weaving only",
+            "Village-level barter systems",
+            "Ancient scripts"
+        ],
+        "correct_index": 0,
+        "explanation": "The spread of fast food chains and global consumer brands into local markets is presented as an example of cultural globalisation.",
+        "ncert_page": 156,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q20",
+        "chapter_id": "soc_ch13",
+        "question": "What critique is made regarding the media's role in globalisation?",
+        "options": [
+            "Media has no role in shaping consumer culture",
+            "Global media promotes uniform consumer culture and can marginalise local traditions",
+            "Media only broadcasts sports events",
+            "Television has disappeared due to globalisation"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter critiques how transnational media conglomerates spread a homogenised consumer culture that can overshadow local traditions and diversity.",
+        "ncert_page": 156,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q21",
+        "chapter_id": "soc_ch13",
+        "question": "The chapter notes that Indian television and film industries have also influenced global audiences, an example being:",
+        "options": [
+            "The popularity of Indian soap operas and Bollywood films abroad",
+            "The disappearance of regional cinema",
+            "The banning of satellite television",
+            "The closure of Doordarshan"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter highlights how Indian television serials and Bollywood films have gained international audiences, showing globalisation as a two-way cultural flow.",
+        "ncert_page": 157,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q22",
+        "chapter_id": "soc_ch13",
+        "question": "Which of the following best explains why globalisation cannot be equated with westernisation, as argued in the chapter?",
+        "options": [
+            "Because globalisation only affects Western countries",
+            "Because non-Western cultures also spread and influence the West through globalisation",
+            "Because westernisation happened before colonialism",
+            "Because globalisation is only economic"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter argues globalisation is not one-directional; non-Western cultural elements such as yoga, cuisine and films also spread to Western societies, unlike simple westernisation.",
+        "ncert_page": 149,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q23",
+        "chapter_id": "soc_ch13",
+        "question": "Privatisation, as part of the 1991 reforms, primarily refers to:",
+        "options": [
+            "Transfer of ownership and control from public/government to private entities",
+            "Nationalisation of banks",
+            "Government takeover of private firms",
+            "Abolition of the stock market"
+        ],
+        "correct_index": 0,
+        "explanation": "Privatisation involves reducing the role of the state and public sector by transferring ownership of enterprises to private players.",
+        "ncert_page": 146,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q24",
+        "chapter_id": "soc_ch13",
+        "question": "What happened to Indian industries such as small-scale manufacturing after trade barriers were reduced post-1991?",
+        "options": [
+            "They faced increased competition from cheaper imported goods",
+            "They became completely monopolistic",
+            "They were entirely shut down by the government",
+            "They received unlimited state protection"
+        ],
+        "correct_index": 0,
+        "explanation": "Reduced tariffs and trade barriers exposed small-scale and traditional Indian industries to competition from cheaper imported goods, threatening their survival.",
+        "ncert_page": 152,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q25",
+        "chapter_id": "soc_ch13",
+        "question": "The chapter discusses 'jobless growth' in the context of:",
+        "options": [
+            "Economic growth occurring without a proportional increase in employment",
+            "A situation where unemployment is zero",
+            "Complete absence of economic growth",
+            "Growth only in agriculture"
+        ],
+        "correct_index": 0,
+        "explanation": "Jobless growth refers to the phenomenon where GDP grows but employment generation, particularly in the formal sector, does not keep pace.",
+        "ncert_page": 152,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q26",
+        "chapter_id": "soc_ch13",
+        "question": "How has globalisation affected gender relations according to the chapter?",
+        "options": [
+            "It has had no impact on gender roles",
+            "It has created new employment opportunities for women, such as in the IT/BPO sector, while also raising concerns about job insecurity",
+            "It has completely eliminated gender inequality",
+            "It has banned women from working outside the home"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter notes that globalisation opened new avenues of employment for women, particularly in IT and service sectors, though issues of job insecurity and exploitation persist.",
+        "ncert_page": 158,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q27",
+        "chapter_id": "soc_ch13",
+        "question": "What change in family structure is associated with increased migration and globalisation, as discussed in the chapter?",
+        "options": [
+            "Universal return to joint family systems",
+            "Increasing instances of nuclear families and long-distance/transnational family arrangements",
+            "Complete disappearance of the family institution",
+            "Mandatory extended family living"
+        ],
+        "correct_index": 1,
+        "explanation": "Migration for work due to globalisation has contributed to more nuclear families and new transnational family arrangements where members live in different countries.",
+        "ncert_page": 158,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q28",
+        "chapter_id": "soc_ch13",
+        "question": "Which environmental concern is linked to globalisation in the chapter?",
+        "options": [
+            "Reduction in industrial pollution worldwide",
+            "Increased resource extraction and pollution due to rapid industrialisation and consumerism",
+            "Complete ban on the use of fossil fuels",
+            "Elimination of environmental movements"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter connects globalisation-driven industrial expansion and consumerism to increased environmental degradation and resource exploitation.",
+        "ncert_page": 159,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q29",
+        "chapter_id": "soc_ch13",
+        "question": "Social movements resisting globalisation, as mentioned in the chapter, often protest against:",
+        "options": [
+            "Improvements in local infrastructure",
+            "Displacement, loss of livelihood, and environmental degradation caused by large projects and MNCs",
+            "The construction of schools",
+            "Traditional festivals"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter describes how various social movements have emerged to resist the negative consequences of globalisation, such as displacement and environmental harm from large-scale projects.",
+        "ncert_page": 160,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q30",
+        "chapter_id": "soc_ch13",
+        "question": "The Narmada Bachao Andolan is an example, in the broader context of the textbook, of resistance against:",
+        "options": [
+            "Globalisation-linked development projects causing displacement",
+            "Foreign cultural imports",
+            "IT sector expansion",
+            "Agricultural subsidies"
+        ],
+        "correct_index": 0,
+        "explanation": "The Narmada Bachao Andolan opposed large dam projects that caused displacement of communities, reflecting resistance to development models linked with globalisation.",
+        "ncert_page": 160,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q31",
+        "chapter_id": "soc_ch13",
+        "question": "What does the chapter suggest about India's position in the global economic order after liberalisation?",
+        "options": [
+            "India became isolated from world markets",
+            "India emerged as one of the fast-growing economies increasingly integrated into the global market",
+            "India stopped all foreign trade",
+            "India's economy shrank continuously"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter presents India as an emerging economy that became increasingly integrated with global markets and recognised as a fast-growing economy after the 1991 reforms.",
+        "ncert_page": 161,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q32",
+        "chapter_id": "soc_ch13",
+        "question": "Multinational corporations (MNCs) are described in the chapter as playing which role in globalisation?",
+        "options": [
+            "They have no significant economic role",
+            "They are key agents driving investment, production and cultural flows across countries",
+            "They only operate within a single country",
+            "They are banned from developing countries"
+        ],
+        "correct_index": 1,
+        "explanation": "MNCs are highlighted as major agents of globalisation, investing across borders and spreading both economic activity and cultural influence.",
+        "ncert_page": 151,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q33",
+        "chapter_id": "soc_ch13",
+        "question": "The term 'flexibilisation' of labour, discussed in relation to globalisation, refers to:",
+        "options": [
+            "Guaranteed lifetime employment for all workers",
+            "Reduction of job security through contractual and temporary employment arrangements",
+            "Increase in permanent government jobs",
+            "Abolition of the labour market"
+        ],
+        "correct_index": 1,
+        "explanation": "Flexibilisation refers to the shift toward temporary, contractual and less secure forms of employment, which increased under globalisation as firms sought to cut costs.",
+        "ncert_page": 152,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q34",
+        "chapter_id": "soc_ch13",
+        "question": "Which of these is NOT identified in the chapter as a dimension of globalisation?",
+        "options": [
+            "Economic",
+            "Political",
+            "Cultural",
+            "Astrological"
+        ],
+        "correct_index": 3,
+        "explanation": "The chapter identifies economic, political and cultural dimensions of globalisation; astrological is not a recognised dimension.",
+        "ncert_page": 146,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q35",
+        "chapter_id": "soc_ch13",
+        "question": "What role did satellite television play in cultural globalisation in India, according to the chapter?",
+        "options": [
+            "It had no effect on Indian audiences",
+            "It exposed Indian audiences to a wide range of global lifestyles and consumer products",
+            "It was banned throughout the 1990s",
+            "It only broadcast government programming"
+        ],
+        "correct_index": 1,
+        "explanation": "The expansion of satellite television after liberalisation exposed Indian viewers to global lifestyles, advertising, and consumer culture.",
+        "ncert_page": 157,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q36",
+        "chapter_id": "soc_ch13",
+        "question": "Before 1991, India's economic policy is generally characterised in the chapter as being oriented toward:",
+        "options": [
+            "An open, fully liberalised free market",
+            "A relatively closed, state-regulated economy with import substitution",
+            "Complete dependence on foreign investment",
+            "Total privatisation of all industries"
+        ],
+        "correct_index": 1,
+        "explanation": "Prior to the 1991 reforms, India followed a largely state-regulated, protectionist economic policy emphasising import substitution and public sector dominance.",
+        "ncert_page": 146,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q37",
+        "chapter_id": "soc_ch13",
+        "question": "The growth of shopping malls and multiplexes in Indian cities is used in the chapter as an illustration of:",
+        "options": [
+            "Deglobalisation",
+            "Changing consumption patterns and lifestyles due to globalisation",
+            "Decline of urban development",
+            "Return to traditional markets only"
+        ],
+        "correct_index": 1,
+        "explanation": "The proliferation of malls and multiplexes reflects new, globalised consumption patterns and lifestyle changes among India's urban middle class.",
+        "ncert_page": 156,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q38",
+        "chapter_id": "soc_ch13",
+        "question": "The chapter notes that globalisation has had an uneven impact across India, meaning:",
+        "options": [
+            "All regions and social groups have benefited equally",
+            "Benefits and costs of globalisation are unevenly distributed across regions, classes, and social groups",
+            "Only rural areas have benefited",
+            "Urban and rural India were affected identically"
+        ],
+        "correct_index": 1,
+        "explanation": "A key theme of the chapter is that globalisation's effects are unevenly distributed, with some regions, classes, and groups benefiting more than others, deepening inequalities.",
+        "ncert_page": 162,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q39",
+        "chapter_id": "soc_ch13",
+        "question": "Which sociological concern is raised about the growth of call centres employing young workers in India?",
+        "options": [
+            "Concerns about night shifts, health issues, and disruption of traditional work-life patterns",
+            "Complete elimination of stress among workers",
+            "Guaranteed permanent employment for life",
+            "No effect on personal or family life"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter discusses how call centre jobs, often involving night shifts to match foreign time zones, raise concerns about health, social life and altered daily routines of young workers.",
+        "ncert_page": 158,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q40",
+        "chapter_id": "soc_ch13",
+        "question": "The concept of a 'global village' is used to describe:",
+        "options": [
+            "A physical village built for tourists",
+            "The idea that the world has become closely interconnected through communication technology and media",
+            "A UN administrative unit",
+            "A rural development scheme in India"
+        ],
+        "correct_index": 1,
+        "explanation": "The 'global village' concept describes how advances in communication and media technology have made the world feel more interconnected, a key theme in discussions of globalisation.",
+        "ncert_page": 148,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q41",
+        "chapter_id": "soc_ch13",
+        "question": "According to the chapter, what has been one effect of globalisation on Indian consumer choices?",
+        "options": [
+            "Availability of a much wider range of domestic and foreign goods and brands",
+            "Restriction to only locally made products",
+            "Elimination of consumer choice entirely",
+            "Return to a barter economy"
+        ],
+        "correct_index": 0,
+        "explanation": "Liberalisation and globalisation opened Indian markets to a vastly expanded range of foreign and domestic consumer goods and brands.",
+        "ncert_page": 156,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q42",
+        "chapter_id": "soc_ch13",
+        "question": "Special Economic Zones (SEZs) are mentioned in the context of globalisation primarily to:",
+        "options": [
+            "Attract foreign investment and boost exports through tax and regulatory incentives",
+            "Prohibit all foreign companies from operating",
+            "Increase agricultural subsidies",
+            "Restrict internal migration"
+        ],
+        "correct_index": 0,
+        "explanation": "SEZs were established to attract foreign investment and promote exports by offering tax breaks and simplified regulations, a policy linked to globalisation-era reforms.",
+        "ncert_page": 153,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q43",
+        "chapter_id": "soc_ch13",
+        "question": "How does the chapter describe the relationship between globalisation and local identities?",
+        "options": [
+            "Local identities are always completely erased by globalisation",
+            "Globalisation can simultaneously weaken and strengthen local/regional identities and assertions",
+            "Local identities have no relation to globalisation",
+            "Globalisation only strengthens national identity"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter discusses the paradox that globalisation can dilute certain local identities while also provoking a resurgence of regional and cultural assertions in reaction to homogenising pressures.",
+        "ncert_page": 162,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q44",
+        "chapter_id": "soc_ch13",
+        "question": "What is a commonly cited criticism of globalisation regarding income inequality in India?",
+        "options": [
+            "It has eliminated income inequality entirely",
+            "It has contributed to widening the gap between the rich and the poor",
+            "It has made all citizens equally wealthy",
+            "It has no relationship to income distribution"
+        ],
+        "correct_index": 1,
+        "explanation": "Critics highlighted in the chapter argue that globalisation, while boosting overall economic growth, has widened income disparities between different sections of society.",
+        "ncert_page": 162,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q45",
+        "chapter_id": "soc_ch13",
+        "question": "The chapter mentions that Indian food and cuisine have also become globalised, as seen in:",
+        "options": [
+            "The disappearance of Indian restaurants abroad",
+            "The popularity of Indian restaurants and cuisine in cities across the world",
+            "A total ban on food exports",
+            "The decline of Indian spice exports"
+        ],
+        "correct_index": 1,
+        "explanation": "The global spread of Indian restaurants and cuisine is cited as another example of globalisation working in both directions rather than just westernising India.",
+        "ncert_page": 149,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q46",
+        "chapter_id": "soc_ch13",
+        "question": "What does the chapter suggest is a key sociological task when studying globalisation?",
+        "options": [
+            "To view it as a uniformly positive or negative process without analysis",
+            "To critically examine both the opportunities and challenges it presents for different social groups",
+            "To ignore its economic aspects",
+            "To study it only from a Western perspective"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter emphasises a balanced, critical sociological approach that examines both the benefits and the costs of globalisation for different sections of Indian society.",
+        "ncert_page": 163,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q47",
+        "chapter_id": "soc_ch13",
+        "question": "The World Trade Organisation (WTO), relevant to the chapter's discussion, primarily deals with:",
+        "options": [
+            "Regulating global trade rules and agreements between member countries",
+            "Managing global weather patterns",
+            "Issuing passports for migrants",
+            "Controlling national education policies"
+        ],
+        "correct_index": 0,
+        "explanation": "The WTO is an international body that sets and enforces rules governing international trade, playing a central role in the globalisation of markets.",
+        "ncert_page": 147,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q48",
+        "chapter_id": "soc_ch13",
+        "question": "Which of the following best captures the chapter's overall conclusion about globalisation's impact on India?",
+        "options": [
+            "It has been an entirely negative process with no benefits",
+            "It has brought about complex, uneven changes with both opportunities and challenges for Indian society",
+            "It has had no measurable effect on India",
+            "It has completely reversed India's economic development"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter concludes that globalisation has produced complex and uneven outcomes, generating both new opportunities and significant challenges across different sections of Indian society.",
+        "ncert_page": 163,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q49",
+        "chapter_id": "soc_ch13",
+        "question": "The chapter discusses how traditional artisans and craftspeople have been affected by globalisation mainly through:",
+        "options": [
+            "Guaranteed government protection from all competition",
+            "Competition from machine-made and imported goods threatening their livelihoods",
+            "Complete elimination of demand for handicrafts everywhere",
+            "Full state ownership of all craft industries"
+        ],
+        "correct_index": 1,
+        "explanation": "Traditional artisans have faced increased competition from cheaper machine-made and imported goods following liberalisation, threatening their traditional livelihoods.",
+        "ncert_page": 153,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c13_q50",
+        "chapter_id": "soc_ch13",
+        "question": "Which term is used in the chapter to describe globalisation's effect where distant events and decisions increasingly shape local lives?",
+        "options": [
+            "Time-space compression / increasing interconnectedness",
+            "Total isolation of localities",
+            "Permanent economic self-sufficiency",
+            "Reduction of global communication"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter discusses how globalisation involves a compression of time and space, meaning that distant economic and political decisions now have immediate, direct effects on local communities.",
+        "ncert_page": 148,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    }
 ]

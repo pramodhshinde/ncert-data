@@ -1,552 +1,802 @@
 [
-  {
-    "mcq_id": "c15_q01",
-    "chapter_id": "c15",
-    "question": "Which of the following best defines a social movement according to the NCERT chapter?",
-    "options": ["Any spontaneous gathering of people", "A sustained collective action with some degree of organisation aimed at social change", "A government policy for reform", "A random act of protest by an individual"],
-    "correct_index": 1,
-    "explanation": "The chapter defines social movements as collective and sustained efforts involving a degree of organisation, directed at bringing about or resisting social change.",
-    "ncert_page": 206,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q02",
-    "chapter_id": "c15",
-    "question": "Which of the following is NOT a defining characteristic of social movements as mentioned in the NCERT chapter?",
-    "options": ["Collective action", "Shared goals or ideology", "Some degree of organisation", "Complete absence of leadership"],
-    "correct_index": 3,
-    "explanation": "Social movements typically involve some degree of organisation and often have leadership, even if informal, so complete absence of leadership is not a defining feature.",
-    "ncert_page": 206,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q03",
-    "chapter_id": "c15",
-    "question": "According to the typology used in the NCERT chapter (based on Rajendra Singh), which type of social movement seeks to bring about a total transformation of the social order?",
-    "options": ["Redemptive movement", "Reformist movement", "Revolutionary movement", "Alternative movement"],
-    "correct_index": 2,
-    "explanation": "Revolutionary movements seek fundamental and total change in the existing social and political order, unlike reformist movements which seek partial change.",
-    "ncert_page": 207,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q04",
-    "chapter_id": "c15",
-    "question": "A social movement that seeks partial change within the existing social structure, without overthrowing it entirely, is called a:",
-    "options": ["Revolutionary movement", "Reformist movement", "Redemptive movement", "Millenarian movement"],
-    "correct_index": 1,
-    "explanation": "Reformist movements aim to change certain aspects of society or the social system, rather than a complete transformation of the existing order.",
-    "ncert_page": 207,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q05",
-    "chapter_id": "c15",
-    "question": "A movement that seeks total change in the individual, often through spiritual or religious transformation, is termed a:",
-    "options": ["Redemptive movement", "Reformist movement", "Revolutionary movement", "Peasant movement"],
-    "correct_index": 0,
-    "explanation": "Redemptive movements aim at total change but at the level of the individual, often through religious or spiritual means, rather than the wider social structure.",
-    "ncert_page": 207,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q06",
-    "chapter_id": "c15",
-    "question": "The Telangana movement, discussed in the NCERT chapter as an example of a peasant movement, was primarily directed against:",
-    "options": ["British colonial taxation", "The exploitative feudal system of the Nizam's rule and local landlords (deshmukhs)", "Industrial pollution", "Urban unemployment"],
-    "correct_index": 1,
-    "explanation": "The Telangana movement (1946-51) was a peasant uprising against the oppressive feudal landlordism and exploitation by deshmukhs under the princely state of Hyderabad.",
-    "ncert_page": 210,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q07",
-    "chapter_id": "c15",
-    "question": "The Naxalbari movement, which gave rise to the term 'Naxalite', began in which state?",
-    "options": ["Bihar", "West Bengal", "Andhra Pradesh", "Odisha"],
-    "correct_index": 1,
-    "explanation": "The Naxalbari movement began in 1967 in the Naxalbari village of West Bengal, initiated by a section of peasants demanding land redistribution.",
-    "ncert_page": 210,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q08",
-    "chapter_id": "c15",
-    "question": "The Naxalite movement is generally classified as which type of social movement?",
-    "options": ["Redemptive movement", "Reformist movement", "Revolutionary movement", "Regional movement"],
-    "correct_index": 2,
-    "explanation": "The Naxalite movement sought radical, revolutionary transformation of the agrarian structure through armed peasant uprising, making it a revolutionary movement.",
-    "ncert_page": 210,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q09",
-    "chapter_id": "c15",
-    "question": "The Chipko movement is best known as an example of which kind of social movement?",
-    "options": ["Environmental movement", "Trade union movement", "Student movement", "Religious movement"],
-    "correct_index": 0,
-    "explanation": "The Chipko movement, which began in the Himalayan region, is a classic example of an environmental movement centred on forest conservation.",
-    "ncert_page": 213,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q10",
-    "chapter_id": "c15",
-    "question": "The word 'Chipko' literally means:",
-    "options": ["To cut", "To hug/embrace", "To plant", "To burn"],
-    "correct_index": 1,
-    "explanation": "Chipko means 'to hug' or 'to embrace' in Hindi, referring to villagers hugging trees to prevent them from being felled by contractors.",
-    "ncert_page": 213,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q11",
-    "chapter_id": "c15",
-    "question": "In the Chipko movement, villagers protested against commercial felling of trees by:",
-    "options": ["Filing court cases only", "Hugging trees to prevent them from being cut down", "Boycotting elections", "Organising strikes in factories"],
-    "correct_index": 1,
-    "explanation": "Villagers, especially women, physically embraced trees to stop loggers from felling them, giving the movement its name and method.",
-    "ncert_page": 213,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q12",
-    "chapter_id": "c15",
-    "question": "Which of the following leaders is closely associated with the Chipko movement?",
-    "options": ["Medha Patkar", "Sunderlal Bahuguna", "B.R. Ambedkar", "Ela Bhatt"],
-    "correct_index": 1,
-    "explanation": "Sunderlal Bahuguna was a prominent leader and environmentalist associated with the Chipko movement in the Garhwal Himalayas.",
-    "ncert_page": 213,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q13",
-    "chapter_id": "c15",
-    "question": "Along with Sunderlal Bahuguna, which other leader played a key role in organising the Chipko movement in Gopeshwar?",
-    "options": ["Chandi Prasad Bhatt", "Jayaprakash Narayan", "Baba Amte", "Rajendra Singh"],
-    "correct_index": 0,
-    "explanation": "Chandi Prasad Bhatt organised local villagers and founded the Dasholi Gram Swarajya Sangh, playing a central role in the Chipko movement.",
-    "ncert_page": 213,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q14",
-    "chapter_id": "c15",
-    "question": "Gaura Devi is remembered in the context of the Chipko movement for:",
-    "options": ["Leading women of Reni village to save trees from being felled", "Founding SEWA", "Writing the first sociology textbook", "Leading the Narmada Bachao Andolan"],
-    "correct_index": 0,
-    "explanation": "Gaura Devi led a group of women from Reni village who confronted loggers and saved trees, becoming an iconic figure of the Chipko movement.",
-    "ncert_page": 214,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q15",
-    "chapter_id": "c15",
-    "question": "The Chipko movement highlighted the significant role of which group in environmental protection?",
-    "options": ["Urban industrialists", "Women of hill villages", "Foreign NGOs", "Government forest officers"],
-    "correct_index": 1,
-    "explanation": "The chapter emphasises how rural hill women were at the forefront of the Chipko movement, since they were most affected by deforestation and resource depletion.",
-    "ncert_page": 214,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q16",
-    "chapter_id": "c15",
-    "question": "The Narmada Bachao Andolan primarily opposed:",
-    "options": ["Deforestation for paper mills", "Large dam construction on the Narmada river and consequent displacement", "Urban slum demolition", "Mining in coastal areas"],
-    "correct_index": 1,
-    "explanation": "The Narmada Bachao Andolan opposed the construction of large dams, particularly the Sardar Sarovar Project, due to displacement and environmental concerns.",
-    "ncert_page": 215,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q17",
-    "chapter_id": "c15",
-    "question": "Who is the most prominent leader associated with the Narmada Bachao Andolan?",
-    "options": ["Medha Patkar", "Sunderlal Bahuguna", "Anna Hazare", "Ela Bhatt"],
-    "correct_index": 0,
-    "explanation": "Medha Patkar has been the leading figure of the Narmada Bachao Andolan, mobilising people affected by dam-related displacement.",
-    "ncert_page": 215,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q18",
-    "chapter_id": "c15",
-    "question": "The Narmada Bachao Andolan raised concerns primarily about:",
-    "options": ["Rehabilitation of displaced people and environmental sustainability of large dams", "Reservation policy in education", "Minimum wages for factory workers", "Reforms in the judiciary"],
-    "correct_index": 0,
-    "explanation": "The movement centred on the rights of people displaced by the dam and questioned the environmental and social costs of large-scale development projects.",
-    "ncert_page": 215,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q19",
-    "chapter_id": "c15",
-    "question": "Environmental movements like Chipko and Narmada Bachao Andolan are often cited as examples of:",
-    "options": ["Old social movements", "New social movements", "Redemptive movements only", "Trade union movements"],
-    "correct_index": 1,
-    "explanation": "Environmental movements are considered 'new social movements' because they go beyond class-based issues to address ecology, identity, and quality of life concerns.",
-    "ncert_page": 216,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q20",
-    "chapter_id": "c15",
-    "question": "'Old social movements', as discussed in the chapter, are typically associated with:",
-    "options": ["Class-based struggles such as labour and peasant movements", "Identity and lifestyle issues", "Cyber activism", "Consumer rights only"],
-    "correct_index": 0,
-    "explanation": "Old social movements are generally rooted in class conflict, such as workers' and peasants' struggles for economic rights and resource redistribution.",
-    "ncert_page": 216,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q21",
-    "chapter_id": "c15",
-    "question": "'New social movements' differ from 'old social movements' mainly because they:",
-    "options": ["Are concerned only with wages and jobs", "Focus on issues like environment, gender, and identity beyond class", "Occur only in rural areas", "Are organised exclusively by political parties"],
-    "correct_index": 1,
-    "explanation": "New social movements address concerns such as ecology, gender, ethnicity, and identity, moving beyond the traditional focus on class and economic redistribution.",
-    "ncert_page": 216,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q22",
-    "chapter_id": "c15",
-    "question": "Which of the following is described in the NCERT chapter as an important issue taken up by the women's movement in India?",
-    "options": ["Dowry and domestic violence", "Foreign trade policy", "River water disputes between states", "Coal mining regulations"],
-    "correct_index": 0,
-    "explanation": "The women's movement in India has actively campaigned against dowry, domestic violence, and workplace harassment as key issues affecting women's lives.",
-    "ncert_page": 218,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q23",
-    "chapter_id": "c15",
-    "question": "The pre-independence women's movement in India was largely linked with:",
-    "options": ["The nationalist movement and social reform against practices like sati and child marriage", "The trade union movement in the USA", "The anti-apartheid movement in South Africa", "The environmental movement in Europe"],
-    "correct_index": 0,
-    "explanation": "Before independence, women's issues were largely addressed within the framework of social reform movements and the nationalist struggle, opposing practices like sati and child marriage.",
-    "ncert_page": 218,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q24",
-    "chapter_id": "c15",
-    "question": "The post-independence phase of the women's movement in India, especially from the 1970s, is notable for:",
-    "options": ["Complete disappearance of women's issues from public discourse", "Emergence of autonomous women's groups addressing violence, dowry and legal reforms", "A shift towards purely religious activities", "Focus only on women's suffrage"],
-    "correct_index": 1,
-    "explanation": "From the 1970s onwards, autonomous women's groups emerged to address issues like dowry deaths, domestic violence, rape laws, and workplace harassment.",
-    "ncert_page": 218,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q25",
-    "chapter_id": "c15",
-    "question": "SEWA, mentioned in the NCERT chapter as a significant women's organisation, stands for:",
-    "options": ["Social Empowerment for Women's Association", "Self-Employed Women's Association", "State Employment for Women's Advancement", "Society for Equality of Women and Adolescents"],
-    "correct_index": 1,
-    "explanation": "SEWA stands for Self-Employed Women's Association, a trade union founded to support women working in the informal sector.",
-    "ncert_page": 219,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q26",
-    "chapter_id": "c15",
-    "question": "SEWA was founded by:",
-    "options": ["Ela Bhatt", "Medha Patkar", "Gaura Devi", "Kamaladevi Chattopadhyay"],
-    "correct_index": 0,
-    "explanation": "SEWA was founded by Ela Bhatt in Ahmedabad in 1972 to organise and support poor, self-employed women workers.",
-    "ncert_page": 219,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q27",
-    "chapter_id": "c15",
-    "question": "SEWA primarily works to organise and empower:",
-    "options": ["Women working in the informal/unorganised sector", "Women in corporate jobs", "Women in government services", "Women in the armed forces"],
-    "correct_index": 0,
-    "explanation": "SEWA focuses on women engaged in informal sector work such as vending, home-based production, and manual labour, helping them access credit, training and legal support.",
-    "ncert_page": 219,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q28",
-    "chapter_id": "c15",
-    "question": "The Dalit movement in India is largely associated with the leadership of:",
-    "options": ["Mahatma Gandhi", "B.R. Ambedkar", "Jawaharlal Nehru", "Rajendra Prasad"],
-    "correct_index": 1,
-    "explanation": "B.R. Ambedkar led the Dalit movement, campaigning against caste-based discrimination and untouchability and for the rights of Dalits.",
-    "ncert_page": 221,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q29",
-    "chapter_id": "c15",
-    "question": "The Mahad Satyagraha of 1927, led by Ambedkar, was primarily about:",
-    "options": ["Access of Dalits to drink water from a public tank", "Land reforms for peasants", "Voting rights for women", "Independence from British rule"],
-    "correct_index": 0,
-    "explanation": "The Mahad Satyagraha was organised by Ambedkar to assert the right of Dalits to draw water from the Chavdar Tank in Mahad, which was denied to them due to untouchability.",
-    "ncert_page": 221,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q30",
-    "chapter_id": "c15",
-    "question": "The temple entry movements led by Dalits were significant because they:",
-    "options": ["Challenged the exclusion of Dalits from religious and public spaces", "Focused only on economic reforms", "Were led entirely by upper-caste reformers", "Were unrelated to caste discrimination"],
-    "correct_index": 0,
-    "explanation": "Temple entry movements asserted the right of Dalits to enter Hindu temples, challenging the social exclusion and untouchability practised against them.",
-    "ncert_page": 221,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q31",
-    "chapter_id": "c15",
-    "question": "The Dalit movement can be broadly classified as an example of which category of social movement?",
-    "options": ["Identity-based movement", "Environmental movement", "Purely economic movement", "Religious redemptive movement only"],
-    "correct_index": 0,
-    "explanation": "The Dalit movement is regarded as an identity-based movement, since it centres on caste identity, dignity and the struggle against discrimination.",
-    "ncert_page": 222,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q32",
-    "chapter_id": "c15",
-    "question": "Which of the following best describes 'identity-based movements' as discussed in the chapter?",
-    "options": ["Movements organised around caste, ethnicity, region or religion", "Movements only about wage increases", "Movements led exclusively by political parties", "Movements limited to urban college students"],
-    "correct_index": 0,
-    "explanation": "Identity-based movements mobilise people around shared identities such as caste, ethnicity, region, or religion to demand recognition and rights.",
-    "ncert_page": 222,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q33",
-    "chapter_id": "c15",
-    "question": "Regional movements demanding separate statehood, as discussed in the chapter, are examples of movements based on:",
-    "options": ["Regional and ethnic identity", "Purely religious sentiment", "International diplomacy", "Sports culture"],
-    "correct_index": 0,
-    "explanation": "Regional movements often arise from a sense of neglect or distinct ethnic/cultural identity, leading to demands for autonomy or separate statehood.",
-    "ncert_page": 223,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q34",
-    "chapter_id": "c15",
-    "question": "The relationship between social movements and the state, as discussed in the chapter, is best characterised as:",
-    "options": ["Always cooperative with no conflict", "Complex, involving both confrontation and negotiation", "Non-existent, since movements ignore the state", "Purely legal with no political dimension"],
-    "correct_index": 1,
-    "explanation": "The chapter notes that social movements often confront the state while also engaging with it through negotiation, policy influence, and legal channels.",
-    "ncert_page": 224,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q35",
-    "chapter_id": "c15",
-    "question": "The role of NGOs in social movements, as noted in the chapter, includes:",
-    "options": ["Providing organisational support, resources, and advocacy for movement causes", "Replacing the need for collective action entirely", "Preventing any government dialogue", "Only functioning in foreign countries"],
-    "correct_index": 0,
-    "explanation": "NGOs often support social movements by mobilising resources, providing expertise, and helping in advocacy, though their role and relationship with grassroots movements can be complex.",
-    "ncert_page": 224,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q36",
-    "chapter_id": "c15",
-    "question": "Which of the following statements about the Chipko movement's outcome is correct?",
-    "options": ["It led to the government imposing a ban on commercial tree felling in parts of the Himalayan region", "It had no impact on forest policy", "It resulted in immediate industrialisation of the hills", "It was suppressed without any policy change"],
-    "correct_index": 0,
-    "explanation": "As a result of sustained protest, the government imposed a ban on commercial felling of trees in some Himalayan regions, showing the movement's policy impact.",
-    "ncert_page": 214,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q37",
-    "chapter_id": "c15",
-    "question": "The peasant movements discussed in the chapter primarily arose due to:",
-    "options": ["Exploitation by landlords and unjust agrarian relations", "Demand for higher education subsidies", "Opposition to foreign films", "Urban housing shortages"],
-    "correct_index": 0,
-    "explanation": "Peasant movements like Telangana and Naxalbari emerged from grievances against exploitative landlordism, high rents, and unjust agrarian relations.",
-    "ncert_page": 209,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q38",
-    "chapter_id": "c15",
-    "question": "The term 'social movement' in sociology is distinguished from a mere 'crowd' or 'riot' because it involves:",
-    "options": ["Spontaneous and unplanned violence only", "Sustained action with shared purpose and some organisation over time", "A single day of protest with no follow-up", "Actions with no participants"],
-    "correct_index": 1,
-    "explanation": "Unlike a spontaneous crowd or riot, a social movement involves sustained collective action with shared goals and organisational continuity over time.",
-    "ncert_page": 206,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q39",
-    "chapter_id": "c15",
-    "question": "Which of the following theoretical approaches focuses on how movements mobilise resources such as money, media, and manpower to achieve their goals?",
-    "options": ["Resource mobilisation approach", "Structural-functionalism only", "Psychoanalytic theory", "World systems theory"],
-    "correct_index": 0,
-    "explanation": "The resource mobilisation approach emphasises the importance of organisational resources, leadership, and strategy in the success of social movements.",
-    "ncert_page": 225,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q40",
-    "chapter_id": "c15",
-    "question": "The chapter suggests that collective action requires people to perceive a situation as:",
-    "options": ["Unjust or in need of change, motivating them to act together", "Completely satisfactory", "Irrelevant to their lives", "A matter for courts alone"],
-    "correct_index": 0,
-    "explanation": "Collective action arises when people share a perception of injustice or grievance and believe joint action can bring about change.",
-    "ncert_page": 207,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q41",
-    "chapter_id": "c15",
-    "question": "Which of the following was a key demand of the Telangana peasant movement?",
-    "options": ["Redistribution of land from landlords to tillers", "Introduction of English education", "Reduction in railway fares", "Formation of new universities"],
-    "correct_index": 0,
-    "explanation": "The Telangana movement demanded redistribution of land taken from exploitative landlords (deshmukhs) to the peasants who tilled it.",
-    "ncert_page": 210,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q42",
-    "chapter_id": "c15",
-    "question": "The Naxalbari uprising of 1967 was eventually suppressed by:",
-    "options": ["State police action", "International intervention", "Natural disasters", "Lack of peasant support from the outset"],
-    "correct_index": 0,
-    "explanation": "The Naxalbari uprising was met with state police action, though it inspired similar movements and the broader Naxalite movement across parts of India.",
-    "ncert_page": 211,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q43",
-    "chapter_id": "c15",
-    "question": "Which of the following best explains why the Chipko movement is considered significant beyond just tree protection?",
-    "options": ["It raised broader questions about development, ecology, and local people's rights over forest resources", "It only concerned taxation policies", "It was limited to a single village with no wider impact", "It focused solely on wildlife conservation in zoos"],
-    "correct_index": 0,
-    "explanation": "The Chipko movement raised larger questions about the model of development, ecological balance, and the rights of local communities over forest resources.",
-    "ncert_page": 214,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q44",
-    "chapter_id": "c15",
-    "question": "The Narmada Bachao Andolan is an example of a movement that combines:",
-    "options": ["Environmental concerns with issues of displacement and human rights", "Only trade union demands", "Only religious reform", "Only educational reform"],
-    "correct_index": 0,
-    "explanation": "The Narmada Bachao Andolan is notable for linking ecological concerns with the human rights of people displaced by large dam projects.",
-    "ncert_page": 215,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q45",
-    "chapter_id": "c15",
-    "question": "Which of the following is an issue addressed by contemporary women's movements in India, as per the chapter?",
-    "options": ["Sexual harassment at the workplace", "Trade tariffs on textiles", "River interlinking projects", "Space exploration"],
-    "correct_index": 0,
-    "explanation": "The women's movement in India has campaigned against sexual harassment at the workplace, contributing to legal reforms in this area.",
-    "ncert_page": 219,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q46",
-    "chapter_id": "c15",
-    "question": "Ambedkar's approach to the Dalit movement emphasised:",
-    "options": ["Political rights, education, and annihilation of caste-based discrimination", "Only religious rituals", "Avoiding any political participation", "Migration to other countries"],
-    "correct_index": 0,
-    "explanation": "Ambedkar emphasised education, political representation, and the annihilation of caste as central to Dalit emancipation.",
-    "ncert_page": 222,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q47",
-    "chapter_id": "c15",
-    "question": "Which statement about 'new social movements' and their relationship to traditional class politics is most accurate as per the chapter?",
-    "options": ["New social movements often cut across class lines, uniting people around issues like gender or environment rather than class alone", "New social movements are exclusively working-class movements", "New social movements have no relation to identity", "New social movements reject all forms of organisation"],
-    "correct_index": 0,
-    "explanation": "New social movements often unite participants from different class backgrounds around shared concerns such as environment, gender or identity, rather than class interest alone.",
-    "ncert_page": 217,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q48",
-    "chapter_id": "c15",
-    "question": "The chapter notes that social movements can lead to social change by:",
-    "options": ["Influencing public policy, legislation, and social attitudes over time", "Having no lasting effect on society", "Only affecting the movement's own members", "Occurring solely in isolation from society"],
-    "correct_index": 0,
-    "explanation": "Social movements can bring about social change by shaping public opinion, influencing legislation, and altering established social attitudes and practices.",
-    "ncert_page": 225,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q49",
-    "chapter_id": "c15",
-    "question": "Which of the following pairs is correctly matched with respect to social movements in India?",
-    "options": ["Chipko movement - forest and environment protection", "Naxalbari movement - women's rights", "SEWA - dam displacement issues", "Mahad Satyagraha - trade union wages"],
-    "correct_index": 0,
-    "explanation": "The Chipko movement is correctly associated with forest and environmental protection, unlike the other mismatched pairs.",
-    "ncert_page": 213,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c15_q50",
-    "chapter_id": "c15",
-    "question": "The overall theme of the chapter 'Social Movements' in the NCERT textbook is to illustrate that:",
-    "options": ["Indian society has been shaped significantly by collective struggles of peasants, workers, women, Dalits, and environmentalists", "Social change in India occurs only through government legislation", "Social movements are irrelevant to sociology", "India has never witnessed any organised collective action"],
-    "correct_index": 0,
-    "explanation": "The chapter demonstrates that diverse social movements—peasant, environmental, women's, and Dalit movements—have been central forces shaping social change and development in India.",
-    "ncert_page": 226,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  }
+    {
+        "mcq_id": "c15_q01",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following best defines a social movement according to the NCERT chapter?",
+        "options": [
+            "Any spontaneous gathering of people",
+            "A sustained collective action with some degree of organisation aimed at social change",
+            "A government policy for reform",
+            "A random act of protest by an individual"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter defines social movements as collective and sustained efforts involving a degree of organisation, directed at bringing about or resisting social change.",
+        "ncert_page": 206,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q02",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following is NOT a defining characteristic of social movements as mentioned in the NCERT chapter?",
+        "options": [
+            "Collective action",
+            "Shared goals or ideology",
+            "Some degree of organisation",
+            "Complete absence of leadership"
+        ],
+        "correct_index": 3,
+        "explanation": "Social movements typically involve some degree of organisation and often have leadership, even if informal, so complete absence of leadership is not a defining feature.",
+        "ncert_page": 206,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q03",
+        "chapter_id": "soc_ch15",
+        "question": "According to the typology used in the NCERT chapter (based on Rajendra Singh), which type of social movement seeks to bring about a total transformation of the social order?",
+        "options": [
+            "Redemptive movement",
+            "Reformist movement",
+            "Revolutionary movement",
+            "Alternative movement"
+        ],
+        "correct_index": 2,
+        "explanation": "Revolutionary movements seek fundamental and total change in the existing social and political order, unlike reformist movements which seek partial change.",
+        "ncert_page": 207,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q04",
+        "chapter_id": "soc_ch15",
+        "question": "A social movement that seeks partial change within the existing social structure, without overthrowing it entirely, is called a:",
+        "options": [
+            "Revolutionary movement",
+            "Reformist movement",
+            "Redemptive movement",
+            "Millenarian movement"
+        ],
+        "correct_index": 1,
+        "explanation": "Reformist movements aim to change certain aspects of society or the social system, rather than a complete transformation of the existing order.",
+        "ncert_page": 207,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q05",
+        "chapter_id": "soc_ch15",
+        "question": "A movement that seeks total change in the individual, often through spiritual or religious transformation, is termed a:",
+        "options": [
+            "Redemptive movement",
+            "Reformist movement",
+            "Revolutionary movement",
+            "Peasant movement"
+        ],
+        "correct_index": 0,
+        "explanation": "Redemptive movements aim at total change but at the level of the individual, often through religious or spiritual means, rather than the wider social structure.",
+        "ncert_page": 207,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q06",
+        "chapter_id": "soc_ch15",
+        "question": "The Telangana movement, discussed in the NCERT chapter as an example of a peasant movement, was primarily directed against:",
+        "options": [
+            "British colonial taxation",
+            "The exploitative feudal system of the Nizam's rule and local landlords (deshmukhs)",
+            "Industrial pollution",
+            "Urban unemployment"
+        ],
+        "correct_index": 1,
+        "explanation": "The Telangana movement (1946-51) was a peasant uprising against the oppressive feudal landlordism and exploitation by deshmukhs under the princely state of Hyderabad.",
+        "ncert_page": 210,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q07",
+        "chapter_id": "soc_ch15",
+        "question": "The Naxalbari movement, which gave rise to the term 'Naxalite', began in which state?",
+        "options": [
+            "Bihar",
+            "West Bengal",
+            "Andhra Pradesh",
+            "Odisha"
+        ],
+        "correct_index": 1,
+        "explanation": "The Naxalbari movement began in 1967 in the Naxalbari village of West Bengal, initiated by a section of peasants demanding land redistribution.",
+        "ncert_page": 210,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q08",
+        "chapter_id": "soc_ch15",
+        "question": "The Naxalite movement is generally classified as which type of social movement?",
+        "options": [
+            "Redemptive movement",
+            "Reformist movement",
+            "Revolutionary movement",
+            "Regional movement"
+        ],
+        "correct_index": 2,
+        "explanation": "The Naxalite movement sought radical, revolutionary transformation of the agrarian structure through armed peasant uprising, making it a revolutionary movement.",
+        "ncert_page": 210,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q09",
+        "chapter_id": "soc_ch15",
+        "question": "The Chipko movement is best known as an example of which kind of social movement?",
+        "options": [
+            "Environmental movement",
+            "Trade union movement",
+            "Student movement",
+            "Religious movement"
+        ],
+        "correct_index": 0,
+        "explanation": "The Chipko movement, which began in the Himalayan region, is a classic example of an environmental movement centred on forest conservation.",
+        "ncert_page": 213,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q10",
+        "chapter_id": "soc_ch15",
+        "question": "The word 'Chipko' literally means:",
+        "options": [
+            "To cut",
+            "To hug/embrace",
+            "To plant",
+            "To burn"
+        ],
+        "correct_index": 1,
+        "explanation": "Chipko means 'to hug' or 'to embrace' in Hindi, referring to villagers hugging trees to prevent them from being felled by contractors.",
+        "ncert_page": 213,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q11",
+        "chapter_id": "soc_ch15",
+        "question": "In the Chipko movement, villagers protested against commercial felling of trees by:",
+        "options": [
+            "Filing court cases only",
+            "Hugging trees to prevent them from being cut down",
+            "Boycotting elections",
+            "Organising strikes in factories"
+        ],
+        "correct_index": 1,
+        "explanation": "Villagers, especially women, physically embraced trees to stop loggers from felling them, giving the movement its name and method.",
+        "ncert_page": 213,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q12",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following leaders is closely associated with the Chipko movement?",
+        "options": [
+            "Medha Patkar",
+            "Sunderlal Bahuguna",
+            "B.R. Ambedkar",
+            "Ela Bhatt"
+        ],
+        "correct_index": 1,
+        "explanation": "Sunderlal Bahuguna was a prominent leader and environmentalist associated with the Chipko movement in the Garhwal Himalayas.",
+        "ncert_page": 213,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q13",
+        "chapter_id": "soc_ch15",
+        "question": "Along with Sunderlal Bahuguna, which other leader played a key role in organising the Chipko movement in Gopeshwar?",
+        "options": [
+            "Chandi Prasad Bhatt",
+            "Jayaprakash Narayan",
+            "Baba Amte",
+            "Rajendra Singh"
+        ],
+        "correct_index": 0,
+        "explanation": "Chandi Prasad Bhatt organised local villagers and founded the Dasholi Gram Swarajya Sangh, playing a central role in the Chipko movement.",
+        "ncert_page": 213,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q14",
+        "chapter_id": "soc_ch15",
+        "question": "Gaura Devi is remembered in the context of the Chipko movement for:",
+        "options": [
+            "Leading women of Reni village to save trees from being felled",
+            "Founding SEWA",
+            "Writing the first sociology textbook",
+            "Leading the Narmada Bachao Andolan"
+        ],
+        "correct_index": 0,
+        "explanation": "Gaura Devi led a group of women from Reni village who confronted loggers and saved trees, becoming an iconic figure of the Chipko movement.",
+        "ncert_page": 214,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q15",
+        "chapter_id": "soc_ch15",
+        "question": "The Chipko movement highlighted the significant role of which group in environmental protection?",
+        "options": [
+            "Urban industrialists",
+            "Women of hill villages",
+            "Foreign NGOs",
+            "Government forest officers"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter emphasises how rural hill women were at the forefront of the Chipko movement, since they were most affected by deforestation and resource depletion.",
+        "ncert_page": 214,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q16",
+        "chapter_id": "soc_ch15",
+        "question": "The Narmada Bachao Andolan primarily opposed:",
+        "options": [
+            "Deforestation for paper mills",
+            "Large dam construction on the Narmada river and consequent displacement",
+            "Urban slum demolition",
+            "Mining in coastal areas"
+        ],
+        "correct_index": 1,
+        "explanation": "The Narmada Bachao Andolan opposed the construction of large dams, particularly the Sardar Sarovar Project, due to displacement and environmental concerns.",
+        "ncert_page": 215,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q17",
+        "chapter_id": "soc_ch15",
+        "question": "Who is the most prominent leader associated with the Narmada Bachao Andolan?",
+        "options": [
+            "Medha Patkar",
+            "Sunderlal Bahuguna",
+            "Anna Hazare",
+            "Ela Bhatt"
+        ],
+        "correct_index": 0,
+        "explanation": "Medha Patkar has been the leading figure of the Narmada Bachao Andolan, mobilising people affected by dam-related displacement.",
+        "ncert_page": 215,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q18",
+        "chapter_id": "soc_ch15",
+        "question": "The Narmada Bachao Andolan raised concerns primarily about:",
+        "options": [
+            "Rehabilitation of displaced people and environmental sustainability of large dams",
+            "Reservation policy in education",
+            "Minimum wages for factory workers",
+            "Reforms in the judiciary"
+        ],
+        "correct_index": 0,
+        "explanation": "The movement centred on the rights of people displaced by the dam and questioned the environmental and social costs of large-scale development projects.",
+        "ncert_page": 215,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q19",
+        "chapter_id": "soc_ch15",
+        "question": "Environmental movements like Chipko and Narmada Bachao Andolan are often cited as examples of:",
+        "options": [
+            "Old social movements",
+            "New social movements",
+            "Redemptive movements only",
+            "Trade union movements"
+        ],
+        "correct_index": 1,
+        "explanation": "Environmental movements are considered 'new social movements' because they go beyond class-based issues to address ecology, identity, and quality of life concerns.",
+        "ncert_page": 216,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q20",
+        "chapter_id": "soc_ch15",
+        "question": "'Old social movements', as discussed in the chapter, are typically associated with:",
+        "options": [
+            "Class-based struggles such as labour and peasant movements",
+            "Identity and lifestyle issues",
+            "Cyber activism",
+            "Consumer rights only"
+        ],
+        "correct_index": 0,
+        "explanation": "Old social movements are generally rooted in class conflict, such as workers' and peasants' struggles for economic rights and resource redistribution.",
+        "ncert_page": 216,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q21",
+        "chapter_id": "soc_ch15",
+        "question": "'New social movements' differ from 'old social movements' mainly because they:",
+        "options": [
+            "Are concerned only with wages and jobs",
+            "Focus on issues like environment, gender, and identity beyond class",
+            "Occur only in rural areas",
+            "Are organised exclusively by political parties"
+        ],
+        "correct_index": 1,
+        "explanation": "New social movements address concerns such as ecology, gender, ethnicity, and identity, moving beyond the traditional focus on class and economic redistribution.",
+        "ncert_page": 216,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q22",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following is described in the NCERT chapter as an important issue taken up by the women's movement in India?",
+        "options": [
+            "Dowry and domestic violence",
+            "Foreign trade policy",
+            "River water disputes between states",
+            "Coal mining regulations"
+        ],
+        "correct_index": 0,
+        "explanation": "The women's movement in India has actively campaigned against dowry, domestic violence, and workplace harassment as key issues affecting women's lives.",
+        "ncert_page": 218,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q23",
+        "chapter_id": "soc_ch15",
+        "question": "The pre-independence women's movement in India was largely linked with:",
+        "options": [
+            "The nationalist movement and social reform against practices like sati and child marriage",
+            "The trade union movement in the USA",
+            "The anti-apartheid movement in South Africa",
+            "The environmental movement in Europe"
+        ],
+        "correct_index": 0,
+        "explanation": "Before independence, women's issues were largely addressed within the framework of social reform movements and the nationalist struggle, opposing practices like sati and child marriage.",
+        "ncert_page": 218,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q24",
+        "chapter_id": "soc_ch15",
+        "question": "The post-independence phase of the women's movement in India, especially from the 1970s, is notable for:",
+        "options": [
+            "Complete disappearance of women's issues from public discourse",
+            "Emergence of autonomous women's groups addressing violence, dowry and legal reforms",
+            "A shift towards purely religious activities",
+            "Focus only on women's suffrage"
+        ],
+        "correct_index": 1,
+        "explanation": "From the 1970s onwards, autonomous women's groups emerged to address issues like dowry deaths, domestic violence, rape laws, and workplace harassment.",
+        "ncert_page": 218,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q25",
+        "chapter_id": "soc_ch15",
+        "question": "SEWA, mentioned in the NCERT chapter as a significant women's organisation, stands for:",
+        "options": [
+            "Social Empowerment for Women's Association",
+            "Self-Employed Women's Association",
+            "State Employment for Women's Advancement",
+            "Society for Equality of Women and Adolescents"
+        ],
+        "correct_index": 1,
+        "explanation": "SEWA stands for Self-Employed Women's Association, a trade union founded to support women working in the informal sector.",
+        "ncert_page": 219,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q26",
+        "chapter_id": "soc_ch15",
+        "question": "SEWA was founded by:",
+        "options": [
+            "Ela Bhatt",
+            "Medha Patkar",
+            "Gaura Devi",
+            "Kamaladevi Chattopadhyay"
+        ],
+        "correct_index": 0,
+        "explanation": "SEWA was founded by Ela Bhatt in Ahmedabad in 1972 to organise and support poor, self-employed women workers.",
+        "ncert_page": 219,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q27",
+        "chapter_id": "soc_ch15",
+        "question": "SEWA primarily works to organise and empower:",
+        "options": [
+            "Women working in the informal/unorganised sector",
+            "Women in corporate jobs",
+            "Women in government services",
+            "Women in the armed forces"
+        ],
+        "correct_index": 0,
+        "explanation": "SEWA focuses on women engaged in informal sector work such as vending, home-based production, and manual labour, helping them access credit, training and legal support.",
+        "ncert_page": 219,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q28",
+        "chapter_id": "soc_ch15",
+        "question": "The Dalit movement in India is largely associated with the leadership of:",
+        "options": [
+            "Mahatma Gandhi",
+            "B.R. Ambedkar",
+            "Jawaharlal Nehru",
+            "Rajendra Prasad"
+        ],
+        "correct_index": 1,
+        "explanation": "B.R. Ambedkar led the Dalit movement, campaigning against caste-based discrimination and untouchability and for the rights of Dalits.",
+        "ncert_page": 221,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q29",
+        "chapter_id": "soc_ch15",
+        "question": "The Mahad Satyagraha of 1927, led by Ambedkar, was primarily about:",
+        "options": [
+            "Access of Dalits to drink water from a public tank",
+            "Land reforms for peasants",
+            "Voting rights for women",
+            "Independence from British rule"
+        ],
+        "correct_index": 0,
+        "explanation": "The Mahad Satyagraha was organised by Ambedkar to assert the right of Dalits to draw water from the Chavdar Tank in Mahad, which was denied to them due to untouchability.",
+        "ncert_page": 221,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q30",
+        "chapter_id": "soc_ch15",
+        "question": "The temple entry movements led by Dalits were significant because they:",
+        "options": [
+            "Challenged the exclusion of Dalits from religious and public spaces",
+            "Focused only on economic reforms",
+            "Were led entirely by upper-caste reformers",
+            "Were unrelated to caste discrimination"
+        ],
+        "correct_index": 0,
+        "explanation": "Temple entry movements asserted the right of Dalits to enter Hindu temples, challenging the social exclusion and untouchability practised against them.",
+        "ncert_page": 221,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q31",
+        "chapter_id": "soc_ch15",
+        "question": "The Dalit movement can be broadly classified as an example of which category of social movement?",
+        "options": [
+            "Identity-based movement",
+            "Environmental movement",
+            "Purely economic movement",
+            "Religious redemptive movement only"
+        ],
+        "correct_index": 0,
+        "explanation": "The Dalit movement is regarded as an identity-based movement, since it centres on caste identity, dignity and the struggle against discrimination.",
+        "ncert_page": 222,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q32",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following best describes 'identity-based movements' as discussed in the chapter?",
+        "options": [
+            "Movements organised around caste, ethnicity, region or religion",
+            "Movements only about wage increases",
+            "Movements led exclusively by political parties",
+            "Movements limited to urban college students"
+        ],
+        "correct_index": 0,
+        "explanation": "Identity-based movements mobilise people around shared identities such as caste, ethnicity, region, or religion to demand recognition and rights.",
+        "ncert_page": 222,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q33",
+        "chapter_id": "soc_ch15",
+        "question": "Regional movements demanding separate statehood, as discussed in the chapter, are examples of movements based on:",
+        "options": [
+            "Regional and ethnic identity",
+            "Purely religious sentiment",
+            "International diplomacy",
+            "Sports culture"
+        ],
+        "correct_index": 0,
+        "explanation": "Regional movements often arise from a sense of neglect or distinct ethnic/cultural identity, leading to demands for autonomy or separate statehood.",
+        "ncert_page": 223,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q34",
+        "chapter_id": "soc_ch15",
+        "question": "The relationship between social movements and the state, as discussed in the chapter, is best characterised as:",
+        "options": [
+            "Always cooperative with no conflict",
+            "Complex, involving both confrontation and negotiation",
+            "Non-existent, since movements ignore the state",
+            "Purely legal with no political dimension"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter notes that social movements often confront the state while also engaging with it through negotiation, policy influence, and legal channels.",
+        "ncert_page": 224,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q35",
+        "chapter_id": "soc_ch15",
+        "question": "The role of NGOs in social movements, as noted in the chapter, includes:",
+        "options": [
+            "Providing organisational support, resources, and advocacy for movement causes",
+            "Replacing the need for collective action entirely",
+            "Preventing any government dialogue",
+            "Only functioning in foreign countries"
+        ],
+        "correct_index": 0,
+        "explanation": "NGOs often support social movements by mobilising resources, providing expertise, and helping in advocacy, though their role and relationship with grassroots movements can be complex.",
+        "ncert_page": 224,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q36",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following statements about the Chipko movement's outcome is correct?",
+        "options": [
+            "It led to the government imposing a ban on commercial tree felling in parts of the Himalayan region",
+            "It had no impact on forest policy",
+            "It resulted in immediate industrialisation of the hills",
+            "It was suppressed without any policy change"
+        ],
+        "correct_index": 0,
+        "explanation": "As a result of sustained protest, the government imposed a ban on commercial felling of trees in some Himalayan regions, showing the movement's policy impact.",
+        "ncert_page": 214,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q37",
+        "chapter_id": "soc_ch15",
+        "question": "The peasant movements discussed in the chapter primarily arose due to:",
+        "options": [
+            "Exploitation by landlords and unjust agrarian relations",
+            "Demand for higher education subsidies",
+            "Opposition to foreign films",
+            "Urban housing shortages"
+        ],
+        "correct_index": 0,
+        "explanation": "Peasant movements like Telangana and Naxalbari emerged from grievances against exploitative landlordism, high rents, and unjust agrarian relations.",
+        "ncert_page": 209,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q38",
+        "chapter_id": "soc_ch15",
+        "question": "The term 'social movement' in sociology is distinguished from a mere 'crowd' or 'riot' because it involves:",
+        "options": [
+            "Spontaneous and unplanned violence only",
+            "Sustained action with shared purpose and some organisation over time",
+            "A single day of protest with no follow-up",
+            "Actions with no participants"
+        ],
+        "correct_index": 1,
+        "explanation": "Unlike a spontaneous crowd or riot, a social movement involves sustained collective action with shared goals and organisational continuity over time.",
+        "ncert_page": 206,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q39",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following theoretical approaches focuses on how movements mobilise resources such as money, media, and manpower to achieve their goals?",
+        "options": [
+            "Resource mobilisation approach",
+            "Structural-functionalism only",
+            "Psychoanalytic theory",
+            "World systems theory"
+        ],
+        "correct_index": 0,
+        "explanation": "The resource mobilisation approach emphasises the importance of organisational resources, leadership, and strategy in the success of social movements.",
+        "ncert_page": 225,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q40",
+        "chapter_id": "soc_ch15",
+        "question": "The chapter suggests that collective action requires people to perceive a situation as:",
+        "options": [
+            "Unjust or in need of change, motivating them to act together",
+            "Completely satisfactory",
+            "Irrelevant to their lives",
+            "A matter for courts alone"
+        ],
+        "correct_index": 0,
+        "explanation": "Collective action arises when people share a perception of injustice or grievance and believe joint action can bring about change.",
+        "ncert_page": 207,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q41",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following was a key demand of the Telangana peasant movement?",
+        "options": [
+            "Redistribution of land from landlords to tillers",
+            "Introduction of English education",
+            "Reduction in railway fares",
+            "Formation of new universities"
+        ],
+        "correct_index": 0,
+        "explanation": "The Telangana movement demanded redistribution of land taken from exploitative landlords (deshmukhs) to the peasants who tilled it.",
+        "ncert_page": 210,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q42",
+        "chapter_id": "soc_ch15",
+        "question": "The Naxalbari uprising of 1967 was eventually suppressed by:",
+        "options": [
+            "State police action",
+            "International intervention",
+            "Natural disasters",
+            "Lack of peasant support from the outset"
+        ],
+        "correct_index": 0,
+        "explanation": "The Naxalbari uprising was met with state police action, though it inspired similar movements and the broader Naxalite movement across parts of India.",
+        "ncert_page": 211,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q43",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following best explains why the Chipko movement is considered significant beyond just tree protection?",
+        "options": [
+            "It raised broader questions about development, ecology, and local people's rights over forest resources",
+            "It only concerned taxation policies",
+            "It was limited to a single village with no wider impact",
+            "It focused solely on wildlife conservation in zoos"
+        ],
+        "correct_index": 0,
+        "explanation": "The Chipko movement raised larger questions about the model of development, ecological balance, and the rights of local communities over forest resources.",
+        "ncert_page": 214,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q44",
+        "chapter_id": "soc_ch15",
+        "question": "The Narmada Bachao Andolan is an example of a movement that combines:",
+        "options": [
+            "Environmental concerns with issues of displacement and human rights",
+            "Only trade union demands",
+            "Only religious reform",
+            "Only educational reform"
+        ],
+        "correct_index": 0,
+        "explanation": "The Narmada Bachao Andolan is notable for linking ecological concerns with the human rights of people displaced by large dam projects.",
+        "ncert_page": 215,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q45",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following is an issue addressed by contemporary women's movements in India, as per the chapter?",
+        "options": [
+            "Sexual harassment at the workplace",
+            "Trade tariffs on textiles",
+            "River interlinking projects",
+            "Space exploration"
+        ],
+        "correct_index": 0,
+        "explanation": "The women's movement in India has campaigned against sexual harassment at the workplace, contributing to legal reforms in this area.",
+        "ncert_page": 219,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q46",
+        "chapter_id": "soc_ch15",
+        "question": "Ambedkar's approach to the Dalit movement emphasised:",
+        "options": [
+            "Political rights, education, and annihilation of caste-based discrimination",
+            "Only religious rituals",
+            "Avoiding any political participation",
+            "Migration to other countries"
+        ],
+        "correct_index": 0,
+        "explanation": "Ambedkar emphasised education, political representation, and the annihilation of caste as central to Dalit emancipation.",
+        "ncert_page": 222,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q47",
+        "chapter_id": "soc_ch15",
+        "question": "Which statement about 'new social movements' and their relationship to traditional class politics is most accurate as per the chapter?",
+        "options": [
+            "New social movements often cut across class lines, uniting people around issues like gender or environment rather than class alone",
+            "New social movements are exclusively working-class movements",
+            "New social movements have no relation to identity",
+            "New social movements reject all forms of organisation"
+        ],
+        "correct_index": 0,
+        "explanation": "New social movements often unite participants from different class backgrounds around shared concerns such as environment, gender or identity, rather than class interest alone.",
+        "ncert_page": 217,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q48",
+        "chapter_id": "soc_ch15",
+        "question": "The chapter notes that social movements can lead to social change by:",
+        "options": [
+            "Influencing public policy, legislation, and social attitudes over time",
+            "Having no lasting effect on society",
+            "Only affecting the movement's own members",
+            "Occurring solely in isolation from society"
+        ],
+        "correct_index": 0,
+        "explanation": "Social movements can bring about social change by shaping public opinion, influencing legislation, and altering established social attitudes and practices.",
+        "ncert_page": 225,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q49",
+        "chapter_id": "soc_ch15",
+        "question": "Which of the following pairs is correctly matched with respect to social movements in India?",
+        "options": [
+            "Chipko movement - forest and environment protection",
+            "Naxalbari movement - women's rights",
+            "SEWA - dam displacement issues",
+            "Mahad Satyagraha - trade union wages"
+        ],
+        "correct_index": 0,
+        "explanation": "The Chipko movement is correctly associated with forest and environmental protection, unlike the other mismatched pairs.",
+        "ncert_page": 213,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c15_q50",
+        "chapter_id": "soc_ch15",
+        "question": "The overall theme of the chapter 'Social Movements' in the NCERT textbook is to illustrate that:",
+        "options": [
+            "Indian society has been shaped significantly by collective struggles of peasants, workers, women, Dalits, and environmentalists",
+            "Social change in India occurs only through government legislation",
+            "Social movements are irrelevant to sociology",
+            "India has never witnessed any organised collective action"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter demonstrates that diverse social movements—peasant, environmental, women's, and Dalit movements—have been central forces shaping social change and development in India.",
+        "ncert_page": 226,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    }
 ]

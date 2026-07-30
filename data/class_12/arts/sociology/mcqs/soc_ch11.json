@@ -1,552 +1,802 @@
 [
-  {
-    "mcq_id": "c11_q01",
-    "chapter_id": "c11",
-    "question": "What was the primary aim of the land reform measure known as 'abolition of intermediaries' after independence?",
-    "options": ["To remove zamindars and other rent-collecting intermediaries between the state and the cultivator", "To introduce cash crops in place of food grains", "To nationalise all agricultural land", "To promote joint farming societies"],
-    "correct_index": 0,
-    "explanation": "Abolition of intermediaries removed zamindars, jagirdars and other rent-collecting classes so that cultivators could have direct contact with the state, freeing a substantial part of agricultural surplus for investment.",
-    "ncert_page": 86,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q02",
-    "chapter_id": "c11",
-    "question": "The category of intermediaries removed after independence, who collected rent from peasants on behalf of the state, is generally referred to as:",
-    "options": ["Zamindars", "Kulaks", "Ryots", "Sharecroppers"],
-    "correct_index": 0,
-    "explanation": "Zamindars were the intermediary landholding class that collected land revenue from peasants for the colonial state and were abolished by land reform legislation after independence.",
-    "ncert_page": 86,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q03",
-    "chapter_id": "c11",
-    "question": "Which of the following was NOT one of the major categories of land reform legislation enacted after independence?",
-    "options": ["Abolition of intermediaries", "Tenancy reforms", "Ceiling on land holdings", "Nationalisation of banks"],
-    "correct_index": 3,
-    "explanation": "Nationalisation of banks was a separate economic policy, not part of the three major land reform categories, which were abolition of intermediaries, tenancy reforms, and ceiling on land holdings.",
-    "ncert_page": 87,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q04",
-    "chapter_id": "c11",
-    "question": "Land ceiling laws were intended to:",
-    "options": ["Fix an upper limit on the amount of land a family could hold and redistribute the surplus", "Fix a minimum size of landholding for every family", "Ban the sale of agricultural land", "Provide free irrigation to all farmers"],
-    "correct_index": 0,
-    "explanation": "Ceiling laws fixed the maximum size of landholding a family could retain, with the surplus land supposed to be redistributed among landless and marginal cultivators.",
-    "ncert_page": 87,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q05",
-    "chapter_id": "c11",
-    "question": "According to the chapter, land reform in India generally had which outcome?",
-    "options": ["It was implemented fairly successfully and completely across all states", "It was very effectively resisted by landowning groups and unevenly implemented", "It had no impact on agrarian relations", "It was implemented only in tribal areas"],
-    "correct_index": 1,
-    "explanation": "The chapter notes that land reforms were resisted by landowning classes who used political influence, loopholes, and delays to blunt their impact, resulting in uneven implementation across states.",
-    "ncert_page": 87,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q06",
-    "chapter_id": "c11",
-    "question": "Which state is cited in the chapter as a relatively successful example of land reform implementation, especially due to sustained political mobilisation?",
-    "options": ["West Bengal", "Rajasthan", "Bihar", "Madhya Pradesh"],
-    "correct_index": 0,
-    "explanation": "West Bengal, along with Kerala, is cited as relatively successful in implementing land reforms because of sustained political mobilisation and left-front governments committed to tenancy reform (Operation Barga).",
-    "ncert_page": 87,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q07",
-    "chapter_id": "c11",
-    "question": "The 'Operation Barga' programme in West Bengal was aimed at:",
-    "options": ["Registering and protecting the rights of sharecroppers (bargadars)", "Distributing surplus land under ceiling laws", "Abolishing zamindari in tribal belts", "Promoting cash crop cultivation"],
-    "correct_index": 0,
-    "explanation": "Operation Barga was a programme to record the names of sharecroppers (bargadars) so they could claim legal protection against eviction and secure a fairer share of the produce.",
-    "ncert_page": 87,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q08",
-    "chapter_id": "c11",
-    "question": "The Green Revolution refers to:",
-    "options": ["The introduction of high-yielding variety seeds along with fertilizers, pesticides and irrigation to boost agricultural production", "The movement for organic farming across India", "The afforestation programme launched by the government", "The nationalisation of agricultural land"],
-    "correct_index": 0,
-    "explanation": "The Green Revolution involved new agricultural technology packages including high-yielding variety (HYV) seeds, chemical fertilizers, pesticides and assured irrigation, dramatically raising output of wheat and rice.",
-    "ncert_page": 89,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q09",
-    "chapter_id": "c11",
-    "question": "Which regions of India were most significantly affected by the Green Revolution?",
-    "options": ["Punjab, Haryana and western Uttar Pradesh", "Kerala and Tamil Nadu", "Odisha and Jharkhand", "Assam and West Bengal"],
-    "correct_index": 0,
-    "explanation": "Punjab, Haryana and western Uttar Pradesh were the regions with the most significant impact of the Green Revolution, owing to assured irrigation and suitable agro-climatic conditions.",
-    "ncert_page": 89,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q10",
-    "chapter_id": "c11",
-    "question": "Which crops were the primary focus of the Green Revolution's high-yielding variety programme?",
-    "options": ["Wheat and rice", "Cotton and jute", "Tea and coffee", "Millets and pulses"],
-    "correct_index": 0,
-    "explanation": "The Green Revolution primarily targeted wheat and rice production through HYV seeds, with wheat showing the most dramatic gains.",
-    "ncert_page": 89,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q11",
-    "chapter_id": "c11",
-    "question": "What was one major consequence of the Green Revolution on the agrarian class structure?",
-    "options": ["It promoted capitalist farming and increased economic differentiation among the peasantry", "It eliminated the class of agricultural labourers entirely", "It made all peasants equal in landholding size", "It ended the practice of hiring wage labour"],
-    "correct_index": 0,
-    "explanation": "The Green Revolution promoted capitalist farming among rich peasants who could invest in new technology, deepening economic differentiation and the gap between rich and poor peasants.",
-    "ncert_page": 90,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q12",
-    "chapter_id": "c11",
-    "question": "According to the chapter, which class of peasants benefited the most from Green Revolution technology?",
-    "options": ["Rich peasants who had the capital to invest in new inputs", "Landless agricultural labourers", "Tenant sharecroppers", "Subsistence marginal farmers"],
-    "correct_index": 0,
-    "explanation": "Rich peasants with capital resources could afford HYV seeds, fertilizers, pesticides and irrigation infrastructure, allowing them to gain disproportionately from the Green Revolution.",
-    "ncert_page": 90,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q13",
-    "chapter_id": "c11",
-    "question": "The term used to describe farmers who employ hired labour and use machinery for profit-oriented agriculture, as an outcome of Green Revolution changes, is:",
-    "options": ["Capitalist farmers", "Bonded labourers", "Jajmans", "Sharecroppers"],
-    "correct_index": 0,
-    "explanation": "The chapter describes the emergence of 'capitalist farmers' — rich peasants who use hired labour and machinery and produce primarily for the market, a class that grew due to Green Revolution technology.",
-    "ncert_page": 90,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q14",
-    "chapter_id": "c11",
-    "question": "Daniel Thorner's classic study of the agrarian class structure identified three main classes of agriculturists. Which of the following is NOT one of them?",
-    "options": ["Malik (landowners who do not cultivate)", "Kisan (peasants who own and cultivate)", "Mazdoor (labourers who cultivate lands not their own)", "Sarpanch (elected village head)"],
-    "correct_index": 3,
-    "explanation": "Daniel Thorner classified agriculturists into three broad classes — Malik, Kisan, and Mazdoor — based on their relationship to the land; Sarpanch is a political-administrative role, not an agrarian class.",
-    "ncert_page": 91,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q15",
-    "chapter_id": "c11",
-    "question": "In Thorner's classification, the term 'Maliks' refers to:",
-    "options": ["Landowners who derive income from land through renting it out or by hiring labour, without doing manual work themselves", "Owner-cultivators who work their own small plots", "Landless labourers who work for wages", "Government revenue officials"],
-    "correct_index": 0,
-    "explanation": "Maliks are landowners who earn income primarily through property rights over land — by leasing it out to tenants or employing labourers — without themselves performing manual cultivation.",
-    "ncert_page": 91,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q16",
-    "chapter_id": "c11",
-    "question": "Which term describes agricultural workers who are hired on a daily or seasonal basis rather than being permanently attached to a landowner?",
-    "options": ["Casual labourers", "Bonded labourers", "Jajmans", "Zamindars"],
-    "correct_index": 0,
-    "explanation": "Casual labourers are hired on a temporary, daily-wage basis for agricultural operations, in contrast to permanently attached or bonded labourers.",
-    "ncert_page": 93,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q17",
-    "chapter_id": "c11",
-    "question": "The process by which permanent farm servants are increasingly being replaced by short-term or casual wage labourers is termed:",
-    "options": ["Casualisation of agricultural labour", "Feudalisation of labour", "Collectivisation", "Zamindarisation"],
-    "correct_index": 0,
-    "explanation": "Casualisation of agricultural labour refers to the shift away from long-term, permanently attached farm servants towards labourers hired temporarily for specific tasks or seasons.",
-    "ncert_page": 93,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q18",
-    "chapter_id": "c11",
-    "question": "Bonded labour, as discussed in the chapter, refers to a system in which:",
-    "options": ["A labourer works for a landowner to repay a debt, often extending over generations", "Labourers are paid weekly wages in cash", "Farmers form cooperatives to share labour freely", "Government employs labourers on public works"],
-    "correct_index": 0,
-    "explanation": "Bonded labour is a system of forced labour where a person, often from a poor or oppressed caste, works to repay a debt but remains trapped due to exploitative terms, sometimes passing the bondage to future generations.",
-    "ncert_page": 94,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q19",
-    "chapter_id": "c11",
-    "question": "Despite being legally abolished, bonded labour persists in parts of rural India mainly because of:",
-    "options": ["Chronic indebtedness and lack of alternative livelihood options among the poor", "Strict government enforcement of contracts", "High literacy rates among agricultural labourers", "Excess of agricultural land available to the poor"],
-    "correct_index": 0,
-    "explanation": "The chapter notes that despite legal abolition, bonded labour persists because chronic poverty and indebtedness leave poor labourers with little bargaining power or alternative options.",
-    "ncert_page": 94,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q20",
-    "chapter_id": "c11",
-    "question": "The jajmani system traditionally refers to:",
-    "options": ["An exchange relationship in which service castes provided goods and services to landowning patrons in return for grain, food or other payment in kind", "A system of land taxation by the colonial state", "A cooperative bank for agricultural credit", "A formal wage-labour contract system"],
-    "correct_index": 0,
-    "explanation": "The jajmani system was a patron-client relationship where 'jajmans' (patrons, usually landowning families) received services from various castes ('kamins' or service providers) in return for payment in kind, often grain.",
-    "ncert_page": 95,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q21",
-    "chapter_id": "c11",
-    "question": "How has the jajmani system changed in contemporary rural India, according to the chapter?",
-    "options": ["It has substantially declined and been replaced by cash-based market transactions", "It has become stronger and more widespread", "It has been made mandatory by law", "It has completely disappeared with no trace"],
-    "correct_index": 0,
-    "explanation": "The chapter describes the gradual decline of the jajmani system as market relations, cash payments and mobility have replaced traditional patron-client exchange obligations in most villages.",
-    "ncert_page": 95,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q22",
-    "chapter_id": "c11",
-    "question": "Rural indebtedness in India has historically been closely linked to:",
-    "options": ["Dependence on moneylenders for credit at high interest rates", "Excess of institutional bank credit to farmers", "Government subsidies on all agricultural inputs", "Complete absence of the need for credit"],
-    "correct_index": 0,
-    "explanation": "Due to limited access to institutional credit, many rural cultivators historically depended on moneylenders who charged exorbitant interest rates, deepening rural indebtedness.",
-    "ncert_page": 96,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q23",
-    "chapter_id": "c11",
-    "question": "The cooperative movement in rural India was primarily intended to:",
-    "options": ["Provide farmers with institutional credit and reduce dependence on exploitative moneylenders", "Replace all private landholding with state ownership", "Promote large-scale industrialisation in villages", "Eliminate the practice of agriculture altogether"],
-    "correct_index": 0,
-    "explanation": "The cooperative movement, especially cooperative credit societies, aimed to provide farmers with an institutional alternative to moneylenders, offering credit at reasonable rates.",
-    "ncert_page": 96,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q24",
-    "chapter_id": "c11",
-    "question": "Which of the following is cited in the chapter as a well-known success story of rural cooperatives, particularly in dairy farming?",
-    "options": ["The Amul cooperative movement in Gujarat", "The Bhoodan movement in Bihar", "The Chipko movement in Uttarakhand", "The Narmada Bachao Andolan"],
-    "correct_index": 0,
-    "explanation": "The Amul cooperative in Gujarat, part of the 'White Revolution' or Operation Flood, is a widely cited example of a successful rural cooperative that transformed dairy farming and rural incomes.",
-    "ncert_page": 97,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q25",
-    "chapter_id": "c11",
-    "question": "Land is described in the chapter as significant in rural society not merely as an economic resource but also as:",
-    "options": ["A source of social status, security and power", "A purely religious symbol", "An object with no social value", "A form of currency used for trade"],
-    "correct_index": 0,
-    "explanation": "The chapter emphasises that land in rural India is a source of social prestige, political power and economic security, not merely a productive asset, which is why ownership patterns are central to rural stratification.",
-    "ncert_page": 92,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q26",
-    "chapter_id": "c11",
-    "question": "The Bharatiya Kisan Union (BKU) is an example of:",
-    "options": ["A farmers' movement that mobilised rich and middle peasants, especially in western Uttar Pradesh, for better prices and lower input costs", "A government scheme for land redistribution", "A cooperative bank established for tribal farmers", "A programme for eliminating bonded labour"],
-    "correct_index": 0,
-    "explanation": "The BKU, led by figures like Mahendra Singh Tikait, mobilised farmers particularly in western Uttar Pradesh, demanding remunerative prices for crops, lower electricity rates, and loan waivers.",
-    "ncert_page": 98,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q27",
-    "chapter_id": "c11",
-    "question": "Farmers' movements like the BKU in the 1980s were primarily driven by which section of the rural population?",
-    "options": ["Rich and middle peasants who had benefited from the Green Revolution but felt cheated by low crop prices and high input costs", "Landless agricultural labourers demanding land redistribution", "Urban industrial workers", "Zamindars seeking restoration of their estates"],
-    "correct_index": 0,
-    "explanation": "The new farmers' movements were largely led by rich and middle peasants from Green Revolution belts who sought remunerative prices for their produce and opposed the rising cost of agricultural inputs.",
-    "ncert_page": 98,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q28",
-    "chapter_id": "c11",
-    "question": "Which of the following best describes 'contract farming' as discussed in the context of globalization's impact on agriculture?",
-    "options": ["An arrangement where farmers grow crops for a company under a pre-agreed contract specifying price, quality and quantity", "A system where the government owns all farmland", "A method of sharing land equally among heirs", "A traditional barter system between villages"],
-    "correct_index": 0,
-    "explanation": "Contract farming involves agribusiness companies entering agreements with farmers to grow specific crops to specified standards, often supplying inputs and buying the produce at a pre-fixed price.",
-    "ncert_page": 100,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q29",
-    "chapter_id": "c11",
-    "question": "According to the chapter, the entry of multinational companies (MNCs) into Indian agriculture through contract farming has led to concerns about:",
-    "options": ["Farmers' loss of control over cropping choices and increased dependency on corporate buyers", "Complete elimination of rural poverty", "Guaranteed equal profits for all farmers", "Abolition of the market economy"],
-    "correct_index": 0,
-    "explanation": "Critics note that contract farming arrangements with MNCs can reduce farmers' autonomy over what to grow and make them dependent on corporate terms, raising concerns about unequal bargaining power.",
-    "ncert_page": 100,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q30",
-    "chapter_id": "c11",
-    "question": "Globalisation's impact on Indian agriculture, as discussed in the chapter, includes:",
-    "options": ["Increased exposure of farmers to volatile international markets and prices", "Complete insulation of Indian farmers from world markets", "A ban on the export of agricultural produce", "The abolition of the Public Distribution System"],
-    "correct_index": 0,
-    "explanation": "With liberalisation, Indian farmers became more exposed to fluctuations in international commodity prices, which affected their incomes, especially for export-oriented cash crops.",
-    "ncert_page": 100,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q31",
-    "chapter_id": "c11",
-    "question": "One documented social consequence of globalisation and agrarian distress discussed in the chapter is:",
-    "options": ["A wave of farmer suicides in states like Maharashtra, Andhra Pradesh, Karnataka and Punjab", "A sharp rise in the number of zamindars", "A permanent halt to rural-urban migration", "The disappearance of agricultural labour altogether"],
-    "correct_index": 0,
-    "explanation": "The chapter refers to farmer suicides linked to debt, crop failure, and falling prices for cash crops in states such as Maharashtra, Andhra Pradesh, Karnataka and Punjab as a stark indicator of agrarian distress.",
-    "ncert_page": 101,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q32",
-    "chapter_id": "c11",
-    "question": "Rural-to-urban migration in India is primarily driven by which factor, as discussed in the chapter?",
-    "options": ["Lack of adequate livelihood opportunities and land in villages", "Excess of agricultural land in rural areas", "Government bans on rural employment", "Complete absence of caste discrimination in cities"],
-    "correct_index": 0,
-    "explanation": "The lack of sufficient land, limited non-farm employment, and seasonal nature of agricultural work push many rural residents, especially landless and marginal families, to migrate to cities in search of work.",
-    "ncert_page": 102,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q33",
-    "chapter_id": "c11",
-    "question": "'Seasonal migration' among agricultural labourers refers to:",
-    "options": ["Temporary movement to other regions or cities for work during the agricultural off-season", "Permanent relocation of entire villages", "Migration only during festivals", "Migration of landlords to cities for leisure"],
-    "correct_index": 0,
-    "explanation": "Seasonal migration involves agricultural labourers moving temporarily, often to cities or other agriculturally active regions, during periods when there is little work available in their home villages, returning later.",
-    "ncert_page": 102,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q34",
-    "chapter_id": "c11",
-    "question": "The chapter notes that women in rural agrarian economies:",
-    "options": ["Contribute significantly to agricultural labour but often remain unrecognised as 'farmers' and have limited land ownership rights", "Have always had equal land ownership rights with men", "Do not participate in agricultural work at all", "Only work in non-agricultural rural industries"],
-    "correct_index": 0,
-    "explanation": "Despite performing a large share of agricultural tasks, rural women are often not officially recognised as cultivators or farmers, and patriarchal inheritance patterns limit their land ownership.",
-    "ncert_page": 103,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q35",
-    "chapter_id": "c11",
-    "question": "The 'feminisation of agriculture' refers to the trend in which:",
-    "options": ["Increasing numbers of women take on agricultural work as men migrate to cities for non-farm employment", "Women are legally barred from farming", "Agricultural land is exclusively inherited by daughters", "Male labour replaces female labour in the fields"],
-    "correct_index": 0,
-    "explanation": "As men increasingly migrate to urban areas for non-agricultural work, women are left to manage agricultural operations, a phenomenon often referred to as the feminisation of agriculture.",
-    "ncert_page": 103,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q36",
-    "chapter_id": "c11",
-    "question": "How did the Green Revolution affect regional inequality within India?",
-    "options": ["It increased regional inequality by concentrating agricultural growth in irrigated areas like Punjab while other regions lagged", "It equalised agricultural growth across all regions of India", "It had no effect on regional development patterns", "It shifted all agricultural investment to hilly and tribal regions"],
-    "correct_index": 0,
-    "explanation": "Because the Green Revolution technology package depended heavily on assured irrigation, its benefits were concentrated in irrigated regions, widening the gap with rain-fed and less-developed agricultural areas.",
-    "ncert_page": 90,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q37",
-    "chapter_id": "c11",
-    "question": "Tribal societies undergoing agrarian change, as discussed in the chapter, have often faced which specific issue?",
-    "options": ["Alienation of land to non-tribal settlers and moneylenders despite legal protections", "Complete absence of any land-related conflict", "Guaranteed ownership of all forest land by the state", "Exemption from all forms of agricultural taxation"],
-    "correct_index": 0,
-    "explanation": "Despite constitutional and legal safeguards, tribal communities have frequently lost land to non-tribal settlers, moneylenders and land grabbers, a process referred to as land alienation.",
-    "ncert_page": 104,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q38",
-    "chapter_id": "c11",
-    "question": "The shift from traditional shifting cultivation to settled agriculture among many tribal communities has generally led to:",
-    "options": ["Loss of access to forest resources and changes in tribal livelihood patterns", "An increase in shifting cultivation across all of India", "The complete disappearance of tribal identity", "A ban on all forms of farming among tribal groups"],
-    "correct_index": 0,
-    "explanation": "As forest lands were reserved or converted for other uses, and settled agriculture was promoted, many tribal groups lost traditional access to forest resources central to shifting cultivation and their way of life.",
-    "ncert_page": 104,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q39",
-    "chapter_id": "c11",
-    "question": "Which of the following best describes 'differentiation of the peasantry'?",
-    "options": ["The process by which economic inequality grows within the peasant class, dividing it into rich, middle and poor peasants", "The classification of peasants purely by caste", "The equal redistribution of land among all peasants", "The complete merging of all peasant categories into one uniform class"],
-    "correct_index": 0,
-    "explanation": "Differentiation of the peasantry refers to the growing economic inequality among cultivators, driven especially by uneven access to land, capital, and Green Revolution technology, creating distinct classes of rich, middle and poor peasants.",
-    "ncert_page": 91,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q40",
-    "chapter_id": "c11",
-    "question": "Tenancy reform laws after independence primarily aimed to:",
-    "options": ["Give ownership rights or secure tenure to tenant cultivators who worked land owned by others", "Increase the rent paid by tenants to landlords", "Abolish the practice of tenancy altogether without protecting tenants", "Transfer all tenanted land back to the colonial government"],
-    "correct_index": 0,
-    "explanation": "Tenancy reforms sought to regulate rent, provide security of tenure, and in some cases confer ownership rights on tenants who cultivated land belonging to absentee or non-cultivating landowners.",
-    "ncert_page": 87,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q41",
-    "chapter_id": "c11",
-    "question": "'Benami transfers' of land, mentioned as a way landlords evaded ceiling laws, refers to:",
-    "options": ["Transferring land ownership on paper to relatives or fictitious persons to escape the legal land ceiling", "Officially registering land under the government's name", "Donating land voluntarily to landless labourers", "Selling land openly at market price"],
-    "correct_index": 0,
-    "explanation": "To circumvent land ceiling laws, many large landowners transferred land nominally ('benami') to relatives, servants or fictitious names while retaining actual control, undermining the reform's redistributive intent.",
-    "ncert_page": 88,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q42",
-    "chapter_id": "c11",
-    "question": "Why is the reliability of official land records considered an important issue in the context of tenancy reform in India?",
-    "options": ["Because many tenants were not recorded as tenants, making it difficult for them to claim legal protection or ownership", "Because all land records in India are digitised and perfectly accurate", "Because tenants never needed legal protection", "Because land records are irrelevant to tenancy reform"],
-    "correct_index": 0,
-    "explanation": "Since many tenancy arrangements were informal or concealed by landlords to avoid tenancy laws, official records often failed to capture actual tenants, weakening their ability to claim legal rights.",
-    "ncert_page": 88,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q43",
-    "chapter_id": "c11",
-    "question": "The chapter describes agricultural labourers as forming which category within the rural class structure?",
-    "options": ["A class that owns little or no land and survives mainly by selling its labour for wages", "A class that owns the largest landholdings in villages", "A class exempted from working in agriculture", "The wealthiest section of rural society"],
-    "correct_index": 0,
-    "explanation": "Agricultural labourers are typically landless or near-landless and depend primarily on wage labour on others' land for their livelihood, making them among the most economically vulnerable rural groups.",
-    "ncert_page": 92,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q44",
-    "chapter_id": "c11",
-    "question": "The category of 'middle peasants' in the agrarian class structure typically refers to those who:",
-    "options": ["Own moderate-sized landholdings and cultivate mainly with family labour, sometimes hiring additional workers", "Own no land at all and work only as wage labourers", "Are absentee landlords living in cities", "Control the largest estates in the region"],
-    "correct_index": 0,
-    "explanation": "Middle peasants own enough land to be largely self-sufficient, relying primarily on family labour while occasionally hiring additional workers during peak agricultural seasons.",
-    "ncert_page": 91,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q45",
-    "chapter_id": "c11",
-    "question": "Which of the following statements about the impact of the Green Revolution on rural labour relations is accurate, as per the chapter?",
-    "options": ["It contributed to a shift from traditional patron-client ties towards more impersonal, cash-based wage relationships", "It reinforced traditional jajmani obligations permanently", "It eliminated the need for hired agricultural labour", "It made all agricultural transactions barter-based"],
-    "correct_index": 0,
-    "explanation": "As agriculture became more commercialised through the Green Revolution, traditional patron-client obligations weakened and were increasingly replaced by cash wages and contractual labour relations.",
-    "ncert_page": 95,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q46",
-    "chapter_id": "c11",
-    "question": "The Public Distribution System (PDS) is relevant to the chapter's discussion of rural society mainly because:",
-    "options": ["It affects food security for the rural poor and is linked to debates on agricultural policy and subsidies", "It regulates industrial production in cities", "It is unrelated to rural livelihoods", "It replaced land reform legislation entirely"],
-    "correct_index": 0,
-    "explanation": "The PDS, which distributes subsidised food grains, is discussed in relation to food security debates for the rural poor and landless, especially amid agrarian distress and market liberalisation.",
-    "ncert_page": 101,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q47",
-    "chapter_id": "c11",
-    "question": "Which of the following best captures the chapter's overall argument about change in rural Indian society since independence?",
-    "options": ["Rural society has undergone complex and uneven changes driven by land reform, the Green Revolution, and globalisation, producing new forms of inequality alongside some gains", "Rural society has remained entirely unchanged since independence", "All rural inequality was eliminated through land reforms", "Agriculture has become irrelevant to the Indian economy"],
-    "correct_index": 0,
-    "explanation": "The chapter's central argument is that multiple overlapping processes — land reform, Green Revolution technology, and globalisation — have transformed rural society unevenly, reducing some traditional inequalities while creating new economic disparities.",
-    "ncert_page": 105,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q48",
-    "chapter_id": "c11",
-    "question": "The term 'agrarian structure' as used in the chapter refers to:",
-    "options": ["The pattern of landholding, tenancy, and labour relationships that organise agricultural production in a society", "The physical layout of village roads and buildings", "The administrative structure of the Ministry of Agriculture", "The seasonal calendar of crop rotation"],
-    "correct_index": 0,
-    "explanation": "Agrarian structure denotes the underlying pattern of relationships around landownership, tenancy and labour that shapes how agricultural production and rural social relations are organised.",
-    "ncert_page": 86,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q49",
-    "chapter_id": "c11",
-    "question": "According to the chapter, one reason poor peasants and agricultural labourers found it difficult to benefit from cooperative credit societies was:",
-    "options": ["Cooperatives were often dominated by richer, more influential villagers who cornered most of the benefits", "Cooperative societies refused to lend to anyone", "The government banned poor peasants from joining cooperatives", "Cooperatives operated only in urban areas"],
-    "correct_index": 0,
-    "explanation": "The chapter notes that rural cooperatives were frequently dominated by economically and socially powerful villagers, meaning poorer members often had limited access to loans and other benefits.",
-    "ncert_page": 97,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c11_q50",
-    "chapter_id": "c11",
-    "question": "The chapter concludes that understanding rural social change in India requires attention to:",
-    "options": ["The interconnected roles of land, labour, caste, gender, and market forces in shaping agrarian relations", "Only the technological aspects of farming", "Solely the legal texts of land reform acts", "Urban industrial policy alone"],
-    "correct_index": 0,
-    "explanation": "The chapter emphasises a holistic sociological approach, showing that land, labour relations, caste hierarchies, gender roles and market forces are all interlinked in shaping rural social change.",
-    "ncert_page": 105,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  }
+    {
+        "mcq_id": "c11_q01",
+        "chapter_id": "soc_ch11",
+        "question": "What was the primary aim of the land reform measure known as 'abolition of intermediaries' after independence?",
+        "options": [
+            "To remove zamindars and other rent-collecting intermediaries between the state and the cultivator",
+            "To introduce cash crops in place of food grains",
+            "To nationalise all agricultural land",
+            "To promote joint farming societies"
+        ],
+        "correct_index": 0,
+        "explanation": "Abolition of intermediaries removed zamindars, jagirdars and other rent-collecting classes so that cultivators could have direct contact with the state, freeing a substantial part of agricultural surplus for investment.",
+        "ncert_page": 86,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q02",
+        "chapter_id": "soc_ch11",
+        "question": "The category of intermediaries removed after independence, who collected rent from peasants on behalf of the state, is generally referred to as:",
+        "options": [
+            "Zamindars",
+            "Kulaks",
+            "Ryots",
+            "Sharecroppers"
+        ],
+        "correct_index": 0,
+        "explanation": "Zamindars were the intermediary landholding class that collected land revenue from peasants for the colonial state and were abolished by land reform legislation after independence.",
+        "ncert_page": 86,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q03",
+        "chapter_id": "soc_ch11",
+        "question": "Which of the following was NOT one of the major categories of land reform legislation enacted after independence?",
+        "options": [
+            "Abolition of intermediaries",
+            "Tenancy reforms",
+            "Ceiling on land holdings",
+            "Nationalisation of banks"
+        ],
+        "correct_index": 3,
+        "explanation": "Nationalisation of banks was a separate economic policy, not part of the three major land reform categories, which were abolition of intermediaries, tenancy reforms, and ceiling on land holdings.",
+        "ncert_page": 87,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q04",
+        "chapter_id": "soc_ch11",
+        "question": "Land ceiling laws were intended to:",
+        "options": [
+            "Fix an upper limit on the amount of land a family could hold and redistribute the surplus",
+            "Fix a minimum size of landholding for every family",
+            "Ban the sale of agricultural land",
+            "Provide free irrigation to all farmers"
+        ],
+        "correct_index": 0,
+        "explanation": "Ceiling laws fixed the maximum size of landholding a family could retain, with the surplus land supposed to be redistributed among landless and marginal cultivators.",
+        "ncert_page": 87,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q05",
+        "chapter_id": "soc_ch11",
+        "question": "According to the chapter, land reform in India generally had which outcome?",
+        "options": [
+            "It was implemented fairly successfully and completely across all states",
+            "It was very effectively resisted by landowning groups and unevenly implemented",
+            "It had no impact on agrarian relations",
+            "It was implemented only in tribal areas"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter notes that land reforms were resisted by landowning classes who used political influence, loopholes, and delays to blunt their impact, resulting in uneven implementation across states.",
+        "ncert_page": 87,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q06",
+        "chapter_id": "soc_ch11",
+        "question": "Which state is cited in the chapter as a relatively successful example of land reform implementation, especially due to sustained political mobilisation?",
+        "options": [
+            "West Bengal",
+            "Rajasthan",
+            "Bihar",
+            "Madhya Pradesh"
+        ],
+        "correct_index": 0,
+        "explanation": "West Bengal, along with Kerala, is cited as relatively successful in implementing land reforms because of sustained political mobilisation and left-front governments committed to tenancy reform (Operation Barga).",
+        "ncert_page": 87,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q07",
+        "chapter_id": "soc_ch11",
+        "question": "The 'Operation Barga' programme in West Bengal was aimed at:",
+        "options": [
+            "Registering and protecting the rights of sharecroppers (bargadars)",
+            "Distributing surplus land under ceiling laws",
+            "Abolishing zamindari in tribal belts",
+            "Promoting cash crop cultivation"
+        ],
+        "correct_index": 0,
+        "explanation": "Operation Barga was a programme to record the names of sharecroppers (bargadars) so they could claim legal protection against eviction and secure a fairer share of the produce.",
+        "ncert_page": 87,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q08",
+        "chapter_id": "soc_ch11",
+        "question": "The Green Revolution refers to:",
+        "options": [
+            "The introduction of high-yielding variety seeds along with fertilizers, pesticides and irrigation to boost agricultural production",
+            "The movement for organic farming across India",
+            "The afforestation programme launched by the government",
+            "The nationalisation of agricultural land"
+        ],
+        "correct_index": 0,
+        "explanation": "The Green Revolution involved new agricultural technology packages including high-yielding variety (HYV) seeds, chemical fertilizers, pesticides and assured irrigation, dramatically raising output of wheat and rice.",
+        "ncert_page": 89,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q09",
+        "chapter_id": "soc_ch11",
+        "question": "Which regions of India were most significantly affected by the Green Revolution?",
+        "options": [
+            "Punjab, Haryana and western Uttar Pradesh",
+            "Kerala and Tamil Nadu",
+            "Odisha and Jharkhand",
+            "Assam and West Bengal"
+        ],
+        "correct_index": 0,
+        "explanation": "Punjab, Haryana and western Uttar Pradesh were the regions with the most significant impact of the Green Revolution, owing to assured irrigation and suitable agro-climatic conditions.",
+        "ncert_page": 89,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q10",
+        "chapter_id": "soc_ch11",
+        "question": "Which crops were the primary focus of the Green Revolution's high-yielding variety programme?",
+        "options": [
+            "Wheat and rice",
+            "Cotton and jute",
+            "Tea and coffee",
+            "Millets and pulses"
+        ],
+        "correct_index": 0,
+        "explanation": "The Green Revolution primarily targeted wheat and rice production through HYV seeds, with wheat showing the most dramatic gains.",
+        "ncert_page": 89,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q11",
+        "chapter_id": "soc_ch11",
+        "question": "What was one major consequence of the Green Revolution on the agrarian class structure?",
+        "options": [
+            "It promoted capitalist farming and increased economic differentiation among the peasantry",
+            "It eliminated the class of agricultural labourers entirely",
+            "It made all peasants equal in landholding size",
+            "It ended the practice of hiring wage labour"
+        ],
+        "correct_index": 0,
+        "explanation": "The Green Revolution promoted capitalist farming among rich peasants who could invest in new technology, deepening economic differentiation and the gap between rich and poor peasants.",
+        "ncert_page": 90,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q12",
+        "chapter_id": "soc_ch11",
+        "question": "According to the chapter, which class of peasants benefited the most from Green Revolution technology?",
+        "options": [
+            "Rich peasants who had the capital to invest in new inputs",
+            "Landless agricultural labourers",
+            "Tenant sharecroppers",
+            "Subsistence marginal farmers"
+        ],
+        "correct_index": 0,
+        "explanation": "Rich peasants with capital resources could afford HYV seeds, fertilizers, pesticides and irrigation infrastructure, allowing them to gain disproportionately from the Green Revolution.",
+        "ncert_page": 90,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q13",
+        "chapter_id": "soc_ch11",
+        "question": "The term used to describe farmers who employ hired labour and use machinery for profit-oriented agriculture, as an outcome of Green Revolution changes, is:",
+        "options": [
+            "Capitalist farmers",
+            "Bonded labourers",
+            "Jajmans",
+            "Sharecroppers"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter describes the emergence of 'capitalist farmers' — rich peasants who use hired labour and machinery and produce primarily for the market, a class that grew due to Green Revolution technology.",
+        "ncert_page": 90,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q14",
+        "chapter_id": "soc_ch11",
+        "question": "Daniel Thorner's classic study of the agrarian class structure identified three main classes of agriculturists. Which of the following is NOT one of them?",
+        "options": [
+            "Malik (landowners who do not cultivate)",
+            "Kisan (peasants who own and cultivate)",
+            "Mazdoor (labourers who cultivate lands not their own)",
+            "Sarpanch (elected village head)"
+        ],
+        "correct_index": 3,
+        "explanation": "Daniel Thorner classified agriculturists into three broad classes — Malik, Kisan, and Mazdoor — based on their relationship to the land; Sarpanch is a political-administrative role, not an agrarian class.",
+        "ncert_page": 91,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q15",
+        "chapter_id": "soc_ch11",
+        "question": "In Thorner's classification, the term 'Maliks' refers to:",
+        "options": [
+            "Landowners who derive income from land through renting it out or by hiring labour, without doing manual work themselves",
+            "Owner-cultivators who work their own small plots",
+            "Landless labourers who work for wages",
+            "Government revenue officials"
+        ],
+        "correct_index": 0,
+        "explanation": "Maliks are landowners who earn income primarily through property rights over land — by leasing it out to tenants or employing labourers — without themselves performing manual cultivation.",
+        "ncert_page": 91,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q16",
+        "chapter_id": "soc_ch11",
+        "question": "Which term describes agricultural workers who are hired on a daily or seasonal basis rather than being permanently attached to a landowner?",
+        "options": [
+            "Casual labourers",
+            "Bonded labourers",
+            "Jajmans",
+            "Zamindars"
+        ],
+        "correct_index": 0,
+        "explanation": "Casual labourers are hired on a temporary, daily-wage basis for agricultural operations, in contrast to permanently attached or bonded labourers.",
+        "ncert_page": 93,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q17",
+        "chapter_id": "soc_ch11",
+        "question": "The process by which permanent farm servants are increasingly being replaced by short-term or casual wage labourers is termed:",
+        "options": [
+            "Casualisation of agricultural labour",
+            "Feudalisation of labour",
+            "Collectivisation",
+            "Zamindarisation"
+        ],
+        "correct_index": 0,
+        "explanation": "Casualisation of agricultural labour refers to the shift away from long-term, permanently attached farm servants towards labourers hired temporarily for specific tasks or seasons.",
+        "ncert_page": 93,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q18",
+        "chapter_id": "soc_ch11",
+        "question": "Bonded labour, as discussed in the chapter, refers to a system in which:",
+        "options": [
+            "A labourer works for a landowner to repay a debt, often extending over generations",
+            "Labourers are paid weekly wages in cash",
+            "Farmers form cooperatives to share labour freely",
+            "Government employs labourers on public works"
+        ],
+        "correct_index": 0,
+        "explanation": "Bonded labour is a system of forced labour where a person, often from a poor or oppressed caste, works to repay a debt but remains trapped due to exploitative terms, sometimes passing the bondage to future generations.",
+        "ncert_page": 94,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q19",
+        "chapter_id": "soc_ch11",
+        "question": "Despite being legally abolished, bonded labour persists in parts of rural India mainly because of:",
+        "options": [
+            "Chronic indebtedness and lack of alternative livelihood options among the poor",
+            "Strict government enforcement of contracts",
+            "High literacy rates among agricultural labourers",
+            "Excess of agricultural land available to the poor"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter notes that despite legal abolition, bonded labour persists because chronic poverty and indebtedness leave poor labourers with little bargaining power or alternative options.",
+        "ncert_page": 94,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q20",
+        "chapter_id": "soc_ch11",
+        "question": "The jajmani system traditionally refers to:",
+        "options": [
+            "An exchange relationship in which service castes provided goods and services to landowning patrons in return for grain, food or other payment in kind",
+            "A system of land taxation by the colonial state",
+            "A cooperative bank for agricultural credit",
+            "A formal wage-labour contract system"
+        ],
+        "correct_index": 0,
+        "explanation": "The jajmani system was a patron-client relationship where 'jajmans' (patrons, usually landowning families) received services from various castes ('kamins' or service providers) in return for payment in kind, often grain.",
+        "ncert_page": 95,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q21",
+        "chapter_id": "soc_ch11",
+        "question": "How has the jajmani system changed in contemporary rural India, according to the chapter?",
+        "options": [
+            "It has substantially declined and been replaced by cash-based market transactions",
+            "It has become stronger and more widespread",
+            "It has been made mandatory by law",
+            "It has completely disappeared with no trace"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter describes the gradual decline of the jajmani system as market relations, cash payments and mobility have replaced traditional patron-client exchange obligations in most villages.",
+        "ncert_page": 95,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q22",
+        "chapter_id": "soc_ch11",
+        "question": "Rural indebtedness in India has historically been closely linked to:",
+        "options": [
+            "Dependence on moneylenders for credit at high interest rates",
+            "Excess of institutional bank credit to farmers",
+            "Government subsidies on all agricultural inputs",
+            "Complete absence of the need for credit"
+        ],
+        "correct_index": 0,
+        "explanation": "Due to limited access to institutional credit, many rural cultivators historically depended on moneylenders who charged exorbitant interest rates, deepening rural indebtedness.",
+        "ncert_page": 96,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q23",
+        "chapter_id": "soc_ch11",
+        "question": "The cooperative movement in rural India was primarily intended to:",
+        "options": [
+            "Provide farmers with institutional credit and reduce dependence on exploitative moneylenders",
+            "Replace all private landholding with state ownership",
+            "Promote large-scale industrialisation in villages",
+            "Eliminate the practice of agriculture altogether"
+        ],
+        "correct_index": 0,
+        "explanation": "The cooperative movement, especially cooperative credit societies, aimed to provide farmers with an institutional alternative to moneylenders, offering credit at reasonable rates.",
+        "ncert_page": 96,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q24",
+        "chapter_id": "soc_ch11",
+        "question": "Which of the following is cited in the chapter as a well-known success story of rural cooperatives, particularly in dairy farming?",
+        "options": [
+            "The Amul cooperative movement in Gujarat",
+            "The Bhoodan movement in Bihar",
+            "The Chipko movement in Uttarakhand",
+            "The Narmada Bachao Andolan"
+        ],
+        "correct_index": 0,
+        "explanation": "The Amul cooperative in Gujarat, part of the 'White Revolution' or Operation Flood, is a widely cited example of a successful rural cooperative that transformed dairy farming and rural incomes.",
+        "ncert_page": 97,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q25",
+        "chapter_id": "soc_ch11",
+        "question": "Land is described in the chapter as significant in rural society not merely as an economic resource but also as:",
+        "options": [
+            "A source of social status, security and power",
+            "A purely religious symbol",
+            "An object with no social value",
+            "A form of currency used for trade"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter emphasises that land in rural India is a source of social prestige, political power and economic security, not merely a productive asset, which is why ownership patterns are central to rural stratification.",
+        "ncert_page": 92,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q26",
+        "chapter_id": "soc_ch11",
+        "question": "The Bharatiya Kisan Union (BKU) is an example of:",
+        "options": [
+            "A farmers' movement that mobilised rich and middle peasants, especially in western Uttar Pradesh, for better prices and lower input costs",
+            "A government scheme for land redistribution",
+            "A cooperative bank established for tribal farmers",
+            "A programme for eliminating bonded labour"
+        ],
+        "correct_index": 0,
+        "explanation": "The BKU, led by figures like Mahendra Singh Tikait, mobilised farmers particularly in western Uttar Pradesh, demanding remunerative prices for crops, lower electricity rates, and loan waivers.",
+        "ncert_page": 98,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q27",
+        "chapter_id": "soc_ch11",
+        "question": "Farmers' movements like the BKU in the 1980s were primarily driven by which section of the rural population?",
+        "options": [
+            "Rich and middle peasants who had benefited from the Green Revolution but felt cheated by low crop prices and high input costs",
+            "Landless agricultural labourers demanding land redistribution",
+            "Urban industrial workers",
+            "Zamindars seeking restoration of their estates"
+        ],
+        "correct_index": 0,
+        "explanation": "The new farmers' movements were largely led by rich and middle peasants from Green Revolution belts who sought remunerative prices for their produce and opposed the rising cost of agricultural inputs.",
+        "ncert_page": 98,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q28",
+        "chapter_id": "soc_ch11",
+        "question": "Which of the following best describes 'contract farming' as discussed in the context of globalization's impact on agriculture?",
+        "options": [
+            "An arrangement where farmers grow crops for a company under a pre-agreed contract specifying price, quality and quantity",
+            "A system where the government owns all farmland",
+            "A method of sharing land equally among heirs",
+            "A traditional barter system between villages"
+        ],
+        "correct_index": 0,
+        "explanation": "Contract farming involves agribusiness companies entering agreements with farmers to grow specific crops to specified standards, often supplying inputs and buying the produce at a pre-fixed price.",
+        "ncert_page": 100,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q29",
+        "chapter_id": "soc_ch11",
+        "question": "According to the chapter, the entry of multinational companies (MNCs) into Indian agriculture through contract farming has led to concerns about:",
+        "options": [
+            "Farmers' loss of control over cropping choices and increased dependency on corporate buyers",
+            "Complete elimination of rural poverty",
+            "Guaranteed equal profits for all farmers",
+            "Abolition of the market economy"
+        ],
+        "correct_index": 0,
+        "explanation": "Critics note that contract farming arrangements with MNCs can reduce farmers' autonomy over what to grow and make them dependent on corporate terms, raising concerns about unequal bargaining power.",
+        "ncert_page": 100,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q30",
+        "chapter_id": "soc_ch11",
+        "question": "Globalisation's impact on Indian agriculture, as discussed in the chapter, includes:",
+        "options": [
+            "Increased exposure of farmers to volatile international markets and prices",
+            "Complete insulation of Indian farmers from world markets",
+            "A ban on the export of agricultural produce",
+            "The abolition of the Public Distribution System"
+        ],
+        "correct_index": 0,
+        "explanation": "With liberalisation, Indian farmers became more exposed to fluctuations in international commodity prices, which affected their incomes, especially for export-oriented cash crops.",
+        "ncert_page": 100,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q31",
+        "chapter_id": "soc_ch11",
+        "question": "One documented social consequence of globalisation and agrarian distress discussed in the chapter is:",
+        "options": [
+            "A wave of farmer suicides in states like Maharashtra, Andhra Pradesh, Karnataka and Punjab",
+            "A sharp rise in the number of zamindars",
+            "A permanent halt to rural-urban migration",
+            "The disappearance of agricultural labour altogether"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter refers to farmer suicides linked to debt, crop failure, and falling prices for cash crops in states such as Maharashtra, Andhra Pradesh, Karnataka and Punjab as a stark indicator of agrarian distress.",
+        "ncert_page": 101,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q32",
+        "chapter_id": "soc_ch11",
+        "question": "Rural-to-urban migration in India is primarily driven by which factor, as discussed in the chapter?",
+        "options": [
+            "Lack of adequate livelihood opportunities and land in villages",
+            "Excess of agricultural land in rural areas",
+            "Government bans on rural employment",
+            "Complete absence of caste discrimination in cities"
+        ],
+        "correct_index": 0,
+        "explanation": "The lack of sufficient land, limited non-farm employment, and seasonal nature of agricultural work push many rural residents, especially landless and marginal families, to migrate to cities in search of work.",
+        "ncert_page": 102,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q33",
+        "chapter_id": "soc_ch11",
+        "question": "'Seasonal migration' among agricultural labourers refers to:",
+        "options": [
+            "Temporary movement to other regions or cities for work during the agricultural off-season",
+            "Permanent relocation of entire villages",
+            "Migration only during festivals",
+            "Migration of landlords to cities for leisure"
+        ],
+        "correct_index": 0,
+        "explanation": "Seasonal migration involves agricultural labourers moving temporarily, often to cities or other agriculturally active regions, during periods when there is little work available in their home villages, returning later.",
+        "ncert_page": 102,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q34",
+        "chapter_id": "soc_ch11",
+        "question": "The chapter notes that women in rural agrarian economies:",
+        "options": [
+            "Contribute significantly to agricultural labour but often remain unrecognised as 'farmers' and have limited land ownership rights",
+            "Have always had equal land ownership rights with men",
+            "Do not participate in agricultural work at all",
+            "Only work in non-agricultural rural industries"
+        ],
+        "correct_index": 0,
+        "explanation": "Despite performing a large share of agricultural tasks, rural women are often not officially recognised as cultivators or farmers, and patriarchal inheritance patterns limit their land ownership.",
+        "ncert_page": 103,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q35",
+        "chapter_id": "soc_ch11",
+        "question": "The 'feminisation of agriculture' refers to the trend in which:",
+        "options": [
+            "Increasing numbers of women take on agricultural work as men migrate to cities for non-farm employment",
+            "Women are legally barred from farming",
+            "Agricultural land is exclusively inherited by daughters",
+            "Male labour replaces female labour in the fields"
+        ],
+        "correct_index": 0,
+        "explanation": "As men increasingly migrate to urban areas for non-agricultural work, women are left to manage agricultural operations, a phenomenon often referred to as the feminisation of agriculture.",
+        "ncert_page": 103,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q36",
+        "chapter_id": "soc_ch11",
+        "question": "How did the Green Revolution affect regional inequality within India?",
+        "options": [
+            "It increased regional inequality by concentrating agricultural growth in irrigated areas like Punjab while other regions lagged",
+            "It equalised agricultural growth across all regions of India",
+            "It had no effect on regional development patterns",
+            "It shifted all agricultural investment to hilly and tribal regions"
+        ],
+        "correct_index": 0,
+        "explanation": "Because the Green Revolution technology package depended heavily on assured irrigation, its benefits were concentrated in irrigated regions, widening the gap with rain-fed and less-developed agricultural areas.",
+        "ncert_page": 90,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q37",
+        "chapter_id": "soc_ch11",
+        "question": "Tribal societies undergoing agrarian change, as discussed in the chapter, have often faced which specific issue?",
+        "options": [
+            "Alienation of land to non-tribal settlers and moneylenders despite legal protections",
+            "Complete absence of any land-related conflict",
+            "Guaranteed ownership of all forest land by the state",
+            "Exemption from all forms of agricultural taxation"
+        ],
+        "correct_index": 0,
+        "explanation": "Despite constitutional and legal safeguards, tribal communities have frequently lost land to non-tribal settlers, moneylenders and land grabbers, a process referred to as land alienation.",
+        "ncert_page": 104,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q38",
+        "chapter_id": "soc_ch11",
+        "question": "The shift from traditional shifting cultivation to settled agriculture among many tribal communities has generally led to:",
+        "options": [
+            "Loss of access to forest resources and changes in tribal livelihood patterns",
+            "An increase in shifting cultivation across all of India",
+            "The complete disappearance of tribal identity",
+            "A ban on all forms of farming among tribal groups"
+        ],
+        "correct_index": 0,
+        "explanation": "As forest lands were reserved or converted for other uses, and settled agriculture was promoted, many tribal groups lost traditional access to forest resources central to shifting cultivation and their way of life.",
+        "ncert_page": 104,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q39",
+        "chapter_id": "soc_ch11",
+        "question": "Which of the following best describes 'differentiation of the peasantry'?",
+        "options": [
+            "The process by which economic inequality grows within the peasant class, dividing it into rich, middle and poor peasants",
+            "The classification of peasants purely by caste",
+            "The equal redistribution of land among all peasants",
+            "The complete merging of all peasant categories into one uniform class"
+        ],
+        "correct_index": 0,
+        "explanation": "Differentiation of the peasantry refers to the growing economic inequality among cultivators, driven especially by uneven access to land, capital, and Green Revolution technology, creating distinct classes of rich, middle and poor peasants.",
+        "ncert_page": 91,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q40",
+        "chapter_id": "soc_ch11",
+        "question": "Tenancy reform laws after independence primarily aimed to:",
+        "options": [
+            "Give ownership rights or secure tenure to tenant cultivators who worked land owned by others",
+            "Increase the rent paid by tenants to landlords",
+            "Abolish the practice of tenancy altogether without protecting tenants",
+            "Transfer all tenanted land back to the colonial government"
+        ],
+        "correct_index": 0,
+        "explanation": "Tenancy reforms sought to regulate rent, provide security of tenure, and in some cases confer ownership rights on tenants who cultivated land belonging to absentee or non-cultivating landowners.",
+        "ncert_page": 87,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q41",
+        "chapter_id": "soc_ch11",
+        "question": "'Benami transfers' of land, mentioned as a way landlords evaded ceiling laws, refers to:",
+        "options": [
+            "Transferring land ownership on paper to relatives or fictitious persons to escape the legal land ceiling",
+            "Officially registering land under the government's name",
+            "Donating land voluntarily to landless labourers",
+            "Selling land openly at market price"
+        ],
+        "correct_index": 0,
+        "explanation": "To circumvent land ceiling laws, many large landowners transferred land nominally ('benami') to relatives, servants or fictitious names while retaining actual control, undermining the reform's redistributive intent.",
+        "ncert_page": 88,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q42",
+        "chapter_id": "soc_ch11",
+        "question": "Why is the reliability of official land records considered an important issue in the context of tenancy reform in India?",
+        "options": [
+            "Because many tenants were not recorded as tenants, making it difficult for them to claim legal protection or ownership",
+            "Because all land records in India are digitised and perfectly accurate",
+            "Because tenants never needed legal protection",
+            "Because land records are irrelevant to tenancy reform"
+        ],
+        "correct_index": 0,
+        "explanation": "Since many tenancy arrangements were informal or concealed by landlords to avoid tenancy laws, official records often failed to capture actual tenants, weakening their ability to claim legal rights.",
+        "ncert_page": 88,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q43",
+        "chapter_id": "soc_ch11",
+        "question": "The chapter describes agricultural labourers as forming which category within the rural class structure?",
+        "options": [
+            "A class that owns little or no land and survives mainly by selling its labour for wages",
+            "A class that owns the largest landholdings in villages",
+            "A class exempted from working in agriculture",
+            "The wealthiest section of rural society"
+        ],
+        "correct_index": 0,
+        "explanation": "Agricultural labourers are typically landless or near-landless and depend primarily on wage labour on others' land for their livelihood, making them among the most economically vulnerable rural groups.",
+        "ncert_page": 92,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q44",
+        "chapter_id": "soc_ch11",
+        "question": "The category of 'middle peasants' in the agrarian class structure typically refers to those who:",
+        "options": [
+            "Own moderate-sized landholdings and cultivate mainly with family labour, sometimes hiring additional workers",
+            "Own no land at all and work only as wage labourers",
+            "Are absentee landlords living in cities",
+            "Control the largest estates in the region"
+        ],
+        "correct_index": 0,
+        "explanation": "Middle peasants own enough land to be largely self-sufficient, relying primarily on family labour while occasionally hiring additional workers during peak agricultural seasons.",
+        "ncert_page": 91,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q45",
+        "chapter_id": "soc_ch11",
+        "question": "Which of the following statements about the impact of the Green Revolution on rural labour relations is accurate, as per the chapter?",
+        "options": [
+            "It contributed to a shift from traditional patron-client ties towards more impersonal, cash-based wage relationships",
+            "It reinforced traditional jajmani obligations permanently",
+            "It eliminated the need for hired agricultural labour",
+            "It made all agricultural transactions barter-based"
+        ],
+        "correct_index": 0,
+        "explanation": "As agriculture became more commercialised through the Green Revolution, traditional patron-client obligations weakened and were increasingly replaced by cash wages and contractual labour relations.",
+        "ncert_page": 95,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q46",
+        "chapter_id": "soc_ch11",
+        "question": "The Public Distribution System (PDS) is relevant to the chapter's discussion of rural society mainly because:",
+        "options": [
+            "It affects food security for the rural poor and is linked to debates on agricultural policy and subsidies",
+            "It regulates industrial production in cities",
+            "It is unrelated to rural livelihoods",
+            "It replaced land reform legislation entirely"
+        ],
+        "correct_index": 0,
+        "explanation": "The PDS, which distributes subsidised food grains, is discussed in relation to food security debates for the rural poor and landless, especially amid agrarian distress and market liberalisation.",
+        "ncert_page": 101,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q47",
+        "chapter_id": "soc_ch11",
+        "question": "Which of the following best captures the chapter's overall argument about change in rural Indian society since independence?",
+        "options": [
+            "Rural society has undergone complex and uneven changes driven by land reform, the Green Revolution, and globalisation, producing new forms of inequality alongside some gains",
+            "Rural society has remained entirely unchanged since independence",
+            "All rural inequality was eliminated through land reforms",
+            "Agriculture has become irrelevant to the Indian economy"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter's central argument is that multiple overlapping processes — land reform, Green Revolution technology, and globalisation — have transformed rural society unevenly, reducing some traditional inequalities while creating new economic disparities.",
+        "ncert_page": 105,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q48",
+        "chapter_id": "soc_ch11",
+        "question": "The term 'agrarian structure' as used in the chapter refers to:",
+        "options": [
+            "The pattern of landholding, tenancy, and labour relationships that organise agricultural production in a society",
+            "The physical layout of village roads and buildings",
+            "The administrative structure of the Ministry of Agriculture",
+            "The seasonal calendar of crop rotation"
+        ],
+        "correct_index": 0,
+        "explanation": "Agrarian structure denotes the underlying pattern of relationships around landownership, tenancy and labour that shapes how agricultural production and rural social relations are organised.",
+        "ncert_page": 86,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q49",
+        "chapter_id": "soc_ch11",
+        "question": "According to the chapter, one reason poor peasants and agricultural labourers found it difficult to benefit from cooperative credit societies was:",
+        "options": [
+            "Cooperatives were often dominated by richer, more influential villagers who cornered most of the benefits",
+            "Cooperative societies refused to lend to anyone",
+            "The government banned poor peasants from joining cooperatives",
+            "Cooperatives operated only in urban areas"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter notes that rural cooperatives were frequently dominated by economically and socially powerful villagers, meaning poorer members often had limited access to loans and other benefits.",
+        "ncert_page": 97,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c11_q50",
+        "chapter_id": "soc_ch11",
+        "question": "The chapter concludes that understanding rural social change in India requires attention to:",
+        "options": [
+            "The interconnected roles of land, labour, caste, gender, and market forces in shaping agrarian relations",
+            "Only the technological aspects of farming",
+            "Solely the legal texts of land reform acts",
+            "Urban industrial policy alone"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter emphasises a holistic sociological approach, showing that land, labour relations, caste hierarchies, gender roles and market forces are all interlinked in shaping rural social change.",
+        "ncert_page": 105,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    }
 ]

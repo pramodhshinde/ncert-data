@@ -1,552 +1,802 @@
 [
-  {
-    "mcq_id": "c14_q01",
-    "chapter_id": "c14",
-    "question": "Which Act of 1878, passed by the colonial government, was aimed at controlling the vernacular press in India?",
-    "options": ["Indian Press Act", "Vernacular Press Act", "Newspaper Registration Act", "Sedition Act"],
-    "correct_index": 1,
-    "explanation": "The Vernacular Press Act of 1878 was enacted by the British colonial government specifically to curb and control newspapers published in Indian languages that were seen as critical of colonial rule.",
-    "ncert_page": 176,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q02",
-    "chapter_id": "c14",
-    "question": "During the colonial period, the nationalist press primarily served which purpose?",
-    "options": ["Promoting British goods", "Mobilising public opinion against colonial rule", "Reporting only sports news", "Entertaining the elite class"],
-    "correct_index": 1,
-    "explanation": "The nationalist press played a crucial role in the freedom struggle by mobilising public opinion, spreading nationalist ideas, and criticising colonial policies.",
-    "ncert_page": 176,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q03",
-    "chapter_id": "c14",
-    "question": "Mass media is often referred to as which 'estate' of democracy?",
-    "options": ["First estate", "Second estate", "Third estate", "Fourth estate"],
-    "correct_index": 3,
-    "explanation": "The media is called the 'fourth estate' because, alongside the legislature, executive and judiciary, it plays a watchdog role in a democracy by informing citizens and holding power accountable.",
-    "ncert_page": 178,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q04",
-    "chapter_id": "c14",
-    "question": "Which broadcasting organisation is India's national radio service?",
-    "options": ["Doordarshan", "All India Radio", "Prasar Bharati Television", "Indian Broadcasting Corporation"],
-    "correct_index": 1,
-    "explanation": "All India Radio (AIR), also known as Akashvani, is India's national public radio broadcaster and has historically played a major role in disseminating information across the country.",
-    "ncert_page": 180,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q05",
-    "chapter_id": "c14",
-    "question": "Doordarshan is India's national body for which form of mass media?",
-    "options": ["Radio broadcasting", "Television broadcasting", "Newspaper publishing", "Film production"],
-    "correct_index": 1,
-    "explanation": "Doordarshan is the public service television broadcaster of India and was for a long period the only television channel available to Indian viewers.",
-    "ncert_page": 181,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q06",
-    "chapter_id": "c14",
-    "question": "The rapid expansion of satellite television channels in India occurred mainly after which development?",
-    "options": ["Independence in 1947", "The Green Revolution", "Economic liberalisation of the early 1990s", "The Emergency of 1975"],
-    "correct_index": 2,
-    "explanation": "The economic liberalisation policies of the early 1990s opened India's markets to foreign investment and technology, leading to a rapid growth of satellite and cable television channels.",
-    "ncert_page": 182,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q07",
-    "chapter_id": "c14",
-    "question": "Which of the following is an example of print media?",
-    "options": ["Television", "Radio", "Newspaper", "Internet streaming"],
-    "correct_index": 2,
-    "explanation": "Newspapers, along with magazines and journals, fall under print media, which relies on printed text and images, unlike electronic media that uses audio-visual or digital transmission.",
-    "ncert_page": 177,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q08",
-    "chapter_id": "c14",
-    "question": "Which of the following best describes 'electronic media'?",
-    "options": ["Media distributed only through handwritten notices", "Media that uses electronic technology such as television, radio and internet", "Media limited to newspapers only", "Media that cannot reach rural areas"],
-    "correct_index": 1,
-    "explanation": "Electronic media refers to communication channels that use electronic technology for transmission, including television, radio, film and the internet.",
-    "ncert_page": 177,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q09",
-    "chapter_id": "c14",
-    "question": "Concentration of media ownership in the hands of a few large corporations raises concerns about which issue?",
-    "options": ["Excess of independent voices", "Diversity and plurality of opinion being undermined", "Too many small newspapers", "Increased government ownership"],
-    "correct_index": 1,
-    "explanation": "When media ownership becomes concentrated among a few corporate houses, sociologists worry it undermines diversity of viewpoints and allows owners to influence content according to their own interests.",
-    "ncert_page": 190,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q10",
-    "chapter_id": "c14",
-    "question": "Advertising is closely linked with the growth of which social phenomenon, as discussed in the chapter?",
-    "options": ["Agrarian economy", "Consumer culture", "Joint family system", "Caste-based occupations"],
-    "correct_index": 1,
-    "explanation": "The chapter discusses how advertising fuels and sustains consumer culture by creating desires for products and shaping lifestyles, particularly among the urban middle classes.",
-    "ncert_page": 191,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q11",
-    "chapter_id": "c14",
-    "question": "Which term describes ordinary people using digital tools like blogs and social media to report and comment on events, sometimes bypassing traditional media?",
-    "options": ["Corporate journalism", "Embedded journalism", "Citizen journalism", "State journalism"],
-    "correct_index": 2,
-    "explanation": "Citizen journalism refers to the phenomenon where private individuals, using accessible technologies like mobile phones and the internet, collect, report and disseminate news themselves.",
-    "ncert_page": 195,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q12",
-    "chapter_id": "c14",
-    "question": "According to the chapter, new media such as the internet has changed communication mainly by:",
-    "options": ["Making communication strictly one-way", "Enabling interactivity and two-way flow of information", "Eliminating the need for any media literacy", "Restricting communication to government agencies"],
-    "correct_index": 1,
-    "explanation": "Unlike traditional one-way broadcast media, new media such as the internet allows interactivity, letting users become both consumers and producers of content.",
-    "ncert_page": 194,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q13",
-    "chapter_id": "c14",
-    "question": "The term 'sting operation', discussed in relation to media ethics, refers to:",
-    "options": ["A government press release", "An undercover investigative method used by media to expose wrongdoing", "A type of radio jingle", "A television soap opera format"],
-    "correct_index": 1,
-    "explanation": "Sting operations involve journalists using hidden cameras or covert methods to catch corrupt or illegal practices on record, raising debates about media ethics and privacy.",
-    "ncert_page": 196,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q14",
-    "chapter_id": "c14",
-    "question": "Which of the following was a major early nationalist newspaper associated with the freedom struggle?",
-    "options": ["The Times of India", "Kesari", "India Today", "The Hindustan Times"],
-    "correct_index": 1,
-    "explanation": "Kesari, founded by Bal Gangadhar Tilak, was an influential nationalist newspaper that mobilised public opinion against British rule.",
-    "ncert_page": 176,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q15",
-    "chapter_id": "c14",
-    "question": "The growth of regional language newspapers in India has been significant because it:",
-    "options": ["Has reduced literacy rates", "Has expanded the reach of media to non-English speaking populations", "Has replaced television entirely", "Has been discouraged by the government"],
-    "correct_index": 1,
-    "explanation": "Regional language press has grown rapidly in India, reaching large sections of the population who may not read English, thereby democratising access to news and information.",
-    "ncert_page": 183,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q16",
-    "chapter_id": "c14",
-    "question": "Cinema in India has historically played a social role by:",
-    "options": ["Remaining isolated from social issues", "Reflecting and shaping social attitudes, including on caste, gender and nationalism", "Being banned throughout the colonial period", "Existing only as a form of religious ritual"],
-    "correct_index": 1,
-    "explanation": "The chapter notes that Indian cinema has often engaged with social themes such as caste, gender, poverty and nationalism, both reflecting and influencing public attitudes.",
-    "ncert_page": 188,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q17",
-    "chapter_id": "c14",
-    "question": "Which of the following best captures the concern about media and gender raised in the chapter?",
-    "options": ["Media never portrays women", "Media often stereotypes or objectifies women in advertisements and programmes", "Media exclusively empowers women", "Gender is not a relevant topic for media studies"],
-    "correct_index": 1,
-    "explanation": "The chapter discusses how mass media, especially advertising and entertainment, often reinforces gender stereotypes and can objectify women, even as it sometimes challenges such norms.",
-    "ncert_page": 192,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q18",
-    "chapter_id": "c14",
-    "question": "Cross-media ownership refers to a situation where:",
-    "options": ["A single company owns multiple types of media such as newspapers, television and radio", "Media houses are owned by the government only", "No company can own more than one media outlet", "Media companies operate only in one country"],
-    "correct_index": 0,
-    "explanation": "Cross-media ownership occurs when a single corporate entity controls different media forms like print, television and radio, raising concerns about concentration of influence over public opinion.",
-    "ncert_page": 190,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q19",
-    "chapter_id": "c14",
-    "question": "During the Emergency period (1975-77), the Indian press faced which major restriction?",
-    "options": ["Complete freedom to publish anything", "Press censorship imposed by the government", "Ban on all electronic media only", "Compulsory foreign ownership"],
-    "correct_index": 1,
-    "explanation": "During the Emergency, the government imposed strict press censorship, curbing freedom of the press and controlling what newspapers could publish.",
-    "ncert_page": 179,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q20",
-    "chapter_id": "c14",
-    "question": "Globalisation's impact on Indian media includes:",
-    "options": ["Complete isolation of Indian media from the world", "Entry of foreign television channels and greater cross-border content flow", "Total ban on foreign investment in media", "Elimination of Indian-language programming"],
-    "correct_index": 1,
-    "explanation": "Globalisation opened Indian media markets to foreign satellite channels, international news agencies and cross-border content, transforming the media landscape after liberalisation.",
-    "ncert_page": 183,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q21",
-    "chapter_id": "c14",
-    "question": "Which of the following media forms is described as having the widest reach in rural India historically, due to low literacy requirements?",
-    "options": ["Newspapers", "Radio", "Internet", "Academic journals"],
-    "correct_index": 1,
-    "explanation": "Radio, requiring no literacy and being relatively inexpensive, historically had a wide reach among rural populations compared to print media.",
-    "ncert_page": 180,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q22",
-    "chapter_id": "c14",
-    "question": "The chapter discusses that media can shape public opinion primarily through:",
-    "options": ["Selecting and framing which issues receive coverage", "Refusing to report any news", "Only broadcasting entertainment content", "Ignoring political developments"],
-    "correct_index": 0,
-    "explanation": "Media shapes public opinion through agenda-setting, that is, by choosing which issues to highlight and how to frame them, thereby influencing what audiences consider important.",
-    "ncert_page": 178,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q23",
-    "chapter_id": "c14",
-    "question": "Which of the following is true about the relationship between media and social movements as discussed in the chapter?",
-    "options": ["Media coverage can amplify the visibility of social movements", "Media never covers protests or movements", "Social movements have no relation to media", "Media coverage always weakens movements"],
-    "correct_index": 0,
-    "explanation": "The chapter highlights how media coverage of protests and social movements can bring wider public attention and support, making media an important tool for activists.",
-    "ncert_page": 193,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q24",
-    "chapter_id": "c14",
-    "question": "Prasar Bharati is:",
-    "options": ["A private television network", "The public broadcasting corporation of India overseeing Doordarshan and All India Radio", "A newspaper company", "An internet service provider"],
-    "correct_index": 1,
-    "explanation": "Prasar Bharati is the statutory autonomous public broadcasting corporation of India that oversees both Doordarshan and All India Radio.",
-    "ncert_page": 181,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q25",
-    "chapter_id": "c14",
-    "question": "One of the earliest uses of the printing press in India by missionaries and colonial administrators was for:",
-    "options": ["Printing entertainment magazines only", "Religious texts, administrative and educational material", "Producing only political cartoons", "Manufacturing currency notes"],
-    "correct_index": 1,
-    "explanation": "The printing press was initially introduced in India largely for religious, administrative and educational purposes before it developed into a tool for nationalist mobilisation.",
-    "ncert_page": 175,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q26",
-    "chapter_id": "c14",
-    "question": "The chapter suggests that media in a democracy ideally functions as a:",
-    "options": ["Tool of propaganda only", "Watchdog holding power accountable and informing citizens", "Private entertainment source with no public role", "Instrument solely for advertising"],
-    "correct_index": 1,
-    "explanation": "In a democracy, media is expected to act as a watchdog, scrutinising government and institutions while keeping citizens informed to enable participation.",
-    "ncert_page": 178,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q27",
-    "chapter_id": "c14",
-    "question": "Which of the following is a concern associated with corporate control over media, as per the chapter?",
-    "options": ["Increased independent local reporting", "Prioritising commercial interests over public interest journalism", "Guaranteed unbiased reporting", "Complete removal of advertisements"],
-    "correct_index": 1,
-    "explanation": "Corporate ownership can lead media houses to prioritise profit and advertiser interests, sometimes compromising public interest journalism and diverse reporting.",
-    "ncert_page": 190,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q28",
-    "chapter_id": "c14",
-    "question": "Which of the following best explains why television is considered particularly powerful compared to print media?",
-    "options": ["It requires no electricity", "It combines audio and visual elements, making it accessible even to non-literate audiences", "It is cheaper to produce than newspapers", "It has no advertisements"],
-    "correct_index": 1,
-    "explanation": "Television's combination of sound and visuals allows it to reach even non-literate audiences, giving it a broader and more immediate impact than print media.",
-    "ncert_page": 182,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q29",
-    "chapter_id": "c14",
-    "question": "The term 'media literacy' as used in discussions of mass media refers to:",
-    "options": ["The ability to read only newspapers", "The ability to critically analyse and evaluate media content", "Owning a television set", "Working as a journalist"],
-    "correct_index": 1,
-    "explanation": "Media literacy refers to the skill of critically understanding, analysing and evaluating media messages rather than passively consuming them.",
-    "ncert_page": 194,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q30",
-    "chapter_id": "c14",
-    "question": "Which of the following best describes the impact of social media as discussed in the chapter?",
-    "options": ["It has no effect on public discourse", "It enables rapid, decentralised sharing of information and mobilisation", "It is limited to entertainment and has no social relevance", "It has completely replaced television"],
-    "correct_index": 1,
-    "explanation": "Social media allows information to spread rapidly and enables decentralised communication, playing a role in mobilising opinion and organising collective action.",
-    "ncert_page": 195,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q31",
-    "chapter_id": "c14",
-    "question": "Before the arrival of satellite television, which single broadcaster dominated Indian television?",
-    "options": ["Star TV", "Doordarshan", "Zee TV", "CNN"],
-    "correct_index": 1,
-    "explanation": "Prior to the liberalisation of the 1990s and the entry of satellite channels, Doordarshan was the sole and dominant television broadcaster in India.",
-    "ncert_page": 181,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q32",
-    "chapter_id": "c14",
-    "question": "The chapter notes that press freedom is important in a democracy primarily because it:",
-    "options": ["Allows unrestricted state control over information", "Enables citizens to access diverse information and hold authorities accountable", "Ensures only government viewpoints are published", "Prevents any criticism of policies"],
-    "correct_index": 1,
-    "explanation": "Press freedom is considered vital because it allows citizens access to diverse viewpoints and information, which is essential for holding those in power accountable.",
-    "ncert_page": 179,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q33",
-    "chapter_id": "c14",
-    "question": "Which of the following newspapers/journals is associated with Mahatma Gandhi's efforts to communicate nationalist ideas?",
-    "options": ["Young India", "The Statesman", "Filmfare", "India Today"],
-    "correct_index": 0,
-    "explanation": "Mahatma Gandhi used journals like Young India and Harijan to spread his ideas on nationalism, non-violence and social reform.",
-    "ncert_page": 177,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q34",
-    "chapter_id": "c14",
-    "question": "The concept of 'public sphere', often invoked in media studies, refers to:",
-    "options": ["Private family gatherings", "A space for public discussion and debate on matters of common concern", "Government offices only", "Religious institutions exclusively"],
-    "correct_index": 1,
-    "explanation": "The public sphere is a concept referring to the space, often facilitated by media, where citizens can engage in debate and discussion about matters of common concern.",
-    "ncert_page": 178,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q35",
-    "chapter_id": "c14",
-    "question": "Which of the following is an effect of advertising highlighted in the chapter?",
-    "options": ["It discourages consumption entirely", "It shapes aspirations and desires, often promoting consumerist lifestyles", "It has no influence on youth", "It is restricted only to print media"],
-    "correct_index": 1,
-    "explanation": "Advertising is shown to shape consumer aspirations and desires, often promoting particular lifestyles and consumerist values, especially among urban and younger audiences.",
-    "ncert_page": 191,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q36",
-    "chapter_id": "c14",
-    "question": "According to the chapter, which of the following was a key feature of the vernacular press during colonial rule?",
-    "options": ["It was published only in English", "It gave voice to local and regional concerns in Indian languages", "It supported colonial policies unconditionally", "It had no readership"],
-    "correct_index": 1,
-    "explanation": "The vernacular press published in Indian languages and often gave voice to local grievances and nationalist sentiments, making it a target of colonial censorship.",
-    "ncert_page": 176,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q37",
-    "chapter_id": "c14",
-    "question": "Why did the colonial government find the vernacular press particularly threatening?",
-    "options": ["It had no readers", "It could mobilise the masses in local languages against colonial rule", "It only published advertisements", "It was funded entirely by the British"],
-    "correct_index": 1,
-    "explanation": "The vernacular press could reach and mobilise ordinary people in their own languages, making it a powerful tool against colonial rule and thus a target for repression.",
-    "ncert_page": 176,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q38",
-    "chapter_id": "c14",
-    "question": "The chapter discusses that cable and satellite television expanded viewer choice by:",
-    "options": ["Offering only one channel", "Introducing multiple private and foreign channels alongside Doordarshan", "Banning all Indian content", "Restricting broadcasting to metro cities only"],
-    "correct_index": 1,
-    "explanation": "The advent of cable and satellite television introduced numerous private and international channels, breaking Doordarshan's monopoly and greatly expanding viewer choice.",
-    "ncert_page": 182,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q39",
-    "chapter_id": "c14",
-    "question": "Which of the following best reflects a criticism of television's portrayal of social reality, as discussed in the chapter?",
-    "options": ["Television always presents balanced, unbiased reality", "Television can construct and distort reality through selective representation", "Television content is entirely free from commercial pressures", "Television has no influence over viewers' perceptions"],
-    "correct_index": 1,
-    "explanation": "The chapter notes that television, through selective framing and representation, can construct particular versions of reality that may not fully or fairly reflect social conditions.",
-    "ncert_page": 189,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q40",
-    "chapter_id": "c14",
-    "question": "Which of the following media developments is associated with the process of democratisation of information in India?",
-    "options": ["Rise of regional language newspapers and community radio", "Complete state monopoly over all media", "Banning of private television channels", "Elimination of internet access"],
-    "correct_index": 0,
-    "explanation": "The growth of regional language newspapers and community radio has been seen as democratising access to information, reaching diverse linguistic and local communities.",
-    "ncert_page": 184,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q41",
-    "chapter_id": "c14",
-    "question": "Community radio, as discussed in the chapter, is significant because it:",
-    "options": ["Is controlled entirely by multinational corporations", "Allows local communities to produce and broadcast content relevant to their own needs", "Broadcasts only national news", "Is banned in India"],
-    "correct_index": 1,
-    "explanation": "Community radio enables local communities to create and broadcast content addressing their specific social, cultural and developmental needs, promoting grassroots participation in media.",
-    "ncert_page": 184,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q42",
-    "chapter_id": "c14",
-    "question": "The chapter argues that the relationship between media and consumer culture became especially pronounced after:",
-    "options": ["Independence in 1947", "Economic liberalisation and the growth of a consuming middle class", "The partition of India", "The abolition of princely states"],
-    "correct_index": 1,
-    "explanation": "Economic liberalisation led to the expansion of a consuming middle class, and media, especially advertising, played a central role in fostering and sustaining this consumer culture.",
-    "ncert_page": 191,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q43",
-    "chapter_id": "c14",
-    "question": "Which of the following statements about censorship in India, as discussed in the chapter, is correct?",
-    "options": ["India has never practised any form of media censorship", "Censorship has occurred at various points, notably during the Emergency, raising debates on press freedom", "Censorship applies only to films and never to newspapers", "Censorship was abolished immediately after Independence"],
-    "correct_index": 1,
-    "explanation": "The chapter discusses how censorship, notably during the Emergency of 1975-77, has periodically restricted press freedom in India, generating ongoing debates about the balance between state control and free expression.",
-    "ncert_page": 179,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q44",
-    "chapter_id": "c14",
-    "question": "In the context of the chapter, 'agenda setting' by media refers to the media's power to:",
-    "options": ["Tell people exactly what to think", "Influence what issues the public perceives as important through selective coverage", "Set government budgets", "Determine election results directly"],
-    "correct_index": 1,
-    "explanation": "Agenda setting theory holds that while media may not dictate what people think, it strongly influences what topics people consider important through the issues it chooses to highlight.",
-    "ncert_page": 178,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q45",
-    "chapter_id": "c14",
-    "question": "According to the chapter, one impact of the internet and new media on traditional print and broadcast media has been:",
-    "options": ["Complete disappearance of newspapers and television", "Increased competition and a shift of some audiences towards digital platforms", "No impact whatsoever", "A return to purely oral traditions of communication"],
-    "correct_index": 1,
-    "explanation": "The rise of the internet and new media has introduced increased competition for traditional print and broadcast media, with audiences increasingly shifting towards digital platforms.",
-    "ncert_page": 194,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q46",
-    "chapter_id": "c14",
-    "question": "Which of the following best describes the term 'media convergence' as used in discussions of new media?",
-    "options": ["The complete separation of print, television and internet", "The coming together of different media forms and technologies on a single platform", "The closing down of all television channels", "A government policy banning digital media"],
-    "correct_index": 1,
-    "explanation": "Media convergence refers to the merging of previously distinct media forms, such as text, audio, video and internet, onto integrated digital platforms, especially notable with smartphones and the internet.",
-    "ncert_page": 195,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q47",
-    "chapter_id": "c14",
-    "question": "The chapter suggests that debates over media and democracy often centre on the tension between:",
-    "options": ["Media freedom and commercial or political control over content", "Radio and television only", "Print media and cinema exclusively", "Rural and urban populations having identical media access"],
-    "correct_index": 0,
-    "explanation": "A central debate in the chapter concerns the tension between the ideal of a free press serving democracy and the reality of commercial and political pressures that can constrain media content.",
-    "ncert_page": 190,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q48",
-    "chapter_id": "c14",
-    "question": "Which of the following is true regarding the growth of the film industry in India as noted in the chapter?",
-    "options": ["Indian cinema has remained a minor, negligible cultural force", "India has developed one of the largest film industries in the world, with significant social influence", "Cinema was banned throughout the twentieth century", "Films have no bearing on public attitudes"],
-    "correct_index": 1,
-    "explanation": "The chapter notes that India has developed one of the world's largest film industries, and cinema has had a significant influence on shaping public attitudes and popular culture.",
-    "ncert_page": 188,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q49",
-    "chapter_id": "c14",
-    "question": "The chapter's discussion of media ownership patterns suggests that concentration of ownership can lead to:",
-    "options": ["Greater diversity of independent viewpoints", "Homogenisation of content and reduced space for dissenting voices", "Complete elimination of advertising revenue", "Mandatory government takeover of all channels"],
-    "correct_index": 1,
-    "explanation": "When ownership of media outlets becomes concentrated in a few hands, content can become homogenised, and there is less room for diverse or dissenting viewpoints to be aired.",
-    "ncert_page": 190,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c14_q50",
-    "chapter_id": "c14",
-    "question": "Overall, the chapter 'Mass Media and Communications' primarily examines mass media as:",
-    "options": ["A purely technical subject unrelated to society", "A social institution shaped by, and shaping, historical, political and economic processes in India", "An entity with no connection to colonialism or nationalism", "A field of study limited only to advertising"],
-    "correct_index": 1,
-    "explanation": "The chapter frames mass media as a social institution, tracing its historical evolution from colonial times to the present and examining how it both reflects and shapes India's political, economic and cultural life.",
-    "ncert_page": 205,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  }
+    {
+        "mcq_id": "c14_q01",
+        "chapter_id": "soc_ch14",
+        "question": "Which Act of 1878, passed by the colonial government, was aimed at controlling the vernacular press in India?",
+        "options": [
+            "Indian Press Act",
+            "Vernacular Press Act",
+            "Newspaper Registration Act",
+            "Sedition Act"
+        ],
+        "correct_index": 1,
+        "explanation": "The Vernacular Press Act of 1878 was enacted by the British colonial government specifically to curb and control newspapers published in Indian languages that were seen as critical of colonial rule.",
+        "ncert_page": 176,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q02",
+        "chapter_id": "soc_ch14",
+        "question": "During the colonial period, the nationalist press primarily served which purpose?",
+        "options": [
+            "Promoting British goods",
+            "Mobilising public opinion against colonial rule",
+            "Reporting only sports news",
+            "Entertaining the elite class"
+        ],
+        "correct_index": 1,
+        "explanation": "The nationalist press played a crucial role in the freedom struggle by mobilising public opinion, spreading nationalist ideas, and criticising colonial policies.",
+        "ncert_page": 176,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q03",
+        "chapter_id": "soc_ch14",
+        "question": "Mass media is often referred to as which 'estate' of democracy?",
+        "options": [
+            "First estate",
+            "Second estate",
+            "Third estate",
+            "Fourth estate"
+        ],
+        "correct_index": 3,
+        "explanation": "The media is called the 'fourth estate' because, alongside the legislature, executive and judiciary, it plays a watchdog role in a democracy by informing citizens and holding power accountable.",
+        "ncert_page": 178,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q04",
+        "chapter_id": "soc_ch14",
+        "question": "Which broadcasting organisation is India's national radio service?",
+        "options": [
+            "Doordarshan",
+            "All India Radio",
+            "Prasar Bharati Television",
+            "Indian Broadcasting Corporation"
+        ],
+        "correct_index": 1,
+        "explanation": "All India Radio (AIR), also known as Akashvani, is India's national public radio broadcaster and has historically played a major role in disseminating information across the country.",
+        "ncert_page": 180,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q05",
+        "chapter_id": "soc_ch14",
+        "question": "Doordarshan is India's national body for which form of mass media?",
+        "options": [
+            "Radio broadcasting",
+            "Television broadcasting",
+            "Newspaper publishing",
+            "Film production"
+        ],
+        "correct_index": 1,
+        "explanation": "Doordarshan is the public service television broadcaster of India and was for a long period the only television channel available to Indian viewers.",
+        "ncert_page": 181,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q06",
+        "chapter_id": "soc_ch14",
+        "question": "The rapid expansion of satellite television channels in India occurred mainly after which development?",
+        "options": [
+            "Independence in 1947",
+            "The Green Revolution",
+            "Economic liberalisation of the early 1990s",
+            "The Emergency of 1975"
+        ],
+        "correct_index": 2,
+        "explanation": "The economic liberalisation policies of the early 1990s opened India's markets to foreign investment and technology, leading to a rapid growth of satellite and cable television channels.",
+        "ncert_page": 182,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q07",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following is an example of print media?",
+        "options": [
+            "Television",
+            "Radio",
+            "Newspaper",
+            "Internet streaming"
+        ],
+        "correct_index": 2,
+        "explanation": "Newspapers, along with magazines and journals, fall under print media, which relies on printed text and images, unlike electronic media that uses audio-visual or digital transmission.",
+        "ncert_page": 177,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q08",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following best describes 'electronic media'?",
+        "options": [
+            "Media distributed only through handwritten notices",
+            "Media that uses electronic technology such as television, radio and internet",
+            "Media limited to newspapers only",
+            "Media that cannot reach rural areas"
+        ],
+        "correct_index": 1,
+        "explanation": "Electronic media refers to communication channels that use electronic technology for transmission, including television, radio, film and the internet.",
+        "ncert_page": 177,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q09",
+        "chapter_id": "soc_ch14",
+        "question": "Concentration of media ownership in the hands of a few large corporations raises concerns about which issue?",
+        "options": [
+            "Excess of independent voices",
+            "Diversity and plurality of opinion being undermined",
+            "Too many small newspapers",
+            "Increased government ownership"
+        ],
+        "correct_index": 1,
+        "explanation": "When media ownership becomes concentrated among a few corporate houses, sociologists worry it undermines diversity of viewpoints and allows owners to influence content according to their own interests.",
+        "ncert_page": 190,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q10",
+        "chapter_id": "soc_ch14",
+        "question": "Advertising is closely linked with the growth of which social phenomenon, as discussed in the chapter?",
+        "options": [
+            "Agrarian economy",
+            "Consumer culture",
+            "Joint family system",
+            "Caste-based occupations"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter discusses how advertising fuels and sustains consumer culture by creating desires for products and shaping lifestyles, particularly among the urban middle classes.",
+        "ncert_page": 191,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q11",
+        "chapter_id": "soc_ch14",
+        "question": "Which term describes ordinary people using digital tools like blogs and social media to report and comment on events, sometimes bypassing traditional media?",
+        "options": [
+            "Corporate journalism",
+            "Embedded journalism",
+            "Citizen journalism",
+            "State journalism"
+        ],
+        "correct_index": 2,
+        "explanation": "Citizen journalism refers to the phenomenon where private individuals, using accessible technologies like mobile phones and the internet, collect, report and disseminate news themselves.",
+        "ncert_page": 195,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q12",
+        "chapter_id": "soc_ch14",
+        "question": "According to the chapter, new media such as the internet has changed communication mainly by:",
+        "options": [
+            "Making communication strictly one-way",
+            "Enabling interactivity and two-way flow of information",
+            "Eliminating the need for any media literacy",
+            "Restricting communication to government agencies"
+        ],
+        "correct_index": 1,
+        "explanation": "Unlike traditional one-way broadcast media, new media such as the internet allows interactivity, letting users become both consumers and producers of content.",
+        "ncert_page": 194,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q13",
+        "chapter_id": "soc_ch14",
+        "question": "The term 'sting operation', discussed in relation to media ethics, refers to:",
+        "options": [
+            "A government press release",
+            "An undercover investigative method used by media to expose wrongdoing",
+            "A type of radio jingle",
+            "A television soap opera format"
+        ],
+        "correct_index": 1,
+        "explanation": "Sting operations involve journalists using hidden cameras or covert methods to catch corrupt or illegal practices on record, raising debates about media ethics and privacy.",
+        "ncert_page": 196,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q14",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following was a major early nationalist newspaper associated with the freedom struggle?",
+        "options": [
+            "The Times of India",
+            "Kesari",
+            "India Today",
+            "The Hindustan Times"
+        ],
+        "correct_index": 1,
+        "explanation": "Kesari, founded by Bal Gangadhar Tilak, was an influential nationalist newspaper that mobilised public opinion against British rule.",
+        "ncert_page": 176,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q15",
+        "chapter_id": "soc_ch14",
+        "question": "The growth of regional language newspapers in India has been significant because it:",
+        "options": [
+            "Has reduced literacy rates",
+            "Has expanded the reach of media to non-English speaking populations",
+            "Has replaced television entirely",
+            "Has been discouraged by the government"
+        ],
+        "correct_index": 1,
+        "explanation": "Regional language press has grown rapidly in India, reaching large sections of the population who may not read English, thereby democratising access to news and information.",
+        "ncert_page": 183,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q16",
+        "chapter_id": "soc_ch14",
+        "question": "Cinema in India has historically played a social role by:",
+        "options": [
+            "Remaining isolated from social issues",
+            "Reflecting and shaping social attitudes, including on caste, gender and nationalism",
+            "Being banned throughout the colonial period",
+            "Existing only as a form of religious ritual"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter notes that Indian cinema has often engaged with social themes such as caste, gender, poverty and nationalism, both reflecting and influencing public attitudes.",
+        "ncert_page": 188,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q17",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following best captures the concern about media and gender raised in the chapter?",
+        "options": [
+            "Media never portrays women",
+            "Media often stereotypes or objectifies women in advertisements and programmes",
+            "Media exclusively empowers women",
+            "Gender is not a relevant topic for media studies"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter discusses how mass media, especially advertising and entertainment, often reinforces gender stereotypes and can objectify women, even as it sometimes challenges such norms.",
+        "ncert_page": 192,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q18",
+        "chapter_id": "soc_ch14",
+        "question": "Cross-media ownership refers to a situation where:",
+        "options": [
+            "A single company owns multiple types of media such as newspapers, television and radio",
+            "Media houses are owned by the government only",
+            "No company can own more than one media outlet",
+            "Media companies operate only in one country"
+        ],
+        "correct_index": 0,
+        "explanation": "Cross-media ownership occurs when a single corporate entity controls different media forms like print, television and radio, raising concerns about concentration of influence over public opinion.",
+        "ncert_page": 190,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q19",
+        "chapter_id": "soc_ch14",
+        "question": "During the Emergency period (1975-77), the Indian press faced which major restriction?",
+        "options": [
+            "Complete freedom to publish anything",
+            "Press censorship imposed by the government",
+            "Ban on all electronic media only",
+            "Compulsory foreign ownership"
+        ],
+        "correct_index": 1,
+        "explanation": "During the Emergency, the government imposed strict press censorship, curbing freedom of the press and controlling what newspapers could publish.",
+        "ncert_page": 179,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q20",
+        "chapter_id": "soc_ch14",
+        "question": "Globalisation's impact on Indian media includes:",
+        "options": [
+            "Complete isolation of Indian media from the world",
+            "Entry of foreign television channels and greater cross-border content flow",
+            "Total ban on foreign investment in media",
+            "Elimination of Indian-language programming"
+        ],
+        "correct_index": 1,
+        "explanation": "Globalisation opened Indian media markets to foreign satellite channels, international news agencies and cross-border content, transforming the media landscape after liberalisation.",
+        "ncert_page": 183,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q21",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following media forms is described as having the widest reach in rural India historically, due to low literacy requirements?",
+        "options": [
+            "Newspapers",
+            "Radio",
+            "Internet",
+            "Academic journals"
+        ],
+        "correct_index": 1,
+        "explanation": "Radio, requiring no literacy and being relatively inexpensive, historically had a wide reach among rural populations compared to print media.",
+        "ncert_page": 180,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q22",
+        "chapter_id": "soc_ch14",
+        "question": "The chapter discusses that media can shape public opinion primarily through:",
+        "options": [
+            "Selecting and framing which issues receive coverage",
+            "Refusing to report any news",
+            "Only broadcasting entertainment content",
+            "Ignoring political developments"
+        ],
+        "correct_index": 0,
+        "explanation": "Media shapes public opinion through agenda-setting, that is, by choosing which issues to highlight and how to frame them, thereby influencing what audiences consider important.",
+        "ncert_page": 178,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q23",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following is true about the relationship between media and social movements as discussed in the chapter?",
+        "options": [
+            "Media coverage can amplify the visibility of social movements",
+            "Media never covers protests or movements",
+            "Social movements have no relation to media",
+            "Media coverage always weakens movements"
+        ],
+        "correct_index": 0,
+        "explanation": "The chapter highlights how media coverage of protests and social movements can bring wider public attention and support, making media an important tool for activists.",
+        "ncert_page": 193,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q24",
+        "chapter_id": "soc_ch14",
+        "question": "Prasar Bharati is:",
+        "options": [
+            "A private television network",
+            "The public broadcasting corporation of India overseeing Doordarshan and All India Radio",
+            "A newspaper company",
+            "An internet service provider"
+        ],
+        "correct_index": 1,
+        "explanation": "Prasar Bharati is the statutory autonomous public broadcasting corporation of India that oversees both Doordarshan and All India Radio.",
+        "ncert_page": 181,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q25",
+        "chapter_id": "soc_ch14",
+        "question": "One of the earliest uses of the printing press in India by missionaries and colonial administrators was for:",
+        "options": [
+            "Printing entertainment magazines only",
+            "Religious texts, administrative and educational material",
+            "Producing only political cartoons",
+            "Manufacturing currency notes"
+        ],
+        "correct_index": 1,
+        "explanation": "The printing press was initially introduced in India largely for religious, administrative and educational purposes before it developed into a tool for nationalist mobilisation.",
+        "ncert_page": 175,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q26",
+        "chapter_id": "soc_ch14",
+        "question": "The chapter suggests that media in a democracy ideally functions as a:",
+        "options": [
+            "Tool of propaganda only",
+            "Watchdog holding power accountable and informing citizens",
+            "Private entertainment source with no public role",
+            "Instrument solely for advertising"
+        ],
+        "correct_index": 1,
+        "explanation": "In a democracy, media is expected to act as a watchdog, scrutinising government and institutions while keeping citizens informed to enable participation.",
+        "ncert_page": 178,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q27",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following is a concern associated with corporate control over media, as per the chapter?",
+        "options": [
+            "Increased independent local reporting",
+            "Prioritising commercial interests over public interest journalism",
+            "Guaranteed unbiased reporting",
+            "Complete removal of advertisements"
+        ],
+        "correct_index": 1,
+        "explanation": "Corporate ownership can lead media houses to prioritise profit and advertiser interests, sometimes compromising public interest journalism and diverse reporting.",
+        "ncert_page": 190,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q28",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following best explains why television is considered particularly powerful compared to print media?",
+        "options": [
+            "It requires no electricity",
+            "It combines audio and visual elements, making it accessible even to non-literate audiences",
+            "It is cheaper to produce than newspapers",
+            "It has no advertisements"
+        ],
+        "correct_index": 1,
+        "explanation": "Television's combination of sound and visuals allows it to reach even non-literate audiences, giving it a broader and more immediate impact than print media.",
+        "ncert_page": 182,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q29",
+        "chapter_id": "soc_ch14",
+        "question": "The term 'media literacy' as used in discussions of mass media refers to:",
+        "options": [
+            "The ability to read only newspapers",
+            "The ability to critically analyse and evaluate media content",
+            "Owning a television set",
+            "Working as a journalist"
+        ],
+        "correct_index": 1,
+        "explanation": "Media literacy refers to the skill of critically understanding, analysing and evaluating media messages rather than passively consuming them.",
+        "ncert_page": 194,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q30",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following best describes the impact of social media as discussed in the chapter?",
+        "options": [
+            "It has no effect on public discourse",
+            "It enables rapid, decentralised sharing of information and mobilisation",
+            "It is limited to entertainment and has no social relevance",
+            "It has completely replaced television"
+        ],
+        "correct_index": 1,
+        "explanation": "Social media allows information to spread rapidly and enables decentralised communication, playing a role in mobilising opinion and organising collective action.",
+        "ncert_page": 195,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q31",
+        "chapter_id": "soc_ch14",
+        "question": "Before the arrival of satellite television, which single broadcaster dominated Indian television?",
+        "options": [
+            "Star TV",
+            "Doordarshan",
+            "Zee TV",
+            "CNN"
+        ],
+        "correct_index": 1,
+        "explanation": "Prior to the liberalisation of the 1990s and the entry of satellite channels, Doordarshan was the sole and dominant television broadcaster in India.",
+        "ncert_page": 181,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q32",
+        "chapter_id": "soc_ch14",
+        "question": "The chapter notes that press freedom is important in a democracy primarily because it:",
+        "options": [
+            "Allows unrestricted state control over information",
+            "Enables citizens to access diverse information and hold authorities accountable",
+            "Ensures only government viewpoints are published",
+            "Prevents any criticism of policies"
+        ],
+        "correct_index": 1,
+        "explanation": "Press freedom is considered vital because it allows citizens access to diverse viewpoints and information, which is essential for holding those in power accountable.",
+        "ncert_page": 179,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q33",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following newspapers/journals is associated with Mahatma Gandhi's efforts to communicate nationalist ideas?",
+        "options": [
+            "Young India",
+            "The Statesman",
+            "Filmfare",
+            "India Today"
+        ],
+        "correct_index": 0,
+        "explanation": "Mahatma Gandhi used journals like Young India and Harijan to spread his ideas on nationalism, non-violence and social reform.",
+        "ncert_page": 177,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q34",
+        "chapter_id": "soc_ch14",
+        "question": "The concept of 'public sphere', often invoked in media studies, refers to:",
+        "options": [
+            "Private family gatherings",
+            "A space for public discussion and debate on matters of common concern",
+            "Government offices only",
+            "Religious institutions exclusively"
+        ],
+        "correct_index": 1,
+        "explanation": "The public sphere is a concept referring to the space, often facilitated by media, where citizens can engage in debate and discussion about matters of common concern.",
+        "ncert_page": 178,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q35",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following is an effect of advertising highlighted in the chapter?",
+        "options": [
+            "It discourages consumption entirely",
+            "It shapes aspirations and desires, often promoting consumerist lifestyles",
+            "It has no influence on youth",
+            "It is restricted only to print media"
+        ],
+        "correct_index": 1,
+        "explanation": "Advertising is shown to shape consumer aspirations and desires, often promoting particular lifestyles and consumerist values, especially among urban and younger audiences.",
+        "ncert_page": 191,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q36",
+        "chapter_id": "soc_ch14",
+        "question": "According to the chapter, which of the following was a key feature of the vernacular press during colonial rule?",
+        "options": [
+            "It was published only in English",
+            "It gave voice to local and regional concerns in Indian languages",
+            "It supported colonial policies unconditionally",
+            "It had no readership"
+        ],
+        "correct_index": 1,
+        "explanation": "The vernacular press published in Indian languages and often gave voice to local grievances and nationalist sentiments, making it a target of colonial censorship.",
+        "ncert_page": 176,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q37",
+        "chapter_id": "soc_ch14",
+        "question": "Why did the colonial government find the vernacular press particularly threatening?",
+        "options": [
+            "It had no readers",
+            "It could mobilise the masses in local languages against colonial rule",
+            "It only published advertisements",
+            "It was funded entirely by the British"
+        ],
+        "correct_index": 1,
+        "explanation": "The vernacular press could reach and mobilise ordinary people in their own languages, making it a powerful tool against colonial rule and thus a target for repression.",
+        "ncert_page": 176,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q38",
+        "chapter_id": "soc_ch14",
+        "question": "The chapter discusses that cable and satellite television expanded viewer choice by:",
+        "options": [
+            "Offering only one channel",
+            "Introducing multiple private and foreign channels alongside Doordarshan",
+            "Banning all Indian content",
+            "Restricting broadcasting to metro cities only"
+        ],
+        "correct_index": 1,
+        "explanation": "The advent of cable and satellite television introduced numerous private and international channels, breaking Doordarshan's monopoly and greatly expanding viewer choice.",
+        "ncert_page": 182,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q39",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following best reflects a criticism of television's portrayal of social reality, as discussed in the chapter?",
+        "options": [
+            "Television always presents balanced, unbiased reality",
+            "Television can construct and distort reality through selective representation",
+            "Television content is entirely free from commercial pressures",
+            "Television has no influence over viewers' perceptions"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter notes that television, through selective framing and representation, can construct particular versions of reality that may not fully or fairly reflect social conditions.",
+        "ncert_page": 189,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q40",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following media developments is associated with the process of democratisation of information in India?",
+        "options": [
+            "Rise of regional language newspapers and community radio",
+            "Complete state monopoly over all media",
+            "Banning of private television channels",
+            "Elimination of internet access"
+        ],
+        "correct_index": 0,
+        "explanation": "The growth of regional language newspapers and community radio has been seen as democratising access to information, reaching diverse linguistic and local communities.",
+        "ncert_page": 184,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q41",
+        "chapter_id": "soc_ch14",
+        "question": "Community radio, as discussed in the chapter, is significant because it:",
+        "options": [
+            "Is controlled entirely by multinational corporations",
+            "Allows local communities to produce and broadcast content relevant to their own needs",
+            "Broadcasts only national news",
+            "Is banned in India"
+        ],
+        "correct_index": 1,
+        "explanation": "Community radio enables local communities to create and broadcast content addressing their specific social, cultural and developmental needs, promoting grassroots participation in media.",
+        "ncert_page": 184,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q42",
+        "chapter_id": "soc_ch14",
+        "question": "The chapter argues that the relationship between media and consumer culture became especially pronounced after:",
+        "options": [
+            "Independence in 1947",
+            "Economic liberalisation and the growth of a consuming middle class",
+            "The partition of India",
+            "The abolition of princely states"
+        ],
+        "correct_index": 1,
+        "explanation": "Economic liberalisation led to the expansion of a consuming middle class, and media, especially advertising, played a central role in fostering and sustaining this consumer culture.",
+        "ncert_page": 191,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q43",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following statements about censorship in India, as discussed in the chapter, is correct?",
+        "options": [
+            "India has never practised any form of media censorship",
+            "Censorship has occurred at various points, notably during the Emergency, raising debates on press freedom",
+            "Censorship applies only to films and never to newspapers",
+            "Censorship was abolished immediately after Independence"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter discusses how censorship, notably during the Emergency of 1975-77, has periodically restricted press freedom in India, generating ongoing debates about the balance between state control and free expression.",
+        "ncert_page": 179,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q44",
+        "chapter_id": "soc_ch14",
+        "question": "In the context of the chapter, 'agenda setting' by media refers to the media's power to:",
+        "options": [
+            "Tell people exactly what to think",
+            "Influence what issues the public perceives as important through selective coverage",
+            "Set government budgets",
+            "Determine election results directly"
+        ],
+        "correct_index": 1,
+        "explanation": "Agenda setting theory holds that while media may not dictate what people think, it strongly influences what topics people consider important through the issues it chooses to highlight.",
+        "ncert_page": 178,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q45",
+        "chapter_id": "soc_ch14",
+        "question": "According to the chapter, one impact of the internet and new media on traditional print and broadcast media has been:",
+        "options": [
+            "Complete disappearance of newspapers and television",
+            "Increased competition and a shift of some audiences towards digital platforms",
+            "No impact whatsoever",
+            "A return to purely oral traditions of communication"
+        ],
+        "correct_index": 1,
+        "explanation": "The rise of the internet and new media has introduced increased competition for traditional print and broadcast media, with audiences increasingly shifting towards digital platforms.",
+        "ncert_page": 194,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q46",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following best describes the term 'media convergence' as used in discussions of new media?",
+        "options": [
+            "The complete separation of print, television and internet",
+            "The coming together of different media forms and technologies on a single platform",
+            "The closing down of all television channels",
+            "A government policy banning digital media"
+        ],
+        "correct_index": 1,
+        "explanation": "Media convergence refers to the merging of previously distinct media forms, such as text, audio, video and internet, onto integrated digital platforms, especially notable with smartphones and the internet.",
+        "ncert_page": 195,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q47",
+        "chapter_id": "soc_ch14",
+        "question": "The chapter suggests that debates over media and democracy often centre on the tension between:",
+        "options": [
+            "Media freedom and commercial or political control over content",
+            "Radio and television only",
+            "Print media and cinema exclusively",
+            "Rural and urban populations having identical media access"
+        ],
+        "correct_index": 0,
+        "explanation": "A central debate in the chapter concerns the tension between the ideal of a free press serving democracy and the reality of commercial and political pressures that can constrain media content.",
+        "ncert_page": 190,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q48",
+        "chapter_id": "soc_ch14",
+        "question": "Which of the following is true regarding the growth of the film industry in India as noted in the chapter?",
+        "options": [
+            "Indian cinema has remained a minor, negligible cultural force",
+            "India has developed one of the largest film industries in the world, with significant social influence",
+            "Cinema was banned throughout the twentieth century",
+            "Films have no bearing on public attitudes"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter notes that India has developed one of the world's largest film industries, and cinema has had a significant influence on shaping public attitudes and popular culture.",
+        "ncert_page": 188,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q49",
+        "chapter_id": "soc_ch14",
+        "question": "The chapter's discussion of media ownership patterns suggests that concentration of ownership can lead to:",
+        "options": [
+            "Greater diversity of independent viewpoints",
+            "Homogenisation of content and reduced space for dissenting voices",
+            "Complete elimination of advertising revenue",
+            "Mandatory government takeover of all channels"
+        ],
+        "correct_index": 1,
+        "explanation": "When ownership of media outlets becomes concentrated in a few hands, content can become homogenised, and there is less room for diverse or dissenting viewpoints to be aired.",
+        "ncert_page": 190,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c14_q50",
+        "chapter_id": "soc_ch14",
+        "question": "Overall, the chapter 'Mass Media and Communications' primarily examines mass media as:",
+        "options": [
+            "A purely technical subject unrelated to society",
+            "A social institution shaped by, and shaping, historical, political and economic processes in India",
+            "An entity with no connection to colonialism or nationalism",
+            "A field of study limited only to advertising"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter frames mass media as a social institution, tracing its historical evolution from colonial times to the present and examining how it both reflects and shapes India's political, economic and cultural life.",
+        "ncert_page": 205,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    }
 ]

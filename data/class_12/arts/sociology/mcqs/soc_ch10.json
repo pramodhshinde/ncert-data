@@ -1,552 +1,802 @@
 [
-  {
-    "mcq_id": "c10_q01",
-    "chapter_id": "c10",
-    "question": "Which fundamental principle did India adopt at independence, granting every adult citizen the right to vote regardless of literacy, property or gender?",
-    "options": ["Universal Adult Franchise", "Restricted Franchise", "Property-based Franchise", "Nominated Representation"],
-    "correct_index": 0,
-    "explanation": "India adopted universal adult franchise from the very first general election, a bold step considering the low literacy levels at the time.",
-    "ncert_page": 56,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q02",
-    "chapter_id": "c10",
-    "question": "The Constitutional Amendments that gave constitutional status to Panchayati Raj Institutions in 1992 were the:",
-    "options": ["71st and 72nd Amendments", "73rd and 74th Amendments", "74th and 75th Amendments", "76th and 77th Amendments"],
-    "correct_index": 1,
-    "explanation": "The 73rd Amendment dealt with rural local bodies (Panchayats) and the 74th Amendment dealt with urban local bodies (Municipalities), both passed in 1992.",
-    "ncert_page": 56,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q03",
-    "chapter_id": "c10",
-    "question": "The 73rd Amendment reserved seats in Panchayati Raj Institutions for which groups?",
-    "options": ["Only Scheduled Castes", "Only women", "Women, Scheduled Castes and Scheduled Tribes", "Only religious minorities"],
-    "correct_index": 2,
-    "explanation": "The 73rd Amendment mandated reservation of one-third seats for women along with reservation for Scheduled Castes and Scheduled Tribes in proportion to their population.",
-    "ncert_page": 57,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q04",
-    "chapter_id": "c10",
-    "question": "What proportion of seats in Panchayati Raj Institutions was reserved for women under the 73rd Amendment?",
-    "options": ["One-fourth", "One-third", "Half", "One-fifth"],
-    "correct_index": 1,
-    "explanation": "The 73rd Constitutional Amendment reserved not less than one-third of the total seats for women in Panchayats.",
-    "ncert_page": 57,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q05",
-    "chapter_id": "c10",
-    "question": "The body constitutionally mandated to conduct free and fair elections in India is the:",
-    "options": ["Supreme Court of India", "Election Commission of India", "Union Public Service Commission", "National Human Rights Commission"],
-    "correct_index": 1,
-    "explanation": "The Election Commission of India is an autonomous constitutional body responsible for administering election processes in India.",
-    "ncert_page": 58,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q06",
-    "chapter_id": "c10",
-    "question": "According to the chapter, elections in India are best described as:",
-    "options": ["A purely administrative exercise", "A social phenomenon involving festivity and mass participation", "An event limited to the urban elite", "A ritual with little sociological significance"],
-    "correct_index": 1,
-    "explanation": "The textbook describes elections in India as a major social phenomenon, almost like a festival, drawing enormous participation across social groups.",
-    "ncert_page": 59,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q07",
-    "chapter_id": "c10",
-    "question": "In the early decades after independence, the Indian party system was characterised by sociologist Rajni Kothari as a:",
-    "options": ["Two-party system", "One-party dominant system", "Multi-party coalition system", "No-party system"],
-    "correct_index": 1,
-    "explanation": "Rajni Kothari described the Indian party system in the early decades as the 'Congress system', a one-party dominant system with the Congress as the central party.",
-    "ncert_page": 60,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q08",
-    "chapter_id": "c10",
-    "question": "Which party dominated Indian politics for most of the first two decades after independence?",
-    "options": ["Bharatiya Janata Party", "Communist Party of India", "Indian National Congress", "Janata Dal"],
-    "correct_index": 2,
-    "explanation": "The Indian National Congress enjoyed near total dominance in national and most state elections until the late 1960s.",
-    "ncert_page": 60,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q09",
-    "chapter_id": "c10",
-    "question": "The gradual rise of regional and state-based parties from the late 1960s onward reflected:",
-    "options": ["The decline of federalism in India", "The growing assertion of regional and local identities in politics", "The abolition of the party system", "A return to princely state rule"],
-    "correct_index": 1,
-    "explanation": "Regional parties emerged as vehicles for expressing regional, linguistic and local identities, marking a shift away from Congress dominance.",
-    "ncert_page": 61,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q10",
-    "chapter_id": "c10",
-    "question": "The phenomenon in which several parties come together to form a government due to lack of a single majority is known as:",
-    "options": ["Federal politics", "Coalition politics", "One-party rule", "Presidential politics"],
-    "correct_index": 1,
-    "explanation": "Coalition politics became prominent in India from the late 1980s onwards as no single party could secure a clear majority.",
-    "ncert_page": 62,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q11",
-    "chapter_id": "c10",
-    "question": "The term 'vote bank' in Indian political sociology refers to:",
-    "options": ["A bank account maintained by political parties", "A group of voters who consistently support a party, often on caste or community lines", "The total number of votes cast in an election", "The reserve fund of the Election Commission"],
-    "correct_index": 1,
-    "explanation": "Vote bank refers to a loyal bloc of voters, often mobilised on caste, community or patron-client lines, who tend to vote for a particular party or candidate.",
-    "ncert_page": 63,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q12",
-    "chapter_id": "c10",
-    "question": "The sociologist who used the term 'vote bank' to describe patron-client based voting patterns in Indian villages was:",
-    "options": ["M.N. Srinivas", "Andre Beteille", "F.G. Bailey", "Louis Dumont"],
-    "correct_index": 0,
-    "explanation": "M.N. Srinivas coined the term 'vote bank' to describe how dominant caste patrons could deliver blocs of dependent votes to a party or candidate.",
-    "ncert_page": 63,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q13",
-    "chapter_id": "c10",
-    "question": "The relationship between caste and politics in India, as discussed in the chapter, is best described as:",
-    "options": ["Caste has no role in Indian politics", "Caste and politics have influenced and shaped one another", "Politics has completely eliminated caste consciousness", "Caste identities disappeared after independence"],
-    "correct_index": 1,
-    "explanation": "The chapter shows that politics has 'politicised' caste while caste identities have simultaneously shaped political mobilisation, a two-way relationship.",
-    "ncert_page": 64,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q14",
-    "chapter_id": "c10",
-    "question": "The Emergency was imposed in India during which period?",
-    "options": ["1971-1973", "1975-1977", "1980-1982", "1984-1986"],
-    "correct_index": 1,
-    "explanation": "The Emergency was declared by Prime Minister Indira Gandhi in June 1975 and lasted until 1977.",
-    "ncert_page": 65,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q15",
-    "chapter_id": "c10",
-    "question": "One major consequence of the Emergency (1975-77), as noted in the chapter, was:",
-    "options": ["Strengthening of one-party dominance", "Suspension of civil liberties and press censorship", "Immediate abolition of elections in India", "Permanent postponement of Panchayati Raj"],
-    "correct_index": 1,
-    "explanation": "During the Emergency, civil liberties were curtailed, the press was censored, and many opposition leaders were arrested.",
-    "ncert_page": 65,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q16",
-    "chapter_id": "c10",
-    "question": "The 1977 general election, held after the Emergency, resulted in:",
-    "options": ["Re-election of the Congress with a bigger majority", "Defeat of the Congress and formation of the first non-Congress government at the Centre (Janata Party)", "Cancellation of elections", "A hung parliament with no government formed"],
-    "correct_index": 1,
-    "explanation": "In 1977, the Janata Party defeated the Congress, forming the first non-Congress government at the Centre, showing the electorate's rejection of the Emergency.",
-    "ncert_page": 66,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q17",
-    "chapter_id": "c10",
-    "question": "The Mandal Commission was primarily concerned with:",
-    "options": ["Delimitation of constituencies", "Identifying socially and educationally backward classes for reservation", "Reforming the Election Commission", "Panchayati Raj reforms"],
-    "correct_index": 1,
-    "explanation": "The Mandal Commission, headed by B.P. Mandal, was tasked with identifying socially and educationally backward classes and recommending reservations for them.",
-    "ncert_page": 67,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q18",
-    "chapter_id": "c10",
-    "question": "The Mandal Commission recommendations, when implemented in 1990, provided for what percentage of reservation for Other Backward Classes (OBCs) in central government jobs?",
-    "options": ["15%", "22.5%", "27%", "33%"],
-    "correct_index": 2,
-    "explanation": "The Mandal Commission recommended 27 per cent reservation for OBCs in central government jobs, which was implemented by the V.P. Singh government in 1990.",
-    "ncert_page": 67,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q19",
-    "chapter_id": "c10",
-    "question": "The implementation of the Mandal Commission recommendations in 1990 led to:",
-    "options": ["Complete national consensus without any protest", "Widespread protests and intense political debate over reservation", "Immediate abolition of caste-based reservation", "No political impact at all"],
-    "correct_index": 1,
-    "explanation": "The Mandal Commission's implementation triggered widespread protests, especially among upper-caste youth, and became a major political flashpoint.",
-    "ncert_page": 68,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q20",
-    "chapter_id": "c10",
-    "question": "The rise of OBC-based political assertion following the Mandal Commission is often referred to in political sociology as part of:",
-    "options": ["The 'silent revolution' of backward classes", "The Green Revolution", "The White Revolution", "The Industrial Revolution"],
-    "correct_index": 0,
-    "explanation": "Scholars have described the political rise of the backward classes after Mandal as a 'silent revolution', reshaping the social base of Indian politics.",
-    "ncert_page": 68,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q21",
-    "chapter_id": "c10",
-    "question": "The term 'deepening of democracy' in the chapter refers to:",
-    "options": ["Reduction in the number of voters", "Increasing participation of hitherto marginalised groups such as backward castes, Dalits and women in political processes", "Concentration of power in fewer hands", "Abolition of elections at the local level"],
-    "correct_index": 1,
-    "explanation": "Deepening of democracy refers to the greater involvement of previously marginalised groups in politics, decision-making and representation.",
-    "ncert_page": 69,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q22",
-    "chapter_id": "c10",
-    "question": "Which of the following is cited as evidence of the deepening of democracy in India?",
-    "options": ["Declining voter turnout among the poor", "Increasing participation of the poor and disadvantaged in elections compared to the elite", "Total exclusion of lower castes from voting", "Reduction in number of political parties"],
-    "correct_index": 1,
-    "explanation": "Studies cited in the chapter show that the poor and disadvantaged sections often vote in higher proportions than the affluent, reflecting deepening democracy.",
-    "ncert_page": 69,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q23",
-    "chapter_id": "c10",
-    "question": "Decentralisation of power in India was primarily aimed at strengthening democracy at which level?",
-    "options": ["International level", "National level only", "Grassroots or local level", "State level only"],
-    "correct_index": 2,
-    "explanation": "Decentralisation through Panchayati Raj and Municipalities aimed to bring democratic decision-making down to the grassroots/local level.",
-    "ncert_page": 70,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q24",
-    "chapter_id": "c10",
-    "question": "Pressure groups and interest groups differ from political parties mainly because they:",
-    "options": ["Seek to capture political power directly by contesting elections", "Seek to influence government policy without directly contesting elections", "Have no role in a democracy", "Are banned under the Indian Constitution"],
-    "correct_index": 1,
-    "explanation": "Pressure groups aim to influence policy and decision-making from outside, unlike political parties which seek to win elections and form governments.",
-    "ncert_page": 71,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q25",
-    "chapter_id": "c10",
-    "question": "Which of the following would be considered an example of a pressure group in the Indian context?",
-    "options": ["A trade union or farmers' organisation lobbying for policy change", "The Election Commission", "The Lok Sabha", "The Supreme Court"],
-    "correct_index": 0,
-    "explanation": "Trade unions, farmers' organisations, and business associations are examples of pressure groups that seek to influence government policy.",
-    "ncert_page": 71,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q26",
-    "chapter_id": "c10",
-    "question": "Social movements, as discussed in the chapter, contribute to democracy mainly by:",
-    "options": ["Undermining electoral processes", "Raising new issues and demands that formal political institutions may neglect", "Replacing the need for elections", "Weakening civil society"],
-    "correct_index": 1,
-    "explanation": "Social movements bring attention to issues like environment, gender and displacement that mainstream political parties may overlook, thereby enriching democracy.",
-    "ncert_page": 72,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q27",
-    "chapter_id": "c10",
-    "question": "The distinctive feature of Indian democracy compared to many Western democracies, as highlighted in the chapter, is that India adopted universal adult franchise:",
-    "options": ["After achieving full literacy", "Simultaneously with independence, before widespread literacy or economic development", "Only for property owners initially", "A century after western nations"],
-    "correct_index": 1,
-    "explanation": "Unlike Western nations where franchise was extended gradually, India granted universal adult franchise immediately at independence despite low literacy and poverty.",
-    "ncert_page": 56,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q28",
-    "chapter_id": "c10",
-    "question": "The changing nature of political participation in India since independence shows a trend of:",
-    "options": ["Declining participation among all social groups", "Increasing participation, especially among previously excluded groups like women and lower castes", "No change over the decades", "Participation restricted only to urban elites"],
-    "correct_index": 1,
-    "explanation": "Political participation, especially voter turnout among marginalised groups, has generally increased over the decades since independence.",
-    "ncert_page": 73,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q29",
-    "chapter_id": "c10",
-    "question": "The debate over reservation for women in the Lok Sabha and state assemblies has been a long-standing issue related to:",
-    "options": ["Women's political participation and representation", "Reservation in private sector jobs", "Reservation in sports", "Reservation for religious minorities only"],
-    "correct_index": 0,
-    "explanation": "The Women's Reservation Bill debate concerns reserving seats for women in the Lok Sabha and state legislatures to enhance their political representation.",
-    "ncert_page": 74,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q30",
-    "chapter_id": "c10",
-    "question": "At the local self-government (Panchayat) level, reservation for women has resulted in what significant change according to the chapter?",
-    "options": ["Complete absence of women from Panchayats", "A substantial increase in the number of women in elected local bodies", "Reduction in women's role in local governance", "No effect on women's participation"],
-    "correct_index": 1,
-    "explanation": "Reservation under the 73rd Amendment led to over a million women being elected to Panchayati Raj Institutions, a landmark increase in women's political presence.",
-    "ncert_page": 74,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q31",
-    "chapter_id": "c10",
-    "question": "The gram sabha in the Panchayati Raj system refers to:",
-    "options": ["The assembly of all registered voters of a village panchayat area", "The highest court in a district", "A committee of only elected members", "The state legislature"],
-    "correct_index": 0,
-    "explanation": "The gram sabha is the general body consisting of all adults registered as voters in the panchayat area, forming the base of grassroots democracy.",
-    "ncert_page": 57,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q32",
-    "chapter_id": "c10",
-    "question": "Which of these is one of the three tiers of the Panchayati Raj system established by the 73rd Amendment?",
-    "options": ["Gram Panchayat, Panchayat Samiti, Zila Parishad", "Municipal Corporation, Municipal Council, Nagar Panchayat", "Lok Sabha, Rajya Sabha, State Assembly", "District Court, High Court, Supreme Court"],
-    "correct_index": 0,
-    "explanation": "The three-tier Panchayati Raj structure consists of the Gram Panchayat at the village level, Panchayat Samiti at the block level, and Zila Parishad at the district level.",
-    "ncert_page": 57,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q33",
-    "chapter_id": "c10",
-    "question": "Regular elections to Panchayati Raj Institutions every five years were made mandatory by:",
-    "options": ["The Representation of the People Act, 1951", "The 73rd Constitutional Amendment Act, 1992", "The Government of India Act, 1935", "The Delimitation Act"],
-    "correct_index": 1,
-    "explanation": "The 73rd Amendment mandated regular elections to Panchayats every five years, ensuring institutional continuity of grassroots democracy.",
-    "ncert_page": 57,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q34",
-    "chapter_id": "c10",
-    "question": "The chapter notes that despite formal reservation, women elected to Panchayats often faced the challenge of:",
-    "options": ["Complete absence of any challenges", "Being figureheads while husbands or male relatives ('Pradhan Pati') actually exercised power", "Excessive administrative workload compared to men", "Higher salaries than male members"],
-    "correct_index": 1,
-    "explanation": "The chapter discusses the phenomenon of 'proxy' representation, where male relatives, sometimes called 'Pradhan Pati', continued to wield actual power despite women's formal election.",
-    "ncert_page": 75,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q35",
-    "chapter_id": "c10",
-    "question": "The rise of caste-based and community-based political parties in various states reflects:",
-    "options": ["The irrelevance of caste in modern India", "How social cleavages get translated into political mobilisation and party formation", "The end of democratic politics", "A purely economic phenomenon unrelated to society"],
-    "correct_index": 1,
-    "explanation": "The formation of parties around caste or community identities shows how social divisions in Indian society get expressed through the political process.",
-    "ncert_page": 64,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q36",
-    "chapter_id": "c10",
-    "question": "Which of the following best explains why elections in India involve high voter turnout even among the poor and illiterate?",
-    "options": ["Voting is legally compulsory in India", "Elections offer the poor a sense of dignity and equality, as their vote counts the same as anyone else's", "Only the poor are allowed to vote", "Illiterate citizens are barred from voting"],
-    "correct_index": 1,
-    "explanation": "The chapter highlights that for the poor, voting is often experienced as an assertion of equality and self-respect, since one vote equals one vote regardless of status.",
-    "ncert_page": 59,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q37",
-    "chapter_id": "c10",
-    "question": "The term 'party system' in political sociology refers to:",
-    "options": ["The rules of a single political party", "The pattern of competition and interaction among political parties in a country", "The internal structure of the Election Commission", "The judiciary's role in elections"],
-    "correct_index": 1,
-    "explanation": "A party system describes the overall pattern of how political parties compete, cooperate, and interact within a polity, such as one-party dominant, two-party, or multi-party systems.",
-    "ncert_page": 60,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q38",
-    "chapter_id": "c10",
-    "question": "The decline of the Congress system from the late 1960s was marked by which event in some states?",
-    "options": ["Complete disappearance of elections", "Non-Congress parties and coalitions forming state governments", "Merger of all parties into Congress", "Abolition of state assemblies"],
-    "correct_index": 1,
-    "explanation": "From 1967 onwards, non-Congress parties began forming governments in several states, signalling the erosion of Congress's one-party dominance.",
-    "ncert_page": 61,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q39",
-    "chapter_id": "c10",
-    "question": "The National Front and United Front governments of the late 1980s and 1990s in India were examples of:",
-    "options": ["Single-party majority governments", "Coalition governments formed by multiple parties", "Military governments", "Presidential rule"],
-    "correct_index": 1,
-    "explanation": "The National Front (1989) and United Front (1996-98) were multi-party coalition governments, reflecting the era of coalition politics in India.",
-    "ncert_page": 62,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q40",
-    "chapter_id": "c10",
-    "question": "Backward classes politics in India, as discussed in the chapter, largely gained momentum after which development?",
-    "options": ["The Green Revolution", "The Mandal Commission report and its implementation", "The Emergency of 1975", "The Partition of India"],
-    "correct_index": 1,
-    "explanation": "The Mandal Commission report and its 1990 implementation catalysed the political assertion of backward classes across many states.",
-    "ncert_page": 67,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q41",
-    "chapter_id": "c10",
-    "question": "The concept of 'reservation politics' in the chapter refers to:",
-    "options": ["Reservation of railway tickets by politicians", "Political contestation and mobilisation around the issue of caste-based reservations in education and employment", "Booking of election venues", "Reservation of parliamentary seats for the ruling party"],
-    "correct_index": 1,
-    "explanation": "Reservation politics refers to how the issue of caste-based reservation became a central and contentious theme of electoral and party competition in India.",
-    "ncert_page": 68,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q42",
-    "chapter_id": "c10",
-    "question": "According to the chapter, why is the study of elections important for sociologists, not just political scientists?",
-    "options": ["Elections have no social dimension", "Elections reveal patterns of social identity, mobilisation, caste, community and gender in political life", "Sociologists are legally required to study elections", "Elections are purely an economic activity"],
-    "correct_index": 1,
-    "explanation": "Sociologists study elections because they reflect underlying social structures such as caste, community, class and gender that shape political behaviour.",
-    "ncert_page": 59,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q43",
-    "chapter_id": "c10",
-    "question": "The Shah Bano case and the subsequent debate is sometimes cited in discussions of Indian democracy to illustrate:",
-    "options": ["Tensions between personal law, religious identity and democratic politics", "The success of Panchayati Raj", "The working of the Election Commission", "Coalition government formation"],
-    "correct_index": 0,
-    "explanation": "The Shah Bano controversy illustrated how issues of religious personal law and minority identity politics intersect with democratic governance in India.",
-    "ncert_page": 72,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q44",
-    "chapter_id": "c10",
-    "question": "Which of the following is an example of a new social movement discussed in relation to Indian democracy?",
-    "options": ["Trade union movement of the 1950s only", "Environmental movements such as the Chipko movement", "The Quit India Movement", "The Non-Cooperation Movement"],
-    "correct_index": 1,
-    "explanation": "New social movements like the Chipko movement (environmental) represent forms of political engagement outside traditional party politics, discussed as strengthening democratic participation.",
-    "ncert_page": 72,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q45",
-    "chapter_id": "c10",
-    "question": "The term 'Sanskritisation of politics' or increased assertion of lower castes in political life demonstrates:",
-    "options": ["That caste has become irrelevant in electoral politics", "That democracy in India has enabled lower castes to gain political voice and power over time", "That only upper castes participate in elections", "That the caste system was abolished by the Constitution"],
-    "correct_index": 1,
-    "explanation": "The chapter argues that democratic processes, especially elections and reservation, enabled previously subordinated castes to gain political power and assertion.",
-    "ncert_page": 69,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q46",
-    "chapter_id": "c10",
-    "question": "Delimitation of constituencies refers to the process of:",
-    "options": ["Banning certain parties from contesting elections", "Redrawing the boundaries of electoral constituencies based on population changes", "Reserving seats permanently for one party", "Determining the voting age"],
-    "correct_index": 1,
-    "explanation": "Delimitation is the process of fixing or redrawing the limits/boundaries of constituencies to represent changes in population, carried out periodically by the Delimitation Commission.",
-    "ncert_page": 58,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q47",
-    "chapter_id": "c10",
-    "question": "The overall argument of the chapter 'The Story of Indian Democracy' is that Indian democracy has been:",
-    "options": ["A static system unchanged since 1950", "A dynamic and evolving process, continuously widening participation and representation", "A failed experiment since independence", "Modelled exactly on the British parliamentary system without change"],
-    "correct_index": 1,
-    "explanation": "The chapter presents Indian democracy as an evolving story of expanding participation, decentralisation and representation of diverse social groups over time.",
-    "ncert_page": 76,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q48",
-    "chapter_id": "c10",
-    "question": "The chapter suggests that caste associations and caste-based organisations in Indian politics function somewhat like:",
-    "options": ["Judicial bodies", "Interest or pressure groups seeking to influence political outcomes for their community", "The armed forces", "The bureaucracy"],
-    "correct_index": 1,
-    "explanation": "Caste associations often act like interest groups, mobilising their community's support to influence elections, policies and representation.",
-    "ncert_page": 64,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q49",
-    "chapter_id": "c10",
-    "question": "The chapter attributes part of the 'success' of Indian democracy, compared to many post-colonial nations, to which factor?",
-    "options": ["A homogeneous population with no diversity", "The ability of democratic institutions to accommodate India's vast social diversity", "The absence of any elections for the first fifty years", "Complete rejection of federal structure"],
-    "correct_index": 1,
-    "explanation": "The chapter credits Indian democracy's resilience partly to its capacity to accommodate immense linguistic, religious, caste and regional diversity within a single democratic framework.",
-    "ncert_page": 77,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c10_q50",
-    "chapter_id": "c10",
-    "question": "Which of the following best summarises the relationship between decentralisation and democracy as discussed in the chapter?",
-    "options": ["Decentralisation weakens democracy by fragmenting authority", "Decentralisation through Panchayati Raj strengthens democracy by bringing governance closer to people and increasing participation", "Decentralisation has no connection with democratic participation", "Decentralisation was rejected by the Indian Constitution"],
-    "correct_index": 1,
-    "explanation": "The chapter presents decentralisation, especially through Panchayati Raj, as a means of deepening democracy by empowering local communities in decision-making.",
-    "ncert_page": 78,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  }
+    {
+        "mcq_id": "c10_q01",
+        "chapter_id": "soc_ch10",
+        "question": "Which fundamental principle did India adopt at independence, granting every adult citizen the right to vote regardless of literacy, property or gender?",
+        "options": [
+            "Universal Adult Franchise",
+            "Restricted Franchise",
+            "Property-based Franchise",
+            "Nominated Representation"
+        ],
+        "correct_index": 0,
+        "explanation": "India adopted universal adult franchise from the very first general election, a bold step considering the low literacy levels at the time.",
+        "ncert_page": 56,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q02",
+        "chapter_id": "soc_ch10",
+        "question": "The Constitutional Amendments that gave constitutional status to Panchayati Raj Institutions in 1992 were the:",
+        "options": [
+            "71st and 72nd Amendments",
+            "73rd and 74th Amendments",
+            "74th and 75th Amendments",
+            "76th and 77th Amendments"
+        ],
+        "correct_index": 1,
+        "explanation": "The 73rd Amendment dealt with rural local bodies (Panchayats) and the 74th Amendment dealt with urban local bodies (Municipalities), both passed in 1992.",
+        "ncert_page": 56,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q03",
+        "chapter_id": "soc_ch10",
+        "question": "The 73rd Amendment reserved seats in Panchayati Raj Institutions for which groups?",
+        "options": [
+            "Only Scheduled Castes",
+            "Only women",
+            "Women, Scheduled Castes and Scheduled Tribes",
+            "Only religious minorities"
+        ],
+        "correct_index": 2,
+        "explanation": "The 73rd Amendment mandated reservation of one-third seats for women along with reservation for Scheduled Castes and Scheduled Tribes in proportion to their population.",
+        "ncert_page": 57,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q04",
+        "chapter_id": "soc_ch10",
+        "question": "What proportion of seats in Panchayati Raj Institutions was reserved for women under the 73rd Amendment?",
+        "options": [
+            "One-fourth",
+            "One-third",
+            "Half",
+            "One-fifth"
+        ],
+        "correct_index": 1,
+        "explanation": "The 73rd Constitutional Amendment reserved not less than one-third of the total seats for women in Panchayats.",
+        "ncert_page": 57,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q05",
+        "chapter_id": "soc_ch10",
+        "question": "The body constitutionally mandated to conduct free and fair elections in India is the:",
+        "options": [
+            "Supreme Court of India",
+            "Election Commission of India",
+            "Union Public Service Commission",
+            "National Human Rights Commission"
+        ],
+        "correct_index": 1,
+        "explanation": "The Election Commission of India is an autonomous constitutional body responsible for administering election processes in India.",
+        "ncert_page": 58,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q06",
+        "chapter_id": "soc_ch10",
+        "question": "According to the chapter, elections in India are best described as:",
+        "options": [
+            "A purely administrative exercise",
+            "A social phenomenon involving festivity and mass participation",
+            "An event limited to the urban elite",
+            "A ritual with little sociological significance"
+        ],
+        "correct_index": 1,
+        "explanation": "The textbook describes elections in India as a major social phenomenon, almost like a festival, drawing enormous participation across social groups.",
+        "ncert_page": 59,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q07",
+        "chapter_id": "soc_ch10",
+        "question": "In the early decades after independence, the Indian party system was characterised by sociologist Rajni Kothari as a:",
+        "options": [
+            "Two-party system",
+            "One-party dominant system",
+            "Multi-party coalition system",
+            "No-party system"
+        ],
+        "correct_index": 1,
+        "explanation": "Rajni Kothari described the Indian party system in the early decades as the 'Congress system', a one-party dominant system with the Congress as the central party.",
+        "ncert_page": 60,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q08",
+        "chapter_id": "soc_ch10",
+        "question": "Which party dominated Indian politics for most of the first two decades after independence?",
+        "options": [
+            "Bharatiya Janata Party",
+            "Communist Party of India",
+            "Indian National Congress",
+            "Janata Dal"
+        ],
+        "correct_index": 2,
+        "explanation": "The Indian National Congress enjoyed near total dominance in national and most state elections until the late 1960s.",
+        "ncert_page": 60,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q09",
+        "chapter_id": "soc_ch10",
+        "question": "The gradual rise of regional and state-based parties from the late 1960s onward reflected:",
+        "options": [
+            "The decline of federalism in India",
+            "The growing assertion of regional and local identities in politics",
+            "The abolition of the party system",
+            "A return to princely state rule"
+        ],
+        "correct_index": 1,
+        "explanation": "Regional parties emerged as vehicles for expressing regional, linguistic and local identities, marking a shift away from Congress dominance.",
+        "ncert_page": 61,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q10",
+        "chapter_id": "soc_ch10",
+        "question": "The phenomenon in which several parties come together to form a government due to lack of a single majority is known as:",
+        "options": [
+            "Federal politics",
+            "Coalition politics",
+            "One-party rule",
+            "Presidential politics"
+        ],
+        "correct_index": 1,
+        "explanation": "Coalition politics became prominent in India from the late 1980s onwards as no single party could secure a clear majority.",
+        "ncert_page": 62,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q11",
+        "chapter_id": "soc_ch10",
+        "question": "The term 'vote bank' in Indian political sociology refers to:",
+        "options": [
+            "A bank account maintained by political parties",
+            "A group of voters who consistently support a party, often on caste or community lines",
+            "The total number of votes cast in an election",
+            "The reserve fund of the Election Commission"
+        ],
+        "correct_index": 1,
+        "explanation": "Vote bank refers to a loyal bloc of voters, often mobilised on caste, community or patron-client lines, who tend to vote for a particular party or candidate.",
+        "ncert_page": 63,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q12",
+        "chapter_id": "soc_ch10",
+        "question": "The sociologist who used the term 'vote bank' to describe patron-client based voting patterns in Indian villages was:",
+        "options": [
+            "M.N. Srinivas",
+            "Andre Beteille",
+            "F.G. Bailey",
+            "Louis Dumont"
+        ],
+        "correct_index": 0,
+        "explanation": "M.N. Srinivas coined the term 'vote bank' to describe how dominant caste patrons could deliver blocs of dependent votes to a party or candidate.",
+        "ncert_page": 63,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q13",
+        "chapter_id": "soc_ch10",
+        "question": "The relationship between caste and politics in India, as discussed in the chapter, is best described as:",
+        "options": [
+            "Caste has no role in Indian politics",
+            "Caste and politics have influenced and shaped one another",
+            "Politics has completely eliminated caste consciousness",
+            "Caste identities disappeared after independence"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter shows that politics has 'politicised' caste while caste identities have simultaneously shaped political mobilisation, a two-way relationship.",
+        "ncert_page": 64,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q14",
+        "chapter_id": "soc_ch10",
+        "question": "The Emergency was imposed in India during which period?",
+        "options": [
+            "1971-1973",
+            "1975-1977",
+            "1980-1982",
+            "1984-1986"
+        ],
+        "correct_index": 1,
+        "explanation": "The Emergency was declared by Prime Minister Indira Gandhi in June 1975 and lasted until 1977.",
+        "ncert_page": 65,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q15",
+        "chapter_id": "soc_ch10",
+        "question": "One major consequence of the Emergency (1975-77), as noted in the chapter, was:",
+        "options": [
+            "Strengthening of one-party dominance",
+            "Suspension of civil liberties and press censorship",
+            "Immediate abolition of elections in India",
+            "Permanent postponement of Panchayati Raj"
+        ],
+        "correct_index": 1,
+        "explanation": "During the Emergency, civil liberties were curtailed, the press was censored, and many opposition leaders were arrested.",
+        "ncert_page": 65,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q16",
+        "chapter_id": "soc_ch10",
+        "question": "The 1977 general election, held after the Emergency, resulted in:",
+        "options": [
+            "Re-election of the Congress with a bigger majority",
+            "Defeat of the Congress and formation of the first non-Congress government at the Centre (Janata Party)",
+            "Cancellation of elections",
+            "A hung parliament with no government formed"
+        ],
+        "correct_index": 1,
+        "explanation": "In 1977, the Janata Party defeated the Congress, forming the first non-Congress government at the Centre, showing the electorate's rejection of the Emergency.",
+        "ncert_page": 66,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q17",
+        "chapter_id": "soc_ch10",
+        "question": "The Mandal Commission was primarily concerned with:",
+        "options": [
+            "Delimitation of constituencies",
+            "Identifying socially and educationally backward classes for reservation",
+            "Reforming the Election Commission",
+            "Panchayati Raj reforms"
+        ],
+        "correct_index": 1,
+        "explanation": "The Mandal Commission, headed by B.P. Mandal, was tasked with identifying socially and educationally backward classes and recommending reservations for them.",
+        "ncert_page": 67,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q18",
+        "chapter_id": "soc_ch10",
+        "question": "The Mandal Commission recommendations, when implemented in 1990, provided for what percentage of reservation for Other Backward Classes (OBCs) in central government jobs?",
+        "options": [
+            "15%",
+            "22.5%",
+            "27%",
+            "33%"
+        ],
+        "correct_index": 2,
+        "explanation": "The Mandal Commission recommended 27 per cent reservation for OBCs in central government jobs, which was implemented by the V.P. Singh government in 1990.",
+        "ncert_page": 67,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q19",
+        "chapter_id": "soc_ch10",
+        "question": "The implementation of the Mandal Commission recommendations in 1990 led to:",
+        "options": [
+            "Complete national consensus without any protest",
+            "Widespread protests and intense political debate over reservation",
+            "Immediate abolition of caste-based reservation",
+            "No political impact at all"
+        ],
+        "correct_index": 1,
+        "explanation": "The Mandal Commission's implementation triggered widespread protests, especially among upper-caste youth, and became a major political flashpoint.",
+        "ncert_page": 68,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q20",
+        "chapter_id": "soc_ch10",
+        "question": "The rise of OBC-based political assertion following the Mandal Commission is often referred to in political sociology as part of:",
+        "options": [
+            "The 'silent revolution' of backward classes",
+            "The Green Revolution",
+            "The White Revolution",
+            "The Industrial Revolution"
+        ],
+        "correct_index": 0,
+        "explanation": "Scholars have described the political rise of the backward classes after Mandal as a 'silent revolution', reshaping the social base of Indian politics.",
+        "ncert_page": 68,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q21",
+        "chapter_id": "soc_ch10",
+        "question": "The term 'deepening of democracy' in the chapter refers to:",
+        "options": [
+            "Reduction in the number of voters",
+            "Increasing participation of hitherto marginalised groups such as backward castes, Dalits and women in political processes",
+            "Concentration of power in fewer hands",
+            "Abolition of elections at the local level"
+        ],
+        "correct_index": 1,
+        "explanation": "Deepening of democracy refers to the greater involvement of previously marginalised groups in politics, decision-making and representation.",
+        "ncert_page": 69,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q22",
+        "chapter_id": "soc_ch10",
+        "question": "Which of the following is cited as evidence of the deepening of democracy in India?",
+        "options": [
+            "Declining voter turnout among the poor",
+            "Increasing participation of the poor and disadvantaged in elections compared to the elite",
+            "Total exclusion of lower castes from voting",
+            "Reduction in number of political parties"
+        ],
+        "correct_index": 1,
+        "explanation": "Studies cited in the chapter show that the poor and disadvantaged sections often vote in higher proportions than the affluent, reflecting deepening democracy.",
+        "ncert_page": 69,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q23",
+        "chapter_id": "soc_ch10",
+        "question": "Decentralisation of power in India was primarily aimed at strengthening democracy at which level?",
+        "options": [
+            "International level",
+            "National level only",
+            "Grassroots or local level",
+            "State level only"
+        ],
+        "correct_index": 2,
+        "explanation": "Decentralisation through Panchayati Raj and Municipalities aimed to bring democratic decision-making down to the grassroots/local level.",
+        "ncert_page": 70,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q24",
+        "chapter_id": "soc_ch10",
+        "question": "Pressure groups and interest groups differ from political parties mainly because they:",
+        "options": [
+            "Seek to capture political power directly by contesting elections",
+            "Seek to influence government policy without directly contesting elections",
+            "Have no role in a democracy",
+            "Are banned under the Indian Constitution"
+        ],
+        "correct_index": 1,
+        "explanation": "Pressure groups aim to influence policy and decision-making from outside, unlike political parties which seek to win elections and form governments.",
+        "ncert_page": 71,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q25",
+        "chapter_id": "soc_ch10",
+        "question": "Which of the following would be considered an example of a pressure group in the Indian context?",
+        "options": [
+            "A trade union or farmers' organisation lobbying for policy change",
+            "The Election Commission",
+            "The Lok Sabha",
+            "The Supreme Court"
+        ],
+        "correct_index": 0,
+        "explanation": "Trade unions, farmers' organisations, and business associations are examples of pressure groups that seek to influence government policy.",
+        "ncert_page": 71,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q26",
+        "chapter_id": "soc_ch10",
+        "question": "Social movements, as discussed in the chapter, contribute to democracy mainly by:",
+        "options": [
+            "Undermining electoral processes",
+            "Raising new issues and demands that formal political institutions may neglect",
+            "Replacing the need for elections",
+            "Weakening civil society"
+        ],
+        "correct_index": 1,
+        "explanation": "Social movements bring attention to issues like environment, gender and displacement that mainstream political parties may overlook, thereby enriching democracy.",
+        "ncert_page": 72,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q27",
+        "chapter_id": "soc_ch10",
+        "question": "The distinctive feature of Indian democracy compared to many Western democracies, as highlighted in the chapter, is that India adopted universal adult franchise:",
+        "options": [
+            "After achieving full literacy",
+            "Simultaneously with independence, before widespread literacy or economic development",
+            "Only for property owners initially",
+            "A century after western nations"
+        ],
+        "correct_index": 1,
+        "explanation": "Unlike Western nations where franchise was extended gradually, India granted universal adult franchise immediately at independence despite low literacy and poverty.",
+        "ncert_page": 56,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q28",
+        "chapter_id": "soc_ch10",
+        "question": "The changing nature of political participation in India since independence shows a trend of:",
+        "options": [
+            "Declining participation among all social groups",
+            "Increasing participation, especially among previously excluded groups like women and lower castes",
+            "No change over the decades",
+            "Participation restricted only to urban elites"
+        ],
+        "correct_index": 1,
+        "explanation": "Political participation, especially voter turnout among marginalised groups, has generally increased over the decades since independence.",
+        "ncert_page": 73,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q29",
+        "chapter_id": "soc_ch10",
+        "question": "The debate over reservation for women in the Lok Sabha and state assemblies has been a long-standing issue related to:",
+        "options": [
+            "Women's political participation and representation",
+            "Reservation in private sector jobs",
+            "Reservation in sports",
+            "Reservation for religious minorities only"
+        ],
+        "correct_index": 0,
+        "explanation": "The Women's Reservation Bill debate concerns reserving seats for women in the Lok Sabha and state legislatures to enhance their political representation.",
+        "ncert_page": 74,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q30",
+        "chapter_id": "soc_ch10",
+        "question": "At the local self-government (Panchayat) level, reservation for women has resulted in what significant change according to the chapter?",
+        "options": [
+            "Complete absence of women from Panchayats",
+            "A substantial increase in the number of women in elected local bodies",
+            "Reduction in women's role in local governance",
+            "No effect on women's participation"
+        ],
+        "correct_index": 1,
+        "explanation": "Reservation under the 73rd Amendment led to over a million women being elected to Panchayati Raj Institutions, a landmark increase in women's political presence.",
+        "ncert_page": 74,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q31",
+        "chapter_id": "soc_ch10",
+        "question": "The gram sabha in the Panchayati Raj system refers to:",
+        "options": [
+            "The assembly of all registered voters of a village panchayat area",
+            "The highest court in a district",
+            "A committee of only elected members",
+            "The state legislature"
+        ],
+        "correct_index": 0,
+        "explanation": "The gram sabha is the general body consisting of all adults registered as voters in the panchayat area, forming the base of grassroots democracy.",
+        "ncert_page": 57,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q32",
+        "chapter_id": "soc_ch10",
+        "question": "Which of these is one of the three tiers of the Panchayati Raj system established by the 73rd Amendment?",
+        "options": [
+            "Gram Panchayat, Panchayat Samiti, Zila Parishad",
+            "Municipal Corporation, Municipal Council, Nagar Panchayat",
+            "Lok Sabha, Rajya Sabha, State Assembly",
+            "District Court, High Court, Supreme Court"
+        ],
+        "correct_index": 0,
+        "explanation": "The three-tier Panchayati Raj structure consists of the Gram Panchayat at the village level, Panchayat Samiti at the block level, and Zila Parishad at the district level.",
+        "ncert_page": 57,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q33",
+        "chapter_id": "soc_ch10",
+        "question": "Regular elections to Panchayati Raj Institutions every five years were made mandatory by:",
+        "options": [
+            "The Representation of the People Act, 1951",
+            "The 73rd Constitutional Amendment Act, 1992",
+            "The Government of India Act, 1935",
+            "The Delimitation Act"
+        ],
+        "correct_index": 1,
+        "explanation": "The 73rd Amendment mandated regular elections to Panchayats every five years, ensuring institutional continuity of grassroots democracy.",
+        "ncert_page": 57,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q34",
+        "chapter_id": "soc_ch10",
+        "question": "The chapter notes that despite formal reservation, women elected to Panchayats often faced the challenge of:",
+        "options": [
+            "Complete absence of any challenges",
+            "Being figureheads while husbands or male relatives ('Pradhan Pati') actually exercised power",
+            "Excessive administrative workload compared to men",
+            "Higher salaries than male members"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter discusses the phenomenon of 'proxy' representation, where male relatives, sometimes called 'Pradhan Pati', continued to wield actual power despite women's formal election.",
+        "ncert_page": 75,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q35",
+        "chapter_id": "soc_ch10",
+        "question": "The rise of caste-based and community-based political parties in various states reflects:",
+        "options": [
+            "The irrelevance of caste in modern India",
+            "How social cleavages get translated into political mobilisation and party formation",
+            "The end of democratic politics",
+            "A purely economic phenomenon unrelated to society"
+        ],
+        "correct_index": 1,
+        "explanation": "The formation of parties around caste or community identities shows how social divisions in Indian society get expressed through the political process.",
+        "ncert_page": 64,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q36",
+        "chapter_id": "soc_ch10",
+        "question": "Which of the following best explains why elections in India involve high voter turnout even among the poor and illiterate?",
+        "options": [
+            "Voting is legally compulsory in India",
+            "Elections offer the poor a sense of dignity and equality, as their vote counts the same as anyone else's",
+            "Only the poor are allowed to vote",
+            "Illiterate citizens are barred from voting"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter highlights that for the poor, voting is often experienced as an assertion of equality and self-respect, since one vote equals one vote regardless of status.",
+        "ncert_page": 59,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q37",
+        "chapter_id": "soc_ch10",
+        "question": "The term 'party system' in political sociology refers to:",
+        "options": [
+            "The rules of a single political party",
+            "The pattern of competition and interaction among political parties in a country",
+            "The internal structure of the Election Commission",
+            "The judiciary's role in elections"
+        ],
+        "correct_index": 1,
+        "explanation": "A party system describes the overall pattern of how political parties compete, cooperate, and interact within a polity, such as one-party dominant, two-party, or multi-party systems.",
+        "ncert_page": 60,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q38",
+        "chapter_id": "soc_ch10",
+        "question": "The decline of the Congress system from the late 1960s was marked by which event in some states?",
+        "options": [
+            "Complete disappearance of elections",
+            "Non-Congress parties and coalitions forming state governments",
+            "Merger of all parties into Congress",
+            "Abolition of state assemblies"
+        ],
+        "correct_index": 1,
+        "explanation": "From 1967 onwards, non-Congress parties began forming governments in several states, signalling the erosion of Congress's one-party dominance.",
+        "ncert_page": 61,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q39",
+        "chapter_id": "soc_ch10",
+        "question": "The National Front and United Front governments of the late 1980s and 1990s in India were examples of:",
+        "options": [
+            "Single-party majority governments",
+            "Coalition governments formed by multiple parties",
+            "Military governments",
+            "Presidential rule"
+        ],
+        "correct_index": 1,
+        "explanation": "The National Front (1989) and United Front (1996-98) were multi-party coalition governments, reflecting the era of coalition politics in India.",
+        "ncert_page": 62,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q40",
+        "chapter_id": "soc_ch10",
+        "question": "Backward classes politics in India, as discussed in the chapter, largely gained momentum after which development?",
+        "options": [
+            "The Green Revolution",
+            "The Mandal Commission report and its implementation",
+            "The Emergency of 1975",
+            "The Partition of India"
+        ],
+        "correct_index": 1,
+        "explanation": "The Mandal Commission report and its 1990 implementation catalysed the political assertion of backward classes across many states.",
+        "ncert_page": 67,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q41",
+        "chapter_id": "soc_ch10",
+        "question": "The concept of 'reservation politics' in the chapter refers to:",
+        "options": [
+            "Reservation of railway tickets by politicians",
+            "Political contestation and mobilisation around the issue of caste-based reservations in education and employment",
+            "Booking of election venues",
+            "Reservation of parliamentary seats for the ruling party"
+        ],
+        "correct_index": 1,
+        "explanation": "Reservation politics refers to how the issue of caste-based reservation became a central and contentious theme of electoral and party competition in India.",
+        "ncert_page": 68,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q42",
+        "chapter_id": "soc_ch10",
+        "question": "According to the chapter, why is the study of elections important for sociologists, not just political scientists?",
+        "options": [
+            "Elections have no social dimension",
+            "Elections reveal patterns of social identity, mobilisation, caste, community and gender in political life",
+            "Sociologists are legally required to study elections",
+            "Elections are purely an economic activity"
+        ],
+        "correct_index": 1,
+        "explanation": "Sociologists study elections because they reflect underlying social structures such as caste, community, class and gender that shape political behaviour.",
+        "ncert_page": 59,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q43",
+        "chapter_id": "soc_ch10",
+        "question": "The Shah Bano case and the subsequent debate is sometimes cited in discussions of Indian democracy to illustrate:",
+        "options": [
+            "Tensions between personal law, religious identity and democratic politics",
+            "The success of Panchayati Raj",
+            "The working of the Election Commission",
+            "Coalition government formation"
+        ],
+        "correct_index": 0,
+        "explanation": "The Shah Bano controversy illustrated how issues of religious personal law and minority identity politics intersect with democratic governance in India.",
+        "ncert_page": 72,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q44",
+        "chapter_id": "soc_ch10",
+        "question": "Which of the following is an example of a new social movement discussed in relation to Indian democracy?",
+        "options": [
+            "Trade union movement of the 1950s only",
+            "Environmental movements such as the Chipko movement",
+            "The Quit India Movement",
+            "The Non-Cooperation Movement"
+        ],
+        "correct_index": 1,
+        "explanation": "New social movements like the Chipko movement (environmental) represent forms of political engagement outside traditional party politics, discussed as strengthening democratic participation.",
+        "ncert_page": 72,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q45",
+        "chapter_id": "soc_ch10",
+        "question": "The term 'Sanskritisation of politics' or increased assertion of lower castes in political life demonstrates:",
+        "options": [
+            "That caste has become irrelevant in electoral politics",
+            "That democracy in India has enabled lower castes to gain political voice and power over time",
+            "That only upper castes participate in elections",
+            "That the caste system was abolished by the Constitution"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter argues that democratic processes, especially elections and reservation, enabled previously subordinated castes to gain political power and assertion.",
+        "ncert_page": 69,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q46",
+        "chapter_id": "soc_ch10",
+        "question": "Delimitation of constituencies refers to the process of:",
+        "options": [
+            "Banning certain parties from contesting elections",
+            "Redrawing the boundaries of electoral constituencies based on population changes",
+            "Reserving seats permanently for one party",
+            "Determining the voting age"
+        ],
+        "correct_index": 1,
+        "explanation": "Delimitation is the process of fixing or redrawing the limits/boundaries of constituencies to represent changes in population, carried out periodically by the Delimitation Commission.",
+        "ncert_page": 58,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q47",
+        "chapter_id": "soc_ch10",
+        "question": "The overall argument of the chapter 'The Story of Indian Democracy' is that Indian democracy has been:",
+        "options": [
+            "A static system unchanged since 1950",
+            "A dynamic and evolving process, continuously widening participation and representation",
+            "A failed experiment since independence",
+            "Modelled exactly on the British parliamentary system without change"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter presents Indian democracy as an evolving story of expanding participation, decentralisation and representation of diverse social groups over time.",
+        "ncert_page": 76,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q48",
+        "chapter_id": "soc_ch10",
+        "question": "The chapter suggests that caste associations and caste-based organisations in Indian politics function somewhat like:",
+        "options": [
+            "Judicial bodies",
+            "Interest or pressure groups seeking to influence political outcomes for their community",
+            "The armed forces",
+            "The bureaucracy"
+        ],
+        "correct_index": 1,
+        "explanation": "Caste associations often act like interest groups, mobilising their community's support to influence elections, policies and representation.",
+        "ncert_page": 64,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q49",
+        "chapter_id": "soc_ch10",
+        "question": "The chapter attributes part of the 'success' of Indian democracy, compared to many post-colonial nations, to which factor?",
+        "options": [
+            "A homogeneous population with no diversity",
+            "The ability of democratic institutions to accommodate India's vast social diversity",
+            "The absence of any elections for the first fifty years",
+            "Complete rejection of federal structure"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter credits Indian democracy's resilience partly to its capacity to accommodate immense linguistic, religious, caste and regional diversity within a single democratic framework.",
+        "ncert_page": 77,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c10_q50",
+        "chapter_id": "soc_ch10",
+        "question": "Which of the following best summarises the relationship between decentralisation and democracy as discussed in the chapter?",
+        "options": [
+            "Decentralisation weakens democracy by fragmenting authority",
+            "Decentralisation through Panchayati Raj strengthens democracy by bringing governance closer to people and increasing participation",
+            "Decentralisation has no connection with democratic participation",
+            "Decentralisation was rejected by the Indian Constitution"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter presents decentralisation, especially through Panchayati Raj, as a means of deepening democracy by empowering local communities in decision-making.",
+        "ncert_page": 78,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    }
 ]

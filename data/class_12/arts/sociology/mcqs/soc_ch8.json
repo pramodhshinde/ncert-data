@@ -1,552 +1,802 @@
 [
-  {
-    "mcq_id": "c8_q01",
-    "chapter_id": "c8",
-    "question": "According to the NCERT chapter 'Structural Change', what does the term 'structure' refer to in sociology?",
-    "options": ["A fixed physical building or monument", "Interconnected roles and institutions that make up society", "Only the economic system of a country", "The geographical boundaries of a nation"],
-    "correct_index": 1,
-    "explanation": "The chapter explains structure as the interconnected roles, institutions and social positions that together constitute the framework of society.",
-    "ncert_page": 1,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q02",
-    "chapter_id": "c8",
-    "question": "Which sociologist's distinction between structural change and cultural change is discussed in this chapter?",
-    "options": ["Emile Durkheim", "M.N. Srinivas", "Max Weber", "Talcott Parsons"],
-    "correct_index": 1,
-    "explanation": "M.N. Srinivas distinguished between structural change (changes in institutions like caste and family) and cultural change (such as Sanskritisation and Westernisation).",
-    "ncert_page": 1,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q03",
-    "chapter_id": "c8",
-    "question": "Structural change in Indian society during the colonial period was primarily driven by which factor?",
-    "options": ["Natural disasters", "Colonial policies and market economy", "Religious reform movements alone", "Foreign wars"],
-    "correct_index": 1,
-    "explanation": "The chapter emphasises that colonial economic policies and the introduction of a market economy were major drivers of structural change in India.",
-    "ncert_page": 2,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q04",
-    "chapter_id": "c8",
-    "question": "Which of the following was NOT introduced by the British as a new land tenure system in India?",
-    "options": ["Zamindari system", "Ryotwari system", "Mahalwari system", "Jajmani system"],
-    "correct_index": 3,
-    "explanation": "The jajmani system was a traditional indigenous system of exchange between service and landowning castes, not a colonial land tenure system introduced by the British.",
-    "ncert_page": 3,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q05",
-    "chapter_id": "c8",
-    "question": "The commercialisation of agriculture under colonial rule primarily meant:",
-    "options": ["Farmers producing only for household consumption", "Crops being produced for sale in the market rather than home use", "Complete mechanisation of farming", "Abolition of land revenue"],
-    "correct_index": 1,
-    "explanation": "Commercialisation of agriculture refers to the shift from subsistence farming to production of cash crops meant for market sale, linking villages to wider markets.",
-    "ncert_page": 3,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q06",
-    "chapter_id": "c8",
-    "question": "Which new means of transport and communication introduced by the British had significant structural impact on Indian society?",
-    "options": ["Bullock carts", "Railways and telegraph", "Palanquins", "Bicycles"],
-    "correct_index": 1,
-    "explanation": "The railways and telegraph, introduced by the British, connected distant regions, facilitated trade, and had a profound structural impact on Indian society and economy.",
-    "ncert_page": 4,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q07",
-    "chapter_id": "c8",
-    "question": "New professions such as law, medicine, and teaching that emerged during colonial rule primarily arose from:",
-    "options": ["Traditional caste occupations", "The spread of English education", "The jajmani system", "Village panchayats"],
-    "correct_index": 1,
-    "explanation": "The spread of English education under colonial rule created new professions like law, medicine, teaching and journalism, contributing to occupational diversification.",
-    "ncert_page": 4,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q08",
-    "chapter_id": "c8",
-    "question": "Which sociologist analysed structural changes in Indian society in terms of polity, economy, kinship, and education?",
-    "options": ["Yogendra Singh", "G.S. Ghurye", "A.R. Desai", "Andre Beteille"],
-    "correct_index": 0,
-    "explanation": "Yogendra Singh examined the process of modernisation and structural change in India across dimensions such as polity, economy, kinship, and education.",
-    "ncert_page": 5,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q09",
-    "chapter_id": "c8",
-    "question": "The three sectors of the economy discussed in relation to occupational structure are:",
-    "options": ["Rural, urban, and semi-urban", "Primary, secondary, and tertiary", "Formal, informal, and mixed", "Public, private, and cooperative"],
-    "correct_index": 1,
-    "explanation": "Occupational structure is analysed in terms of the primary sector (agriculture), secondary sector (industry/manufacturing), and tertiary sector (services).",
-    "ncert_page": 5,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q10",
-    "chapter_id": "c8",
-    "question": "The primary sector of the economy mainly consists of:",
-    "options": ["Banking and insurance services", "Agriculture, forestry, fishing and mining", "Manufacturing industries", "Information technology"],
-    "correct_index": 1,
-    "explanation": "The primary sector includes activities directly dependent on natural resources such as agriculture, forestry, fishing, and mining.",
-    "ncert_page": 5,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q11",
-    "chapter_id": "c8",
-    "question": "The secondary sector of the economy refers to:",
-    "options": ["Agriculture-based activities", "Manufacturing and industrial production", "Trade and transport services", "Education and healthcare"],
-    "correct_index": 1,
-    "explanation": "The secondary sector involves the transformation of raw materials into finished goods through manufacturing and industry.",
-    "ncert_page": 6,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q12",
-    "chapter_id": "c8",
-    "question": "The tertiary sector of the economy includes:",
-    "options": ["Mining and quarrying", "Crop cultivation", "Services such as trade, transport, banking and administration", "Textile manufacturing"],
-    "correct_index": 2,
-    "explanation": "The tertiary sector covers service-based activities like trade, transport, banking, administration, and communication.",
-    "ncert_page": 6,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q13",
-    "chapter_id": "c8",
-    "question": "Since Independence, the workforce dependent on agriculture in India has:",
-    "options": ["Increased continuously without decline", "Gradually declined in proportion, though it remains substantial", "Remained exactly the same throughout", "Fallen to zero"],
-    "correct_index": 1,
-    "explanation": "Although a large proportion of India's workforce still depends on agriculture, its share has gradually declined over the decades as the industrial and service sectors expanded.",
-    "ncert_page": 7,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q14",
-    "chapter_id": "c8",
-    "question": "Structural change from an agrarian to an industrial society is characterised by:",
-    "options": ["A shift of the workforce from agriculture towards industry and services", "A complete disappearance of villages", "Return of workers to subsistence farming", "Decline of all urban centres"],
-    "correct_index": 0,
-    "explanation": "Structural change in the economy involves a gradual shift of the workforce away from agriculture towards industrial and service sector occupations.",
-    "ncert_page": 7,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q15",
-    "chapter_id": "c8",
-    "question": "Which government initiative after Independence played a key role in promoting planned industrialisation in India?",
-    "options": ["The Five Year Plans", "The East India Company charter", "The Permanent Settlement", "The Doctrine of Lapse"],
-    "correct_index": 0,
-    "explanation": "The Five Year Plans, initiated through the Planning Commission after Independence, aimed at promoting industrialisation and structural transformation of the economy.",
-    "ncert_page": 8,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q16",
-    "chapter_id": "c8",
-    "question": "The abolition of intermediaries such as zamindars after Independence was part of:",
-    "options": ["Land reform measures", "Industrial policy", "Educational reforms", "Foreign trade policy"],
-    "correct_index": 0,
-    "explanation": "Land reforms after Independence included the abolition of intermediary zamindars to restructure agrarian relations and give cultivators direct rights over land.",
-    "ncert_page": 8,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q17",
-    "chapter_id": "c8",
-    "question": "Land ceiling acts introduced after Independence were meant to:",
-    "options": ["Increase the size of landholdings without limit", "Set an upper limit on land a family could hold and redistribute surplus land", "Nationalise all agricultural land", "Abolish agriculture altogether"],
-    "correct_index": 1,
-    "explanation": "Land ceiling legislation fixed a maximum limit on landholdings so that surplus land could be redistributed among the landless, aiming at more equitable land relations.",
-    "ncert_page": 9,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q18",
-    "chapter_id": "c8",
-    "question": "The Green Revolution, discussed as part of agrarian structural change, was associated with:",
-    "options": ["Decline of agricultural output", "Introduction of high-yielding variety seeds, fertilisers, and irrigation in select regions", "Abandonment of commercial farming", "Total collectivisation of land"],
-    "correct_index": 1,
-    "explanation": "The Green Revolution introduced high-yielding variety seeds, chemical fertilisers, and expanded irrigation, significantly increasing agricultural productivity in states like Punjab and Haryana.",
-    "ncert_page": 9,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q19",
-    "chapter_id": "c8",
-    "question": "One structural consequence of the Green Revolution noted in the chapter was:",
-    "options": ["Emergence of a class of prosperous capitalist farmers", "Complete elimination of landless labourers", "End of regional disparities in agriculture", "Disappearance of the market economy"],
-    "correct_index": 0,
-    "explanation": "The Green Revolution led to the emergence of a class of rich, capitalist-oriented farmers who invested in new technology and inputs, deepening the market economy in rural areas.",
-    "ncert_page": 10,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q20",
-    "chapter_id": "c8",
-    "question": "The penetration of the market economy into rural India led to a decline of which traditional system?",
-    "options": ["The jajmani system", "The panchayati raj system", "The reservation system", "The parliamentary system"],
-    "correct_index": 0,
-    "explanation": "The jajmani system, based on hereditary exchange of goods and services between castes, weakened as the market economy and cash transactions penetrated villages.",
-    "ncert_page": 10,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q21",
-    "chapter_id": "c8",
-    "question": "Urbanisation in India, as discussed in the chapter, refers to:",
-    "options": ["The decline of towns and cities", "The growth in the proportion of population living in towns and cities", "The disappearance of villages entirely", "A decrease in migration"],
-    "correct_index": 1,
-    "explanation": "Urbanisation refers to the increasing proportion of a country's population residing in urban areas, a key indicator of structural change.",
-    "ncert_page": 11,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q22",
-    "chapter_id": "c8",
-    "question": "Which of the following is identified as a major cause of rural-to-urban migration in India?",
-    "options": ["Search for employment and better opportunities in cities", "Compulsory government relocation of entire villages", "Abolition of agriculture", "Decline in urban population"],
-    "correct_index": 0,
-    "explanation": "People migrate from rural to urban areas mainly in search of employment, education, and better economic opportunities, contributing to urban growth.",
-    "ncert_page": 11,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q23",
-    "chapter_id": "c8",
-    "question": "The growth of metropolitan cities in India is an example of:",
-    "options": ["Deindustrialisation", "Urbanisation associated with structural change", "Agrarian expansion", "Decline of the service sector"],
-    "correct_index": 1,
-    "explanation": "The rapid growth of large metropolitan cities reflects the process of urbanisation, an important dimension of structural change in Indian society.",
-    "ncert_page": 12,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q24",
-    "chapter_id": "c8",
-    "question": "Occupational diversification refers to:",
-    "options": ["Everyone taking up the same traditional occupation", "The emergence of a wider range of occupations beyond traditional caste-based ones", "The complete disappearance of occupations", "Only farming-related occupations increasing"],
-    "correct_index": 1,
-    "explanation": "Occupational diversification describes the process by which people increasingly move away from fixed, caste-determined occupations into a wide variety of new occupations.",
-    "ncert_page": 12,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q25",
-    "chapter_id": "c8",
-    "question": "The traditional link between caste and occupation in India has, according to the chapter:",
-    "options": ["Strengthened over time with modernisation", "Weakened due to occupational diversification and new economic opportunities", "Remained completely unchanged since ancient times", "Been legally reinforced by the Constitution"],
-    "correct_index": 1,
-    "explanation": "With structural change, occupational diversification and new economic opportunities have weakened the rigid traditional link between caste and occupation.",
-    "ncert_page": 13,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q26",
-    "chapter_id": "c8",
-    "question": "The concept of 'dominant caste', relevant to structural mobility, was developed by:",
-    "options": ["M.N. Srinivas", "Karl Marx", "Louis Dumont", "B.R. Ambedkar"],
-    "correct_index": 0,
-    "explanation": "M.N. Srinivas developed the concept of dominant caste to describe a caste that wields significant economic and political power in a local area due to landownership and numerical strength.",
-    "ncert_page": 13,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q27",
-    "chapter_id": "c8",
-    "question": "The rise of caste associations in modern India is an example of:",
-    "options": ["Traditional caste rigidity with no change", "Caste adapting itself to modern political and economic structures", "The complete abolition of caste identity", "A purely religious phenomenon unrelated to structure"],
-    "correct_index": 1,
-    "explanation": "Caste associations emerged as caste groups organised themselves to pursue political and economic interests, showing how caste adapted to modern democratic structures.",
-    "ncert_page": 14,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q28",
-    "chapter_id": "c8",
-    "question": "The spread of education in India after Independence contributed to structural change by:",
-    "options": ["Reducing occupational opportunities", "Enabling social and occupational mobility for individuals", "Reinforcing rigid caste-based occupations", "Eliminating the need for the tertiary sector"],
-    "correct_index": 1,
-    "explanation": "The spread of education opened up new occupational avenues and enabled individuals, including those from disadvantaged backgrounds, to achieve social and occupational mobility.",
-    "ncert_page": 14,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q29",
-    "chapter_id": "c8",
-    "question": "The 'new middle class' discussed in the chapter emerged largely due to:",
-    "options": ["The decline of education", "The growth of white-collar jobs, bureaucracy, and professional occupations", "The abolition of the market economy", "The return to subsistence agriculture"],
-    "correct_index": 1,
-    "explanation": "The new middle class grew through the expansion of white-collar employment, government administration, and professional occupations linked to education and urbanisation.",
-    "ncert_page": 15,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q30",
-    "chapter_id": "c8",
-    "question": "The state's role in structural change after Independence included:",
-    "options": ["Complete withdrawal from the economy", "Policies of planned development, land reforms, and affirmative action", "Reinstating princely states", "Banning industrialisation"],
-    "correct_index": 1,
-    "explanation": "The post-independence Indian state actively promoted structural change through planned development, land reforms, industrial policy, and affirmative action for disadvantaged groups.",
-    "ncert_page": 15,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q31",
-    "chapter_id": "c8",
-    "question": "Reservation policy for Scheduled Castes and Scheduled Tribes is an example of:",
-    "options": ["Cultural change", "State-led affirmative action contributing to structural mobility", "Colonial land policy", "A purely economic reform unrelated to social structure"],
-    "correct_index": 1,
-    "explanation": "Reservation policy is a form of state intervention aimed at enabling structural mobility for historically disadvantaged groups such as Scheduled Castes and Scheduled Tribes.",
-    "ncert_page": 16,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q32",
-    "chapter_id": "c8",
-    "question": "Structural change, as distinguished from cultural change, primarily refers to change in:",
-    "options": ["Beliefs, values, and lifestyles", "Institutions and social relationships such as caste, family, and occupation", "Language and literature only", "Religious rituals alone"],
-    "correct_index": 1,
-    "explanation": "Structural change involves transformation in institutions and social relationships, whereas cultural change relates more to beliefs, values, and lifestyle, as per Srinivas's distinction.",
-    "ncert_page": 16,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q33",
-    "chapter_id": "c8",
-    "question": "Industrialisation in India after Independence was closely linked with the growth of:",
-    "options": ["Only cottage industries", "Public sector enterprises and heavy industries under planning", "Only foreign-owned firms", "Handicrafts exclusively"],
-    "correct_index": 1,
-    "explanation": "Post-independence industrial policy emphasised the growth of public sector enterprises and heavy industries as part of planned economic development.",
-    "ncert_page": 17,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q34",
-    "chapter_id": "c8",
-    "question": "The decline in agriculture's share of India's Gross Domestic Product over decades, while its workforce share remains high, indicates:",
-    "options": ["A perfect balance between sectors", "Disguised unemployment and underemployment in agriculture", "That agriculture has disappeared", "That industry has declined"],
-    "correct_index": 1,
-    "explanation": "Agriculture's declining share of GDP alongside a still-large workforce dependent on it reflects disguised unemployment, where more people work in agriculture than is productively needed.",
-    "ncert_page": 17,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q35",
-    "chapter_id": "c8",
-    "question": "Changes in family and kinship patterns due to structural change include:",
-    "options": ["Universal strengthening of joint families", "A tendency towards nuclear family forms due to migration and urbanisation", "Complete disappearance of family as an institution", "Return to purely rural extended households everywhere"],
-    "correct_index": 1,
-    "explanation": "Migration to cities for work and urbanisation have contributed to a shift towards nuclear family forms, even though joint family ties often continue to be maintained in modified ways.",
-    "ncert_page": 18,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q36",
-    "chapter_id": "c8",
-    "question": "Migration due to structural changes in the economy is primarily linked to:",
-    "options": ["Movement of people seeking work in industrial and urban centres", "Seasonal religious pilgrimage only", "Migration of animals", "Movement restricted to within villages"],
-    "correct_index": 0,
-    "explanation": "Structural change, particularly industrialisation and urban growth, generated migration streams as people moved to industrial and urban centres in search of livelihoods.",
-    "ncert_page": 18,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q37",
-    "chapter_id": "c8",
-    "question": "The demographic structure of India changed alongside structural change through:",
-    "options": ["A decline in population growth to zero", "Shifts in population distribution between rural and urban areas", "Complete cessation of birth rates", "Uniform population across all regions"],
-    "correct_index": 1,
-    "explanation": "As part of structural change, India's demographic structure shifted with a growing proportion of the population moving to and residing in urban areas.",
-    "ncert_page": 19,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q38",
-    "chapter_id": "c8",
-    "question": "Which of the following best describes 'social mobility' in the context of this chapter?",
-    "options": ["Physical movement of people from one place to another only", "Movement of individuals or groups between different social or economic positions", "The stagnancy of caste hierarchy", "A decline in population"],
-    "correct_index": 1,
-    "explanation": "Social mobility refers to the movement of individuals or groups within the social hierarchy, often enabled by education, occupational change, and economic opportunity.",
-    "ncert_page": 19,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q39",
-    "chapter_id": "c8",
-    "question": "The introduction of private property in land under colonial rule had which structural consequence?",
-    "options": ["It eliminated the concept of land ownership entirely", "It created new class relations between landowners and tenants/labourers", "It made land free for everyone", "It had no effect on rural society"],
-    "correct_index": 1,
-    "explanation": "The introduction of private property rights in land under colonial policies restructured rural society into new class relations between landowners, tenants, and agricultural labourers.",
-    "ncert_page": 20,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q40",
-    "chapter_id": "c8",
-    "question": "Which of these was a structural effect of the growth of new cities and towns under British rule?",
-    "options": ["Emergence of new administrative and commercial centres like Bombay, Calcutta, and Madras", "Complete disappearance of Indian villages", "Ban on trade in port cities", "Loss of all employment opportunities in cities"],
-    "correct_index": 0,
-    "explanation": "Port and administrative cities such as Bombay, Calcutta, and Madras grew as new commercial and administrative centres under colonial rule, reshaping India's urban structure.",
-    "ncert_page": 20,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q41",
-    "chapter_id": "c8",
-    "question": "The term 'agrarian structure' in this chapter refers to:",
-    "options": ["The system of trade unions in factories", "The pattern of land relations, ownership, and cultivation in rural society", "The structure of urban housing", "The organisation of the stock market"],
-    "correct_index": 1,
-    "explanation": "Agrarian structure refers to the pattern of landownership, tenancy, and cultivation relations that organise rural economic and social life.",
-    "ncert_page": 21,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q42",
-    "chapter_id": "c8",
-    "question": "Regional variation in the pace of structural change in India means that:",
-    "options": ["All regions of India developed at exactly the same rate", "Different regions experienced industrialisation, urbanisation, and agrarian change at different rates", "Only one state in India experienced any structural change", "Structural change was uniform across all castes and classes"],
-    "correct_index": 1,
-    "explanation": "The chapter notes that structural change did not occur uniformly; different regions of India experienced varying degrees and paces of industrialisation, urbanisation, and agrarian transformation.",
-    "ncert_page": 21,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q43",
-    "chapter_id": "c8",
-    "question": "Displacement of communities due to development projects such as dams and industries is discussed in the chapter as:",
-    "options": ["A positive structural change with no drawbacks", "A social cost associated with certain forms of structural and economic change", "Something that never occurred in India", "Unrelated to structural change"],
-    "correct_index": 1,
-    "explanation": "The chapter acknowledges that development projects like dams and industries, while promoting economic growth, have also displaced communities, representing a social cost of structural change.",
-    "ncert_page": 22,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q44",
-    "chapter_id": "c8",
-    "question": "The weakening of the jajmani system in rural India was primarily a consequence of:",
-    "options": ["Increased dependence on hereditary caste-based exchange", "Growing monetisation and market relations replacing traditional exchange", "Government ban on the system by law", "Strengthening of the joint family system"],
-    "correct_index": 1,
-    "explanation": "As cash transactions and market relations penetrated villages, the traditional jajmani system of hereditary service exchange between castes gradually weakened.",
-    "ncert_page": 22,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q45",
-    "chapter_id": "c8",
-    "question": "Which of the following is an example of occupational structure shifting towards the tertiary sector in urban India?",
-    "options": ["Growth of employment in banking, IT, and administration", "Decline of all service industries", "Increase in subsistence farming in cities", "Ban on trade and commerce"],
-    "correct_index": 0,
-    "explanation": "The expansion of employment in banking, information technology, and administration exemplifies the shift of the urban workforce towards the tertiary or services sector.",
-    "ncert_page": 23,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q46",
-    "chapter_id": "c8",
-    "question": "The chapter suggests that structural change and cultural change:",
-    "options": ["Always occur together in perfect synchrony", "Can occur at different paces and are analytically distinct processes", "Are exactly the same thing", "Never influence each other"],
-    "correct_index": 1,
-    "explanation": "The chapter, following Srinivas, treats structural and cultural change as analytically distinct processes that may occur at different paces, even though they can influence one another.",
-    "ncert_page": 23,
-    "difficulty": "hard",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q47",
-    "chapter_id": "c8",
-    "question": "The growth of trade unions and labour movements in India is connected to which structural change?",
-    "options": ["The decline of agriculture only", "Industrialisation and the growth of a factory-based working class", "The abolition of the caste system", "The spread of rural education alone"],
-    "correct_index": 1,
-    "explanation": "Industrialisation created a new factory-based working class, which in turn gave rise to trade unions and labour movements to represent workers' interests.",
-    "ncert_page": 24,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q48",
-    "chapter_id": "c8",
-    "question": "Colonial administrative and educational institutions such as universities and civil services contributed to structural change by:",
-    "options": ["Reinforcing traditional occupations exclusively", "Creating new avenues for employment and social mobility outside traditional structures", "Preventing all forms of social mobility", "Abolishing the English language"],
-    "correct_index": 1,
-    "explanation": "Colonial institutions like universities and the civil services opened up new employment avenues based on education rather than birth, enabling new forms of social mobility.",
-    "ncert_page": 24,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q49",
-    "chapter_id": "c8",
-    "question": "Which of the following best summarises the overall theme of the chapter 'Structural Change'?",
-    "options": ["India's society has remained unchanged since ancient times", "Indian society has undergone significant structural transformation in economy, occupation, land relations, and urban life due to colonialism and planned development", "Only religious practices in India have changed over time", "Structural change has been limited to a single Indian state"],
-    "correct_index": 1,
-    "explanation": "The chapter traces how colonial policies and post-independence planned development transformed India's economic, occupational, agrarian, and urban structures.",
-    "ncert_page": 25,
-    "difficulty": "easy",
-    "subject": "Sociology"
-  },
-  {
-    "mcq_id": "c8_q50",
-    "chapter_id": "c8",
-    "question": "According to the chapter, the process of structural change in India is best understood as:",
-    "options": ["A sudden, one-time event with no historical roots", "A long-term, ongoing process shaped by colonial history and post-independence policy", "A process that has already been completed with no further change possible", "A phenomenon confined only to urban areas"],
-    "correct_index": 1,
-    "explanation": "The chapter presents structural change as a long-term, continuing process rooted in colonial history and shaped further by post-independence planning and policy.",
-    "ncert_page": 25,
-    "difficulty": "medium",
-    "subject": "Sociology"
-  }
+    {
+        "mcq_id": "c8_q01",
+        "chapter_id": "soc_ch8",
+        "question": "According to the NCERT chapter 'Structural Change', what does the term 'structure' refer to in sociology?",
+        "options": [
+            "A fixed physical building or monument",
+            "Interconnected roles and institutions that make up society",
+            "Only the economic system of a country",
+            "The geographical boundaries of a nation"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter explains structure as the interconnected roles, institutions and social positions that together constitute the framework of society.",
+        "ncert_page": 1,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q02",
+        "chapter_id": "soc_ch8",
+        "question": "Which sociologist's distinction between structural change and cultural change is discussed in this chapter?",
+        "options": [
+            "Emile Durkheim",
+            "M.N. Srinivas",
+            "Max Weber",
+            "Talcott Parsons"
+        ],
+        "correct_index": 1,
+        "explanation": "M.N. Srinivas distinguished between structural change (changes in institutions like caste and family) and cultural change (such as Sanskritisation and Westernisation).",
+        "ncert_page": 1,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q03",
+        "chapter_id": "soc_ch8",
+        "question": "Structural change in Indian society during the colonial period was primarily driven by which factor?",
+        "options": [
+            "Natural disasters",
+            "Colonial policies and market economy",
+            "Religious reform movements alone",
+            "Foreign wars"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter emphasises that colonial economic policies and the introduction of a market economy were major drivers of structural change in India.",
+        "ncert_page": 2,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q04",
+        "chapter_id": "soc_ch8",
+        "question": "Which of the following was NOT introduced by the British as a new land tenure system in India?",
+        "options": [
+            "Zamindari system",
+            "Ryotwari system",
+            "Mahalwari system",
+            "Jajmani system"
+        ],
+        "correct_index": 3,
+        "explanation": "The jajmani system was a traditional indigenous system of exchange between service and landowning castes, not a colonial land tenure system introduced by the British.",
+        "ncert_page": 3,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q05",
+        "chapter_id": "soc_ch8",
+        "question": "The commercialisation of agriculture under colonial rule primarily meant:",
+        "options": [
+            "Farmers producing only for household consumption",
+            "Crops being produced for sale in the market rather than home use",
+            "Complete mechanisation of farming",
+            "Abolition of land revenue"
+        ],
+        "correct_index": 1,
+        "explanation": "Commercialisation of agriculture refers to the shift from subsistence farming to production of cash crops meant for market sale, linking villages to wider markets.",
+        "ncert_page": 3,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q06",
+        "chapter_id": "soc_ch8",
+        "question": "Which new means of transport and communication introduced by the British had significant structural impact on Indian society?",
+        "options": [
+            "Bullock carts",
+            "Railways and telegraph",
+            "Palanquins",
+            "Bicycles"
+        ],
+        "correct_index": 1,
+        "explanation": "The railways and telegraph, introduced by the British, connected distant regions, facilitated trade, and had a profound structural impact on Indian society and economy.",
+        "ncert_page": 4,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q07",
+        "chapter_id": "soc_ch8",
+        "question": "New professions such as law, medicine, and teaching that emerged during colonial rule primarily arose from:",
+        "options": [
+            "Traditional caste occupations",
+            "The spread of English education",
+            "The jajmani system",
+            "Village panchayats"
+        ],
+        "correct_index": 1,
+        "explanation": "The spread of English education under colonial rule created new professions like law, medicine, teaching and journalism, contributing to occupational diversification.",
+        "ncert_page": 4,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q08",
+        "chapter_id": "soc_ch8",
+        "question": "Which sociologist analysed structural changes in Indian society in terms of polity, economy, kinship, and education?",
+        "options": [
+            "Yogendra Singh",
+            "G.S. Ghurye",
+            "A.R. Desai",
+            "Andre Beteille"
+        ],
+        "correct_index": 0,
+        "explanation": "Yogendra Singh examined the process of modernisation and structural change in India across dimensions such as polity, economy, kinship, and education.",
+        "ncert_page": 5,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q09",
+        "chapter_id": "soc_ch8",
+        "question": "The three sectors of the economy discussed in relation to occupational structure are:",
+        "options": [
+            "Rural, urban, and semi-urban",
+            "Primary, secondary, and tertiary",
+            "Formal, informal, and mixed",
+            "Public, private, and cooperative"
+        ],
+        "correct_index": 1,
+        "explanation": "Occupational structure is analysed in terms of the primary sector (agriculture), secondary sector (industry/manufacturing), and tertiary sector (services).",
+        "ncert_page": 5,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q10",
+        "chapter_id": "soc_ch8",
+        "question": "The primary sector of the economy mainly consists of:",
+        "options": [
+            "Banking and insurance services",
+            "Agriculture, forestry, fishing and mining",
+            "Manufacturing industries",
+            "Information technology"
+        ],
+        "correct_index": 1,
+        "explanation": "The primary sector includes activities directly dependent on natural resources such as agriculture, forestry, fishing, and mining.",
+        "ncert_page": 5,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q11",
+        "chapter_id": "soc_ch8",
+        "question": "The secondary sector of the economy refers to:",
+        "options": [
+            "Agriculture-based activities",
+            "Manufacturing and industrial production",
+            "Trade and transport services",
+            "Education and healthcare"
+        ],
+        "correct_index": 1,
+        "explanation": "The secondary sector involves the transformation of raw materials into finished goods through manufacturing and industry.",
+        "ncert_page": 6,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q12",
+        "chapter_id": "soc_ch8",
+        "question": "The tertiary sector of the economy includes:",
+        "options": [
+            "Mining and quarrying",
+            "Crop cultivation",
+            "Services such as trade, transport, banking and administration",
+            "Textile manufacturing"
+        ],
+        "correct_index": 2,
+        "explanation": "The tertiary sector covers service-based activities like trade, transport, banking, administration, and communication.",
+        "ncert_page": 6,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q13",
+        "chapter_id": "soc_ch8",
+        "question": "Since Independence, the workforce dependent on agriculture in India has:",
+        "options": [
+            "Increased continuously without decline",
+            "Gradually declined in proportion, though it remains substantial",
+            "Remained exactly the same throughout",
+            "Fallen to zero"
+        ],
+        "correct_index": 1,
+        "explanation": "Although a large proportion of India's workforce still depends on agriculture, its share has gradually declined over the decades as the industrial and service sectors expanded.",
+        "ncert_page": 7,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q14",
+        "chapter_id": "soc_ch8",
+        "question": "Structural change from an agrarian to an industrial society is characterised by:",
+        "options": [
+            "A shift of the workforce from agriculture towards industry and services",
+            "A complete disappearance of villages",
+            "Return of workers to subsistence farming",
+            "Decline of all urban centres"
+        ],
+        "correct_index": 0,
+        "explanation": "Structural change in the economy involves a gradual shift of the workforce away from agriculture towards industrial and service sector occupations.",
+        "ncert_page": 7,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q15",
+        "chapter_id": "soc_ch8",
+        "question": "Which government initiative after Independence played a key role in promoting planned industrialisation in India?",
+        "options": [
+            "The Five Year Plans",
+            "The East India Company charter",
+            "The Permanent Settlement",
+            "The Doctrine of Lapse"
+        ],
+        "correct_index": 0,
+        "explanation": "The Five Year Plans, initiated through the Planning Commission after Independence, aimed at promoting industrialisation and structural transformation of the economy.",
+        "ncert_page": 8,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q16",
+        "chapter_id": "soc_ch8",
+        "question": "The abolition of intermediaries such as zamindars after Independence was part of:",
+        "options": [
+            "Land reform measures",
+            "Industrial policy",
+            "Educational reforms",
+            "Foreign trade policy"
+        ],
+        "correct_index": 0,
+        "explanation": "Land reforms after Independence included the abolition of intermediary zamindars to restructure agrarian relations and give cultivators direct rights over land.",
+        "ncert_page": 8,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q17",
+        "chapter_id": "soc_ch8",
+        "question": "Land ceiling acts introduced after Independence were meant to:",
+        "options": [
+            "Increase the size of landholdings without limit",
+            "Set an upper limit on land a family could hold and redistribute surplus land",
+            "Nationalise all agricultural land",
+            "Abolish agriculture altogether"
+        ],
+        "correct_index": 1,
+        "explanation": "Land ceiling legislation fixed a maximum limit on landholdings so that surplus land could be redistributed among the landless, aiming at more equitable land relations.",
+        "ncert_page": 9,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q18",
+        "chapter_id": "soc_ch8",
+        "question": "The Green Revolution, discussed as part of agrarian structural change, was associated with:",
+        "options": [
+            "Decline of agricultural output",
+            "Introduction of high-yielding variety seeds, fertilisers, and irrigation in select regions",
+            "Abandonment of commercial farming",
+            "Total collectivisation of land"
+        ],
+        "correct_index": 1,
+        "explanation": "The Green Revolution introduced high-yielding variety seeds, chemical fertilisers, and expanded irrigation, significantly increasing agricultural productivity in states like Punjab and Haryana.",
+        "ncert_page": 9,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q19",
+        "chapter_id": "soc_ch8",
+        "question": "One structural consequence of the Green Revolution noted in the chapter was:",
+        "options": [
+            "Emergence of a class of prosperous capitalist farmers",
+            "Complete elimination of landless labourers",
+            "End of regional disparities in agriculture",
+            "Disappearance of the market economy"
+        ],
+        "correct_index": 0,
+        "explanation": "The Green Revolution led to the emergence of a class of rich, capitalist-oriented farmers who invested in new technology and inputs, deepening the market economy in rural areas.",
+        "ncert_page": 10,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q20",
+        "chapter_id": "soc_ch8",
+        "question": "The penetration of the market economy into rural India led to a decline of which traditional system?",
+        "options": [
+            "The jajmani system",
+            "The panchayati raj system",
+            "The reservation system",
+            "The parliamentary system"
+        ],
+        "correct_index": 0,
+        "explanation": "The jajmani system, based on hereditary exchange of goods and services between castes, weakened as the market economy and cash transactions penetrated villages.",
+        "ncert_page": 10,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q21",
+        "chapter_id": "soc_ch8",
+        "question": "Urbanisation in India, as discussed in the chapter, refers to:",
+        "options": [
+            "The decline of towns and cities",
+            "The growth in the proportion of population living in towns and cities",
+            "The disappearance of villages entirely",
+            "A decrease in migration"
+        ],
+        "correct_index": 1,
+        "explanation": "Urbanisation refers to the increasing proportion of a country's population residing in urban areas, a key indicator of structural change.",
+        "ncert_page": 11,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q22",
+        "chapter_id": "soc_ch8",
+        "question": "Which of the following is identified as a major cause of rural-to-urban migration in India?",
+        "options": [
+            "Search for employment and better opportunities in cities",
+            "Compulsory government relocation of entire villages",
+            "Abolition of agriculture",
+            "Decline in urban population"
+        ],
+        "correct_index": 0,
+        "explanation": "People migrate from rural to urban areas mainly in search of employment, education, and better economic opportunities, contributing to urban growth.",
+        "ncert_page": 11,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q23",
+        "chapter_id": "soc_ch8",
+        "question": "The growth of metropolitan cities in India is an example of:",
+        "options": [
+            "Deindustrialisation",
+            "Urbanisation associated with structural change",
+            "Agrarian expansion",
+            "Decline of the service sector"
+        ],
+        "correct_index": 1,
+        "explanation": "The rapid growth of large metropolitan cities reflects the process of urbanisation, an important dimension of structural change in Indian society.",
+        "ncert_page": 12,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q24",
+        "chapter_id": "soc_ch8",
+        "question": "Occupational diversification refers to:",
+        "options": [
+            "Everyone taking up the same traditional occupation",
+            "The emergence of a wider range of occupations beyond traditional caste-based ones",
+            "The complete disappearance of occupations",
+            "Only farming-related occupations increasing"
+        ],
+        "correct_index": 1,
+        "explanation": "Occupational diversification describes the process by which people increasingly move away from fixed, caste-determined occupations into a wide variety of new occupations.",
+        "ncert_page": 12,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q25",
+        "chapter_id": "soc_ch8",
+        "question": "The traditional link between caste and occupation in India has, according to the chapter:",
+        "options": [
+            "Strengthened over time with modernisation",
+            "Weakened due to occupational diversification and new economic opportunities",
+            "Remained completely unchanged since ancient times",
+            "Been legally reinforced by the Constitution"
+        ],
+        "correct_index": 1,
+        "explanation": "With structural change, occupational diversification and new economic opportunities have weakened the rigid traditional link between caste and occupation.",
+        "ncert_page": 13,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q26",
+        "chapter_id": "soc_ch8",
+        "question": "The concept of 'dominant caste', relevant to structural mobility, was developed by:",
+        "options": [
+            "M.N. Srinivas",
+            "Karl Marx",
+            "Louis Dumont",
+            "B.R. Ambedkar"
+        ],
+        "correct_index": 0,
+        "explanation": "M.N. Srinivas developed the concept of dominant caste to describe a caste that wields significant economic and political power in a local area due to landownership and numerical strength.",
+        "ncert_page": 13,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q27",
+        "chapter_id": "soc_ch8",
+        "question": "The rise of caste associations in modern India is an example of:",
+        "options": [
+            "Traditional caste rigidity with no change",
+            "Caste adapting itself to modern political and economic structures",
+            "The complete abolition of caste identity",
+            "A purely religious phenomenon unrelated to structure"
+        ],
+        "correct_index": 1,
+        "explanation": "Caste associations emerged as caste groups organised themselves to pursue political and economic interests, showing how caste adapted to modern democratic structures.",
+        "ncert_page": 14,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q28",
+        "chapter_id": "soc_ch8",
+        "question": "The spread of education in India after Independence contributed to structural change by:",
+        "options": [
+            "Reducing occupational opportunities",
+            "Enabling social and occupational mobility for individuals",
+            "Reinforcing rigid caste-based occupations",
+            "Eliminating the need for the tertiary sector"
+        ],
+        "correct_index": 1,
+        "explanation": "The spread of education opened up new occupational avenues and enabled individuals, including those from disadvantaged backgrounds, to achieve social and occupational mobility.",
+        "ncert_page": 14,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q29",
+        "chapter_id": "soc_ch8",
+        "question": "The 'new middle class' discussed in the chapter emerged largely due to:",
+        "options": [
+            "The decline of education",
+            "The growth of white-collar jobs, bureaucracy, and professional occupations",
+            "The abolition of the market economy",
+            "The return to subsistence agriculture"
+        ],
+        "correct_index": 1,
+        "explanation": "The new middle class grew through the expansion of white-collar employment, government administration, and professional occupations linked to education and urbanisation.",
+        "ncert_page": 15,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q30",
+        "chapter_id": "soc_ch8",
+        "question": "The state's role in structural change after Independence included:",
+        "options": [
+            "Complete withdrawal from the economy",
+            "Policies of planned development, land reforms, and affirmative action",
+            "Reinstating princely states",
+            "Banning industrialisation"
+        ],
+        "correct_index": 1,
+        "explanation": "The post-independence Indian state actively promoted structural change through planned development, land reforms, industrial policy, and affirmative action for disadvantaged groups.",
+        "ncert_page": 15,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q31",
+        "chapter_id": "soc_ch8",
+        "question": "Reservation policy for Scheduled Castes and Scheduled Tribes is an example of:",
+        "options": [
+            "Cultural change",
+            "State-led affirmative action contributing to structural mobility",
+            "Colonial land policy",
+            "A purely economic reform unrelated to social structure"
+        ],
+        "correct_index": 1,
+        "explanation": "Reservation policy is a form of state intervention aimed at enabling structural mobility for historically disadvantaged groups such as Scheduled Castes and Scheduled Tribes.",
+        "ncert_page": 16,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q32",
+        "chapter_id": "soc_ch8",
+        "question": "Structural change, as distinguished from cultural change, primarily refers to change in:",
+        "options": [
+            "Beliefs, values, and lifestyles",
+            "Institutions and social relationships such as caste, family, and occupation",
+            "Language and literature only",
+            "Religious rituals alone"
+        ],
+        "correct_index": 1,
+        "explanation": "Structural change involves transformation in institutions and social relationships, whereas cultural change relates more to beliefs, values, and lifestyle, as per Srinivas's distinction.",
+        "ncert_page": 16,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q33",
+        "chapter_id": "soc_ch8",
+        "question": "Industrialisation in India after Independence was closely linked with the growth of:",
+        "options": [
+            "Only cottage industries",
+            "Public sector enterprises and heavy industries under planning",
+            "Only foreign-owned firms",
+            "Handicrafts exclusively"
+        ],
+        "correct_index": 1,
+        "explanation": "Post-independence industrial policy emphasised the growth of public sector enterprises and heavy industries as part of planned economic development.",
+        "ncert_page": 17,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q34",
+        "chapter_id": "soc_ch8",
+        "question": "The decline in agriculture's share of India's Gross Domestic Product over decades, while its workforce share remains high, indicates:",
+        "options": [
+            "A perfect balance between sectors",
+            "Disguised unemployment and underemployment in agriculture",
+            "That agriculture has disappeared",
+            "That industry has declined"
+        ],
+        "correct_index": 1,
+        "explanation": "Agriculture's declining share of GDP alongside a still-large workforce dependent on it reflects disguised unemployment, where more people work in agriculture than is productively needed.",
+        "ncert_page": 17,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q35",
+        "chapter_id": "soc_ch8",
+        "question": "Changes in family and kinship patterns due to structural change include:",
+        "options": [
+            "Universal strengthening of joint families",
+            "A tendency towards nuclear family forms due to migration and urbanisation",
+            "Complete disappearance of family as an institution",
+            "Return to purely rural extended households everywhere"
+        ],
+        "correct_index": 1,
+        "explanation": "Migration to cities for work and urbanisation have contributed to a shift towards nuclear family forms, even though joint family ties often continue to be maintained in modified ways.",
+        "ncert_page": 18,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q36",
+        "chapter_id": "soc_ch8",
+        "question": "Migration due to structural changes in the economy is primarily linked to:",
+        "options": [
+            "Movement of people seeking work in industrial and urban centres",
+            "Seasonal religious pilgrimage only",
+            "Migration of animals",
+            "Movement restricted to within villages"
+        ],
+        "correct_index": 0,
+        "explanation": "Structural change, particularly industrialisation and urban growth, generated migration streams as people moved to industrial and urban centres in search of livelihoods.",
+        "ncert_page": 18,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q37",
+        "chapter_id": "soc_ch8",
+        "question": "The demographic structure of India changed alongside structural change through:",
+        "options": [
+            "A decline in population growth to zero",
+            "Shifts in population distribution between rural and urban areas",
+            "Complete cessation of birth rates",
+            "Uniform population across all regions"
+        ],
+        "correct_index": 1,
+        "explanation": "As part of structural change, India's demographic structure shifted with a growing proportion of the population moving to and residing in urban areas.",
+        "ncert_page": 19,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q38",
+        "chapter_id": "soc_ch8",
+        "question": "Which of the following best describes 'social mobility' in the context of this chapter?",
+        "options": [
+            "Physical movement of people from one place to another only",
+            "Movement of individuals or groups between different social or economic positions",
+            "The stagnancy of caste hierarchy",
+            "A decline in population"
+        ],
+        "correct_index": 1,
+        "explanation": "Social mobility refers to the movement of individuals or groups within the social hierarchy, often enabled by education, occupational change, and economic opportunity.",
+        "ncert_page": 19,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q39",
+        "chapter_id": "soc_ch8",
+        "question": "The introduction of private property in land under colonial rule had which structural consequence?",
+        "options": [
+            "It eliminated the concept of land ownership entirely",
+            "It created new class relations between landowners and tenants/labourers",
+            "It made land free for everyone",
+            "It had no effect on rural society"
+        ],
+        "correct_index": 1,
+        "explanation": "The introduction of private property rights in land under colonial policies restructured rural society into new class relations between landowners, tenants, and agricultural labourers.",
+        "ncert_page": 20,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q40",
+        "chapter_id": "soc_ch8",
+        "question": "Which of these was a structural effect of the growth of new cities and towns under British rule?",
+        "options": [
+            "Emergence of new administrative and commercial centres like Bombay, Calcutta, and Madras",
+            "Complete disappearance of Indian villages",
+            "Ban on trade in port cities",
+            "Loss of all employment opportunities in cities"
+        ],
+        "correct_index": 0,
+        "explanation": "Port and administrative cities such as Bombay, Calcutta, and Madras grew as new commercial and administrative centres under colonial rule, reshaping India's urban structure.",
+        "ncert_page": 20,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q41",
+        "chapter_id": "soc_ch8",
+        "question": "The term 'agrarian structure' in this chapter refers to:",
+        "options": [
+            "The system of trade unions in factories",
+            "The pattern of land relations, ownership, and cultivation in rural society",
+            "The structure of urban housing",
+            "The organisation of the stock market"
+        ],
+        "correct_index": 1,
+        "explanation": "Agrarian structure refers to the pattern of landownership, tenancy, and cultivation relations that organise rural economic and social life.",
+        "ncert_page": 21,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q42",
+        "chapter_id": "soc_ch8",
+        "question": "Regional variation in the pace of structural change in India means that:",
+        "options": [
+            "All regions of India developed at exactly the same rate",
+            "Different regions experienced industrialisation, urbanisation, and agrarian change at different rates",
+            "Only one state in India experienced any structural change",
+            "Structural change was uniform across all castes and classes"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter notes that structural change did not occur uniformly; different regions of India experienced varying degrees and paces of industrialisation, urbanisation, and agrarian transformation.",
+        "ncert_page": 21,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q43",
+        "chapter_id": "soc_ch8",
+        "question": "Displacement of communities due to development projects such as dams and industries is discussed in the chapter as:",
+        "options": [
+            "A positive structural change with no drawbacks",
+            "A social cost associated with certain forms of structural and economic change",
+            "Something that never occurred in India",
+            "Unrelated to structural change"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter acknowledges that development projects like dams and industries, while promoting economic growth, have also displaced communities, representing a social cost of structural change.",
+        "ncert_page": 22,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q44",
+        "chapter_id": "soc_ch8",
+        "question": "The weakening of the jajmani system in rural India was primarily a consequence of:",
+        "options": [
+            "Increased dependence on hereditary caste-based exchange",
+            "Growing monetisation and market relations replacing traditional exchange",
+            "Government ban on the system by law",
+            "Strengthening of the joint family system"
+        ],
+        "correct_index": 1,
+        "explanation": "As cash transactions and market relations penetrated villages, the traditional jajmani system of hereditary service exchange between castes gradually weakened.",
+        "ncert_page": 22,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q45",
+        "chapter_id": "soc_ch8",
+        "question": "Which of the following is an example of occupational structure shifting towards the tertiary sector in urban India?",
+        "options": [
+            "Growth of employment in banking, IT, and administration",
+            "Decline of all service industries",
+            "Increase in subsistence farming in cities",
+            "Ban on trade and commerce"
+        ],
+        "correct_index": 0,
+        "explanation": "The expansion of employment in banking, information technology, and administration exemplifies the shift of the urban workforce towards the tertiary or services sector.",
+        "ncert_page": 23,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q46",
+        "chapter_id": "soc_ch8",
+        "question": "The chapter suggests that structural change and cultural change:",
+        "options": [
+            "Always occur together in perfect synchrony",
+            "Can occur at different paces and are analytically distinct processes",
+            "Are exactly the same thing",
+            "Never influence each other"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter, following Srinivas, treats structural and cultural change as analytically distinct processes that may occur at different paces, even though they can influence one another.",
+        "ncert_page": 23,
+        "difficulty": "hard",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q47",
+        "chapter_id": "soc_ch8",
+        "question": "The growth of trade unions and labour movements in India is connected to which structural change?",
+        "options": [
+            "The decline of agriculture only",
+            "Industrialisation and the growth of a factory-based working class",
+            "The abolition of the caste system",
+            "The spread of rural education alone"
+        ],
+        "correct_index": 1,
+        "explanation": "Industrialisation created a new factory-based working class, which in turn gave rise to trade unions and labour movements to represent workers' interests.",
+        "ncert_page": 24,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q48",
+        "chapter_id": "soc_ch8",
+        "question": "Colonial administrative and educational institutions such as universities and civil services contributed to structural change by:",
+        "options": [
+            "Reinforcing traditional occupations exclusively",
+            "Creating new avenues for employment and social mobility outside traditional structures",
+            "Preventing all forms of social mobility",
+            "Abolishing the English language"
+        ],
+        "correct_index": 1,
+        "explanation": "Colonial institutions like universities and the civil services opened up new employment avenues based on education rather than birth, enabling new forms of social mobility.",
+        "ncert_page": 24,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q49",
+        "chapter_id": "soc_ch8",
+        "question": "Which of the following best summarises the overall theme of the chapter 'Structural Change'?",
+        "options": [
+            "India's society has remained unchanged since ancient times",
+            "Indian society has undergone significant structural transformation in economy, occupation, land relations, and urban life due to colonialism and planned development",
+            "Only religious practices in India have changed over time",
+            "Structural change has been limited to a single Indian state"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter traces how colonial policies and post-independence planned development transformed India's economic, occupational, agrarian, and urban structures.",
+        "ncert_page": 25,
+        "difficulty": "easy",
+        "subject": "Sociology"
+    },
+    {
+        "mcq_id": "c8_q50",
+        "chapter_id": "soc_ch8",
+        "question": "According to the chapter, the process of structural change in India is best understood as:",
+        "options": [
+            "A sudden, one-time event with no historical roots",
+            "A long-term, ongoing process shaped by colonial history and post-independence policy",
+            "A process that has already been completed with no further change possible",
+            "A phenomenon confined only to urban areas"
+        ],
+        "correct_index": 1,
+        "explanation": "The chapter presents structural change as a long-term, continuing process rooted in colonial history and shaped further by post-independence planning and policy.",
+        "ncert_page": 25,
+        "difficulty": "medium",
+        "subject": "Sociology"
+    }
 ]
