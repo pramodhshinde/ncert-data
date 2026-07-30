@@ -1,552 +1,802 @@
 [
-  {
-    "mcq_id": "c10_q01",
-    "chapter_id": "c10",
-    "question": "Which of the following is a key feature of a perfectly competitive market?",
-    "options": ["A single seller controls the market", "A large number of buyers and sellers, none of whom can influence price", "Products are highly differentiated across firms", "Firms face restrictions on entry and exit"],
-    "correct_index": 1,
-    "explanation": "Under perfect competition, there are a large number of buyers and sellers, each so small relative to the market that no individual buyer or seller can influence the price.",
-    "ncert_page": 71,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q02",
-    "chapter_id": "c10",
-    "question": "In a perfectly competitive market, the product sold by all firms is:",
-    "options": ["Differentiated", "Homogeneous", "Branded", "Unique to each firm"],
-    "correct_index": 1,
-    "explanation": "A key assumption of perfect competition is that all firms produce a homogeneous (identical) product, so buyers are indifferent about which firm's output they buy.",
-    "ncert_page": 71,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q03",
-    "chapter_id": "c10",
-    "question": "Under perfect competition, firms are described as 'price takers' because:",
-    "options": ["They can set any price they wish", "They must accept the price determined by market demand and supply", "They negotiate prices individually with buyers", "The government fixes their prices"],
-    "correct_index": 1,
-    "explanation": "Since each firm's output is a negligible part of total market supply, an individual firm has no influence over price and must accept the price prevailing in the market.",
-    "ncert_page": 71,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q04",
-    "chapter_id": "c10",
-    "question": "Which of the following is NOT a defining feature of perfect competition?",
-    "options": ["Free entry and exit of firms", "Perfect knowledge of market conditions among buyers and sellers", "A single firm producing a unique product", "Large number of buyers and sellers"],
-    "correct_index": 2,
-    "explanation": "A single firm producing a unique product describes a monopoly, not perfect competition, which requires many firms selling a homogeneous product.",
-    "ncert_page": 71,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q05",
-    "chapter_id": "c10",
-    "question": "'Free entry and exit' as a feature of perfect competition means:",
-    "options": ["Firms cannot leave the industry once they enter", "There are no significant barriers preventing firms from entering or leaving the industry", "Only government firms can enter the market", "New firms must pay a licence fee to enter"],
-    "correct_index": 1,
-    "explanation": "Free entry and exit means there are no legal, technological or economic barriers restricting firms from entering the industry when it is profitable or leaving when it is not.",
-    "ncert_page": 71,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q06",
-    "chapter_id": "c10",
-    "question": "The demand curve facing an individual firm under perfect competition is:",
-    "options": ["Downward sloping", "Perfectly horizontal at the market price", "Perfectly vertical", "Upward sloping"],
-    "correct_index": 1,
-    "explanation": "Since a firm is a price taker, it can sell any quantity at the ruling market price, making its demand curve a horizontal straight line at that price.",
-    "ncert_page": 72,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q07",
-    "chapter_id": "c10",
-    "question": "For a price-taking firm under perfect competition, price (P) equals:",
-    "options": ["Total Cost (TC)", "Average Revenue (AR) and Marginal Revenue (MR)", "Total Fixed Cost (TFC) only", "Average Variable Cost (AVC) always"],
-    "correct_index": 1,
-    "explanation": "Since a competitive firm sells every unit at the same market price, Price = Average Revenue = Marginal Revenue for such a firm.",
-    "ncert_page": 72,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q08",
-    "chapter_id": "c10",
-    "question": "What is generally assumed to be the objective of a firm in economic theory?",
-    "options": ["Maximisation of revenue", "Maximisation of output", "Maximisation of profit", "Minimisation of price"],
-    "correct_index": 2,
-    "explanation": "The standard assumption in the theory of the firm is that a firm aims to maximise its profit, defined as total revenue minus total cost.",
-    "ncert_page": 72,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q09",
-    "chapter_id": "c10",
-    "question": "Profit of a firm is defined as:",
-    "options": ["Total Revenue plus Total Cost", "Total Revenue minus Total Cost", "Total Cost minus Total Revenue", "Average Revenue minus Average Cost only"],
-    "correct_index": 1,
-    "explanation": "Profit (π) is defined as Total Revenue (TR) minus Total Cost (TC): π = TR − TC.",
-    "ncert_page": 72,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q10",
-    "chapter_id": "c10",
-    "question": "The necessary condition for profit maximisation of a firm is:",
-    "options": ["MR is greater than MC at all levels of output", "MR equals MC", "AR equals AC", "TR is maximum irrespective of TC"],
-    "correct_index": 1,
-    "explanation": "A firm maximises profit at the output level where Marginal Revenue equals Marginal Cost (MR = MC), the first-order condition of profit maximisation.",
-    "ncert_page": 73,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q11",
-    "chapter_id": "c10",
-    "question": "Besides MR = MC, what is the second-order (sufficient) condition for profit maximisation?",
-    "options": ["The MC curve must cut the MR curve from above", "The MC curve must cut the MR curve from below", "The AC curve must be falling at that output", "The TC curve must be a straight line"],
-    "correct_index": 1,
-    "explanation": "For profit to be maximised (not minimised), the marginal cost curve must cut the marginal revenue curve from below at the equilibrium output.",
-    "ncert_page": 73,
-    "difficulty": "hard",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q12",
-    "chapter_id": "c10",
-    "question": "If at a given output MC is less than MR, a profit-maximising firm should:",
-    "options": ["Reduce output", "Keep output unchanged", "Increase output further", "Shut down immediately"],
-    "correct_index": 2,
-    "explanation": "When MR exceeds MC, producing one more unit adds more to revenue than to cost, raising profit, so the firm should expand output until MR = MC.",
-    "ncert_page": 73,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q13",
-    "chapter_id": "c10",
-    "question": "If at a given output MC exceeds MR, a profit-maximising firm should:",
-    "options": ["Increase output further", "Reduce output", "Keep output unchanged", "Increase price above market price"],
-    "correct_index": 1,
-    "explanation": "When MC is greater than MR, the last unit produced adds more to cost than to revenue, reducing profit, so the firm should cut back output.",
-    "ncert_page": 73,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q14",
-    "chapter_id": "c10",
-    "question": "Since a perfectly competitive firm's Marginal Revenue equals price, the profit-maximising condition MR = MC can also be written as:",
-    "options": ["P = AC", "P = MC", "P = AVC", "P = TFC"],
-    "correct_index": 1,
-    "explanation": "Because MR = P for a price-taking firm, the profit-maximisation condition MR = MC becomes P = MC under perfect competition.",
-    "ncert_page": 73,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q15",
-    "chapter_id": "c10",
-    "question": "'Normal profit' refers to a situation where:",
-    "options": ["Total Revenue exceeds Total Cost", "Total Revenue equals Total Cost", "Total Revenue is less than Total Variable Cost", "The firm earns zero revenue"],
-    "correct_index": 1,
-    "explanation": "Normal profit occurs when TR = TC, i.e., the firm earns just enough to cover all its costs, including the opportunity cost of the entrepreneur's resources.",
-    "ncert_page": 74,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q16",
-    "chapter_id": "c10",
-    "question": "The point at which a firm's Total Revenue exactly equals its Total Cost is known as the:",
-    "options": ["Shutdown point", "Break-even point", "Equilibrium price point", "Supply threshold"],
-    "correct_index": 1,
-    "explanation": "The break-even point is where TR = TC, so the firm earns zero economic (supernormal) profit but normal profit is included in costs.",
-    "ncert_page": 74,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q17",
-    "chapter_id": "c10",
-    "question": "At the break-even point, price is equal to:",
-    "options": ["Minimum of Average Variable Cost", "Minimum of Average Cost", "Marginal Revenue only", "Total Fixed Cost"],
-    "correct_index": 1,
-    "explanation": "The break-even point occurs where price equals the minimum point of the Average Cost (AC) curve, so the firm earns only normal profit.",
-    "ncert_page": 74,
-    "difficulty": "hard",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q18",
-    "chapter_id": "c10",
-    "question": "'Supernormal profit' (or economic profit) is earned by a firm when:",
-    "options": ["Total Revenue is less than Total Cost", "Total Revenue equals Total Cost", "Total Revenue is greater than Total Cost", "The firm produces zero output"],
-    "correct_index": 2,
-    "explanation": "Supernormal or economic profit arises when TR > TC, meaning the firm earns more than the normal return needed to keep it in the industry.",
-    "ncert_page": 74,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q19",
-    "chapter_id": "c10",
-    "question": "A firm is said to incur losses when:",
-    "options": ["Total Revenue exceeds Total Cost", "Total Revenue equals Total Cost", "Total Revenue is less than Total Cost", "Marginal Revenue equals Marginal Cost at zero output"],
-    "correct_index": 2,
-    "explanation": "A firm makes losses when TR < TC, i.e., total revenue is insufficient to cover total cost of production.",
-    "ncert_page": 74,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q20",
-    "chapter_id": "c10",
-    "question": "In the short run, even while incurring losses, a firm will continue to produce as long as:",
-    "options": ["Price is greater than or equal to minimum Average Variable Cost", "Price is less than Average Variable Cost", "Total Revenue is zero", "Price is greater than Average Fixed Cost only"],
-    "correct_index": 0,
-    "explanation": "A firm continues to produce in the short run as long as price covers at least the minimum Average Variable Cost, since fixed costs must be borne regardless of production.",
-    "ncert_page": 75,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q21",
-    "chapter_id": "c10",
-    "question": "The 'shutdown point' of a firm in the short run is the point where:",
-    "options": ["Price equals minimum Average Cost", "Price equals minimum Average Variable Cost", "Price equals Marginal Revenue only", "Output equals zero permanently"],
-    "correct_index": 1,
-    "explanation": "The shutdown point occurs where price equals the minimum of the Average Variable Cost curve; below this price the firm minimises losses by producing nothing.",
-    "ncert_page": 75,
-    "difficulty": "hard",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q22",
-    "chapter_id": "c10",
-    "question": "If price falls below the minimum Average Variable Cost in the short run, a profit-maximising (loss-minimising) firm should:",
-    "options": ["Continue producing at the same level", "Increase output to cover losses", "Shut down production (produce zero output)", "Double its price"],
-    "correct_index": 2,
-    "explanation": "When price is below minimum AVC, the firm cannot even cover its variable costs, so losses are minimised by shutting down and producing zero output.",
-    "ncert_page": 75,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q23",
-    "chapter_id": "c10",
-    "question": "The short run supply curve of a perfectly competitive firm is given by:",
-    "options": ["The entire Marginal Cost curve", "The portion of the MC curve that lies above and includes the minimum point of AVC", "The Average Fixed Cost curve", "The demand curve of the firm"],
-    "correct_index": 1,
-    "explanation": "The firm's short run supply curve is the rising part of its MC curve lying at or above the minimum point of the AVC curve, since below that the firm shuts down.",
-    "ncert_page": 76,
-    "difficulty": "hard",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q24",
-    "chapter_id": "c10",
-    "question": "Why is the portion of the MC curve below the minimum AVC point not part of the firm's supply curve?",
-    "options": ["Because the firm would supply an infinite quantity there", "Because at those prices the firm shuts down and supplies zero output", "Because MC is negative in that region", "Because the government prohibits selling below AVC"],
-    "correct_index": 1,
-    "explanation": "At prices below minimum AVC, the firm cannot cover variable costs and therefore produces zero output, so that segment of MC is excluded from the supply curve.",
-    "ncert_page": 76,
-    "difficulty": "hard",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q25",
-    "chapter_id": "c10",
-    "question": "The 'law of supply' states that, other things remaining constant:",
-    "options": ["Quantity supplied falls as price rises", "Quantity supplied rises as price rises", "Quantity supplied is unrelated to price", "Quantity supplied is always fixed"],
-    "correct_index": 1,
-    "explanation": "The law of supply states a direct (positive) relationship between price and quantity supplied, other determinants of supply remaining unchanged.",
-    "ncert_page": 77,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q26",
-    "chapter_id": "c10",
-    "question": "The market supply curve under perfect competition is derived by:",
-    "options": ["Vertical summation of individual firms' supply curves", "Horizontal summation of individual firms' supply curves", "Averaging the highest and lowest firm supply curves", "Taking the supply curve of the largest firm only"],
-    "correct_index": 1,
-    "explanation": "The market supply curve is obtained by horizontally summing the quantities supplied by all individual firms in the industry at each price.",
-    "ncert_page": 77,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q27",
-    "chapter_id": "c10",
-    "question": "Which of the following is a determinant of supply of a good, other than its own price?",
-    "options": ["Price of inputs used in production", "Consumer's income", "Consumer's tastes and preferences", "Price of a complementary good in consumption"],
-    "correct_index": 0,
-    "explanation": "Input prices are a key determinant of supply: a rise in the price of inputs raises production costs and typically reduces the quantity a firm is willing to supply at a given price.",
-    "ncert_page": 78,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q28",
-    "chapter_id": "c10",
-    "question": "An improvement in production technology, other things constant, generally causes the supply curve to:",
-    "options": ["Shift leftward (decrease)", "Shift rightward (increase)", "Remain unchanged", "Become vertical"],
-    "correct_index": 1,
-    "explanation": "Better technology lowers the cost of production, enabling firms to supply more at every price level, shifting the supply curve to the right.",
-    "ncert_page": 78,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q29",
-    "chapter_id": "c10",
-    "question": "A movement along a given supply curve occurs due to:",
-    "options": ["A change in the price of the good itself", "A change in input prices", "A change in the number of firms in the industry", "A change in technology"],
-    "correct_index": 0,
-    "explanation": "A movement along the supply curve is caused only by a change in the price of the good itself, holding all other determinants of supply constant.",
-    "ncert_page": 78,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q30",
-    "chapter_id": "c10",
-    "question": "A shift of the entire supply curve is caused by a change in:",
-    "options": ["The price of the good itself only", "Any determinant of supply other than the good's own price", "Consumer income alone", "The quantity demanded"],
-    "correct_index": 1,
-    "explanation": "Changes in non-price determinants such as input prices, technology, or the number of firms shift the whole supply curve, unlike a price change which causes movement along it.",
-    "ncert_page": 78,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q31",
-    "chapter_id": "c10",
-    "question": "An increase in the number of firms in a perfectly competitive industry, other things constant, will:",
-    "options": ["Shift the market supply curve leftward", "Shift the market supply curve rightward", "Leave the market supply curve unaffected", "Shift the market demand curve rightward"],
-    "correct_index": 1,
-    "explanation": "Since market supply is the horizontal sum of individual firms' supplies, an increase in the number of firms increases total quantity supplied at each price, shifting supply rightward.",
-    "ncert_page": 78,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q32",
-    "chapter_id": "c10",
-    "question": "Price elasticity of supply measures:",
-    "options": ["The responsiveness of quantity supplied to a change in consumer income", "The responsiveness of quantity supplied to a change in the price of the good", "The responsiveness of quantity demanded to a change in price", "The ratio of total revenue to total cost"],
-    "correct_index": 1,
-    "explanation": "Price elasticity of supply is the percentage change in quantity supplied divided by the percentage change in price of the good.",
-    "ncert_page": 79,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q33",
-    "chapter_id": "c10",
-    "question": "If a small change in price leads to an infinitely large change in quantity supplied, supply is said to be:",
-    "options": ["Perfectly inelastic", "Unitary elastic", "Perfectly elastic", "Relatively inelastic"],
-    "correct_index": 2,
-    "explanation": "Perfectly elastic supply means the supply curve is horizontal, and even a negligible price change causes an infinite change in quantity supplied.",
-    "ncert_page": 79,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q34",
-    "chapter_id": "c10",
-    "question": "A vertical supply curve represents:",
-    "options": ["Perfectly elastic supply", "Unitary elastic supply", "Perfectly inelastic supply", "Relatively elastic supply"],
-    "correct_index": 2,
-    "explanation": "A vertical supply curve means quantity supplied does not change at all regardless of price, which is the case of perfectly inelastic supply (elasticity = 0).",
-    "ncert_page": 79,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q35",
-    "chapter_id": "c10",
-    "question": "A firm is in 'producer's equilibrium' when it is:",
-    "options": ["Producing at the output level that maximises its profit", "Producing at the output level with zero total cost", "Producing the maximum physical output possible", "Selling at the lowest possible price"],
-    "correct_index": 0,
-    "explanation": "Producer's equilibrium refers to the output level at which the firm maximises profit, i.e., where MR = MC with the MC curve cutting MR from below.",
-    "ncert_page": 80,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q36",
-    "chapter_id": "c10",
-    "question": "In the long run under perfect competition, if firms in an industry are earning supernormal profits, what happens?",
-    "options": ["Existing firms exit the industry", "New firms enter the industry, increasing supply and driving price down", "Price rises further indefinitely", "The government imposes a price ceiling automatically"],
-    "correct_index": 1,
-    "explanation": "Supernormal profits attract new firms due to free entry; as they enter, market supply rises and price falls until only normal profit remains.",
-    "ncert_page": 81,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q37",
-    "chapter_id": "c10",
-    "question": "In the long run under perfect competition, if firms are incurring losses, what happens?",
-    "options": ["More firms enter the industry", "Some firms exit the industry, reducing supply and raising price", "Price falls further indefinitely", "Firms are forced to merge"],
-    "correct_index": 1,
-    "explanation": "Persistent losses induce free exit of firms; as firms leave, market supply falls and price rises until remaining firms earn only normal profit.",
-    "ncert_page": 81,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q38",
-    "chapter_id": "c10",
-    "question": "In long run equilibrium under perfect competition, a representative firm earns:",
-    "options": ["Only supernormal profit", "Only normal profit (zero economic profit)", "Continuous losses", "Zero total revenue"],
-    "correct_index": 1,
-    "explanation": "Free entry and exit ensures that in the long run, firms in a perfectly competitive industry earn only normal profit, with economic (supernormal) profit driven to zero.",
-    "ncert_page": 81,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q39",
-    "chapter_id": "c10",
-    "question": "In long run equilibrium, price under perfect competition equals:",
-    "options": ["Minimum of long run Average Cost", "Maximum of long run Average Cost", "Average Fixed Cost only", "Zero"],
-    "correct_index": 0,
-    "explanation": "In long run equilibrium, entry and exit push price to equal the minimum point of the long run Average Cost curve, where firms earn only normal profit.",
-    "ncert_page": 81,
-    "difficulty": "hard",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q40",
-    "chapter_id": "c10",
-    "question": "Which cost is relevant for deciding whether a firm should shut down in the short run, but is irrelevant to fixed costs?",
-    "options": ["Total Fixed Cost", "Average Variable Cost", "Sunk cost", "Depreciation on unused machinery"],
-    "correct_index": 1,
-    "explanation": "The shutdown decision hinges on whether price covers Average Variable Cost, since fixed costs must be paid whether or not the firm produces.",
-    "ncert_page": 75,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q41",
-    "chapter_id": "c10",
-    "question": "Total Revenue (TR) of a firm is calculated as:",
-    "options": ["Price multiplied by quantity sold", "Price divided by quantity sold", "Total Cost minus profit", "Average Cost multiplied by quantity"],
-    "correct_index": 0,
-    "explanation": "Total Revenue is simply price per unit multiplied by the quantity of output sold: TR = P × Q.",
-    "ncert_page": 72,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q42",
-    "chapter_id": "c10",
-    "question": "Marginal Revenue (MR) is defined as:",
-    "options": ["The change in total revenue due to sale of one additional unit of output", "Total revenue divided by fixed cost", "Average revenue minus average cost", "The price of the first unit sold"],
-    "correct_index": 0,
-    "explanation": "Marginal Revenue is the addition to total revenue from selling one more unit of output: MR = ΔTR/ΔQ.",
-    "ncert_page": 72,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q43",
-    "chapter_id": "c10",
-    "question": "Under perfect competition, why does the firm's Average Revenue curve coincide with its Marginal Revenue curve?",
-    "options": ["Because both are always zero", "Because the firm sells all units at the same constant market price", "Because output is fixed by law", "Because Total Cost equals Total Revenue"],
-    "correct_index": 1,
-    "explanation": "Since price is constant for a price-taking firm, each additional unit sold adds exactly that price to revenue, making AR = MR = P, a horizontal line.",
-    "ncert_page": 72,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q44",
-    "chapter_id": "c10",
-    "question": "'Perfect knowledge' as a feature of perfect competition implies that:",
-    "options": ["Only sellers know the market price", "Buyers and sellers have complete information about prices and products in the market", "Only the government knows market conditions", "Firms keep their costs secret from each other"],
-    "correct_index": 1,
-    "explanation": "Perfect competition assumes buyers and sellers possess complete information about prices, quality, and market conditions, so no seller can charge above the ruling price.",
-    "ncert_page": 71,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q45",
-    "chapter_id": "c10",
-    "question": "Which of the following best describes 'homogeneous product' in perfect competition?",
-    "options": ["Every firm's product is a perfect substitute for another firm's product", "Products differ significantly in quality across firms", "Each firm has its own unique brand identity", "Products can only be sold in one region"],
-    "correct_index": 0,
-    "explanation": "A homogeneous product means that units produced by different firms are identical and perfect substitutes for each other in the eyes of buyers.",
-    "ncert_page": 71,
-    "difficulty": "easy",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q46",
-    "chapter_id": "c10",
-    "question": "If a firm's fixed costs are Rs 500 and it earns zero profit (TR = TC) while producing positive output, this represents:",
-    "options": ["A shutdown situation", "A break-even (normal profit) situation", "A supernormal profit situation", "An impossible situation"],
-    "correct_index": 1,
-    "explanation": "When TR equals TC (which already includes normal profit as an opportunity cost), the firm is at its break-even point earning only normal profit.",
-    "ncert_page": 74,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q47",
-    "chapter_id": "c10",
-    "question": "At output levels where MC is falling, is the firm at a profit-maximising equilibrium if MR = MC there?",
-    "options": ["Yes, MR=MC is always sufficient regardless of the slope of MC", "No, because the MC curve is cutting MR from above at that point, indicating minimum profit or maximum loss", "Yes, because MR is always greater than MC when MC is falling", "No, because MR can never equal MC when MC is falling"],
-    "correct_index": 1,
-    "explanation": "If MC is falling and cuts MR from above, that output level corresponds to minimum profit (or maximum loss), not maximum profit, since the sufficient condition (MC cutting MR from below) is violated.",
-    "ncert_page": 73,
-    "difficulty": "hard",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q48",
-    "chapter_id": "c10",
-    "question": "Which of the following would cause the individual firm's supply curve under perfect competition to shift, rather than cause a movement along it?",
-    "options": ["A rise in the market price of the good", "A fall in the market price of the good", "A decrease in the price of raw materials used by the firm", "Both a rise and fall in market price"],
-    "correct_index": 2,
-    "explanation": "A change in input (raw material) prices alters the firm's cost curves and shifts the supply curve, unlike a change in the good's own price which causes a movement along the existing curve.",
-    "ncert_page": 78,
-    "difficulty": "medium",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q49",
-    "chapter_id": "c10",
-    "question": "Why do firms under perfect competition earn only normal profit in the long run despite free choice of output?",
-    "options": ["Because prices are fixed by the government", "Because free entry and exit eliminate any persistent supernormal profit or loss", "Because firms are legally required to earn zero profit", "Because consumers refuse to pay more than cost"],
-    "correct_index": 1,
-    "explanation": "Free entry attracted by supernormal profits increases supply and lowers price, while free exit in response to losses reduces supply and raises price, both converging to normal profit in the long run.",
-    "ncert_page": 81,
-    "difficulty": "hard",
-    "subject": "Economics"
-  },
-  {
-    "mcq_id": "c10_q50",
-    "chapter_id": "c10",
-    "question": "The short run market supply curve under perfect competition is obtained by summing, at each price, the quantities that individual firms supply along:",
-    "options": ["Their entire Average Fixed Cost curve", "The rising portion of their MC curve above minimum AVC", "Their demand curve for inputs", "Their Total Revenue curve"],
-    "correct_index": 1,
-    "explanation": "Since each firm's short run supply curve is the segment of its MC curve above minimum AVC, the market supply curve is the horizontal sum of these segments across all firms.",
-    "ncert_page": 82,
-    "difficulty": "hard",
-    "subject": "Economics"
-  }
+    {
+        "mcq_id": "c10_q01",
+        "chapter_id": "eco_ch10",
+        "question": "Which of the following is a key feature of a perfectly competitive market?",
+        "options": [
+            "A single seller controls the market",
+            "A large number of buyers and sellers, none of whom can influence price",
+            "Products are highly differentiated across firms",
+            "Firms face restrictions on entry and exit"
+        ],
+        "correct_index": 1,
+        "explanation": "Under perfect competition, there are a large number of buyers and sellers, each so small relative to the market that no individual buyer or seller can influence the price.",
+        "ncert_page": 71,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q02",
+        "chapter_id": "eco_ch10",
+        "question": "In a perfectly competitive market, the product sold by all firms is:",
+        "options": [
+            "Differentiated",
+            "Homogeneous",
+            "Branded",
+            "Unique to each firm"
+        ],
+        "correct_index": 1,
+        "explanation": "A key assumption of perfect competition is that all firms produce a homogeneous (identical) product, so buyers are indifferent about which firm's output they buy.",
+        "ncert_page": 71,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q03",
+        "chapter_id": "eco_ch10",
+        "question": "Under perfect competition, firms are described as 'price takers' because:",
+        "options": [
+            "They can set any price they wish",
+            "They must accept the price determined by market demand and supply",
+            "They negotiate prices individually with buyers",
+            "The government fixes their prices"
+        ],
+        "correct_index": 1,
+        "explanation": "Since each firm's output is a negligible part of total market supply, an individual firm has no influence over price and must accept the price prevailing in the market.",
+        "ncert_page": 71,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q04",
+        "chapter_id": "eco_ch10",
+        "question": "Which of the following is NOT a defining feature of perfect competition?",
+        "options": [
+            "Free entry and exit of firms",
+            "Perfect knowledge of market conditions among buyers and sellers",
+            "A single firm producing a unique product",
+            "Large number of buyers and sellers"
+        ],
+        "correct_index": 2,
+        "explanation": "A single firm producing a unique product describes a monopoly, not perfect competition, which requires many firms selling a homogeneous product.",
+        "ncert_page": 71,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q05",
+        "chapter_id": "eco_ch10",
+        "question": "'Free entry and exit' as a feature of perfect competition means:",
+        "options": [
+            "Firms cannot leave the industry once they enter",
+            "There are no significant barriers preventing firms from entering or leaving the industry",
+            "Only government firms can enter the market",
+            "New firms must pay a licence fee to enter"
+        ],
+        "correct_index": 1,
+        "explanation": "Free entry and exit means there are no legal, technological or economic barriers restricting firms from entering the industry when it is profitable or leaving when it is not.",
+        "ncert_page": 71,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q06",
+        "chapter_id": "eco_ch10",
+        "question": "The demand curve facing an individual firm under perfect competition is:",
+        "options": [
+            "Downward sloping",
+            "Perfectly horizontal at the market price",
+            "Perfectly vertical",
+            "Upward sloping"
+        ],
+        "correct_index": 1,
+        "explanation": "Since a firm is a price taker, it can sell any quantity at the ruling market price, making its demand curve a horizontal straight line at that price.",
+        "ncert_page": 72,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q07",
+        "chapter_id": "eco_ch10",
+        "question": "For a price-taking firm under perfect competition, price (P) equals:",
+        "options": [
+            "Total Cost (TC)",
+            "Average Revenue (AR) and Marginal Revenue (MR)",
+            "Total Fixed Cost (TFC) only",
+            "Average Variable Cost (AVC) always"
+        ],
+        "correct_index": 1,
+        "explanation": "Since a competitive firm sells every unit at the same market price, Price = Average Revenue = Marginal Revenue for such a firm.",
+        "ncert_page": 72,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q08",
+        "chapter_id": "eco_ch10",
+        "question": "What is generally assumed to be the objective of a firm in economic theory?",
+        "options": [
+            "Maximisation of revenue",
+            "Maximisation of output",
+            "Maximisation of profit",
+            "Minimisation of price"
+        ],
+        "correct_index": 2,
+        "explanation": "The standard assumption in the theory of the firm is that a firm aims to maximise its profit, defined as total revenue minus total cost.",
+        "ncert_page": 72,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q09",
+        "chapter_id": "eco_ch10",
+        "question": "Profit of a firm is defined as:",
+        "options": [
+            "Total Revenue plus Total Cost",
+            "Total Revenue minus Total Cost",
+            "Total Cost minus Total Revenue",
+            "Average Revenue minus Average Cost only"
+        ],
+        "correct_index": 1,
+        "explanation": "Profit (π) is defined as Total Revenue (TR) minus Total Cost (TC): π = TR − TC.",
+        "ncert_page": 72,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q10",
+        "chapter_id": "eco_ch10",
+        "question": "The necessary condition for profit maximisation of a firm is:",
+        "options": [
+            "MR is greater than MC at all levels of output",
+            "MR equals MC",
+            "AR equals AC",
+            "TR is maximum irrespective of TC"
+        ],
+        "correct_index": 1,
+        "explanation": "A firm maximises profit at the output level where Marginal Revenue equals Marginal Cost (MR = MC), the first-order condition of profit maximisation.",
+        "ncert_page": 73,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q11",
+        "chapter_id": "eco_ch10",
+        "question": "Besides MR = MC, what is the second-order (sufficient) condition for profit maximisation?",
+        "options": [
+            "The MC curve must cut the MR curve from above",
+            "The MC curve must cut the MR curve from below",
+            "The AC curve must be falling at that output",
+            "The TC curve must be a straight line"
+        ],
+        "correct_index": 1,
+        "explanation": "For profit to be maximised (not minimised), the marginal cost curve must cut the marginal revenue curve from below at the equilibrium output.",
+        "ncert_page": 73,
+        "difficulty": "hard",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q12",
+        "chapter_id": "eco_ch10",
+        "question": "If at a given output MC is less than MR, a profit-maximising firm should:",
+        "options": [
+            "Reduce output",
+            "Keep output unchanged",
+            "Increase output further",
+            "Shut down immediately"
+        ],
+        "correct_index": 2,
+        "explanation": "When MR exceeds MC, producing one more unit adds more to revenue than to cost, raising profit, so the firm should expand output until MR = MC.",
+        "ncert_page": 73,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q13",
+        "chapter_id": "eco_ch10",
+        "question": "If at a given output MC exceeds MR, a profit-maximising firm should:",
+        "options": [
+            "Increase output further",
+            "Reduce output",
+            "Keep output unchanged",
+            "Increase price above market price"
+        ],
+        "correct_index": 1,
+        "explanation": "When MC is greater than MR, the last unit produced adds more to cost than to revenue, reducing profit, so the firm should cut back output.",
+        "ncert_page": 73,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q14",
+        "chapter_id": "eco_ch10",
+        "question": "Since a perfectly competitive firm's Marginal Revenue equals price, the profit-maximising condition MR = MC can also be written as:",
+        "options": [
+            "P = AC",
+            "P = MC",
+            "P = AVC",
+            "P = TFC"
+        ],
+        "correct_index": 1,
+        "explanation": "Because MR = P for a price-taking firm, the profit-maximisation condition MR = MC becomes P = MC under perfect competition.",
+        "ncert_page": 73,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q15",
+        "chapter_id": "eco_ch10",
+        "question": "'Normal profit' refers to a situation where:",
+        "options": [
+            "Total Revenue exceeds Total Cost",
+            "Total Revenue equals Total Cost",
+            "Total Revenue is less than Total Variable Cost",
+            "The firm earns zero revenue"
+        ],
+        "correct_index": 1,
+        "explanation": "Normal profit occurs when TR = TC, i.e., the firm earns just enough to cover all its costs, including the opportunity cost of the entrepreneur's resources.",
+        "ncert_page": 74,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q16",
+        "chapter_id": "eco_ch10",
+        "question": "The point at which a firm's Total Revenue exactly equals its Total Cost is known as the:",
+        "options": [
+            "Shutdown point",
+            "Break-even point",
+            "Equilibrium price point",
+            "Supply threshold"
+        ],
+        "correct_index": 1,
+        "explanation": "The break-even point is where TR = TC, so the firm earns zero economic (supernormal) profit but normal profit is included in costs.",
+        "ncert_page": 74,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q17",
+        "chapter_id": "eco_ch10",
+        "question": "At the break-even point, price is equal to:",
+        "options": [
+            "Minimum of Average Variable Cost",
+            "Minimum of Average Cost",
+            "Marginal Revenue only",
+            "Total Fixed Cost"
+        ],
+        "correct_index": 1,
+        "explanation": "The break-even point occurs where price equals the minimum point of the Average Cost (AC) curve, so the firm earns only normal profit.",
+        "ncert_page": 74,
+        "difficulty": "hard",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q18",
+        "chapter_id": "eco_ch10",
+        "question": "'Supernormal profit' (or economic profit) is earned by a firm when:",
+        "options": [
+            "Total Revenue is less than Total Cost",
+            "Total Revenue equals Total Cost",
+            "Total Revenue is greater than Total Cost",
+            "The firm produces zero output"
+        ],
+        "correct_index": 2,
+        "explanation": "Supernormal or economic profit arises when TR > TC, meaning the firm earns more than the normal return needed to keep it in the industry.",
+        "ncert_page": 74,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q19",
+        "chapter_id": "eco_ch10",
+        "question": "A firm is said to incur losses when:",
+        "options": [
+            "Total Revenue exceeds Total Cost",
+            "Total Revenue equals Total Cost",
+            "Total Revenue is less than Total Cost",
+            "Marginal Revenue equals Marginal Cost at zero output"
+        ],
+        "correct_index": 2,
+        "explanation": "A firm makes losses when TR < TC, i.e., total revenue is insufficient to cover total cost of production.",
+        "ncert_page": 74,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q20",
+        "chapter_id": "eco_ch10",
+        "question": "In the short run, even while incurring losses, a firm will continue to produce as long as:",
+        "options": [
+            "Price is greater than or equal to minimum Average Variable Cost",
+            "Price is less than Average Variable Cost",
+            "Total Revenue is zero",
+            "Price is greater than Average Fixed Cost only"
+        ],
+        "correct_index": 0,
+        "explanation": "A firm continues to produce in the short run as long as price covers at least the minimum Average Variable Cost, since fixed costs must be borne regardless of production.",
+        "ncert_page": 75,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q21",
+        "chapter_id": "eco_ch10",
+        "question": "The 'shutdown point' of a firm in the short run is the point where:",
+        "options": [
+            "Price equals minimum Average Cost",
+            "Price equals minimum Average Variable Cost",
+            "Price equals Marginal Revenue only",
+            "Output equals zero permanently"
+        ],
+        "correct_index": 1,
+        "explanation": "The shutdown point occurs where price equals the minimum of the Average Variable Cost curve; below this price the firm minimises losses by producing nothing.",
+        "ncert_page": 75,
+        "difficulty": "hard",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q22",
+        "chapter_id": "eco_ch10",
+        "question": "If price falls below the minimum Average Variable Cost in the short run, a profit-maximising (loss-minimising) firm should:",
+        "options": [
+            "Continue producing at the same level",
+            "Increase output to cover losses",
+            "Shut down production (produce zero output)",
+            "Double its price"
+        ],
+        "correct_index": 2,
+        "explanation": "When price is below minimum AVC, the firm cannot even cover its variable costs, so losses are minimised by shutting down and producing zero output.",
+        "ncert_page": 75,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q23",
+        "chapter_id": "eco_ch10",
+        "question": "The short run supply curve of a perfectly competitive firm is given by:",
+        "options": [
+            "The entire Marginal Cost curve",
+            "The portion of the MC curve that lies above and includes the minimum point of AVC",
+            "The Average Fixed Cost curve",
+            "The demand curve of the firm"
+        ],
+        "correct_index": 1,
+        "explanation": "The firm's short run supply curve is the rising part of its MC curve lying at or above the minimum point of the AVC curve, since below that the firm shuts down.",
+        "ncert_page": 76,
+        "difficulty": "hard",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q24",
+        "chapter_id": "eco_ch10",
+        "question": "Why is the portion of the MC curve below the minimum AVC point not part of the firm's supply curve?",
+        "options": [
+            "Because the firm would supply an infinite quantity there",
+            "Because at those prices the firm shuts down and supplies zero output",
+            "Because MC is negative in that region",
+            "Because the government prohibits selling below AVC"
+        ],
+        "correct_index": 1,
+        "explanation": "At prices below minimum AVC, the firm cannot cover variable costs and therefore produces zero output, so that segment of MC is excluded from the supply curve.",
+        "ncert_page": 76,
+        "difficulty": "hard",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q25",
+        "chapter_id": "eco_ch10",
+        "question": "The 'law of supply' states that, other things remaining constant:",
+        "options": [
+            "Quantity supplied falls as price rises",
+            "Quantity supplied rises as price rises",
+            "Quantity supplied is unrelated to price",
+            "Quantity supplied is always fixed"
+        ],
+        "correct_index": 1,
+        "explanation": "The law of supply states a direct (positive) relationship between price and quantity supplied, other determinants of supply remaining unchanged.",
+        "ncert_page": 77,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q26",
+        "chapter_id": "eco_ch10",
+        "question": "The market supply curve under perfect competition is derived by:",
+        "options": [
+            "Vertical summation of individual firms' supply curves",
+            "Horizontal summation of individual firms' supply curves",
+            "Averaging the highest and lowest firm supply curves",
+            "Taking the supply curve of the largest firm only"
+        ],
+        "correct_index": 1,
+        "explanation": "The market supply curve is obtained by horizontally summing the quantities supplied by all individual firms in the industry at each price.",
+        "ncert_page": 77,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q27",
+        "chapter_id": "eco_ch10",
+        "question": "Which of the following is a determinant of supply of a good, other than its own price?",
+        "options": [
+            "Price of inputs used in production",
+            "Consumer's income",
+            "Consumer's tastes and preferences",
+            "Price of a complementary good in consumption"
+        ],
+        "correct_index": 0,
+        "explanation": "Input prices are a key determinant of supply: a rise in the price of inputs raises production costs and typically reduces the quantity a firm is willing to supply at a given price.",
+        "ncert_page": 78,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q28",
+        "chapter_id": "eco_ch10",
+        "question": "An improvement in production technology, other things constant, generally causes the supply curve to:",
+        "options": [
+            "Shift leftward (decrease)",
+            "Shift rightward (increase)",
+            "Remain unchanged",
+            "Become vertical"
+        ],
+        "correct_index": 1,
+        "explanation": "Better technology lowers the cost of production, enabling firms to supply more at every price level, shifting the supply curve to the right.",
+        "ncert_page": 78,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q29",
+        "chapter_id": "eco_ch10",
+        "question": "A movement along a given supply curve occurs due to:",
+        "options": [
+            "A change in the price of the good itself",
+            "A change in input prices",
+            "A change in the number of firms in the industry",
+            "A change in technology"
+        ],
+        "correct_index": 0,
+        "explanation": "A movement along the supply curve is caused only by a change in the price of the good itself, holding all other determinants of supply constant.",
+        "ncert_page": 78,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q30",
+        "chapter_id": "eco_ch10",
+        "question": "A shift of the entire supply curve is caused by a change in:",
+        "options": [
+            "The price of the good itself only",
+            "Any determinant of supply other than the good's own price",
+            "Consumer income alone",
+            "The quantity demanded"
+        ],
+        "correct_index": 1,
+        "explanation": "Changes in non-price determinants such as input prices, technology, or the number of firms shift the whole supply curve, unlike a price change which causes movement along it.",
+        "ncert_page": 78,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q31",
+        "chapter_id": "eco_ch10",
+        "question": "An increase in the number of firms in a perfectly competitive industry, other things constant, will:",
+        "options": [
+            "Shift the market supply curve leftward",
+            "Shift the market supply curve rightward",
+            "Leave the market supply curve unaffected",
+            "Shift the market demand curve rightward"
+        ],
+        "correct_index": 1,
+        "explanation": "Since market supply is the horizontal sum of individual firms' supplies, an increase in the number of firms increases total quantity supplied at each price, shifting supply rightward.",
+        "ncert_page": 78,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q32",
+        "chapter_id": "eco_ch10",
+        "question": "Price elasticity of supply measures:",
+        "options": [
+            "The responsiveness of quantity supplied to a change in consumer income",
+            "The responsiveness of quantity supplied to a change in the price of the good",
+            "The responsiveness of quantity demanded to a change in price",
+            "The ratio of total revenue to total cost"
+        ],
+        "correct_index": 1,
+        "explanation": "Price elasticity of supply is the percentage change in quantity supplied divided by the percentage change in price of the good.",
+        "ncert_page": 79,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q33",
+        "chapter_id": "eco_ch10",
+        "question": "If a small change in price leads to an infinitely large change in quantity supplied, supply is said to be:",
+        "options": [
+            "Perfectly inelastic",
+            "Unitary elastic",
+            "Perfectly elastic",
+            "Relatively inelastic"
+        ],
+        "correct_index": 2,
+        "explanation": "Perfectly elastic supply means the supply curve is horizontal, and even a negligible price change causes an infinite change in quantity supplied.",
+        "ncert_page": 79,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q34",
+        "chapter_id": "eco_ch10",
+        "question": "A vertical supply curve represents:",
+        "options": [
+            "Perfectly elastic supply",
+            "Unitary elastic supply",
+            "Perfectly inelastic supply",
+            "Relatively elastic supply"
+        ],
+        "correct_index": 2,
+        "explanation": "A vertical supply curve means quantity supplied does not change at all regardless of price, which is the case of perfectly inelastic supply (elasticity = 0).",
+        "ncert_page": 79,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q35",
+        "chapter_id": "eco_ch10",
+        "question": "A firm is in 'producer's equilibrium' when it is:",
+        "options": [
+            "Producing at the output level that maximises its profit",
+            "Producing at the output level with zero total cost",
+            "Producing the maximum physical output possible",
+            "Selling at the lowest possible price"
+        ],
+        "correct_index": 0,
+        "explanation": "Producer's equilibrium refers to the output level at which the firm maximises profit, i.e., where MR = MC with the MC curve cutting MR from below.",
+        "ncert_page": 80,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q36",
+        "chapter_id": "eco_ch10",
+        "question": "In the long run under perfect competition, if firms in an industry are earning supernormal profits, what happens?",
+        "options": [
+            "Existing firms exit the industry",
+            "New firms enter the industry, increasing supply and driving price down",
+            "Price rises further indefinitely",
+            "The government imposes a price ceiling automatically"
+        ],
+        "correct_index": 1,
+        "explanation": "Supernormal profits attract new firms due to free entry; as they enter, market supply rises and price falls until only normal profit remains.",
+        "ncert_page": 81,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q37",
+        "chapter_id": "eco_ch10",
+        "question": "In the long run under perfect competition, if firms are incurring losses, what happens?",
+        "options": [
+            "More firms enter the industry",
+            "Some firms exit the industry, reducing supply and raising price",
+            "Price falls further indefinitely",
+            "Firms are forced to merge"
+        ],
+        "correct_index": 1,
+        "explanation": "Persistent losses induce free exit of firms; as firms leave, market supply falls and price rises until remaining firms earn only normal profit.",
+        "ncert_page": 81,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q38",
+        "chapter_id": "eco_ch10",
+        "question": "In long run equilibrium under perfect competition, a representative firm earns:",
+        "options": [
+            "Only supernormal profit",
+            "Only normal profit (zero economic profit)",
+            "Continuous losses",
+            "Zero total revenue"
+        ],
+        "correct_index": 1,
+        "explanation": "Free entry and exit ensures that in the long run, firms in a perfectly competitive industry earn only normal profit, with economic (supernormal) profit driven to zero.",
+        "ncert_page": 81,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q39",
+        "chapter_id": "eco_ch10",
+        "question": "In long run equilibrium, price under perfect competition equals:",
+        "options": [
+            "Minimum of long run Average Cost",
+            "Maximum of long run Average Cost",
+            "Average Fixed Cost only",
+            "Zero"
+        ],
+        "correct_index": 0,
+        "explanation": "In long run equilibrium, entry and exit push price to equal the minimum point of the long run Average Cost curve, where firms earn only normal profit.",
+        "ncert_page": 81,
+        "difficulty": "hard",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q40",
+        "chapter_id": "eco_ch10",
+        "question": "Which cost is relevant for deciding whether a firm should shut down in the short run, but is irrelevant to fixed costs?",
+        "options": [
+            "Total Fixed Cost",
+            "Average Variable Cost",
+            "Sunk cost",
+            "Depreciation on unused machinery"
+        ],
+        "correct_index": 1,
+        "explanation": "The shutdown decision hinges on whether price covers Average Variable Cost, since fixed costs must be paid whether or not the firm produces.",
+        "ncert_page": 75,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q41",
+        "chapter_id": "eco_ch10",
+        "question": "Total Revenue (TR) of a firm is calculated as:",
+        "options": [
+            "Price multiplied by quantity sold",
+            "Price divided by quantity sold",
+            "Total Cost minus profit",
+            "Average Cost multiplied by quantity"
+        ],
+        "correct_index": 0,
+        "explanation": "Total Revenue is simply price per unit multiplied by the quantity of output sold: TR = P × Q.",
+        "ncert_page": 72,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q42",
+        "chapter_id": "eco_ch10",
+        "question": "Marginal Revenue (MR) is defined as:",
+        "options": [
+            "The change in total revenue due to sale of one additional unit of output",
+            "Total revenue divided by fixed cost",
+            "Average revenue minus average cost",
+            "The price of the first unit sold"
+        ],
+        "correct_index": 0,
+        "explanation": "Marginal Revenue is the addition to total revenue from selling one more unit of output: MR = ΔTR/ΔQ.",
+        "ncert_page": 72,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q43",
+        "chapter_id": "eco_ch10",
+        "question": "Under perfect competition, why does the firm's Average Revenue curve coincide with its Marginal Revenue curve?",
+        "options": [
+            "Because both are always zero",
+            "Because the firm sells all units at the same constant market price",
+            "Because output is fixed by law",
+            "Because Total Cost equals Total Revenue"
+        ],
+        "correct_index": 1,
+        "explanation": "Since price is constant for a price-taking firm, each additional unit sold adds exactly that price to revenue, making AR = MR = P, a horizontal line.",
+        "ncert_page": 72,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q44",
+        "chapter_id": "eco_ch10",
+        "question": "'Perfect knowledge' as a feature of perfect competition implies that:",
+        "options": [
+            "Only sellers know the market price",
+            "Buyers and sellers have complete information about prices and products in the market",
+            "Only the government knows market conditions",
+            "Firms keep their costs secret from each other"
+        ],
+        "correct_index": 1,
+        "explanation": "Perfect competition assumes buyers and sellers possess complete information about prices, quality, and market conditions, so no seller can charge above the ruling price.",
+        "ncert_page": 71,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q45",
+        "chapter_id": "eco_ch10",
+        "question": "Which of the following best describes 'homogeneous product' in perfect competition?",
+        "options": [
+            "Every firm's product is a perfect substitute for another firm's product",
+            "Products differ significantly in quality across firms",
+            "Each firm has its own unique brand identity",
+            "Products can only be sold in one region"
+        ],
+        "correct_index": 0,
+        "explanation": "A homogeneous product means that units produced by different firms are identical and perfect substitutes for each other in the eyes of buyers.",
+        "ncert_page": 71,
+        "difficulty": "easy",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q46",
+        "chapter_id": "eco_ch10",
+        "question": "If a firm's fixed costs are Rs 500 and it earns zero profit (TR = TC) while producing positive output, this represents:",
+        "options": [
+            "A shutdown situation",
+            "A break-even (normal profit) situation",
+            "A supernormal profit situation",
+            "An impossible situation"
+        ],
+        "correct_index": 1,
+        "explanation": "When TR equals TC (which already includes normal profit as an opportunity cost), the firm is at its break-even point earning only normal profit.",
+        "ncert_page": 74,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q47",
+        "chapter_id": "eco_ch10",
+        "question": "At output levels where MC is falling, is the firm at a profit-maximising equilibrium if MR = MC there?",
+        "options": [
+            "Yes, MR=MC is always sufficient regardless of the slope of MC",
+            "No, because the MC curve is cutting MR from above at that point, indicating minimum profit or maximum loss",
+            "Yes, because MR is always greater than MC when MC is falling",
+            "No, because MR can never equal MC when MC is falling"
+        ],
+        "correct_index": 1,
+        "explanation": "If MC is falling and cuts MR from above, that output level corresponds to minimum profit (or maximum loss), not maximum profit, since the sufficient condition (MC cutting MR from below) is violated.",
+        "ncert_page": 73,
+        "difficulty": "hard",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q48",
+        "chapter_id": "eco_ch10",
+        "question": "Which of the following would cause the individual firm's supply curve under perfect competition to shift, rather than cause a movement along it?",
+        "options": [
+            "A rise in the market price of the good",
+            "A fall in the market price of the good",
+            "A decrease in the price of raw materials used by the firm",
+            "Both a rise and fall in market price"
+        ],
+        "correct_index": 2,
+        "explanation": "A change in input (raw material) prices alters the firm's cost curves and shifts the supply curve, unlike a change in the good's own price which causes a movement along the existing curve.",
+        "ncert_page": 78,
+        "difficulty": "medium",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q49",
+        "chapter_id": "eco_ch10",
+        "question": "Why do firms under perfect competition earn only normal profit in the long run despite free choice of output?",
+        "options": [
+            "Because prices are fixed by the government",
+            "Because free entry and exit eliminate any persistent supernormal profit or loss",
+            "Because firms are legally required to earn zero profit",
+            "Because consumers refuse to pay more than cost"
+        ],
+        "correct_index": 1,
+        "explanation": "Free entry attracted by supernormal profits increases supply and lowers price, while free exit in response to losses reduces supply and raises price, both converging to normal profit in the long run.",
+        "ncert_page": 81,
+        "difficulty": "hard",
+        "subject": "Economics"
+    },
+    {
+        "mcq_id": "c10_q50",
+        "chapter_id": "eco_ch10",
+        "question": "The short run market supply curve under perfect competition is obtained by summing, at each price, the quantities that individual firms supply along:",
+        "options": [
+            "Their entire Average Fixed Cost curve",
+            "The rising portion of their MC curve above minimum AVC",
+            "Their demand curve for inputs",
+            "Their Total Revenue curve"
+        ],
+        "correct_index": 1,
+        "explanation": "Since each firm's short run supply curve is the segment of its MC curve above minimum AVC, the market supply curve is the horizontal sum of these segments across all firms.",
+        "ncert_page": 82,
+        "difficulty": "hard",
+        "subject": "Economics"
+    }
 ]
