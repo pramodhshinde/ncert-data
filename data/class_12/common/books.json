@@ -98,6 +98,39 @@
       "subject": "Geography",
       "chapterCount": 4,
       "parts": 3
+    },
+    {
+      "id": 1210,
+      "title": "Informatics Practices",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Informatics Practices",
+      "chapterCount": 7,
+      "parts": 1
+    },
+    {
+      "id": 1209,
+      "title": "Computer Science",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Computer Science",
+      "chapterCount": 13,
+      "parts": 1
+    },
+    {
+      "id": 1248,
+      "title": "Psychology",
+      "subtitle": "Class 12 NCERT Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Psychology",
+      "chapterCount": 7,
+      "parts": 1
     }
   ]
 }
