@@ -24,37 +24,26 @@
     },
     {
       "id": 1103,
-      "title": "Chemistry Part I",
+      "title": "Chemistry",
       "subtitle": "Class 11 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=1gmzOH0tD0qHCrPPsvVwn-vjzS8OOkuZR",
+      "coverUrl": "",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Chemistry",
-      "chapterCount": 6,
-      "parts": 2
-    },
-    {
-      "id": 1104,
-      "title": "Chemistry Part II",
-      "subtitle": "Class 11 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=12CDh0C1LGbwlCk5W2f4t8xgOYxVZOuYK",
-      "language": "english",
-      "classNumber": "Class 11",
-      "subject": "Chemistry",
-      "chapterCount": 3,
-      "parts": 2
+      "chapterCount": 16,
+      "parts": 1
     },
     {
       "id": 1105,
       "title": "Biology",
       "subtitle": "Class 11 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=1bNxaC7JDdSXrKYsa07v0yBiSmyXz7jff",
+      "coverUrl": "",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Biology",
-      "chapterCount": 19,
+      "chapterCount": 16,
       "parts": 1
-    },  
+    },
     {
       "id": 1108,
       "title": "Biotechnology",
