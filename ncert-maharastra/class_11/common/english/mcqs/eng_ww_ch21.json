@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "mw_q01",
+    "chapter_id": "c21",
+    "question": "Who is the author of the essay 'My Watch'?",
+    "options": ["Mark Twain", "Francis Bacon", "Montaigne", "Charles Lamb"],
+    "correct_index": 0,
+    "explanation": "The essay 'My Watch' is written by the famous American humorist and author Mark Twain.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q02",
+    "chapter_id": "c21",
+    "question": "For how long had the author's watch run perfectly without stopping or losing time initially?",
+    "options": ["Six months", "One year", "Eighteen months", "Two years"],
+    "correct_index": 2,
+    "explanation": "The author states his beautiful watch had run eighteen months without stopping or losing/gaining a second.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q03",
+    "chapter_id": "c21",
+    "question": "What caused the watch to stop for the very first time?",
+    "options": ["He dropped it", "He forgot to wind it", "It was caught in a rainstorm", "The mainspring broke"],
+    "correct_index": 1,
+    "explanation": "The author mentions, 'at last I forgot to wind it.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q04",
+    "chapter_id": "c21",
+    "question": "The first watchmaker the author visits tells him the regulator is ________.",
+    "options": ["Broken", "Too far up", "Perfect", "Missing"],
+    "correct_index": 1,
+    "explanation": "The first watchmaker examines it and says, 'She's four minutes slow - regulator wants pushing up.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q05",
+    "chapter_id": "c21",
+    "question": "After the first repair, the watch began to 'gain' time. By the end of the week, it was ahead by:",
+    "options": ["Ten minutes", "Half an hour", "Three days", "Two months"],
+    "correct_index": 2,
+    "explanation": "The watch grew so fast that it 'left the town behind' and was over three days ahead by the end of the week.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q06",
+    "chapter_id": "c21",
+    "question": "The author uses a metaphor of a 'raging fever' to describe the watch gaining time. What was its 'pulse'?",
+    "options": ["100 in the shade", "150 in the shade", "200 beats per minute", "Zero"],
+    "correct_index": 1,
+    "explanation": "The author writes: 'its pulse went up to a hundred and fifty in the shade.'",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q07",
+    "chapter_id": "c21",
+    "question": "Which watchmaker claimed the watch 'wanted cleaning'?",
+    "options": ["The first one", "The second one", "The third one", "The fourth one"],
+    "correct_index": 1,
+    "explanation": "The second watchmaker the author visits insists the watch simply needs cleaning.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q08",
+    "chapter_id": "c21",
+    "question": "After the second repair, the watch began to:",
+    "options": ["Go backwards", "Slow down to a snail's pace", "Keep perfect time", "Explode"],
+    "correct_index": 1,
+    "explanation": "After the cleaning, it slowed down so much that the author felt he was developing a 'fellow-feeling for a mummy'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q09",
+    "chapter_id": "c21",
+    "question": "What is the meaning of 'swap news with a mummy' in the context of the essay?",
+    "options": ["To talk to a museum exhibit", "The feeling of being stuck in a very slow time", "To go back in history", "To be buried alive"],
+    "correct_index": 1,
+    "explanation": "The watch was so slow that the author felt he belonged to a different, ancient era.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q10",
+    "chapter_id": "c21",
+    "question": "The third watchmaker, an 'old master', declares the watch needs a new:",
+    "options": ["Dial", "Mainspring", "Crystal", "Regulator"],
+    "correct_index": 2,
+    "explanation": "The third watchmaker says the 'crystal is bent and the mainspring is not as strong as it should be.'",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q11",
+    "chapter_id": "c21",
+    "question": "When the watch worked as a 'seven-day clock' after a repair, what did it do?",
+    "options": ["Run for seven days on one wind", "Gained all the time of a week in 24 hours", "Showed the days of the week", "Stuck on Sunday"],
+    "correct_index": 1,
+    "explanation": "The author says it would 'go like the very blue blazes' for 24 hours and then stop.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q12",
+    "chapter_id": "c21",
+    "question": "What does the author call the watchmakers collectively?",
+    "options": ["Geniuses", "The tinkerers of the world", "Engineers", "Clock-work men"],
+    "correct_index": 1,
+    "explanation": "The final moral is that a good horse or watch is eventually destroyed by 'tinkerers'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q13",
+    "chapter_id": "c21",
+    "question": "One watchmaker uses a 'monkey wrench' metaphor. What does he compare the watch to?",
+    "options": ["A bicycle", "A steamboat", "A clock tower", "A factory"],
+    "correct_index": 1,
+    "explanation": "The watchmaker says, 'She makes too much steam - you want to hang the monkey wrench on the safety valve!'",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q14",
+    "chapter_id": "c21",
+    "question": "How much does the author eventually spend on repairs?",
+    "options": ["Ten dollars", "One hundred dollars", "Two or three hundred dollars", "A thousand dollars"],
+    "correct_index": 2,
+    "explanation": "He mentions paying out 'two or three hundred dollars for repairs.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q15",
+    "chapter_id": "c21",
+    "question": "What was the original cost of the watch?",
+    "options": ["Fifty dollars", "Two hundred dollars", "Two hundred and fifty dollars", "One hundred dollars"],
+    "correct_index": 2,
+    "explanation": "The author notes the watch originally cost two hundred and fifty dollars.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q16",
+    "chapter_id": "c21",
+    "question": "Which relative of the author is quoted at the end of the essay?",
+    "options": ["Uncle William", "Aunt Mary", "Cousin John", "Father"],
+    "correct_index": 0,
+    "explanation": "The essay concludes with Uncle William's wisdom about tinkerers.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q17",
+    "chapter_id": "c21",
+    "question": "What is the 'safety valve' in the context of the watch repair joke?",
+    "options": ["The winding key", "A part that prevents over-tension", "The watch glass", "The hands"],
+    "correct_index": 1,
+    "explanation": "It's a satirical reference to steam engines applied to a tiny watch mechanism.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q18",
+    "chapter_id": "c21",
+    "question": "Mark Twain is the pen name for which author?",
+    "options": ["Samuel Langhorne Clemens", "Ernest Hemingway", "William Faulkner", "Francis Bacon"],
+    "correct_index": 0,
+    "explanation": "Mark Twain was the pseudonym used by Samuel L. Clemens.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q19",
+    "chapter_id": "c21",
+    "question": "The essay 'My Watch' is an example of which type of essay?",
+    "options": ["Formal", "Informal/Humorous", "Scientific", "Historical"],
+    "correct_index": 1,
+    "explanation": "The introduction defines it as a humorous, personal re-look at an everyday instrument.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q20",
+    "chapter_id": "c21",
+    "question": "What is the final fate of the watch at the end of the essay?",
+    "options": ["It works perfectly", "It is stolen", "The author gives up on it and lets it remain 'ruined'", "He sells it"],
+    "correct_index": 2,
+    "explanation": "The author eventually stops trying to fix it after it is reduced to a 'wreck'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q21",
+    "chapter_id": "c21",
+    "question": "Who 'inaugurated' the English use of the term 'essay'?",
+    "options": ["Mark Twain", "Francis Bacon", "Montaigne", "Shakespeare"],
+    "correct_index": 1,
+    "explanation": "Francis Bacon inaugurated the English use of the term in his own essays.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q22",
+    "chapter_id": "c21",
+    "question": "The word 'Essais' originally used by Montaigne means:",
+    "options": ["Stories", "Attempts", "Truths", "Lessons"],
+    "correct_index": 1,
+    "explanation": "Montaigne called his pieces 'Essaies', meaning 'attempts'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q23",
+    "chapter_id": "c21",
+    "question": "The author describes one watchmaker as looking like a 'shamefaced ________'.",
+    "options": ["Child", "Criminal", "Gunsmith", "Tinkerer"],
+    "correct_index": 2,
+    "explanation": "The text refers to a watchmaker who was a 'shamefaced gunsmith' in his previous life.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q24",
+    "chapter_id": "c21",
+    "question": "What sound did the watch make after the 'gunsmith' watchmaker worked on it?",
+    "options": ["Ticking", "A cough", "A whistle", "Silence"],
+    "correct_index": 1,
+    "explanation": "The author says it developed a 'cough' and sounded like a 'tea-kettle'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q25",
+    "chapter_id": "c21",
+    "question": "Why does the author feel 'mean' and 'guilty' while the watchmaker is working?",
+    "options": ["He didn't pay enough", "He feels he is watching a 'vicious' surgery on his property", "He lied about the watch", "He broke it on purpose"],
+    "correct_index": 1,
+    "explanation": "He feels uncomfortable watching the watchmaker 'perform an autopsy' on his living watch.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q26",
+    "chapter_id": "c21",
+    "question": "The 'Seven-day clock' refers to a watch that:",
+    "options": ["Never needs winding", "Runs for a week", "Shows the date", "Is very fast"],
+    "correct_index": 1,
+    "explanation": "It refers to a clock that needs winding only once a week.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q27",
+    "chapter_id": "c21",
+    "question": "What 'moral' does the author conclude with?",
+    "options": ["Time is money", "Never wind your watch", "A good watch is destroyed by tinkerers", "Always buy a new watch"],
+    "correct_index": 2,
+    "explanation": "The moral is that 'a good horse is a good horse until it is tinkered with'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q28",
+    "chapter_id": "c21",
+    "question": "The watchmaker who told the author the 'hairspring was too long' was number:",
+    "options": ["One", "Three", "Five", "Seven"],
+    "correct_index": 2,
+    "explanation": "Various watchmakers give increasingly absurd diagnoses; this was one of them.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q29",
+    "chapter_id": "c21",
+    "question": "Which tool does the author mention that watchmakers use to see into the watch?",
+    "options": ["Microscope", "Magnifying glass/Eyeglass", "Telescope", "Laser"],
+    "correct_index": 1,
+    "explanation": "The text mentions them 'screwing a glass into their eye'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q30",
+    "chapter_id": "c21",
+    "question": "What is the author's tone when he describes the watch reaching '150 in the shade'?",
+    "options": ["Anxious", "Exaggerated and Humorous", "Angry", "Bored"],
+    "correct_index": 1,
+    "explanation": "Twain uses hyperbole to create a funny image of a fast watch.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q31",
+    "chapter_id": "c21",
+    "question": "The term 'autopsy' is used by the author to show he treats the watch as:",
+    "options": ["A machine", "A living creature", "A toy", "A piece of gold"],
+    "correct_index": 1,
+    "explanation": "The personification of the watch is a key humorous device in the essay.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q32",
+    "chapter_id": "c21",
+    "question": "What does the first watchmaker do to 'set it right'?",
+    "options": ["Cleans it", "Pushes the regulator up", "Changes the glass", "Winds it"],
+    "correct_index": 1,
+    "explanation": "He insists on moving the regulator.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q33",
+    "chapter_id": "c21",
+    "question": "The author compares the watchmakers to 'abandoned ________'.",
+    "options": ["Artists", "Characters", "Vermin", "Friends"],
+    "correct_index": 1,
+    "explanation": "The text says 'these abandoned characters' referring to the repairmen.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q34",
+    "chapter_id": "c21",
+    "question": "Mark Twain was also famous for which of these works mentioned in suggested reading?",
+    "options": ["The Rocking-horse Winner", "Adventures of Huckleberry Finn", "Refugee Blues", "Ode to a Nightingale"],
+    "correct_index": 1,
+    "explanation": "Adventures of Huckleberry Finn is a masterpiece by Mark Twain.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q35",
+    "chapter_id": "c21",
+    "question": "In the essay, 'She' refers to:",
+    "options": ["The author's wife", "The watch", "A boat", "The safety valve"],
+    "correct_index": 1,
+    "explanation": "The watch is personified as 'she' throughout the essay.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q36",
+    "chapter_id": "c21",
+    "question": "What was the result of the 'cleaning' by the second watchmaker?",
+    "options": ["It ran too fast", "It became very slow", "It stopped forever", "It made noise"],
+    "correct_index": 1,
+    "explanation": "The cleaning made it slow down significantly.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q37",
+    "chapter_id": "c21",
+    "question": "How does the author describe the watch's movement after it became a 'seven-day clock'?",
+    "options": ["Limping", "Going like blue blazes", "Coughing", "Whistling"],
+    "correct_index": 1,
+    "explanation": "It ran with incredible, chaotic speed.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q38",
+    "chapter_id": "c21",
+    "question": "The 'safety valve' is a term usually used for:",
+    "options": ["Clocks", "Steam engines", "Cars", "Bicycles"],
+    "correct_index": 1,
+    "explanation": "It's used in engines to release pressure.",
+    "difficulty": "easy",
+    "subject": "General Science/English"
+  },
+  {
+    "mcq_id": "mw_q39",
+    "chapter_id": "c21",
+    "question": "How much did it cost to repair the 'bent crystal'?",
+    "options": ["$5", "$10", "The cost is not specific but the total repair was high", "$1"],
+    "correct_index": 2,
+    "explanation": "The author laments the total cost over time.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q40",
+    "chapter_id": "c21",
+    "question": "The word 'autopsy' literally means:",
+    "options": ["Repairing a car", "Examination of a dead body to discover cause of death", "Cleaning a watch", "Writing an essay"],
+    "correct_index": 1,
+    "explanation": "Defined in the context of the watchmaker's invasive surgery on the watch.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "mw_q41",
+    "chapter_id": "c21",
+    "question": "One watchmaker told the author his watch was '________'.",
+    "options": ["Gold", "Worthless", "A very good watch", "Too big"],
+    "correct_index": 1,
+    "explanation": "The text mentions one calling it a 'worthless thing'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q42",
+    "chapter_id": "c21",
+    "question": "Uncle William is described as someone who is:",
+    "options": ["Young", "Always right", "Experienced/Wise", "Lazy"],
+    "correct_index": 2,
+    "explanation": "He provides the final philosophical moral of the story.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q43",
+    "chapter_id": "c21",
+    "question": "The 'desire to swap news with a mummy' indicates the author's:",
+    "options": ["Interest in archaeology", "Frustration with the slowness of the watch", "Love for Egypt", "Boredom with life"],
+    "correct_index": 1,
+    "explanation": "It expresses his feeling that time had practically stopped.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q44",
+    "chapter_id": "c21",
+    "question": "The watchmaker who thought the hairspring was too long was actually a ________.",
+    "options": ["Blacksmith", "Shoemaker", "Gunsmith", "Baker"],
+    "correct_index": 2,
+    "explanation": "The gunsmith-turned-watchmaker is another source of humor.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q45",
+    "chapter_id": "c21",
+    "question": "The essay suggests that sometimes it is better to leave things alone than to ________ them.",
+    "options": ["Sell", "Fix/Tinker with", "Wind", "Watch"],
+    "correct_index": 1,
+    "explanation": "This is the central theme and moral of the piece.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q46",
+    "chapter_id": "c21",
+    "question": "How many days did it take for the watch to be 'three days ahead'?",
+    "options": ["One day", "Three days", "One week", "One month"],
+    "correct_index": 2,
+    "explanation": "The author says 'within a week it sickened'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q47",
+    "chapter_id": "c21",
+    "question": "The author's 'beautiful' watch originally ran for how many months perfectly?",
+    "options": ["12", "18", "24", "6"],
+    "correct_index": 1,
+    "explanation": "The text specifies eighteen months.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q48",
+    "chapter_id": "c21",
+    "question": "Which of these is NOT an improbable image used for humor?",
+    "options": ["Watch with a fever", "Watchmaker using a microscope", "Watch sounding like a tea-kettle", "Swapping news with a mummy"],
+    "correct_index": 1,
+    "explanation": "Using a microscope/eyeglass is a normal act for a watchmaker; the others are hyperbolic.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mw_q49",
+    "chapter_id": "c21",
+    "question": "The 'safety valve' joke is funny because a watch doesn't have ________.",
+    "options": ["Hands", "Steam pressure", "Glass", "Gears"],
+    "correct_index": 1,
+    "explanation": "It contrasts heavy industrial machinery with delicate timepieces.",
+    "difficulty": "medium",
+    "subject": "General Knowledge"
+  },
+  {
+    "mcq_id": "mw_q50",
+    "chapter_id": "c21",
+    "question": "The essay 'My Watch' is found in which unit of the textbook?",
+    "options": ["Short Stories", "Poetry", "Essays", "Drama"],
+    "correct_index": 2,
+    "explanation": "The text belongs to the 'Essays' unit.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  }
+]

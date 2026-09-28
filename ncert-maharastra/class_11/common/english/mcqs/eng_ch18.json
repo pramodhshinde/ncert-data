@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "lam_q01",
+    "chapter_id": "c1",
+    "question": "Who is the author of the short story 'The Lament'?",
+    "options": ["Leo Tolstoy", "Anton Chekhov", "Guy de Maupassant", "Franz Kafka"],
+    "correct_index": 1,
+    "explanation": "The story 'The Lament' is written by the famous Russian author Anton Chekhov.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q02",
+    "chapter_id": "c1",
+    "question": "What is the name of the protagonist in the story?",
+    "options": ["Barin", "Iona Potapov", "Kuzma Ionitch", "The Officer"],
+    "correct_index": 1,
+    "explanation": "The cabdriver and protagonist of the story is Iona Potapov.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q03",
+    "chapter_id": "c1",
+    "question": "What is Iona Potapov's profession?",
+    "options": ["Soldier", "Stableman", "Cabdriver", "Merchant"],
+    "correct_index": 2,
+    "explanation": "Iona Potapov is a cabdriver (sledge-driver) in the city.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q04",
+    "chapter_id": "c1",
+    "question": "At the beginning of the story, Iona is covered with a thin layer of:",
+    "options": ["Dust", "Rain", "Snow", "Mud"],
+    "correct_index": 2,
+    "explanation": "It is twilight and thick wet snow is falling, covering Iona and his horse in white.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q05",
+    "chapter_id": "c1",
+    "question": "What is the central grief or 'lament' that Iona carries?",
+    "options": ["He is very poor", "His horse is sick", "His son has died", "He lost his cab"],
+    "correct_index": 2,
+    "explanation": "The primary cause of Iona's deep sorrow is the recent death of his son.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q06",
+    "chapter_id": "c1",
+    "question": "Who is the first passenger Iona tries to talk to about his grief?",
+    "options": ["A young cabman", "An officer", "Three young men", "The house-porter"],
+    "correct_index": 1,
+    "explanation": "The officer in the military overcoat is the first person who hires Iona's cab and to whom Iona mentions his son's death.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q07",
+    "chapter_id": "c1",
+    "question": "How did Iona's son die according to his brief mentions?",
+    "options": ["In a war", "Of a high fever", "In an accident", "Of old age"],
+    "correct_index": 1,
+    "explanation": "Iona tells the officer that his son died of a fever after being in the hospital for three days.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q08",
+    "chapter_id": "c1",
+    "question": "What was the name of Iona's deceased son?",
+    "options": ["Kuzma", "Barin", "Andrey", "Ivan"],
+    "correct_index": 0,
+    "explanation": "Iona mentions his son's name was Kuzma Ionitch.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q09",
+    "chapter_id": "c1",
+    "question": "The three young men who hire Iona's cab are characterized by their:",
+    "options": ["Kindness", "Rudeness and noisy behavior", "Deep sympathy", "Silence"],
+    "correct_index": 1,
+    "explanation": "The three young men (two tall and thin, one short and hunchbacked) are loud, abusive, and mock Iona.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q10",
+    "chapter_id": "c1",
+    "question": "Which of the three young men is the most abusive toward Iona?",
+    "options": ["The tall one", "The hunchback", "The quiet one", "The well-dressed one"],
+    "correct_index": 1,
+    "explanation": "The hunchback is the most vocal and aggressive, even hitting Iona on the neck to make him go faster.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q11",
+    "chapter_id": "c1",
+    "question": "How much do the three young men pay for their ride?",
+    "options": ["A rouble", "Twenty kopeks", "Ten kopeks", "Fifty kopeks"],
+    "correct_index": 1,
+    "explanation": "The three young men negotiate a price of twenty kopeks for the ride to the Police Bridge.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q12",
+    "chapter_id": "c1",
+    "question": "What is the setting of the story?",
+    "options": ["A sunny village", "A rainy London street", "A cold, snowy Russian city", "A battlefield"],
+    "correct_index": 2,
+    "explanation": "The story takes place in a cold, snowy, and indifferent Russian city, likely St. Petersburg.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q13",
+    "chapter_id": "c1",
+    "question": "When Iona tries to tell the three young men about his son's death, the hunchback responds with:",
+    "options": ["'I am so sorry'", "'We shall all die'", "'Tell us more'", "'Stop the cab'"],
+    "correct_index": 1,
+    "explanation": "The hunchback dismisses Iona's grief by saying, 'We shall all die... drive on! drive on!'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q14",
+    "chapter_id": "c1",
+    "question": "The 'Lament' of Iona is described as being so great that if it burst out, it would:",
+    "options": ["Flood the whole world", "Stop the snow", "Melt the ice", "Bring his son back"],
+    "correct_index": 0,
+    "explanation": "The narrator states that if Iona's heart were to burst and the misery flow out, it would seem to flood the whole world.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q15",
+    "chapter_id": "c1",
+    "question": "After the young men leave, Iona attempts to speak with which character next?",
+    "options": ["A policeman", "A house-porter", "A fellow cabdriver", "A waiter"],
+    "correct_index": 1,
+    "explanation": "Iona sees a house-porter carrying a basket and tries to start a conversation to unburden his heart.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q16",
+    "chapter_id": "c1",
+    "question": "How does the house-porter respond to Iona?",
+    "options": ["He listens intently", "He tells him to move on", "He offers him money", "He cries with him"],
+    "correct_index": 1,
+    "explanation": "The house-porter shows no interest and tells Iona to 'drive on'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q17",
+    "chapter_id": "c1",
+    "question": "Where does Iona go when he realizes he cannot find a listener in the streets?",
+    "options": ["To the cemetery", "To the hospital", "Back to the yard (the stables)", "To a tavern"],
+    "correct_index": 2,
+    "explanation": "Recognizing his efforts are futile, Iona returns to the yard where the cabmen sleep.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q18",
+    "chapter_id": "c1",
+    "question": "In the yard, Iona tries to talk to a young cabman who has just:",
+    "options": ["Woken up to drink water", "Finished his work", "Lost his horse", "Had a fight"],
+    "correct_index": 0,
+    "explanation": "A young cabman gets up to drink water from a bucket, and Iona tries to tell him about his son.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q19",
+    "chapter_id": "c1",
+    "question": "What is the young cabman's reaction to Iona's words?",
+    "options": ["He asks questions", "He falls back asleep immediately", "He shares his own grief", "He gets angry"],
+    "correct_index": 1,
+    "explanation": "The young cabman covers his head and goes back to sleep, ignoring Iona completely.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q20",
+    "chapter_id": "c1",
+    "question": "Iona realizes that for his listeners, his story is:",
+    "options": ["A tragedy", "Nothing/Boring", "An inspiration", "A mystery"],
+    "correct_index": 1,
+    "explanation": "The people Iona encounters are indifferent; to them, his monumental grief is of no consequence.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q21",
+    "chapter_id": "c1",
+    "question": "What is the name of Iona's daughter who remains in the village?",
+    "options": ["Marya", "Natalya", "Anisya", "Katerina"],
+    "correct_index": 2,
+    "explanation": "Iona wishes he could talk about his daughter Anisya, who is still in the village.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q22",
+    "chapter_id": "c1",
+    "question": "To whom does Iona finally tell his whole story?",
+    "options": ["A priest", "His horse", "His daughter", "A stranger at the inn"],
+    "correct_index": 1,
+    "explanation": "At the end of the story, Iona finds his only sympathetic listener in his mare.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q23",
+    "chapter_id": "c1",
+    "question": "What is the 'gingerbread horse' in the story?",
+    "options": ["A toy", "A description of Iona's horse", "A meal", "A nickname for Iona"],
+    "correct_index": 1,
+    "explanation": "The narrator describes Iona's horse as being motionless and looking like a gingerbread horse from its stillness.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q24",
+    "chapter_id": "c1",
+    "question": "What does the word 'slough' mean in the context of the story's vocabulary?",
+    "options": ["A hill", "A deep hole/swamp", "A type of carriage", "A feeling of joy"],
+    "correct_index": 1,
+    "explanation": "In literature, a slough often represents a deep place of mud or a state of despair.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q25",
+    "chapter_id": "c1",
+    "question": "What is the 'hallmark' of Chekhov’s writing style in this story?",
+    "options": ["Epic battles", "Deep psychological realism and brevity", "Magical elements", "Happy endings"],
+    "correct_index": 1,
+    "explanation": "Chekhov is known for focusing on the internal state and the 'story of character' through subtle form.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q26",
+    "chapter_id": "c1",
+    "question": "Iona has been a widower for how long?",
+    "options": ["A week", "A year", "The text doesn't specify but mentions his wife is dead", "Five years"],
+    "correct_index": 2,
+    "explanation": "The text mentions he has a daughter, and that death took his son, implying he is alone.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q27",
+    "chapter_id": "c1",
+    "question": "How long has it been since Iona's son died?",
+    "options": ["One month", "One week", "A few days", "One year"],
+    "correct_index": 1,
+    "explanation": "Iona tells the officer that his son died 'this week'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q28",
+    "chapter_id": "c1",
+    "question": "The 'white' color in the story is associated with:",
+    "options": ["Happiness", "Purity", "Snow and the coldness of death/indifference", "Wealth"],
+    "correct_index": 2,
+    "explanation": "The snow covers everything in white, symbolizing the cold, chilling indifference of the city.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q29",
+    "chapter_id": "c1",
+    "question": "Iona’s physical state in the beginning is described as being like a:",
+    "options": ["Ghost", "Statue", "Beggar", "King"],
+    "correct_index": 1,
+    "explanation": "He is described as bent double, as motionless as a person can be, resembling a phantom or statue.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q30",
+    "chapter_id": "c1",
+    "question": "What does Iona do while waiting for the horse to eat its hay at the end?",
+    "options": ["He drinks tea", "He starts talking to the horse about his son", "He goes to sleep", "He cries loudly"],
+    "correct_index": 1,
+    "explanation": "He goes to the stable and begins to explain the situation to the horse as if it were his son.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q31",
+    "chapter_id": "c1",
+    "question": "Why does Iona find it difficult to talk to people?",
+    "options": ["He is mute", "They are too busy and indifferent", "He forgets his language", "He is too angry"],
+    "correct_index": 1,
+    "explanation": "The city is characterized by its fast pace and lack of compassion for an individual's personal tragedy.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q32",
+    "chapter_id": "c1",
+    "question": "The officer is annoyed by Iona because Iona:",
+    "options": ["Drives too fast", "Is constantly turning around to talk and driving poorly", "Asks for too much money", "Is singing"],
+    "correct_index": 1,
+    "explanation": "Iona is so distracted by his grief and desire to speak that he can't focus on the road.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q33",
+    "chapter_id": "c1",
+    "question": "The expression 'as if he were on needles' describes:",
+    "options": ["Iona's cold feet", "The horse's movement", "The passengers' impatience", "The son's pain"],
+    "correct_index": 2,
+    "explanation": "The passengers are restless and in a hurry, showing no patience for Iona.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q34",
+    "chapter_id": "c1",
+    "question": "What is the 'Lament' in the context of the title?",
+    "options": ["A song", "A deep expression of grief", "A formal complaint", "A type of bird"],
+    "correct_index": 1,
+    "explanation": "A lament is a passionate expression of grief or sorrow.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q35",
+    "chapter_id": "c1",
+    "question": "How does Iona describe death in the story?",
+    "options": ["As a friend", "As a mistake—it came for his son instead of him", "As a mystery", "As a release"],
+    "correct_index": 1,
+    "explanation": "Iona says, 'Death has made a mistake and come to my son instead of me.'",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q36",
+    "chapter_id": "c1",
+    "question": "Which word is common in form and meaning to 'snuffle, snort, sniffle'?",
+    "options": ["Smile", "Sneeze", "Snore", "Sing"],
+    "correct_index": 2,
+    "explanation": "The language work section identifies 'snore' as belonging to this set of respiratory-related words.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q37",
+    "chapter_id": "c1",
+    "question": "What does Iona's horse symbolize?",
+    "options": ["Speed", "Silent, faithful companionship", "Wealth", "Cruelty"],
+    "correct_index": 1,
+    "explanation": "The horse is the only being that 'listens' and shares Iona's environment without judgment.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q38",
+    "chapter_id": "c1",
+    "question": "The setting 'Twilight' at the start of the story reinforces the mood of:",
+    "options": ["Excitement", "Hope", "Melancholy and fading life", "Morning energy"],
+    "correct_index": 2,
+    "explanation": "Twilight is the transition to darkness, fitting the somber theme of the story.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q39",
+    "chapter_id": "c1",
+    "question": "Why did Iona's son go to the hospital?",
+    "options": ["He had an injury", "He had a fever", "He was born there", "He was a doctor"],
+    "correct_index": 1,
+    "explanation": "Iona mentions his son had a fever and was in the hospital for three days.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q40",
+    "chapter_id": "c1",
+    "question": "What is Iona's internal conflict?",
+    "options": ["Finding enough food", "Finding a way to express his grief", "Learning to drive a new cab", "Fighting the hunchback"],
+    "correct_index": 1,
+    "explanation": "The entire story revolves around Iona's desperate need to communicate his sorrow to another human being.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q41",
+    "chapter_id": "c1",
+    "question": "The 'Story of character' focuses on:",
+    "options": ["The plot twist", "The outcome of events", "The state of mind and motivation", "The setting"],
+    "correct_index": 2,
+    "explanation": "The introduction defines the 'story of character' as one focusing on the protagonist's psychological qualities.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q42",
+    "chapter_id": "c1",
+    "question": "Iona's son's profession would likely have been:",
+    "options": ["A soldier", "A cabdriver (like his father)", "A clerk", "A farmer"],
+    "correct_index": 1,
+    "explanation": "Iona talks to the horse about what would happen if it had a 'colt' and that colt died, implying the generational tie.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q43",
+    "chapter_id": "c1",
+    "question": "How does Iona feel when he sees the crowds in the street?",
+    "options": ["Happy", "Angry", "Isolated despite the presence of thousands", "Relieved"],
+    "correct_index": 2,
+    "explanation": "The story emphasizes that in a crowd of thousands, Iona cannot find even one person to listen to him.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q44",
+    "chapter_id": "c1",
+    "question": "What does the hunchback do to Iona to show his dominance?",
+    "options": ["Steals his hat", "Hits him on the back of the neck", "Refuses to pay", "Throws snow at him"],
+    "correct_index": 1,
+    "explanation": "The hunchback hits Iona to force him to drive faster, adding physical pain to his emotional misery.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q45",
+    "chapter_id": "c1",
+    "question": "The story highlights the theme of:",
+    "options": ["Urban loneliness and human indifference", "Industrial progress", "The beauty of winter", "Animal rights"],
+    "correct_index": 0,
+    "explanation": "The central theme is the isolation of the individual in a modern, uncaring society.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q46",
+    "chapter_id": "c1",
+    "question": "What does Iona's horse do while he is talking at the end?",
+    "options": ["It neighs loudly", "It breathes on its master's hands and listens", "It runs away", "It falls asleep"],
+    "correct_index": 1,
+    "explanation": "The mare munches, breathes on its master's hands, and 'listens' to his story.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q47",
+    "chapter_id": "c1",
+    "question": "Iona believes that a listener should:",
+    "options": ["Give him a lot of money", "Sigh and exclaim and lament with him", "Drive the cab for him", "Stay silent"],
+    "correct_index": 1,
+    "explanation": "Iona feels that his story needs to be told with the proper emotional response from the listener.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q48",
+    "chapter_id": "c1",
+    "question": "In the story, Iona’s son’s death is compared to:",
+    "options": ["A passing cloud", "A great flood", "A mistake of nature", "A light going out"],
+    "correct_index": 1,
+    "explanation": "The text uses the imagery of a flood to describe the magnitude of the grief.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q49",
+    "chapter_id": "c1",
+    "question": "The 'Police Bridge' is the destination for:",
+    "options": ["The officer", "The three young men", "The house-porter", "The young cabdriver"],
+    "correct_index": 1,
+    "explanation": "The three young men ask to be taken to the Police Bridge.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lam_q50",
+    "chapter_id": "c1",
+    "question": "At the end, Iona finds comfort by:",
+    "options": ["Finding a new job", "Talking to his mare", "Drinking heavily", "Moving back to the village"],
+    "correct_index": 1,
+    "explanation": "The story ends with Iona telling his whole story to his horse, which provides a form of catharsis.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  }
+]

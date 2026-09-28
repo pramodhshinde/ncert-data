@@ -1,0 +1,18 @@
+[
+  {
+    "mcq_id": "pol_ch20_q01",
+    "chapter_id": "pol_ch20",
+    "question": "The Human Development Index (HDI) is used to measure:",
+    "options": [
+      "GDP only",
+      "Military strength",
+      "Quality of life including health, education and income",
+      "Agricultural output"
+    ],
+    "correct_index": 2,
+    "explanation": "HDI measures development through life expectancy, education, and per capita income indicators.",
+    "ncert_page": 1,
+    "difficulty": "EASY",
+    "subject": "Political Science"
+  }
+]

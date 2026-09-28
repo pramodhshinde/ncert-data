@@ -1,0 +1,31 @@
+{
+  "classNumber": 12,
+  "displayName": "Class 12 (Maharashtra State Board)",
+  "hasStreams": true,
+  "streams": {
+    "science": [
+      "physics",
+      "chemistry",
+      "biology"
+    ],
+    "commerce": [
+      "accountancy",
+      "business_studies"
+    ],
+    "arts": [
+      "history",
+      "political_science",
+      "sociology",
+      "fine_arts"
+    ],
+    "common": [
+      "english",
+      "mathematics",
+      "economics",
+      "geography",
+      "informatics_practices",
+      "computer_science",
+      "psychology"
+    ]
+  }
+}

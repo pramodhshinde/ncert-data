@@ -1,0 +1,587 @@
+[
+  {
+    "mcq_id": "eco_mct_q01",
+    "chapter_id": "c5",
+    "question": "What is the primary purpose of a measure of central tendency?",
+    "options": [
+      "To increase the range of data",
+      "To summarize a large set of data by a single representative number",
+      "To ensure all data points are equal",
+      "To identify the smallest value in a dataset"
+    ],
+    "correct_index": 1,
+    "explanation": "A measure of central tendency provides a single numerical value that is used to represent the entire set of data.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q02",
+    "chapter_id": "c5",
+    "question": "Which of the following is NOT a commonly used measure of central tendency mentioned in the text?",
+    "options": ["Arithmetic Mean", "Median", "Mode", "Standard Deviation"],
+    "correct_index": 3,
+    "explanation": "The text lists Arithmetic Mean, Median, and Mode as the three most common averages. Standard Deviation is a measure of dispersion.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q03",
+    "chapter_id": "c5",
+    "question": "The sum of all observations divided by the total number of observations is known as:",
+    "options": ["Median", "Arithmetic Mean", "Mode", "Geometric Mean"],
+    "correct_index": 1,
+    "explanation": "Arithmetic Mean is defined as the sum of the values of all observations divided by the number of observations.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q04",
+    "chapter_id": "c5",
+    "question": "Which measure of central tendency is the most commonly used and widely understood?",
+    "options": ["Median", "Arithmetic Mean", "Mode", "Positional Average"],
+    "correct_index": 1,
+    "explanation": "Arithmetic mean is the most commonly used measure of central tendency.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q05",
+    "chapter_id": "c5",
+    "question": "In the 'Direct Method' for individual series, the arithmetic mean (X̄) is calculated as:",
+    "options": ["ΣX / N", "ΣfX / Σf", "A + Σd / N", "N / 2"],
+    "correct_index": 0,
+    "explanation": "The mean for individual observations is the sum of values (ΣX) divided by the number of observations (N).",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q06",
+    "chapter_id": "c5",
+    "question": "What is the 'Assumed Mean' (A) used for in statistical calculations?",
+    "options": [
+      "To find the exact median",
+      "To simplify calculations when numerical values are large",
+      "To replace the final mean",
+      "To calculate the mode"
+    ],
+    "correct_index": 1,
+    "explanation": "If the number of observations is large, the Assumed Mean method is used to reduce the burden of calculation.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q07",
+    "chapter_id": "c5",
+    "question": "The sum of deviations of items from the actual arithmetic mean is always:",
+    "options": ["Positive", "Negative", "Zero", "One"],
+    "correct_index": 2,
+    "explanation": "A property of the arithmetic mean is that the sum of deviations of items from it is always zero.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q08",
+    "chapter_id": "c5",
+    "question": "Which average is most affected by extreme values (outliers)?",
+    "options": ["Median", "Arithmetic Mean", "Mode", "None of these"],
+    "correct_index": 1,
+    "explanation": "The arithmetic mean is affected by extreme values. Any very high or very low score pulls the mean toward it.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q09",
+    "chapter_id": "c5",
+    "question": "When items are assigned different levels of importance in calculating the mean, it is called:",
+    "options": ["Simple Mean", "Weighted Arithmetic Mean", "Combined Mean", "Corrected Mean"],
+    "correct_index": 1,
+    "explanation": "Weighted arithmetic mean is used when different items are given weights according to their importance.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q10",
+    "chapter_id": "c5",
+    "question": "The 'middle-most' value of a dataset when arranged in order is the:",
+    "options": ["Mean", "Mode", "Median", "Range"],
+    "correct_index": 2,
+    "explanation": "Median is that positional value of the variable which divides the distribution into two equal parts.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q11",
+    "chapter_id": "c5",
+    "question": "To calculate the median, the first step is to:",
+    "options": [
+      "Find the sum of all values",
+      "Arrange the data in ascending or descending order",
+      "Identify the highest frequency",
+      "Divide by N"
+    ],
+    "correct_index": 1,
+    "explanation": "Data must be arranged in an ascending or descending order before calculating the median.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q12",
+    "chapter_id": "c5",
+    "question": "If there are 11 items in a series, the median is the value of which item?",
+    "options": ["5th", "6th", "11th", "5.5th"],
+    "correct_index": 1,
+    "explanation": "Median item = (N+1)/2. For N=11, (11+1)/2 = 6th item.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q13",
+    "chapter_id": "c5",
+    "question": "Which measure of central tendency can be determined graphically using an Ogive?",
+    "options": ["Mean", "Median", "Mode", "Weighted Mean"],
+    "correct_index": 1,
+    "explanation": "The median can be determined graphically through cumulative frequency curves or Ogives.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q14",
+    "chapter_id": "c5",
+    "question": "Values that divide a series into four equal parts are called:",
+    "options": ["Percentiles", "Deciles", "Quadrants", "Quartiles"],
+    "correct_index": 3,
+    "explanation": "Quartiles are the measures which divide the data into four equal parts.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q15",
+    "chapter_id": "c5",
+    "question": "How many 'Quartiles' are there in a statistical distribution?",
+    "options": ["Four", "Three", "Ten", "One"],
+    "correct_index": 1,
+    "explanation": "There are three quartiles: Q1 (lower), Q2 (median), and Q3 (upper).",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q16",
+    "chapter_id": "c5",
+    "question": "Which partition value divides the data into 100 equal parts?",
+    "options": ["Deciles", "Percentiles", "Quartiles", "Centuries"],
+    "correct_index": 1,
+    "explanation": "Percentiles divide the distribution into hundred equal parts.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q17",
+    "chapter_id": "c5",
+    "question": "The value that occurs most frequently in a distribution is the:",
+    "options": ["Mean", "Median", "Mode", "Standard Deviation"],
+    "correct_index": 2,
+    "explanation": "Mode is the value which occurs most frequently in a series.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q18",
+    "chapter_id": "c5",
+    "question": "A distribution having two modes is called:",
+    "options": ["Unimodal", "Bimodal", "Multimodal", "Amodal"],
+    "correct_index": 1,
+    "explanation": "If there are two modes, the series is called bimodal.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q19",
+    "chapter_id": "c5",
+    "question": "Which measure is best suited for identifying the 'typical' size of shoes or ready-made garments?",
+    "options": ["Mean", "Median", "Mode", "Weighted Mean"],
+    "correct_index": 2,
+    "explanation": "The mode is particularly useful when the central tendency should represent the most frequent occurrence, like garment sizes.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q20",
+    "chapter_id": "c5",
+    "question": "Mode can be located graphically using which diagram?",
+    "options": ["Ogive", "Histogram", "Pie Chart", "Line Graph"],
+    "correct_index": 1,
+    "explanation": "In a continuous series, mode can be located graphically by drawing a histogram.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q21",
+    "chapter_id": "c5",
+    "question": "For qualitative data (like beauty or intelligence), which average is most suitable?",
+    "options": ["Arithmetic Mean", "Median", "Mode", "None of these"],
+    "correct_index": 1,
+    "explanation": "Median is used for qualitative data because it deals with positions rather than magnitude.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q22",
+    "chapter_id": "c5",
+    "question": "The mean of the squared deviations from the arithmetic mean is used to calculate:",
+    "options": ["Range", "Standard Deviation", "Combined Mean", "Mode"],
+    "correct_index": 1,
+    "explanation": "Though the text focuses on central tendency, it mentions deviations from the mean as a mathematical property related to variance.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q23",
+    "chapter_id": "c5",
+    "question": "In a symmetric distribution, which of the following is true?",
+    "options": [
+      "Mean > Median > Mode",
+      "Mean < Median < Mode",
+      "Mean = Median = Mode",
+      "None of the above"
+    ],
+    "correct_index": 2,
+    "explanation": "In a perfectly symmetrical distribution, the three averages (Mean, Median, Mode) are identical.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q24",
+    "chapter_id": "c5",
+    "question": "If the number of items N is even, the median is calculated as the average of:",
+    "options": [
+      "The first and last item",
+      "The (N/2)th and (N/2 + 1)th items",
+      "The (N+1)/2th item",
+      "Any two random items"
+    ],
+    "correct_index": 1,
+    "explanation": "When N is even, the median is the arithmetic mean of the two middle terms.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q25",
+    "chapter_id": "c5",
+    "question": "What is 'h' or 'c' in the formula for Median or Mode in a continuous series?",
+    "options": [
+      "Assumed mean",
+      "Class frequency",
+      "Class interval (width of the class)",
+      "Lowest limit"
+    ],
+    "correct_index": 2,
+    "explanation": "In frequency distribution formulas, h or c represents the class interval.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q26",
+    "chapter_id": "c5",
+    "question": "The second quartile (Q2) is always equal to:",
+    "options": ["Mean", "Mode", "Median", "Standard Deviation"],
+    "correct_index": 2,
+    "explanation": "Q2 is the median as it divides the distribution into two equal halves.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q27",
+    "chapter_id": "c5",
+    "question": "Which of the following partition values divides the data into 10 equal parts?",
+    "options": ["Quartiles", "Deciles", "Percentiles", "Centiles"],
+    "correct_index": 1,
+    "explanation": "Deciles divide the distribution into ten equal parts.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q28",
+    "chapter_id": "c5",
+    "question": "The frequency of the class preceding the modal class is represented as ________ in the mode formula.",
+    "options": ["f1", "f2", "f0", "fm"],
+    "correct_index": 2,
+    "explanation": "In the mode formula, f0 represents the frequency of the class preceding the modal class.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q29",
+    "chapter_id": "c5",
+    "question": "If you add 5 to every observation in a series, the arithmetic mean of the series will:",
+    "options": [
+      "Remain unchanged",
+      "Increase by 5",
+      "Decrease by 5",
+      "Be multiplied by 5"
+    ],
+    "correct_index": 1,
+    "explanation": "If each observation is increased by a constant, the mean also increases by the same constant.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q30",
+    "chapter_id": "c5",
+    "question": "In a discrete series, the median is located by identifying the value corresponding to which frequency?",
+    "options": ["Simple frequency", "Cumulative frequency", "Relative frequency", "Class width"],
+    "correct_index": 1,
+    "explanation": "In a discrete series, we find the cumulative frequency just greater than (N+1)/2 to locate the median.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q31",
+    "chapter_id": "c5",
+    "question": "The arithmetic mean can be calculated even if some class limits are open-ended.",
+    "options": ["True", "False", "Only for median", "Only for mode"],
+    "correct_index": 1,
+    "explanation": "One cannot calculate the mean if class limits are open-ended without making assumptions, as mid-values cannot be found.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q32",
+    "chapter_id": "c5",
+    "question": "The Median is better than the Mean when dealing with ________ distributions.",
+    "options": ["Symmetric", "Normal", "Highly skewed (extremely unequal)", "Small"],
+    "correct_index": 2,
+    "explanation": "The median is not affected by extreme values, making it superior for skewed distributions like income.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q33",
+    "chapter_id": "c5",
+    "question": "The region configuration formula for calculating the mid-point (m) of a class interval is:",
+    "options": ["(l1 - l2)/2", "(l1 + l2)/2", "l1 + l2", "l2 - l1"],
+    "correct_index": 1,
+    "explanation": "Mid-point is the average of the upper and lower limits of the class.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q34",
+    "chapter_id": "c5",
+    "question": "In the Step-deviation method, 'd'' is calculated as:",
+    "options": ["X - A", "(X - A) / h", "X / h", "ΣX / N"],
+    "correct_index": 1,
+    "explanation": "Step deviation d' is (X - A) divided by the common factor or class interval h.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q35",
+    "chapter_id": "c5",
+    "question": "Percentile 50 (P50) is equivalent to:",
+    "options": ["Q1", "Q3", "Median", "D1"],
+    "correct_index": 2,
+    "explanation": "P50, D5, Q2, and the Median all represent the exact same middle value.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q36",
+    "chapter_id": "c5",
+    "question": "Which measure is most stable for further algebraic treatment?",
+    "options": ["Arithmetic Mean", "Median", "Mode", "Positional average"],
+    "correct_index": 0,
+    "explanation": "The mean is based on all observations and is suitable for further mathematical operations.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q37",
+    "chapter_id": "c5",
+    "question": "Which of these is NOT a positional average?",
+    "options": ["Median", "Mode", "Arithmetic Mean", "Quartiles"],
+    "correct_index": 2,
+    "explanation": "Arithmetic mean is a mathematical average; Median and Mode are positional averages.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q38",
+    "chapter_id": "c5",
+    "question": "In a frequency distribution, the modal class is the class with the:",
+    "options": ["Lowest frequency", "Highest frequency", "Middle frequency", "Highest cumulative frequency"],
+    "correct_index": 1,
+    "explanation": "The modal class is the class having the maximum frequency.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q39",
+    "chapter_id": "c5",
+    "question": "Arithmetic mean is also known as:",
+    "options": ["Geometric mean", "Average", "Central point", "Mode"],
+    "correct_index": 1,
+    "explanation": "In common language, the arithmetic mean is often simply referred to as the 'average'.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q40",
+    "chapter_id": "c5",
+    "question": "Cumulative frequency is essential for calculating which average?",
+    "options": ["Mean", "Median", "Mode", "Weighted Mean"],
+    "correct_index": 1,
+    "explanation": "Calculation of positional values like Median and Quartiles requires cumulative frequencies.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q41",
+    "chapter_id": "c5",
+    "question": "A dataset has values 2, 4, 4, 4, 6. The mode is:",
+    "options": ["2", "4", "6", "20"],
+    "correct_index": 1,
+    "explanation": "4 occurs three times, which is the highest frequency.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q42",
+    "chapter_id": "c5",
+    "question": "If N=100, the lower quartile Q1 is the value of which item?",
+    "options": ["25th", "25.25th", "50th", "75th"],
+    "correct_index": 1,
+    "explanation": "Q1 = (N+1)/4 item. (100+1)/4 = 25.25th item.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q43",
+    "chapter_id": "c5",
+    "question": "The sum of absolute deviations (ignoring signs) is minimum when taken from the:",
+    "options": ["Mean", "Median", "Mode", "Standard Deviation"],
+    "correct_index": 1,
+    "explanation": "A property of the median is that the sum of absolute deviations of items from it is minimum.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q44",
+    "chapter_id": "c5",
+    "question": "Weighted Mean is used when items of a series are ________.",
+    "options": ["Equal", "Unequally important", "Categorical", "Negative"],
+    "correct_index": 1,
+    "explanation": "Weights are assigned when some items are more important than others in the analysis.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q45",
+    "chapter_id": "c5",
+    "question": "The mode formula for continuous series is L + [(f1 - f0) / (2f1 - f0 - f2)] * h. What is L?",
+    "options": ["Upper limit", "Lower limit of the modal class", "Assumed mean", "Last item"],
+    "correct_index": 1,
+    "explanation": "L represents the lower limit of the modal class in frequency distribution formulas.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q46",
+    "chapter_id": "c5",
+    "question": "Which measure is easiest to identify by just looking at the frequency distribution table?",
+    "options": ["Arithmetic Mean", "Median", "Mode", "Weighted Mean"],
+    "correct_index": 2,
+    "explanation": "In a discrete series, the mode can be identified by inspection (finding the highest frequency).",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q47",
+    "chapter_id": "c5",
+    "question": "Arithmetic mean is defined as ΣX / N. This is the ________ method.",
+    "options": ["Short-cut", "Step-deviation", "Direct", "Combined"],
+    "correct_index": 2,
+    "explanation": "The direct method simply sums values and divides by the count.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q48",
+    "chapter_id": "c5",
+    "question": "Decile 5 (D5) is equivalent to:",
+    "options": ["Median", "Q1", "P25", "Mode"],
+    "correct_index": 0,
+    "explanation": "D5 is the 5th decile, which is the 50% mark, therefore it is the median.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q49",
+    "chapter_id": "c5",
+    "question": "If there are 4 items with values 10, 20, 30, 40, the median is:",
+    "options": ["20", "30", "25", "20.5"],
+    "correct_index": 2,
+    "explanation": "N=4 (even). Median is avg of 2nd and 3rd terms: (20+30)/2 = 25.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_mct_q50",
+    "chapter_id": "c5",
+    "question": "Which measure of central tendency is the 'most used' average in daily life statistics?",
+    "options": ["Median", "Arithmetic Mean", "Mode", "Range"],
+    "correct_index": 1,
+    "explanation": "The arithmetic mean is the most common average.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  }
+]

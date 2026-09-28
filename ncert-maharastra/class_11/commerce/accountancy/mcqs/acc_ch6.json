@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c6_q01",
+    "chapter_id": "c6",
+    "question": "What is a trial balance formally defined as in double-entry bookkeeping?",
+    "options": [
+      "A part of the principal ledger book that records daily sales transactions",
+      "A statement showing the balances, or total of debits and credits, of all the accounts in the ledger with a view to verify arithmetical accuracy",
+      "A final financial report showing non-current fixed asset depreciation paths",
+      "A source document voucher prepared by an accounting supervisor"
+    ],
+    "correct_index": 1,
+    "explanation": "A trial balance is a statement showing the balances, or total of debits and credits, of all the accounts in the ledger with a view to verify the arithmetical accuracy of posting into the ledger accounts.",
+    "ncert_page": 180,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q02",
+    "chapter_id": "c6",
+    "question": "The underlying presumption of an arithmetical check in a trial balance rests on which core principle?",
+    "options": [
+      "The money measurement concept requirements",
+      "That for every debit there will be an equal and corresponding credit",
+      "The historical cost principle rules",
+      "The strict separate business entity assumption"
+    ],
+    "correct_index": 1,
+    "explanation": "The trial balance serves as an arithmetical check under the double entry system because the basic principle dictates that for every debit there will be an equal credit.",
+    "ncert_page": 180,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q03",
+    "chapter_id": "c6",
+    "question": "Which of the following is true regarding the conclusive nature of a tallied trial balance?",
+    "options": [
+      "It is an absolute, foolproof certification that no accounting error exists.",
+      "It is not a conclusive proof of the absolute accuracy of the accounts; it only ensures arithmetical accuracy.",
+      "It proves that all transactions were recorded in the correct ledger heads.",
+      "It automatically rectifies any principle violations committed during the year."
+    ],
+    "correct_index": 1,
+    "explanation": "Tallying of the trial balance is not a conclusive proof of the absolute accuracy of accounts because certain errors (like errors of principle or compensating errors) do not disturb the equality of debits and credits.",
+    "ncert_page": 183,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q04",
+    "chapter_id": "c6",
+    "question": "What is the standard frequency layout pattern for compiling a trial balance?",
+    "options": [
+      "Strictly once every ten years following a complete audit",
+      "Normally at the end of an accounting year, but it can be prepared monthly, quarterly, or half-yearly based on firm needs",
+      "Only when a legal dispute arises between business partners",
+      "Daily at the close of bank working hours"
+    ],
+    "correct_index": 1,
+    "explanation": "A trial balance is normally prepared at the end of an accounting year. However, depending upon internal requirements, an organization may choose to prepare it monthly, quarterly, or half-yearly.",
+    "ncert_page": 181,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q05",
+    "chapter_id": "c6",
+    "question": "If a particular ledger account evaluates to a net zero balance at period-end, how can it be treated in the trial balance?",
+    "options": [
+      "It must be completely deleted and banned from the list sheet.",
+      "It may be included in the trial balance with a zero in the column for its normal balance.",
+      "It must be forced to have a debit balance of at least one unit.",
+      "It requires an immediate provision entry from a suspense account."
+    ],
+    "correct_index": 1,
+    "explanation": "If an account has a zero balance, it may still be included in the trial balance with zero written in the column for its normal balance.",
+    "ncert_page": 181,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q06",
+    "chapter_id": "c6",
+    "question": "What are the three main theoretical methods available for preparing a standard trial balance?",
+    "options": [
+      "Cash method, Accrual method, and Hybrid method",
+      "Totals method, Balances method, and Totals-cum-balances method",
+      "LIFO method, FIFO method, and Weighted average method",
+      "Single-entry path, Double-entry path, and Triple-entry path"
+    ],
+    "correct_index": 1,
+    "explanation": "The trial balance can be prepared using three methods: (1) Totals method, (2) Balances method, and (3) Totals-cum-balances method.",
+    "ncert_page": 184,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q07",
+    "chapter_id": "c6",
+    "question": "Under the Totals Method of preparing a trial balance, what values are transferred into the debit and credit amount columns?",
+    "options": [
+      "The net balancing figure remaining in each individual ledger account",
+      "The total of the debit side and the total of the credit side of each ledger account respectively",
+      "Only the total values derived from the purchases book daybook",
+      "Arbitrary numeric amounts estimated by corporate executives"
+    ],
+    "correct_index": 1,
+    "explanation": "Under the Totals method, the total of the debit side and the total of the credit side of each account are taken and placed in the respective columns of the trial balance.",
+    "ncert_page": 184,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q08",
+    "chapter_id": "c6",
+    "question": "Which preparation method is the most widely and universally adopted in practical corporate accounting, because its outputs feed directly into financial statement compilation?",
+    "options": [
+      "Totals Method",
+      "Balances Method",
+      "Totals-cum-balances Method",
+      "The single column daybook summary"
+    ],
+    "correct_index": 1,
+    "explanation": "The Balances method is the most commonly used method in practice because it lists only the net balances of each account, which are directly used to prepare final financial statements.",
+    "ncert_page": 184,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q09",
+    "chapter_id": "c6",
+    "question": "What is the key structural characteristic of the Totals-cum-Balances Method?",
+    "options": [
+      "It merges the cash book with the journal proper to eliminate individual asset heads.",
+      "It provides four amount columns, listing both the side totals and the net balancing figures of each account simultaneously.",
+      "It leaves out liabilities heads to track assets exclusively.",
+      "It functions entirely on a single cash line basis."
+    ],
+    "correct_index": 1,
+    "explanation": "The Totals-cum-balances method is a combination of both totals and balances methods, requiring four columns of amounts (two for totals and two for net balances) as shown in the illustrative charts.",
+    "ncert_page": 184,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q10",
+    "chapter_id": "c6",
+    "question": "According to standard rules, accounts belonging to Assets, Drawings, Expenses, and Losses must always exhibit which type of balance?",
+    "options": [
+      "Credit balance",
+      "Debit balance",
+      "Zero net parameter balance exclusively",
+      "Deferred proxy balance"
+    ],
+    "correct_index": 1,
+    "explanation": "By entry rules, accounts for assets, drawings, expenses, and losses carry a normal debit balance, meaning their debit totals outpace credit totals.",
+    "ncert_page": 184,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q11",
+    "chapter_id": "c6",
+    "question": "Accounts representing Liabilities, Capital, Revenues, and Gains must be placed under which column in a Balances method trial balance?",
+    "options": [
+      "Debit Balance column",
+      "Credit Balance column",
+      "Particulars description column",
+      "Ledger Folio tracking column"
+    ],
+    "correct_index": 1,
+    "explanation": "Liabilities, capital, revenues, and gains accounts carry a normal credit balance, meaning their balances are written on the credit side column of the statement.",
+    "ncert_page": 184,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q12",
+    "chapter_id": "c6",
+    "question": "If a trial balance does not tally, what does this mathematically indicate to the reporting team?",
+    "options": [
+      "The company has suffered an unexpected net operating loss.",
+      "At least one accounting error has occurred at some stage in the processing or posting pipeline.",
+      "The accrual basis needs to be swapped for the cash basis immediately.",
+      "The separate entity view has been violated shamedly."
+    ],
+    "correct_index": 1,
+    "explanation": "When a trial balance does not tally (totals of debit and credit columns do not equal), it is a clear statement that at least one clerical or mechanical error has occurred.",
+    "ncert_page": 183,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q13",
+    "chapter_id": "c6",
+    "question": "Which of the following stages is explicitly listed as a potential source point where a trial balance error could materialize?",
+    "options": [
+      "Calculating asset values using replacement price indexes",
+      "Totalling of subsidiary books, posting to ledger, or calculating account balances",
+      "Filing physical cash memo records inside folders",
+      "Typing a narrative commentary text box"
+    ],
+    "correct_index": 1,
+    "explanation": "Errors typically happen at five stages: totalling subsidiary books, posting entries to ledger, calculating ledger account balances, carrying balances to the trial balance, or adding trial balance columns.",
+    "ncert_page": 183,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q14",
+    "chapter_id": "c6",
+    "question": "From an error classification taxonomy standpoint, what four standard categories are accounting errors divided into?",
+    "options": [
+      "Clerical, Mechanical, Technical, and System errors",
+      "Errors of Commission, Errors of Omission, Errors of Principle, and Compensating Errors",
+      "Debit errors, Credit errors, Transfer errors, and Void errors",
+      "Initial errors, Intermediate errors, Final errors, and Adjusting errors"
+    ],
+    "correct_index": 1,
+    "explanation": "The text systematically classifies errors into four distinct types: (1) Errors of commission, (2) Errors of omission, (3) Errors of principle, and (4) Compensating errors.",
+    "ncert_page": 189,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q15",
+    "chapter_id": "c6",
+    "question": "What type of error is committed when a transaction is recorded with a wrong amount, or posted on the wrong side, or posted to the wrong account but in the correct asset/liability class?",
+    "options": [
+      "Error of Omission",
+      "Error of Commission",
+      "Error of Principle",
+      "Compensating Error"
+    ],
+    "correct_index": 1,
+    "explanation": "Errors caused due to wrong recording, wrong casting, wrong carrying forward, wrong posting, or wrong balancing of accounts are called errors of commission.",
+    "ncert_page": 189,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q16",
+    "chapter_id": "c6",
+    "question": "If an accountant debits Preetpal’s account with $2,500$ instead of the correct amount of $25,000$, what category of clerical error has occurred?",
+    "options": [
+      "Error of Principle",
+      "Error of Commission",
+      "Error of Complete Omission",
+      "Compensating Error"
+    ],
+    "correct_index": 1,
+    "explanation": "Posting an incorrect numerical figure into a ledger account ($2,500$ instead of $25,000$) represents a clerical error of commission.",
+    "ncert_page": 190,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q17",
+    "chapter_id": "c6",
+    "question": "What is an Error of Omission formally defined as in professional bookkeeping?",
+    "options": [
+      "Violating generally accepted accounting concepts",
+      "When a transaction is completely or partially left out from being recorded or posted",
+      "Entering entries with reverse debit and credit sides",
+      "Miscalculating the totals of the bank column cash book"
+    ],
+    "correct_index": 1,
+    "explanation": "An error of omission occurs when a transaction is completely or partially omitted from recording in the books of original entry or while posting to the ledger.",
+    "ncert_page": 191,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q18",
+    "chapter_id": "c6",
+    "question": "What is the crucial difference between an Error of Complete Omission and an Error of Partial Omission?",
+    "options": [
+      "Complete omission affects the trial balance agreement; partial omission does not.",
+      "Complete omission means it is left out from original daybooks entirely (tally remains unaffected); partial omission means it is recorded but partially skipped during ledger posting (disturbs tally).",
+      "Complete omission involves cash transactions; partial omission affects credit accounts strictly.",
+      "They are identical synonyms with zero operational difference."
+    ],
+    "correct_index": 1,
+    "explanation": "Complete omission means a transaction is skipped from initial books (trial balance still tallies). Partial omission means it is logged in daybooks but skipped when posting to an individual account, causing columns to differ.",
+    "ncert_page": 191,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q19",
+    "chapter_id": "c6",
+    "question": "What type of error is committed when an entry violates the generally accepted accounting principles, such as incorrectly classifying a capital expenditure as a revenue expenditure?",
+    "options": [
+      "Error of Commission",
+      "Error of Principle",
+      "Compensating Error",
+      "Partial Omission error"
+    ],
+    "correct_index": 1,
+    "explanation": "If any accounting principle is violated or ignored, the resulting mistakes are errors of principle. A classic example is treating a capital expenditure (like buying an asset) as an ordinary revenue expense.",
+    "ncert_page": 191,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q20",
+    "chapter_id": "c6",
+    "question": "Charging the repairs of an old office building to the Building Account instead of the Repairs Account constitutes which type of error?",
+    "options": [
+      "Clerical error of commission",
+      "Error of Principle",
+      "Compensating Error",
+      "Error of complete omission"
+    ],
+    "correct_index": 1,
+    "explanation": "Charging basic maintenance repairs to an asset account artificially inflates assets, violating allocation guidelines, which represents an error of principle.",
+    "ncert_page": 191,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q21",
+    "chapter_id": "c6",
+    "question": "How do Errors of Principle affect the mathematical agreement of a trial balance?",
+    "options": [
+      "They cause the debit column total to become higher than the credit column total.",
+      "They do not affect the agreement of the trial balance, meaning the columns will still tally perfectly.",
+      "They cause an immediate bank overdraft credit signal.",
+      "They force the totals to reduce to zero automatically."
+    ],
+    "correct_index": 1,
+    "explanation": "Errors of principle do not upset the matching totals of a trial balance because an equal debit and credit were still recorded, despite using the wrong type of account head.",
+    "ncert_page": 191,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q22",
+    "chapter_id": "c6",
+    "question": "What are Compensating Errors formally defined as in double-entry theory?",
+    "options": [
+      "Errors where the manager gives financial rewards to correct an entry",
+      "When the effect of one error is completely counterbalanced and set off by the effect of another separate error, leaving the trial balance tally intact",
+      "Errors resulting from omitting trade discounts from vouchers",
+      "Errors where a cash receipt is mixed with credit returns"
+    ],
+    "correct_index": 1,
+    "explanation": "Compensating errors are two or more independent errors that cancel out each other's effects (e.g., an overcast in one account set off by an undercast in another), so they do not disturb the trial balance agreement.",
+    "ncert_page": 191,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q23",
+    "chapter_id": "c6",
+    "question": "If the difference between the un-tallied debit and credit columns of a trial balance is perfectly divisible by 2, what specific error possibility should the accountant look for?",
+    "options": [
+      "A transaction was completely omitted from the sales journal.",
+      "An amount equal to one-half of the overall difference might have been posted to the wrong side of a ledger account.",
+      "The depreciation calculation method was changed midway.",
+      "A cash withdrawal drawings was logged twice."
+    ],
+    "correct_index": 1,
+    "explanation": "If a trial balance difference is divisible by 2, it often signals a transposition or reversal placement where an item was entered on the credit side instead of the debit side (or vice versa), creating a double-size net imbalance effect.",
+    "ncert_page": 191,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q24",
+    "chapter_id": "c6",
+    "question": "From a rectification mechanics perspective, how are accounting errors classified into two operational groups?",
+    "options": [
+      "Assets errors and liabilities errors",
+      "Errors which do not affect the trial balance (two-sided errors) and errors which affect the trial balance (one-sided errors)",
+      "Cash daybook errors and journal proper errors",
+      "Minor adjustments and major auditing infractions"
+    ],
+    "correct_index": 1,
+    "explanation": "For correction purposes, errors are split into: (a) those that do not affect the trial balance (affecting two accounts equally), and (b) those that affect the trial balance (affecting only one account).",
+    "ncert_page": 192,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q25",
+    "chapter_id": "c6",
+    "question": "How are 'Two-Sided Errors' (errors that do not disrupt the trial balance agreement) corrected?",
+    "options": [
+      "By passing a standalone credit note entry with text captions",
+      "By recording a rectifying journal entry giving a correct debit and credit to the concerned accounts",
+      "By erasing the wrong numbers with white fluid ink sheets",
+      "By closing the entire ledger and starting a new company book"
+    ],
+    "correct_index": 1,
+    "explanation": "Two-sided errors occur across two separate accounts in an equal manner and are rectified by recording a rectifying journal entry that adjusts both heads simultaneously.",
+    "ncert_page": 192,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q26",
+    "chapter_id": "c6",
+    "question": "What strict rule is highlighted regarding how an accountant should NEVER handle error corrections in the ledger books?",
+    "options": [
+      "They should never pass entries via journal proper columns.",
+      "Errors should never be corrected by erasing or overwriting numbers, as it reduces authenticity and implies concealment.",
+      "They should never write descriptions inside parentheses.",
+      "They should never calculate net balancing totals using calculators."
+    ],
+    "correct_index": 1,
+    "explanation": "Erasing or overwriting is highly discouraged in accounting because it damages the legal validity of records. Instead, neutralizing or correcting entries must be recorded cleanly.",
+    "ncert_page": 197,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q27",
+    "chapter_id": "c6",
+    "question": "If an accountant encounters a 'One-Sided Error' (affecting only a single account) before finalizing the trial balance, how can it be handled structurally without using a suspense account?",
+    "options": [
+      "It cannot be adjusted under any theoretical principle.",
+      "By directly entering an explanatory corrective note on the appropriate side of the affected ledger account.",
+      "By altering the overall capital balance row artificially.",
+      "By filing a complaint with commercial bank authorities."
+    ],
+    "correct_index": 1,
+    "explanation": "If one-sided errors are spotted early before opening a suspense account, they can be corrected by writing an explanatory adjusting statement on the short debit or credit side of that specific account.",
+    "ncert_page": 196,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q28",
+    "chapter_id": "c6",
+    "question": "What temporary mechanism is opened by an accountant to force an un-tallied trial balance to mathematically agree so that the financial statements process can proceed?",
+    "options": [
+      "Trading Account",
+      "Suspense Account",
+      "Drawings Account",
+      "Profit and Loss Adjustment Account"
+    ],
+    "correct_index": 1,
+    "explanation": "To avoid stopping the preparation of reports when a trial balance doesn't agree due to unlocated errors, the difference is temporarily placed in a matching placeholder called a Suspense Account.",
+    "ncert_page": 197,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q29",
+    "chapter_id": "c6",
+    "question": "If the total debit column of a trial balance evaluates to $35,000$ and the credit column totals $50,000$, how is the Suspense Account opened to create agreement?",
+    "options": [
+      "A credit entry of $15,000$ is added to the suspense account.",
+      "A debit balance entry of $15,000$ is placed under the shorter (debit) side of the trial balance.",
+      "Capital is expanded by $15,000$ to cover the difference.",
+      "The total is rewritten as $50,000$ across both sides without any adjustment."
+    ],
+    "correct_index": 1,
+    "explanation": "The difference of $15,000$ ($50,000 - $35,000) is placed on the shorter side, meaning the Suspense Account will hold a temporary debit balance of $15,000$.",
+    "ncert_page": 199,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q30",
+    "chapter_id": "c6",
+    "question": "Which of the following statements is true regarding the permanent nature and categorization classification of a Suspense Account?",
+    "options": [
+      "It is a permanent real asset account under GAAP tracking.",
+      "It does not belong to any specific permanent asset/liability class and is just a temporary phenomenon that closes once all errors are found.",
+      "It carries a normal mandatory credit balance always.",
+      "It replaces nominal accounts at closing sequences."
+    ],
+    "correct_index": 1,
+    "explanation": "The suspense account is a temporary phenomenon. Once errors are located, specific allocations transfer out of the suspense account, closing it fully.",
+    "ncert_page": 199,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q31",
+    "chapter_id": "c6",
+    "question": "When rectifying a one-sided error using a Suspense Account after the trial balance has been completed, how is the rectifying entry structured?",
+    "options": [
+      "It requires a descriptive note text without any journal entry lines.",
+      "It uses a formal journal entry where the affected account is debited or credited with a matching balancing leg posted against the Suspense Account.",
+      "It alters the opening daybook cash memo columns directly.",
+      "It can only be posted if a bank overdraft advice confirms it."
+    ],
+    "correct_index": 1,
+    "explanation": "With a suspense account active, one-sided errors are rectified through formal journal entries where the error account is balanced on one side, and the 'Suspense Account' handles the other leg.",
+    "ncert_page": 197,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q32",
+    "chapter_id": "c6",
+    "question": "If credit purchases from Raghu worth $20,000$ are completely omitted from being recorded anywhere in the daybooks, what rectifying entry must be recorded?",
+    "options": [
+      "Debit Raghu Account, Credit Purchases Account",
+      "Debit Purchases Account, Credit Raghu Account",
+      "Debit Purchases Account, Credit Suspense Account",
+      "Debit Suspense Account, Credit Raghu Account"
+    ],
+    "correct_index": 1,
+    "explanation": "This is a two-sided error of complete omission. To rectify it, the normal transaction entry must be passed: Debit Purchases Account $20,000$ and Credit Raghu’s Account $20,000$.",
+    "ncert_page": 193,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q33",
+    "chapter_id": "c6",
+    "question": "Credit sales to Mohan worth $7,000$ were wrongly posted to Karan’s account. What is the correct rectifying journal entry?",
+    "options": [
+      "Debit Mohan Account, Credit Sales Account",
+      "Debit Mohan Account, Credit Karan Account",
+      "Debit Karan Account, Credit Mohan Account",
+      "Debit Suspense Account, Credit Karan Account"
+    ],
+    "correct_index": 1,
+    "explanation": "Mohan's account should have been debited but wasn't, while Karan's account was debited in error. To rectify, Debit Mohan Account $7,000$ and Credit Karan Account $7,000$ to eliminate the error entry.",
+    "ncert_page": 193,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q34",
+    "chapter_id": "c6",
+    "question": "If the sales book total for a month is undercast by $1,000$, what rectifying journal entry is recorded when using a suspense account system?",
+    "options": [
+      "Debit Sales Account, Credit Suspense Account",
+      "Debit Suspense Account, Credit Sales Account",
+      "Debit Purchases Account, Credit Sales Account",
+      "No entry is possible since it is a one-sided column sum error."
+    ],
+    "correct_index": 1,
+    "explanation": "Undercasting the sales book means the Sales account is short on the credit side by $1,000$. To rectify using a suspense account, Debit Suspense Account $1,000$ and Credit Sales Account $1,000$.",
+    "ncert_page": 198,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q35",
+    "chapter_id": "c6",
+    "question": "An item of office equipment bought for $6,000$ was debited to the Office Stationery Account in error. What type of entry classification does this represent?",
+    "options": [
+      "Clerical error of complete omission",
+      "Error of Principle",
+      "Compensating Error",
+      "Error of commission matching totals"
+    ],
+    "correct_index": 1,
+    "explanation": "Debiting office equipment (an asset) as an ordinary stationery expense is an error of principle, as it incorrectly handles capital versus revenue item classification guidelines.",
+    "ncert_page": 191,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q36",
+    "chapter_id": "c6",
+    "question": "What is the rectifying entry for the principle error where office equipment worth $6,000$ was wrongly debited to the Office Stationery Account?",
+    "options": [
+      "Debit Office Stationery Account, Credit Office Equipment Account",
+      "Debit Office Equipment Account, Credit Office Stationery Account",
+      "Debit Office Equipment Account, Credit Suspense Account",
+      "Debit Suspense Account, Credit Office Stationery Account"
+    ],
+    "correct_index": 1,
+    "explanation": "To rectify, the asset account (Office Equipment) must receive its correct debit entry, and the incorrect stationery debit must be canceled with a credit: Debit Office Equipment Account $6,000$ and Credit Office Stationery Account $6,000$.",
+    "ncert_page": 194,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q37",
+    "chapter_id": "c6",
+    "question": "If errors committed during a financial cycle are left completely unlocated and unrectified until after the financial statements have been finalized, how are they handled in the subsequent accounting year?",
+    "options": [
+      "They can never be corrected and are locked permanently.",
+      "They are rectified in the next accounting year, using a Profit and Loss Adjustment Account for nominal items to protect current profits.",
+      "The firm's corporate license is suspended automatically.",
+      "They are adjusted via cash book bank columns directly."
+    ],
+    "correct_index": 1,
+    "explanation": "If errors are located in the next consecutive accounting year after accounts are finalized, nominal income/expense adjustments are routed through a 'Profit and Loss Adjustment Account' to avoid distorting the new year's regular profit statements.",
+    "ncert_page": 202,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q38",
+    "chapter_id": "c6",
+    "question": "What does a lingering, remaining balance inside a Suspense Account indicate at the very end of an accounting year?",
+    "options": [
+      "The business has achieved a cash ledger balance surplus.",
+      "There are still some unlocated errors remaining that require future tracking.",
+      "The double-entry system has failed completely.",
+      "All trade discounts were successfully verified."
+    ],
+    "correct_index": 1,
+    "explanation": "If the suspense account does not close out to zero, it means some errors affecting the trial balance are still hidden and haven't been located or adjusted yet.",
+    "ncert_page": 200,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q39",
+    "chapter_id": "c6",
+    "question": "If a suspense account balance persists when final financial statements are being drawn up, how is it represented on the Balance Sheet?",
+    "options": [
+      "It is deducted from Capital directly as an indexing penalty.",
+      "A debit balance is shown as an asset, while a credit balance is shown under liabilities.",
+      "It is completely deleted from the report presentation panels.",
+      "It is split equally across all non-current assets."
+    ],
+    "correct_index": 1,
+    "explanation": "A remaining suspense account balance is carried to the balance sheet: a debit balance is listed under the assets side, and a credit balance is placed under the liabilities side.",
+    "ncert_page": 200,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q40",
+    "chapter_id": "c6",
+    "question": "What is the primary benefit or objective of preparing a Trial Balance prior to compiling financial summaries?",
+    "options": [
+      "To avoid paying local corporate tax surcharges",
+      "To establish arithmetical accuracy and serve as a summary basis for constructing the Profit and Loss Account and Balance Sheet",
+      "To fully replace individual account postings inside ledger pages",
+      "To eliminate the need for paper vouchers documentation"
+    ],
+    "correct_index": 1,
+    "explanation": "The primary goals of a trial balance are: verifying arithmetical accuracy, helping locate ledger posting errors, and acting as an organized repository of balances to ease final accounts preparation.",
+    "ncert_page": 181,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q41",
+    "chapter_id": "c6",
+    "question": "If a cash receipt of $4,500$ from a debtor is completely entered in the cash book but completely skipped when posting to the debtor’s personal account, what type of omission is this?",
+    "options": [
+      "Error of Complete Omission",
+      "Error of Partial Omission",
+      "Error of Principle",
+      "Error of Commission total match"
+    ],
+    "correct_index": 1,
+    "explanation": "Since it was safely recorded in the cash daybook but skipped during the subsequent ledger account posting phase, it represents an error of partial omission, which disrupts the trial balance tally.",
+    "ncert_page": 191,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q42",
+    "chapter_id": "c6",
+    "question": "What qualitative audit trait is primarily protected by the rule prohibiting the erasure or overwriting of errors in accounts?",
+    "options": [
+      "Understandability trait",
+      "Authenticity and legal verification integrity",
+      "Timeliness speed limits",
+      "Materiality precision boundaries"
+    ],
+    "correct_index": 1,
+    "explanation": "Prohibiting raw erasures or scratching numbers helps maintain the legal authenticity and reliability of the books of accounts, preventing suspicions of concealment or manipulation.",
+    "ncert_page": 197,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q43",
+    "chapter_id": "c6",
+    "question": "An entry for cash sales worth $15,000$ was correctly entered in the cash column book but posted as a credit to the Commission Account in error. This clerical mistake represents a what?",
+    "options": [
+      "Error of complete omission",
+      "Error of Commission",
+      "Error of Principle",
+      "Compensating Error"
+    ],
+    "correct_index": 1,
+    "explanation": "Posting a number into an incorrect account head of the same generic class (Commission instead of Sales) due to clerical confusion is an error of commission.",
+    "ncert_page": 224,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q44",
+    "chapter_id": "c6",
+    "question": "What section in Chapter 6 handles the direct discussion on 'Searching of Errors' guidelines?",
+    "options": [
+      "Section 6.1",
+      "Section 6.3",
+      "Section 6.5",
+      "Summary Appendix check matrix"
+    ],
+    "correct_index": 2,
+    "explanation": "Section 6.5 is explicitly dedicated to outlining the searching steps and methods an accountant should implement if the trial balance does not tally.",
+    "ncert_page": 191,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q45",
+    "chapter_id": "c6",
+    "question": "If you find that the Purchases Book was undercast by $1,000$ before the trial balance is finalized, how is it corrected without a suspense account?",
+    "options": [
+      "By adding $1,000$ to the credit side of the purchases ledger",
+      "By writing 'To undercasting of purchases book $1,000$' on the debit side of the Purchases Account",
+      "By changing the total column of the journal directly",
+      "By debiting the capital account balance"
+    ],
+    "correct_index": 1,
+    "explanation": "Since purchases carry a debit balance, an undercast is resolved by writing a corrective debit statement directly on the left (debit) side of the Purchases Account.",
+    "ncert_page": 197,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q46",
+    "chapter_id": "c6",
+    "question": "What is the rectifying entry for a transaction where cash received from Karim ($6,000$) was wrongly posted to Nadeem's account, assuming a suspense account system is active?",
+    "options": [
+      "Debit Karim Account, Credit Nadeem Account",
+      "Debit Nadeem Account, Credit Karim Account",
+      "Debit Nadeem Account, Credit Suspense Account",
+      "Debit Suspense Account, Credit Karim Account"
+    ],
+    "correct_index": 1,
+    "explanation": "Nadeem's account was credited in error, and Karim's account was skipped. To rectify, pass a rectifying entry: Debit Nadeem Account $6,000$ and Credit Karim Account $6,000$. No suspense leg is needed since it is a two-sided error swap.",
+    "ncert_page": 224,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q47",
+    "chapter_id": "c6",
+    "question": "What is the outcome of evaluating query item 1 under 'Test Your Understanding - III' page solutions?",
+    "options": [
+      "Error of Omission",
+      "Error of Commission",
+      "Error of Principle",
+      "Compensating Error"
+    ],
+    "correct_index": 1,
+    "explanation": "The textbook verification solutions appendix on Page 224 confirms that query reference item 1 under test parameters maps explicitly to an Error of Commission.",
+    "ncert_page": 224,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q48",
+    "chapter_id": "c6",
+    "question": "Why does an error of complete omission keep the equality of a trial balance intact?",
+    "options": [
+      "Because it deletes the suspense account balance row automatically.",
+      "Because both the debit aspect and credit aspect of that transaction were left unrecorded, causing a zero net impact on balancing.",
+      "Because it converts nominal balances into real asset heads.",
+      "Because it is processed by commercial bank filters."
+    ],
+    "correct_index": 1,
+    "explanation": "Since an error of complete omission leaves out both the debit and credit legs of an event, it creates no mathematical mismatch, meaning the trial balance totals remain equal.",
+    "ncert_page": 191,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q49",
+    "chapter_id": "c6",
+    "question": "What step describes comparing the current year's trial balance account titles with those of the previous year during error hunting?",
+    "options": [
+      "Recasting the column totals row",
+      "Checking additions and deletions of account titles to spot unexpected shifts",
+      "Opening a temporary mixed hybrid framework",
+      "Filing source bills documents"
+    ],
+    "correct_index": 1,
+    "explanation": "Comparing successive trial balances helps look for additions or deletions of accounts and spot large, unexpected differences that might signal hidden posting errors.",
+    "ncert_page": 191,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c6_q50",
+    "chapter_id": "c6",
+    "question": "What basic rule guarantees that the trial balance remains an effective control tool under double-entry accounting?",
+    "options": [
+      "That it automates the filing of sales invoice records.",
+      "That every financial transaction has a dual-effect tracking balancing parity across accounts, ensuring debits always equal credits.",
+      "That it increases database server terminal index lookups speeds.",
+      "That it eliminates the requirement of preparing a cash book subsidiary book."
+    ],
+    "correct_index": 1,
+    "explanation": "The mathematical foundation of a trial balance relies on the dual aspect constraint, which requires a matching credit for every debit, serving as an indicator of clerical consistency.",
+    "ncert_page": 180,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  }
+]

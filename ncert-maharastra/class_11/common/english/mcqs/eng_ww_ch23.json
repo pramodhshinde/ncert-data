@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "pc_q01",
+    "chapter_id": "c23",
+    "question": "Who is the author of 'Patterns of Creativity'?",
+    "options": ["S. Chandrasekhar", "Bertrand Russell", "C.V. Raman", "John Keats"],
+    "correct_index": 0,
+    "explanation": "The essay 'Patterns of Creativity' is written by S. Chandrasekhar, the Nobel Prize-winning astrophysicist.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q02",
+    "chapter_id": "c23",
+    "question": "Which two poets does the author quote to show the negative attitude of poets toward science?",
+    "options": ["Shakespeare and Milton", "Wordsworth and Keats", "Shelley and Byron", "Tennyson and Browning"],
+    "correct_index": 1,
+    "explanation": "Chandrasekhar quotes Wordsworth's 'We murder to dissect' and Keats's 'Philosophy will clip an Angel's wings' to illustrate this attitude.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q03",
+    "chapter_id": "c23",
+    "question": "In Wordsworth's lines, who is described as a 'fingering slave'?",
+    "options": ["A poet", "A scientist/botanist", "A soldier", "A king"],
+    "correct_index": 1,
+    "explanation": "Wordsworth uses this term to criticize a scientist who would 'peep and botanise' upon his mother's grave.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q04",
+    "chapter_id": "c23",
+    "question": "Keats argues that all 'charms' fly at the touch of what?",
+    "options": ["Hot passion", "Cold philosophy", "Bright light", "Dark magic"],
+    "correct_index": 1,
+    "explanation": "Keats writes: 'Do not all charms fly / At the mere touch of cold philosophy?'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q05",
+    "chapter_id": "c23",
+    "question": "According to Keats, where is the 'awful rainbow' placed by science?",
+    "options": ["In a museum", "In the dull catalogue of common things", "In a laboratory", "In a book of myths"],
+    "correct_index": 1,
+    "explanation": "Keats complains that science reduces the mystery of the rainbow to a common entry in a catalogue.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q06",
+    "chapter_id": "c23",
+    "question": "Which phrase from Wordsworth suggests that scientific analysis destroys beauty?",
+    "options": ["'Sweet is the lore'", "'We murder to dissect'", "'Intellectual All-in-All'", "'Beauteous forms'"],
+    "correct_index": 1,
+    "explanation": "Wordsworth's line 'We murder to dissect' is a famous critique of how scientific reductionism can kill the spirit of the subject.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q07",
+    "chapter_id": "c23",
+    "question": "What does the author suggest is the fundamental question he wants to explore?",
+    "options": ["The history of stars", "Why creativity patterns differ between arts and sciences", "The biography of Keats", "How to win a Nobel Prize"],
+    "correct_index": 1,
+    "explanation": "The core question is: 'why is there a difference in the patterns of creativity among the practitioners in the arts and the practitioners in the sciences?'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q08",
+    "chapter_id": "c23",
+    "question": "The term 'cold philosophy' in Keats's poem refers to:",
+    "options": ["Logic and Science", "Religion", "Ancient history", "Winter weather"],
+    "correct_index": 0,
+    "explanation": "In the context of the poem and the essay, 'cold philosophy' represents scientific reasoning.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q09",
+    "chapter_id": "c23",
+    "question": "How did S. Chandrasekhar view the relationship between research and teaching?",
+    "options": ["They are separate", "Teaching is a waste of time for researchers", "They are mutually sustaining endeavours", "Research should only happen in labs"],
+    "correct_index": 2,
+    "explanation": "He says: 'I always integrated teaching with research. They support each other.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q10",
+    "chapter_id": "c23",
+    "question": "What did the American press call the 'best chapter' in Kameswar Wali's biography of Chandrasekhar?",
+    "options": ["The chapter on the Nobel Prize", "The chapter on his wife, Lalitha", "The chapter on black holes", "The chapter on his childhood"],
+    "correct_index": 1,
+    "explanation": "Chandrasekhar notes with a smile that the American press praised the chapter on his wife.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q11",
+    "chapter_id": "c23",
+    "question": "According to Chandrasekhar, where were the great Indian scientists in the 1930s?",
+    "options": ["In government offices", "In the universities", "Abroad in America", "In private industries"],
+    "correct_index": 1,
+    "explanation": "He recalls that in the 1930s, the great scientists were in the universities, which he contrasts with the present situation.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q12",
+    "chapter_id": "c23",
+    "question": "What is Chandrasekhar's view on 'regretting' past decisions?",
+    "options": ["It is essential for growth", "It is irrational to regret the past", "One should always look back", "Only successful people don't regret"],
+    "correct_index": 1,
+    "explanation": "He states: 'I think it’s irrational to regret the past anyway. You must reconcile yourself to the life you have chosen and lived.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q13",
+    "chapter_id": "c23",
+    "question": "What does the author believe about a 'true scientist's' personal life?",
+    "options": ["It is always happy", "It can never be complete", "It is the most important thing", "It is easy to balance with work"],
+    "correct_index": 1,
+    "explanation": "He mentions: 'I don’t believe that a scientist—a true scientist—can ever have a complete personal life.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q14",
+    "chapter_id": "c23",
+    "question": "Kameswar Wali interpreted Chandrasekhar's question 'Was it worth it?' as:",
+    "options": ["A sign of depression", "A dimension of realisation that comes with age", "A negative outlook on science", "An apology to his family"],
+    "correct_index": 1,
+    "explanation": "Wali clarified it was not negative, but a dimension of realization as one gets older.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q15",
+    "chapter_id": "c23",
+    "question": "What is a 'cenotaph' as mentioned in the expression list?",
+    "options": ["A scientific tool", "A monument to someone buried elsewhere", "A type of star", "A collection of poems"],
+    "correct_index": 1,
+    "explanation": "As defined in the vocabulary/context, a cenotaph is a commemorative monument.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q16",
+    "chapter_id": "c23",
+    "question": "The phrase 'looked askance' means to look at something with:",
+    "options": ["Great joy", "Suspicion or disapproval", "Fear", "Blindness"],
+    "correct_index": 1,
+    "explanation": "To look askance means to look with doubt or suspicion.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q17",
+    "chapter_id": "c23",
+    "question": "What does 'atrophy' mean in a literary or scientific context?",
+    "options": ["To grow very fast", "To waste away or decline", "To become strong", "To shine bright"],
+    "correct_index": 1,
+    "explanation": "Atrophy refers to the wasting away of a body part or faculty.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q18",
+    "chapter_id": "c23",
+    "question": "Who are the 'hierophants of an unapprehended inspiration' quoted in the text?",
+    "options": ["Scientists", "Poets", "Mathematicians", "Politicians"],
+    "correct_index": 1,
+    "explanation": "Shelley refers to poets in this way, highlighting their role as interpreters of mystery.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q19",
+    "chapter_id": "c23",
+    "question": "Chandrasekhar is not willing to judge 'achievement' solely by ________.",
+    "options": ["Books written", "Awards", "Money earned", "Number of students"],
+    "correct_index": 1,
+    "explanation": "He tells the interviewer: 'I wouldn’t judge achievement by awards.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q20",
+    "chapter_id": "c23",
+    "question": "What is 'apposite' according to the expression list?",
+    "options": ["The opposite", "Apt or appropriate in the circumstances", "A type of equipment", "A long story"],
+    "correct_index": 1,
+    "explanation": "Apposite means highly relevant or appropriate.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q21",
+    "chapter_id": "c23",
+    "question": "The 'meddling intellect' in Wordsworth's poem refers to:",
+    "options": ["The heart", "The scientific/analytical mind", "Nature", "A child's mind"],
+    "correct_index": 1,
+    "explanation": "Wordsworth critiques the analytical mind that 'misshapes the beauteous forms of things'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q22",
+    "chapter_id": "c23",
+    "question": "Keats believes that science given in the 'dull catalogue' clips an ________ wings.",
+    "options": ["Eagle's", "Angel's", "Bird's", "Plane's"],
+    "correct_index": 1,
+    "explanation": "Keats writes: 'Philosophy will clip an Angel's wings.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q23",
+    "chapter_id": "c23",
+    "question": "Which word describes a 'picaresque tale'?",
+    "options": ["A scientific report", "A story about a rough but appealing hero", "A sad poem", "A religious text"],
+    "correct_index": 1,
+    "explanation": "Picaresque refers to a style of prose fiction that depicts the adventures of a roguish hero.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q24",
+    "chapter_id": "c23",
+    "question": "In the 1930s, the great Indian scientists being in universities was a sign of ________ according to the author.",
+    "options": ["Weakness", "A healthy academic climate", "Lack of funding", "A loss"],
+    "correct_index": 1,
+    "explanation": "He sees it as a positive state that has unfortunately changed today.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q25",
+    "chapter_id": "c23",
+    "question": "The interview with S. Chandrasekhar was likely conducted by ________.",
+    "options": ["Kameswar Wali", "Bertrand Russell", "William Wordsworth", "Nissim Ezekiel"],
+    "correct_index": 0,
+    "explanation": "The text references Kameswar Wali as his biographer who conducted much of the documentation.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q26",
+    "chapter_id": "c23",
+    "question": "What is 'interlunations' in the context of life mentioned in the list?",
+    "options": ["Times of great success", "Periods when the moon is invisible; metaphorical dark periods", "Holidays", "Star constellations"],
+    "correct_index": 1,
+    "explanation": "It refers to the time between the old moon and the new; metaphorically, the 'dark' intervals of life.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q27",
+    "chapter_id": "c23",
+    "question": "Wordsworth complains that we '________' to dissect.",
+    "options": ["Study", "Murder", "Wait", "Love"],
+    "correct_index": 1,
+    "explanation": "The line is 'We murder to dissect', suggesting that analysis can destroy the life of the subject.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q28",
+    "chapter_id": "c23",
+    "question": "According to Keats, science explains the ________ and texture of the rainbow.",
+    "options": ["Color", "Woof", "Height", "Weight"],
+    "correct_index": 1,
+    "explanation": "Keats uses the weaving term 'woof' to describe the rainbow's construction.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q29",
+    "chapter_id": "c23",
+    "question": "The author calls the integration of arts and sciences ________.",
+    "options": ["Impossible", "An assortment of remarks", "A picaresque tale", "Cold philosophy"],
+    "correct_index": 1,
+    "explanation": "He says he will not answer directly but will make an 'assortment of remarks'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q30",
+    "chapter_id": "c23",
+    "question": "Which term means 'prophetic insight'?",
+    "options": ["Atrophy", "Prophetic discernment", "Apposite", "Interlunations"],
+    "correct_index": 1,
+    "explanation": "Discernment refers to the ability to judge well or see clearly into the future.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q31",
+    "chapter_id": "c23",
+    "question": "Wordsworth describes the Lore which Nature brings as ________.",
+    "options": ["Bitter", "Sweet", "Heavy", "Dull"],
+    "correct_index": 1,
+    "explanation": "The line is 'Sweet is the lore which Nature brings'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q32",
+    "chapter_id": "c23",
+    "question": "What color was the 'Plymouth' car in the family of another story (referenced in context)?",
+    "options": ["Red", "Sky-blue", "Black", "Green"],
+    "correct_index": 1,
+    "explanation": "Referenced in the Pappachi's Moth snippet.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q33",
+    "chapter_id": "c23",
+    "question": "Chandrasekhar's tone in the interview is ________.",
+    "options": ["Arrogant", "Reflective and humble", "Angry", "Indifferent"],
+    "correct_index": 1,
+    "explanation": "His willingness to question his own worth shows a reflective nature.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q34",
+    "chapter_id": "c23",
+    "question": "In the context of Keats's lines, what is an 'awful' rainbow?",
+    "options": ["Bad or ugly", "Full of awe and wonder", "Small", "Bright"],
+    "correct_index": 1,
+    "explanation": "In older English, 'awful' meant 'awe-inspiring'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q35",
+    "chapter_id": "c23",
+    "question": "The 'intellectual All-in-All' is a critique of ________.",
+    "options": ["Religious faith", "Scientific arrogance/Over-reliance on reason", "Art", "Sports"],
+    "correct_index": 1,
+    "explanation": "Wordsworth uses it to mock the person who believes reason is everything.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q36",
+    "chapter_id": "c23",
+    "question": "What 'lore' does Wordsworth contrast with scientific 'dissection'?",
+    "options": ["Lore of books", "Lore which Nature brings", "Ancient myths", "Legal codes"],
+    "correct_index": 1,
+    "explanation": "He values natural wisdom over analytical study.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q37",
+    "chapter_id": "c23",
+    "question": "Chandrasekhar believes that the current state of Indian universities compared to the 1930s is a ________.",
+    "options": ["Success", "Loss", "Gain", "Secret"],
+    "correct_index": 1,
+    "explanation": "He specifically uses the word 'loss' to describe the departure of great scientists from universities.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q38",
+    "chapter_id": "c23",
+    "question": "What is the meaning of 'unapprehended' in Shelley's quote?",
+    "options": ["Caught by police", "Not understood or perceived", "Very fast", "Beautiful"],
+    "correct_index": 1,
+    "explanation": "It refers to an inspiration that has not yet been fully grasped by the mind.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q39",
+    "chapter_id": "c23",
+    "question": "The author quotes Keats to show that science can '________' the dull catalogue of common things.",
+    "options": ["Burn", "Unweave", "Expand", "Ignore"],
+    "correct_index": 1,
+    "explanation": "Though not in the exact snippet, Keats's Lamia (the source) is famous for 'unweaving the rainbow'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q40",
+    "chapter_id": "c23",
+    "question": "The term 'practitioners in the arts' refers to:",
+    "options": ["Doctors", "Poets and painters", "Scientists", "Engineers"],
+    "correct_index": 1,
+    "explanation": "Arts include creative disciplines like poetry, as discussed with Keats and Wordsworth.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q41",
+    "chapter_id": "c23",
+    "question": "Chandrasekhar says 'I shall not attempt to answer this question ________'.",
+    "options": ["Ever", "Directly", "In English", "Truthfully"],
+    "correct_index": 1,
+    "explanation": "He prefers an indirect, reflective approach to the complex topic of creativity.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q42",
+    "chapter_id": "c23",
+    "question": "What is 'inspiration' called in Shelley's quote?",
+    "options": ["Apposite", "Unapprehended", "Atrophy", "Cold"],
+    "correct_index": 1,
+    "explanation": "Shelley refers to 'unapprehended inspiration'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q43",
+    "chapter_id": "c23",
+    "question": "Wordsworth calls a scientist a '________ slave'.",
+    "options": ["Working", "Fingering", "Reasoning", "Dull"],
+    "correct_index": 1,
+    "explanation": "The line is 'A fingering slave'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q44",
+    "chapter_id": "c23",
+    "question": "The interviewer asks if the achieved more in America because of the ________ climate.",
+    "options": ["Weather", "Academic", "Political", "Social"],
+    "correct_index": 1,
+    "explanation": "The question refers to the environment of American universities.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q45",
+    "chapter_id": "c23",
+    "question": "The term 'All-in-All' suggests something that is:",
+    "options": ["Small", "Everything; complete and sufficient in itself", "Broken", "Common"],
+    "correct_index": 1,
+    "explanation": "It critiques the arrogance of total intellectual self-sufficiency.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q46",
+    "chapter_id": "c23",
+    "question": "Chandrasekhar's integration of teaching and research is described as ________.",
+    "options": ["Boring", "Mutually sustaining", "Useless", "Difficult"],
+    "correct_index": 1,
+    "explanation": "He uses the phrase 'mutually sustaining endeavours'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q47",
+    "chapter_id": "c23",
+    "question": "Who mentions 'Philosophy will clip an Angel's wings'?",
+    "options": ["Wordsworth", "Keats", "Chandrasekhar", "Wali"],
+    "correct_index": 1,
+    "explanation": "These are lines by John Keats.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q48",
+    "chapter_id": "c23",
+    "question": "Chandrasekhar refers to Keats and Wordsworth as having '________ lines'.",
+    "options": ["Long", "Oft-quoted", "Secret", "New"],
+    "correct_index": 1,
+    "explanation": "He acknowledges the fame of their critical views on science.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q49",
+    "chapter_id": "c23",
+    "question": "The essay 'Patterns of Creativity' appears in which section of the book?",
+    "options": ["Short Stories", "Poetry", "Essays", "Drama"],
+    "correct_index": 2,
+    "explanation": "It is unit 3 of the 'Essays' section.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "pc_q50",
+    "chapter_id": "c23",
+    "question": "What 'dimension' does Wali say dawns as one gets older?",
+    "options": ["Achievement", "Realisation", "Regret", "Happiness"],
+    "correct_index": 1,
+    "explanation": "Wali refers to a deeper awareness or realisation.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  }
+]

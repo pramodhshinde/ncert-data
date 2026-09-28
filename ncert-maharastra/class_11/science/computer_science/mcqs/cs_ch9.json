@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c9_q01",
+    "chapter_id": "c9",
+    "question": "Which of the following describes the properties of the data type list in Python?",
+    "options": [
+      "An unordered sequence that is immutable",
+      "An ordered sequence that is mutable",
+      "An unordered mapping that holds unique values",
+      "An ordered sequence that is immutable"
+    ],
+    "correct_index": 1,
+    "explanation": "The data type list is an ordered sequence which is mutable and made up of one or more elements.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q02",
+    "chapter_id": "c9",
+    "question": "Unlike a string which consists of only characters, what can a list store as elements?",
+    "options": [
+      "Strictly integer values only",
+      "Only uniform data types specified at initialization",
+      "Elements of different data types, such as integer, float, string, tuple, or even another list",
+      "Only string constants enclosed in double quotes"
+    ],
+    "correct_index": 2,
+    "explanation": "Unlike a string which consists of only characters, a list can have elements of different data types, such as integer, float, string, tuple or even another list.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q03",
+    "chapter_id": "c9",
+    "question": "How are the elements of a list explicitly enclosed and separated in Python syntax?",
+    "options": [
+      "Enclosed in curly brackets `{}` and separated by colons `:`",
+      "Enclosed in parentheses `()` and separated by semicolons `;`",
+      "Enclosed in square brackets `[]` and separated by commas `,`",
+      "Enclosed in angle brackets `<>` and separated by slashes `/`"
+    ],
+    "correct_index": 2,
+    "explanation": "Elements of a list are enclosed in square brackets and are separated by comma.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q04",
+    "chapter_id": "c9",
+    "question": "What is a list that contains other lists as its internal elements commonly referred to as?",
+    "options": [
+      "A mapped list",
+      "A nested list",
+      "A dimensional matrix",
+      "An isolated sequence"
+    ],
+    "correct_index": 1,
+    "explanation": "A list of lists is called a nested list, as seen in the example `list4 = [['Physics', 101], ['Chemistry', 202]]`.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q05",
+    "chapter_id": "c9",
+    "question": "Like string indices, what integer value does a Python list index start from when accessing elements from left to right?",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "Any user-defined offset counter"
+    ],
+    "correct_index": 1,
+    "explanation": "Like string indices, list indices also start from 0.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q06",
+    "chapter_id": "c9",
+    "question": "If a list has 5 elements, what is the valid positive index of the final element on the far right?",
+    "options": [
+      "5",
+      "4",
+      "0",
+      "-5"
+    ],
+    "correct_index": 1,
+    "explanation": "Since indexing starts from 0, the last element of a list with length $n$ has an index of $n-1$. For 5 elements, the last index is 4.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q07",
+    "chapter_id": "c9",
+    "question": "What happens if a programmer attempts to access an index that does not exist in the list, such as `list1[10]` on a list of length 3?",
+    "options": [
+      "It returns a value of `None`.",
+      "Python raises an `IndexError`.",
+      "The list automatically expands to accommodate that index location.",
+      "It wraps around and accesses the element at index 0."
+    ],
+    "correct_index": 1,
+    "explanation": "An error `IndexError: list index out of range` occurs if we try to access an element beyond the valid range of indices.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q08",
+    "chapter_id": "c9",
+    "question": "What is the primary utility of negative index values like `-1` when working with lists in Python?",
+    "options": [
+      "To check for corrupted binary records",
+      "To access elements of the list from right to left",
+      "To calculate mathematical differences between values automatically",
+      "To convert values into negative floating numbers"
+    ],
+    "correct_index": 1,
+    "explanation": "Python supports negative indexing to access elements from right to left, where `-1` represents the last element.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q09",
+    "chapter_id": "c9",
+    "question": "Given the statement `list1 = ['Red', 'Green', 'Blue', 'Cyan']`, what value is returned by evaluating `list1[-3]`?",
+    "options": [
+      "`'Red'`",
+      "`'Green'`",
+      "`'Blue'`",
+      "`'Cyan'`"
+    ],
+    "correct_index": 1,
+    "explanation": "Negative indexing counts from right to left: `-1` is 'Cyan', `-2` is 'Blue', and `-3` is 'Green'.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q10",
+    "chapter_id": "c9",
+    "question": "Because lists are mutable data types, which of the following operations can be performed on them that cannot be performed on strings?",
+    "options": [
+      "Accessing individual values via positive integer coordinates",
+      "Changing or updating the value of an element in place using item assignment",
+      "Passing the collection as a parameter to the `len()` function",
+      "Traversing elements sequentially using a standard loop construct"
+    ],
+    "correct_index": 1,
+    "explanation": "Lists are mutable, meaning we can change the value of an element in place. For example, `list1[2] = 90` modifies the existing list without throwing an error.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q11",
+    "chapter_id": "c9",
+    "question": "What does the concatenation operator `+` do when applied to two lists in Python?",
+    "options": [
+      "It adds the numerical values of corresponding items together element-wise.",
+      "It merges the two lists into a single new list containing elements of both lists.",
+      "It converts both lists into a unified dictionary mapping keys.",
+      "It raises a `TypeError` because arithmetic symbols cannot touch sequences."
+    ],
+    "correct_index": 1,
+    "explanation": "Python allows us to join two or more lists using the concatenation operator `+`. It creates a new list without altering the original lists.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q12",
+    "chapter_id": "c9",
+    "question": "If `list1 = [1, 2]` and `list2 = [3, 4]`, what is the output of executing `list1 + list2`?",
+    "options": [
+      "`[4, 6]`",
+      "`[[1, 2], [3, 4]]`",
+      "`[1, 2, 3, 4]`",
+      "`5`"
+    ],
+    "correct_index": 2,
+    "explanation": "The `+` operator joins the elements of the lists sequentially, producing a flattened new list: `[1, 2, 3, 4]`.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q13",
+    "chapter_id": "c9",
+    "question": "What is the behavior of the repetition operator `*` when a list is multiplied by an integer $n$?",
+    "options": [
+      "It raises each numeric element inside the list to the power of $n$.",
+      "It repeats the entire list sequence $n$ times to generate a new list.",
+      "It multiplies only the first and last structural index elements by $n$.",
+      "It increases the dimensions of the list into a nested layer."
+    ],
+    "correct_index": 1,
+    "explanation": "Python allows us to repeat a list multiple times using the repetition operator `*`.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q14",
+    "chapter_id": "c9",
+    "question": "What is the concrete result of executing the statement `['Hello'] * 3`?",
+    "options": [
+      "`['HelloHelloHello']`",
+      "`['Hello', 'Hello', 'Hello']`",
+      "`[['Hello'], ['Hello'], ['Hello']]`",
+      "A `TypeError` exception"
+    ],
+    "correct_index": 1,
+    "explanation": "Multiplying `['Hello']` by 3 duplicates the string element within the list construct three times: `['Hello', 'Hello', 'Hello']`.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q15",
+    "chapter_id": "c9",
+    "question": "Which operator returns `True` if an element is present within a list, and `False` otherwise?",
+    "options": [
+      "`is`",
+      "`in`",
+      "`==`",
+      "`exists`"
+    ],
+    "correct_index": 1,
+    "explanation": "The membership operator `in` checks if an element is present in the list and returns `True` if it is found.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q16",
+    "chapter_id": "c9",
+    "question": "What operation allows a programmer to extract a specific subpart or range of elements from an existing list?",
+    "options": [
+      "Partitioning",
+      "Slicing",
+      "Concatenating",
+      "Nesting"
+    ],
+    "correct_index": 1,
+    "explanation": "Like strings, list slices are subparts of a list extracted by specifying an index range. This operation is known as slicing.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q17",
+    "chapter_id": "c9",
+    "question": "In the slice notation structure `list1[start:stop]`, how are the boundary indexes processed during extraction?",
+    "options": [
+      "Both the `start` and `stop` indices are fully inclusive.",
+      "The `start` index is exclusive, while the `stop` index is inclusive.",
+      "The `start` index is inclusive, while the `stop` index is exclusive.",
+      "Both the `start` and `stop` indices are strictly exclusive."
+    ],
+    "correct_index": 2,
+    "explanation": "The slice returns a sublist containing elements from the `start` index up to, but excluding, the `stop` index.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q18",
+    "chapter_id": "c9",
+    "question": "If `list1 = [10, 20, 30, 40, 50]`, what is the output of evaluating the slice expression `list1[1:4]`?",
+    "options": [
+      "`[10, 20, 30]`",
+      "`[20, 30, 40]`",
+      "`[20, 30, 40, 50]`",
+      "`[30, 40, 50]`"
+    ],
+    "correct_index": 1,
+    "explanation": "Index 1 is 20, index 2 is 30, and index 3 is 40. Index 4 (50) is excluded, yielding `[20, 30, 40]`.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q19",
+    "chapter_id": "c9",
+    "question": "What happens if the `start` index is left blank in a slice operation, such as `list1[:stop]`?",
+    "options": [
+      "The slice defaults to starting from index 1.",
+      "The slice defaults to starting from the very beginning of the list (index 0).",
+      "An `IndexError` is generated by the shell.",
+      "It returns an empty list regardless of the stop value."
+    ],
+    "correct_index": 1,
+    "explanation": "If the first index is omitted, the slice starts from the beginning of the list (index 0).",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q20",
+    "chapter_id": "c9",
+    "question": "What happens if the `stop` index is omitted in a slice operation, such as `list1[start:]`?",
+    "options": [
+      "The slice extends up to the second-to-last element.",
+      "The slice extends through the remaining elements to the end of the list.",
+      "Python sets the stop boundary to 0 implicitly.",
+      "The expression causes a runtime crash loop."
+    ],
+    "correct_index": 1,
+    "explanation": "If the second index is omitted, the slice extends through the remaining elements to the end of the list.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q21",
+    "chapter_id": "c9",
+    "question": "In a three-parameter slice step expression `list1[start:stop:step]`, what does a negative step value (e.g., `-1`) accomplish?",
+    "options": [
+      "It checks for negative integer numbers inside the sublist.",
+      "It extracts elements in reverse order.",
+      "It sets all corresponding list data values to negative floats.",
+      "It acts as a division filter on the indices."
+    ],
+    "correct_index": 1,
+    "explanation": "A negative step value indicating step sizes like `-1` allows traversing or slicing the sequence backwards, reversing the output list subset.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q22",
+    "chapter_id": "c9",
+    "question": "What is the elegant outcome of executing the shortcut slice statement `list1[::-1]` on an existing list?",
+    "options": [
+      "It returns a list consisting of only the first and last elements.",
+      "It clears the list contents completely, leaving it empty.",
+      "It returns a copy of the entire list in reverse order.",
+      "It triggers a compilation syntax mismatch exception."
+    ],
+    "correct_index": 2,
+    "explanation": "Omitting both start and stop indices while setting the step size to `-1` efficiently reverses the entire sequence list.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q23",
+    "chapter_id": "c9",
+    "question": "Which loop control structures can be used to traverse and print each individual element of a list sequentially?",
+    "options": [
+      "Only the `for` loop structure",
+      "Only the `while` loop structure",
+      "Both the `for` loop and the `while` loop structures",
+      "Only case-selection branching statements"
+    ],
+    "correct_index": 2,
+    "explanation": "We can access each element of a list or traverse a list using a `for` loop or a `while` loop.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q24",
+    "chapter_id": "c9",
+    "question": "Which built-in function returns the total count of elements contained within a list passed to it as an argument?",
+    "options": [
+      "`size()`",
+      "`len()`",
+      "`count()`",
+      "`length()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The built-in function `len()` returns the length of a list passed as a parameter.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q25",
+    "chapter_id": "c9",
+    "question": "What built-in function can be used to convert an iterable sequence, such as a string, into a standard list of individual characters?",
+    "options": [
+      "`list()`",
+      "`convert()`",
+      "`split()`",
+      "`to_list()`"
+    ],
+    "correct_index": 0,
+    "explanation": "The built-in function `list()` creates a list out of any iterable sequence passed to it, such as a string or a tuple.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q26",
+    "chapter_id": "c9",
+    "question": "What is the output of executing the statement `list('AEIOU')` in the interactive shell?",
+    "options": [
+      "`['AEIOU']`",
+      "`['A', 'E', 'I', 'O', 'u']`",
+      "`['A', 'E', 'I', 'O', 'H']`",
+      "`['A', 'E', 'I', 'O', 'M']`"
+    ],
+    "correct_index": 1,
+    "explanation": "The `list()` function splits the string characters into individual element tokens inside a square bracket array: `['A', 'E', 'I', 'O', 'u']` (or matching uppercase character variables).",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q27",
+    "chapter_id": "c9",
+    "question": "Which list method appends a single element to the very end of an existing list?",
+    "options": [
+      "`insert()`",
+      "`extend()`",
+      "`append()`",
+      "`push()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The `append()` method appends a single element passed as an argument to the end of the list.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q28",
+    "chapter_id": "c9",
+    "question": "If `list1 = [10, 20]` and you execute `list1.append([30, 40])`, what does `list1` look like after the operation?",
+    "options": [
+      "`[10, 20, 30, 40]`",
+      "`[10, 20, [30, 40]]`",
+      "`[[10, 20], [30, 40]]`",
+      "`[10, 20, 30]`"
+    ],
+    "correct_index": 1,
+    "explanation": "The `append()` method adds its argument as a single element. Since the argument is itself a list, it adds it as a nested list element: `[10, 20, [30, 40]]`.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q29",
+    "chapter_id": "c9",
+    "question": "Which method appends each individual element of an entire iterable collection passed as an argument to the end of a list?",
+    "options": [
+      "`append()`",
+      "`extend()`",
+      "`insert()`",
+      "`join()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The `extend()` method appends each element of the list passed as an argument to the end of the given list.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q30",
+    "chapter_id": "c9",
+    "question": "If `list1 = [10, 20]` and you execute `list1.extend([30, 40])`, what does `list1` evaluate to?",
+    "options": [
+      "`[10, 20, [30, 40]]`",
+      "`[10, 20, 30, 40]`",
+      "`[10, 20, 70]`",
+      "`[10, 20]`"
+    ],
+    "correct_index": 1,
+    "explanation": "Unlike `append()`, `extend()` flattens the input iterable and appends each element separately to the end: `[10, 20, 30, 40]`.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q31",
+    "chapter_id": "c9",
+    "question": "Which list method inserts an element at a specific index location in the list?",
+    "options": [
+      "`append()`",
+      "`extend()`",
+      "`insert()`",
+      "`add()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The `insert()` method inserts an element at a particular index location specified by the user.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q32",
+    "chapter_id": "c9",
+    "question": "What is the correct parameter ordering for the arguments passed to the `insert()` method?",
+    "options": [
+      "`list1.insert(element, index)`",
+      "`list1.insert(index, element)`",
+      "`list1.insert(start, stop, element)`",
+      "`list1.insert(element)`"
+    ],
+    "correct_index": 1,
+    "explanation": "The syntax for the `insert()` method is `list.insert(index, element)`, where the first argument is the target index position.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q33",
+    "chapter_id": "c9",
+    "question": "Which list method counts the total number of times a specific element appears in the list?",
+    "options": [
+      "`len()`",
+      "`find()`",
+      "`count()`",
+      "`index()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The `count()` method returns the number of times a given element appears in the list.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q34",
+    "chapter_id": "c9",
+    "question": "Which method returns the index of the first occurrence of a specified element in a list?",
+    "options": [
+      "`find()`",
+      "`count()`",
+      "`index()`",
+      "`search()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The `index()` method returns the index of the first occurrence of the given element in the list.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q35",
+    "chapter_id": "c9",
+    "question": "What happens if you use the `index()` method to look up an element that is not present in the list?",
+    "options": [
+      "It returns `-1`.",
+      "It returns `None`.",
+      "Python raises a `ValueError` exception.",
+      "It returns a positive index equal to the length of the list."
+    ],
+    "correct_index": 2,
+    "explanation": "If the specified element is not present in the list, the `index()` method raises a `ValueError` exception.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q36",
+    "chapter_id": "c9",
+    "question": "Which list method removes and returns an element from a specified index position, or the last element if no index is provided?",
+    "options": [
+      "`remove()`",
+      "`pop()`",
+      "`del`",
+      "`clear()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The `pop()` method removes the element from the specified index position and returns it. If no index is specified, it removes and returns the last element of the list.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q37",
+    "chapter_id": "c9",
+    "question": "How does the `remove()` method differ from the `pop()` method when removing items from a list?",
+    "options": [
+      "It removes elements based on their index rather than their value.",
+      "It removes the first occurrence of a specified value, rather than an item at a specific index, and does not return it.",
+      "It deletes the entire list from memory.",
+      "It works only on numeric data types."
+    ],
+    "correct_index": 1,
+    "explanation": "The `remove()` method searches for the first occurrence of a specified value and removes it from the list. It does not take an index as an argument and does not return the removed value.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q38",
+    "chapter_id": "c9",
+    "question": "Which statement can be used to remove an element at a specific index position or delete a slice of a list without returning the removed value?",
+    "options": [
+      "`list1.remove()`",
+      "`list1.pop()`",
+      "`del` statement",
+      "`list1.clear()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The `del` statement removes a specified element at a given index or a slice of elements from a list without returning the value.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q39",
+    "chapter_id": "c9",
+    "question": "Which list method removes all elements from a list, leaving it empty with a length of zero?",
+    "options": [
+      "`pop()`",
+      "`remove()`",
+      "`clear()`",
+      "`del`"
+    ],
+    "correct_index": 2,
+    "explanation": "The `clear()` method removes all elements from the list, making it an empty list.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q40",
+    "chapter_id": "c9",
+    "question": "Which list method reverses the elements of a list in place?",
+    "options": [
+      "`reversed()`",
+      "`reverse()`",
+      "`invert()`",
+      "`flip()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The `reverse()` method reverses the order of elements in the list in place.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q41",
+    "chapter_id": "c9",
+    "question": "Which list method sorts the elements of a list in place by default?",
+    "options": [
+      "`sorted()`",
+      "`sort()`",
+      "`order()`",
+      "`arrange()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The `sort()` method sorts the elements of a list in place in ascending order by default.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q42",
+    "chapter_id": "c9",
+    "question": "How can you sort a list in descending order using the `sort()` method?",
+    "options": [
+      "Pass the argument `order='descending'` to the method.",
+      "Pass the argument `reverse=True` to the method.",
+      "Call the `reverse()` method before calling `sort()`.",
+      "Pass the argument `descending=True` to the method."
+    ],
+    "correct_index": 1,
+    "explanation": "Passing the argument `reverse=True` to the `sort()` method sorts the elements of the list in descending order.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q43",
+    "chapter_id": "c9",
+    "question": "How does the built-in function `sorted()` differ from the list method `sort()`?",
+    "options": [
+      "It can sort only string elements.",
+      "It sorts the list in place and does not return anything.",
+      "It returns a new sorted list, leaving the original list unmodified.",
+      "It sorts elements in descending order by default."
+    ],
+    "correct_index": 2,
+    "explanation": "The built-in function `sorted()` takes a list as an argument and returns a new sorted copy of that list, leaving the original list unmodified. The `sort()` method modifies the list in place.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q44",
+    "chapter_id": "c9",
+    "question": "Which built-in function returns the element with the minimum value in a list of numbers?",
+    "options": [
+      "`min()`",
+      "`minimum()`",
+      "`low()`",
+      "`smallest()`"
+    ],
+    "correct_index": 0,
+    "explanation": "The built-in function `min()` returns the minimum value among the elements in a list.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q45",
+    "chapter_id": "c9",
+    "question": "Which built-in function returns the sum of all elements in a list of numbers?",
+    "options": [
+      "`total()`",
+      "`add()`",
+      "`sum()`",
+      "`summary()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The built-in function `sum()` returns the sum of the elements in a list of numbers.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q46",
+    "chapter_id": "c9",
+    "question": "What happens if two list variables, `list1` and `list2`, refer to the exact same list object in memory via aliasing, and you modify an element in `list1`?",
+    "options": [
+      "Only `list1` is modified; `list2` remains unchanged.",
+      "The modification is reflected in both `list1` and `list2`.",
+      "Python raises a `ReferenceError` exception.",
+      "A copy of the list is created automatically to isolate the changes."
+    ],
+    "correct_index": 1,
+    "explanation": "Aliasing occurs when two or more variables refer to the same object in memory. Modifications made through one variable are reflected in the other variable as well.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q47",
+    "chapter_id": "c9",
+    "question": "How can you create a completely independent copy of a list to avoid side effects from aliasing?",
+    "options": [
+      "By using an assignment statement like `list2 = list1`",
+      "By using the slicing operator shortcut `list2 = list1[:]`",
+      "By using the `extend()` method on an empty list",
+      "Both the slicing operator shortcut `list2 = list1[:]` and using `list2 = list(list1)`"
+    ],
+    "correct_index": 3,
+    "explanation": "To create a shallow copy of a list that is independent of the original, you can use either list slicing `list2 = list1[:]` or the built-in function constructor `list2 = list(list1)`.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q48",
+    "chapter_id": "c9",
+    "question": "When a list is passed as an argument to a function, how are modifications handled if elements of the list are mutated inside the function?",
+    "options": [
+      "The modifications are local to the function scope and disappear when it returns.",
+      "The modifications alter the original list object, meaning changes are visible outside the function.",
+      "Python throws a `MutationError` because sequences are protected during function calls.",
+      "The function automatically runs on an isolated internal copy of the list."
+    ],
+    "correct_index": 1,
+    "explanation": "Since lists are mutable, passing a list to a function passes a reference to the list object. Any modifications made to the elements of the list inside the function are reflected in the original list.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q49",
+    "chapter_id": "c9",
+    "question": "What is the output of executing `list1 = [1, 2, 3]` followed by `list1.append([4, 5])` and then evaluating `len(list1)`?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "IndexError"
+    ],
+    "correct_index": 1,
+    "explanation": "The `append()` method adds the argument `[4, 5]` as a single nested list element. The resulting list is `[1, 2, 3, [4, 5]]`, which has a length of 4.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c9_q50",
+    "chapter_id": "c9",
+    "question": "What is the value of `list1` after evaluating the slice assignment statement `list1 = [10, 20, 30, 40]`, `list1[1:3] = ['A', 'B']`?",
+    "options": [
+      "`[10, 'A', 'B', 40]`",
+      "`[10, 'A', 'B', 30, 40]`",
+      "`[10, ['A', 'B'], 40]`",
+      "`['A', 'B']`"
+    ],
+    "correct_index": 0,
+    "explanation": "Slice assignment replaces the elements in the specified range (`index 1` and `index 2`) with the elements of the iterable on the right-hand side, resulting in `[10, 'A', 'B', 40]`.",
+    "ncert_page": 4,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  }
+]

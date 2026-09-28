@@ -1,0 +1,48 @@
+{
+  "books": [
+    {
+      "id": 1221,
+      "title": "Accountancy Part I",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1nKSUOvj9Pr4iXHhFDNHdDwjUVWYlAAx4/view?usp=drivesdk",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Accountancy",
+      "chapterCount": 4,
+      "parts": 2
+    },
+    {
+      "id": 1222,
+      "title": "Accountancy Part II",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1Ids_QuxfIR9skmQX_zXJgXPSnymR28rH/view?usp=drivesdk",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Accountancy",
+      "chapterCount": 5,
+      "parts": 2
+    },
+    {
+      "id": 1223,
+      "title": "Business Studies Part I",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1W627iWfrMtanL7REGmqBn7HG_2S9YAnw/view?usp=drivesdk",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Business Studies",
+      "chapterCount": 8,
+      "parts": 2
+    },
+    {
+      "id": 1227,
+      "title": "Business Studies Part II",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1BO-DQI1zR_DYDUzT9y7t3LbkHvKR7Hp_/view?usp=drivesdk",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Business Studies",
+      "chapterCount": 3,
+      "parts": 2
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "hr_q01",
+    "chapter_id": "c15",
+    "question": "Who is the poet of the poem 'Hawk Roosting'?",
+    "options": ["Philip Larkin", "Ted Hughes", "Wole Soyinka", "Sujata Bhatt"],
+    "correct_index": 1,
+    "explanation": "The poem 'Hawk Roosting' is written by Ted Hughes.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q02",
+    "chapter_id": "c15",
+    "question": "The poem 'Hawk Roosting' is written in the form of a:",
+    "options": ["Sonnet", "Dialogue", "Monologue", "Ballad"],
+    "correct_index": 2,
+    "explanation": "The text states that the poem is in the form of a monologue, where the hawk itself is the speaker.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q03",
+    "chapter_id": "c15",
+    "question": "Where does the hawk sit at the beginning of the poem?",
+    "options": ["On a mountain peak", "In the top of the wood", "In a nest", "On a stone wall"],
+    "correct_index": 1,
+    "explanation": "The first line of the poem is 'I sit in the top of the wood, my eyes closed.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q04",
+    "chapter_id": "c15",
+    "question": "The hawk mentions that there is 'no falsifying dream' between its:",
+    "options": ["Eyes and wings", "Hooked head and hooked feet", "Heart and mind", "Beak and claws"],
+    "correct_index": 1,
+    "explanation": "The hawk states there is 'no falsifying dream / Between my hooked head and hooked feet'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q05",
+    "chapter_id": "c15",
+    "question": "What does the hawk do in its sleep?",
+    "options": ["Dreams of flying", "Rehearses perfect kills and eat", "Hides from predators", "Sings"],
+    "correct_index": 1,
+    "explanation": "The hawk says, 'Or in sleep rehearse perfect kills and eat.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q06",
+    "chapter_id": "c15",
+    "question": "What two natural elements are described as being 'of advantage' to the hawk?",
+    "options": ["Rain and wind", "Air's buoyancy and the sun's ray", "Moonlight and shadows", "Trees and rivers"],
+    "correct_index": 1,
+    "explanation": "The hawk notes, 'The air’s buoyancy and the sun’s ray / Are of advantage to me'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q07",
+    "chapter_id": "c15",
+    "question": "The hawk claims that it took 'the whole of ________' to produce its foot and feathers.",
+    "options": ["Time", "Evolution", "Creation", "Nature"],
+    "correct_index": 2,
+    "explanation": "The poem says, 'It took the whole of Creation / To produce my foot, my each feather'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q08",
+    "chapter_id": "c15",
+    "question": "The hawk asserts: 'Now I hold ________ in my foot.'",
+    "options": ["A prey", "The world", "Creation", "The branch"],
+    "correct_index": 2,
+    "explanation": "The hawk claims a god-like status by stating, 'Now I hold Creation in my foot.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q09",
+    "chapter_id": "c15",
+    "question": "The hawk says it 'kills where I please' because:",
+    "options": ["It is hungry", "It is all mine", "It is angry", "It is the law"],
+    "correct_index": 1,
+    "explanation": "The hawk states, 'I kill where I please because it is all mine.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q10",
+    "chapter_id": "c15",
+    "question": "What does the hawk mean when it says 'There is no sophistry in my body'?",
+    "options": ["It is not sick", "It does not use clever but false arguments to justify its actions", "It is made of steel", "It cannot feel pain"],
+    "correct_index": 1,
+    "explanation": "Sophistry refers to deceptive reasoning. The hawk acts purely on instinct and power without the need for moral excuses.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q11",
+    "chapter_id": "c15",
+    "question": "The hawk describes its 'manners' as:",
+    "options": ["Being polite", "Flying fast", "Tearing off heads", "Eating quietly"],
+    "correct_index": 2,
+    "explanation": "The hawk says, 'My manners are tearing off heads'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q12",
+    "chapter_id": "c15",
+    "question": "The hawk's flight path is described as being direct through:",
+    "options": ["The clouds", "The trees", "The bones of the living", "The open air"],
+    "correct_index": 2,
+    "explanation": "The hawk states, 'For the one path of my flight is direct / Through the bones of the living.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q13",
+    "chapter_id": "c15",
+    "question": "The hawk claims that 'No arguments assert my ________.'",
+    "options": ["Power", "Right", "Presence", "Existence"],
+    "correct_index": 1,
+    "explanation": "The line reads: 'No arguments assert my right'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q14",
+    "chapter_id": "c15",
+    "question": "What is the hawk's final statement regarding change?",
+    "options": ["Everything changes", "I want to change", "My eye has permitted no change", "The world is changing"],
+    "correct_index": 2,
+    "explanation": "The hawk says, 'Nothing has changed since I began. / My eye has permitted no change.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q15",
+    "chapter_id": "c15",
+    "question": "Ted Hughes was educated at which university?",
+    "options": ["Oxford", "London University", "Pembroke College, Cambridge", "Harvard"],
+    "correct_index": 2,
+    "explanation": "Ted Hughes completed his education at Pembroke College, Cambridge.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q16",
+    "chapter_id": "c15",
+    "question": "Who was the famous poet that Ted Hughes married in 1956?",
+    "options": ["Kamala Das", "Sylvia Plath", "Sujata Bhatt", "Anita Desai"],
+    "correct_index": 1,
+    "explanation": "In 1956, Ted Hughes married the poet Sylvia Plath.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q17",
+    "chapter_id": "c15",
+    "question": "What is described as the 'most remarkable quality' of Hughes' poems?",
+    "options": ["Rhyme scheme", "Humor", "Intense and obsessive fascination with birds and animals", "Political themes"],
+    "correct_index": 2,
+    "explanation": "The biographical note highlights his fascination with the world of birds and animals.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q18",
+    "chapter_id": "c15",
+    "question": "The hawk sees 'the earth's face upward for my ________.'",
+    "options": ["Pleasure", "Inspection", "Attack", "Food"],
+    "correct_index": 1,
+    "explanation": "The hawk views the world from a superior position: 'And the earth's face upward for my inspection.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q19",
+    "chapter_id": "c15",
+    "question": "What word is used to describe the hawk's feet being fixed on the tree?",
+    "options": ["Tied", "Stuck", "Locked", "Griped"],
+    "correct_index": 2,
+    "explanation": "The poem states, 'My feet are locked upon the rough bark.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q20",
+    "chapter_id": "c15",
+    "question": "In the phrase 'allotment of death', what does 'allotment' mean?",
+    "options": ["A garden", "Distribution or share", "A building", "A secret"],
+    "correct_index": 1,
+    "explanation": "The hawk decides who dies, acting as the distributor of death.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q21",
+    "chapter_id": "c15",
+    "question": "The hawk says, 'The ________ is behind me.'",
+    "options": ["Moon", "Wood", "Sun", "Prey"],
+    "correct_index": 2,
+    "explanation": "The poem states, 'The sun is behind me.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q22",
+    "chapter_id": "c15",
+    "question": "What is the tone of the hawk in the poem?",
+    "options": ["Fearful", "Arrogant and commanding", "Peaceful", "Submissive"],
+    "correct_index": 1,
+    "explanation": "The hawk speaks with absolute authority, confidence, and a lack of moral doubt.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q23",
+    "chapter_id": "c15",
+    "question": "What does 'buoyancy' refer to in the context of the air?",
+    "options": ["Coldness", "Ability to float or keep something up", "Smell", "Darkness"],
+    "correct_index": 1,
+    "explanation": "The hawk utilizes the air's buoyancy to stay aloft.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q24",
+    "chapter_id": "c15",
+    "question": "According to the hawk, its manners are:",
+    "options": ["Good", "Tearing off heads", "Polite", "Gentle"],
+    "correct_index": 1,
+    "explanation": "The hawk bluntly defines its 'manners' as violent and predatory.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q25",
+    "chapter_id": "c15",
+    "question": "The word 'roosting' in the title refers to:",
+    "options": ["Flying high", "A bird settling for rest or sleep", "Hunting for prey", "Building a nest"],
+    "correct_index": 1,
+    "explanation": "Roosting describes the state of the bird as it sits at the top of the wood with eyes closed.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q26",
+    "chapter_id": "c15",
+    "question": "Hughes' poems often shock the reader with:",
+    "options": ["Rhymes", "Unusual phrases and violent images", "Happy endings", "Boring descriptions"],
+    "correct_index": 1,
+    "explanation": "The text notes that his poems shock with unusual phrases and violent images.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q27",
+    "chapter_id": "c15",
+    "question": "The hawk states that it can 'revolve it all slowly'. What does 'it' refer to?",
+    "options": ["Its head", "The whole of Creation/the world", "Its prey", "The sun"],
+    "correct_index": 1,
+    "explanation": "In the context of the poem, 'it' refers to the Creation that it holds in its foot.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q28",
+    "chapter_id": "c15",
+    "question": "Ted Hughes lived from ________ to ________.",
+    "options": ["1922-1985", "1930-1998", "1934-2000", "1956-1994"],
+    "correct_index": 1,
+    "explanation": "Ted Hughes lived from 1930 to 1998.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q29",
+    "chapter_id": "c15",
+    "question": "The hawk feels that the high trees are a:",
+    "options": ["Danger", "Convenience", "Nuisance", "Obstacle"],
+    "correct_index": 1,
+    "explanation": "The hawk says, 'The convenience of the high trees!'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q30",
+    "chapter_id": "c15",
+    "question": "The phrase 'hooked head and hooked feet' emphasizes the bird's:",
+    "options": ["Beauty", "Anatomy as a predator", "Speed", "Softness"],
+    "correct_index": 1,
+    "explanation": "The repetition of 'hooked' highlights the sharp, lethal tools of the hawk.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q31",
+    "chapter_id": "c15",
+    "question": "The hawk says 'I am going to keep things like this.' This shows its desire for:",
+    "options": ["Change", "Stability/Permanence of its power", "More food", "Peace"],
+    "correct_index": 1,
+    "explanation": "The hawk intends to maintain its dominant, unchanging position.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q32",
+    "chapter_id": "c15",
+    "question": "Which bird is NOT mentioned in the 'Try This Out' section for differentiation?",
+    "options": ["Eagle", "Kite", "Sparrow", "Vulture"],
+    "correct_index": 2,
+    "explanation": "The text asks to differentiate between eagle, hawk, kite, and vulture.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q33",
+    "chapter_id": "c15",
+    "question": "To be 'eagle-eyed' means to have:",
+    "options": ["Bad vision", "Very sharp and observant vision", "Closed eyes", "Yellow eyes"],
+    "correct_index": 1,
+    "explanation": "It's a common idiom for having keen sight, mentioned in the exercises.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q34",
+    "chapter_id": "c15",
+    "question": "The adjective 'hawkish' usually applies to human behavior that is:",
+    "options": ["Kind and gentle", "Aggressive or favoring conflict", "Slow and lazy", "Wise"],
+    "correct_index": 1,
+    "explanation": "In political and social contexts, 'hawkish' means aggressive, like a hawk.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q35",
+    "chapter_id": "c15",
+    "question": "Which 'Suggested Reading' is by Ted Hughes?",
+    "options": ["Poem in October", "The Lake", "The Peacock", "The Lament"],
+    "correct_index": 1,
+    "explanation": "'The Lake' by Ted Hughes is suggested.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q36",
+    "chapter_id": "c15",
+    "question": "What is the hawk's 'eye' role in the final stanza?",
+    "options": ["It is crying", "It has permitted no change", "It is sleeping", "It is looking for help"],
+    "correct_index": 1,
+    "explanation": "The hawk claims its gaze controls and maintains the state of the world.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q37",
+    "chapter_id": "c15",
+    "question": "The 'bark' mentioned in the poem belongs to:",
+    "options": ["A dog", "A tree", "A ship", "A bird"],
+    "correct_index": 1,
+    "explanation": "The hawk's feet are locked on the 'rough bark' of the tree.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q38",
+    "chapter_id": "c15",
+    "question": "The hawk's claim of holding Creation in its foot suggests a ________ perspective.",
+    "options": ["Humble", "Anthropomorphic (giving human-like arrogance to the bird)", "Scientific", "Environmentalist"],
+    "correct_index": 1,
+    "explanation": "The poem uses the bird to explore themes of absolute power and ego.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q39",
+    "chapter_id": "c15",
+    "question": "In line 12, 'each feather' is mentioned to show:",
+    "options": ["The bird is soft", "The complexity and effort Creation put into the hawk", "The bird is molting", "The bird is cold"],
+    "correct_index": 1,
+    "explanation": "The hawk takes pride in its perfect, biological design.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q40",
+    "chapter_id": "c15",
+    "question": "What is the hawk's relationship with the Sun?",
+    "options": ["It fears the sun", "The sun is behind it (supporting it)", "It ignores the sun", "The sun is its enemy"],
+    "correct_index": 1,
+    "explanation": "The hawk says 'The sun is behind me', implying the sun is at its back, perhaps to dazzle prey or as a sign of favor.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q41",
+    "chapter_id": "c15",
+    "question": "The poem suggests a parallel between predatory instincts and ________ behavior.",
+    "options": ["Kind", "Human", "Plant", "Mechanical"],
+    "correct_index": 1,
+    "explanation": "The study questions ask to bring out the parallel between the hawk and humans.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q42",
+    "chapter_id": "c15",
+    "question": "What does 'inaction' mean in the second line?",
+    "options": ["Busy", "State of not doing anything", "Fast flight", "Eating"],
+    "correct_index": 1,
+    "explanation": "The hawk is sitting still, in a state of inaction.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q43",
+    "chapter_id": "c15",
+    "question": "The hawk's focus is entirely on:",
+    "options": ["Making friends", "Killing and power", "Migration", "Building a home"],
+    "correct_index": 1,
+    "explanation": "The hawk's world revolves around its mastery and the act of killing.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q44",
+    "chapter_id": "c15",
+    "question": "The poem was published during the ________ century.",
+    "options": ["18th", "19th", "20th", "21st"],
+    "correct_index": 2,
+    "explanation": "Ted Hughes was a 20th-century poet.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q45",
+    "chapter_id": "c15",
+    "question": "What does 'permitted' mean in the phrase 'My eye has permitted no change'?",
+    "options": ["Forbidden", "Allowed", "Forgotten", "Wanted"],
+    "correct_index": 1,
+    "explanation": "The hawk claims that it has not allowed any changes to occur.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q46",
+    "chapter_id": "c15",
+    "question": "Is the hawk's eye open or closed at the start of the poem?",
+    "options": ["Open", "Closed", "Blinking", "Winking"],
+    "correct_index": 1,
+    "explanation": "The hawk says, 'I sit in the top of the wood, my eyes closed.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q47",
+    "chapter_id": "c15",
+    "question": "The hawk calls its killing an '________ of death'.",
+    "options": ["Accident", "Allotment", "End", "Idea"],
+    "correct_index": 1,
+    "explanation": "The phrase used is 'The allotment of death'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q48",
+    "chapter_id": "c15",
+    "question": "Where did Ted Hughes try to make a living before returning to England?",
+    "options": ["India", "America", "France", "Germany"],
+    "correct_index": 1,
+    "explanation": "He tried to make a living in America by teaching and writing.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q49",
+    "chapter_id": "c15",
+    "question": "The 'rough bark' represents the ________.",
+    "options": ["Hawk's skin", "Tree's surface", "Sun's ray", "Air's buoyancy"],
+    "correct_index": 1,
+    "explanation": "Bark is the outer layer of the tree the hawk sits on.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "hr_q50",
+    "chapter_id": "c15",
+    "question": "What is the hawk's final word in the poem?",
+    "options": ["Change", "Mine", "This", "Begin"],
+    "correct_index": 2,
+    "explanation": "The poem ends with: 'I am going to keep things like this.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "mcq_id": "eco_in_q01",
+    "chapter_id": "c7",
+    "question": "What is the primary purpose of an index number?",
+    "options": [
+      "To measure the absolute value of a single variable",
+      "To measure the relative change in a variable or a group of related variables",
+      "To calculate the total sum of industrial production",
+      "To predict future stock market prices"
+    ],
+    "correct_index": 1,
+    "explanation": "An index number is a statistical device for measuring changes in the magnitude of a group of related variables.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q02",
+    "chapter_id": "c7",
+    "question": "The year with which the current year's prices are compared is known as the:",
+    "options": ["Current year", "Standard year", "Base year", "Reference year"],
+    "correct_index": 2,
+    "explanation": "The year from which the comparison is made is called the base year.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q03",
+    "chapter_id": "c7",
+    "question": "The index value of the base year is always taken as:",
+    "options": ["0", "1", "100", "1000"],
+    "correct_index": 2,
+    "explanation": "The index of the base year is generally taken as 100.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q04",
+    "chapter_id": "c7",
+    "question": "If the price index for the year 2024 is 125 (with base 2011-12 = 100), it means prices have risen by:",
+    "options": ["125%", "25%", "100%", "5%"],
+    "correct_index": 1,
+    "explanation": "An index of 125 means prices are 25% higher than the base period (125 - 100 = 25).",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q05",
+    "chapter_id": "c7",
+    "question": "Which of the following is a method of constructing index numbers?",
+    "options": ["Simple Aggregative Method", "Simple Average of Price Relatives", "Weighted Aggregative Method", "All of the above"],
+    "correct_index": 3,
+    "explanation": "Index numbers can be constructed using simple aggregative, simple average of price relatives, or weighted methods.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q06",
+    "chapter_id": "c7",
+    "question": "The formula for the Simple Aggregative Price Index is:",
+    "options": ["(Σp1 / Σp0) × 100", "Σ(p1 / p0) / n", "(Σp0 / Σp1) × 100", "Σ(p1 × q0) / Σ(p0 × q0)"],
+    "correct_index": 0,
+    "explanation": "The simple aggregative index is the ratio of the sum of current prices (Σp1) to the sum of base prices (Σp0) multiplied by 100.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q07",
+    "chapter_id": "c7",
+    "question": "In index number notation, 'p1' and 'p0' represent:",
+    "options": [
+      "Population in years 1 and 0",
+      "Price in current year and base year",
+      "Production in current year and base year",
+      "Price of item 1 and item 0"
+    ],
+    "correct_index": 1,
+    "explanation": "p1 denotes the price of the current year and p0 denotes the price of the base year.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q08",
+    "chapter_id": "c7",
+    "question": "What is the main drawback of the Simple Aggregative Method?",
+    "options": [
+      "It is too complex to calculate",
+      "It is influenced by the units in which prices are quoted",
+      "It requires base year quantities",
+      "It can only be used for industrial goods"
+    ],
+    "correct_index": 1,
+    "explanation": "A drawback is that the index is affected by units (e.g., kg vs quintal). Items with higher price units dominate the index.",
+    "ncert_page": 4,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q09",
+    "chapter_id": "c7",
+    "question": "The method that calculates the percentage change in price for each individual item and then averages them is:",
+    "options": ["Simple Aggregative", "Simple Average of Price Relatives", "Laspeyres Method", "Paasche Method"],
+    "correct_index": 1,
+    "explanation": "The simple average of price relatives method calculates (p1/p0) × 100 for each item and then takes the mean.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q10",
+    "chapter_id": "c7",
+    "question": "Weighted index numbers are necessary because:",
+    "options": [
+      "All commodities have equal importance",
+      "Different commodities have different importance in consumption/production",
+      "The simple average is always incorrect",
+      "They are required by the government"
+    ],
+    "correct_index": 1,
+    "explanation": "Commodities like food are more important than others; hence weights (quantities) are assigned to reflect importance.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q11",
+    "chapter_id": "c7",
+    "question": "In Laspeyres Price Index, weights are assigned based on:",
+    "options": ["Current year quantities", "Base year quantities", "Average quantities", "Price relatives"],
+    "correct_index": 1,
+    "explanation": "Laspeyres index uses base year quantities (q0) as weights.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q12",
+    "chapter_id": "c7",
+    "question": "Paasche Price Index uses weights from the:",
+    "options": ["Base year", "Current year", "Standard year", "None of these"],
+    "correct_index": 1,
+    "explanation": "Paasche index uses current year quantities (q1) as weights.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q13",
+    "chapter_id": "c7",
+    "question": "Consumer Price Index (CPI) is also known as:",
+    "options": ["Wholesale Price Index", "Cost of Living Index", "Industrial Production Index", "SENSEX"],
+    "correct_index": 1,
+    "explanation": "CPI measures the change in the cost of living of a specific group of consumers.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q14",
+    "chapter_id": "c7",
+    "question": "Which index is used to measure inflation in an economy most broadly in India?",
+    "options": ["CPI", "WPI (Wholesale Price Index)", "IIP", "Agriculture Index"],
+    "correct_index": 1,
+    "explanation": "WPI is commonly used to measure the rate of inflation in the country.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q15",
+    "chapter_id": "c7",
+    "question": "The Wholesale Price Index (WPI) in India includes which of the following groups?",
+    "options": ["Primary Articles", "Fuel and Power", "Manufactured Products", "All of the above"],
+    "correct_index": 3,
+    "explanation": "The WPI basket consists of Primary Articles, Fuel and Power, and Manufactured Products.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q16",
+    "chapter_id": "c7",
+    "question": "The Index of Industrial Production (IIP) measures changes in the ________ of production.",
+    "options": ["Price", "Value", "Physical Volume", "Revenue"],
+    "correct_index": 2,
+    "explanation": "IIP is a quantity index that measures changes in the physical volume of industrial production.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q17",
+    "chapter_id": "c7",
+    "question": "Which index is considered a useful indicator of the performance of the economy and the 'stock market'?",
+    "options": ["WPI", "SENSEX", "CPI", "IIP"],
+    "correct_index": 1,
+    "explanation": "SENSEX is the Bombay Stock Exchange index, used to track changes in stock prices.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q18",
+    "chapter_id": "c7",
+    "question": "The formula Σ(p1q0) / Σ(p0q0) × 100 belongs to:",
+    "options": ["Paasche Index", "Laspeyres Index", "Weighted Relatives Index", "Simple Aggregative"],
+    "correct_index": 1,
+    "explanation": "This is the formula for the Laspeyres index, using base year quantities.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q19",
+    "chapter_id": "c7",
+    "question": "The process of adjusting nominal wages to account for inflation is called:",
+    "options": ["Inflation indexing", "Deflating", "Price Relative", "Splicing"],
+    "correct_index": 1,
+    "explanation": "Index numbers are used to deflate values, such as adjusting nominal wages to find real wages.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q20",
+    "chapter_id": "c7",
+    "question": "What is the formula for 'Real Wage'?",
+    "options": [
+      "(Money Wage / Price Index) × 100",
+      "Money Wage × Price Index",
+      "(Price Index / Money Wage) × 100",
+      "Money Wage + Price Index"
+    ],
+    "correct_index": 0,
+    "explanation": "Real wage is calculated by dividing the money wage by the price index and multiplying by 100.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q21",
+    "chapter_id": "c7",
+    "question": "Which of the following is a limitation of index numbers?",
+    "options": [
+      "They are only 'approximate' indicators",
+      "Choice of the base year can be difficult",
+      "They do not account for quality changes in products",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "Index numbers have limitations including being approximations, difficulties in selecting base years, and failing to capture quality changes.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q22",
+    "chapter_id": "c7",
+    "question": "A 'Quantity Index' measures the change in:",
+    "options": ["Prices of goods", "Physical volume of goods", "Value of exports", "Consumer habits"],
+    "correct_index": 1,
+    "explanation": "Quantity index numbers (like IIP) measure changes in physical quantities.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q23",
+    "chapter_id": "c7",
+    "question": "In India, the base year for the current series of WPI and IIP is:",
+    "options": ["1993-94", "2004-05", "2011-12", "2020-21"],
+    "correct_index": 2,
+    "explanation": "The current base year for major indices in India is 2011-12.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q24",
+    "chapter_id": "c7",
+    "question": "Consumer Price Indices are calculated for different groups because:",
+    "options": [
+      "Different groups have different consumption patterns",
+      "To make the calculation more complex",
+      "Prices are different in every shop",
+      "The law requires it"
+    ],
+    "correct_index": 0,
+    "explanation": "Indices are specific to groups (e.g., industrial workers vs urban non-manual employees) because their spending habits differ.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q25",
+    "chapter_id": "c7",
+    "question": "In the weighted average of price relatives method, the weight 'W' is calculated as:",
+    "options": ["p1 × q1", "p0 × q0", "p1 / p0", "q0 / q1"],
+    "correct_index": 1,
+    "explanation": "In this method, the weights (W) are typically the base year values (p0 × q0).",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q26",
+    "chapter_id": "c7",
+    "question": "Which organization in India compiles the CPI for Industrial Workers?",
+    "options": ["CSO", "NSSO", "Labour Bureau", "RBI"],
+    "correct_index": 2,
+    "explanation": "The Labour Bureau in Shimla compiles the CPI for Industrial Workers and Agricultural Labourers.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q27",
+    "chapter_id": "c7",
+    "question": "The SENSEX is based on how many 'blue-chip' companies?",
+    "options": ["10", "30", "50", "100"],
+    "correct_index": 1,
+    "explanation": "SENSEX is a stock market index of 30 well-established companies listed on the BSE.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q28",
+    "chapter_id": "c7",
+    "question": "GST stands for:",
+    "options": ["General Sales Tax", "Goods and Services Tax", "Government Service Tax", "Gross Standard Tax"],
+    "correct_index": 1,
+    "explanation": "The text discusses GST in the context of average tax rates.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q29",
+    "chapter_id": "c7",
+    "question": "If the price of a commodity increases from 10 to 15, the price relative is:",
+    "options": ["1.5", "150", "50", "10"],
+    "correct_index": 1,
+    "explanation": "Price relative = (p1/p0) × 100. (15/10) × 100 = 150.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q30",
+    "chapter_id": "c7",
+    "question": "Base year prices should ideally be from a 'normal' year. This means a year that was:",
+    "options": [
+      "In the distant past",
+      "Free from severe abnormalities like wars or famines",
+      "The most recent year",
+      "A year of high inflation"
+    ],
+    "correct_index": 1,
+    "explanation": "The base year should be a normal period without major economic or political disruptions.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q31",
+    "chapter_id": "c7",
+    "question": "What happens to the purchasing power of money as prices increase?",
+    "options": ["Increases", "Decreases", "Stays the same", "Becomes zero"],
+    "correct_index": 1,
+    "explanation": "As prices rise, the purchasing power of money (real value) decreases.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q32",
+    "chapter_id": "c7",
+    "question": "The 'Basket of Goods' used in CPI reflects:",
+    "options": [
+      "Everything produced in the country",
+      "Goods and services consumed by a representative household",
+      "Only industrial raw materials",
+      "Luxury items only"
+    ],
+    "correct_index": 1,
+    "explanation": "The CPI basket contains goods and services that represent the consumption of the target group.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q33",
+    "chapter_id": "c7",
+    "question": "In the construction of IIP, the most important sector (with highest weight) is:",
+    "options": ["Mining", "Manufacturing", "Electricity", "Agriculture"],
+    "correct_index": 1,
+    "explanation": "Manufacturing typically carries the largest weight in the Index of Industrial Production.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q34",
+    "chapter_id": "c7",
+    "question": "Index numbers are called 'Barometers of economic activity' because:",
+    "options": [
+      "They measure air pressure",
+      "They indicate the state of the economy",
+      "They are calculated every day",
+      "They are always 100% accurate"
+    ],
+    "correct_index": 1,
+    "explanation": "They are indicators that summarize economic trends and performance.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q35",
+    "chapter_id": "c7",
+    "question": "Weighted Average of Price Relatives is denoted by:",
+    "options": ["ΣPW / ΣW", "ΣP / n", "Σp1 / Σp0", "Σp1q1 / Σp0q0"],
+    "correct_index": 0,
+    "explanation": "The formula involves taking the sum of the product of price relatives and weights, divided by the sum of weights.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q36",
+    "chapter_id": "c7",
+    "question": "A rise in CPI indicates a rise in:",
+    "options": ["Cost of living", "Industrial profits", "Quantity of production", "Stock prices"],
+    "correct_index": 0,
+    "explanation": "CPI measures changes in the cost of a standard basket of goods, reflecting cost of living.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q37",
+    "chapter_id": "c7",
+    "question": "The Nifty index tracks how many companies on the NSE?",
+    "options": ["30", "50", "100", "500"],
+    "correct_index": 1,
+    "explanation": "Nifty is the stock market index of the National Stock Exchange (NSE) consisting of 50 companies.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q38",
+    "chapter_id": "c7",
+    "question": "WPI is used for ________ inflation while CPI is used for ________ inflation.",
+    "options": [
+      "Retail; Wholesale",
+      "Wholesale; Retail",
+      "Industrial; Agricultural",
+      "Export; Import"
+    ],
+    "correct_index": 1,
+    "explanation": "WPI tracks price changes at the wholesale level; CPI tracks them at the retail (consumer) level.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q39",
+    "chapter_id": "c7",
+    "question": "Index numbers can be used to compare changes ________.",
+    "options": [
+      "Over time",
+      "Across different regions",
+      "Both over time and regions",
+      "Neither"
+    ],
+    "correct_index": 2,
+    "explanation": "While usually temporal (over time), indices can also be spatial (comparing cities/countries).",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q40",
+    "chapter_id": "c7",
+    "question": "If prices in 2024 are 200 compared to 100 in 2011, it means the value of money has ________.",
+    "options": ["Doubled", "Been halved", "Tripled", "Remained same"],
+    "correct_index": 1,
+    "explanation": "If prices double, you need twice as much money for the same goods, meaning money value is halved.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q41",
+    "chapter_id": "c7",
+    "question": "Which of the following is NOT part of the 'Manufactured Products' group in WPI?",
+    "options": ["Chemicals", "Metals", "Raw Cotton", "Textiles"],
+    "correct_index": 2,
+    "explanation": "Raw cotton is a primary article, while textiles are manufactured.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q42",
+    "chapter_id": "c7",
+    "question": "Index numbers are called 'Barometers of economic activity' because:",
+    "options": [
+      "They measure air pressure",
+      "They indicate the state of the economy",
+      "They are calculated every day",
+      "They are always 100% accurate"
+    ],
+    "correct_index": 1,
+    "explanation": "They are indicators that summarize economic trends and performance.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q43",
+    "chapter_id": "c7",
+    "question": "Which formula is used when current year quantities (q1) are unavailable?",
+    "options": ["Paasche", "Laspeyres", "Weighted relatives", "Both 2 and 3"],
+    "correct_index": 3,
+    "explanation": "Laspeyres and Weighted Relatives use base year quantities (q0).",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q44",
+    "chapter_id": "c7",
+    "question": "Inflation refers to a ________ rise in the general price level.",
+    "options": ["Temporary", "Persistent/Continuous", "One-day", "Partial"],
+    "correct_index": 1,
+    "explanation": "Inflation is a general and persistent increase in prices over time.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q45",
+    "chapter_id": "c7",
+    "question": "In WPI, weights are typically based on ________.",
+    "options": ["Family budget", "Value of total output/marketable surplus", "Personal income", "Retail sales"],
+    "correct_index": 1,
+    "explanation": "WPI weights reflect the total value of production or transactions in the economy.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q46",
+    "chapter_id": "c7",
+    "question": "Real income is calculated to see if people's standard of living is ________.",
+    "options": ["Decreasing", "Improving", "Staying same", "None of these"],
+    "correct_index": 1,
+    "explanation": "Real income accounts for inflation to show actual changes in purchasing power.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q47",
+    "chapter_id": "c7",
+    "question": "If money wages increase by 10% and prices also increase by 10%, the real wage will:",
+    "options": ["Increase", "Decrease", "Remain constant", "Double"],
+    "correct_index": 2,
+    "explanation": "If wage and price increases are equal, the purchasing power (real wage) does not change.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q48",
+    "chapter_id": "c7",
+    "question": "Index numbers represent ________ trend of a group of variables.",
+    "options": ["Net", "Gross", "Individual", "Exact"],
+    "correct_index": 0,
+    "explanation": "They show the net or overall change in a group of related variables.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q49",
+    "chapter_id": "c7",
+    "question": "A simple average of price relatives method treats all items ________.",
+    "options": ["Unequally", "Equally", "According to price", "According to quantity"],
+    "correct_index": 1,
+    "explanation": "The simple method gives equal importance to all items in the basket.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_in_q50",
+    "chapter_id": "c7",
+    "question": "Index numbers are always expressed as:",
+    "options": ["Decimals", "Percentages", "Whole numbers only", "Weights"],
+    "correct_index": 1,
+    "explanation": "Index numbers are generally expressed as percentages (relative numbers).",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  }
+]

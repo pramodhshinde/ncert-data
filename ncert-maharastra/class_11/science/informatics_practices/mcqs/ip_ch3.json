@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c3_q01",
+    "chapter_id": "c3",
+    "question": "Who created the Python programming language in 1991?",
+    "options": [
+      "Dennis Ritchie",
+      "Guido van Rossum",
+      "James Gosling",
+      "Bjarne Stroustrup"
+    ],
+    "correct_index": 1,
+    "explanation": "Python is a very popular and easy to learn programming language, created by Guido van Rossum in 1991.",
+    "ncert_page": 31,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q02",
+    "chapter_id": "c3",
+    "question": "Which statement best describes a feature of Python regarding formatting syntax?",
+    "options": [
+      "It uses curly braces to define code blocks",
+      "Indentation is part of the syntax rules to guarantee readable structure",
+      "Semicolons are mandatory at the end of every statement",
+      "It completely ignores all whitespace and blank lines"
+    ],
+    "correct_index": 1,
+    "explanation": "As stated by Guido van Rossum, making indentation part of the syntax guarantees that all code is properly indented and readable.",
+    "ncert_page": 31,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q03",
+    "chapter_id": "c3",
+    "question": "Which of the following fields prominently utilizes Python programming?",
+    "options": [
+      "Web development",
+      "Scientific computing",
+      "Big data and Artificial Intelligence",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "Python is used in a variety of fields, including software development, web development, scientific computing, big data and Artificial Intelligence.",
+    "ncert_page": 31,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q04",
+    "chapter_id": "c3",
+    "question": "In Python, reserved words that have unique, predefined meanings for the interpreter are known as:",
+    "options": [
+      "Identifiers",
+      "Keywords",
+      "Variables",
+      "Literals"
+    ],
+    "correct_index": 1,
+    "explanation": "Keywords are reserved words. Each keyword has a specific meaning to the Python interpreter.",
+    "ncert_page": 33,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q05",
+    "chapter_id": "c3",
+    "question": "Which of the following is a valid keyword in Python?",
+    "options": [
+      "is",
+      "loop",
+      "integer",
+      "string"
+    ],
+    "correct_index": 0,
+    "explanation": "'is' is a valid Python keyword, whereas 'loop', 'integer', and 'string' are not part of the standard keyword list.",
+    "ncert_page": 33,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q06",
+    "chapter_id": "c3",
+    "question": "Which of the following names is a valid identifier in Python?",
+    "options": [
+      "2_count",
+      "roll_no",
+      "total$",
+      "class"
+    ],
+    "correct_index": 1,
+    "explanation": "Identifiers can contain letters, digits, and underscores, but cannot start with a digit or contain special symbols like '$', nor can they be a keyword like 'class'. Thus, 'roll_no' is valid.",
+    "ncert_page": 33,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q07",
+    "chapter_id": "c3",
+    "question": "Which special symbol is uniquely permitted for use within a Python identifier?",
+    "options": [
+      "Hyphen (-)",
+      "Underscore (_)",
+      "Ampersand (&)",
+      "Asterisk (*)"
+    ],
+    "correct_index": 1,
+    "explanation": "An identifier can be a combination of letters (uppercase or lowercase), digits, and an underscore (_).",
+    "ncert_page": 33,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q08",
+    "chapter_id": "c3",
+    "question": "What happens if you use a Python keyword as a variable identifier name?",
+    "options": [
+      "The code runs fine without issues",
+      "Python automatically renames the keyword",
+      "It causes a syntax error",
+      "It is allowed only in uppercase"
+    ],
+    "correct_index": 2,
+    "explanation": "Keywords are reserved and cannot be used as ordinary identifier names or variables. Doing so triggers a syntax error.",
+    "ncert_page": 33,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q09",
+    "chapter_id": "c3",
+    "question": "In Python, identifiers are case-sensitive. This implies that:",
+    "options": [
+      "'count' and 'Count' are treated as identical references",
+      "'count' and 'Count' are treated as two distinct identifiers",
+      "All identifiers must be written strictly in lowercase",
+      "All identifiers must be written strictly in uppercase"
+    ],
+    "correct_index": 1,
+    "explanation": "Python is case-sensitive. This means that identifiers 'count' and 'Count' are different.",
+    "ncert_page": 33,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q10",
+    "chapter_id": "c3",
+    "question": "What represents an identifier name that violates Python's structural rules?",
+    "options": [
+      "my_var",
+      "_value",
+      "num1",
+      "var space"
+    ],
+    "correct_index": 3,
+    "explanation": "Identifiers cannot contain spaces or special characters other than an underscore.",
+    "ncert_page": 33,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q11",
+    "chapter_id": "c3",
+    "question": "In Python, a variable is explicitly created the moment it is:",
+    "options": [
+      "Declared with a specific data type keyword",
+      "First assigned a data value",
+      "Compiled into a script block",
+      "Imported via an external library module"
+    ],
+    "correct_index": 1,
+    "explanation": "A variable is created the moment it is first assigned a value.",
+    "ncert_page": 33,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q12",
+    "chapter_id": "c3",
+    "question": "What is the assignment operator used to bind a value to a variable name in Python?",
+    "options": [
+      "==",
+      "=",
+      ":=",
+      "->"
+    ],
+    "correct_index": 1,
+    "explanation": "The equal sign (=) is used to assign values to variables.",
+    "ncert_page": 33,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q13",
+    "chapter_id": "c3",
+    "question": "Which of the following statement types evaluates to a distinct numeric data type in Python?",
+    "options": [
+      "Integers, Floating-point numbers, and Complex numbers",
+      "Strings and Characters",
+      "Lists and Dictionaries",
+      "Booleans only"
+    ],
+    "correct_index": 0,
+    "explanation": "Python supports three distinct types of numbers: integers, floating-point numbers, and complex numbers.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q14",
+    "chapter_id": "c3",
+    "question": "Which of the following values represents a Boolean data type literal in Python?",
+    "options": [
+      "0 and 1",
+      "True and False",
+      "\"Yes\" and \"No\"",
+      "None"
+    ],
+    "correct_index": 1,
+    "explanation": "Boolean data type represents one of the two values: True or False.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q15",
+    "chapter_id": "c3",
+    "question": "A string literal in Python can be enclosed within which of the following formatting marks?",
+    "options": [
+      "Only single quotes",
+      "Only double quotes",
+      "Either single quotes or double quotes",
+      "Angle brackets"
+    ],
+    "correct_index": 2,
+    "explanation": "A string is a sequence of characters enclosed in single or double quotes.",
+    "ncert_page": 34,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q16",
+    "chapter_id": "c3",
+    "question": "In Python, an ordered sequence of elements enclosed in square brackets `[ ]` is known as a:",
+    "options": [
+      "Tuple",
+      "List",
+      "Dictionary",
+      "String"
+    ],
+    "correct_index": 1,
+    "explanation": "A list is an ordered sequence of elements enclosed in square brackets [ ].",
+    "ncert_page": 35,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q17",
+    "chapter_id": "c3",
+    "question": "What is a core operational difference between a Python list and a Python tuple?",
+    "options": [
+      "Lists hold string data types only, while tuples hold integers",
+      "Lists are mutable (can be changed), while tuples are immutable (cannot be changed)",
+      "Tuples use square brackets and lists use parentheses",
+      "There is no difference between them internally"
+    ],
+    "correct_index": 1,
+    "explanation": "A list is mutable, which means elements can be changed, while a tuple is an immutable sequence enclosed in parentheses ( ).",
+    "ncert_page": 35,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q18",
+    "chapter_id": "c3",
+    "question": "Which data type represents an unordered collection of items stored as key-value pairs enclosed in curly braces `{ }`?",
+    "options": [
+      "Set",
+      "List",
+      "Tuple",
+      "Dictionary"
+    ],
+    "correct_index": 3,
+    "explanation": "A dictionary is an unordered collection of items where each item is a key-value pair enclosed in curly braces { }.",
+    "ncert_page": 35,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q19",
+    "chapter_id": "c3",
+    "question": "Which mathematical operator represents floor division in Python?",
+    "options": [
+      "/",
+      "//",
+      "%",
+      "**"
+    ],
+    "correct_index": 1,
+    "explanation": "The floor division operator is represented by `//` in Python.",
+    "ncert_page": 36,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q20",
+    "chapter_id": "c3",
+    "question": "What is the output evaluated from the Python statement: `print(11 // 4)`?",
+    "options": [
+      "2.75",
+      "2",
+      "3",
+      "0.75"
+    ],
+    "correct_index": 1,
+    "explanation": "Floor division `//` divides the numbers and truncates the fractional part down to the nearest whole integer. 11 divided by 4 equals 2.75, which floors to 2.",
+    "ncert_page": 36,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q21",
+    "chapter_id": "c3",
+    "question": "Which mathematical operator computes the remainder of a division in Python?",
+    "options": [
+      "/",
+      "//",
+      "%",
+      "**"
+    ],
+    "correct_index": 2,
+    "explanation": "The modulus operator `%` returns the remainder after division.",
+    "ncert_page": 36,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q22",
+    "chapter_id": "c3",
+    "question": "What is the evaluated output of the expression: `print(7 % 3)`?",
+    "options": [
+      "1",
+      "2",
+      "2.33",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "7 divided by 3 gives a quotient of 2 and a remainder of 1. Modulus `%` returns the remainder, which is 1.",
+    "ncert_page": 36,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q23",
+    "chapter_id": "c3",
+    "question": "Which exponentiation operator raises a base value to a power in Python?",
+    "options": [
+      "^",
+      "**",
+      "^^",
+      "pow"
+    ],
+    "correct_index": 1,
+    "explanation": "The exponentiation operator in Python is `**`.",
+    "ncert_page": 36,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q24",
+    "chapter_id": "c3",
+    "question": "What is the output evaluated from the Python statement: `print(2 ** 3)`?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "5"
+    ],
+    "correct_index": 1,
+    "explanation": "2 raised to the power of 3 ($2 \times 2 \times 2$) equals 8.",
+    "ncert_page": 36,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q25",
+    "chapter_id": "c3",
+    "question": "Which logical operator returns `True` only if both logical conditions evaluate to true simultaneously?",
+    "options": [
+      "or",
+      "and",
+      "not",
+      "xor"
+    ],
+    "correct_index": 1,
+    "explanation": "The logical `and` operator returns True if both conditions are true.",
+    "ncert_page": 37,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q26",
+    "chapter_id": "c3",
+    "question": "Which logical operator reverses or negates the original Boolean condition?",
+    "options": [
+      "and",
+      "or",
+      "not",
+      "!"
+    ],
+    "correct_index": 2,
+    "explanation": "The logical `not` operator negates the truth value of a condition.",
+    "ncert_page": 37,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q27",
+    "chapter_id": "c3",
+    "question": "Which of the following is an assignment operator that increments a variable by a value?",
+    "options": [
+      "=+",
+      "+=",
+      "++",
+      "+="
+    ],
+    "correct_index": 1,
+    "explanation": "The operator `+=` adds the value on the right to the variable on the left and reassigns the result.",
+    "ncert_page": 37,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q28",
+    "chapter_id": "c3",
+    "question": "The string concatenation operator `+` is used to:",
+    "options": [
+      "Add numeric strings arithmetically",
+      "Join two or more strings end-to-end",
+      "Find the structural difference between strings",
+      "Multiply characters inside a string"
+    ],
+    "correct_index": 1,
+    "explanation": "The `+` operator, when applied to strings, performs concatenation, meaning it joins the strings together.",
+    "ncert_page": 38,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q29",
+    "chapter_id": "c3",
+    "question": "The string repetition operator `*` expects which set of operands?",
+    "options": [
+      "Two string operands",
+      "One string operand and one integer operand",
+      "Two integer operands",
+      "A dictionary and a list"
+    ],
+    "correct_index": 1,
+    "explanation": "The replication operator `*` requires a string on one side and an integer on the other to repeat the string a specified number of times.",
+    "ncert_page": 38,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q30",
+    "chapter_id": "c3",
+    "question": "What is the evaluated output of the expression: `print(\"Hi\" * 3)`?",
+    "options": [
+      "Hi3",
+      "Hi Hi Hi",
+      "HiHiHi",
+      "SyntaxError"
+    ],
+    "correct_index": 2,
+    "explanation": "The repetition operator `*` repeats the string 'Hi' three times consecutively without spaces, yielding 'HiHiHi'.",
+    "ncert_page": 38,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q31",
+    "chapter_id": "c3",
+    "question": "Which membership operator evaluates to `True` if a specified value is found within a target sequence?",
+    "options": [
+      "is",
+      "in",
+      "exists",
+      "with"
+    ],
+    "correct_index": 1,
+    "explanation": "The membership operator `in` evaluates to True if it finds a variable in the specified sequence.",
+    "ncert_page": 38,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q32",
+    "chapter_id": "c3",
+    "question": "Which built-in Python function is used to accept input data from the user dynamically?",
+    "options": [
+      "get()",
+      "read()",
+      "input()",
+      "accept()"
+    ],
+    "correct_index": 2,
+    "explanation": "The `input()` function is utilized to read a line of text from user input.",
+    "ncert_page": 39,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q33",
+    "chapter_id": "c3",
+    "question": "By default, what is the data type of the value returned by the built-in `input()` function?",
+    "options": [
+      "Integer",
+      "Float",
+      "String",
+      "Boolean"
+    ],
+    "correct_index": 2,
+    "explanation": "The input function always returns a value of data type string.",
+    "ncert_page": 40,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q34",
+    "chapter_id": "c3",
+    "question": "The process of converting one data type explicitly into another data type by the user is called:",
+    "options": [
+      "Implicit conversion",
+      "Type casting",
+      "Variable mapping",
+      "Dynamic allocation"
+    ],
+    "correct_index": 1,
+    "explanation": "Explicit conversion is also called type casting, where data types are converted using built-in functions like `int()`, `float()`, etc.",
+    "ncert_page": 40,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q35",
+    "chapter_id": "c3",
+    "question": "What is the purpose of the built-in `print()` function in Python?",
+    "options": [
+      "To print documents to a physical paper printer",
+      "To output information to the standard screen console",
+      "To save data variables into a text file",
+      "To read external script commands"
+    ],
+    "correct_index": 1,
+    "explanation": "The `print()` function is used to output data to the standard output device (screen).",
+    "ncert_page": 40,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q36",
+    "chapter_id": "c3",
+    "question": "The type of programmatic error that occurs when formatting or grammatical rules of Python are violated is a:",
+    "options": [
+      "Syntax Error",
+      "Logical Error",
+      "Runtime Error",
+      "Semantic Error"
+    ],
+    "correct_index": 0,
+    "explanation": "A syntax error occurs when the code violates the grammatical rules of the programming language.",
+    "ncert_page": 41,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q37",
+    "chapter_id": "c3",
+    "question": "What type of error occurs if a program compiles cleanly but fails or crashes during execution (e.g., division by zero)?",
+    "options": [
+      "Syntax Error",
+      "Runtime Error",
+      "Logical Error",
+      "Structural Error"
+    ],
+    "correct_index": 1,
+    "explanation": "A runtime error occurs during execution and causes abnormal termination of the program.",
+    "ncert_page": 41,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q38",
+    "chapter_id": "c3",
+    "question": "If a program runs completely to the end without crashing but produces incorrect answers, it contains a:",
+    "options": [
+      "Syntax Error",
+      "Runtime Error",
+      "Logical Error",
+      "Grammar bug"
+    ],
+    "correct_index": 2,
+    "explanation": "A logical error occurs when the program executes without crashing but yields incorrect results due to faulty logic.",
+    "ncert_page": 41,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q39",
+    "chapter_id": "c3",
+    "question": "Which conditional statement block structure allows multi-way branching text choices in Python?",
+    "options": [
+      "if..else",
+      "if..elif..else",
+      "switch..case",
+      "try..except"
+    ],
+    "correct_index": 1,
+    "explanation": "The `if..elif..else` construct allows testing multiple conditions for multi-way decision-making branches.",
+    "ncert_page": 44,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q40",
+    "chapter_id": "c3",
+    "question": "Which built-in function produces a sequence of numbers frequently used to control a `for` loop?",
+    "options": [
+      "sequence()",
+      "loop()",
+      "range()",
+      "series()"
+    ],
+    "correct_index": 2,
+    "explanation": "The `range()` function is used to generate a sequence of numbers, commonly utilized for controlling iteration bounds in loops.",
+    "ncert_page": 46,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q41",
+    "chapter_id": "c3",
+    "question": "What sequence of integers is generated by the expression: `range(2, 10, 3)`?",
+    "options": [
+      "[2, 5, 8]",
+      "[2, 5, 8, 10]",
+      "[3, 6, 9]",
+      "[2, 3, 4, 5, 6, 7, 8, 9, 10]"
+    ],
+    "correct_index": 0,
+    "explanation": "The range starts at 2, increments by a step of 3, and stops before reaching the stop value of 10. The values are 2, 5, and 8.",
+    "ncert_page": 46,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q42",
+    "chapter_id": "c3",
+    "question": "Which loop control keyword skips the remaining statements inside the current iteration and forces the next loop cycle to start immediately?",
+    "options": [
+      "break",
+      "continue",
+      "pass",
+      "skip"
+    ],
+    "correct_index": 1,
+    "explanation": "The `continue` statement terminates the current loop iteration and redirects control back to the loop header for the next cycle.",
+    "ncert_page": 49,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q43",
+    "chapter_id": "c3",
+    "question": "Which control jump keyword breaks out of a loop entirely, terminating its execution block early?",
+    "options": [
+      "exit",
+      "stop",
+      "break",
+      "continue"
+    ],
+    "correct_index": 2,
+    "explanation": "The `break` statement alters normal loop execution by terminating the loop entirely when triggered.",
+    "ncert_page": 49,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q44",
+    "chapter_id": "c3",
+    "question": "A loop that is placed completely inside the execution block body of another loop is known as a:",
+    "options": [
+      "Double loop",
+      "Nested loop",
+      "Chained loop",
+      "Sub-loop"
+    ],
+    "correct_index": 1,
+    "explanation": "A loop containing another loop inside its body structure is defined as a nested loop.",
+    "ncert_page": 50,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q45",
+    "chapter_id": "c3",
+    "question": "What is the purpose of the `def` keyword in Python?",
+    "options": [
+      "To declare a default configuration property",
+      "To define a custom user-created function block",
+      "To delete a variable instance reference",
+      "To handle division conditions safely"
+    ],
+    "correct_index": 1,
+    "explanation": "The `def` keyword introduces a function definition block followed by the function name and parameters.",
+    "ncert_page": 42,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q46",
+    "chapter_id": "c3",
+    "question": "The specific variables received inside the parentheses of a function header definition are called:",
+    "options": [
+      "Arguments or Parameters",
+      "Literals",
+      "Output bounds",
+      "Return parameters"
+    ],
+    "correct_index": 0,
+    "explanation": "The function header specifies the function name and contains arguments/parameters enclosed in parentheses.",
+    "ncert_page": 42,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q47",
+    "chapter_id": "c3",
+    "question": "What is the evaluated output of the expression: `print(5 > 3 and 2 < 4)`?",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "Error"
+    ],
+    "correct_index": 0,
+    "explanation": "Both relational conditions evaluate to True ($5 > 3$ is True, and $2 < 4$ is True). Since both are true, the logical `and` yields True.",
+    "ncert_page": 37,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q48",
+    "chapter_id": "c3",
+    "question": "Which loop structure repeats a block of code continuously as long as a specified test condition remains true?",
+    "options": [
+      "for loop",
+      "while loop",
+      "do..while loop",
+      "repeat loop"
+    ],
+    "correct_index": 1,
+    "explanation": "The `while` loop executes a block of statements repeatedly as long as its governing condition evaluates to True.",
+    "ncert_page": 48,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q49",
+    "chapter_id": "c3",
+    "question": "What is the evaluated outcome of the assignment operations: `x = 10; x += 5; print(x)`?",
+    "options": [
+      "10",
+      "5",
+      "15",
+      "Error"
+    ],
+    "correct_index": 2,
+    "explanation": "The augmented assignment statement `x += 5` expands to `x = x + 5`. Thus, $10 + 5$ binds the value 15 to `x`.",
+    "ncert_page": 37,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "c3_q50",
+    "chapter_id": "c3",
+    "question": "In Python, which of the following is an example of an immutable sequence object type?",
+    "options": [
+      "List",
+      "Dictionary",
+      "String",
+      "None of these"
+    ],
+    "correct_index": 2,
+    "explanation": "Strings are classified as immutable sequence types in Python; once a string is instantiated, its individual characters cannot be changed in-place.",
+    "ncert_page": 34,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  }
+]

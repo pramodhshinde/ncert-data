@@ -1,0 +1,7 @@
+{"subject":"informatics_practices","classNumber":11,"chapters":[
+{"chapterNumber":1,"title":"Computer System","fileName":"ip_ch1.json","questionCount":5},
+{"chapterNumber":2,"title":"Introduction to Python","fileName":"ip_ch2.json","questionCount":1},
+{"chapterNumber":3,"title":"Database Concepts","fileName":"ip_ch3.json","questionCount":1},
+{"chapterNumber":4,"title":"Introduction to Structured Query Language","fileName":"ip_ch4.json","questionCount":1},
+{"chapterNumber":5,"title":"Introduction to Emerging Trends","fileName":"ip_ch5.json","questionCount":1}
+],"totalChapters":5}

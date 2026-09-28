@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "lun_q01",
+    "chapter_id": "c8",
+    "question": "Who is the author of the story 'The Luncheon'?",
+    "options": ["Guy de Maupassant", "William Somerset Maugham", "Anton Chekhov", "O. Henry"],
+    "correct_index": 1,
+    "explanation": "The story 'The Luncheon' is written by the famous English playwright and novelist William Somerset Maugham.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q02",
+    "chapter_id": "c8",
+    "question": "Where does the narrator meet the lady at the start of the story, twenty years after their luncheon?",
+    "options": ["At a restaurant", "At the play", "In a park", "At a library"],
+    "correct_index": 1,
+    "explanation": "The story begins with the narrator catching sight of the lady at the play during the interval.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q03",
+    "chapter_id": "c8",
+    "question": "Where was the narrator living twenty years ago when the luncheon took place?",
+    "options": ["London", "Paris", "Berlin", "New York"],
+    "correct_index": 1,
+    "explanation": "The narrator was living in Paris twenty years ago.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q04",
+    "chapter_id": "c8",
+    "question": "In which quarter of the city did the narrator live in a tiny apartment?",
+    "options": ["Royal Quarter", "Latin Quarter", "Business District", "East End"],
+    "correct_index": 1,
+    "explanation": "The narrator lived in a tiny apartment in the Latin quarter overlooking a cemetery.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q05",
+    "chapter_id": "c8",
+    "question": "What was the name of the restaurant the lady suggested for their luncheon?",
+    "options": ["The Ritz", "Foyot’s", "Maxims", "The Grand Cafe"],
+    "correct_index": 1,
+    "explanation": "The lady asked for a luncheon at Foyot’s, a restaurant where French senators eat.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q06",
+    "chapter_id": "c8",
+    "question": "How much money did the narrator have to last him for the rest of the month before the luncheon?",
+    "options": ["Forty francs", "Eighty francs", "Sixty francs", "One hundred francs"],
+    "correct_index": 1,
+    "explanation": "He had eighty francs (gold francs) to last him the rest of the month.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q07",
+    "chapter_id": "c8",
+    "question": "What did the lady keep saying about her eating habits throughout the meal?",
+    "options": ["'I am very hungry'", "'I never eat anything for luncheon'", "'I love expensive food'", "'I want to try everything'"],
+    "correct_index": 1,
+    "explanation": "She repeatedly insisted, 'I never eat anything for luncheon,' while proceeding to order numerous expensive items.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q08",
+    "chapter_id": "c8",
+    "question": "What was the first expensive item the lady ordered after looking at the menu?",
+    "options": ["Salmon", "Asparagus", "Caviare", "Champagne"],
+    "correct_index": 1,
+    "explanation": "The first item mentioned after she says she eats nothing was Salmon.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q09",
+    "chapter_id": "c8",
+    "question": "Which item did the narrator personally order for himself because it was the cheapest?",
+    "options": ["A salad", "A mutton chop", "A sandwich", "Soup"],
+    "correct_index": 1,
+    "explanation": "The narrator ordered a mutton chop, which was the cheapest dish on the card.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q10",
+    "chapter_id": "c8",
+    "question": "What was the narrator's internal reaction when the lady ordered caviare?",
+    "options": ["He was happy", "His heart sank", "He was angry", "He was confused"],
+    "correct_index": 1,
+    "explanation": "The narrator says, 'My heart sank a little' when she ordered caviare as he knew he could not afford it.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q11",
+    "chapter_id": "c8",
+    "question": "What beverage did the lady choose for the meal?",
+    "options": ["Water", "Coffee", "White Wine (Champagne)", "Tea"],
+    "correct_index": 2,
+    "explanation": "She ordered white wine, specifically mentioning her doctor prescribed it.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q12",
+    "chapter_id": "c8",
+    "question": "The narrator told the waiter that his doctor strictly forbade him from drinking ________.",
+    "options": ["Coffee", "Champagne", "Wine", "Tea"],
+    "correct_index": 2,
+    "explanation": "To save money, the narrator claimed his doctor forbade him from drinking wine and ordered water for himself.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q13",
+    "chapter_id": "c8",
+    "question": "Which seasonal vegetable was the lady 'dying' to have, even though it was very expensive?",
+    "options": ["Truffles", "Giant Asparagus", "Broccoli", "Artichokes"],
+    "correct_index": 1,
+    "explanation": "The lady insisted on having the giant asparagus, even though it was not in season and very costly.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q14",
+    "chapter_id": "c8",
+    "question": "How did the lady describe the narrator's habit of eating meat (the mutton chop)?",
+    "options": ["Healthy", "Overloading the stomach", "Expensive", "Fashionable"],
+    "correct_index": 1,
+    "explanation": "She criticized him for 'overloading his stomach' with meat while she ate only 'snacks'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q15",
+    "chapter_id": "c8",
+    "question": "What fruit did the lady eat at the end of the meal?",
+    "options": ["Apples", "Grapes", "A Peach", "Strawberries"],
+    "correct_index": 2,
+    "explanation": "Despite claiming she had no appetite, she ate a large, succulent peach.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q16",
+    "chapter_id": "c8",
+    "question": "How much tip did the narrator leave for the waiter after paying the bill?",
+    "options": ["A generous amount", "Three francs", "Nothing", "Ten francs"],
+    "correct_index": 1,
+    "explanation": "After paying the huge bill, he had only three francs left for the tip, which made the lady think he was mean.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q17",
+    "chapter_id": "c8",
+    "question": "What was the narrator's plan if the bill exceeded the money he had?",
+    "options": ["Run away", "Pretend his pocket was picked", "Wash dishes", "Borrow from the waiter"],
+    "correct_index": 1,
+    "explanation": "The narrator planned to put his hand in his pocket and with a cry say that his pocket had been picked.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q18",
+    "chapter_id": "c8",
+    "question": "At the play twenty years later, how much did the lady weigh?",
+    "options": ["Ten stone", "Fifteen stone", "Twenty-one stone", "Thirty stone"],
+    "correct_index": 2,
+    "explanation": "The narrator notes with satisfaction that she now weighs twenty-one stone.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q19",
+    "chapter_id": "c8",
+    "question": "What 'revenge' did the narrator feel he finally had?",
+    "options": ["He became richer than her", "He saw that she had become extremely fat", "He ignored her at the play", "He made her pay for a meal"],
+    "correct_index": 1,
+    "explanation": "The narrator sees her obesity as a form of divine justice or 'revenge' for the meal she forced him to pay for.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q20",
+    "chapter_id": "c8",
+    "question": "The narrator describes himself at the end of the story as not being a ________ man.",
+    "options": ["Rich", "Vindictive", "Kind", "Social"],
+    "correct_index": 1,
+    "explanation": "He says, 'I am not a vindictive man, but when the immortal gods take a hand in the matter it is pardonable to observe the result with complacency.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q21",
+    "chapter_id": "c8",
+    "question": "The lady wrote to the narrator initially because she had read his ________.",
+    "options": ["Newspaper article", "Poem", "Book", "Letter"],
+    "correct_index": 2,
+    "explanation": "She had read a book of his and written to him about it.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q22",
+    "chapter_id": "c8",
+    "question": "Foyot's was a restaurant far beyond the narrator's ________.",
+    "options": ["Taste", "Means", "Dreams", "Location"],
+    "correct_index": 1,
+    "explanation": "It was beyond his means (budget), as it was a place for high officials.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q23",
+    "chapter_id": "c8",
+    "question": "How did the lady recognize the narrator at the theater?",
+    "options": ["He called her name", "She saw him and beckoned to him", "The waiter introduced them", "They sat at the same table"],
+    "correct_index": 1,
+    "explanation": "She caught sight of him and beckoned to him during the interval.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q24",
+    "chapter_id": "c8",
+    "question": "The narrator's apartment in Paris overlooked a ________.",
+    "options": ["River", "Cemetery", "Market", "Park"],
+    "correct_index": 1,
+    "explanation": "His tiny apartment in the Latin quarter overlooked a cemetery.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q25",
+    "chapter_id": "c8",
+    "question": "What tone is primarily used in 'The Luncheon'?",
+    "options": ["Tragic", "Ironical and Humorous", "Romantic", "Scientific"],
+    "correct_index": 1,
+    "explanation": "The story is famous for its situational irony and the narrator's humorous self-deprecation.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q26",
+    "chapter_id": "c8",
+    "question": "The lady tells the narrator, 'You are quite a ________' at the end of the meal.",
+    "options": ["Gentleman", "Humorist", "Glutton", "Scholar"],
+    "correct_index": 1,
+    "explanation": "She calls him a humorist because he says he won't eat dinner (actually because he has no money).",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q27",
+    "chapter_id": "c8",
+    "question": "What did the lady order with her coffee?",
+    "options": ["Sugar", "Cream", "Ice-cream", "Cakes"],
+    "correct_index": 2,
+    "explanation": "She ordered an ice-cream and then a coffee.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q28",
+    "chapter_id": "c8",
+    "question": "When the narrator saw the price of the giant asparagus, he turned ________.",
+    "options": ["Red", "Pale", "Blue", "Green"],
+    "correct_index": 1,
+    "explanation": "He turned pale because the cost was far higher than he anticipated.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q29",
+    "chapter_id": "c8",
+    "question": "The narrator had to live on ________ for the rest of the month after the luncheon.",
+    "options": ["Meat", "Nothing (coffee)", "Wine", "Bread"],
+    "correct_index": 1,
+    "explanation": "After the tip, he had no money left and wondered how he would last the month.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q30",
+    "chapter_id": "c8",
+    "question": "What is 'caviare'?",
+    "options": ["A type of cheese", "Pickled fish eggs", "A French dessert", "A type of bread"],
+    "correct_index": 1,
+    "explanation": "Caviare is the salted eggs of large fish, a very expensive delicacy.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q31",
+    "chapter_id": "c8",
+    "question": "The lady was ________ than the narrator expected when he first met her.",
+    "options": ["Thinner", "Younger", "Older and more talkative", "Quieter"],
+    "correct_index": 2,
+    "explanation": "She was older than he expected and gave the impression of having more teeth than were necessary for practical purposes.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q32",
+    "chapter_id": "c8",
+    "question": "How did the narrator feel when he was paying the bill?",
+    "options": ["Proud", "Indifferent", "Panic-stricken", "Excited"],
+    "correct_index": 2,
+    "explanation": "He was seized by panic as he worried he wouldn't have enough money.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q33",
+    "chapter_id": "c8",
+    "question": "Which of these words means 'extremely embarrassing' according to the text?",
+    "options": ["Ingratiating", "Mortifying", "Complacency", "Vindictive"],
+    "correct_index": 1,
+    "explanation": "Mortifying is the word used in the vocabulary to mean embarrassing.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q34",
+    "chapter_id": "c8",
+    "question": "What does 'complacency' mean in the context of the story's ending?",
+    "options": ["Sadness", "Self-satisfaction", "Anger", "Confusion"],
+    "correct_index": 1,
+    "explanation": "Complacency means a feeling of smug or uncritical satisfaction with oneself.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q35",
+    "chapter_id": "c8",
+    "question": "The lady’s 'devastating passion' mentioned in the vocabulary refers to her ________.",
+    "options": ["Love for the narrator", "Appetite for food", "Interest in plays", "Anger"],
+    "correct_index": 1,
+    "explanation": "Her passion was for high-quality, expensive food.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q36",
+    "chapter_id": "c8",
+    "question": "Who was passing through Paris and requested the meeting?",
+    "options": ["A French Senator", "The narrator's mother", "The lady", "The waiter"],
+    "correct_index": 2,
+    "explanation": "The lady wrote to the narrator saying she was passing through Paris.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q37",
+    "chapter_id": "c8",
+    "question": "The narrator was 'flattered' because:",
+    "options": ["He won a prize", "A reader took interest in his work", "He was given a job", "He was handsome"],
+    "correct_index": 1,
+    "explanation": "He was a young author and was flattered that someone liked his book.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q38",
+    "chapter_id": "c8",
+    "question": "The lady said, 'Follow my example and never eat more than ________ thing for luncheon.'",
+    "options": ["Zero", "One", "Two", "Three"],
+    "correct_index": 1,
+    "explanation": "She constantly gave this advice while eating more than five things.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q39",
+    "chapter_id": "c8",
+    "question": "Which of the following was NOT eaten by the lady during the luncheon?",
+    "options": ["Salmon", "Asparagus", "Beef Steak", "Peach"],
+    "correct_index": 2,
+    "explanation": "The lady never ordered a beef steak; she stuck to 'light' expensive things.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q40",
+    "chapter_id": "c8",
+    "question": "The bill for the luncheon was ________.",
+    "options": ["Moderate", "Low", "Inordinately high for the narrator", "Paid by the lady"],
+    "correct_index": 2,
+    "explanation": "The total came out to be so high that the narrator had no money left for himself.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q41",
+    "chapter_id": "c8",
+    "question": "What is 'vindictive'?",
+    "options": ["Having a strong desire for revenge", "Being very kind", "Being very hungry", "Being rich"],
+    "correct_index": 0,
+    "explanation": "Vindictive means showing a strong or unreasoning desire for revenge.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q42",
+    "chapter_id": "c8",
+    "question": "The narrator describes the lady's talk as 'bright and ________'.",
+    "options": ["Silent", "Voluble", "Short", "Angry"],
+    "correct_index": 1,
+    "explanation": "Voluble means talkative, which the lady certainly was.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q43",
+    "chapter_id": "c8",
+    "question": "The 'immortal gods' in the story refers to ________.",
+    "options": ["The theater actors", "Fate or destiny", "The French senators", "The waiters"],
+    "correct_index": 1,
+    "explanation": "He implies that Fate punished the lady for her greed.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q44",
+    "chapter_id": "c8",
+    "question": "What did the lady think of the narrator after he ordered only a mutton chop?",
+    "options": ["He was healthy", "He was wise", "He was a humorist who was making a mistake by eating meat", "He was poor"],
+    "correct_index": 2,
+    "explanation": "She looked at him with 'unpleasant' surprise and lectured him on eating 'heavy' meat.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q45",
+    "chapter_id": "c8",
+    "question": "The narrator was earning barely enough to keep 'body and ________' together.",
+    "options": ["Soul", "Clothes", "Mind", "House"],
+    "correct_index": 0,
+    "explanation": "The expression 'body and soul together' means to survive on very little money.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q46",
+    "chapter_id": "c8",
+    "question": "How many years had passed between the meal and the encounter at the theater?",
+    "options": ["Five", "Ten", "Twenty", "Thirty"],
+    "correct_index": 2,
+    "explanation": "The text states it was twenty years ago.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q47",
+    "chapter_id": "c8",
+    "question": "The lady’s 'ingratiating' smile is one that is intended to ________.",
+    "options": ["Scare", "Gain favor or approval", "Show anger", "Hide sadness"],
+    "correct_index": 1,
+    "explanation": "Ingratiating means intended to gain approval or favor.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q48",
+    "chapter_id": "c8",
+    "question": "Foyot's is described as a restaurant where ________ eat.",
+    "options": ["Artists", "Students", "French Senators", "Tourists"],
+    "correct_index": 2,
+    "explanation": "It was a high-end place frequented by French senators.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q49",
+    "chapter_id": "c8",
+    "question": "What was the narrator's state of mind at the end of the luncheon?",
+    "options": ["Fulfilled", "Miserable and worried about the month", "Happy to have a new friend", "Sleepy"],
+    "correct_index": 1,
+    "explanation": "He was financially ruined for the month.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "lun_q50",
+    "chapter_id": "c8",
+    "question": "The narrator says 'I hardly think I would have ________ her' if her name hadn't been mentioned.",
+    "options": ["Liked", "Recognised", "Called", "Hated"],
+    "correct_index": 1,
+    "explanation": "She had changed so much physically that he didn't know who she was at first.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  }
+]
