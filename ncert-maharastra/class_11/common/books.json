@@ -2,13 +2,13 @@
   "books": [
     {
       "id": 1106,
-      "title": "Mathematics",
+      "title": "Mathematics and Statistics Part 1",
       "subtitle": "Class 11 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=1Qsf409xhhWRUpg6bfu56Bo3opmy8dt4G",
+      "coverUrl": "",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Mathematics",
-      "chapterCount": 15,
+      "chapterCount": 9,
       "parts": 2
     },
     {
@@ -81,7 +81,7 @@
       "id": 1148,
       "title": "Psychology",
       "subtitle": "Class 11 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=1Zi4RmpIYh43LL0X9vNoGdOgpDi1M6EKh",
+      "coverUrl": "",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Psychology",
@@ -98,6 +98,17 @@
       "subject": "Physical Education",
       "chapterCount": 10,
       "parts": 1
+    },
+    {
+      "id": 1302,
+      "title": "Mathematics and Statistics Part 2",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 9,
+      "parts": 2
     }
   ]
 }

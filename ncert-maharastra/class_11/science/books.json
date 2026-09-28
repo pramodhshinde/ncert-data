@@ -2,25 +2,14 @@
   "books": [
     {
       "id": 1101,
-      "title": "Physics Part I",
+      "title": "Physics",
       "subtitle": "Class 11 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=1By-oZ-MTfasbiRI2VdozBLoulAto9Ssb",
+      "coverUrl": "",
       "language": "english",
       "classNumber": "Class 11",
       "subject": "Physics",
-      "chapterCount": 7,
-      "parts": 2
-    },
-    {
-      "id": 1102,
-      "title": "Physics Part II",
-      "subtitle": "Class 11 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/uc?export=download&id=1L6VbWBcW3GzBWmfw0ReNQobhQhF2VVoT",
-      "language": "english",
-      "classNumber": "Class 11",
-      "subject": "Physics",
-      "chapterCount": 7,
-      "parts": 2
+      "chapterCount": 14,
+      "parts": 1
     },
     {
       "id": 1103,
@@ -45,6 +34,17 @@
       "parts": 1
     },
     {
+      "id": 1106,
+      "title": "Mathematics and Statistics Part 1",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 9,
+      "parts": 2
+    },
+    {
       "id": 1108,
       "title": "Biotechnology",
       "subtitle": "Class 11 Maharashtra State Board Textbook",
@@ -54,6 +54,17 @@
       "subject": "Biotechnology",
       "chapterCount": 12,
       "parts": 1
+    },
+    {
+      "id": 1302,
+      "title": "Mathematics and Statistics Part 2",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 9,
+      "parts": 2
     }
   ]
 }

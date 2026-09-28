@@ -76,6 +76,50 @@
       "subject": "Information Technology",
       "chapterCount": 4,
       "parts": 1
+    },
+    {
+      "id": 1303,
+      "title": "Mathematics and Statistics Part 1 (Commerce)",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics and Statistics",
+      "chapterCount": 9,
+      "parts": 2
+    },
+    {
+      "id": 1304,
+      "title": "Mathematics and Statistics Part 2 (Commerce)",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics and Statistics",
+      "chapterCount": 9,
+      "parts": 2
+    },
+    {
+      "id": 1305,
+      "title": "Organisation of Commerce and Management",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Organisation of Commerce and Management",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1307,
+      "title": "Secretarial Practice",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Secretarial Practice",
+      "chapterCount": 12,
+      "parts": 1
     }
   ]
 }
