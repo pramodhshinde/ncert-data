@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "ajt_q01",
+    "chapter_id": "c20",
+    "question": "Who is the poet of 'Ajamil and the Tigers'?",
+    "options": ["Dilip Chitre", "Arun Kolatkar", "Nissim Ezekiel", "Philip Larkin"],
+    "correct_index": 1,
+    "explanation": "The poem 'Ajamil and the Tigers' is written by Arun Kolatkar.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q02",
+    "chapter_id": "c20",
+    "question": "The poem is an excerpt from which long poem in thirty-one sections?",
+    "options": ["Kala Ghoda", "Jejuri", "Sarpa Satra", "The Boatride"],
+    "correct_index": 1,
+    "explanation": "The biographical note states the poem is an excerpt from 'Jejuri'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q03",
+    "chapter_id": "c20",
+    "question": "For how long had the tiger people been starving at the start of the poem?",
+    "options": ["7 days and nights", "10 days and 11 nights", "15 days and 16 nights", "One month"],
+    "correct_index": 2,
+    "explanation": "The tigers tell their king they've had nothing to eat for '15 days and 16 nights'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q04",
+    "chapter_id": "c20",
+    "question": "Who is the shepherd mentioned in the poem?",
+    "options": ["Elkana", "Ajamil", "Satyajit", "Bassett"],
+    "correct_index": 1,
+    "explanation": "Ajamil is the character who owns the sheep and the sheepdog.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q05",
+    "chapter_id": "c20",
+    "question": "Why were the tigers unable to get close to the meat (sheep)?",
+    "options": ["Ajamil was always awake", "A new sheepdog was guarding them", "The sheep moved to the city", "The tigers were too old"],
+    "correct_index": 1,
+    "explanation": "The tigers complain that Ajamil's new sheepdog won't let them get within a mile of meat.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q06",
+    "chapter_id": "c20",
+    "question": "What happens when the tiger king first goes alone to 'teach the dog a lesson'?",
+    "options": ["He kills the dog", "He returns with a black patch on his eye and tail in a sling", "He makes a friend", "He eats a sheep"],
+    "correct_index": 1,
+    "explanation": "The king returns defeated and injured after an hour.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q07",
+    "chapter_id": "c20",
+    "question": "How many tigers, including the king, were taken as prisoners by the dog?",
+    "options": ["10", "25", "51", "100"],
+    "correct_index": 2,
+    "explanation": "The poem mentions 'the 50 tigers and the tiger king' were taken prisoner.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q08",
+    "chapter_id": "c20",
+    "question": "The dog was described as being in ________ places all at once.",
+    "options": ["Two", "Fifty", "Fifty-one", "A thousand"],
+    "correct_index": 2,
+    "explanation": "The poem says 'The dog was in 51 places all at once' to guard against the 51 tigers.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q09",
+    "chapter_id": "c20",
+    "question": "When the tigers are captured, the tiger king tries to negotiate by claiming it was all a:",
+    "options": ["Mistake", "Joking matter", "Friendly visit", "Banquet invitation"],
+    "correct_index": 1,
+    "explanation": "The king tells Ajamil, 'we just came for a laugh' and calls it a 'misunderstanding'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q10",
+    "chapter_id": "c20",
+    "question": "What does Ajamil do after the tiger king's explanation?",
+    "options": ["He kills the tigers", "He sets them free and invites them to a feast", "He fires the dog", "He moves to another land"],
+    "correct_index": 1,
+    "explanation": "Ajamil, described as a 'good shepherd', gives them a gift of 15 sheep and signs a friendship treaty.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q11",
+    "chapter_id": "c20",
+    "question": "The poem uses 'sheep and tigers' as a figurative representation of:",
+    "options": ["Evolution", "Political classes and social systems", "Zoo management", "Animal rights"],
+    "correct_index": 1,
+    "explanation": "The poem is a satire on the political class and their 'common bond' at the expense of the system.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q12",
+    "chapter_id": "c20",
+    "question": "What is the dog's reaction when Ajamil lets the tigers go?",
+    "options": ["He barks happily", "He is silent but looks at Ajamil with 'puzzled' eyes", "He tries to attack again", "He runs away"],
+    "correct_index": 1,
+    "explanation": "The dog is confused by the master's decision to compromise with the enemy he just defeated.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q13",
+    "chapter_id": "c20",
+    "question": "What does Ajamil do when the dog looks at him for an explanation?",
+    "options": ["He explains the treaty", "He refuses to meet the dog's eyes", "He pets the dog", "He shouts at the dog"],
+    "correct_index": 1,
+    "explanation": "Ajamil 'refused to meet the dog’s eyes', indicating his guilt or political maneuvering.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q14",
+    "chapter_id": "c20",
+    "question": "The tigers and sheep drinking from the same pond signifies a '________ bond'.",
+    "options": ["Secret", "Common", "Weak", "Broken"],
+    "correct_index": 1,
+    "explanation": "The poem ends with tigers and sheep sharing a 'common bond' once the deal is made.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q15",
+    "chapter_id": "c20",
+    "question": "Arun Kolatkar earned a diploma in which field from the J.J. School of Arts?",
+    "options": ["Sculpture", "Painting", "Architecture", "Music"],
+    "correct_index": 1,
+    "explanation": "Kolatkar earned a diploma in painting from the J.J. School of Arts, Mumbai.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q16",
+    "chapter_id": "c20",
+    "question": "What does the phrase 'cramps our style' mean in the poem?",
+    "options": ["Gives them a stomach ache", "Prevents them from acting as they normally do (hunting)", "Makes them run faster", "Changes their fur"],
+    "correct_index": 1,
+    "explanation": "The tigers feel restricted by the presence of the dog.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q17",
+    "chapter_id": "c20",
+    "question": "Who warned the tiger king to be 'Careful' before his first attack?",
+    "options": ["The dog", "The queen (tiger)", "The subjects", "Ajamil"],
+    "correct_index": 1,
+    "explanation": "The tiger queen says 'Careful' before the king leaves into the darkness.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q18",
+    "chapter_id": "c20",
+    "question": "The tiger king calls the dog a 'son of a ________'.",
+    "options": ["Bitch", "Tiger", "Wolf", "Lamb"],
+    "correct_index": 0,
+    "explanation": "The king uses this insult when planning to outnumber the dog.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q19",
+    "chapter_id": "c20",
+    "question": "What happens 'Quick as lightning'?",
+    "options": ["The tigers ran away", "The sheep dog captured the tigers", "Ajamil played the flute", "The rain started"],
+    "correct_index": 1,
+    "explanation": "The speed of the dog's defense is compared to lightning.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q20",
+    "chapter_id": "c20",
+    "question": "How did Ajamil react to the tigers' lies about coming 'just for a laugh'?",
+    "options": ["He laughed with them", "He pretended to believe every single word", "He called them liars", "He went back to sleep"],
+    "correct_index": 1,
+    "explanation": "Ajamil plays along with the political game: 'pretended to believe every single word'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q21",
+    "chapter_id": "c20",
+    "question": "What is the tone of the poem?",
+    "options": ["Tragic", "Satirical", "Romantic", "Scientific"],
+    "correct_index": 1,
+    "explanation": "The poem is a satire directed against the political class and their compromises.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q22",
+    "chapter_id": "c20",
+    "question": "Kolatkar wrote in which two languages?",
+    "options": ["Hindi and English", "Marathi and English", "Gujarati and English", "Bengali and English"],
+    "correct_index": 1,
+    "explanation": "He writes in both English and Marathi.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q23",
+    "chapter_id": "c20",
+    "question": "In the context of the satire, 'playing a flute all day' suggests:",
+    "options": ["Ajamil is a musician", "The master is detached from the reality of the struggle/danger", "The sheep love music", "The dog is distracted"],
+    "correct_index": 1,
+    "explanation": "It refers to the ease and lack of worry the leader enjoys once a deal is struck with the 'enemy'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q24",
+    "chapter_id": "c20",
+    "question": "What 'hitch' was the tiger king referring to?",
+    "options": ["The dog's speed", "His previous defeat", "A problem in the plan", "The weather"],
+    "correct_index": 1,
+    "explanation": "He says 'this time there will be no hitch' when planning the mass attack.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q25",
+    "chapter_id": "c20",
+    "question": "The tigers were taken as 'prisoners of ________'.",
+    "options": ["Peace", "War", "Love", "The master"],
+    "correct_index": 1,
+    "explanation": "The dog treats the captured tigers as POWs.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q26",
+    "chapter_id": "c20",
+    "question": "What color was the patch on the tiger king's eye?",
+    "options": ["Red", "White", "Black", "Yellow"],
+    "correct_index": 2,
+    "explanation": "He returns with a 'black patch' after his first encounter.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q27",
+    "chapter_id": "c20",
+    "question": "The tigers were starving for 15 days and ________ nights.",
+    "options": ["14", "15", "16", "17"],
+    "correct_index": 2,
+    "explanation": "The text explicitly says '15 days and 16 nights'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q28",
+    "chapter_id": "c20",
+    "question": "Ajamil is described as not being a '________' despite his pretense.",
+    "options": ["King", "Fool", "Singer", "Saint"],
+    "correct_index": 1,
+    "explanation": "The poem states 'Ajamil wasn't a fool'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q29",
+    "chapter_id": "c20",
+    "question": "The 'banquet' preparations mentioned by the tiger king were intended for:",
+    "options": ["The dog", "The tigers eating the sheep", "A peace party", "Ajamil's wedding"],
+    "correct_index": 1,
+    "explanation": "The king initially plans a feast of sheep after 'teaching the dog a lesson'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q30",
+    "chapter_id": "c20",
+    "question": "The 'friendship treaty' was signed for:",
+    "options": ["One day", "A year", "Life", "An hour"],
+    "correct_index": 2,
+    "explanation": "They signed 'a long term friendship treaty'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q31",
+    "chapter_id": "c20",
+    "question": "The sheepdog's 'extra-ordinary' feet allowed him to:",
+    "options": ["Run miles", "Be in many places at once", "Climb trees", "Swim"],
+    "correct_index": 1,
+    "explanation": "The dog's defensive speed and efficiency are the focus.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q32",
+    "chapter_id": "c20",
+    "question": "The poem suggests that 'tigers' (predators) and 'shepherds' (leaders) often:",
+    "options": ["Fight to the death", "Colude/Reach secret agreements", "Hate each other", "Ignore each other"],
+    "correct_index": 1,
+    "explanation": "The satire targets the collaboration between ostensibly opposing power figures.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q33",
+    "chapter_id": "c20",
+    "question": "A German translation of 'Jejuri' was published in which year?",
+    "options": ["1970", "1980", "1984", "1990"],
+    "correct_index": 2,
+    "explanation": "The note mentions a 1984 German publication.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q34",
+    "chapter_id": "c20",
+    "question": "The tiger king says he knows 'the lie of the ________'.",
+    "options": ["Sea", "Land", "Forest", "Mountain"],
+    "correct_index": 1,
+    "explanation": "He uses the common expression 'lie of the land' when planning his attack.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q35",
+    "chapter_id": "c20",
+    "question": "How many tigers went to their king at the beginning?",
+    "options": ["The tiger people (plural)", "Only one", "Fifty", "Two"],
+    "correct_index": 0,
+    "explanation": "The poem starts with 'The tiger people went to their king'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q36",
+    "chapter_id": "c20",
+    "question": "Which animal did the tigers want to eat?",
+    "options": ["Dogs", "Wolves", "Sheep", "Deer"],
+    "correct_index": 2,
+    "explanation": "They are starving because they can't get to Ajamil's sheep.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q37",
+    "chapter_id": "c20",
+    "question": "The sheepdog is described as 'taking them all in' as:",
+    "options": ["Friends", "Prisoners of war", "Guests", "Sheep"],
+    "correct_index": 1,
+    "explanation": "The poem uses the military term 'prisoners of war'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q38",
+    "chapter_id": "c20",
+    "question": "Ajamil is called a 'good ________' in the poem.",
+    "options": ["King", "Tiger", "Shepherd", "Musician"],
+    "correct_index": 2,
+    "explanation": "The term used is 'the good shepherd Ajamil'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q39",
+    "chapter_id": "c20",
+    "question": "The tiger king's tail was in a ________ when he returned.",
+    "options": ["Knot", "Sling", "Bush", "Sheep's mouth"],
+    "correct_index": 1,
+    "explanation": "He returned with his 'tail in a sling', a sign of injury.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q40",
+    "chapter_id": "c20",
+    "question": "Ajamil 'gave them a gift of 15 ________'.",
+    "options": ["Tigers", "Dogs", "Sheep", "Gold coins"],
+    "correct_index": 2,
+    "explanation": "As part of the deal, he gives them sheep to eat.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q41",
+    "chapter_id": "c20",
+    "question": "The dog felt ________ after the master's decision.",
+    "options": ["Happy", "Puzzled", "Angry", "Fearful"],
+    "correct_index": 1,
+    "explanation": "The poem mentions the dog's 'puzzled eyes'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q42",
+    "chapter_id": "c20",
+    "question": "The 'banquet' becomes a reality for the tigers because of:",
+    "options": ["Their victory", "Ajamil's 'kindness'/compromise", "The dog's failure", "The sheep's choice"],
+    "correct_index": 1,
+    "explanation": "It is the shepherd who finally provides the meat they couldn't take by force.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q43",
+    "chapter_id": "c20",
+    "question": "The poem 'Ajamil and the Tigers' is primarily a:",
+    "options": ["Fable", "Allegory", "Satire", "All of the above"],
+    "correct_index": 3,
+    "explanation": "It uses animal characters (fable) to convey a hidden meaning (allegory) and mock social issues (satire).",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q44",
+    "chapter_id": "c20",
+    "question": "Kolatkar was 'educated in ________'.",
+    "options": ["Mumbai", "Pune", "Delhi", "London"],
+    "correct_index": 1,
+    "explanation": "The biographical note says he was educated in Pune.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q45",
+    "chapter_id": "c20",
+    "question": "The tigers say the dog 'won't let us get within a ________ of meat'.",
+    "options": ["Yard", "Mile", "Step", "Meter"],
+    "correct_index": 1,
+    "explanation": "The text says 'within a mile of meat'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q46",
+    "chapter_id": "c20",
+    "question": "The tiger king returned 'Alone into the darkness before the ________'.",
+    "options": ["Night", "Dawn", "Storm", "End"],
+    "correct_index": 1,
+    "explanation": "The king left and returned before dawn.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q47",
+    "chapter_id": "c20",
+    "question": "The dog was 'in 51 places all at once' to counter ________ tigers.",
+    "options": ["50", "51", "100", "Zero"],
+    "correct_index": 1,
+    "explanation": "He needed to guard against each of the 50 tigers and their king.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q48",
+    "chapter_id": "c20",
+    "question": "The tigers 'never had a ________' against the dog.",
+    "options": ["Thought", "Chance", "Fight", "Meal"],
+    "correct_index": 1,
+    "explanation": "The poem states 'They never had a chance'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q49",
+    "chapter_id": "c20",
+    "question": "After the treaty, the tigers were 'well ________'.",
+    "options": ["Tired", "Fed", "Hidden", "Dressed"],
+    "correct_index": 1,
+    "explanation": "The poem refers to 'well fed tigers'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "ajt_q50",
+    "chapter_id": "c20",
+    "question": "The sheep are described as '________' at the end of the poem.",
+    "options": ["Thin", "Fat", "Scared", "Happy"],
+    "correct_index": 1,
+    "explanation": "The line reads 'fat sheep drink from the same pond'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  }
+]

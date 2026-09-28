@@ -1,0 +1,647 @@
+[
+  {
+    "mcq_id": "eco_c5_q01",
+    "chapter_id": "c5",
+    "question": "What did Mahatma Gandhi identify as the real progress of India?",
+    "options": [
+      "Growth of industrial urban centres",
+      "Development of the villages",
+      "Expansion of foreign trade",
+      "Modernisation of the army"
+    ],
+    "correct_index": 1,
+    "explanation": "Mahatma Gandhi once said that the real progress of India did not mean simply the growth and expansion of industrial urban centres but mainly the development of the villages.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q02",
+    "chapter_id": "c5",
+    "question": "Which of the following is NOT a key area for rural development mentioned in the text?",
+    "options": [
+      "Development of human resources",
+      "Land reforms",
+      "Infrastructure development",
+      "Developing nuclear energy"
+    ],
+    "correct_index": 3,
+    "explanation": "Key areas include human resource development (literacy, health), land reforms, infrastructure (irrigation, credit, roads), and poverty alleviation. Nuclear energy is not mentioned as a rural development focus.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q03",
+    "chapter_id": "c5",
+    "question": "Rural credit is often needed by farmers because of the long time gap between ________ and ________.",
+    "options": [
+      "Buying seeds; Sowing",
+      "Crop sowing; Realisation of income",
+      "Rain; Harvest",
+      "Applying for loans; Getting money"
+    ],
+    "correct_index": 1,
+    "explanation": "Farmers must wait a long time between crop sowing and the realisation of income after production, necessitating credit for initial inputs.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q04",
+    "chapter_id": "c5",
+    "question": "In which year was the National Bank for Agriculture and Rural Development (NABARD) set up?",
+    "options": ["1969", "1975", "1982", "1991"],
+    "correct_index": 2,
+    "explanation": "NABARD was set up in 1982 as an apex body to coordinate the activities of institutions involved in the rural financing system.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q05",
+    "chapter_id": "c5",
+    "question": "What does SHG stand for in the context of rural financing?",
+    "options": [
+      "Small Household Group",
+      "Self-Help Group",
+      "Social Health Group",
+      "Standard Harvest Group"
+    ],
+    "correct_index": 1,
+    "explanation": "SHGs (Self-Help Groups) have emerged to fill the gap in the formal credit system by promoting small savings among members.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q06",
+    "chapter_id": "c5",
+    "question": "The SHG-Bank Linkage Programme for micro-credit is mentored by which organization?",
+    "options": ["RBI", "SBI", "NABARD", "Ministry of Finance"],
+    "correct_index": 2,
+    "explanation": "By May 2019, nearly 6 crore women in India had become members in 54 lakh SHGs under the linkage programme mentored by NABARD.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q07",
+    "chapter_id": "c5",
+    "question": "What is the primary reason for the 'distress sale' by farmers?",
+    "options": [
+      "Lack of interest in farming",
+      "High quality of crops",
+      "Lack of storage facilities and immediate need for cash",
+      "Government pressure to sell"
+    ],
+    "correct_index": 2,
+    "explanation": "Farmers often sell their produce at a low price to traders due to the lack of storage and the need to pay back debts immediately.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q08",
+    "chapter_id": "c5",
+    "question": "Which of the following is NOT one of the four measures taken by the government to improve agricultural marketing?",
+    "options": [
+      "Regulation of markets",
+      "Provision of physical infrastructure",
+      "Fixed prices for all private traders",
+      "Cooperative marketing"
+    ],
+    "correct_index": 2,
+    "explanation": "Government measures include regulated markets, physical infrastructure, cooperative marketing, and policy instruments like MSP; it does not fix prices for private traders.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q09",
+    "chapter_id": "c5",
+    "question": "What does MSP stand for in agricultural policy?",
+    "options": [
+      "Maximum Selling Price",
+      "Minimum Support Price",
+      "Minimum Stock Price",
+      "Market Support Programme"
+    ],
+    "correct_index": 1,
+    "explanation": "MSP stands for Minimum Support Price, an assurance by the government to purchase agricultural produce at a pre-decided price.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q10",
+    "chapter_id": "c5",
+    "question": "Which organization is responsible for maintaining the 'Buffer Stock' of food grains in India?",
+    "options": [
+      "NABARD",
+      "Food Corporation of India (FCI)",
+      "National Green Corps",
+      "NITI Aayog"
+    ],
+    "correct_index": 1,
+    "explanation": "FCI (Food Corporation of India) maintains buffer stocks of wheat and rice to ensure food security.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q11",
+    "chapter_id": "c5",
+    "question": "The 'Rythu Bazars' (farmers' markets) are an initiative in which state?",
+    "options": ["Punjab", "Tamil Nadu", "Andhra Pradesh and Telangana", "Maharashtra"],
+    "correct_index": 2,
+    "explanation": "Rythu Bazars in Andhra Pradesh and Telangana are direct marketing channels where farmers sell directly to consumers.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q12",
+    "chapter_id": "c5",
+    "question": "Why is 'Diversification' of agricultural activities necessary?",
+    "options": [
+      "To increase the population",
+      "To provide sustainable livelihood and reduce risk of dependence on agriculture alone",
+      "To stop farming completely",
+      "To help industrial urban centres"
+    ],
+    "correct_index": 1,
+    "explanation": "Diversification is essential to provide sustainable livelihood options to people and reduce risk associated with total dependence on agriculture.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q13",
+    "chapter_id": "c5",
+    "question": "The 'Operation Flood' or 'White Revolution' is related to the production of:",
+    "options": ["Rice", "Fish", "Milk", "Fertilizers"],
+    "correct_index": 2,
+    "explanation": "Operation Flood is the system of milk cooperatives that has made India one of the largest milk producers in the world.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q14",
+    "chapter_id": "c5",
+    "question": "India currently ranks ________ in the world in milk production.",
+    "options": ["First", "Second", "Fifth", "Tenth"],
+    "correct_index": 0,
+    "explanation": "India ranks first in the world in milk production due to the success of Operation Flood.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q15",
+    "chapter_id": "c5",
+    "question": "Which of the following is a 'non-farm' sector for rural livelihood?",
+    "options": ["Cereal cultivation", "Animal husbandry", "Small scale industries", "Horticulture"],
+    "correct_index": 2,
+    "explanation": "Non-farm sectors include dynamic sub-sectors like agro-processing and food processing, while animal husbandry and horticulture are allied agricultural sectors.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q16",
+    "chapter_id": "c5",
+    "question": "Inland sources contribute what percentage of total fish production in India?",
+    "options": ["25%", "36%", "64%", "90%"],
+    "correct_index": 2,
+    "explanation": "Presently, fish production from inland sources contributes about 64 per cent to the total fish production.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q17",
+    "chapter_id": "c5",
+    "question": "The period between 1991–2003 is often called the 'Golden Revolution' because of the growth in:",
+    "options": ["Gold mining", "Wheat production", "Horticulture", "Milk production"],
+    "correct_index": 2,
+    "explanation": "The period of 1991–2003 is called the Golden Revolution because of the surge in production of fruits, vegetables, honey, and other horticultural products.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q18",
+    "chapter_id": "c5",
+    "question": "Which state has the 'TANWA' project to train women in latest agricultural techniques?",
+    "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Kerala"],
+    "correct_index": 2,
+    "explanation": "TANWA (Tamil Nadu Women in Agriculture) is a project in Tamil Nadu to train women in organic farming and latest techniques.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q19",
+    "chapter_id": "c5",
+    "question": "What is the main drawback of 'Organic Farming' in its initial years?",
+    "options": [
+      "It uses too many chemicals",
+      "The yield is often lower than conventional farming in the beginning",
+      "It requires no labor",
+      "The food produced is unhealthy"
+    ],
+    "correct_index": 1,
+    "explanation": "The text notes that yields from organic farming are less than modern chemical farming in the initial years.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q20",
+    "chapter_id": "c5",
+    "question": "The term 'Sustainable Development' is closely associated with which type of farming?",
+    "options": ["Chemical farming", "Monoculture", "Organic farming", "Industrial farming"],
+    "correct_index": 2,
+    "explanation": "Organic farming is seen as a way to restore, maintain, and enhance the ecological balance and promote sustainable development.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q21",
+    "chapter_id": "c5",
+    "question": "What does the 11th Schedule of the Constitution focus on for local government?",
+    "options": [
+      "Urban planning only",
+      "Transferring 29 subjects to Panchayati Raj Institutions",
+      "Military defense",
+      "Railway management"
+    ],
+    "correct_index": 1,
+    "explanation": "The 11th Schedule transferred 29 subjects, previously with State governments, to Panchayati Raj institutions for rural development.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q22",
+    "chapter_id": "c5",
+    "question": "The 'Kudumbashree' project in Kerala is associated with:",
+    "options": [
+      "Fishing industry",
+      "Women-oriented community-based poverty reduction",
+      "Organic farming only",
+      "IT development in villages"
+    ],
+    "correct_index": 1,
+    "explanation": "Kudumbashree is a women-oriented community-based poverty reduction programme being implemented in Kerala.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q23",
+    "chapter_id": "c5",
+    "question": "Cooperative marketing societies provide better bargaining power to farmers by:",
+    "options": [
+      "Fighting with traders",
+      "Selling produce as a collective",
+      "Buying more land",
+      "Avoiding the market entirely"
+    ],
+    "correct_index": 1,
+    "explanation": "In cooperative marketing, farmers sell their produce as a group, giving them better bargaining power and ensuring better prices.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q24",
+    "chapter_id": "c5",
+    "question": "Which of these is a major component of 'Physical Infrastructure' in rural areas?",
+    "options": ["School education", "Health literacy", "Roads and irrigation", "Gender equality"],
+    "correct_index": 2,
+    "explanation": "Physical infrastructure refers to roads, railways, waterways, and power/irrigation systems.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q25",
+    "chapter_id": "c5",
+    "question": "The 'Apni Mandi' initiative is found in which region?",
+    "options": ["Kerala", "Tamil Nadu", "Punjab, Haryana and Rajasthan", "Maharashtra"],
+    "correct_index": 2,
+    "explanation": "Apni Mandi is a direct marketing channel for farmers in Punjab, Haryana, and Rajasthan.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q26",
+    "chapter_id": "c5",
+    "question": "In 'Animal Husbandry', which species accounts for the largest share (approx 44%) in India?",
+    "options": ["Sheep and Goats", "Cattle and Buffaloes", "Poultry", "Pigs"],
+    "correct_index": 2,
+    "explanation": "Poultry accounts for the largest share with 42 per cent (corrected 44 in later text) followed by others.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q27",
+    "chapter_id": "c5",
+    "question": "Livestock sector provides alternate livelihood options to over ________ small and marginal farmers.",
+    "options": ["10 million", "30 million", "70 million", "100 million"],
+    "correct_index": 2,
+    "explanation": "Livestock sector provides alternate livelihood options to over 70 million small and marginal farmers including landless labourers.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q28",
+    "chapter_id": "c5",
+    "question": "In fishing communities, the 'fishing fleet' is mostly operated by ________ while ________ are involved in marketing and internal distribution.",
+    "options": ["Women; Men", "Men; Women", "Children; Adults", "Traders; Farmers"],
+    "correct_index": 1,
+    "explanation": "In fishing, men go to sea to catch fish, but women are heavily involved in the internal marketing and distribution.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q29",
+    "chapter_id": "c5",
+    "question": "India has emerged as the ________ largest producer of fruits and vegetables in the world.",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "correct_index": 1,
+    "explanation": "India has emerged as a world leader in producing a variety of fruits and vegetables, ranking second globally.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q30",
+    "chapter_id": "c5",
+    "question": "Which of these products is NOT a focus of horticulture?",
+    "options": ["Fruits", "Medicinal plants", "Spices", "Wheat"],
+    "correct_index": 3,
+    "explanation": "Horticulture includes fruits, vegetables, flowers, medicinal and aromatic plants, and spices; wheat is a food grain crop.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q31",
+    "chapter_id": "c5",
+    "question": "The 'Information Technology' (IT) sector helps in rural development by:",
+    "options": [
+      "Providing video games",
+      "Predicting food insecurity and helping farmers through weather info",
+      "Building more cars",
+      "Stopping farm production"
+    ],
+    "correct_index": 1,
+    "explanation": "IT can help predict areas of food insecurity and provide farmers with info on prices and weather, reducing risks.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q32",
+    "chapter_id": "c5",
+    "question": "Organic food is more expensive to produce because:",
+    "options": [
+      "It uses no labor",
+      "Yield is low and it requires more labor for pest control and monitoring",
+      "Seeds are free",
+      "It lasts for years without spoiling"
+    ],
+    "correct_index": 1,
+    "explanation": "Organic farming is more labour intensive and initial yields are low, making the produce more expensive.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q33",
+    "chapter_id": "c5",
+    "question": "Which of these is an example of an 'Intermediary' abolished during land reforms?",
+    "options": ["Small farmer", "Money lender", "Zamindar", "Scientist"],
+    "correct_index": 2,
+    "explanation": "Zamindars were intermediaries who collected rent but did nothing to improve agriculture.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q34",
+    "chapter_id": "c5",
+    "question": "The 'Uzhavar Sandies' direct marketing initiative belongs to which state?",
+    "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Kerala"],
+    "correct_index": 2,
+    "explanation": "Uzhavar Sandies is a direct farmers' market initiative in Tamil Nadu.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q35",
+    "chapter_id": "c5",
+    "question": "Large-scale retailers like Reliance and ITC often enter into ________ with farmers.",
+    "options": ["War", "Debt traps", "Contracts for procurement at pre-decided prices", "Marriage"],
+    "correct_index": 2,
+    "explanation": "Big retailers enter into contracts with farmers to procure produce at pre-decided prices, helping reduce market risk.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q36",
+    "chapter_id": "c5",
+    "question": "A major challenge for fishing communities in India is:",
+    "options": [
+      "High literacy",
+      "Widespread underemployment and low per capita earnings",
+      "Too much technology",
+      "Abundance of electricity"
+    ],
+    "correct_index": 1,
+    "explanation": "Fishing communities face high levels of poverty, illiteracy, and low earnings.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q37",
+    "chapter_id": "c5",
+    "question": "Organic farming avoids the use of:",
+    "options": ["Water", "Sunlight", "Synthetic chemicals (fertilizers and pesticides)", "Animal manure"],
+    "correct_index": 2,
+    "explanation": "Organic farming replaces chemical fertilizers and pesticides with organic inputs.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q38",
+    "chapter_id": "c5",
+    "question": "The 'Hadaff' farmers market initiative is found in:",
+    "options": ["Tamil Nadu", "Maharashtra", "Punjab", "Gujarat"],
+    "correct_index": 1,
+    "explanation": "Hadaff is a farmers' market in Maharashtra.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q39",
+    "chapter_id": "c5",
+    "question": "During the first phase of the Green Revolution, it was restricted largely to which crops?",
+    "options": ["Rice and Wheat", "Cotton and Jute", "Fruits and Vegetables", "Tea and Coffee"],
+    "correct_index": 0,
+    "explanation": "The Green Revolution was initially restricted to wheat and rice growing regions.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q40",
+    "chapter_id": "c5",
+    "question": "What is the primary objective of a 'Regulated Market'?",
+    "options": [
+      "To increase taxes",
+      "To protect farmers from malpractices of commission agents and traders",
+      "To stop all private trade",
+      "To build more malls"
+    ],
+    "correct_index": 1,
+    "explanation": "Regulated markets aim to ensure transparency and protect farmers from exploitation by middlemen.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q41",
+    "chapter_id": "c5",
+    "question": "The 'Institutional Credit' system in India was significantly expanded after the:",
+    "options": ["Independence in 1947", "Nationalisation of banks in 1969", "First World War", "Suez Canal opening"],
+    "correct_index": 1,
+    "explanation": "The adoption of social banking and multi-agency approach in 1969 helped expand rural credit.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q42",
+    "chapter_id": "c5",
+    "question": "Which animal is NOT part of the 'Animal Husbandry' focus in rural India?",
+    "options": ["Pigs", "Camels", "Tigers", "Buffaloes"],
+    "correct_index": 2,
+    "explanation": "Livestock includes cattle, buffaloes, sheep, goats, pigs, etc.; tigers are wildlife.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q43",
+    "chapter_id": "c5",
+    "question": "The 'Buffer Stock' is maintained primarily to:",
+    "options": [
+      "Sell food to other countries",
+      "Keep food for rich people",
+      "Ensure food security and provide food to poor through PDS",
+      "Save money"
+    ],
+    "correct_index": 2,
+    "explanation": "Buffer stocks are used to distribute food through the Public Distribution System (PDS) to ensure food security.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q44",
+    "chapter_id": "c5",
+    "question": "Approximately what percentage of the total area under horticulture is devoted to fruits and vegetables?",
+    "options": ["10%", "50%", "90%", "30%"],
+    "correct_index": 2,
+    "explanation": "Horticultural crops contribute significantly to the total value of agricultural output. (Note: Reference to 90% in horticulture context).",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q45",
+    "chapter_id": "c5",
+    "question": "Rural development is a ________ term focusing on the social and economic growth of rural areas.",
+    "options": ["Narrow", "Comprehensive", "Scientific", "Secret"],
+    "correct_index": 1,
+    "explanation": "Rural development is a comprehensive term that includes many aspects of life in rural areas.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q46",
+    "chapter_id": "c5",
+    "question": "The lack of 'Cold Storage' facilities leads to which marketing problem?",
+    "options": ["High taxes", "Spoilage of perishable goods and distress sales", "Over-production", "Lack of labor"],
+    "correct_index": 1,
+    "explanation": "Inadequate storage, especially cold storage for fruits/vegetables, forces farmers to sell quickly at low prices.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q47",
+    "chapter_id": "c5",
+    "question": "The SHG member usually contributes a ________ amount to the group fund for lending.",
+    "options": ["Large", "Fixed", "Small proportion", "Mandatory"],
+    "correct_index": 2,
+    "explanation": "Members contribute small savings to the group's common fund.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q48",
+    "chapter_id": "c5",
+    "question": "One limitation of the rural banking system is:",
+    "options": [
+      "Too much money is available",
+      "High rate of overdues (non-repayment)",
+      "It only helps the rich",
+      "Banks are closed on Sundays"
+    ],
+    "correct_index": 1,
+    "explanation": "The rural banking system faces high rates of loan overdues and defaults.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q49",
+    "chapter_id": "c5",
+    "question": "The success of horticulture has made India a ________ power in fruit production.",
+    "options": ["Regional", "Declining", "Global", "Minor"],
+    "correct_index": 2,
+    "explanation": "India is now a world leader (global power) in fruits and vegetables.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_c5_q50",
+    "chapter_id": "c5",
+    "question": "The ultimate goal of rural development is to improve ________ for the rural population.",
+    "options": ["The stock market", "The quality of life and self-reliance", "Foreign imports", "Only the wealth of zamindars"],
+    "correct_index": 1,
+    "explanation": "Rural development aims to enhance the overall quality of life for people in rural areas.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  }
+]

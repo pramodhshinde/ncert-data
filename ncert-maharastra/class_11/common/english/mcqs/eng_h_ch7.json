@@ -1,0 +1,612 @@
+[
+  {
+    "mcq_id": "eng_nm_q01",
+    "chapter_id": "c7",
+    "question": "What is the primary reason why note-making is considered an important study skill?",
+    "options": [
+      "It helps in writing long essays",
+      "It is difficult to remember large chunks of information",
+      "It helps in improving handwriting",
+      "It is a requirement for bird watching"
+    ],
+    "correct_index": 1,
+    "explanation": "Note-making is important because it is difficult to remember large chunks of information, necessitating the drawing of main points.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q02",
+    "chapter_id": "c7",
+    "question": "Which family do pheasants belong to, according to the sample passage?",
+    "options": ["Galliformes", "Phasinidae", "Megapodes", "Francolins"],
+    "correct_index": 1,
+    "explanation": "The text states that pheasants belong to the order Galliformes and family Phasinidae.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q03",
+    "chapter_id": "c7",
+    "question": "The Galliformes are commonly known as:",
+    "options": ["Water birds", "Game birds", "Song birds", "Birds of prey"],
+    "correct_index": 1,
+    "explanation": "The passage identifies the Galliformes as being known as game birds.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q04",
+    "chapter_id": "c7",
+    "question": "How many species of pheasants are there in the world?",
+    "options": ["51", "900", "155", "200"],
+    "correct_index": 0,
+    "explanation": "There are 51 species of pheasants in the world as mentioned in the identification chart.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q05",
+    "chapter_id": "c7",
+    "question": "Which organization brought out the identification chart for pheasants?",
+    "options": ["National Green Corps", "Environment Society of India (ESI)", "World Wildlife Fund", "Eco-clubs"],
+    "correct_index": 1,
+    "explanation": "The identification chart was brought out by the Environment Society of India (ESI).",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q06",
+    "chapter_id": "c7",
+    "question": "What is the primary purpose of the pheasant identification chart?",
+    "options": [
+      "To sell bird seeds",
+      "To create awareness among eco-club members",
+      "To list all birds in the world",
+      "To show how to hunt game birds"
+    ],
+    "correct_index": 1,
+    "explanation": "The purpose of the chart is to create awareness among members of school eco-clubs.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q07",
+    "chapter_id": "c7",
+    "question": "Which of the following is NOT listed as a game bird in the Galliformes order?",
+    "options": ["Quails", "Grouse", "Francolins", "Eagles"],
+    "correct_index": 3,
+    "explanation": "The text lists pheasants, partridges, quails, grouse, francolins, turkeys, and megapodes; eagles are not mentioned.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q08",
+    "chapter_id": "c7",
+    "question": "According to the passage, what are pheasants known for?",
+    "options": ["Their loud calls", "Their brilliant plumage", "Their speed", "Their size"],
+    "correct_index": 1,
+    "explanation": "Pheasants are described as shy, charming birds known for their brilliant plumage.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q09",
+    "chapter_id": "c7",
+    "question": "In the note-making process, what is the first suggested step after reading a passage?",
+    "options": [
+      "Number the pages",
+      "Underline important words and phrases",
+      "Write a summary",
+      "Draw an illustration"
+    ],
+    "correct_index": 1,
+    "explanation": "The first step listed in the note-making procedure is to underline the important words and phrases.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q10",
+    "chapter_id": "c7",
+    "question": "When writing down points for notes, it is recommended to avoid using:",
+    "options": ["Nouns", "Numbers", "Fully expanded verbs", "Abbreviations"],
+    "correct_index": 2,
+    "explanation": "One should write down points without fully expanded verbs.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q11",
+    "chapter_id": "c7",
+    "question": "Which of the following is a key requirement for a student to write effectively?",
+    "options": [
+      "Understand the significance and purpose of writing",
+      "Use only complex words",
+      "Avoid all punctuation",
+      "Write at least 10 pages"
+    ],
+    "correct_index": 0,
+    "explanation": "To write effectively, a student needs to understand the significance and purpose of writing.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q12",
+    "chapter_id": "c7",
+    "question": "Note-making involves changing ________ to nouns to begin points.",
+    "options": ["Adjectives", "Pronouns", "Verbs", "Adverbs"],
+    "correct_index": 2,
+    "explanation": "The guidelines suggest changing verbs to nouns to begin points.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q13",
+    "chapter_id": "c7",
+    "question": "What helps to create 'coherence' in writing?",
+    "options": [
+      "Random facts",
+      "Logical connection of ideas",
+      "Colorful ink",
+      "Short sentences only"
+    ],
+    "correct_index": 1,
+    "explanation": "Effective writing requires developing coherence and employing cohesive devices.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q14",
+    "chapter_id": "c7",
+    "question": "The bulk of the supplies for coal and petroleum were deposited how long ago?",
+    "options": [
+      "10 - 50 million years",
+      "100 - 200 million years",
+      "200 - 600 million years",
+      "1 billion years"
+    ],
+    "correct_index": 2,
+    "explanation": "Supplies were deposited 200 - 600 million years ago.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q15",
+    "chapter_id": "c7",
+    "question": "What prevented the complete decomposition of dead material that eventually became coal?",
+    "options": ["Oxygen", "Salt", "Mud", "Ice"],
+    "correct_index": 2,
+    "explanation": "The material was covered with mud, which prevented complete decomposition.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q16",
+    "chapter_id": "c7",
+    "question": "Coal was formed mostly from which type of plants?",
+    "options": ["Oak trees", "Giant fern-like plants", "Cactus", "Seaweed"],
+    "correct_index": 1,
+    "explanation": "Coal was formed mostly of giant fern-like plants.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q17",
+    "chapter_id": "c7",
+    "question": "Which process turned sediments into rock in the formation of fossil fuels?",
+    "options": ["Evaporation", "Sheer weight/pressure", "Melting", "Erosion"],
+    "correct_index": 1,
+    "explanation": "The sheer weight of layer upon layer of fine sediment turned the sediments to rock.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q18",
+    "chapter_id": "c7",
+    "question": "Fossil fuels like coal and petroleum are described as storage of energy from:",
+    "options": ["The moon", "The wind", "The sun", "The ocean"],
+    "correct_index": 2,
+    "explanation": "The notes describe coal and petroleum as storage of energy from the sun.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q19",
+    "chapter_id": "c7",
+    "question": "Why are significant quantities of coal not being produced on earth today?",
+    "options": [
+      "There are no plants left",
+      "Conditions are not right",
+      "There is no mud",
+      "The sun is not strong enough"
+    ],
+    "correct_index": 1,
+    "explanation": "The text states that 'conditions are not right for the production of significant quantities' today.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q20",
+    "chapter_id": "c7",
+    "question": "The Environment Society of India identification chart includes how many species of pheasants?",
+    "options": ["155", "900", "51", "24"],
+    "correct_index": 2,
+    "explanation": "There are 51 species shown in the identification chart.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q21",
+    "chapter_id": "c7",
+    "question": "When making notes, numbering points helps in:",
+    "options": ["Making notes colorful", "Organizing information clearly", "Counting words", "Avoiding spelling errors"],
+    "correct_index": 1,
+    "explanation": "The exercise suggests numbering points as you write them down to maintain order.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q22",
+    "chapter_id": "c7",
+    "question": "Which of the following is a characteristic of a good note-making practice?",
+    "options": [
+      "Copying the whole text",
+      "Grouping related points",
+      "Using only full sentences",
+      "Writing without a title"
+    ],
+    "correct_index": 1,
+    "explanation": "The document encourages grouping and combining related points.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q23",
+    "chapter_id": "c7",
+    "question": "What provides the pressure needed to produce coal and petroleum between rock layers?",
+    "options": ["Underground rivers", "Sandwiched layers and sheer weight", "Volcanic activity", "Air trapped in mud"],
+    "correct_index": 1,
+    "explanation": "Organic matter was sandwiched between layers and preserved under pressure.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q24",
+    "chapter_id": "c7",
+    "question": "Note-making is defined as drawing the main points because copy-pasting is:",
+    "options": [
+      "Illegal",
+      "Difficult to remember large chunks of information",
+      "Too fast",
+      "Boring"
+    ],
+    "correct_index": 1,
+    "explanation": "We need to draw main points because it is difficult to remember large chunks.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q25",
+    "chapter_id": "c7",
+    "question": "Which of the following is a game bird listed in the passage?",
+    "options": ["Parrot", "Grouse", "Penguin", "Hummingbird"],
+    "correct_index": 1,
+    "explanation": "Grouse is listed among the Galliformes (game birds).",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q26",
+    "chapter_id": "c7",
+    "question": "The 155 families mentioned in the text refer to:",
+    "options": ["People families", "Bird families", "Plant families", "Mineral families"],
+    "correct_index": 1,
+    "explanation": "The text mentions '900 bird species and 155 families'.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q27",
+    "chapter_id": "c7",
+    "question": "Effective writing requires command over:",
+    "options": ["Computer coding", "Grammar, spelling, and punctuation", "History", "The local dialect only"],
+    "correct_index": 1,
+    "explanation": "Effective writing requires relative command of grammar, spelling, and punctuation.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q28",
+    "chapter_id": "c7",
+    "question": "Which of these is NOT a step in note-making?",
+    "options": [
+      "Combine related points",
+      "Group related points",
+      "Write in a narrative paragraph form",
+      "Number the points"
+    ],
+    "correct_index": 2,
+    "explanation": "Note-making involves points and numbering, not narrative paragraphs.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q29",
+    "chapter_id": "c7",
+    "question": "Teeming life in ________ conditions was a precursor to fossil fuel supplies.",
+    "options": ["Arctic", "Desert", "Tropical", "Mountainous"],
+    "correct_index": 2,
+    "explanation": "The notes mention 'Teeming life in tropical conditions' as a point.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q30",
+    "chapter_id": "c7",
+    "question": "The phrase 'Issuing from its birth-place' in a summary context refers to:",
+    "options": ["Coal", "The Pheasant", "The sun's energy", "Water"],
+    "correct_index": 1,
+    "explanation": "Contextual meaning in bird/nature passages often refers to life cycles. (Note: Reference from bird passage context).",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q31",
+    "chapter_id": "c7",
+    "question": "Abbreviations in note-making are used to:",
+    "options": ["Confusion readers", "Save space and time", "Avoid grammar", "Show off"],
+    "correct_index": 1,
+    "explanation": "Notes should be brief and efficient.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q32",
+    "chapter_id": "c7",
+    "question": "Note-making is helpful at work because:",
+    "options": [
+      "It makes the desk look busy",
+      "It is difficult to remember large chunks of info",
+      "It uses less paper",
+      "It is a legal requirement"
+    ],
+    "correct_index": 1,
+    "explanation": "The text states it also helps at work for memory aid.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q33",
+    "chapter_id": "c7",
+    "question": "A summary of the coal passage should emphasize:",
+    "options": [
+      "Types of ferns today",
+      "The millions of years required for formation",
+      "The color of mud",
+      "The names of explorers"
+    ],
+    "correct_index": 1,
+    "explanation": "The process over millions of years is the central theme of the passage.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q34",
+    "chapter_id": "c7",
+    "question": "In the pheasant passage, eco-clubs are under which program?",
+    "options": ["National Green Corps", "Bird Watchers Association", "Green India", "Save the Pheasant"],
+    "correct_index": 0,
+    "explanation": "Eco-clubs are under the National Green Corps.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q35",
+    "chapter_id": "c7",
+    "question": "The term 'Sandwiched' in the formation of petroleum means:",
+    "options": ["Food found in rocks", "Layered between rock layers", "Eaten by animals", "Washed away"],
+    "correct_index": 1,
+    "explanation": "Petroleum was produced while 'sandwiched between the layers'.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q36",
+    "chapter_id": "c7",
+    "question": "Looking at the bird passage, pheasants are:",
+    "options": ["Aggressive", "Shy and charming", "Flightless only", "Extinct"],
+    "correct_index": 1,
+    "explanation": "They are described as 'shy, charming birds'.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q37",
+    "chapter_id": "c7",
+    "question": "What is the order of bird species that include pheasants and turkeys?",
+    "options": ["Phasinidae", "Galliformes", "Passerines", "Raptors"],
+    "correct_index": 1,
+    "explanation": "The order is Galliformes.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q38",
+    "chapter_id": "c7",
+    "question": "Sediment solidification leads to:",
+    "options": ["Mud formation", "Rock formation", "Water evaporation", "Plant growth"],
+    "correct_index": 1,
+    "explanation": "Solidification of sediment leading to rock-formation over time.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q39",
+    "chapter_id": "c7",
+    "question": "Note-making guidelines advise check finished notes against:",
+    "options": ["The dictionary", "The original passage or provided sample", "A friend's work", "The internet"],
+    "correct_index": 1,
+    "explanation": "The text tells students to 'check with the notes given below' after finishing.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q40",
+    "chapter_id": "c7",
+    "question": "Which of these words describes bird feathers in the text?",
+    "options": ["Plumage", "Fur", "Scales", "Shells"],
+    "correct_index": 0,
+    "explanation": "Pheasants are known for their brilliant plumage.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q41",
+    "chapter_id": "c7",
+    "question": "What is the first step in the formation of fossil fuels mentioned in the notes?",
+    "options": ["Solidification", "Storage of energy from the sun", "Compression", "Refining"],
+    "correct_index": 1,
+    "explanation": "The first point in the provided sample notes is 'Storage of energy from sun'.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q42",
+    "chapter_id": "c7",
+    "question": "Note-making requires drawing the main points of the ________ we read.",
+    "options": ["Images", "Material", "Fiction", "Headlines"],
+    "correct_index": 1,
+    "explanation": "We need to draw main points of the material we read.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q43",
+    "chapter_id": "c7",
+    "question": "How many bird species are mentioned in the pheasant passage?",
+    "options": ["51", "155", "900", "600"],
+    "correct_index": 2,
+    "explanation": "The text mentions 'Of the 900 bird species'.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q44",
+    "chapter_id": "c7",
+    "question": "Which of these is used as a 'cohesive device' in writing?",
+    "options": ["Empty space", "Conjunctions and transitions", "Capital letters", "Ink color"],
+    "correct_index": 1,
+    "explanation": "Effective writing employs cohesive devices for flow.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q45",
+    "chapter_id": "c7",
+    "question": "In note-making, verbs should be changed to ________ where possible.",
+    "options": ["Adjectives", "Nouns", "Numbers", "Questions"],
+    "correct_index": 1,
+    "explanation": "Guideline 5: Change the verbs to nouns and begin points with them.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q46",
+    "chapter_id": "c7",
+    "question": "Megapodes are related to which family of birds in the text?",
+    "options": ["Phasinidae", "Galliformes", "Megapodidae", "Raptors"],
+    "correct_index": 1,
+    "explanation": "Megapodes are included in the Galliformes order.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q47",
+    "chapter_id": "c7",
+    "question": "Fossil fuels are preserved under ________.",
+    "options": ["Ice", "Pressure", "Saltwater", "Leaves"],
+    "correct_index": 1,
+    "explanation": "Coal and petroleum were produced and preserved under pressure.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q48",
+    "chapter_id": "c7",
+    "question": "Note-making involves numbering points as you do ________.",
+    "options": ["Summary writing", "Paragraph writing", "Writing down points", "Reading the text"],
+    "correct_index": 2,
+    "explanation": "Step 2: Write down points without fully expanded verbs, numbering them as you do.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q49",
+    "chapter_id": "c7",
+    "question": "Who uses note-making as a study skill primarily?",
+    "options": ["Teachers", "Students", "Workers", "Researchers"],
+    "correct_index": 1,
+    "explanation": "While it helps at work, it is described as an important 'study skill'.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "mcq_id": "eng_nm_q50",
+    "chapter_id": "c7",
+    "question": "Total decomposition of organic matter was prevented by:",
+    "options": ["Bacteria", "Mud coverage", "Oxygen", "Heat"],
+    "correct_index": 1,
+    "explanation": "Material was covered with mud, preventing total decomposition.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "English"
+  }
+]

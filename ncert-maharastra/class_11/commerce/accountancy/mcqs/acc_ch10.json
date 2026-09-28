@@ -1,0 +1,18 @@
+[
+  {
+    "mcq_id": "acc_ch10_q01",
+    "chapter_id": "acc_ch10",
+    "question": "Which financial statement shows the financial position of a business?",
+    "options": [
+      "Income Statement",
+      "Balance Sheet",
+      "Cash Flow Statement",
+      "Trial Balance"
+    ],
+    "correct_index": 1,
+    "explanation": "The Balance Sheet shows the financial position (assets, liabilities, equity) of a business.",
+    "ncert_page": 1,
+    "difficulty": "EASY",
+    "subject": "Accountancy"
+  }
+]

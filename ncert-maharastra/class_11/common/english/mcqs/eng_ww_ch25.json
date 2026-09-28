@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "gb_q01",
+    "chapter_id": "c25",
+    "question": "Who is the author of the essay 'What is a Good Book?'",
+    "options": ["John Ruskin", "Francis Bacon", "Bertrand Russell", "S. Chandrasekhar"],
+    "correct_index": 0,
+    "explanation": "The essay 'What is a Good Book?' is written by the famous American humorist and author Mark Twain.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q02",
+    "chapter_id": "c25",
+    "question": "The text is an excerpt from which larger work by John Ruskin?",
+    "options": ["Seven Lamps of Architecture", "Sesame and Lilies", "The Crown of Wild Olive", "Unto This Last"],
+    "correct_index": 1,
+    "explanation": "The essay is taken from Ruskin's work 'Sesame and Lilies'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q03",
+    "chapter_id": "c25",
+    "question": "In what year were the public lectures that form this text delivered?",
+    "options": ["1850", "1864", "1888", "1901"],
+    "correct_index": 1,
+    "explanation": "The lectures were originally written for delivery as public lectures in 1864.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q04",
+    "chapter_id": "c25",
+    "question": "Ruskin distinguishes between 'Books of the hour' and:",
+    "options": ["Books of the day", "Books of all time", "Books of the year", "Books of the century"],
+    "correct_index": 1,
+    "explanation": "Ruskin classifies books into two main types: 'books of the hour' and 'books of all time'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q05",
+    "chapter_id": "c25",
+    "question": "According to Ruskin, a 'book of the hour' is essentially:",
+    "options": ["A sacred text", "The useful or pleasant talk of some person printed for you", "A collection of ancient myths", "Scientific research"],
+    "correct_index": 1,
+    "explanation": "A book of the hour is described as the printed version of what might otherwise be useful or pleasant conversation.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q06",
+    "chapter_id": "c25",
+    "question": "Ruskin argues that books of the hour are often just 'merely letters or ________ in good print'.",
+    "options": ["Magazines", "Newspapers", "Novels", "Posters"],
+    "correct_index": 1,
+    "explanation": "He explicitly compares books of the hour to letters or newspapers.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q07",
+    "chapter_id": "c25",
+    "question": "A 'book of all time' is written because the author has 'something ________' to say.",
+    "options": ["New", "Entertaining", "True and helpful", "Profitable"],
+    "correct_index": 2,
+    "explanation": "He states a true book is written because the author perceives a truth and wishes to record it permanently.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q08",
+    "chapter_id": "c25",
+    "question": "Ruskin describes a true book as the '________' of a person's life.",
+    "options": ["Waste", "Epitaph", "Precious life-blood", "Legacy"],
+    "correct_index": 2,
+    "explanation": "Though the snippet mentions 'manifestation', Ruskin's philosophy (mirrored in related Milton quotes he admires) sees a good book as the life-blood of a master spirit.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q09",
+    "chapter_id": "c25",
+    "question": "According to the author, we can only gain entrance to the 'society' of great thinkers through:",
+    "options": ["Wealth", "Physical travel", "Love and labor (studying their words)", "Politics"],
+    "correct_index": 2,
+    "explanation": "Ruskin emphasizes that to understand great authors, one must work hard and show merit.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q10",
+    "chapter_id": "c25",
+    "question": "What does Ruskin mean by 'The Peerage of Words'?",
+    "options": ["A list of politicians", "The hierarchical value and precise history of language", "A dictionary", "New words"],
+    "correct_index": 1,
+    "explanation": "He uses this metaphor to describe the high status and lineage of well-chosen words.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q11",
+    "chapter_id": "c25",
+    "question": "Ruskin insists that readers must look at words 'syllable by syllable—nay, ________ by ________'.",
+    "options": ["Page; Page", "Book; Book", "Letter; Letter", "Day; Day"],
+    "correct_index": 2,
+    "explanation": "He emphasizes extreme accuracy in reading: 'letter by letter'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q12",
+    "chapter_id": "c25",
+    "question": "The word 'canaille' used in the text refers to:",
+    "options": ["Noble people", "Common people / the 'rabble'", "Books", "Insects"],
+    "correct_index": 1,
+    "explanation": "In the vocabulary section, 'canaille' is defined as the common people.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q13",
+    "chapter_id": "c25",
+    "question": "Ruskin claims that an educated person is primarily defined by their knowledge of ________.",
+    "options": ["Math", "History", "The grammar of their own language and accuracy of words", "Science"],
+    "correct_index": 2,
+    "explanation": "To him, the hallmark of an educated person is the accuracy with which they use and understand language.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q14",
+    "chapter_id": "c25",
+    "question": "The 'national noblesse of words' refers to words derived from which ancient languages?",
+    "options": ["English and French", "Greek and Latin", "Sanskrit and Hindi", "Arabic and Persian"],
+    "correct_index": 1,
+    "explanation": "He highlights that a gentleman should know the Greek and Latin roots of his language.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q15",
+    "chapter_id": "c25",
+    "question": "Ruskin compares the task of understanding a book to which activity?",
+    "options": ["Sailing a ship", "Mining for gold", "Painting a picture", "Farming"],
+    "correct_index": 1,
+    "explanation": "He says the author's meaning is like gold buried in a rock that must be mined with effort.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q16",
+    "chapter_id": "c25",
+    "question": "What is the meaning of the word 'fain' as used in the expression list?",
+    "options": ["Angry", "Pleased or willing", "Tired", "Fearful"],
+    "correct_index": 1,
+    "explanation": "The vocabulary section identifies 'fain' as pleased or willing.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q17",
+    "chapter_id": "c25",
+    "question": "Which body of government is mentioned in the text regarding 'false English meanings'?",
+    "options": ["US Congress", "House of Commons", "House of Lords", "Panchayat"],
+    "correct_index": 1,
+    "explanation": "He notes that the House of Commons would smile at a false Latin quantity but should frown at false English meaning.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q18",
+    "chapter_id": "c25",
+    "question": "Ruskin believes that 'books of the hour' are a possession of:",
+    "options": ["The past", "The present age", "The future", "Old people only"],
+    "correct_index": 1,
+    "explanation": "He calls them a 'peculiar characteristic and possession of the present age'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q19",
+    "chapter_id": "c25",
+    "question": "What happens if we allow 'books of the hour' to usurp the place of 'true books'?",
+    "options": ["We learn more", "We make the worst possible use of them", "We save time", "We become wiser"],
+    "correct_index": 1,
+    "explanation": "He warns that using talk-books to replace thought-books is a grave error.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q20",
+    "chapter_id": "c25",
+    "question": "According to Ruskin, why do people generally want to be in 'good society' (elite circles)?",
+    "options": ["To get money", "To feed their vanity and feel superior", "To learn history", "To help the poor"],
+    "correct_index": 1,
+    "explanation": "He observes that the desire for elite company often stems from simple vanity.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q21",
+    "chapter_id": "c25",
+    "question": "The 'true book' is described as something that is 'written for ________'.",
+    "options": ["Money", "The hour", "All time", "Students"],
+    "correct_index": 2,
+    "explanation": "Ruskin distinguishes ephemeral writing from that which is meant to endure.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q22",
+    "chapter_id": "c25",
+    "question": "Ruskin uses the metaphor of 'Court of the ________' to describe the company of great writers.",
+    "options": ["Kings", "Learned", "Commoners", "Rich"],
+    "correct_index": 1,
+    "explanation": "He contrasts the visible courts of royalty with the accessible court of great minds.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q23",
+    "chapter_id": "c25",
+    "question": "What does 'diction' mean in the context of the essay?",
+    "options": ["A type of book", "Choice and use of words", "Speed of reading", "Tone of voice"],
+    "correct_index": 1,
+    "explanation": "The exercises emphasize that 'choice of diction is very crucial'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q24",
+    "chapter_id": "c25",
+    "question": "Ruskin argues that we should be 'entirely ________' for the abundance of good modern talk-books.",
+    "options": ["Angry", "Thankful", "Suspicious", "Indifferent"],
+    "correct_index": 1,
+    "explanation": "He admits they are useful if kept in their proper place.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q25",
+    "chapter_id": "c25",
+    "question": "To Ruskin, the 'noble' part of a word is its ________.",
+    "options": ["Sound", "Etymology (history/roots)", "Length", "Color"],
+    "correct_index": 1,
+    "explanation": "He believes knowing where a word comes from determines its 'nobility'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q26",
+    "chapter_id": "c25",
+    "question": "The 'good book of the hour' is compared to a 'sensible friend’s present ________'.",
+    "options": ["Gift", "Talk", "House", "Advice"],
+    "correct_index": 1,
+    "explanation": "It is a temporary communication, not a lasting monument.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q27",
+    "chapter_id": "c25",
+    "question": "What 'false' thing should excite a 'frown' in the House of Commons?",
+    "options": ["Latin quantity", "English meaning", "French style", "Greek grammar"],
+    "correct_index": 1,
+    "explanation": "He argues that misuse of our own language is a serious intellectual failure.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q28",
+    "chapter_id": "c25",
+    "question": "Ruskin says we must 'annihilate' our ________ when we read a great book.",
+    "options": ["Money", "Time", "Own thoughts and biases to hear the author's", "Books"],
+    "correct_index": 2,
+    "explanation": "One must approach a great book with humility to truly learn.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q29",
+    "chapter_id": "c25",
+    "question": "A book of all time is a 'permanent ________ of thoughts'.",
+    "options": ["Waste", "Record", "Confusion", "Change"],
+    "correct_index": 1,
+    "explanation": "It is meant to preserve ideas for future generations.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q30",
+    "chapter_id": "c25",
+    "question": "The word 'syllable' implies Ruskin wants us to read ________.",
+    "options": ["Fast", "Very carefully and slowly", "Only the ends of books", "Out loud only"],
+    "correct_index": 1,
+    "explanation": "The text calls for intense scrutiny of words.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q31",
+    "chapter_id": "c25",
+    "question": "Which figure of speech is used in 'national noblesse of words'?",
+    "options": ["Simile", "Metaphor", "Onomatopoeia", "Limerick"],
+    "correct_index": 1,
+    "explanation": "He compares words to a social class of nobility.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q32",
+    "chapter_id": "c25",
+    "question": "Ruskin believes the 'multitude' of modern books is due to:",
+    "options": ["Wars", "General education becoming more common", "Cheap paper", "Laziness"],
+    "correct_index": 1,
+    "explanation": "He notes they are multiplying as education becomes more general.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q33",
+    "chapter_id": "c25",
+    "question": "To read well, Ruskin says one must 'get into the ________' of the author.",
+    "options": ["House", "Habit", "Mind/Spirit", "Garden"],
+    "correct_index": 2,
+    "explanation": "The reader's goal is to share the author's unique perception.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q34",
+    "chapter_id": "c25",
+    "question": "Many sentences in the text start with the word '________', which fits the speech mode.",
+    "options": ["But", "And", "Because", "However"],
+    "correct_index": 1,
+    "explanation": "Starting with 'And' is a rhetorical style common in lectures.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q35",
+    "chapter_id": "c25",
+    "question": "Ruskin identifies a 'gentleman' by his ability to ________ accurately.",
+    "options": ["Speak and write", "Ride a horse", "Make money", "Fight"],
+    "correct_index": 0,
+    "explanation": "Accuracy in language is the social and intellectual mark of a gentleman.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q36",
+    "chapter_id": "c25",
+    "question": "Is every 'useful' printed work considered a 'book of all time' by Ruskin?",
+    "options": ["Yes", "No, it might just be a book of the hour", "Only if it is long", "Only if it is free"],
+    "correct_index": 1,
+    "explanation": "Utility does not equal permanence in his definition.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q37",
+    "chapter_id": "c25",
+    "question": "The 'society of the dead' refers to:",
+    "options": ["A cemetery", "Great authors of the past whose works we read", "A ghost story", "A museum"],
+    "correct_index": 1,
+    "explanation": "He refers to reading as a way to converse with the greatest minds of history.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q38",
+    "chapter_id": "c25",
+    "question": "According to Ruskin, the author of a true book has 'set it down ________'.",
+    "options": ["Quickly", "Forever", "For a year", "Secretly"],
+    "correct_index": 1,
+    "explanation": "Permanence is the key intention of a true book.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q39",
+    "chapter_id": "c25",
+    "question": "The 'vulgarity' of a person is shown by their ________ use of language.",
+    "options": ["Fast", "Inaccurate", "Too loud", "Silent"],
+    "correct_index": 1,
+    "explanation": "Ruskin equates intellectual sloppiness with social vulgarity.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q40",
+    "chapter_id": "c25",
+    "question": "Ruskin says an author writes a true book because they 'must' ________.",
+    "options": ["Earn money", "Communicate a perceived truth", "Be famous", "Work"],
+    "correct_index": 1,
+    "explanation": "The inner necessity to share a truth is the motive.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q41",
+    "chapter_id": "c25",
+    "question": "What kind of 'society' does Ruskin think we should aim for?",
+    "options": ["The one that is hard to get into but easy to stay in", "Visible royalty", "The silent society of great books", "The one with the most money"],
+    "correct_index": 2,
+    "explanation": "He advocates for intellectual rather than just social status.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q42",
+    "chapter_id": "c25",
+    "question": "The 'accent' of words should be watched, but their ________ even more so.",
+    "options": ["Length", "Meaning", "Color", "Spelling"],
+    "correct_index": 1,
+    "explanation": "Meaning is the most important element of a word.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q43",
+    "chapter_id": "c25",
+    "question": "The essay suggests that great authors are '________' and will not talk to just anyone.",
+    "options": ["Mean", "Reserved", "Busy", "Lazy"],
+    "correct_index": 1,
+    "explanation": "One must show worthiness to 'converse' with a great book.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q44",
+    "chapter_id": "c25",
+    "question": "Ruskin's style in the essay can be described as ________.",
+    "options": ["Simple and childish", "Rhetorical and serious", "Funny and fast", "Scientific"],
+    "correct_index": 1,
+    "explanation": "It reflects the high-minded lecture style of the 19th century.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q45",
+    "chapter_id": "c25",
+    "question": "What 'possession' does the 'present age' have, according to Ruskin?",
+    "options": ["Many true books", "Many books of the hour", "No books", "Only Greek books"],
+    "correct_index": 1,
+    "explanation": "He highlights the explosion of contemporary writing.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q46",
+    "chapter_id": "c25",
+    "question": "Ruskin's 'gold' metaphor refers to the author’s ________.",
+    "options": ["Actual money", "True meaning and wisdom", "Yellow ink", "Family"],
+    "correct_index": 1,
+    "explanation": "Wisdom is the precious metal hidden in the text.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q47",
+    "chapter_id": "c25",
+    "question": "An 'obituary' in a newspaper is a type of '________'.",
+    "options": ["Book of all time", "Book of the hour", "Scientific fact", "Limerick"],
+    "correct_index": 1,
+    "explanation": "It is news of the moment, as explained in the Pappachi's Moth snippet context.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q48",
+    "chapter_id": "c25",
+    "question": "Ruskin asks if you have '________' enough to enter the company of the wise.",
+    "options": ["Money", "Clothes", "Merit", "Time"],
+    "correct_index": 2,
+    "explanation": "Only internal qualities grant access to great thoughts.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q49",
+    "chapter_id": "c25",
+    "question": "A book that gives a pleasant account of 'inns and roads' is a ________.",
+    "options": ["True book", "Book of the hour", "History book", "Science book"],
+    "correct_index": 1,
+    "explanation": "Travel talk is temporary and fits his 'hour' category.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "gb_q50",
+    "chapter_id": "c25",
+    "question": "Ruskin concludes that to read a book is to 'look ________ at words'.",
+    "options": ["Quickly", "Intensely", "Blindly", "Never"],
+    "correct_index": 1,
+    "explanation": "Deep observation is required for true reading.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  }
+]

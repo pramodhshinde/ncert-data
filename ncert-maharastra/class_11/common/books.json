@@ -1,0 +1,136 @@
+{
+  "books": [
+    {
+      "id": 1131,
+      "title": "Hornbill",
+      "subtitle": "Class 11 Maharashtra State Board English Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1-EtsiT0Atpmxw8GITEiOGzvIOSUHqvGt",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "English",
+      "chapterCount": 12,
+      "parts": 1
+    },
+    {
+      "id": 1106,
+      "title": "Mathematics",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1Qsf409xhhWRUpg6bfu56Bo3opmy8dt4G",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 15,
+      "parts": 2
+    },
+    {
+      "id": 1109,
+      "title": "Computer Science",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1gXfoxVZtxkmQJ10lLqT1I93ak5xYRKn_",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Computer Science",
+      "chapterCount": 11,
+      "parts": 1
+    },
+    {
+      "id": 1110,
+      "title": "Informatics Practices",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1FrK7kQscEW3Jx41_r5kqb1zjC6zTu7Cy",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Informatics Practices",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1142,
+      "title": "Fundamentals of Physical Geography",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1j1e0sb1u6hXY6zBYfn53A79oeaMJ9mDd",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 14,
+      "parts": 2
+    },
+    {
+      "id": 1143,
+      "title": "Practical Work in Geography",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=19wz-8aSpp2O6ecZIPtI5FGM8rQcikFI3",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 6,
+      "parts": 2
+    },
+    {
+      "id": 1148,
+      "title": "Psychology",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1Zi4RmpIYh43LL0X9vNoGdOgpDi1M6EKh",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Psychology",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1150,
+      "title": "Health and Physical Education",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=19KjumH9fVfCHDe66W1khGkMMOQOBXnzj",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Physical Education",
+      "chapterCount": 11,
+      "parts": 1
+    },
+    {
+      "id": 1132,
+      "title": "Snapshots",
+      "subtitle": "Class 11 Maharashtra State Board English Supplementary",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1-Xp4jIcWmewb3fl-85vC7vH9pxeyShip",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "English",
+      "chapterCount": 5,
+      "parts": 1
+    },
+    {
+      "id": 1135,
+      "title": "Woven Words",
+      "subtitle": "Class 11 Maharashtra State Board English Elective",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1k7Ea0svZbE3Hq2wUNQz6MBF5Tn-2wL6y",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "English",
+      "chapterCount": 27,
+      "parts": 1
+    },
+    {
+      "id": 1133,
+      "title": "Aroh",
+      "subtitle": "Class 11 Maharashtra State Board Hindi Textbook",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehr1.jpg",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 20,
+      "parts": 1
+    },
+    {
+      "id": 1134,
+      "title": "Vitan",
+      "subtitle": "Class 11 Maharashtra State Board Hindi Supplementary",
+      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehv1.jpg",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 4,
+      "parts": 1
+    }
+  ]
+}

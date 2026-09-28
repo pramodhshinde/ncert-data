@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "eco_ust_q01",
+    "chapter_id": "c8",
+    "question": "What is the primary objective of developing a project using statistical tools?",
+    "options": [
+      "To memorize mathematical formulas",
+      "To analyze relevant information and suggest improvements in a product or system",
+      "To increase the volume of government reports",
+      "To replace the need for field surveys"
+    ],
+    "correct_index": 1,
+    "explanation": "Developing a project helps in analyzing relevant information and suggesting improvements in a product or system.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q02",
+    "chapter_id": "c8",
+    "question": "What is the first step in the process of making a project?",
+    "options": [
+      "Collection of Data",
+      "Analyzing and Interpretation",
+      "Identifying a problem or an area of study",
+      "Choice of Target Group"
+    ],
+    "correct_index": 2,
+    "explanation": "At the outset, you should be clear about what you want to study. Identifying the problem is the first step.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q03",
+    "chapter_id": "c8",
+    "question": "The group of people towards whom a survey is directed is known as the:",
+    "options": [
+      "Stakeholders",
+      "Sample Group",
+      "Target Group",
+      "Control Group"
+    ],
+    "correct_index": 2,
+    "explanation": "Choice of target group is important for the person who is conducting the survey.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q04",
+    "chapter_id": "c8",
+    "question": "Which document is essential for collecting primary data during a survey?",
+    "options": [
+      "Bibliography",
+      "Questionnaire",
+      "Balance Sheet",
+      "Index Table"
+    ],
+    "correct_index": 1,
+    "explanation": "The questionnaire should be such that it helps in achieving the objectives of the study.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q05",
+    "chapter_id": "c8",
+    "question": "Which of the following is a key requirement for an effective questionnaire?",
+    "options": [
+      "It should be very long",
+      "Questions should be clear and not ambiguous",
+      "It should only contain open-ended questions",
+      "Questions should be leading"
+    ],
+    "correct_index": 1,
+    "explanation": "Questions in the questionnaire should be clear and not be ambiguous.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q06",
+    "chapter_id": "c8",
+    "question": "In a project, if the investigator organizes data in a systematic manner using classes and frequencies, they are performing:",
+    "options": [
+      "Data Collection",
+      "Organization and Tabulation of Data",
+      "Data Prediction",
+      "Data Bibliography"
+    ],
+    "correct_index": 1,
+    "explanation": "After collecting data, it must be organized and tabulated to be useful for analysis.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q07",
+    "chapter_id": "c8",
+    "question": "Which statistical tool helps in summarizing data using a single representative value like an average?",
+    "options": [
+      "Correlation",
+      "Index Numbers",
+      "Measures of Central Tendency",
+      "Dispersion"
+    ],
+    "correct_index": 2,
+    "explanation": "Measures of central tendency (Mean, Median, Mode) help in finding the average of the data.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q08",
+    "chapter_id": "c8",
+    "question": "Which tool is used to examine the degree and direction of a relationship between two variables?",
+    "options": [
+      "Mean",
+      "Correlation",
+      "Standard Deviation",
+      "Range"
+    ],
+    "correct_index": 1,
+    "explanation": "Measures of correlation are used to understand the relationship between two variables.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q09",
+    "chapter_id": "c8",
+    "question": "A project report should ideally conclude with:",
+    "options": [
+      "Raw data",
+      "A list of respondents' names",
+      "Bibliography and source of data",
+      "The questionnaire itself"
+    ],
+    "correct_index": 2,
+    "explanation": "A report should list the sources of data and include a bibliography.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q10",
+    "chapter_id": "c8",
+    "question": "The 'Analyzing and Interpretation' stage of a project involves:",
+    "options": [
+      "Asking the first question",
+      "Drawing meaningful conclusions from the results",
+      "Printing the project report",
+      "Choosing the paper size"
+    ],
+    "correct_index": 1,
+    "explanation": "Analysis helps in drawing meaningful conclusions from the data using statistical tools.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q11",
+    "chapter_id": "c8",
+    "question": "A study on 'The effect of a price hike in petrol on a middle-class family' is an example of:",
+    "options": [
+      "Identifying an area of study",
+      "Tabulation",
+      "Bibliography",
+      "Data entry"
+    ],
+    "correct_index": 0,
+    "explanation": "This is an example of identifying a specific problem or topic for a project.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q12",
+    "chapter_id": "c8",
+    "question": "Which of these is NOT a measure of central tendency mentioned in the text for analysis?",
+    "options": [
+      "Arithmetic Mean",
+      "Median",
+      "Range",
+      "Mode"
+    ],
+    "correct_index": 2,
+    "explanation": "Range is a measure of dispersion, while Mean, Median, and Mode are measures of central tendency.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q13",
+    "chapter_id": "c8",
+    "question": "The 'Questionnaire' used in a project survey should be ________.",
+    "options": [
+      "Ambiguous",
+      "Short and simple",
+      "Long and complex",
+      "Without instructions"
+    ],
+    "correct_index": 1,
+    "explanation": "A questionnaire should be short and simple for respondents to understand and answer.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q14",
+    "chapter_id": "c8",
+    "question": "Which part of a project shows where information was gathered from?",
+    "options": [
+      "Title",
+      "Bibliography",
+      "Tally marks",
+      "Captions"
+    ],
+    "correct_index": 1,
+    "explanation": "Bibliography lists the books, magazines, and other sources used.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q15",
+    "chapter_id": "c8",
+    "question": "While designing a project, the objective helps in deciding:",
+    "options": [
+      "The color of the ink",
+      "The collection and processing of data",
+      "The name of the investigator",
+      "The price of the final report"
+    ],
+    "correct_index": 1,
+    "explanation": "On the basis of the objective, one proceeds with data collection and processing.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q16",
+    "chapter_id": "c8",
+    "question": "Tabulation of data is necessary to ________.",
+    "options": [
+      "Hide patterns",
+      "Present the data clearly and compactly",
+      "Increases the number of variables",
+      "Make the data raw"
+    ],
+    "correct_index": 1,
+    "explanation": "Tabulation organizes collected information systematically for better presentation.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q17",
+    "chapter_id": "c8",
+    "question": "A study evaluating 'The use of mobile phones among students' would belong to which step?",
+    "options": [
+      "Identification of problem",
+      "Bibliography",
+      "Correlation",
+      "Sampling error"
+    ],
+    "correct_index": 0,
+    "explanation": "This is a topic selection or problem identification.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q18",
+    "chapter_id": "c8",
+    "question": "If you are conducting a survey on the preference for 'Bathing Soap', who is your target group?",
+    "options": [
+      "Producers",
+      "Consumers",
+      "Politicians",
+      "Porters"
+    ],
+    "correct_index": 1,
+    "explanation": "To understand product preference, you must survey the consumers.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q19",
+    "chapter_id": "c8",
+    "question": "In a project about 'IT in schools', the analysis would be easier if data is presented in ________.",
+    "options": [
+      "Small bits of paper",
+      "Diagrams and tables",
+      "Paragraphs only",
+      "Verbal recordings"
+    ],
+    "correct_index": 1,
+    "explanation": "Tables and diagrams help in better understanding and analysis of data.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q20",
+    "chapter_id": "c8",
+    "question": "Statistical tools are used in economic activities such as ________.",
+    "options": [
+      "Production and consumption",
+      "Banking and insurance",
+      "Trade and transport",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "The text lists all these as areas where statistical tools are applied.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q21",
+    "chapter_id": "c8",
+    "question": "One of the provided project examples in the chapter focuses on:",
+    "options": [
+      "Space exploration",
+      "The spread of Information Technology in schools",
+      "Ancient architecture",
+      "Wildlife photography"
+    ],
+    "correct_index": 1,
+    "explanation": "Analyzing the spread of IT in schools is a suggested project area.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q22",
+    "chapter_id": "c8",
+    "question": "The 'Source Note' in a project belongs to which section?",
+    "options": [
+      "Introduction",
+      "Concluding part",
+      "The middle of the table",
+      "Questionnaire instructions"
+    ],
+    "correct_index": 1,
+    "explanation": "Sources of data and bibliography are part of the concluding details.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q23",
+    "chapter_id": "c8",
+    "question": "Statistical tools help in determining ________.",
+    "options": [
+      "Historical truth",
+      "Relationships and patterns in data",
+      "Respondents' personal secrets",
+      "Mathematical perfection"
+    ],
+    "correct_index": 1,
+    "explanation": "They help in understanding relationships and identifying trends.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q24",
+    "chapter_id": "c8",
+    "question": "Which of these is a 'Measure of Dispersion' (though not detailed in this chapter's summary, it is listed as a tool)?",
+    "options": [
+      "Arithmetic Mean",
+      "Median",
+      "Standard Deviation",
+      "Mode"
+    ],
+    "correct_index": 2,
+    "explanation": "Standard deviation is a measure of dispersion used for data analysis.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q25",
+    "chapter_id": "c8",
+    "question": "What is the second step in making a project?",
+    "options": [
+      "Drawing graphs",
+      "Choice of Target Group",
+      "Writing the bibliography",
+      "Tabulation"
+    ],
+    "correct_index": 1,
+    "explanation": "After identifying the problem, the next step is choosing the target group.",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q26",
+    "chapter_id": "c8",
+    "question": "Data collected through a survey specifically for the project is ________ data.",
+    "options": [
+      "Secondary",
+      "Primary",
+      "Bibliography",
+      "Univariate"
+    ],
+    "correct_index": 1,
+    "explanation": "Information collected directly from consumers/respondents for a survey is primary data.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q27",
+    "chapter_id": "c8",
+    "question": "Which tool is useful for comparing the 'average' of two different groups?",
+    "options": [
+      "Correlation",
+      "Arithmetic Mean",
+      "Pie chart only",
+      "Bibliography"
+    ],
+    "correct_index": 1,
+    "explanation": "Means are used to represent and compare averages.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q28",
+    "chapter_id": "c8",
+    "question": "To show the 'relative change' in values over time, which tool is best?",
+    "options": [
+      "Mode",
+      "Index Numbers",
+      "Tally marks",
+      "Median"
+    ],
+    "correct_index": 1,
+    "explanation": "Index numbers are used to measure relative changes in magnitude.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q29",
+    "chapter_id": "c8",
+    "question": "If you use data from a published magazine for your project, it is ________ data.",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Bibliography",
+      "Direct"
+    ],
+    "correct_index": 1,
+    "explanation": "Using data already collected by others (like from a magazine) is secondary data.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q30",
+    "chapter_id": "c8",
+    "question": "The 'Interpretation' of data means:",
+    "options": [
+      "Translating to another language",
+      "Explaining the significance of the results",
+      "Deleting unwanted data",
+      "Printing multiple copies"
+    ],
+    "correct_index": 1,
+    "explanation": "Interpretation involves making sense of the statistical results to draw a sound solution.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q31",
+    "chapter_id": "c8",
+    "question": "Statistical analysis starts after ________ step.",
+    "options": [
+      "Final conclusion",
+      "Organization and tabulation",
+      "Bibliography",
+      "Identification of problem"
+    ],
+    "correct_index": 1,
+    "explanation": "Once data is organized and tabulated, analysis can begin.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q32",
+    "chapter_id": "c8",
+    "question": "Which of these is a 'Project' related task?",
+    "options": [
+      "Launching a new soap and checking consumer response",
+      "Calculating the area of a square",
+      "Reciting a poem",
+      "Watching a football match"
+    ],
+    "correct_index": 0,
+    "explanation": "Marketing research and consumer feedback are standard project activities.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q33",
+    "chapter_id": "c8",
+    "question": "The 'Objective' of the study should be ________.",
+    "options": [
+      "Flexible and changing",
+      "Clear and defined",
+      "Kept secret",
+      "Unrelated to the data"
+    ],
+    "correct_index": 1,
+    "explanation": "One must be clear about what they want to study at the start.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q34",
+    "chapter_id": "c8",
+    "question": "Which step ensures that the investigator doesn't collect irrelevant data?",
+    "options": [
+      "Identifying the problem and objective",
+      "Tally marking",
+      "Correlation",
+      "Pagination"
+    ],
+    "correct_index": 0,
+    "explanation": "The objective acts as a guide for what data needs to be collected.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q35",
+    "chapter_id": "c8",
+    "question": "A summary number like '75% of schools have IT labs' is a result of:",
+    "options": [
+      "Data collection only",
+      "Analysis and Interpretation",
+      "Identification of problem",
+      "Writing a title"
+    ],
+    "correct_index": 1,
+    "explanation": "Summarizing data into percentages or proportions is part of analysis.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q36",
+    "chapter_id": "c8",
+    "question": "Statistical projects help in ________ a problem.",
+    "options": [
+      "Ignoring",
+      "Quantifying and describing",
+      "Complicating",
+      "Erasing"
+    ],
+    "correct_index": 1,
+    "explanation": "Projects help in understanding and representing problems with precise data.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q37",
+    "chapter_id": "c8",
+    "question": "Which of the following tools is used to find the 'Middle' value in a data set?",
+    "options": [
+      "Mean",
+      "Median",
+      "Correlation",
+      "Standard Deviation"
+    ],
+    "correct_index": 1,
+    "explanation": "Median is the positional value representing the middle of the distribution.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q38",
+    "chapter_id": "c8",
+    "question": "A 'Case Study' of a single family would use ________.",
+    "options": [
+      "Project methods",
+      "Universal index numbers only",
+      "Global correlation tables",
+      "No statistical tools"
+    ],
+    "correct_index": 0,
+    "explanation": "Case studies often involve surveys and data analysis appropriate for small groups.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q39",
+    "chapter_id": "c8",
+    "question": "What determines how many questions to ask in a survey?",
+    "options": [
+      "The price of paper",
+      "The objective of the project",
+      "The mood of the investigator",
+      "The number of respondents"
+    ],
+    "correct_index": 1,
+    "explanation": "Questions are framed to fulfill the specific goals/objectives of the study.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q40",
+    "chapter_id": "c8",
+    "question": "A list of 'Books' and 'Magazines' at the end of the report is the ________.",
+    "options": [
+      "Glossary",
+      "Bibliography",
+      "Preface",
+      "Index"
+    ],
+    "correct_index": 1,
+    "explanation": "Bibliography is the list of secondary sources used.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q41",
+    "chapter_id": "c8",
+    "question": "In project development, the 'Questionnaire' is the ________.",
+    "options": [
+      "Output",
+      "Tool for data collection",
+      "Bibliography",
+      "Statistical result"
+    ],
+    "correct_index": 1,
+    "explanation": "The questionnaire is the instrument used to get information from the target group.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q42",
+    "chapter_id": "c8",
+    "question": "Can statistical tools be used in 'Insurance' activities?",
+    "options": [
+      "No",
+      "Yes",
+      "Only if it is a government project",
+      "Only for car insurance"
+    ],
+    "correct_index": 1,
+    "explanation": "The text explicitly mentions banking and insurance as areas where these tools are used.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q43",
+    "chapter_id": "c8",
+    "question": "Analysis is more effective if ________ are used for visual display.",
+    "options": [
+      "Handwritten notes",
+      "Graphs and diagrams",
+      "Blank pages",
+      "Large fonts only"
+    ],
+    "correct_index": 1,
+    "explanation": "Graphs and diagrams help to quickly grasp and compare results.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q44",
+    "chapter_id": "c8",
+    "question": "If you survey 100 students to represent all students in a city, 100 is the ________.",
+    "options": [
+      "Population",
+      "Sample",
+      "Variable",
+      "Tally group"
+    ],
+    "correct_index": 1,
+    "explanation": "A smaller group chosen to represent a larger population is a sample.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q45",
+    "chapter_id": "c8",
+    "question": "The study of 'Trade' using statistics involves analyzing ________.",
+    "options": [
+      "Import and export data",
+      "The color of ships",
+      "The names of captains",
+      "Poems about the sea"
+    ],
+    "correct_index": 0,
+    "explanation": "Economic analysis of trade typically involves looking at volume and value of goods.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q46",
+    "chapter_id": "c8",
+    "question": "Which of these is a step in designing a project?",
+    "options": [
+      "Identifying the problem",
+      "Collecting data",
+      "Organization and Tabulation",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "All these are listed as essential steps in project making.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q47",
+    "chapter_id": "c8",
+    "question": "Project surveys help in ________ products.",
+    "options": [
+      "Abolishing",
+      "Improving",
+      "Ignoring",
+      "Renaming only"
+    ],
+    "correct_index": 1,
+    "explanation": "Information collected helps suggest improvements in a product or system.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q48",
+    "chapter_id": "c8",
+    "question": "The tool used for measuring the 'most frequent' value is the ________.",
+    "options": [
+      "Mean",
+      "Mode",
+      "Index",
+      "Correlation"
+    ],
+    "correct_index": 1,
+    "explanation": "Mode represents the value with the highest frequency.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q49",
+    "chapter_id": "c8",
+    "question": "Why is 'Clear instructions' important in a questionnaire?",
+    "options": [
+      "To fill space",
+      "To ensure respondents understand how to answer correctly",
+      "To make the project more expensive",
+      "To confuse the target group"
+    ],
+    "correct_index": 1,
+    "explanation": "Clear instructions prevent errors and clarify what information is needed.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_ust_q50",
+    "chapter_id": "c8",
+    "question": "Statistical projects relate to man in the ordinary business of ________.",
+    "options": [
+      "Politics",
+      "Life (Economic Activities)",
+      "War",
+      "Religion"
+    ],
+    "correct_index": 1,
+    "explanation": "Projects help analyze data pertaining to economic activities of life.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  }
+]

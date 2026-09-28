@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "son_q01",
+    "chapter_id": "c10",
+    "question": "What is the number of this sonnet in William Shakespeare's sequence of sonnets?",
+    "options": ["Sonnet 18", "Sonnet 116", "Sonnet 130", "Sonnet 154"],
+    "correct_index": 1,
+    "explanation": "The poem 'Let me not to the marriage of true minds' is sonnet number 116.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q02",
+    "chapter_id": "c10",
+    "question": "The theme of this poem is:",
+    "options": ["Nature", "Political power", "Constancy in true love", "The beauty of spring"],
+    "correct_index": 2,
+    "explanation": "The central theme of the poem is the unchanging nature of true love, also referred to as 'constancy'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q03",
+    "chapter_id": "c10",
+    "question": "What does Shakespeare mean by the word 'impediments' in the second line?",
+    "options": ["Gifts", "Obstacles or barriers", "Friendships", "Legal documents"],
+    "correct_index": 1,
+    "explanation": "Shakespeare says he will not admit 'impediments' (obstacles) to the marriage of true minds.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q04",
+    "chapter_id": "c10",
+    "question": "According to the poet, true love does NOT ________ when it finds changes in the beloved.",
+    "options": ["Grow", "Remain", "Alter", "Strengthen"],
+    "correct_index": 2,
+    "explanation": "The poet states: 'Love is not love / Which alters when it alteration finds'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q05",
+    "chapter_id": "c10",
+    "question": "Shakespeare compares love to an 'ever-fixed mark' that looks on:",
+    "options": ["Flowers", "Tempests (storms)", "The sun", "The shore"],
+    "correct_index": 1,
+    "explanation": "Love is described as an 'ever-fixed mark / That looks on tempests and is never shaken'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q06",
+    "chapter_id": "c10",
+    "question": "In the line 'It is the star to every wandering bark', what does 'bark' mean?",
+    "options": ["The sound of a dog", "The outer layer of a tree", "A ship or boat", "A type of bird"],
+    "correct_index": 2,
+    "explanation": "In nautical terms used in the poem, a 'bark' refers to a ship being guided by the North Star.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q07",
+    "chapter_id": "c10",
+    "question": "The poet asserts that 'Love's not Time's ________'.",
+    "options": ["Slave", "Fool", "Master", "Shadow"],
+    "correct_index": 1,
+    "explanation": "Shakespeare writes, 'Love's not Time's fool', meaning love is not dependent on or destroyed by time.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q08",
+    "chapter_id": "c10",
+    "question": "What physical features are specifically mentioned as being subject to Time's 'bending sickle'?",
+    "options": ["Hair and eyes", "Rosy lips and cheeks", "Hands and feet", "Heart and mind"],
+    "correct_index": 1,
+    "explanation": "The poem mentions that 'rosy lips and cheeks' fall within the range of time's sickle.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q09",
+    "chapter_id": "c10",
+    "question": "True love lasts until 'the edge of ________'.",
+    "options": ["The world", "Doom (Judgement Day)", "The sea", "Tomorrow"],
+    "correct_index": 1,
+    "explanation": "The poet claims love 'bears it out even to the edge of doom'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q10",
+    "chapter_id": "c10",
+    "question": "What is the structure of the last two lines of the poem?",
+    "options": ["A quatrain", "A rhyming couplet", "A tercet", "A refrain"],
+    "correct_index": 1,
+    "explanation": "Shakespearean sonnets conclude with a rhyming couplet that summarizes the argument.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q11",
+    "chapter_id": "c10",
+    "question": "Shakespeare says if his view on love is proved wrong, he 'never ________'.",
+    "options": ["Slept", "Loved", "Writ (wrote)", "Died"],
+    "correct_index": 2,
+    "explanation": "The final couplet starts: 'If this be error, and upon me proved, / I never writ...'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q12",
+    "chapter_id": "c10",
+    "question": "Where was William Shakespeare born?",
+    "options": ["London", "Stratford-on-Avon", "Oxford", "Cambridge"],
+    "correct_index": 1,
+    "explanation": "William Shakespeare was born at Stratford-on-Avon, England.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q13",
+    "chapter_id": "c10",
+    "question": "In what year was the sonnet sequence published?",
+    "options": ["1564", "1593", "1602", "1616"],
+    "correct_index": 2,
+    "explanation": "His Sonnets were published in 1602.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q14",
+    "chapter_id": "c10",
+    "question": "How many sonnets did Shakespeare write in total?",
+    "options": ["37", "116", "154", "200"],
+    "correct_index": 2,
+    "explanation": "Shakespeare wrote 154 sonnets.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q15",
+    "chapter_id": "c10",
+    "question": "The 'marriage of true minds' refers to a union based on:",
+    "options": ["Physical attraction only", "Intellectual and spiritual connection", "Financial benefit", "Social status"],
+    "correct_index": 1,
+    "explanation": "The phrase suggests a deep, spiritual bond between honest and faithful people.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q16",
+    "chapter_id": "c10",
+    "question": "In the context of the poem, 'compass' refers to:",
+    "options": ["A tool to find direction", "The range or reach of a sickle", "A circle", "A map"],
+    "correct_index": 1,
+    "explanation": "The phrase 'bending sickle's compass' refers to the range within which a sickle can cut.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q17",
+    "chapter_id": "c10",
+    "question": "The 'ever-fixed mark' is likely a reference to a:",
+    "options": ["Mountain", "Lighthouse or sea-mark", "Star", "Tree"],
+    "correct_index": 1,
+    "explanation": "A sea-mark/lighthouse is a permanent fixture used by sailors to navigate despite storms.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q18",
+    "chapter_id": "c10",
+    "question": "Shakespeare uses the image of a 'sickle' to represent:",
+    "options": ["Agriculture", "War", "Death/Time as the Reaper", "A curved moon"],
+    "correct_index": 2,
+    "explanation": "The sickle is a traditional symbol of Time or Death, which mows down youth and beauty.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q19",
+    "chapter_id": "c10",
+    "question": "How many plays are attributed to William Shakespeare in the biographical note?",
+    "options": ["154", "37", "2", "10"],
+    "correct_index": 1,
+    "explanation": "His voluminous work includes 37 plays.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q20",
+    "chapter_id": "c10",
+    "question": "True love is 'the ________ to every wandering bark'.",
+    "options": ["Anchor", "Star", "Sail", "Wind"],
+    "correct_index": 1,
+    "explanation": "Love is the guiding star (Polaris) for ships lost at sea.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q21",
+    "chapter_id": "c10",
+    "question": "The poet says love 'bends with the ________ to remove'.",
+    "options": ["Wind", "Remover", "Mind", "Sickle"],
+    "correct_index": 1,
+    "explanation": "Shakespeare writes that love does not bend 'with the remover to remove'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q22",
+    "chapter_id": "c10",
+    "question": "The value of love is described as 'unknown' even though its ________ be taken.",
+    "options": ["Weight", "Height", "Length", "Depth"],
+    "correct_index": 1,
+    "explanation": "Shakespeare writes: 'Whose worth's unknown, although his height be taken.'",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q23",
+    "chapter_id": "c10",
+    "question": "Shakespearean sonnets are typically written in which meter?",
+    "options": ["Dactylic hexameter", "Iambic pentameter", "Trochaic tetrameter", "Anapestic trimeter"],
+    "correct_index": 1,
+    "explanation": "Sonnets of this era, especially Shakespeare's, are written in iambic pentameter.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q24",
+    "chapter_id": "c10",
+    "question": "In line 10, 'sickle' refers to an instrument used for ________.",
+    "options": ["Navigation", "Cutting grain/crops", "Measuring time", "Writing"],
+    "correct_index": 1,
+    "explanation": "A sickle is a tool used for harvesting, symbolizing how Time 'harvests' life.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q25",
+    "chapter_id": "c10",
+    "question": "Shakespeare lived between which years?",
+    "options": ["1500-1550", "1564-1616", "1593-1602", "1616-1660"],
+    "correct_index": 1,
+    "explanation": "William Shakespeare lived from 1564 to 1616.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q26",
+    "chapter_id": "c10",
+    "question": "Love does not alter with Time's brief hours and ________.",
+    "options": ["Days", "Months", "Weeks", "Years"],
+    "correct_index": 2,
+    "explanation": "The line reads: 'Love alters not with his brief hours and weeks'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q27",
+    "chapter_id": "c10",
+    "question": "The 'wandering bark' is a metaphor for:",
+    "options": ["A tree in the forest", "A lost soul or person", "A noisy animal", "A sunset"],
+    "correct_index": 1,
+    "explanation": "The wandering bark represents a person navigating the challenges of life.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q28",
+    "chapter_id": "c10",
+    "question": "Which of these words is used as a 'negative' to define love by what it is NOT?",
+    "options": ["Ever-fixed", "Star", "Not love", "True"],
+    "correct_index": 2,
+    "explanation": "Shakespeare often uses negatives like 'not love' or 'never' to define true love's absolute nature.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q29",
+    "chapter_id": "c10",
+    "question": "What kind of 'minds' is the marriage between?",
+    "options": ["Genius", "True", "Old", "Young"],
+    "correct_index": 1,
+    "explanation": "The first line refers to the 'marriage of true minds'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q30",
+    "chapter_id": "c10",
+    "question": "The 'height' of a star was taken by sailors to determine ________.",
+    "options": ["Distance to shore", "Latitude or position", "The time of day", "The speed of the boat"],
+    "correct_index": 1,
+    "explanation": "Measuring the star's height above the horizon allowed for navigation.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q31",
+    "chapter_id": "c10",
+    "question": "Shakespeare's sonnets were written during which historical period?",
+    "options": ["Victorian", "Elizabethan/Jacobean", "Medieval", "Romantic"],
+    "correct_index": 1,
+    "explanation": "Shakespeare wrote during the English Renaissance (Elizabethan era).",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q32",
+    "chapter_id": "c10",
+    "question": "True love 'bears it out' until the end. What does 'bears it out' mean?",
+    "options": ["Carries it outside", "Endures or continues", "Gives up", "Forgets"],
+    "correct_index": 1,
+    "explanation": "To 'bear it out' means to survive or last through challenges.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q33",
+    "chapter_id": "c10",
+    "question": "The rhyme scheme of a Shakespearean sonnet is:",
+    "options": ["AABB CCDD EEFF GG", "ABAB CDCD EFEF GG", "ABBA CDDC EFFE GG", "AAAA BBBB CCCC DD"],
+    "correct_index": 1,
+    "explanation": "A standard Shakespearean sonnet follows the ABAB CDCD EFEF GG rhyme scheme.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q34",
+    "chapter_id": "c10",
+    "question": "Which of these is a 'narrative poem' by Shakespeare mentioned in the note?",
+    "options": ["Hamlet", "Venus and Adonis (implied by 'two narrative poems')", "Sonnet 116", "King Lear"],
+    "correct_index": 1,
+    "explanation": "The text mentions he wrote 37 plays and 'two narrative poems'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q35",
+    "chapter_id": "c10",
+    "question": "True love is 'never ________' by tempests.",
+    "options": ["Seen", "Shaken", "Called", "Found"],
+    "correct_index": 1,
+    "explanation": "The poem states that love looks on tempests and is 'never shaken'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q36",
+    "chapter_id": "c10",
+    "question": "Line 4 says love does not bend 'with the remover to ________'.",
+    "options": ["Stay", "Change", "Remove", "Alter"],
+    "correct_index": 2,
+    "explanation": "The line ends with 'to remove'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q37",
+    "chapter_id": "c10",
+    "question": "The 'worth' of love is described as:",
+    "options": ["High", "Low", "Unknown", "A million"],
+    "correct_index": 2,
+    "explanation": "The poem says love's 'worth's unknown'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q38",
+    "chapter_id": "c10",
+    "question": "How many lines are in a Shakespearean sonnet?",
+    "options": ["10", "12", "14", "16"],
+    "correct_index": 2,
+    "explanation": "All sonnets have 14 lines.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q39",
+    "chapter_id": "c10",
+    "question": "The 'edge of doom' is a synonym for:",
+    "options": ["Sunset", "The end of time/Judgement Day", "A cliff", "The border of a country"],
+    "correct_index": 1,
+    "explanation": "In Shakespeare's time, 'doom' referred to the Last Judgement.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q40",
+    "chapter_id": "c10",
+    "question": "True love is NOT a 'fool' to which personified concept?",
+    "options": ["Death", "Nature", "Time", "Fate"],
+    "correct_index": 2,
+    "explanation": "The poet says 'Love's not Time's fool'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q41",
+    "chapter_id": "c10",
+    "question": "Shakespeare established his reputation as a dramatist and poet in which city?",
+    "options": ["Paris", "London", "Rome", "New York"],
+    "correct_index": 1,
+    "explanation": "He went to London where his reputation was established.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q42",
+    "chapter_id": "c10",
+    "question": "The poet claims that 'no man ever ________' if his definitions are false.",
+    "options": ["Lied", "Worked", "Loved", "Cried"],
+    "correct_index": 2,
+    "explanation": "The final line is: 'nor no man ever loved'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q43",
+    "chapter_id": "c10",
+    "question": "The tone of this sonnet can be best described as:",
+    "options": ["Sarcastic", "Confident and assertive", "Depressing", "Confused"],
+    "correct_index": 1,
+    "explanation": "The poet makes very strong, confident claims about the nature of love.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q44",
+    "chapter_id": "c10",
+    "question": "In the poem, love is treated as the ________ of the action.",
+    "options": ["Object", "Subject/Doer", "Victim", "Bystander"],
+    "correct_index": 1,
+    "explanation": "Love is personified as something that 'looks on tempests' and 'bears it out'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q45",
+    "chapter_id": "c10",
+    "question": "The phrase 'alteration finds' means to see ________ in the beloved.",
+    "options": ["Beauty", "Changes", "Wisdom", "Wealth"],
+    "correct_index": 1,
+    "explanation": "True love does not change even if the person loved changes.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q46",
+    "chapter_id": "c10",
+    "question": "The North Star (the star) is significant because it is:",
+    "options": ["Brightest", "Constant and unmoving", "Falling", "Red"],
+    "correct_index": 1,
+    "explanation": "Like the North Star, love is a constant guide.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q47",
+    "chapter_id": "c10",
+    "question": "What does 'proved' mean in the final couplet?",
+    "options": ["Tested", "Demonstrated or shown with evidence", "Written", "Found"],
+    "correct_index": 1,
+    "explanation": "He challenges others to prove his definition wrong.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q48",
+    "chapter_id": "c10",
+    "question": "The quatrains of the sonnet are followed by a ________.",
+    "options": ["Coda", "Couplet", "Chorus", "Blank line"],
+    "correct_index": 1,
+    "explanation": "The poem consists of three quatrains and a final couplet.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q49",
+    "chapter_id": "c10",
+    "question": "Shakespeare's sonnets were probably written between which years?",
+    "options": ["1550-1560", "1593-1598", "1610-1616", "1500-1520"],
+    "correct_index": 1,
+    "explanation": "They were probably written between 1593 and 1598.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "son_q50",
+    "chapter_id": "c10",
+    "question": "True love is 'an ________ mark'.",
+    "options": ["Often-shaken", "Ever-fixed", "Easy", "Invisible"],
+    "correct_index": 1,
+    "explanation": "The poet calls it an 'ever-fixed mark'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  }
+]
