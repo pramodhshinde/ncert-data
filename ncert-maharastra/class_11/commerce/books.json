@@ -120,6 +120,72 @@
       "subject": "Secretarial Practice",
       "chapterCount": 12,
       "parts": 1
+    },
+    {
+      "id": 1424,
+      "title": "Economics",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Economics",
+      "chapterCount": 10,
+      "parts": 1
+    },
+    {
+      "id": 1607,
+      "title": "Secretarial Practice",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Secretarial Practice",
+      "chapterCount": 12,
+      "parts": 1
+    },
+    {
+      "id": 1421,
+      "title": "Book-keeping and Accountancy",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Accountancy",
+      "chapterCount": 10,
+      "parts": 1
+    },
+    {
+      "id": 1442,
+      "title": "Geography",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 9,
+      "parts": 1
+    },
+    {
+      "id": 1605,
+      "title": "Organisation of Commerce and Management",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Organisation of Commerce and Management",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1600,
+      "title": "Co-operation",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Co-operation",
+      "chapterCount": 10,
+      "parts": 1
     }
   ]
 }

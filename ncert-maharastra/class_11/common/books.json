@@ -46,24 +46,13 @@
     },
     {
       "id": 1133,
-      "title": "Aroh",
+      "title": "Yuvakbharati Hindi",
       "subtitle": "Class 11 Maharashtra State Board Hindi Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehr1.jpg",
+      "coverUrl": "",
       "language": "hindi",
       "classNumber": "Class 11",
       "subject": "Hindi",
-      "chapterCount": 20,
-      "parts": 1
-    },
-    {
-      "id": 1134,
-      "title": "Vitan",
-      "subtitle": "Class 11 Maharashtra State Board Hindi Supplementary",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehv1.jpg",
-      "language": "hindi",
-      "classNumber": "Class 11",
-      "subject": "Hindi",
-      "chapterCount": 4,
+      "chapterCount": 17,
       "parts": 1
     },
     {
@@ -109,6 +98,39 @@
       "subject": "Mathematics",
       "chapterCount": 9,
       "parts": 2
+    },
+    {
+      "id": 1442,
+      "title": "Geography",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 9,
+      "parts": 1
+    },
+    {
+      "id": 1448,
+      "title": "Psychology",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Psychology",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1151,
+      "title": "Yuvakbharati Marathi",
+      "subtitle": "Class 11 Maharashtra State Board Marathi Textbook",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Marathi",
+      "chapterCount": 26,
+      "parts": 1
     }
   ]
 }
