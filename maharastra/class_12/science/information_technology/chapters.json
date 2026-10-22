@@ -1,0 +1,107 @@
+{
+  "books": [
+    {
+      "id": 1332,
+      "title": "Information Technology",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Information Technology",
+      "chapterCount": 6,
+      "parts": 1,
+      "coverUrl": ""
+    }
+  ],
+  "chapters": [
+    {
+      "id": 133201,
+      "bookId": 1332,
+      "chapterNumber": 1,
+      "title": "Advanced Web Designing",
+      "pdfUrl": "https://drive.google.com/file/d/1AEYG1pbywOnu4HOOJ0TJYJdxB-MQGQY0/view?usp=drivesdk",
+      "notesUrl": "https://drive.google.com/file/d/1lj1mKXyy5mTW8WhWuwevZ8X96lRTbBSl/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1mLzXVgR8aQhu5RgbXuzSwb5I-OsgxW_6/view?usp=drivesdk",
+      "hasRead": true,
+      "hasNotes": true,
+      "hasSolutions": true,
+      "hasMCQ": false,
+      "progressPercent": 0,
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": 133202,
+      "bookId": 1332,
+      "chapterNumber": 2,
+      "title": "Introduction to SEO (Search Engine Optimization)",
+      "pdfUrl": "https://drive.google.com/file/d/188pMMegtfy8ie9l3QGEugAjkffF2-M9E/view?usp=drivesdk",
+      "notesUrl": "https://drive.google.com/file/d/1Y0LPc3eqbrDEHP7ERFiHw6mO0RciFcYe/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1q0CQmOK9cfWhWDDKTGMM8v8VubIitAvb/view?usp=drivesdk",
+      "hasRead": true,
+      "hasNotes": true,
+      "hasSolutions": true,
+      "hasMCQ": false,
+      "progressPercent": 0,
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": 133203,
+      "bookId": 1332,
+      "chapterNumber": 3,
+      "title": "Advanced Javascript",
+      "pdfUrl": "https://drive.google.com/file/d/1JThHEkdG7XXtbdop83iYeqI4K0o10Bqo/view?usp=drivesdk",
+      "notesUrl": "https://drive.google.com/file/d/1BDz-uN4DMaAQLXgKzXCI-hmO_50wICnx/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1YCPTrtMmTBUw0WjSnnLuV7l-rdK2LmIU/view?usp=drivesdk",
+      "hasRead": true,
+      "hasNotes": true,
+      "hasSolutions": true,
+      "hasMCQ": false,
+      "progressPercent": 0,
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": 133204,
+      "bookId": 1332,
+      "chapterNumber": 4,
+      "title": "Emerging Technologies (IOT, Cloud computing, AI,5G)",
+      "pdfUrl": "https://drive.google.com/file/d/1aOxVVn12Gb4DMYSPybkFZF_E5y5_hd1N/view?usp=drivesdk",
+      "notesUrl": "https://drive.google.com/file/d/11RRGaqKY1GktYGfm3MYDVtA7dQ4hQL6t/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1UGe8ZE_rs1r0XYm_BKVvhVb7-brQx9bg/view?usp=drivesdk",
+      "hasRead": true,
+      "hasNotes": true,
+      "hasSolutions": true,
+      "hasMCQ": false,
+      "progressPercent": 0,
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": 133205,
+      "bookId": 1332,
+      "chapterNumber": 5,
+      "title": "Server-Side Scripting (PHP)",
+      "pdfUrl": "https://drive.google.com/file/d/1dqqW6scQ7MwDF6j2m2PWLLhh_JiSRvwm/view?usp=drivesdk",
+      "notesUrl": "https://drive.google.com/file/d/1AHW9bleteMqL-WUYjjsVyzNArfL6392A/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1pUtZGGl_rjNMXETkyZnGdAqdAiNdvBod/view?usp=drivesdk",
+      "hasRead": true,
+      "hasNotes": true,
+      "hasSolutions": true,
+      "hasMCQ": false,
+      "progressPercent": 0,
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": 133206,
+      "bookId": 1332,
+      "chapterNumber": 6,
+      "title": "E-Commerce and E-Governance",
+      "pdfUrl": "https://drive.google.com/file/d/17RdR2hz7GAqdkVRRk5xnKo4nhBlP0cUY/view?usp=drivesdk",
+      "notesUrl": "https://drive.google.com/file/d/1zSpBytKw1uNP7IpWH-zhoKawzItszV8F/view?usp=drivesdk",
+      "solutionsUrl": "https://drive.google.com/file/d/1P3SipBE1SAVcO8dtmYjiaQvhWOrkTnTv/view?usp=drivesdk",
+      "hasRead": true,
+      "hasNotes": true,
+      "hasSolutions": true,
+      "hasMCQ": false,
+      "progressPercent": 0,
+      "status": "NOT_STARTED"
+    }
+  ]
+}
