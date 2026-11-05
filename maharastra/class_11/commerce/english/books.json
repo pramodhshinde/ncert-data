@@ -1,0 +1,311 @@
+{
+  "books": [
+    {
+      "id": 1121,
+      "title": "Book-keeping and Accountancy",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Accountancy",
+      "chapterCount": 10,
+      "parts": 1,
+      "contentPath": "class_11/commerce/accountancy",
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1300,
+      "title": "Co-operation",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Co-operation",
+      "chapterCount": 10,
+      "parts": 1,
+      "contentPath": "class_11/commerce/co_operation",
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1124,
+      "title": "Economics",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Economics",
+      "chapterCount": 10,
+      "parts": 1,
+      "contentPath": "class_11/commerce/economics",
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1131,
+      "title": "Yuvakbharati English",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "English",
+      "chapterCount": 22,
+      "parts": 1,
+      "contentPath": "class_11/common/english",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1142,
+      "title": "Geography",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 9,
+      "parts": 1,
+      "contentPath": "class_11/common/geography",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1133,
+      "title": "Yuvakbharati Hindi",
+      "subtitle": "Class 11 Maharashtra State Board Hindi Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 17,
+      "parts": 1,
+      "contentPath": "class_11/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1301,
+      "title": "Information Technology",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Information Technology",
+      "chapterCount": 4,
+      "parts": 1,
+      "contentPath": "class_11/commerce/information_technology",
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1151,
+      "title": "Yuvakbharati Marathi",
+      "subtitle": "Class 11 Maharashtra State Board Marathi Textbook",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Marathi",
+      "chapterCount": 26,
+      "parts": 1,
+      "contentPath": "class_11/common/marathi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1106,
+      "title": "Mathematics and Statistics Part 1",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 9,
+      "parts": 2,
+      "contentPath": "class_11/common/mathematics",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1302,
+      "title": "Mathematics and Statistics Part 2",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 9,
+      "parts": 2,
+      "contentPath": "class_11/common/mathematics",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1303,
+      "title": "Mathematics and Statistics Part 1 (Commerce)",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics and Statistics",
+      "chapterCount": 9,
+      "parts": 2,
+      "contentPath": null,
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1304,
+      "title": "Mathematics and Statistics Part 2 (Commerce)",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Mathematics and Statistics",
+      "chapterCount": 9,
+      "parts": 2,
+      "contentPath": null,
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1305,
+      "title": "Organisation of Commerce and Management",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Organisation of Commerce and Management",
+      "chapterCount": 8,
+      "parts": 1,
+      "contentPath": null,
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1150,
+      "title": "Health and Physical Education",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Physical Education",
+      "chapterCount": 10,
+      "parts": 1,
+      "contentPath": "class_11/common/physical_education",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1148,
+      "title": "Psychology",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Psychology",
+      "chapterCount": 8,
+      "parts": 1,
+      "contentPath": "class_11/common/psychology",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1307,
+      "title": "Secretarial Practice",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "Secretarial Practice",
+      "chapterCount": 12,
+      "parts": 1,
+      "contentPath": "class_11/commerce/secretarial_practice",
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "english"
+      ]
+    }
+  ]
+}

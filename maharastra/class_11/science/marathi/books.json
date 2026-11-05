@@ -1,0 +1,107 @@
+{
+  "books": [
+    {
+      "id": 1131,
+      "title": "Yuvakbharati English",
+      "subtitle": "Class 11 Maharashtra State Board Textbook",
+      "coverUrl": "",
+      "language": "english",
+      "classNumber": "Class 11",
+      "subject": "English",
+      "chapterCount": 22,
+      "parts": 1,
+      "contentPath": "class_11/common/english",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1442,
+      "title": "Geography",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 9,
+      "parts": 1,
+      "contentPath": "class_11/common/geography",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1133,
+      "title": "Yuvakbharati Hindi",
+      "subtitle": "Class 11 Maharashtra State Board Hindi Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 17,
+      "parts": 1,
+      "contentPath": "class_11/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1151,
+      "title": "Yuvakbharati Marathi",
+      "subtitle": "Class 11 Maharashtra State Board Marathi Textbook",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Marathi",
+      "chapterCount": 26,
+      "parts": 1,
+      "contentPath": "class_11/common/marathi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1448,
+      "title": "Psychology",
+      "subtitle": "Class 11 Maharashtra State Board Textbook (Marathi Medium)",
+      "coverUrl": "",
+      "language": "marathi",
+      "classNumber": "Class 11",
+      "subject": "Psychology",
+      "chapterCount": 8,
+      "parts": 1,
+      "contentPath": "class_11/common/psychology",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    }
+  ]
+}
