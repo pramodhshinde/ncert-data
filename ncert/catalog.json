@@ -1,0 +1,38 @@
+{
+  "board": "ncert",
+  "label": "NCERT",
+  "mediums": [
+    "english",
+    "hindi"
+  ],
+  "classes": {
+    "class_11": {
+      "arts": {
+        "english": 18,
+        "hindi": 5
+      },
+      "commerce": {
+        "english": 18,
+        "hindi": 5
+      },
+      "science": {
+        "english": 18,
+        "hindi": 5
+      }
+    },
+    "class_12": {
+      "arts": {
+        "english": 20,
+        "hindi": 2
+      },
+      "commerce": {
+        "english": 16,
+        "hindi": 2
+      },
+      "science": {
+        "english": 17,
+        "hindi": 2
+      }
+    }
+  }
+}
