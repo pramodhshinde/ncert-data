@@ -1,7 +1,0 @@
-{
-  "crossMediumSubjects": ["English", "Hindi", "Marathi"],
-  "boards": {
-    "data":       { "label": "NCERT",       "mediums": ["english", "hindi"] },
-    "maharastra": { "label": "Maharashtra", "mediums": ["english", "marathi"] }
-  }
-}
