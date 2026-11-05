@@ -1,4 +1,4 @@
-# Data layout v2 (branch `data-v2`) — board / class / stream / medium
+# Data layout 2026 (branch `2026`) — board / class / stream / medium
 
 `main` is untouched and keeps serving the already-published apps. This branch adds a resolved
 view per combination so an app fetches **exactly one file** for what the student picked:
@@ -9,7 +9,7 @@ view per combination so an app fetches **exactly one file** for what the student
 <board>/class_N/<stream>/<medium>/papers.json     resolved papers
 <board>/class_N/<stream>|common/<subject>/...     content (chapters.json, mcqs/) — NOT moved, NOT duplicated
 ```
-`<board>` = `data` (NCERT) or `maharastra`. Each resolved book has `contentPath` (folder holding its
+`<board>` = `ncert` (NCERT) or `maharastra`. Each resolved book has `contentPath` (folder holding its
 chapters/mcqs), `streams` and `mediums`.
 
 ## Sharing rules
