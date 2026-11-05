@@ -1,0 +1,18 @@
+[
+  {
+    "mcq_id": "geo_ch21_q01",
+    "chapter_id": "geo_ch21",
+    "question": "An isobar on a weather map connects places with equal:",
+    "options": [
+      "Temperature",
+      "Rainfall",
+      "Atmospheric pressure",
+      "Humidity"
+    ],
+    "correct_index": 2,
+    "explanation": "Isobars are lines on a map connecting places with equal atmospheric pressure.",
+    "ncert_page": 1,
+    "difficulty": "EASY",
+    "subject": "Geography"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "subject": "biology",
+  "classNumber": 11,
+  "chapters": [
+    { "chapterNumber": 1, "title": "The Living World", "fileName": "bio_ch1.json", "questionCount": 50 },
+    { "chapterNumber": 2, "title": "Biological Classification", "fileName": "bio_ch2.json", "questionCount": 50 },
+    { "chapterNumber": 3, "title": "Plant Kingdom", "fileName": "bio_ch3.json", "questionCount": 50 },
+    { "chapterNumber": 4, "title": "Animal Kingdom", "fileName": "bio_ch4.json", "questionCount": 50 },
+    { "chapterNumber": 5, "title": "Morphology of Flowering Plants", "fileName": "bio_ch5.json", "questionCount": 50 },
+    { "chapterNumber": 6, "title": "Anatomy of Flowering Plants", "fileName": "bio_ch6.json", "questionCount": 50 },
+    { "chapterNumber": 7, "title": "Structural Organisation in Animals", "fileName": "bio_ch7.json", "questionCount": 50 },
+    { "chapterNumber": 8, "title": "Cell: The Unit of Life", "fileName": "bio_ch8.json", "questionCount": 50 },
+    { "chapterNumber": 9, "title": "Biomolecules", "fileName": "bio_ch9.json", "questionCount": 50 },
+    { "chapterNumber": 10, "title": "Cell Cycle and Cell Division", "fileName": "bio_ch10.json", "questionCount": 50 },
+    { "chapterNumber": 11, "title": "Photosynthesis in Higher Plants", "fileName": "bio_ch11.json", "questionCount": 50 },
+    { "chapterNumber": 12, "title": "Respiration in Plants", "fileName": "bio_ch12.json", "questionCount": 50 },
+    { "chapterNumber": 13, "title": "Plant Growth and Development", "fileName": "bio_ch13.json", "questionCount": 50 },
+    { "chapterNumber": 14, "title": "Breathing and Exchange of Gases", "fileName": "bio_ch14.json", "questionCount": 50 },
+    { "chapterNumber": 15, "title": "Body Fluids and Circulation", "fileName": "bio_ch15.json", "questionCount": 50 },
+    { "chapterNumber": 16, "title": "Excretory Products and their Elimination", "fileName": "bio_ch16.json", "questionCount": 50 },
+    { "chapterNumber": 17, "title": "Locomotion and Movement", "fileName": "bio_ch17.json", "questionCount": 50 },
+    { "chapterNumber": 18, "title": "Neural Control and Coordination", "fileName": "bio_ch18.json", "questionCount": 50 },
+    { "chapterNumber": 19, "title": "Chemical Coordination and Integration", "fileName": "bio_ch19.json", "questionCount": 50 }
+  ],
+  "totalChapters": 19
+}

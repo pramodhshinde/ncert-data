@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c4_q01",
+    "chapter_id": "c4",
+    "question": "What does the assumption of 'ceteris paribus' literally mean in economic analysis?",
+    "options": [
+      "Other things remaining equal",
+      "Total income equals total output",
+      "Price levels are variable",
+      "All variables change simultaneously"
+    ],
+    "correct_index": 0,
+    "explanation": "Ceteris paribus is a Latin phrase used in theoretical exercises meaning 'other things remaining equal', where we hold all other variables constant to study the effect of one.",
+    "ncert_page": 53,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q02",
+    "chapter_id": "c4",
+    "question": "What is the term for 'planned' measures of variables like consumption or investment?",
+    "options": [
+      "Ex post",
+      "Ex ante",
+      "Autonomous",
+      "Induced"
+    ],
+    "correct_index": 1,
+    "explanation": "Ex ante measures depict what has been planned, whereas ex post depicts what has actually happened in the economy.",
+    "ncert_page": 54,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q03",
+    "chapter_id": "c4",
+    "question": "Which of the following describes the consumption function?",
+    "options": [
+      "C = c + Y",
+      "C = C + cY",
+      "C = Y - c",
+      "C = c / Y"
+    ],
+    "correct_index": 1,
+    "explanation": "The consumption function is given by C = C_bar + cY, where C_bar is autonomous consumption and cY is induced consumption.",
+    "ncert_page": 54,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q04",
+    "chapter_id": "c4",
+    "question": "What does MPC (Marginal Propensity to Consume) represent?",
+    "options": [
+      "Total consumption divided by total income",
+      "The change in consumption per unit change in income",
+      "Consumption when income is zero",
+      "The total savings in the economy"
+    ],
+    "correct_index": 1,
+    "explanation": "MPC is the rate of change of consumption as income changes, defined as ΔC / ΔY.",
+    "ncert_page": 54,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q05",
+    "chapter_id": "c4",
+    "question": "What is the relationship between MPC and MPS?",
+    "options": [
+      "MPC + MPS = 0",
+      "MPC + MPS = 1",
+      "MPC - MPS = 1",
+      "MPC / MPS = 1"
+    ],
+    "correct_index": 1,
+    "explanation": "Since income is either consumed or saved, ΔY = ΔC + ΔS. Dividing by ΔY, we get 1 = MPC + MPS.",
+    "ncert_page": 55,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q06",
+    "chapter_id": "c4",
+    "question": "In the two-sector model, what is the aggregate demand equation?",
+    "options": [
+      "AD = C + I",
+      "AD = C - I",
+      "AD = C * I",
+      "AD = I / C"
+    ],
+    "correct_index": 0,
+    "explanation": "In an economy without government, aggregate demand is the sum of planned consumption (C) and planned investment (I).",
+    "ncert_page": 56,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q07",
+    "chapter_id": "c4",
+    "question": "What does the 45-degree line represent in the determination of equilibrium income?",
+    "options": [
+      "Aggregate Demand",
+      "Autonomous Consumption",
+      "Aggregate Supply",
+      "Marginal Propensity to Save"
+    ],
+    "correct_index": 2,
+    "explanation": "The 45-degree line represents the aggregate supply, where every point on the line has equal horizontal (income) and vertical (supply) coordinates.",
+    "ncert_page": 59,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q08",
+    "chapter_id": "c4",
+    "question": "What is the value of the investment multiplier?",
+    "options": [
+      "1 / (1 + c)",
+      "1 / (1 - c)",
+      "1 / c",
+      "1 / (1 + s)"
+    ],
+    "correct_index": 1,
+    "explanation": "The investment multiplier is given by the formula ΔY / ΔA_bar = 1 / (1 - MPC), or 1 / MPS.",
+    "ncert_page": 62,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q09",
+    "chapter_id": "c4",
+    "question": "What is the 'Paradox of Thrift'?",
+    "options": [
+      "Increased savings lead to increased total output",
+      "Increased savings lead to higher interest rates",
+      "As people become more thrifty, the total value of savings in the economy may decline or remain unchanged",
+      "Increased consumption leads to higher savings"
+    ],
+    "correct_index": 2,
+    "explanation": "The paradox states that an attempt by all people to increase their savings rate results in a decrease in total output, ultimately leaving total savings unchanged or lower.",
+    "ncert_page": 63,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q10",
+    "chapter_id": "c4",
+    "question": "What is the effect of an increase in MPC on the AD line?",
+    "options": [
+      "The line shifts upwards parallelly",
+      "The slope of the line increases (it swings upwards)",
+      "The slope of the line decreases (it swings downwards)",
+      "The line remains unchanged"
+    ],
+    "correct_index": 1,
+    "explanation": "Since MPC is the slope of the AD line, an increase in MPC makes the line steeper, swinging it upwards.",
+    "ncert_page": 63,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q11",
+    "chapter_id": "c4",
+    "question": "If income is zero, what level of consumption is still incurred?",
+    "options": [
+      "Zero",
+      "Induced consumption",
+      "Autonomous consumption",
+      "Savings"
+    ],
+    "correct_index": 2,
+    "explanation": "Autonomous consumption is the level of consumption that is independent of income and takes place even when income is zero.",
+    "ncert_page": 54,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q12",
+    "chapter_id": "c4",
+    "question": "What is the maximum value that MPC can take?",
+    "options": [
+      "0",
+      "0.5",
+      "1",
+      "Infinite"
+    ],
+    "correct_index": 2,
+    "explanation": "The change in consumption can never exceed the change in income, therefore the maximum value for MPC is 1.",
+    "ncert_page": 54,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q13",
+    "chapter_id": "c4",
+    "question": "In the consumption function C = 100 + 0.8Y, what is the autonomous consumption?",
+    "options": [
+      "0.8",
+      "100",
+      "Y",
+      "0.2"
+    ],
+    "correct_index": 1,
+    "explanation": "In the equation C = C_bar + cY, C_bar is the autonomous consumption, which is 100 here.",
+    "ncert_page": 55,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q14",
+    "chapter_id": "c4",
+    "question": "What is the formula for Average Propensity to Consume (APC)?",
+    "options": [
+      "C / Y",
+      "ΔC / ΔY",
+      "S / Y",
+      "C + Y"
+    ],
+    "correct_index": 0,
+    "explanation": "APC is defined as consumption per unit of income, which is C/Y.",
+    "ncert_page": 55,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q15",
+    "chapter_id": "c4",
+    "question": "What does ex post investment include, besides planned investment?",
+    "options": [
+      "Government expenditure",
+      "Unintended accumulation of inventories",
+      "Autonomous consumption",
+      "Taxes"
+    ],
+    "correct_index": 1,
+    "explanation": "Ex post investment equals planned investment plus any unintended changes in inventories.",
+    "ncert_page": 56,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q16",
+    "chapter_id": "c4",
+    "question": "When does the final goods market reach equilibrium?",
+    "options": [
+      "When Consumption equals Investment",
+      "When Aggregate Demand equals Aggregate Supply",
+      "When Savings equal Consumption",
+      "When MPC equals MPS"
+    ],
+    "correct_index": 1,
+    "explanation": "The market is in equilibrium when planned aggregate demand equals planned aggregate supply (output).",
+    "ncert_page": 65,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q17",
+    "chapter_id": "c4",
+    "question": "What happens if aggregate demand is less than output?",
+    "options": [
+      "Inventories pile up (unintended accumulation)",
+      "Production increases",
+      "The economy reaches equilibrium",
+      "Price level rises"
+    ],
+    "correct_index": 0,
+    "explanation": "If planned demand falls short of planned output, stocks pile up in warehouses, which is unintended inventory accumulation.",
+    "ncert_page": 56,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q18",
+    "chapter_id": "c4",
+    "question": "Which of the following affects investment decisions by producers?",
+    "options": [
+      "Only income",
+      "Market rate of interest",
+      "Only autonomous consumption",
+      "Government taxes only"
+    ],
+    "correct_index": 1,
+    "explanation": "Investment decisions depend largely on the market rate of interest, though it is assumed autonomous in this model for simplicity.",
+    "ncert_page": 56,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q19",
+    "chapter_id": "c4",
+    "question": "What does a horizontal investment curve indicate?",
+    "options": [
+      "Investment changes with income",
+      "Investment is autonomous (constant)",
+      "Investment is zero",
+      "Investment equals consumption"
+    ],
+    "correct_index": 1,
+    "explanation": "A horizontal line for investment (I = I_bar) shows that investment does not change regardless of the level of income.",
+    "ncert_page": 58,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q20",
+    "chapter_id": "c4",
+    "question": "What is the full employment level of income?",
+    "options": [
+      "The income level where aggregate demand equals aggregate supply",
+      "The income level where all factors of production are fully employed",
+      "The income level where consumption is maximum",
+      "The income level where investment is zero"
+    ],
+    "correct_index": 1,
+    "explanation": "Full employment level is defined as the level where all factors of production are fully utilized in the production process.",
+    "ncert_page": 64,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q21",
+    "chapter_id": "c4",
+    "question": "What happens in a situation of deficient demand?",
+    "options": [
+      "Prices rise in the long run",
+      "Prices decline in the long run",
+      "The economy is in full employment",
+      "Inventories are depleted"
+    ],
+    "correct_index": 1,
+    "explanation": "Deficient demand means aggregate demand is not enough to employ all factors, leading to a decline in prices in the long run.",
+    "ncert_page": 64,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q22",
+    "chapter_id": "c4",
+    "question": "In the algebraic equilibrium condition Y = (C_bar + I_bar) / (1 - c), what does (1 - c) represent?",
+    "options": [
+      "MPC",
+      "MPS",
+      "APC",
+      "APS"
+    ],
+    "correct_index": 1,
+    "explanation": "Since c = MPC, 1 - c = 1 - MPC = MPS.",
+    "ncert_page": 60,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q23",
+    "chapter_id": "c4",
+    "question": "Which of the following is considered a fiscal variable?",
+    "options": [
+      "Consumption",
+      "Investment",
+      "Tax",
+      "Output"
+    ],
+    "correct_index": 2,
+    "explanation": "Taxes (T) and Government Expenditure (G) are primary fiscal variables that affect aggregate demand.",
+    "ncert_page": 57,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q24",
+    "chapter_id": "c4",
+    "question": "What is the disposable income of households?",
+    "options": [
+      "Total Income",
+      "Income - Taxes",
+      "Income - Consumption",
+      "Income + Investment"
+    ],
+    "correct_index": 1,
+    "explanation": "Disposable income (Y_d) is the portion of income left after taxes (Y_d = Y - T).",
+    "ncert_page": 57,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q25",
+    "chapter_id": "c4",
+    "question": "Why do we assume the price level is fixed in the first stage of macroeconomic theory?",
+    "options": [
+      "Because prices never change",
+      "To simplify the analysis by assuming unused resources",
+      "Because supply is perfectly inelastic",
+      "Because there is no government"
+    ],
+    "correct_index": 1,
+    "explanation": "Taking price as fixed assumes unused resources exist, meaning additional output can be produced without increasing marginal costs.",
+    "ncert_page": 57,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q26",
+    "chapter_id": "c4",
+    "question": "What is the slope of the consumption function?",
+    "options": [
+      "Autonomous Consumption",
+      "Average Propensity to Consume",
+      "Marginal Propensity to Consume",
+      "Marginal Propensity to Save"
+    ],
+    "correct_index": 2,
+    "explanation": "The consumption function C = C_bar + cY, the constant 'c' represents the slope, which is the MPC.",
+    "ncert_page": 58,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q27",
+    "chapter_id": "c4",
+    "question": "What does the vertical intercept of the consumption function graph represent?",
+    "options": [
+      "Total Income",
+      "MPC",
+      "Autonomous Consumption",
+      "Savings"
+    ],
+    "correct_index": 2,
+    "explanation": "The intercept of the consumption function on the Y-axis is the autonomous consumption (C_bar).",
+    "ncert_page": 58,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q28",
+    "chapter_id": "c4",
+    "question": "In the aggregate demand graph, why is the AD line parallel to the consumption line?",
+    "options": [
+      "Because Investment is zero",
+      "Because the slope is determined by MPC (c) in both",
+      "Because they share the same intercept",
+      "Because supply is fixed"
+    ],
+    "correct_index": 1,
+    "explanation": "The slope of both the consumption function (C = C_bar + cY) and the aggregate demand function (AD = C_bar + I_bar + cY) is c, making them parallel.",
+    "ncert_page": 59,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q29",
+    "chapter_id": "c4",
+    "question": "What determines equilibrium level of output?",
+    "options": [
+      "Aggregate Supply",
+      "Aggregate Demand",
+      "Only Autonomous Consumption",
+      "Price level"
+    ],
+    "correct_index": 1,
+    "explanation": "In this model, aggregate output is determined solely by the level of aggregate demand (the effective demand principle).",
+    "ncert_page": 65,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q30",
+    "chapter_id": "c4",
+    "question": "What happens if autonomous investment increases?",
+    "options": [
+      "The equilibrium level of income decreases",
+      "The AD line shifts upward, and equilibrium income increases by a multiple of the change",
+      "The AD line shifts downward",
+      "The economy enters a recession"
+    ],
+    "correct_index": 1,
+    "explanation": "An increase in autonomous expenditure shifts the AD line upward, and the multiplier mechanism causes income to increase by a larger amount.",
+    "ncert_page": 61,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q31",
+    "chapter_id": "c4",
+    "question": "Which of these is NOT a component of aggregate demand in a two-sector model?",
+    "options": [
+      "Consumption",
+      "Investment",
+      "Taxes",
+      "Autonomous Consumption"
+    ],
+    "correct_index": 2,
+    "explanation": "In a two-sector model, AD consists of consumption and investment. Taxes are part of a model with a government sector.",
+    "ncert_page": 56,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q32",
+    "chapter_id": "c4",
+    "question": "What is the effect of an increase in MPS on the slope of the AD line?",
+    "options": [
+      "Increases the slope",
+      "Decreases the slope",
+      "No change",
+      "Makes the slope negative"
+    ],
+    "correct_index": 1,
+    "explanation": "Since MPS = 1 - MPC, an increase in MPS implies a decrease in MPC, which is the slope of the AD line.",
+    "ncert_page": 63,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q33",
+    "chapter_id": "c4",
+    "question": "What is another name for the consumption expenditure model C = C_bar + cY?",
+    "options": [
+      "The Keynesian model",
+      "The Supply-side model",
+      "The Microeconomic model",
+      "The Monetary model"
+    ],
+    "correct_index": 0,
+    "explanation": "The theoretical model used in this chapter is based on the theory given by John Maynard Keynes.",
+    "ncert_page": 53,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q34",
+    "chapter_id": "c4",
+    "question": "What is the relationship between GDP and National Income when indirect taxes/subsidies are ignored?",
+    "options": [
+      "They are identical",
+      "GDP is greater than National Income",
+      "National Income is greater than GDP",
+      "They have no relationship"
+    ],
+    "correct_index": 0,
+    "explanation": "Without the government imposing indirect taxes and subsidies, GDP becomes identically equal to National Income.",
+    "ncert_page": 57,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q35",
+    "chapter_id": "c4",
+    "question": "What is the term for consumption which is independent of income?",
+    "options": [
+      "Induced consumption",
+      "Autonomous consumption",
+      "Disposable consumption",
+      "Planned consumption"
+    ],
+    "correct_index": 1,
+    "explanation": "Autonomous consumption is the portion of consumption that does not depend on the level of income.",
+    "ncert_page": 54,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q36",
+    "chapter_id": "c4",
+    "question": "If MPC = 0.5, what is the value of the multiplier?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "correct_index": 1,
+    "explanation": "Multiplier = 1 / (1 - MPC) = 1 / (1 - 0.5) = 1 / 0.5 = 2.",
+    "ncert_page": 62,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q37",
+    "chapter_id": "c4",
+    "question": "What is the main objective of macroeconomics mentioned in the text?",
+    "options": [
+      "To measure individual behavior",
+      "To develop theoretical models to determine values of economic variables",
+      "To maximize individual utility",
+      "To eliminate all taxes"
+    ],
+    "correct_index": 1,
+    "explanation": "The basic objective is to develop models capable of describing processes which determine the values of variables like national income and price levels.",
+    "ncert_page": 53,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q38",
+    "chapter_id": "c4",
+    "question": "What is inventory investment?",
+    "options": [
+      "The change in the stock of finished goods",
+      "The purchase of new machinery",
+      "The expenditure on consumption",
+      "The payment of wages"
+    ],
+    "correct_index": 0,
+    "explanation": "Investment is defined as additions to physical capital and changes in the inventory (stock of finished goods) of a producer.",
+    "ncert_page": 56,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q39",
+    "chapter_id": "c4",
+    "question": "In the multiplier mechanism, what causes the process to continue round after round?",
+    "options": [
+      "Government intervention",
+      "Consumers spending a part of their additional income",
+      "Changes in interest rates",
+      "Inflation"
+    ],
+    "correct_index": 1,
+    "explanation": "The process continues as producers increase output to meet demand, which increases income, leading to further consumption expenditure.",
+    "ncert_page": 61,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q40",
+    "chapter_id": "c4",
+    "question": "What is the value of MPS when MPC = 0.8?",
+    "options": [
+      "0.8",
+      "0.2",
+      "1.8",
+      "0"
+    ],
+    "correct_index": 1,
+    "explanation": "Since MPC + MPS = 1, MPS = 1 - 0.8 = 0.2.",
+    "ncert_page": 55,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q41",
+    "chapter_id": "c4",
+    "question": "What does a negative inventory investment imply?",
+    "options": [
+      "An increase in inventory",
+      "A depletion of inventory",
+      "A constant inventory",
+      "No sales"
+    ],
+    "correct_index": 1,
+    "explanation": "Inventory investment can be negative if there is a depletion (running down) of inventory.",
+    "ncert_page": 56,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q42",
+    "chapter_id": "c4",
+    "question": "Which of these variables is typically observed to undergo periodic fluctuations?",
+    "options": [
+      "Subsistence consumption",
+      "Autonomous Investment",
+      "MPC",
+      "The 45-degree line"
+    ],
+    "correct_index": 1,
+    "explanation": "While subsistence (autonomous) consumption is stable, autonomous investment has been observed to undergo periodic fluctuations.",
+    "ncert_page": 56,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q43",
+    "chapter_id": "c4",
+    "question": "What is the condition for equilibrium in a two-sector model?",
+    "options": [
+      "Y = C + I",
+      "Y = C - I",
+      "C = I",
+      "Y = C * I"
+    ],
+    "correct_index": 0,
+    "explanation": "Equilibrium occurs when planned output (Y) equals planned aggregate demand (C + I).",
+    "ncert_page": 56,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q44",
+    "chapter_id": "c4",
+    "question": "If the marginal propensity to consume (c) is 0.8, what is the value of the autonomous expenditure multiplier?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "10"
+    ],
+    "correct_index": 2,
+    "explanation": "Multiplier = 1 / (1 - c) = 1 / (1 - 0.8) = 1 / 0.2 = 5.",
+    "ncert_page": 62,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q45",
+    "chapter_id": "c4",
+    "question": "What does a situation of 'excess demand' lead to in the long run?",
+    "options": [
+      "A decline in prices",
+      "A rise in prices",
+      "No change in prices",
+      "Full employment"
+    ],
+    "correct_index": 1,
+    "explanation": "Excess demand exists when demand is more than the output produced at full employment, leading to a rise in prices in the long run.",
+    "ncert_page": 64,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q46",
+    "chapter_id": "c4",
+    "question": "What is the term for the sum of autonomous consumption and autonomous investment?",
+    "options": [
+      "Total Consumption",
+      "Total Autonomous Expenditure",
+      "National Income",
+      "Disposable Income"
+    ],
+    "correct_index": 1,
+    "explanation": "Total autonomous expenditure (A_bar) is defined as the sum of autonomous consumption (C_bar) and autonomous investment (I_bar).",
+    "ncert_page": 56,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q47",
+    "chapter_id": "c4",
+    "question": "What is APS (Average Propensity to Save) equal to?",
+    "options": [
+      "C / Y",
+      "S / Y",
+      "ΔS / ΔY",
+      "1 - APC"
+    ],
+    "correct_index": 1,
+    "explanation": "APS is defined as the savings per unit of income, which is S/Y.",
+    "ncert_page": 55,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q48",
+    "chapter_id": "c4",
+    "question": "What does the 'effective demand principle' suggest?",
+    "options": [
+      "Aggregate supply determines output",
+      "Aggregate output is determined solely by the level of aggregate demand",
+      "Price levels determine output",
+      "Investment determines consumption"
+    ],
+    "correct_index": 1,
+    "explanation": "The principle states that given a fixed price and constant interest rate, aggregate output is determined solely by the level of aggregate demand.",
+    "ncert_page": 65,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q49",
+    "chapter_id": "c4",
+    "question": "What happens if income increases in an economy where MPC = 0.8?",
+    "options": [
+      "Consumption remains unchanged",
+      "Consumption increases by 0.8 times the increase in income",
+      "Consumption increases by the full amount of the increase in income",
+      "Savings increase by the full amount"
+    ],
+    "correct_index": 1,
+    "explanation": "The induced component of consumption (cY) shows that when income rises by 1, consumption rises by the MPC (c).",
+    "ncert_page": 54,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "c4_q50",
+    "chapter_id": "c4",
+    "question": "Which of the following is NOT an 'ex ante' measure?",
+    "options": [
+      "Planned consumption",
+      "Planned investment",
+      "Actual measured values of items in a year",
+      "Planned aggregate demand"
+    ],
+    "correct_index": 2,
+    "explanation": "Actual measured values (accounting values) are 'ex post' measures, whereas planned values are 'ex ante'.",
+    "ncert_page": 54,
+    "difficulty": "medium",
+    "subject": "Economics"
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "mcq_id": "math_s1_q01",
+    "chapter_id": "c1",
+    "question": "Who developed the theory of sets?",
+    "options": ["Pythagoras", "Albert Einstein", "Georg Cantor", "G.H. Hardy"],
+    "correct_index": 2,
+    "explanation": "The theory of sets was developed by German mathematician Georg Cantor (1845-1918)..pdf]",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q02",
+    "chapter_id": "c1",
+    "question": "Which of the following is the correct definition of a set?",
+    "options": [
+      "Any collection of objects",
+      "A well-defined collection of objects",
+      "A group of numbers only",
+      "A list of items in brackets"
+    ],
+    "correct_index": 1,
+    "explanation": "A set is a well-defined collection of objects..pdf]",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q03",
+    "chapter_id": "c1",
+    "question": "In set theory, what symbol is used to denote that an element 'a' belongs to set 'A'?",
+    "options": ["a ⊂ A", "a ∉ A", "a ∈ A", "a = A"],
+    "correct_index": 2,
+    "explanation": "The Greek symbol ε (epsilon) is used to denote the phrase ‘belongs to’. Thus, we write a ∈ A..pdf]",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q04",
+    "chapter_id": "c1",
+    "question": "What does the symbol 'Z' typically represent in mathematics?",
+    "options": [
+      "The set of all natural numbers",
+      "The set of all rational numbers",
+      "The set of all integers",
+      "The set of all real numbers"
+    ],
+    "correct_index": 2,
+    "explanation": "Z is used to denote the set of all integers..pdf]",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q05",
+    "chapter_id": "c1",
+    "question": "Which method of representing a set involves listing all elements within braces { } separated by commas?",
+    "options": [
+      "Set-builder form",
+      "Venn Diagram",
+      "Roaster or tabular form",
+      "Interval form"
+    ],
+    "correct_index": 2,
+    "explanation": "In roster form, all the elements of a set are listed, the elements are being separated by commas and are enclosed within braces { }..pdf]",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q06",
+    "chapter_id": "c1",
+    "question": "In roster form, if an element is repeated in the description, how is it generally treated?",
+    "options": [
+      "It is listed as many times as it appears",
+      "It is listed only once",
+      "It makes the set invalid",
+      "It must be underlined"
+    ],
+    "correct_index": 1,
+    "explanation": "It may be noted that while writing the set in roster form an element is not generally repeated, i.e., all the elements are taken as distinct..pdf]",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q07",
+    "chapter_id": "c1",
+    "question": "What is the roster form of the set of all letters in the word 'SCHOOL'?",
+    "options": [
+      "{S, C, H, O, O, L}",
+      "{S, C, H, O, L}",
+      "{SCHOOL}",
+      "{S, C, H, L}"
+    ],
+    "correct_index": 1,
+    "explanation": "In roster form, repeated elements like 'O' are only listed once..pdf]",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q08",
+    "chapter_id": "c1",
+    "question": "A set which does not contain any element is called the:",
+    "options": ["Finite set", "Universal set", "Empty set", "Subset"],
+    "correct_index": 2,
+    "explanation": "A set which does not contain any element is called the empty set or the null set or the void set..pdf]",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q09",
+    "chapter_id": "c1",
+    "question": "The symbol used to represent an empty set is:",
+    "options": ["{0}", "φ (phi)", "ε (epsilon)", "U"],
+    "correct_index": 1,
+    "explanation": "The empty set is denoted by the symbol φ or { }..pdf]",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q10",
+    "chapter_id": "c1",
+    "question": "Which of the following is a finite set?",
+    "options": [
+      "Set of points on a line",
+      "Set of natural numbers",
+      "{x : x is a month of a year}",
+      "Set of integers"
+    ],
+    "correct_index": 2,
+    "explanation": "A set which is empty or consists of a definite number of elements is called finite. There are exactly 12 months in a year..pdf]",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q11",
+    "chapter_id": "c1",
+    "question": "Two sets A and B are said to be equal if:",
+    "options": [
+      "They have the same number of elements",
+      "They have exactly the same elements",
+      "One is a subset of the other",
+      "They are both finite"
+    ],
+    "correct_index": 1,
+    "explanation": "Two sets A and B are said to be equal if they have exactly the same elements and we write A = B..pdf]",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q12",
+    "chapter_id": "c1",
+    "question": "If every element of set A is also an element of set B, then A is called a ________ of B.",
+    "options": ["Power set", "Subset", "Universal set", "Super set"],
+    "correct_index": 1,
+    "explanation": "A set A is said to be a subset of a set B if every element of A is also an element of B..pdf]",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q13",
+    "chapter_id": "c1",
+    "question": "Which of the following statements is always TRUE for any set A?",
+    "options": ["A ⊂ φ", "φ ⊂ A", "A ∈ A", "φ ∈ A"],
+    "correct_index": 1,
+    "explanation": "The empty set φ is a subset of every set..pdf]",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q14",
+    "chapter_id": "c1",
+    "question": "What is the total number of subsets of a set containing 'n' elements?",
+    "options": ["n^2", "2n", "2^n", "n!"],
+    "correct_index": 2,
+    "explanation": "If A is a set with n(A) = m, then the number of subsets of A is 2^m..pdf]",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q15",
+    "chapter_id": "c1",
+    "question": "The collection of all subsets of a set A is called the:",
+    "options": ["Universal set", "Power set", "Finite set", "Null set"],
+    "correct_index": 1,
+    "explanation": "The collection of all subsets of a set A is called the power set of A. It is denoted by P(A)..pdf]",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q16",
+    "chapter_id": "c1",
+    "question": "In a Venn diagram, the Universal set is usually represented by a:",
+    "options": ["Circle", "Rectangle", "Triangle", "Dot"],
+    "correct_index": 1,
+    "explanation": "In Venn diagrams, the universal set is represented usually by a rectangle and its subsets by circles..pdf]",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q17",
+    "chapter_id": "c1",
+    "question": "The union of two sets A and B (A ∪ B) is the set of all those elements which are:",
+    "options": [
+      "In both A and B simultaneously",
+      "In A or in B (including those in both)",
+      "Only in A and not in B",
+      "In the universal set but not in A or B"
+    ],
+    "correct_index": 1,
+    "explanation": "The union of two sets A and B is the set C which consists of all those elements which are either in A or in B..pdf]",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q18",
+    "chapter_id": "c1",
+    "question": "The intersection of two sets A and B (A ∩ B) consists of elements which are:",
+    "options": [
+      "In A but not B",
+      "In B but not A",
+      "Common to both A and B",
+      "In either A or B"
+    ],
+    "correct_index": 2,
+    "explanation": "The intersection of sets A and B is the set of all elements which are common to both A and B..pdf]",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q19",
+    "chapter_id": "c1",
+    "question": "If A ∩ B = φ, then A and B are called:",
+    "options": ["Equal sets", "Disjoint sets", "Subsets", "Power sets"],
+    "correct_index": 1,
+    "explanation": "If A and B are two sets such that A ∩ B = φ, then A and B are called disjoint sets..pdf]",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q20",
+    "chapter_id": "c1",
+    "question": "The difference of sets A and B (A – B) is the set of elements which belong to:",
+    "options": [
+      "A and B",
+      "A but not to B",
+      "B but not to A",
+      "Universal set but not A"
+    ],
+    "correct_index": 1,
+    "explanation": "The difference of the sets A and B is the set of elements which belong to A but not to B..pdf]",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q21",
+    "chapter_id": "c1",
+    "question": "What is the complement of a set A (denoted by A')?",
+    "options": ["A – U", "U – A", "A ∪ U", "A ∩ U"],
+    "correct_index": 1,
+    "explanation": "Let U be the universal set and A a subset of U. Then the complement of A is the set of all elements of U which are not the elements of A..pdf]",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q22",
+    "chapter_id": "c1",
+    "question": "According to De Morgan's Law, (A ∪ B)' is equal to:",
+    "options": ["A' ∪ B'", "A' ∩ B'", "A ∩ B", "A' ∪ B"],
+    "correct_index": 1,
+    "explanation": "One of De Morgan's Laws states: (A ∪ B)' = A' ∩ B'..pdf]",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q23",
+    "chapter_id": "c1",
+    "question": "What is the result of (A')'?",
+    "options": ["A'", "φ", "U", "A"],
+    "correct_index": 3,
+    "explanation": "The law of double complementation states that (A')' = A..pdf]",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q24",
+    "chapter_id": "c1",
+    "question": "For any three sets A, B, and C, A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C). This is known as:",
+    "options": ["Commutative Law", "Associative Law", "Distributive Law", "Identity Law"],
+    "correct_index": 2,
+    "explanation": "This property is the Distributive Law of union over intersection..pdf]",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q25",
+    "chapter_id": "c1",
+    "question": "What is A ∪ A'?",
+    "options": ["A", "A'", "U", "φ"],
+    "correct_index": 2,
+    "explanation": "The union of a set and its complement is the Universal set U..pdf]",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q26",
+    "chapter_id": "c1",
+    "question": "What is A ∩ A'?",
+    "options": ["A", "φ", "U", "A'"],
+    "correct_index": 1,
+    "explanation": "A set and its complement have no elements in common, so their intersection is the empty set φ..pdf]",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q27",
+    "chapter_id": "c1",
+    "question": "The interval [a, b] is called a/an ________ interval.",
+    "options": ["Open", "Closed", "Half-open", "Infinite"],
+    "correct_index": 1,
+    "explanation": "The interval which contains the end points also is called closed interval and is denoted by [a, b]..pdf]",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q28",
+    "chapter_id": "c1",
+    "question": "Which set is denoted by {x : x ∈ R, a < x < b}?",
+    "options": ["[a, b]", "(a, b)", "[a, b)", "(a, b]"],
+    "correct_index": 1,
+    "explanation": "This is an open interval (a, b) where the end points a and b are not included..pdf]",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q29",
+    "chapter_id": "c1",
+    "question": "In set-builder form, the set V = {a, e, i, o, u} is written as:",
+    "options": [
+      "{x : x is a letter}",
+      "{x : x is a vowel in English alphabet}",
+      "{x : x is an alphabet}",
+      "{vowels}"
+    ],
+    "correct_index": 1,
+    "explanation": "Set-builder form describes the common property of all elements..pdf]",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q30",
+    "chapter_id": "c1",
+    "question": "What is the cardinality of the power set of set A = {1, 2}?",
+    "options": ["2", "3", "4", "5"],
+    "correct_index": 2,
+    "explanation": "The number of elements in A is 2. The number of elements in P(A) is 2^2 = 4..pdf]",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q31",
+    "chapter_id": "c1",
+    "question": "If A ⊂ B and A ≠ B, then A is called a ________ of B.",
+    "options": ["Proper subset", "Super set", "Equal set", "Universal set"],
+    "correct_index": 0,
+    "explanation": "If A ⊂ B and A ≠ B, then A is called a proper subset of B..pdf]",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q32",
+    "chapter_id": "c1",
+    "question": "Which of the following describes the set of all real numbers R?",
+    "options": ["(-∞, 0)", "(0, ∞)", "(-∞, ∞)", "[0, ∞]"],
+    "correct_index": 2,
+    "explanation": "The set of real numbers R is represented as the interval (-∞, ∞)..pdf]",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q33",
+    "chapter_id": "c1",
+    "question": "According to the Commutative Law, A ∪ B is equal to:",
+    "options": ["A ∩ B", "B ∪ A", "A", "B"],
+    "correct_index": 1,
+    "explanation": "Commutative Law: A ∪ B = B ∪ A..pdf]",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q34",
+    "chapter_id": "c1",
+    "question": "The shaded region in a Venn diagram representing (A ∩ B) is:",
+    "options": [
+      "The entire circles of A and B",
+      "The portion of circle A outside B",
+      "The common portion of circles A and B",
+      "The portion outside both circles"
+    ],
+    "correct_index": 2,
+    "explanation": "A ∩ B is the set of elements common to both..pdf]",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q35",
+    "chapter_id": "c1",
+    "question": "What is U' (complement of the Universal set)?",
+    "options": ["U", "A", "φ", "{0}"],
+    "correct_index": 2,
+    "explanation": "The complement of the universal set is the empty set..pdf]",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q36",
+    "chapter_id": "c1",
+    "question": "What is φ' (complement of the empty set)?",
+    "options": ["φ", "{ }", "U", "A"],
+    "correct_index": 2,
+    "explanation": "The complement of the empty set is the universal set U..pdf]",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q37",
+    "chapter_id": "c1",
+    "question": "If n(A) = 3 and n(B) = 4, and A and B are disjoint, what is n(A ∪ B)?",
+    "options": ["1", "7", "12", "0"],
+    "correct_index": 1,
+    "explanation": "For disjoint sets, n(A ∪ B) = n(A) + n(B) = 3 + 4 = 7..pdf]",
+    "ncert_page": 21,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q38",
+    "chapter_id": "c1",
+    "question": "The general formula for n(A ∪ B) is:",
+    "options": [
+      "n(A) + n(B)",
+      "n(A) + n(B) - n(A ∩ B)",
+      "n(A) - n(B)",
+      "n(A ∩ B)"
+    ],
+    "correct_index": 1,
+    "explanation": "n(A ∪ B) = n(A) + n(B) - n(A ∩ B)..pdf]",
+    "ncert_page": 21,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q39",
+    "chapter_id": "c1",
+    "question": "What is n(A – B)?",
+    "options": [
+      "n(A) - n(B)",
+      "n(A) - n(A ∩ B)",
+      "n(B) - n(A)",
+      "n(A ∪ B)"
+    ],
+    "correct_index": 1,
+    "explanation": "n(A – B) is the number of elements in A minus those common to both A and B..pdf]",
+    "ncert_page": 21,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q40",
+    "chapter_id": "c1",
+    "question": "If A = {1, 2, 3}, which of the following is NOT an element of P(A)?",
+    "options": ["φ", "{1, 2, 3}", "2", "{2}"],
+    "correct_index": 2,
+    "explanation": "Elements of a power set are sets themselves. '2' is an element of A, but '{2}' is an element of P(A)..pdf]",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q41",
+    "chapter_id": "c1",
+    "question": "Which of these is the set of all real numbers R excluding integers?",
+    "options": ["R - Z", "R ∩ Z", "R ∪ Z", "Z'"],
+    "correct_index": 0,
+    "explanation": "The set of real numbers minus the set of integers..pdf]",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q42",
+    "chapter_id": "c1",
+    "question": "The intersection of sets is ________, meaning A ∩ (B ∩ C) = (A ∩ B) ∩ C.",
+    "options": ["Commutative", "Associative", "Distributive", "Idempotent"],
+    "correct_index": 1,
+    "explanation": "Associative Law applies to both union and intersection..pdf]",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q43",
+    "chapter_id": "c1",
+    "question": "A ∩ φ =:",
+    "options": ["A", "U", "φ", "A'"],
+    "correct_index": 2,
+    "explanation": "Law of φ: intersection of any set with an empty set is empty..pdf]",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q44",
+    "chapter_id": "c1",
+    "question": "A ∪ U =:",
+    "options": ["A", "U", "φ", "A'"],
+    "correct_index": 1,
+    "explanation": "Law of U: union of any set with the universal set is the universal set..pdf]",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q45",
+    "chapter_id": "c1",
+    "question": "If A ⊂ B, then A ∪ B =:",
+    "options": ["A", "B", "φ", "U"],
+    "correct_index": 1,
+    "explanation": "If A is contained in B, their union is simply B..pdf]",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q46",
+    "chapter_id": "c1",
+    "question": "If A ⊂ B, then A ∩ B =:",
+    "options": ["A", "B", "φ", "U"],
+    "correct_index": 0,
+    "explanation": "If A is contained in B, their common elements are just those in A..pdf]",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q47",
+    "chapter_id": "c1",
+    "question": "The symbol 'Q' stands for the set of:",
+    "options": ["Irrational numbers", "Natural numbers", "Rational numbers", "Complex numbers"],
+    "correct_index": 2,
+    "explanation": "Q is used to denote the set of all rational numbers..pdf]",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q48",
+    "chapter_id": "c1",
+    "question": "According to the Law of Idempotency, A ∪ A =:",
+    "options": ["U", "φ", "A", "2A"],
+    "correct_index": 2,
+    "explanation": "A ∪ A = A..pdf]",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q49",
+    "chapter_id": "c1",
+    "question": "Which set is described by {x : x is a natural number and 3 < x < 4}?",
+    "options": ["{3.5}", "{3, 4}", "φ", "{0}"],
+    "correct_index": 2,
+    "explanation": "There is no natural number between 3 and 4, so the set is empty..pdf]",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "mcq_id": "math_s1_q50",
+    "chapter_id": "c1",
+    "question": "The term 'Russell’s Paradox' (1902) showed that:",
+    "options": [
+      "Sets are always infinite",
+      "The assumption of a set of all sets leads to contradiction",
+      "Natural numbers are not a set",
+      "Logic cannot define sets"
+    ],
+    "correct_index": 1,
+    "explanation": "Bertrand Russell showed that the existence of a set of all sets leads to a contradiction..pdf]",
+    "ncert_page": 26,
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  }
+]

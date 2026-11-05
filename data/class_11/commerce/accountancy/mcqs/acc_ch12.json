@@ -1,0 +1,18 @@
+[
+  {
+    "mcq_id": "acc_ch12_q01",
+    "chapter_id": "acc_ch12",
+    "question": "Computers store data in:",
+    "options": [
+      "Analog form",
+      "Binary form",
+      "Decimal form",
+      "Roman numerals"
+    ],
+    "correct_index": 1,
+    "explanation": "Computers store all data in binary form using 0s and 1s.",
+    "ncert_page": 1,
+    "difficulty": "EASY",
+    "subject": "Accountancy"
+  }
+]

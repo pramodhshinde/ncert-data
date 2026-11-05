@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c4_q01",
+    "chapter_id": "c4",
+    "question": "As a business expands and the number of transactions grows large, why is the journal sub-divided into special journals?",
+    "options": [
+      "To completely replace the ledger books of accounts",
+      "For quick, efficient, and accurate recording of repetitive business transactions",
+      "To convert cash transactions into credit transactions automatically",
+      "To avoid compliance with standard taxation auditing rules"
+    ],
+    "correct_index": 1,
+    "explanation": "As a business expands, journalizing every single transaction in one book becomes cumbersome. Sub-dividing the journal into special journals allows quick, efficient, and accurate recording of repetitive transactions of a similar nature.",
+    "ncert_page": 99,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q02",
+    "chapter_id": "c4",
+    "question": "What are special journals meant for recording transactions of a similar nature alternative commonly called?",
+    "options": [
+      "Ledger folios",
+      "Daybooks or subsidiary books",
+      "Voucher files",
+      "Trial statements sheet"
+    ],
+    "correct_index": 1,
+    "explanation": "Special journals, each meant for recording all transactions of a similar nature (such as all cash transactions or all credit purchases), are also called daybooks or subsidiary books.",
+    "ncert_page": 99,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q03",
+    "chapter_id": "c4",
+    "question": "Where are business transactions recorded if they cannot be entered into any of the special subsidiary journals?",
+    "options": [
+      "In the Cash Book",
+      "In the Purchases Book",
+      "In a journal called the Journal Proper",
+      "They are omitted from the accounts completely"
+    ],
+    "correct_index": 2,
+    "explanation": "Transactions that cannot be recorded in any special journal or subsidiary daybook are recorded in a separate sub-divided journal called the Journal Proper.",
+    "ncert_page": 99,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q04",
+    "chapter_id": "c4",
+    "question": "Which of the following is an explicit example of a special purpose subsidiary book?",
+    "options": [
+      "Ledger book",
+      "Trial Balance",
+      "Cash Book",
+      "Balance Sheet"
+    ],
+    "correct_index": 2,
+    "explanation": "The sub-division of the journal includes special purpose books or daybooks, the most common of which is the Cash Book (meant for recording all cash transactions).",
+    "ncert_page": 99,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q05",
+    "chapter_id": "c4",
+    "question": "Which specialized book serves the dual purpose of both a book of original entry (journal) as well as a principal ledger account?",
+    "options": [
+      "Purchases Book",
+      "Sales Book",
+      "Cash Book",
+      "Journal Proper"
+    ],
+    "correct_index": 2,
+    "explanation": "The Cash Book serves the purpose of both a journal as well as the ledger (cash) account. It is a book of original entry, and when it is maintained, no separate cash account is required in the ledger.",
+    "ncert_page": 100,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q06",
+    "chapter_id": "c4",
+    "question": "What types of transactions are systematically recorded inside a standard Cash Book?",
+    "options": [
+      "All credit sales and purchases transactions of goods",
+      "All transactions relating to cash receipts and cash payments",
+      "Only the adjustment and rectification entries row",
+      "Only the depreciation calculations of fixed assets"
+    ],
+    "correct_index": 1,
+    "explanation": "A Cash Book is a book of original entry in which all transactions relating to cash receipts and cash payments are recorded systematically.",
+    "ncert_page": 100,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q07",
+    "chapter_id": "c4",
+    "question": "When an organization maintains a full Cash Book, what separate account is no longer required inside its ledger book?",
+    "options": [
+      "Capital account",
+      "Purchases account",
+      "Cash or bank account",
+      "Creditors accounts"
+    ],
+    "correct_index": 2,
+    "explanation": "When a Cash Book is maintained, transactions of cash are not recorded in the journal, and no separate account for cash or bank is required in the ledger because the Cash Book itself serves that purpose.",
+    "ncert_page": 100,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q08",
+    "chapter_id": "c4",
+    "question": "On what periodic interval basis is a standard Cash Book generally compiled and balanced in most organizations?",
+    "options": [
+      "On a weekly basis strictly",
+      "On a monthly basis",
+      "Once every financial year only",
+      "On a shifting multi-year sequence"
+    ],
+    "correct_index": 1,
+    "explanation": "The Cash Book starts with the cash or bank balances at the beginning of the period. Generally, it is made and balanced on a monthly basis.",
+    "ncert_page": 100,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q09",
+    "chapter_id": "c4",
+    "question": "What does a Single Column Cash Book track in chronological order?",
+    "options": [
+      "Only bank transactions affected via cheques",
+      "A complete record of cash receipts and cash payments",
+      "Credit transactions separated by trade discounts",
+      "Only non-cash adjustments row columns"
+    ],
+    "correct_index": 1,
+    "explanation": "The single column cash book records all cash transactions of the business in a chronological order, serving as a complete record of cash receipts and cash payments.",
+    "ncert_page": 100,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q10",
+    "chapter_id": "c4",
+    "question": "In a standard T-shaped layout Cash Book format, which side is designated for entering receipts?",
+    "options": [
+      "The right-hand (Credit) side",
+      "The left-hand (Debit) side",
+      "The bottom summary footnote",
+      "Either side interchangeably depending on transaction size"
+    ],
+    "correct_index": 1,
+    "explanation": "The left side of the cash book layout format is the debit side and shows all the receipts of cash, whereas the right side shows all the payments.",
+    "ncert_page": 101,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q11",
+    "chapter_id": "c4",
+    "question": "Why are the individual accounts appearing on the left (receipts) side of the Cash Book credited when posted to their respective ledger accounts?",
+    "options": [
+      "Because expenses are increasing inside the firm",
+      "Because cash has been received in respect of them, creating a credit effect in those corresponding accounts",
+      "Because it reduces the capital account balance implicitly",
+      "To prepare a non-cash transfer voucher entry"
+    ],
+    "correct_index": 1,
+    "explanation": "The accounts appearing on the debit (receipts) side of the cash book are credited in their respective ledger accounts because cash has been received in respect of them, satisfying the double-entry rule.",
+    "ncert_page": 101,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q12",
+    "chapter_id": "c4",
+    "question": "Cash payments made to suppliers or for expenses are entered on which side of a single column cash book?",
+    "options": [
+      "The left side in the Receipts column",
+      "The right side in the Payments column",
+      "In the L.F. folio column directly",
+      "Only inside the Journal Proper daybook"
+    ],
+    "correct_index": 1,
+    "explanation": "All cash payments are recorded on the right side (Credit side) of the cash book under the Payments column.",
+    "ncert_page": 101,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q13",
+    "chapter_id": "c4",
+    "question": "Why do modern business organizations sub-divide a cash book into a Double Column Cash Book format?",
+    "options": [
+      "To separate trade discounts from cash discounts columns",
+      "To handle large volumes of bank transactions directly alongside cash transactions",
+      "To track employee working hours logs rows",
+      "To record the credit purchases of raw materials"
+    ],
+    "correct_index": 1,
+    "explanation": "Now-a-days bank transactions are very large in number. Having a separate amount column for bank transactions inside the cash book itself (Double Column Cash Book) helps in tracking bank positions easily alongside cash.",
+    "ncert_page": 103,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q14",
+    "chapter_id": "c4",
+    "question": "What is the standard banking practice regarding interest on current accounts opened by businessmen?",
+    "options": [
+      "Banks pay maximum compound interest quarterly.",
+      "Banks do not allow any interest on the balance in a current account.",
+      "Banks pay interest only if the balance exceeds millions.",
+      "Interest is paid in the form of extra blank cheque books."
+    ],
+    "correct_index": 1,
+    "explanation": "A businessman generally opens a current account with a bank. Banks do not allow any interest on the balance in a current account but charge a small service amount.",
+    "ncert_page": 103,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q15",
+    "chapter_id": "c4",
+    "question": "What are the small fees charged periodically by commercial banks for rendering checking services on a current account called?",
+    "options": [
+      "Premium margins",
+      "Incidental charges",
+      "Interest credits",
+      "Voucher balances"
+    ],
+    "correct_index": 1,
+    "explanation": "Banks charge a small amount, called incidental charges, for the banking services rendered to a current account holder.",
+    "ncert_page": 103,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q16",
+    "chapter_id": "c4",
+    "question": "What standard form must be filled out by a customer to deposit physical cash or cheques into their bank account?",
+    "options": [
+      "Cheque slip",
+      "Pay-in-slip",
+      "Debit Note",
+      "Transfer voucher card"
+    ],
+    "correct_index": 1,
+    "explanation": "For depositing cash/cheques in the bank account, a form has to be filled, which is called a pay-in-slip.",
+    "ncert_page": 103,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q17",
+    "chapter_id": "c4",
+    "question": "What component of a pay-in-slip form is signed by the cashier and returned to the depositor as an acknowledgment receipt?",
+    "options": [
+      "The main ledger sheet",
+      "The counterfoil",
+      "The blank check leaf",
+      "The transfer token row"
+    ],
+    "correct_index": 1,
+    "explanation": "A pay-in-slip contains a counterfoil which is detached, signed by the bank cashier, and returned to the customer as a deposit receipt.",
+    "ncert_page": 103,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q18",
+    "chapter_id": "c4",
+    "question": "In case of a cheque crossed as 'A/c payee only', how can the amount of that cheque be recovered?",
+    "options": [
+      "It can be cashed immediately over the bank counter in physical currency.",
+      "It can be deposited only into the bank account of the person whose name appears on the cheque.",
+      "It can be transferred to any stranger by simple delivery.",
+      "It must be converted into a cash memo by a merchant."
+    ],
+    "correct_index": 1,
+    "explanation": "In case of an A/c payee only crossing, the amount of the cheque cannot be paid as cash across the counter; it can be deposited only in the account of the person whose name appears on the cheque.",
+    "ncert_page": 105,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q19",
+    "chapter_id": "c4",
+    "question": "When the name of a specific bank is explicitly written between two parallel lines drawn on a cheque leaf, what type of crossing is formed?",
+    "options": [
+      "General crossing",
+      "Special crossing",
+      "Endorsed crossing",
+      "Bearer crossing token"
+    ],
+    "correct_index": 1,
+    "explanation": "When the name of the bank is written between two parallel lines on a cheque, it becomes a special crossing and the payment can be made only through that specific bank named.",
+    "ncert_page": 105,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q20",
+    "chapter_id": "c4",
+    "question": "How can an uncrossed order cheque be transferred by its payee to another person legally?",
+    "options": [
+      "By mere physical delivery to the new person without signature",
+      "By endorsement and delivery",
+      "By shredding the counterfoil receipt",
+      "It can never be transferred under any legal rule"
+    ],
+    "correct_index": 1,
+    "explanation": "A bearer cheque can be passed on by mere delivery. An order cheque, however, can be transferred to another person by endorsement and delivery.",
+    "ncert_page": 105,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q21",
+    "chapter_id": "c4",
+    "question": "What does the process of 'Endorsement' of a cheque explicitly mean?",
+    "options": [
+      "Depositing the cheque leaf into a wooden lockbox drop box",
+      "Writing instructions to pay the cheque to a particular person and signing it on the back of the cheque",
+      "Erasing the bank name written between parallel cross lines",
+      "Matching voucher dates chronologically"
+    ],
+    "correct_index": 1,
+    "explanation": "Endorsement means the writing of instructions on the back of the cheque to pay its value to a particular person, followed by signing it.",
+    "ncert_page": 105,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q22",
+    "chapter_id": "c4",
+    "question": "What does writing the letter 'C' inside the L.F. column of a Double Column Cash Book signify?",
+    "options": [
+      "A credit purchase adjustment that requires ledger posting",
+      "A contra entry, indicating that both cash and bank aspects are recorded here and no ledger posting is needed",
+      "A cash memo tracking serial number validation tag",
+      "A closing capital deficit warning code"
+    ],
+    "correct_index": 1,
+    "explanation": "Against entries involving transactions between cash and bank columns, the word C, which stands for contra, is written in the L.F. column indicating that these entries are completely recorded within the cash book and are not to be posted to the ledger.",
+    "ncert_page": 105,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q23",
+    "chapter_id": "c4",
+    "question": "What does a credit balance appearing inside the bank column of a cash book indicate?",
+    "options": [
+      "Vast surplus cash lying idle in bank lockers",
+      "A bank overdraft taken from the bank",
+      "An accounting entry balancing calculation error",
+      "Total value of trade discounts earned"
+    ],
+    "correct_index": 1,
+    "explanation": "Unlike the cash column (which always shows a debit balance), the bank column can show a credit balance. This indicates a bank overdraft taken from the bank.",
+    "ncert_page": 106,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q24",
+    "chapter_id": "c4",
+    "question": "What is a bank overdraft situation formally defined as in the text?",
+    "options": [
+      "When cash deposits exceed the safe limits set by state tax laws",
+      "A situation when cash withdrawn from the bank exceeds the amount of deposit",
+      "When a cheque leaf gets damaged or wet during transfer operations",
+      "When interest earned matches the incidental service charges"
+    ],
+    "correct_index": 1,
+    "explanation": "Overdraft is a situation when cash withdrawn from the bank account exceeds the total amount of deposit available in that account.",
+    "ncert_page": 106,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q25",
+    "chapter_id": "c4",
+    "question": "If a cheque is received from a customer today but deposited into the bank on a completely different day, how is it recorded on the date of receipt?",
+    "options": [
+      "It is directly entered into the bank column on the debit side.",
+      "It is treated as cash received and recorded in the cash column on the receipts side.",
+      "It is ignored entirely until the physical bank deposit day arrives.",
+      "It is recorded straight into the Journal Proper as a fixed asset."
+    ],
+    "correct_index": 1,
+    "explanation": "If a cheque is deposited on a later day, on the date of receipt it is treated as cash received and recorded in the cash column on the receipts side. On the day of deposit, a contra entry moves it from cash to bank.",
+    "ncert_page": 106,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q26",
+    "chapter_id": "c4",
+    "question": "If a cheque previously received from a customer and deposited in the bank is returned as 'dishonoured', how is it entered in the cash book?",
+    "options": [
+      "The amount is added to the cash column on the receipt side.",
+      "The customer's account is debited by entering the amount in the bank column on the payment (credit) side.",
+      "The whole cash book page must be erased or canceled.",
+      "It is adjusted inside the Petty Cash Book system columns."
+    ],
+    "correct_index": 1,
+    "explanation": "If a cheque received from a customer is dishonoured, the bank column of the cash book must be credited (on the payments side) against that customer's account name to reverse the previous deposit entry.",
+    "ncert_page": 106,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q27",
+    "chapter_id": "c4",
+    "question": "Under what specialized system does a petty cashier normally manage funds and record small expenses in an organization?",
+    "options": [
+      "Double-entry ledger indexing system",
+      "The Imprest system",
+      "Cash basis single row model",
+      "Accrual matrix promotion logic"
+    ],
+    "correct_index": 1,
+    "explanation": "To avoid overburdening the main cash book, large organizations appoint a petty cashier who operates strictly under the Imprest system.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q28",
+    "chapter_id": "c4",
+    "question": "What is the fixed definite sum of money allocated to a petty cashier at the beginning of an accounting period called?",
+    "options": [
+      "Incidental cash balance",
+      "Imprest amount",
+      "Voucher ceiling limit",
+      "Drawings allowance fund"
+    ],
+    "correct_index": 1,
+    "explanation": "Under the imprest system, a definite sum (say, 2,000) is given to the petty cashier at the start of a period. This amount is known as the imprest amount.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q29",
+    "chapter_id": "c4",
+    "question": "Which of the following transaction groups is ideally suited for recording inside a Petty Cash Book?",
+    "options": [
+      "Purchase of heavy factory machinery on long-term credit",
+      "Small repetitive payments like conveyance, cartage, postage, and telegrams",
+      "Inflow of capital funds introduced by partnership owners",
+      "Bulk export sales turnover revenue receipts"
+    ],
+    "correct_index": 1,
+    "explanation": "In every organization, a large number of small payments such as conveyance, cartage, postage, and telegrams are made. These small, repetitive items are managed via the petty cash book.",
+    "ncert_page": 109,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q30",
+    "chapter_id": "c4",
+    "question": "What is the primary benefit or purpose of utilizing a separate Petty Cash Book system in business operations?",
+    "options": [
+      "To bypass tracking miscellaneous costs completely",
+      "To prevent the main cash book from becoming too bulky and save the main cashier from being overburdened",
+      "To automatically eliminate trade discount calculations from ledger entries",
+      "To calculate bank overdraft values using separate indices columns"
+    ],
+    "correct_index": 1,
+    "explanation": "If all small payments are handled in the main cash book, the procedure becomes cumbersome, bulky, and overburdens the main cashier. A petty cash book efficiently handles this load.",
+    "ncert_page": 109,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q31",
+    "chapter_id": "c4",
+    "question": "How are the totals of individual analytical expense columns of a petty cash book periodically posted to the ledger accounts?",
+    "options": [
+      "Each small transaction row is posted separately every single day.",
+      "The total of each expense column is debited to its respective expense account in the ledger at the end of the period.",
+      "They are credited directly to the Capital account index.",
+      "They are moved straight into the Purchases Return book columns."
+    ],
+    "correct_index": 1,
+    "explanation": "At the end of the month or period, the totals of various analytical expense columns are extracted and debited to their respective individual accounts (like Postage A/c or Cartage A/c) in the main ledger.",
+    "ncert_page": 109,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q32",
+    "chapter_id": "c4",
+    "question": "What type of business transactions are strictly recorded inside a specialized Purchases (Journal) Book?",
+    "options": [
+      "All cash and credit purchases of assets and properties",
+      "All credit purchases of goods or merchandise meant for resale",
+      "Only the cash purchases of office stationary items",
+      "Return of damaged goods back to our suppliers"
+    ],
+    "correct_index": 1,
+    "explanation": "The Purchases Book is a special journal used to record only credit purchases of goods in which the firm deals. Cash purchases and purchases of assets are excluded from this book.",
+    "ncert_page": 125,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q33",
+    "chapter_id": "c4",
+    "question": "What is the primary source document utilized by an accountant to enter records into the Purchases Book?",
+    "options": [
+      "Cash memo ticket issued to a client",
+      "Invoice or bill received from the supplier of goods",
+      "Debit Note sent to a trade partner",
+      "Passbook page credit confirmation"
+    ],
+    "correct_index": 1,
+    "explanation": "The source documents for recording entries in the purchases journal are the inbound invoices or bills received by the firm from its suppliers.",
+    "ncert_page": 125,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q34",
+    "chapter_id": "c4",
+    "question": "How is a trade discount treated when entering item figures inside a Purchases Book line?",
+    "options": [
+      "It is recorded separately as an expense account debit entry.",
+      "It is deducted from the gross invoice price, and only the net amount is recorded in the purchases book.",
+      "It is added to the asset value calculation column.",
+      "It is ignored entirely and the gross book price is entered."
+    ],
+    "correct_index": 1,
+    "explanation": "Trade discounts allowed by suppliers are deducted from the gross invoice list price directly on the face of the bill, and the net purchase amount is entered in the subsidiary book.",
+    "ncert_page": 125,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q35",
+    "chapter_id": "c4",
+    "question": "Why is the purchase of an office computer for cash completely excluded from the Purchases Book?",
+    "options": [
+      "Because it contains no trade discount parameters.",
+      "Because the Purchases Book tracks only credit purchases of merchandise goods, not cash transactions or fixed asset acquisitions.",
+      "Because computers are treated as intangible items under GAAP rules.",
+      "Because it must be entered inside the Petty Cash Book instead."
+    ],
+    "correct_index": 1,
+    "explanation": "The purchase of a computer for cash is a cash payment transaction affecting an asset, so it belongs in the Cash Book, not the Purchases Book (which is solely for credit purchases of trading goods).",
+    "ncert_page": 125,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q36",
+    "chapter_id": "c4",
+    "question": "What transactions are recorded inside a specialized Purchases Return (Journal) Book?",
+    "options": [
+      "Return of goods sold to customers for immediate cash",
+      "Return of goods or trading merchandise previously purchased on credit to suppliers",
+      "Return of old fixed assets rejected by factory floors",
+      "Allowance modifications resulting from cash discounts"
+    ],
+    "correct_index": 1,
+    "explanation": "The purchases return journal is used to record the return of goods or trading merchandise back to suppliers that were originally bought on credit terms.",
+    "ncert_page": 127,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q37",
+    "chapter_id": "c4",
+    "question": "What specific document is prepared as the primary source of reference for entering records into the Purchases Return Book?",
+    "options": [
+      "Credit Note received from an outside client",
+      "Debit Note prepared and sent to the supplier",
+      "Cash memo copy ticket",
+      "Pay-in-slip bank receipt counterfoil"
+    ],
+    "correct_index": 1,
+    "explanation": "When goods are returned to a supplier, a Debit Note is prepared and sent to them, which serves as the source document for the entry in the Purchases Return Book.",
+    "ncert_page": 127,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q38",
+    "chapter_id": "c4",
+    "question": "What does a standard Debit Note contain to satisfy the Objectivity principle when returning goods to a supplier?",
+    "options": [
+      "The global bank clearance identification numbers",
+      "The name of the party, details of goods returned, and the specific reason for return",
+      "The current market replacement value index of the assets",
+      "A formal signature from government regulatory auditors"
+    ],
+    "correct_index": 1,
+    "explanation": "A debit note contains the name of the supplier to whom goods are returned, item descriptions, quantities, values, and reasons for debiting their account.",
+    "ncert_page": 127,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q39",
+    "chapter_id": "c4",
+    "question": "Which business transactions are systematically logged inside a standard Sales (Journal) Book?",
+    "options": [
+      "All cash and credit sales of real properties and land",
+      "Only the credit sales of trading goods or merchandise to customers",
+      "All cash collection receipts from accounts debtors",
+      "Goods returned back by our customers"
+    ],
+    "correct_index": 1,
+    "explanation": "The Sales Book is a subsidiary daybook used exclusively for recording credit sales of merchandise goods in which the firm deals. Cash sales are entered in the Cash Book.",
+    "ncert_page": 129,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q40",
+    "chapter_id": "c4",
+    "question": "What is the primary source document issued by a business to record transactions in its Sales Book?",
+    "options": [
+      "Inbound bill invoice received from vendors",
+      "Outbound invoice or bill issued to the customer",
+      "Credit Note issued following an inspection",
+      "Voucher slip from a petty cashier box"
+    ],
+    "correct_index": 1,
+    "explanation": "The source documents for entering transactions in the sales journal are copy files of outbound invoices or bills issued by the firm to its customers.",
+    "ncert_page": 129,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q41",
+    "chapter_id": "c4",
+    "question": "If an item of inventory is sold to an outside firm for immediate check payment, where is this transaction recorded?",
+    "options": [
+      "Sales Book",
+      "Cash Book (Bank column)",
+      "Journal Proper",
+      "Petty Cash Book"
+    ],
+    "correct_index": 1,
+    "explanation": "Since it involves immediate check payment received by bank columns, it constitutes a cash/bank receipt and belongs in the Cash Book, not the credit Sales Book.",
+    "ncert_page": 129,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q42",
+    "chapter_id": "c4",
+    "question": "Where is the periodic total sum of the credit entries from a Sales Book posted in the main ledger?",
+    "options": [
+      "Debited to the Sales account",
+      "Credited to the Sales account",
+      "Credited directly to the Capital account",
+      "Debited to the Purchases account"
+    ],
+    "correct_index": 1,
+    "explanation": "At periodic intervals (usually monthly), the total of the sales book column is transferred and credited to the Sales Account in the principal ledger.",
+    "ncert_page": 129,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q43",
+    "chapter_id": "c4",
+    "question": "What type of transactions are recorded inside a specialized Sales Return (Journal) Book?",
+    "options": [
+      "Return of trading goods previously sold to customers on credit terms",
+      "Return of machinery elements rejected by manufacturing plants",
+      "Cash refunds allowed for defective office storage folders",
+      "Goods sent on approval lines to external partners"
+    ],
+    "correct_index": 0,
+    "explanation": "The sales return journal (or return inwards book) records transactions concerning trading merchandise returned back by buyers who had bought them on credit.",
+    "ncert_page": 131,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q44",
+    "chapter_id": "c4",
+    "question": "What is the primary source document utilized to write transaction records into the Sales Return Book?",
+    "options": [
+      "Debit Note prepared by our billing staff",
+      "Credit Note issued to the customer returning the goods",
+      "Outbound invoice bill receipt copy",
+      "Pay-in-slip bank deposit counterfoil"
+    ],
+    "correct_index": 1,
+    "explanation": "The source document for entries in the sales return book is a Credit Note issued to the customer, acknowledging their return and reducing their account balance.",
+    "ncert_page": 131,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q45",
+    "chapter_id": "c4",
+    "question": "What is the primary reason an organization issues a Credit Note to a customer?",
+    "options": [
+      "To demand immediate payment of an overdue bill",
+      "To inform them that their outstanding debt balance is being credited (reduced) because they returned damaged goods",
+      "To grant them an extra credit term period length",
+      "To document an internal transfer event between departments"
+    ],
+    "correct_index": 1,
+    "explanation": "A credit note is sent to a customer to let them know that their account has been credited (reduced) because the goods they sent back have been accepted by the business.",
+    "ncert_page": 131,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q46",
+    "chapter_id": "c4",
+    "question": "What is the primary purpose of maintaining a Journal Proper in sub-divided bookkeeping systems?",
+    "options": [
+      "To track cash and bank inflows/outflows rows",
+      "To record special and miscellaneous transactions that cannot fit into any other subsidiary book",
+      "To bypass double-entry balancing parity controls",
+      "To keep a summary record of all petty cash vouchers"
+    ],
+    "correct_index": 1,
+    "explanation": "The Journal Proper is a residual book where entries that do not fit into any other special subsidiary book (like cash book, purchases book, or sales book) are recorded.",
+    "ncert_page": 139,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q47",
+    "chapter_id": "c4",
+    "question": "Which of the following transaction categories is natively recorded inside the Journal Proper?",
+    "options": [
+      "Cash received from a customer debtor",
+      "Opening entries, closing entries, adjustment entries, and rectification entries",
+      "Credit sales of trading goods to clients",
+      "Small conveyance charges paid by a petty cashier"
+    ],
+    "correct_index": 1,
+    "explanation": "The Journal Proper handles specialized architectural entries including: opening entries, closing entries, transfer entries, adjustment entries, and rectification entries.",
+    "ncert_page": 139,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q48",
+    "chapter_id": "c4",
+    "question": "If a business enterprise buys office furniture worth 25,000 on credit from a supplier, in which book must this transaction be recorded?",
+    "options": [
+      "Purchases Book",
+      "Cash Book",
+      "Journal Proper",
+      "Sales Book"
+    ],
+    "correct_index": 2,
+    "explanation": "Since it is a credit purchase of a fixed asset (Furniture) rather than trading goods, it cannot go into the Purchases Book. Since no cash changes hands, it belongs in the Journal Proper.",
+    "ncert_page": 139,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q49",
+    "chapter_id": "c4",
+    "question": "Which categories of ledger accounts are periodically balanced and have their remaining balances carried forward to the next period?",
+    "options": [
+      "Nominal accounts handling expenses and revenues",
+      "Real accounts (assets) and Personal accounts (liabilities and capital)",
+      "Only the trade discount and drawings accounts rows",
+      "Only the cash memos voucher entries columns"
+    ],
+    "correct_index": 1,
+    "explanation": "Accounts in the ledger are periodically balanced. Real accounts (representing assets) and Personal accounts (representing liabilities or capital) are balanced, and their values are carried forward via 'Balance c/d'.",
+    "ncert_page": 141,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c4_q50",
+    "chapter_id": "c4",
+    "question": "How are Nominal accounts (revenues and expenses) handled at the close of an accounting period instead of being balanced and carried forward?",
+    "options": [
+      "They are deleted from the system ledger pages completely.",
+      "They are closed by transferring their period totals straight to the Trading and Profit and Loss account.",
+      "They are added directly to the non-current fixed assets column.",
+      "They are converted into contra entries using the symbol 'C'."
+    ],
+    "correct_index": 1,
+    "explanation": "Nominal accounts (handling items like salaries, rent, or sales) are not balanced and carried forward; instead, they are closed at the end of the year by moving their cumulative figures to the Trading and Profit and Loss account to calculate profit.",
+    "ncert_page": 141,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  }
+]

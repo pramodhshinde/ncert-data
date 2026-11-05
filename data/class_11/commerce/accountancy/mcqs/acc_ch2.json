@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c2_q01",
+    "chapter_id": "c2",
+    "question": "What does the acronym GAAP stand for in professional accounting theory?",
+    "options": [
+      "General Assets Allocation Practices",
+      "Generally Accepted Accounting Principles",
+      "Global Auditing Agreements Protocol",
+      "Government Approved Accounting Policies"
+    ],
+    "correct_index": 1,
+    "explanation": "GAAP stands for Generally Accepted Accounting Principles. These are the basic rules, concepts, and guidelines followed to bring uniformity and reliability to financial statements.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q02",
+    "chapter_id": "c2",
+    "question": "According to the Business Entity Concept, how is a business enterprise treated in relation to its owners?",
+    "options": [
+      "As a single, unified legal and financial unit with the owner",
+      "As a separate and distinct entity from its owners",
+      "As an informal partnership that cannot own separate assets",
+      "As a temporary trust managed strictly by government auditors"
+    ],
+    "correct_index": 1,
+    "explanation": "The Business Entity Concept states that for accounting purposes, the business enterprise is treated as a separate and distinct entity from its owners.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q03",
+    "chapter_id": "c2",
+    "question": "Based on the Business Entity Concept, personal private expenses of an owner paid out of business funds are recorded as what?",
+    "options": [
+      "Operating office expenses",
+      "Capital gains",
+      "Drawings",
+      "Deferred liabilities"
+    ],
+    "correct_index": 2,
+    "explanation": "Because the owner and business are separate, any private expenditure of the owner paid from business funds is recorded as drawings, reducing the owner's capital stake.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q04",
+    "chapter_id": "c2",
+    "question": "Which accounting concept dictates that only those transactions and events that can be expressed in financial terms should be recorded?",
+    "options": [
+      "Going Concern Concept",
+      "Money Measurement Concept",
+      "Accounting Period Concept",
+      "Dual Aspect Concept"
+    ],
+    "correct_index": 1,
+    "explanation": "The Money Measurement Concept states that only those transactions and events that can be expressed in terms of money are recorded in the books of account.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q05",
+    "chapter_id": "c2",
+    "question": "What is a major limitation of the Money Measurement Concept in accounting?",
+    "options": [
+      "It makes ledger sorting algorithms extremely slow.",
+      "It completely ignores non-monetary qualitative factors like management capability or worker motivation.",
+      "It forces assets to be converted into float structures implicitly.",
+      "It requires double signature permissions on all vouchers."
+    ],
+    "correct_index": 1,
+    "explanation": "A limitation of the Money Measurement Concept is that it leaves out vital qualitative parameters (like employee morale or management skill) because they cannot be measured in money.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q06",
+    "chapter_id": "c2",
+    "question": "Which accounting assumption presumes that a business enterprise will continue its operations for an indefinite period and has no intention to liquidate?",
+    "options": [
+      "Accounting Period Concept",
+      "Going Concern Concept",
+      "Materiality Assumption",
+      "Objectivity Principles"
+    ],
+    "correct_index": 1,
+    "explanation": "The Going Concern Concept assumes that a business enterprise will continue to operate for a foreseeable future timeframe and will not dissolve abruptly.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q07",
+    "chapter_id": "c2",
+    "question": "Why are fixed assets depreciated over their expected useful life rather than being charged fully as an expense in the year of purchase?",
+    "options": [
+      "Due to the Money Measurement Concept",
+      "Due to the Going Concern Concept",
+      "Due to the Objectivity Principle",
+      "Due to conservative tax evasion structures"
+    ],
+    "correct_index": 1,
+    "explanation": "Because of the Going Concern Concept, we assume the business will last to use the asset over multiple years, justifying charging its cost gradually through depreciation.",
+    "ncert_page": 4,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q08",
+    "chapter_id": "c2",
+    "question": "What concept requires breaking the continuous indefinite life of a business into smaller regular intervals to measure financial performance?",
+    "options": [
+      "Business Entity Concept",
+      "Accounting Period Concept",
+      "Dual Aspect Concept",
+      "Full Disclosure Concept"
+    ],
+    "correct_index": 1,
+    "explanation": "The Accounting Period Concept requires dividing the lifetime of a business into specific regular chunks of time (like a financial year) to determine periodic profit or loss.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q09",
+    "chapter_id": "c2",
+    "question": "What is the standard mandatory financial reporting year duration followed in India for income tax reporting?",
+    "options": [
+      "January 1st to December 31st",
+      "April 1st to March 31st of the next year",
+      "July 1st to June 30th",
+      "Any user-defined twelve-month matrix block"
+    ],
+    "correct_index": 1,
+    "explanation": "In India, the standard accounting period required by law runs from April 1st of a year to March 31st of the succeeding calendar year.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q10",
+    "chapter_id": "c2",
+    "question": "The Cost Concept (or Historical Cost Principle) requires assets to be originally recorded in the books of account at what value?",
+    "options": [
+      "Current fair market replacement value",
+      "The price paid to acquire the asset, including installation and transport costs",
+      "An arbitrary value estimated by corporate executives",
+      "Liquidation auction value bounds"
+    ],
+    "correct_index": 1,
+    "explanation": "The Cost Concept holds that assets are entered in the ledger at their historical acquisition cost, which covers the purchase price and any expenses to make the asset operational.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q11",
+    "chapter_id": "c2",
+    "question": "What is a major criticism or drawback of adhering strictly to the Historical Cost Principle during periods of high inflation?",
+    "options": [
+      "It leaves out cash transactions entirely.",
+      "The book value may not reflect the true current market value of long-held assets like land or buildings.",
+      "It alters the double-entry balancing formula layout.",
+      "It requires continuous conversion promotions."
+    ],
+    "correct_index": 1,
+    "explanation": "A drawback of the Cost Concept is that historical entries do not show changes in price levels over time, meaning valuable land or buildings may look heavily understated during high inflation.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q12",
+    "chapter_id": "c2",
+    "question": "Which core accounting concept establishes the double-entry bookkeeping system foundation where Assets = Liabilities + Capital?",
+    "options": [
+      "Consistency Concept",
+      "Dual Aspect Concept",
+      "Revenue Realisation Concept",
+      "Conservatism Principle"
+    ],
+    "correct_index": 1,
+    "explanation": "The Dual Aspect Concept states that every business transaction has a two-fold effect, affecting at least two distinct ledger entries, giving rise to the fundamental accounting equation.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q13",
+    "chapter_id": "c2",
+    "question": "If a business enterprise purchases machinery worth 50,000 entirely in cash, how does it affect the Dual Aspect accounting equation?",
+    "options": [
+      "Total assets increase by 50,000, and capital decreases.",
+      "One asset (Machinery) increases by 50,000, and another asset (Cash) decreases by 50,000, leaving total assets unchanged.",
+      "Liabilities increase by 50,000, and cash drops to zero.",
+      "Total capital expands by 100,000 implicitly."
+    ],
+    "correct_index": 1,
+    "explanation": "According to the dual aspect framework, buying machinery for cash swaps one asset type for another. Machinery increases while Cash goes down, keeping the balancing equation equal.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q14",
+    "chapter_id": "c2",
+    "question": "When is revenue considered 'realised' or recognized under the Revenue Realisation (Recognition) Concept?",
+    "options": [
+      "Only when the final cash is physically received in the bank account.",
+      "When a legal right to receive the money arises, such as when goods are delivered or title is transferred to the buyer.",
+      "When the production order is originally typed on a computer template.",
+      "When the customer signs a non-binding inquiry form."
+    ],
+    "correct_index": 1,
+    "explanation": "Revenue is recognized when it is earned, which means a legal obligation or right to receive payment is established (usually upon delivery of goods or services), regardless of cash arrival timing.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q15",
+    "chapter_id": "c2",
+    "question": "If a corporate firm receives an advance deposit in January 2025 for services to be rendered in May 2025, in which month should the revenue be formally recognized?",
+    "options": [
+      "January 2025",
+      "May 2025",
+      "Amortized over both months equally",
+      "December 2025 at year-end closure"
+    ],
+    "correct_index": 1,
+    "explanation": "Under the Revenue Realisation Concept, the revenue is recognized in May 2025 because that is when the actual service execution or performance obligation is carried out.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q16",
+    "chapter_id": "c2",
+    "question": "Which concept emphasizes matching the expenses incurred during an accounting period against the revenues earned in that same period?",
+    "options": [
+      "Going Concern Concept",
+      "Matching Concept",
+      "Full Disclosure Principle",
+      "Objectivity Principle"
+    ],
+    "correct_index": 1,
+    "explanation": "The Matching Concept dictates that all expenses incurred to earn revenue during a specific accounting period must be matched and reported alongside that corresponding revenue.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q17",
+    "chapter_id": "c2",
+    "question": "Due to the Matching Concept, how are outstanding adjustments like 'Salaries Due but Not Paid' handled at the end of a financial year?",
+    "options": [
+      "They are ignored until cash is paid next year.",
+      "They are added to the current year's expenses because the labor service was consumed to earn this year's revenue.",
+      "They are deducted from capital directly as an auditing error.",
+      "They are converted to an intangible asset copy sequence."
+    ],
+    "correct_index": 1,
+    "explanation": "The Matching Concept requires booking outstanding salaries as expenses of the current year because the work was consumed this period, ensuring proper profit calculation.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q18",
+    "chapter_id": "c2",
+    "question": "Which accounting system records revenues and expenses when they are earned or incurred, regardless of when cash changes hands?",
+    "options": [
+      "Cash Basis of Accounting",
+      "Accrual Basis of Accounting",
+      "Hybrid single-entry model",
+      "Deferred proxy allocation system"
+    ],
+    "correct_index": 1,
+    "explanation": "The Accrual Basis of Accounting records transactions based on occurrence—revenue when earned and expenses when incurred, offering a truer picture of periodic profit.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q19",
+    "chapter_id": "c2",
+    "question": "What does the Full Disclosure Principle require of corporate financial reporting summaries?",
+    "options": [
+      "Hiding secret internal costs metrics to protect trade data.",
+      "All material and relevant financial facts must be completely disclosed in the statements or accompanying footnotes.",
+      "Publishing every single internal employee attendance log row publically.",
+      "Restricting view access to selected bank partners exclusively."
+    ],
+    "correct_index": 1,
+    "explanation": "The Full Disclosure Principle requires that financial statements provide an honest, complete overview by disclosing all significant and material economic facts clearly.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q20",
+    "chapter_id": "c2",
+    "question": "Which convention states that items or events of insignificant financial value do not need strict precision and can be clubbed with other items?",
+    "options": [
+      "Convention of Full Disclosure",
+      "Convention of Materiality",
+      "Convention of Consistency",
+      "Convention of Objectivity"
+    ],
+    "correct_index": 1,
+    "explanation": "The Materiality Concept states that focus should be on significant financial parameters. Insignificant trivial items (like buying an office eraser) can be treated straight as an expense rather than a fixed asset.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q21",
+    "chapter_id": "c2",
+    "question": "What principle requires accounting practices and methods (like depreciation calculation paths) to remain unchanged from one year to the next?",
+    "options": [
+      "Objectivity Principle",
+      "Consistency Principle",
+      "Conservatism Policy",
+      "Dual Aspect matrix"
+    ],
+    "correct_index": 1,
+    "explanation": "The Consistency Principle states that accounting policies should remain uniform across successive years to make corporate financial data comparable over time.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q22",
+    "chapter_id": "c2",
+    "question": "Under what circumstance can a corporate enterprise legally change its established accounting method according to consistency rules?",
+    "options": [
+      "Whenever the manager wishes to boost profit artificially.",
+      "If required by a new accounting standard, law, or to present financial views more realistically.",
+      "Only when transactions happen via electronic payment formats.",
+      "Never, a method can never be altered under any rule."
+    ],
+    "correct_index": 1,
+    "explanation": "Consistency does not mean complete stagnation. A company can change its policy if mandated by law, accounting standards, or if it results in a more appropriate presentation of reports.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q23",
+    "chapter_id": "c2",
+    "question": "The Prudence (or Conservatism) Principle requires accountants to adopt which careful mindset regarding profits and losses?",
+    "options": [
+      "Anticipate all future profits and ignore potential losses completely.",
+      "Do not anticipate profits, but make provisions for all possible or anticipated losses.",
+      "Record every asset at its maximum possible future value layout.",
+      "Treat liabilities as revenues implicitly."
+    ],
+    "correct_index": 1,
+    "explanation": "The Prudence Principle is a safety first rule: do not book unexpected gains early, but always record and create provisions for anticipated risks and potential financial losses.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q24",
+    "chapter_id": "c2",
+    "question": "Valuing closing stock at 'Cost price or Net Realisable Value (Market price), whichever is lower' is a direct application of which concept?",
+    "options": [
+      "Matching Concept",
+      "Prudence (Conservatism) Principle",
+      "Going Concern Concept",
+      "Cost Realisation matrix"
+    ],
+    "correct_index": 1,
+    "explanation": "Valuing inventory at whichever price is lower ensures that assets are not overstated, which matches the safety rules of the Conservatism Principle.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q25",
+    "chapter_id": "c2",
+    "question": "Which accounting principle demands that ledger data should be unbiased and based on objective verifiable evidence (like bills, receipts, or vouchers)?",
+    "options": [
+      "Objectivity Principle",
+      "Materiality Assumption",
+      "Full Disclosure rule",
+      "Business Entity blueprint"
+    ],
+    "correct_index": 0,
+    "explanation": "The Objectivity Principle requires accounting metrics to be truthful, neutral, and free from personal bias, fully backed up by verifiable source documents.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q26",
+    "chapter_id": "c2",
+    "question": "What are the policy guidelines or code rules issued by expert professional bodies to standardize accounting treatments across industries called?",
+    "options": [
+      "Taxation logs rows",
+      "Accounting Standards",
+      "Forensic compilation metrics",
+      "System control loops"
+    ],
+    "correct_index": 1,
+    "explanation": "Accounting Standards are authoritative rule statements issued by professional bodies to mandate standard practices and bring uniformity to reports.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q27",
+    "chapter_id": "c2",
+    "question": "Which premier body in India formulates and issues standard Accounting Standards for corporate entities?",
+    "options": [
+      "Securities and Exchange Board of India (SEBI)",
+      "The Institute of Chartered Accountants of India (ICAI)",
+      "Reserve Bank of India (RBI)",
+      "Ministry of Information Technology"
+    ],
+    "correct_index": 1,
+    "explanation": "The Institute of Chartered Accountants of India (ICAI) established the ASB in 1977 to formulate and update Accounting Standards for the country.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q28",
+    "chapter_id": "c2",
+    "question": "What is the primary motive behind converging regional accounting norms with International Financial Reporting Standards (IFRS)?",
+    "options": [
+      "To eliminate computer hacking risks completely.",
+      "To establish a single globally accepted financial reporting language to make cross-border comparisons seamless.",
+      "To increase corporate license fees collections.",
+      "To enforce static template rules globally."
+    ],
+    "correct_index": 1,
+    "explanation": "Global integration via IFRS convergence ensures that financial reports from different nations use a unified standard, facilitating global trade and investments.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q29",
+    "chapter_id": "c2",
+    "question": "What are the converged, IFRS-aligned accounting standards formulated for corporate compliance in India officially named?",
+    "options": [
+      "Indian GAAP parameters",
+      "Indian Accounting Standards (Ind AS)",
+      "Global IFRS Indian rows",
+      "ICAI Auditing codes"
+    ],
+    "correct_index": 1,
+    "explanation": "The converged IFRS-aligned rules created for corporate application in India are called Indian Accounting Standards or Ind AS.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q30",
+    "chapter_id": "c2",
+    "question": "Which accounting system tracks transactions by looking strictly at direct physical monetary changes, completely ignoring credit adjustments?",
+    "options": [
+      "Accrual system",
+      "Cash Basis of Accounting",
+      "Double-entry ledger ledger",
+      "Forensic valuation blueprint"
+    ],
+    "correct_index": 1,
+    "explanation": "Under the Cash Basis of Accounting, entries are triggered only when cash is received or paid out, completely omitting credit items or outstanding balances.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q31",
+    "chapter_id": "c2",
+    "question": "Why is the Cash Basis of Accounting generally disapproved under company laws for standard large business enterprises?",
+    "options": [
+      "It requires high-level data processing algorithms.",
+      "It fails to show a true and fair view of periodic profit/loss because it ignores matching rules and outstanding debts.",
+      "It uses double-entry voucher tokens.",
+      "It limits cash flow entries."
+    ],
+    "correct_index": 1,
+    "explanation": "Cash basis accounting does not apply matching or accrual rules, making it weak for standard tracking, which is why corporate regulations mandate the accrual system.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q32",
+    "chapter_id": "c2",
+    "question": "What type of business organizations or professions typically employ the Cash Basis of Accounting safely?",
+    "options": [
+      "Large multinational retail corporations",
+      "Charitable trusts, clubs, and professionals like doctors, lawyers, or consultants",
+      "Heavy industrial manufacturing factories",
+      "E-commerce network servers providers"
+    ],
+    "correct_index": 1,
+    "explanation": "Non-profit bodies and service professionals (like lawyers or doctors) often use the cash basis since their transactions are simple and mostly cash-centric.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q33",
+    "chapter_id": "c2",
+    "question": "What structural basis describes a mixture where some items follow the accrual system while others follow the cash method?",
+    "options": [
+      "Pure GAAP tracking",
+      "Hybrid or Mixed Basis of Accounting",
+      "Single-entry baseline matrix",
+      "NoneType vector system"
+    ],
+    "correct_index": 1,
+    "explanation": "A hybrid basis tracks certain fields (like revenue) on a cash line while booking fixed costs on accruals, mixing both structures.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q34",
+    "chapter_id": "c2",
+    "question": "What section of the text handles the conceptual definitions of 'Base of Accounting' branches?",
+    "options": [
+      "Section 2.1",
+      "Section 2.4",
+      "Section 2.5",
+      "Summary appendix rules"
+    ],
+    "correct_index": 2,
+    "explanation": "Section 2.5 explicitly discusses the Bases of Accounting, classifying entries between Cash basis and Accrual basis structures.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q35",
+    "chapter_id": "c2",
+    "question": "Under the Accrual Basis, when is an expense like insurance premium recognized if paid in advance for three years?",
+    "options": [
+      "Charged fully as an expense in the first year.",
+      "Allocated and charged over the three respective years based on utility consumption.",
+      "Omitted completely from balance calculations.",
+      "Subtracted from owner's equity immediately."
+    ],
+    "correct_index": 1,
+    "explanation": "Accrual concepts mandate treating prepaid costs as assets initially, charging them gradually over the specific years they protect.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q36",
+    "chapter_id": "c2",
+    "question": "Which accounting entity perspective views the business as owned and completely dependent on the single proprietor's personal capital balances?",
+    "options": [
+      "Proprietary perspective or concept",
+      "Entity theory layout",
+      "Fund accounting matrix",
+      "Government collection code"
+    ],
+    "correct_index": 0,
+    "explanation": "The text discusses entity assumptions where the proprietary perspective stands separate from corporate separate entity rules.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q37",
+    "chapter_id": "c2",
+    "question": "What is the foundational role of GAAP rules in professional auditing cycles?",
+    "options": [
+      "To ensure financial statements are uniform, reliable, and legally compliant for external evaluation.",
+      "To eliminate data translation compilation delays.",
+      "To standardize physical inventory item dimensions.",
+      "To track internal employee working shift rows."
+    ],
+    "correct_index": 0,
+    "explanation": "GAAP acts as a unified conceptual framework, making corporate statements reliable and directly comparable across separate industrial firms.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q38",
+    "chapter_id": "c2",
+    "question": "What qualitative trait is primarily achieved by following the Consistency Principle?",
+    "options": [
+      "Understandability",
+      "Comparability over time",
+      "Neutrality",
+      "Materiality precision"
+    ],
+    "correct_index": 1,
+    "explanation": "Keeping policies uniform across years via consistency ensures that performance data can be compared across distinct reporting timelines.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q39",
+    "chapter_id": "c2",
+    "question": "If an asset is acquired at zero cost (e.g., a gifted machine), what is its entry value under the Historical Cost concept?",
+    "options": [
+      "Estimated market value amount",
+      "Zero ($0$)",
+      "An arbitrary index value",
+      "It cannot be recorded at all."
+    ],
+    "correct_index": 1,
+    "explanation": "The strict historical cost concept records items at actual cash layout amounts. If zero cash was spent, its historical base value is recorded as zero.",
+    "ncert_page": 5,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q40",
+    "chapter_id": "c2",
+    "question": "What does the equation Assets - Liabilities = Capital represent structurally?",
+    "options": [
+      "Income statement statement",
+      "The basic Accounting Equation derived from dual aspect traits",
+      "The cash basis balance filter",
+      "Forensic compilation check row"
+    ],
+    "correct_index": 1,
+    "explanation": "Shifting elements of the dual aspect formula yields `Assets - Liabilities = Capital`, which forms the basis of Balance Sheet structures.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q41",
+    "chapter_id": "c2",
+    "question": "Which standard rule focuses on listing contingent liabilities as explicit footnotes at the bottom of a Balance Sheet?",
+    "options": [
+      "Materiality policy",
+      "Full Disclosure concept",
+      "Going concern assumption",
+      "Accrual base framework"
+    ],
+    "correct_index": 1,
+    "explanation": "Contingent liabilities (like an ongoing lawsuit) are not fixed debts yet, but full disclosure rules require listing them as footnotes for investor safety.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q42",
+    "chapter_id": "c2",
+    "question": "What is verified when an internal auditor matches ledger entries against original sales invoice bills?",
+    "options": [
+      "The Consistency concept",
+      "The Objectivity Principle",
+      "The Going concern assumption",
+      "The Materiality criteria"
+    ],
+    "correct_index": 1,
+    "explanation": "Objectivity demands backing entries with objective, neutral documentation (vouchers, bills, invoices) to verify transactions without personal bias.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q43",
+    "chapter_id": "c2",
+    "question": "What section covers the 'Systems of Accounting' branches (Double entry vs Single entry)?",
+    "options": [
+      "Section 2.2",
+      "Section 2.4",
+      "Section 2.6",
+      "Summary appendix checklist"
+    ],
+    "correct_index": 1,
+    "explanation": "According to the chapter mapping framework, Section 2.4 deals explicitly with the structural Systems of Accounting.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q44",
+    "chapter_id": "c2",
+    "question": "What does the system definition of 'Double Entry' imply for financial ledger integrity?",
+    "options": [
+      "Transactions are typed twice into the computer servers.",
+      "Every transaction impacts at least two accounts with equal corresponding debit and credit values.",
+      "It doubles the tax rates calculations automatically.",
+      "It requires matching double signature tags."
+    ],
+    "correct_index": 1,
+    "explanation": "Double entry systems capitalize on the dual aspect trait, tracking both receiving and giving ends to maintain mathematical balance.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q45",
+    "chapter_id": "c2",
+    "question": "What is the outcome of checking Answer Key Option 1 under 'Test Your Understanding - I'?",
+    "options": [
+      "Option (a)",
+      "Option (b)",
+      "Option (c)",
+      "Option (d)"
+    ],
+    "correct_index": 2,
+    "explanation": "The appendix checklist solutions on Page 21 confirm that item 1 under test parameters maps explicitly to Option (c).",
+    "ncert_page": 21,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q46",
+    "chapter_id": "c2",
+    "question": "Which accounting term represents an adjustment item where revenues are earned but cash remains unpaid at year-end?",
+    "options": [
+      "Prepaid Expense",
+      "Accrued Income",
+      "Unearned Revenue",
+      "Outstanding Debt"
+    ],
+    "correct_index": 1,
+    "explanation": "Accrued Income represents earned money that hasn't been physically collected yet, tracked explicitly under accrual base accounting models.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q47",
+    "chapter_id": "c2",
+    "question": "What criteria determines whether a specific item or transaction is 'material' or not?",
+    "options": [
+      "Its character and size relative to the overall financial layout of the organization.",
+      "Its alphabetical naming structure.",
+      "Whether it is stored in digital cloud databases.",
+      "The duration spent writing its voucher entry."
+    ],
+    "correct_index": 0,
+    "explanation": "Materiality is relative. A transaction of 10,000 might be material for a small grocery shop but entirely immaterial for a massive billion-dollar corporation.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q48",
+    "chapter_id": "c2",
+    "question": "Creating a 'Provision for Bad and Doubtful Debts' is a direct application of which principle?",
+    "options": [
+      "Objectivity Principle",
+      "Prudence (Conservatism) Principle",
+      "Matching Concept",
+      "Full Disclosure rule"
+    ],
+    "correct_index": 1,
+    "explanation": "Since some debtors might default, the Prudence principle mandates anticipating this potential risk loss early by setting up safe provisions.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q49",
+    "chapter_id": "c2",
+    "question": "What entity handles the international formulation of universal accounting standard guidelines?",
+    "options": [
+      "ICAI Board",
+      "International Accounting Standards Board (IASB)",
+      "SEBI framework committee",
+      "Global Forensic Council"
+    ],
+    "correct_index": 1,
+    "explanation": "The International Accounting Standards Board (IASB) is responsible for creating and maintaining the global IFRS core structures.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c2_q50",
+    "chapter_id": "c2",
+    "question": "Why does GAAP require financial values to be neutral and unbiased?",
+    "options": [
+      "To protect reports from being manipulated to display predetermined results.",
+      "To accelerate ledger processing computation limits.",
+      "To match taxation updates automatically.",
+      "To replace standard physical vouchers completely."
+    ],
+    "correct_index": 0,
+    "explanation": "Neutrality guarantees reliability. Financial statements must give an honest, unmanipulated portrait of corporate health to maintain investor trust.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  }
+]

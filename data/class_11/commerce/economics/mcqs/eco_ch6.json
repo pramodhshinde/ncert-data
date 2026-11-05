@@ -1,0 +1,617 @@
+[
+  {
+    "mcq_id": "eco_corr_q01",
+    "chapter_id": "c6",
+    "question": "What is the primary purpose of correlation analysis?",
+    "options": [
+      "To find the average of a single variable",
+      "To examine the relationship between two variables",
+      "To calculate the total sum of data",
+      "To predict the exact value of a variable in the past"
+    ],
+    "correct_index": 1,
+    "explanation": "Correlation analysis is a means for examining the relationships between two variables systematically.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q02",
+    "chapter_id": "c6",
+    "question": "When two variables move in the same direction (both increase or both decrease), the correlation is said to be:",
+    "options": ["Negative", "Zero", "Positive", "Neutral"],
+    "correct_index": 2,
+    "explanation": "The correlation is positive if the two variables move in the same direction.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q03",
+    "chapter_id": "c6",
+    "question": "Which of the following is an example of a 'negative correlation'?",
+    "options": [
+      "Temperature and ice-cream sales",
+      "Price and demand for a commodity",
+      "Height and weight of students",
+      "Rainfall and crop yield"
+    ],
+    "correct_index": 1,
+    "explanation": "Correlation is negative when the variables move in opposite directions; as price rises, demand usually falls.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q04",
+    "chapter_id": "c6",
+    "question": "A visual tool used to represent the relationship between two variables by plotting data points on a graph is called a:",
+    "options": ["Histogram", "Pie Chart", "Scatter Diagram", "Ogive"],
+    "correct_index": 2,
+    "explanation": "A scatter diagram is a visual tool that gives a visual idea about the nature of association between two variables.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q05",
+    "chapter_id": "c6",
+    "question": "If all points on a scatter diagram lie exactly on a straight line rising from left to right, the correlation is:",
+    "options": ["Perfect Positive (+1)", "Perfect Negative (-1)", "Zero", "Partial Positive"],
+    "correct_index": 0,
+    "explanation": "If all points lie on a straight line and the line has a positive slope, it is perfect positive correlation.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q06",
+    "chapter_id": "c6",
+    "question": "What is the range of the Karl Pearson’s coefficient of correlation (r)?",
+    "options": ["0 to 1", "-1 to 1", "-10 to 10", "Any positive value"],
+    "correct_index": 1,
+    "explanation": "The value of the correlation coefficient 'r' always lies between -1 and +1.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q07",
+    "chapter_id": "c6",
+    "question": "A correlation coefficient of '0' (zero) indicates:",
+    "options": [
+      "A strong positive relationship",
+      "A perfect negative relationship",
+      "No linear relationship between variables",
+      "The variables are identical"
+    ],
+    "correct_index": 2,
+    "explanation": "If r = 0, there is no linear relationship between the two variables.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q08",
+    "chapter_id": "c6",
+    "question": "Who developed the 'Product Moment Correlation' method?",
+    "options": ["Adam Smith", "Karl Pearson", "Charles Spearman", "Alfred Marshall"],
+    "correct_index": 1,
+    "explanation": "Karl Pearson's method is also known as product moment correlation.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q09",
+    "chapter_id": "c6",
+    "question": "The Karl Pearson coefficient (r) is used to measure which type of relationship?",
+    "options": ["Non-linear relationship", "Curvilinear relationship", "Linear relationship", "Only qualitative relationship"],
+    "correct_index": 2,
+    "explanation": "Karl Pearson’s coefficient measures the degree of linear relationship between two variables.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q10",
+    "chapter_id": "c6",
+    "question": "When the relationship between variables is non-linear or involves qualitative attributes like beauty or intelligence, which method is preferred?",
+    "options": ["Karl Pearson’s method", "Scatter Diagram", "Spearman’s Rank Correlation", "Arithmetic Mean"],
+    "correct_index": 2,
+    "explanation": "Spearman’s rank correlation was developed to handle situations where variables are non-linear or qualitative.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q11",
+    "chapter_id": "c6",
+    "question": "What is the formula for Spearman's Rank Correlation coefficient (r_s)?",
+    "options": [
+      "1 - [6ΣD² / n(n²-1)]",
+      "Σxy / n.σx.σy",
+      "ΣD / n",
+      "1 + [ΣD² / n]"
+    ],
+    "correct_index": 0,
+    "explanation": "The Spearman rank correlation formula is r_s = 1 - [6ΣD² / n(n²-1)].",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q12",
+    "chapter_id": "c6",
+    "question": "In Spearman's formula, 'D' stands for:",
+    "options": [
+      "Data value",
+      "Deviation from mean",
+      "Difference in ranks",
+      "Distance from origin"
+    ],
+    "correct_index": 2,
+    "explanation": "D represents the difference between the ranks of the two variables.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q13",
+    "chapter_id": "c6",
+    "question": "If r = +0.9, the relationship between variables is:",
+    "options": ["Weak positive", "Strong positive", "Perfect positive", "Strong negative"],
+    "correct_index": 1,
+    "explanation": "A value close to +1 indicates a high degree of positive correlation.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q14",
+    "chapter_id": "c6",
+    "question": "Which of the following is true about 'r' regarding change of scale and origin?",
+    "options": [
+      "r changes if origin is changed",
+      "r changes if scale is changed",
+      "r is independent of change of origin and scale",
+      "r changes if both are changed"
+    ],
+    "correct_index": 2,
+    "explanation": "Coefficient of correlation (r) is independent of the change of origin and the change of scale.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q15",
+    "chapter_id": "c6",
+    "question": "Does correlation imply 'causation'?",
+    "options": [
+      "Yes, always",
+      "No, it only shows association",
+      "Only if r = 1",
+      "Only in negative correlation"
+    ],
+    "correct_index": 1,
+    "explanation": "Correlation does not imply causation; it only measures the degree and direction of the relationship.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q16",
+    "chapter_id": "c6",
+    "question": "In a scatter diagram, if the points are widely scattered, it indicates:",
+    "options": ["Strong correlation", "Weak correlation", "Perfect correlation", "No data"],
+    "correct_index": 1,
+    "explanation": "If the points are widely scattered, it indicates a low degree of correlation.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q17",
+    "chapter_id": "c6",
+    "question": "If ranks are tied in Spearman's method, we assign ________ ranks.",
+    "options": ["The highest", "The lowest", "The average of the ranks", "Randomly chosen"],
+    "correct_index": 2,
+    "explanation": "When two or more items have the same value, they are assigned the average of the ranks they would have occupied.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q18",
+    "chapter_id": "c6",
+    "question": "If r = -1, it means there is:",
+    "options": [
+      "Zero correlation",
+      "Perfect negative correlation",
+      "Weak negative correlation",
+      "Calculation error"
+    ],
+    "correct_index": 1,
+    "explanation": "If r = -1, the correlation is perfect negative.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q19",
+    "chapter_id": "c6",
+    "question": "The Pearson coefficient 'r' is a ________ measure.",
+    "options": ["Qualitative", "Unit-less", "Kilogram-based", "Currency-based"],
+    "correct_index": 3,
+    "explanation": "r is a pure number and has no units.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q20",
+    "chapter_id": "c6",
+    "question": "If 'r' is calculated between height in cm and weight in kg, the unit of 'r' will be:",
+    "options": ["cm", "kg", "cm-kg", "None (it is unit-less)"],
+    "correct_index": 3,
+    "explanation": "r is independent of the units of measurement.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q21",
+    "chapter_id": "c6",
+    "question": "Which scatter diagram represents 'r = 0'?",
+    "options": [
+      "Points on a line rising upward",
+      "Points on a line falling downward",
+      "Points scattered in a circle or no pattern",
+      "Points clustered very tightly"
+    ],
+    "correct_index": 2,
+    "explanation": "When points show no discernable upward or downward trend, r is zero.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q22",
+    "chapter_id": "c6",
+    "question": "For calculating 'r', deviations can be taken from:",
+    "options": ["Only the actual mean", "Only the assumed mean", "Either the actual or assumed mean", "The median only"],
+    "correct_index": 2,
+    "explanation": "The text demonstrates calculating r using both the Step Deviation (assumed mean) and Actual Mean methods.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q23",
+    "chapter_id": "c6",
+    "question": "Rank correlation is also known as:",
+    "options": ["Pearson correlation", "Spearman correlation", "Multiple correlation", "Partial correlation"],
+    "correct_index": 1,
+    "explanation": "Rank correlation was developed by Charles Spearman.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q24",
+    "chapter_id": "c6",
+    "question": "Which method is best for data with extreme outliers that might distort the mean?",
+    "options": ["Karl Pearson’s", "Arithmetic Mean", "Rank Correlation", "Direct Method"],
+    "correct_index": 2,
+    "explanation": "Rank correlation is less affected by extreme values than Pearson’s coefficient.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q25",
+    "chapter_id": "c6",
+    "question": "If n = 5 and ΣD² = 0, Spearman’s rank correlation will be:",
+    "options": ["0", "1", "-1", "0.5"],
+    "correct_index": 1,
+    "explanation": "Using formula 1 - [6(0)/n(n²-1)] = 1 - 0 = 1.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q26",
+    "chapter_id": "c6",
+    "question": "Positive correlation implies that 'r' is:",
+    "options": ["Less than 0", "Greater than 0", "Equal to 0", "Exactly -1"],
+    "correct_index": 1,
+    "explanation": "A positive value of r indicates a positive correlation.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q27",
+    "chapter_id": "c6",
+    "question": "Which method of correlation is purely 'Graphic'?",
+    "options": ["Karl Pearson", "Rank Correlation", "Scatter Diagram", "Step Deviation"],
+    "correct_index": 2,
+    "explanation": "Scatter diagram is a visual/graphic method.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q28",
+    "chapter_id": "c6",
+    "question": "What happens to 'r' if we divide all values of X by 10?",
+    "options": ["r is divided by 10", "r is multiplied by 10", "r remains unchanged", "r becomes negative"],
+    "correct_index": 2,
+    "explanation": "Since r is independent of the change of scale, dividing by a constant does not change it.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q29",
+    "chapter_id": "c6",
+    "question": "The 'strength' of a relationship is indicated by the ________ of 'r'.",
+    "options": ["Sign (+ or -)", "Magnitude (numerical value)", "Unit", "Variable name"],
+    "correct_index": 1,
+    "explanation": "The magnitude of r indicates the strength; values closer to 1 or -1 are stronger.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q30",
+    "chapter_id": "c6",
+    "question": "If temperature decreases and use of heaters increases, the correlation is:",
+    "options": ["Positive", "Negative", "Zero", "Perfect"],
+    "correct_index": 1,
+    "explanation": "Opposite direction movements result in negative correlation.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q31",
+    "chapter_id": "c6",
+    "question": "Rank correlation is suitable for which type of variables?",
+    "options": [
+      "Quantitative only",
+      "Qualitative only",
+      "Both, if they can be ranked",
+      "Neither"
+    ],
+    "correct_index": 2,
+    "explanation": "Rank correlation can be used for both qualitative attributes and numerical data.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q32",
+    "chapter_id": "c6",
+    "question": "If Σxy = 0, then the Karl Pearson correlation coefficient is:",
+    "options": ["1", "-1", "0", "Positive"],
+    "correct_index": 2,
+    "explanation": "In the formula, Σxy is the numerator; if it is 0, r is 0.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_r33",
+    "chapter_id": "c6",
+    "question": "A perfect negative correlation means:",
+    "options": [
+      "r = 0",
+      "r = 1",
+      "r = -1",
+      "r is between 0 and -1"
+    ],
+    "correct_index": 2,
+    "explanation": "Perfect negative correlation is exactly -1.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q34",
+    "chapter_id": "c6",
+    "question": "Correlation analysis helps in ________ between variables.",
+    "options": [
+      "Finding the cause",
+      "Establishing association",
+      "Proving one variable creates the other",
+      "Eliminating variables"
+    ],
+    "correct_index": 1,
+    "explanation": "It measures association/relationship but not necessarily causation.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q35",
+    "chapter_id": "c6",
+    "question": "In Spearman's formula, 'n' refers to:",
+    "options": [
+      "Number of variables",
+      "Number of pairs of observations",
+      "Mean of data",
+      "Standard deviation"
+    ],
+    "correct_index": 1,
+    "explanation": "n is the number of pairs of observations or items ranked.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q36",
+    "chapter_id": "c6",
+    "question": "The arithmetic mean of 'ranks' 1 to n is always:",
+    "options": ["n", "(n+1)/2", "n/2", "1"],
+    "correct_index": 1,
+    "explanation": "The average of ranks from 1 to n is calculated as (n+1)/2.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q37",
+    "chapter_id": "c6",
+    "question": "Which value of 'r' represents the 'weakest' relationship?",
+    "options": ["+0.1", "-0.8", "+0.5", "-0.9"],
+    "correct_index": 0,
+    "explanation": "0.1 is closest to zero, indicating the weakest linear association.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q38",
+    "chapter_id": "c6",
+    "question": "The correlation between 'Shoes size' and 'Intelligence' is likely to be:",
+    "options": ["High positive", "High negative", "Zero", "Perfect positive"],
+    "correct_index": 2,
+    "explanation": "These variables are unrelated; hence they have zero correlation.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q39",
+    "chapter_id": "c6",
+    "question": "Spearman's Rank correlation is also called ________.",
+    "options": ["Karl’s Rank", "Spearman’s rho", "Spearman’s sigma", "Linear rank"],
+    "correct_index": 1,
+    "explanation": "It is commonly symbolized as rho.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q40",
+    "chapter_id": "c6",
+    "question": "If all 'D' (differences in ranks) are zero, then r_s is:",
+    "options": ["0", "-1", "1", "0.5"],
+    "correct_index": 2,
+    "explanation": "ΣD² = 0 means perfect agreement in ranking, so r_s = 1.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q41",
+    "chapter_id": "c6",
+    "question": "The Karl Pearson coefficient 'r' is calculated as the ratio of ________ to the product of standard deviations.",
+    "options": ["Variance", "Covariance", "Range", "Mode"],
+    "correct_index": 1,
+    "explanation": "r = Cov(X,Y) / (σx.σy).",
+    "ncert_page": 15,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q42",
+    "chapter_id": "c6",
+    "question": "Which of these is NOT a method of finding correlation mentioned in Chapter 6?",
+    "options": ["Scatter Diagram", "Karl Pearson's Coefficient", "Spearman's Rank Correlation", "Regression Analysis"],
+    "correct_index": 3,
+    "explanation": "Chapter 6 covers Scatter, Pearson, and Spearman methods.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q43",
+    "chapter_id": "c6",
+    "question": "A scatter diagram showing points from bottom-left to top-right indicates ________ correlation.",
+    "options": ["Positive", "Negative", "Zero", "Decreasing"],
+    "correct_index": 0,
+    "explanation": "An upward trend indicates positive correlation.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q44",
+    "chapter_id": "c6",
+    "question": "Correlation can be used to examine relationships between ________.",
+    "options": ["Two variables", "One variable only", "Infinite variables at once", "Historical events only"],
+    "correct_index": 0,
+    "explanation": "Correlation focuses on the relationship between two variables.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q45",
+    "chapter_id": "c6",
+    "question": "Pearson's correlation can only measure ________ relationships.",
+    "options": ["Linear", "Curvilinear", "Spatial", "Categorical"],
+    "correct_index": 0,
+    "explanation": "It is specifically a measure of linear relationship.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q46",
+    "chapter_id": "c6",
+    "question": "The sign of 'r' (+ or -) indicates the ________ of the relationship.",
+    "options": ["Strength", "Direction", "Accuracy", "Reliability"],
+    "correct_index": 1,
+    "explanation": "The sign tells you if variables move in the same (+) or opposite (-) direction.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q47",
+    "chapter_id": "c6",
+    "question": "Calculation of 'r' using Σxy / √[(Σx²)(Σy²)] is the:",
+    "options": ["Step deviation method", "Actual mean method", "Assumed mean method", "Direct method"],
+    "correct_index": 1,
+    "explanation": "This formula uses deviations from the actual mean.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q48",
+    "chapter_id": "c6",
+    "question": "In Rank correlation, what is ΣD always equal to?",
+    "options": ["n", "1", "0", "-1"],
+    "correct_index": 2,
+    "explanation": "The sum of the differences between ranks is always zero.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q49",
+    "chapter_id": "c6",
+    "question": "The method of 'Ranks' was given by:",
+    "options": ["Spearman", "Pearson", "Marshall", "Fisher"],
+    "correct_index": 0,
+    "explanation": "Charles Spearman introduced the rank correlation coefficient.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_corr_q50",
+    "chapter_id": "c6",
+    "question": "If r = -0.1, it means there is a:",
+    "options": ["Strong negative correlation", "Weak negative correlation", "Strong positive correlation", "No data"],
+    "correct_index": 1,
+    "explanation": "A value close to zero indicates a very weak relationship.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Economics"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "mcq_id": "cs_ud_q01",
+    "chapter_id": "c5",
+    "question": "Which of the following defines 'Data' according to the text?",
+    "options": [
+      "Information that is already processed",
+      "A collection of raw facts used to derive information",
+      "The final wisdom gained from experience",
+      "A computer program used for analysis"
+    ],
+    "correct_index": 1,
+    "explanation": "Data is a collection of raw facts which can be analyzed to derive information.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q02",
+    "chapter_id": "c5",
+    "question": "What is the process of systematically collecting and recording data about a population called?",
+    "options": ["Surveillance", "Data Mining", "Census", "Crowdsourcing"],
+    "correct_index": 2,
+    "explanation": "Governments systematically collect and record data about the population through a process called census.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q03",
+    "chapter_id": "c5",
+    "question": "Which step in the data handling process involves identifying the source of data and gathering it?",
+    "options": ["Data Storage", "Data Processing", "Data Collection", "Data Cleaning"],
+    "correct_index": 2,
+    "explanation": "Data collection is the process of identifying data sources and gathering data from them.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q04",
+    "chapter_id": "c5",
+    "question": "Data that has a fixed tabular format with rows and columns is called:",
+    "options": ["Unstructured Data", "Semi-structured Data", "Structured Data", "Metadata"],
+    "correct_index": 2,
+    "explanation": "Data which is organized in a pre-defined format like rows and columns is called structured data.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q05",
+    "chapter_id": "c5",
+    "question": "Which of the following is an example of Unstructured Data?",
+    "options": ["Excel spreadsheet", "SQL database table", "Audio and Video files", "A library catalogue"],
+    "correct_index": 2,
+    "explanation": "Unstructured data includes data that doesn't have a specific format, such as audio, video, and social media posts.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q06",
+    "chapter_id": "c5",
+    "question": "Data that does not have a strict rigid structure but maintains some organization through tags is called:",
+    "options": ["Structured Data", "Unstructured Data", "Semi-structured Data", "Encrypted Data"],
+    "correct_index": 2,
+    "explanation": "Semi-structured data does not have a rigid structure but has some organization (like XML or HTML tags).",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q07",
+    "chapter_id": "c5",
+    "question": "What is the primary purpose of 'Data Storage'?",
+    "options": [
+      "To process data immediately",
+      "To preserve data for future use and retrieval",
+      "To delete unwanted raw facts",
+      "To convert data into charts"
+    ],
+    "correct_index": 1,
+    "explanation": "Data storage is the process of saving data in a storage device so that it can be retrieved and used later.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q08",
+    "chapter_id": "c5",
+    "question": "Which of the following is the first stage in 'Data Processing'?",
+    "options": ["Analysis", "Cleaning/Validation", "Transformation", "Summarization"],
+    "correct_index": 1,
+    "explanation": "The first step in processing is data cleaning, which removes inconsistencies and ensures data quality.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q09",
+    "chapter_id": "c5",
+    "question": "The 'Mean' of a dataset is also known as the:",
+    "options": ["Middle value", "Most frequent value", "Average", "Range"],
+    "correct_index": 2,
+    "explanation": "Mean is the average of the given values.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q10",
+    "chapter_id": "c5",
+    "question": "What is the 'Median' in a dataset?",
+    "options": [
+      "The sum of all values divided by count",
+      "The value that appears most often",
+      "The middle value when data is arranged in ascending/descending order",
+      "The difference between max and min values"
+    ],
+    "correct_index": 2,
+    "explanation": "Median is the middle value when the data is arranged in order.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q11",
+    "chapter_id": "c5",
+    "question": "The value that appears most frequently in a dataset is called the:",
+    "options": ["Mean", "Median", "Mode", "Standard Deviation"],
+    "correct_index": 2,
+    "explanation": "Mode is the value that appears most frequently in the data.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q12",
+    "chapter_id": "c5",
+    "question": "The 'Range' of a dataset is calculated as:",
+    "options": [
+      "Maximum value + Minimum value",
+      "Maximum value - Minimum value",
+      "Sum / Count",
+      "Middle value - First value"
+    ],
+    "correct_index": 1,
+    "explanation": "Range is the difference between the maximum and minimum values in the dataset.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q13",
+    "chapter_id": "c5",
+    "question": "Which statistical measure helps in identifying how spread out or 'varied' the data is?",
+    "options": ["Mean", "Median", "Standard Deviation", "Mode"],
+    "correct_index": 2,
+    "explanation": "Standard deviation is used to quantify the amount of variation or dispersion in a set of data.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q14",
+    "chapter_id": "c5",
+    "question": "If a dataset has an even number of values, how is the median calculated?",
+    "options": [
+      "By taking the middle-most value",
+      "By taking the average of the two middle values",
+      "By picking the higher of the two middle values",
+      "The median cannot be calculated"
+    ],
+    "correct_index": 1,
+    "explanation": "If the number of observations is even, the median is the mean of the two middle values.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q15",
+    "chapter_id": "c5",
+    "question": "Data cleaning is important to remove 'Outliers'. What are outliers?",
+    "options": [
+      "Values that are missing",
+      "Values that are extremely high or low compared to the rest of the data",
+      "The names of the columns",
+      "The first row of a spreadsheet"
+    ],
+    "correct_index": 1,
+    "explanation": "Outliers are data points that differ significantly from other observations.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q16",
+    "chapter_id": "c5",
+    "question": "Which of the following represents 'Metadata'?",
+    "options": [
+      "The actual price of a product",
+      "Data about the data, such as file size or date created",
+      "A deleted file",
+      "An audio recording"
+    ],
+    "correct_index": 1,
+    "explanation": "Metadata is 'data about data', providing context for the primary data.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q17",
+    "chapter_id": "c5",
+    "question": "A low standard deviation indicates that the data points tend to be:",
+    "options": [
+      "Very spread out from the mean",
+      "Very close to the mean",
+      "Always equal to zero",
+      "Randomly distributed"
+    ],
+    "correct_index": 1,
+    "explanation": "A low standard deviation indicates that the data points tend to be close to the mean.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q18",
+    "chapter_id": "c5",
+    "question": "In the data processing cycle, 'Data Visualization' is used to:",
+    "options": [
+      "Store data",
+      "Represent data in graphical or pictorial format for better understanding",
+      "Delete duplicate records",
+      "Collect data from the web"
+    ],
+    "correct_index": 1,
+    "explanation": "Data visualization uses graphs or charts to help people understand the significance of data.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q19",
+    "chapter_id": "c5",
+    "question": "Which of the following is NOT a challenge in data storage?",
+    "options": [
+      "Storage space limitations",
+      "Data security",
+      "Fast retrieval",
+      "Data being too easy to understand"
+    ],
+    "correct_index": 3,
+    "explanation": "Challenges include huge volumes requiring space, security, and the speed of retrieval.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q20",
+    "chapter_id": "c5",
+    "question": "What is the Mean of the numbers: 2, 4, 6, 8, 10?",
+    "options": ["4", "5", "6", "8"],
+    "correct_index": 2,
+    "explanation": "(2+4+6+8+10)/5 = 30/5 = 6.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q21",
+    "chapter_id": "c5",
+    "question": "Which data type is most difficult to process using traditional computer tools?",
+    "options": ["Structured Data", "Semi-structured Data", "Unstructured Data", "Integer Data"],
+    "correct_index": 2,
+    "explanation": "Unstructured data is difficult to analyze using standard tools because it doesn't fit into tables easily.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q22",
+    "chapter_id": "c5",
+    "question": "A CSV (Comma Separated Values) file is generally considered which type of data?",
+    "options": ["Unstructured", "Structured", "Semi-structured", "Encrypted"],
+    "correct_index": 1,
+    "explanation": "CSV files represent structured data organized in rows and columns.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q23",
+    "chapter_id": "c5",
+    "question": "What does a 'Bimodal' distribution mean?",
+    "options": [
+      "Data has one mode",
+      "Data has two modes (two values appear with the same highest frequency)",
+      "Data has no mode",
+      "Data has two means"
+    ],
+    "correct_index": 1,
+    "explanation": "A set of data can have more than one mode. If it has two, it is called bimodal.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q24",
+    "chapter_id": "c5",
+    "question": "The Median is less affected by ________ than the Mean.",
+    "options": ["Small values", "Outliers/Extreme values", "Zero values", "Duplicate values"],
+    "correct_index": 1,
+    "explanation": "Median is a better measure of central tendency when the data contains outliers because it looks at the position, not the magnitude.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q25",
+    "chapter_id": "c5",
+    "question": "Which symbol is used in mathematical formulas to represent the 'Sum of' values?",
+    "options": ["Δ (Delta)", "Σ (Sigma)", "π (Pi)", "∞ (Infinity)"],
+    "correct_index": 1,
+    "explanation": "Sigma (Σ) represents the summation of all values.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q26",
+    "chapter_id": "c5",
+    "question": "Primary data sources include:",
+    "options": ["Data from a library", "Direct surveys and observations", "Data from another researcher", "Internet search results"],
+    "correct_index": 1,
+    "explanation": "Data collection can involve gathering data directly from sources like surveys.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q27",
+    "chapter_id": "c5",
+    "question": "If all values in a dataset are the same (e.g., 5, 5, 5, 5), the Standard Deviation will be:",
+    "options": ["5", "1", "0", "Undefined"],
+    "correct_index": 2,
+    "explanation": "If there is no variation in the data, the standard deviation is 0.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q28",
+    "chapter_id": "c5",
+    "question": "A student's report card containing Roll No, Name, and Marks is an example of:",
+    "options": ["Unstructured data", "Structured data", "Random data", "Binary data"],
+    "correct_index": 1,
+    "explanation": "It follows a pre-defined format, making it structured data.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q29",
+    "chapter_id": "c5",
+    "question": "Data validation ensures that the data is ________ before processing.",
+    "options": ["Deleted", "Accurate and reliable", "Encoded", "Encrypted"],
+    "correct_index": 1,
+    "explanation": "Validation checks ensure the data being processed is correct and complete.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q30",
+    "chapter_id": "c5",
+    "question": "Which of these is a software tool commonly used for data analysis and visualization?",
+    "options": ["Notepad", "Python (with libraries like Pandas)", "Photoshop", "VLC Player"],
+    "correct_index": 1,
+    "explanation": "Python is a powerful tool for data processing and analysis.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q31",
+    "chapter_id": "c5",
+    "question": "What happens if you calculate the Mean of a dataset containing a massive outlier?",
+    "options": [
+      "The Mean remains the same",
+      "The Mean gets skewed towards the outlier",
+      "The outlier is automatically deleted",
+      "The Mean becomes zero"
+    ],
+    "correct_index": 1,
+    "explanation": "One disadvantage of the Mean is that it is highly affected by extreme values (outliers).",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q32",
+    "chapter_id": "c5",
+    "question": "HTML files are examples of:",
+    "options": ["Structured Data", "Unstructured Data", "Semi-structured Data", "Digital Data"],
+    "correct_index": 2,
+    "explanation": "HTML and XML are semi-structured data as they use tags to organize content.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q33",
+    "chapter_id": "c5",
+    "question": "What is the Median of: 10, 20, 30, 40, 50?",
+    "options": ["20", "30", "40", "25"],
+    "correct_index": 1,
+    "explanation": "30 is the middle value in this sorted list.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q34",
+    "chapter_id": "c5",
+    "question": "Which statistical measure is the most suitable for finding the 'most popular' item in a sale?",
+    "options": ["Mean", "Median", "Mode", "Range"],
+    "correct_index": 2,
+    "explanation": "Mode represents the most frequent item, indicating popularity.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q35",
+    "chapter_id": "c5",
+    "question": "In the formula for mean, what does 'n' represent?",
+    "options": ["The sum of values", "The number of observations", "The maximum value", "The mode"],
+    "correct_index": 1,
+    "explanation": "In statistical formulas, 'n' usually denotes the total number of items or observations.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q36",
+    "chapter_id": "c5",
+    "question": "Why do we arrange data in order before calculating the median?",
+    "options": [
+      "To make it look better",
+      "Because the median is based on the central position of the data",
+      "To find the sum",
+      "To find the average"
+    ],
+    "correct_index": 1,
+    "explanation": "Median is the value in the middle position of a sorted dataset.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q37",
+    "chapter_id": "c5",
+    "question": "A dataset with no repeated values has:",
+    "options": ["Zero mean", "Zero median", "No mode", "No range"],
+    "correct_index": 2,
+    "explanation": "If no value repeats, there is no most frequent value, hence no mode.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q38",
+    "chapter_id": "c5",
+    "question": "Data processing is the transition from ________ to ________.",
+    "options": ["Information; Data", "Data; Information", "Excel; Python", "Storage; Collection"],
+    "correct_index": 1,
+    "explanation": "Data processing converts raw data into meaningful information.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q39",
+    "chapter_id": "c5",
+    "question": "Which of these is a form of digital data storage?",
+    "options": ["Paper notebooks", "Hard Disks and Cloud storage", "Brain memory", "Chalkboard"],
+    "correct_index": 1,
+    "explanation": "Computers store data on hard disks, pen drives, and remote servers (cloud).",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q40",
+    "chapter_id": "c5",
+    "question": "What is the Median of: 1, 2, 3, 4?",
+    "options": ["2", "3", "2.5", "5"],
+    "correct_index": 2,
+    "explanation": "Average of middle values 2 and 3 is (2+3)/2 = 2.5.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q41",
+    "chapter_id": "c5",
+    "question": "Standard deviation measures the 'Variability' of data. High variability means:",
+    "options": [
+      "The data points are all the same",
+      "The data points are spread widely across a range of values",
+      "The data points are only integers",
+      "The data is structured"
+    ],
+    "correct_index": 1,
+    "explanation": "High variability implies a large range and spread of data values.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q42",
+    "chapter_id": "c5",
+    "question": "Data that is collected for one purpose but used for another is called ________ source data.",
+    "options": ["Primary", "Secondary", "Tertiary", "Duplicate"],
+    "correct_index": 1,
+    "explanation": "Secondary data is data that has been already collected and is being reused.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q43",
+    "chapter_id": "c5",
+    "question": "Which of these captures the 'Center' of the data distribution?",
+    "options": ["Mean", "Median", "Mode", "All of the above"],
+    "correct_index": 3,
+    "explanation": "Mean, median, and mode are all measures of central tendency.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q44",
+    "chapter_id": "c5",
+    "question": "A photo uploaded to Instagram is an example of:",
+    "options": ["Structured data", "Unstructured data", "Metadata", "Table"],
+    "correct_index": 1,
+    "explanation": "Images are unstructured data.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q45",
+    "chapter_id": "c5",
+    "question": "A library system tracks book issues in a database table. This is:",
+    "options": ["Structured data", "Semi-structured data", "Unstructured data", "Random data"],
+    "correct_index": 0,
+    "explanation": "Databases use tables, which are structured.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q46",
+    "chapter_id": "c5",
+    "question": "Range is a measure of:",
+    "options": ["Central tendency", "Dispersion", "Frequency", "Average"],
+    "correct_index": 1,
+    "explanation": "Range measures the spread (dispersion) of the data.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q47",
+    "chapter_id": "c5",
+    "question": "If the mean of 5 numbers is 10, what is their sum?",
+    "options": ["2", "10", "50", "100"],
+    "correct_index": 2,
+    "explanation": "Sum = Mean * n = 10 * 5 = 50.",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q48",
+    "chapter_id": "c5",
+    "question": "Which of these is most likely to be a 'Metadata' for a word document?",
+    "options": [
+      "The text written inside the document",
+      "The font color used",
+      "The date the document was last modified",
+      "The images inserted"
+    ],
+    "correct_index": 2,
+    "explanation": "Creation/Modification dates are metadata.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q49",
+    "chapter_id": "c5",
+    "question": "Why is 'Veracity' a challenge in Big Data?",
+    "options": [
+      "Data is too small",
+      "Data might be inconsistent, inaccurate, or fake",
+      "Data is too expensive",
+      "Data is only in English"
+    ],
+    "correct_index": 1,
+    "explanation": "Veracity refers to the quality and trust in the data, which is often poor in massive datasets.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Informatics Practices"
+  },
+  {
+    "mcq_id": "cs_ud_q50",
+    "chapter_id": "c5",
+    "question": "An XML file containing employee details with tags like <id>, <name> is:",
+    "options": ["Structured Data", "Unstructured Data", "Semi-structured Data", "No Data"],
+    "correct_index": 2,
+    "explanation": "Tagged data formats like XML and JSON are semi-structured.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Informatics Practices"
+  }
+]

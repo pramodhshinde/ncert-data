@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "must_q01",
+    "chapter_id": "c2",
+    "question": "Who is the author of the short story 'A Pair of Mustachios'?",
+    "options": ["R.K. Narayan", "Mulk Raj Anand", "Raja Rao", "Anita Desai"],
+    "correct_index": 1,
+    "explanation": "The story 'A Pair of Mustachios' is written by Mulk Raj Anand.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q02",
+    "chapter_id": "c2",
+    "question": "According to the narrator, what 'makes the man' in his country?",
+    "options": ["Frock coats", "Striped trousers", "Mustachios", "Top hats"],
+    "correct_index": 2,
+    "explanation": "The narrator states, 'With them clothes make the man but, to us, mustachios make the man.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q03",
+    "chapter_id": "c2",
+    "question": "The 'lion moustache' is the symbol of which class?",
+    "options": ["Peasants", "The professional class", "Rajas, maharajas, and nawabs", "The nouveau riche"],
+    "correct_index": 2,
+    "explanation": "The lion moustache is described as the symbol of rajas, maharajas, nawabs and English army generals.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q04",
+    "chapter_id": "c2",
+    "question": "What is the name of the protagonist who claims to be a descendant of a noble family?",
+    "options": ["Seth Ramanand", "Khan Azam Khan", "Sheikh Tulsi Ram", "Kuzma Ionitch"],
+    "correct_index": 1,
+    "explanation": "The main character is Khan Azam Khan, who claims descent from a family that held high office in the Mughal Empire.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q05",
+    "chapter_id": "c2",
+    "question": "Which dance style of moustache is associated with the 'commercial bourgeoisie' and the 'nouveau riche'?",
+    "options": ["Lion moustache", "Tiger moustache", "Goat moustache", "Charlie Chaplin moustache"],
+    "correct_index": 1,
+    "explanation": "The tiger moustache is the symbol of the unctuous commercial bourgeoisie and the nouveau riche.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q06",
+    "chapter_id": "c2",
+    "question": "What style of moustache does Seth Ramanand wear?",
+    "options": ["Lion moustache", "Tiger moustache", "Goat moustache", "Sheep moustache"],
+    "correct_index": 1,
+    "explanation": "Seth Ramanand, the grocer and moneylender, wears a tiger moustache.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q07",
+    "chapter_id": "c2",
+    "question": "The 'goat moustache' is reserved for which class of people?",
+    "options": ["Lower middle class", "Working class", "The professional class", "The peasantry"],
+    "correct_index": 0,
+    "explanation": "The goat moustache is for the lower middle class, including clerks, shopkeepers, and school masters.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q08",
+    "chapter_id": "c2",
+    "question": "What style of moustache does Khan Azam Khan wear?",
+    "options": ["Tiger moustache", "Sheep moustache", "Lion moustache", "Charlie Chaplin moustache"],
+    "correct_index": 2,
+    "explanation": "Khan Azam Khan prides himself on wearing a lion moustache, signifying his noble lineage.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q09",
+    "chapter_id": "c2",
+    "question": "Why does Khan Azam Khan get angry with Seth Ramanand?",
+    "options": ["Ramanand refused him a loan", "Ramanand's tiger moustache had its tips turned up like a lion moustache", "Ramanand insulted his ancestors", "Ramanand cheated him in a sale"],
+    "correct_index": 1,
+    "explanation": "Khan Azam Khan is offended because Ramanand's moustache tips were turned up, making it resemble the noble lion moustache.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q10",
+    "chapter_id": "c2",
+    "question": "To what animal's moustache is the 'coolie' or working class's style compared?",
+    "options": ["Goat", "Tiger", "Sheep", "Mouse"],
+    "correct_index": 2,
+    "explanation": "The sheep moustache is described as belonging to the 'coolie' or the lower-grade peasants and the working class.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q11",
+    "chapter_id": "c2",
+    "question": "Khan Azam Khan goes to Seth Ramanand's shop to pawn his wife's:",
+    "options": ["Earrings", "Gold nose-ring", "Necklace", "Bangles"],
+    "correct_index": 1,
+    "explanation": "He takes his wife's gold nose-ring to the moneylender to get some cash.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q12",
+    "chapter_id": "c2",
+    "question": "What is the name of the bridge mentioned as a destination in the story?",
+    "options": ["Police Bridge", "Mughal Bridge", "Royal Bridge", "Village Bridge"],
+    "correct_index": 0,
+    "explanation": "The three young men in 'The Lament' (context included in the same file) go to the Police Bridge.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q13",
+    "chapter_id": "c2",
+    "question": "How many 'lines of demarcation' or categories of mustachios does the narrator describe?",
+    "options": ["Three", "Four", "Five", "Six"],
+    "correct_index": 2,
+    "explanation": "The narrator lists the Lion, Tiger, Goat, Charlie Chaplin, and Sheep mustachios.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q14",
+    "chapter_id": "c2",
+    "question": "The 'Charlie Chaplin' moustache is specifically associated with:",
+    "options": ["Actors", "The lower middle class", "English army generals", "Peasants"],
+    "correct_index": 1,
+    "explanation": "The Charlie Chaplin moustache is another variety for the lower middle class.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q15",
+    "chapter_id": "c2",
+    "question": "What happens when Seth Ramanand turns one end of his moustache down?",
+    "options": ["Khan Azam Khan is satisfied", "Khan Azam Khan demands the other end be turned down as well", "Khan Azam Khan leaves the shop", "Khan Azam Khan hits him"],
+    "correct_index": 1,
+    "explanation": "Khan Azam Khan points out that while one end is down, the other is still up, and insists both must be down.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q16",
+    "chapter_id": "c2",
+    "question": "What does Khan Azam Khan sacrifice to make Seth Ramanand lower his moustache completely?",
+    "options": ["His house", "All his belongings and his house", "His horse", "His land"],
+    "correct_index": 1,
+    "explanation": "In his pride, he pawns everything he has, including his house, to force the grocer to lower his moustache.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q17",
+    "chapter_id": "c2",
+    "question": "What is the tone of the story?",
+    "options": ["Tragic", "Satirical and Ironical", "Romantic", "Scientific"],
+    "correct_index": 1,
+    "explanation": "The story satirizes the obsession with social status and 'false pride' in Indian society.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q18",
+    "chapter_id": "c2",
+    "question": "What phrase is used to describe the grocer's class?",
+    "options": ["Nouveau riche", "Blue blood", "Proletariat", "Aristocracy"],
+    "correct_index": 0,
+    "explanation": "Seth Ramanand's class is described as the 'nouveau riche'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q19",
+    "chapter_id": "c2",
+    "question": "The narrator suggests that some people find it easier to wear 'boundary-lines' like mustachios because they only need:",
+    "options": ["A trim", "Soap and water", "A smear of grease", "A hat"],
+    "correct_index": 2,
+    "explanation": "Mustachios only need a smear of grease to keep them bright, unlike expensive European clothes.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q20",
+    "chapter_id": "c2",
+    "question": "Khan Azam Khan is described as a 'tall, middle-aged man' with what kind of eyes?",
+    "options": ["Blue", "Kind", "Fierce and bloodshot", "Small and shifty"],
+    "correct_index": 2,
+    "explanation": "He is described as having handsome, fierce, and bloodshot eyes.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q21",
+    "chapter_id": "c2",
+    "question": "Seth Ramanand's attitude toward Khan Azam Khan can be described as:",
+    "options": ["Terrified", "Respectful", "Cunning and mocking", "Deeply sympathetic"],
+    "correct_index": 2,
+    "explanation": "Ramanand plays along with Khan's pride to trick him into losing his property.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q22",
+    "chapter_id": "c2",
+    "question": "What is the ultimate fate of Khan Azam Khan at the end of the story?",
+    "options": ["He becomes a rich man", "He kills Seth Ramanand", "He is reduced to a beggar but walks away proudly", "He loses his moustache"],
+    "correct_index": 2,
+    "explanation": "He walks away having lost all his property, yet he is 'proud of the preservation of the high emblem of his order.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q23",
+    "chapter_id": "c2",
+    "question": "What does the phrase 'blue blood' refer to in the story?",
+    "options": ["A disease", "Noble or aristocratic birth", "Stained clothes", "Merchant class"],
+    "correct_index": 1,
+    "explanation": "Khan Azam Khan claims to have 'blue blood' due to his noble Mughal ancestry.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q24",
+    "chapter_id": "c2",
+    "question": "The grocer calls Khan Azam Khan 'Khan Sahib' which is a:",
+    "options": ["Insult", "Form of address for a noble", "Name for a servant", "Mathematical term"],
+    "correct_index": 1,
+    "explanation": "Khan Sahib is an honorific title given to the Khan to flatter him.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q25",
+    "chapter_id": "c2",
+    "question": "What is 'unctuous' behavior as attributed to the grocer?",
+    "options": ["Aggressive", "Slippery/excessively flattering", "Lazy", "Generous"],
+    "correct_index": 1,
+    "explanation": "The commercial bourgeoisie is described as 'unctuous' because they are smooth and fawning in their dealings.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q26",
+    "chapter_id": "c2",
+    "question": "Khan Azam Khan's family had traditionally served in which empire?",
+    "options": ["British", "Mughal", "Mauryan", "Gupta"],
+    "correct_index": 1,
+    "explanation": "Khan mentions his ancestors were 'great nobles in the court of the Great Mughals.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q27",
+    "chapter_id": "c2",
+    "question": "The story mocks the fact that class distinctions in India are maintained through ________.",
+    "options": ["Education", "Wealth alone", "Trivial physical symbols like moustaches", "Military rank"],
+    "correct_index": 2,
+    "explanation": "The story uses moustaches as a metaphor for the rigid and often absurd class hierarchies.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q28",
+    "chapter_id": "c2",
+    "question": "How many times does Khan Azam Khan return to the shop regarding the moustache?",
+    "options": ["Once", "Twice", "Three times", "Continuously"],
+    "correct_index": 1,
+    "explanation": "He first notices the turned-up end, leaves, and then returns to ensure it is lowered correctly.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q29",
+    "chapter_id": "c2",
+    "question": "What does Seth Ramanand ask for in return for lowering the second tip of his moustache?",
+    "options": ["A horse", "A signature on a deed for all of Khan's property", "Five hundred rupees", "An apology"],
+    "correct_index": 1,
+    "explanation": "The grocer demands a legal deed pawning all Khan's remaining property before he will lower the other tip.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q30",
+    "chapter_id": "c2",
+    "question": "The narrator uses the word 'Demarcation' to mean:",
+    "options": ["Destruction", "Setting a boundary or limit", "Celebration", "Movement"],
+    "correct_index": 1,
+    "explanation": "The mustachios serve as 'lines of demarcation' between social classes.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q31",
+    "chapter_id": "c2",
+    "question": "Khan Azam Khan's reaction to the grocer's moustache is described as a 'noble' ________.",
+    "options": ["Joy", "Humility", "Rage", "Indifference"],
+    "correct_index": 2,
+    "explanation": "His rage is fueled by his belief in his noble superiority.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q32",
+    "chapter_id": "c2",
+    "question": "What is a 'frock coat'?",
+    "options": ["A type of dress", "A formal European coat", "A farming tool", "A style of facial hair"],
+    "correct_index": 1,
+    "explanation": "Frock coats are formal European garments mentioned by the narrator.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q33",
+    "chapter_id": "c2",
+    "question": "The grocer's smile while talking to Khan Azam Khan is described as:",
+    "options": ["Friendly", "Sardonic and calculating", "Warm", "Missing"],
+    "correct_index": 1,
+    "explanation": "The grocer uses a 'sweet-as-honey' but deceptive tone to manipulate Khan.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q34",
+    "chapter_id": "c2",
+    "question": "Which word is used in the text to describe the grocer as a rascal?",
+    "options": ["Bluff", "Hero", "Saint", "Officer"],
+    "correct_index": 0,
+    "explanation": "The text mentions 'the bluff of a rascal'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q35",
+    "chapter_id": "c2",
+    "question": "The narrator mocks the 'queer old' ________ of his country.",
+    "options": ["Buildings", "Conventions, prides and prejudices", "Rivers", "Food"],
+    "correct_index": 1,
+    "explanation": "The narrator highlights the strange social conventions people stick to.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q36",
+    "chapter_id": "c2",
+    "question": "Mulk Raj Anand is well-known for writing about:",
+    "options": ["Rich kings only", "Social inequality and the lives of the poor", "Science fiction", "Detective stories"],
+    "correct_index": 1,
+    "explanation": "Anand often explored social and economic injustice in his fiction.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q37",
+    "chapter_id": "c2",
+    "question": "What is the meaning of 'Nouveau riche'?",
+    "options": ["Old nobility", "People who have recently acquired wealth", "The extremely poor", "French royalty"],
+    "correct_index": 1,
+    "explanation": "Nouveau riche refers to people who have recently become rich and are often seen as lacking taste.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q38",
+    "chapter_id": "c2",
+    "question": "The setting of the story is most likely:",
+    "options": ["A big city", "A small village or town in India", "A forest", "A London office"],
+    "correct_index": 1,
+    "explanation": "The interaction takes place at a local grocer's shop in an Indian setting.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q39",
+    "chapter_id": "c2",
+    "question": "What does 'to pawn' an item mean?",
+    "options": ["To throw it away", "To give it as a gift", "To leave an object with a moneylender as security for a loan", "To sell it to a friend"],
+    "correct_index": 2,
+    "explanation": "Khan Azam Khan pawns his wife's jewelry for money.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q40",
+    "chapter_id": "c2",
+    "question": "The 'lion moustache' is described as having its tips ________.",
+    "options": ["Turned down", "Turned up", "Cut off", "Shaved"],
+    "correct_index": 1,
+    "explanation": "The lion moustache has upstanding, turned-up tips.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q41",
+    "chapter_id": "c2",
+    "question": "What happens when Khan Azam Khan first sees Ramanand's moustache?",
+    "options": ["He laughs", "He shouts 'You son of a dog!'", "He buys some lentils", "He ignores him"],
+    "correct_index": 1,
+    "explanation": "Khan loses his temper immediately and insults the grocer.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q42",
+    "chapter_id": "c2",
+    "question": "The phrase 'goods and chattels' refers to:",
+    "options": ["Food only", "Personal property or belongings", "Noble ancestors", "Cattle"],
+    "correct_index": 1,
+    "explanation": "Chattels are movable personal property.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q43",
+    "chapter_id": "c2",
+    "question": "How does Khan Azam Khan feel after losing his house?",
+    "options": ["Regretful", "Proud and satisfied", "Suicidal", "Happy"],
+    "correct_index": 1,
+    "explanation": "He feels proud that he forced the grocer to lower his moustache, even at the cost of his house.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q44",
+    "chapter_id": "c2",
+    "question": "Who does the grocer represent in the story's social commentary?",
+    "options": ["The declining nobility", "The rising and opportunistic middle class", "The unlearned peasantry", "The British rulers"],
+    "correct_index": 1,
+    "explanation": "Ramanand represents the economically powerful new middle class that replaces the old feudal lords.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q45",
+    "chapter_id": "c2",
+    "question": "What does the phrase 'draw up a deed' mean?",
+    "options": ["To paint a picture", "To write a legal document", "To close a door", "To make a mistake"],
+    "correct_index": 1,
+    "explanation": "A deed is a legal document, especially one regarding ownership of property.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q46",
+    "chapter_id": "c2",
+    "question": "The grocer's moustache style is a 'symbol' of his ________.",
+    "options": ["Kindness", "Noble birth", "Acquired wealth and status", "Poverty"],
+    "correct_index": 2,
+    "explanation": "The tiger moustache symbolizes the rising commercial class.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q47",
+    "chapter_id": "c2",
+    "question": "What animal does the narrator compare the peasant's moustache to?",
+    "options": ["Goat", "Tiger", "Sheep", "Lion"],
+    "correct_index": 2,
+    "explanation": "The 'sheep moustache' is for the peasants.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q48",
+    "chapter_id": "c2",
+    "question": "The narrator's attitude toward the 'mustachio policy' is:",
+    "options": ["Supportive", "Indifferent", "Mocking and Humorous", "Angry"],
+    "correct_index": 2,
+    "explanation": "The narrator uses humor to show the absurdity of the situation.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q49",
+    "chapter_id": "c2",
+    "question": "Khan Azam Khan is described as a 'descendant' of the:",
+    "options": ["Rajputs", "Afghans", "Mughals", "Sikhs"],
+    "correct_index": 2,
+    "explanation": "He claims Mughal noble ancestry.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "must_q50",
+    "chapter_id": "c2",
+    "question": "The story ends with a 'victorious' Khan Azam Khan having no ________ left.",
+    "options": ["Moustache", "Pride", "House or property", "Ancestors"],
+    "correct_index": 2,
+    "explanation": "He loses everything material to save his symbolic pride.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  }
+]

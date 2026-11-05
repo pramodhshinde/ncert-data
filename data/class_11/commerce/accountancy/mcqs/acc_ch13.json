@@ -1,0 +1,18 @@
+[
+  {
+    "mcq_id": "acc_ch13_q01",
+    "chapter_id": "acc_ch13",
+    "question": "In a computerised accounting system, the data is stored in:",
+    "options": [
+      "Paper ledgers",
+      "Computer files or databases",
+      "Manual registers",
+      "Cardboard boxes"
+    ],
+    "correct_index": 1,
+    "explanation": "Computerised accounting systems store all data in computer files or databases for easy retrieval.",
+    "ncert_page": 1,
+    "difficulty": "EASY",
+    "subject": "Accountancy"
+  }
+]

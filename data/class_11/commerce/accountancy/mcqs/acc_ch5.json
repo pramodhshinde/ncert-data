@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c5_q01",
+    "chapter_id": "c5",
+    "question": "What is a Bank Reconciliation Statement (BRS) formally defined as?",
+    "options": [
+      "A part of the principal ledger book that records daily cash transactions",
+      "A statement prepared to reconcile or tally the bank balance as per the cash book with the balance shown in the bank passbook",
+      "A statement issued by the income tax authority to audit corporate profits",
+      "A financial statement that summarizes a company's non-current assets and liabilities"
+    ],
+    "correct_index": 1,
+    "explanation": "A Bank Reconciliation Statement is prepared to ascertain the causes of differences between the bank balance shown in the firm's cash book and the balance shown in the bank statement/passbook, and to reconcile them.",
+    "ncert_page": 161,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q02",
+    "chapter_id": "c5",
+    "question": "Who is primarily responsible for preparing the Bank Reconciliation Statement?",
+    "options": [
+      "The commercial bank where the account is held",
+      "The customer or business enterprise maintaining the bank account",
+      "The central bank of the country (e.g., Reserve Bank of India)",
+      "The external statutory government auditor exclusively"
+    ],
+    "correct_index": 1,
+    "explanation": "A Bank Reconciliation Statement is prepared by the account holder (the customer or business firm) to check their records against the records kept by the bank.",
+    "ncert_page": 160,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q03",
+    "chapter_id": "c5",
+    "question": "What is a bank passbook or bank statement formally described as in accounting literature?",
+    "options": [
+      "A copy of the cash column of the business firm's cash book",
+      "A copy of a customer's account as it appears in the ledger records of the bank",
+      "A primary voucher confirming credit sales transactions",
+      "An adjustment daybook used to record depreciation"
+    ],
+    "correct_index": 1,
+    "explanation": "A bank statement or a bank passbook is a copy of a customer's account as shown by the bank's internal records, enabling the customer to verify their funds.",
+    "ncert_page": 160,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q04",
+    "chapter_id": "c5",
+    "question": "What are the two primary macro-level causes of differences between the cash book balance and the bank statement balance?",
+    "options": [
+      "Cash discounts and trade discounts rules",
+      "Timing differences in recording transactions and errors made by the business or the bank",
+      "Capital expenditures and revenue expenditures allocations",
+      "Forensic audits and tax rate modifications"
+    ],
+    "correct_index": 1,
+    "explanation": "The differences between the cash book and the bank passbook are caused by: 1. Timing differences on recording transactions, and 2. Errors made by the business or by the bank.",
+    "ncert_page": 163,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q05",
+    "chapter_id": "c5",
+    "question": "A normal, favorable balance in a firm's Cash Book is represented by which of the following?",
+    "options": [
+      "A credit balance in the cash book",
+      "A debit balance in the cash book",
+      "An overdraft balance in the cash book",
+      "A zero net index balance"
+    ],
+    "correct_index": 1,
+    "explanation": "Normally, the bank column of the cash book shows a debit balance, which represents a favorable balance (cash available at the bank).",
+    "ncert_page": 165,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q06",
+    "chapter_id": "c5",
+    "question": "A normal, favorable balance inside the bank's Passbook is represented by which type of balance?",
+    "options": [
+      "A debit balance in the passbook",
+      "A credit balance in the passbook",
+      "An overdraft indicator row",
+      "A matching source document voucher balance"
+    ],
+    "correct_index": 1,
+    "explanation": "A favorable balance as per the bank passbook is a credit balance because the money deposited by a customer is a liability for the bank (owed back to the customer).",
+    "ncert_page": 165,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q07",
+    "chapter_id": "c5",
+    "question": "What does a debit balance in a bank Passbook or bank statement indicate?",
+    "options": [
+      "A vast cash deposit available for immediate withdrawal",
+      "An unfavorable or overdraft balance",
+      "A total collection of dividends earned",
+      "A correction of an error by the business manager"
+    ],
+    "correct_index": 1,
+    "explanation": "When money is withdrawn from the bank or an overdraft occurs, the bank debits the account of the customer. Thus, a debit balance in the passbook indicates an overdraft.",
+    "ncert_page": 165,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q08",
+    "chapter_id": "c5",
+    "question": "What does a credit balance in the firm's Cash Book bank column signify?",
+    "options": [
+      "A favorable deposit balance",
+      "An unfavorable or overdraft balance",
+      "An omission of trade discount entries",
+      "A cash receipt from accounts debtors"
+    ],
+    "correct_index": 1,
+    "explanation": "A credit balance in the bank column of the cash book indicates that the business has withdrawn more cash from the bank than it has deposited, which is an overdraft.",
+    "ncert_page": 166,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q09",
+    "chapter_id": "c5",
+    "question": "When a firm issues cheques to its suppliers, on which side of the Cash Book are they immediately recorded?",
+    "options": [
+      "The left-hand (Debit) receipts side",
+      "The right-hand (Credit) payments side",
+      "In the Ledger Folio column directly",
+      "They are not recorded until the supplier deposits them."
+    ],
+    "correct_index": 1,
+    "explanation": "When cheques are issued by the firm to suppliers or creditors, they are immediately entered on the credit (payments) side of the cash book.",
+    "ncert_page": 163,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q10",
+    "chapter_id": "c5",
+    "question": "Why does a time lag exist between the issue of a cheque by a business and its recording by the bank?",
+    "options": [
+      "Because banks require a physical cash memo for confirmation",
+      "Because the receiving party may not present the cheque to the bank for payment immediately",
+      "Because the business deletes the account entries on the weekend",
+      "Due to explicit typecasting promotions on server terminals"
+    ],
+    "correct_index": 1,
+    "explanation": "Although the business enters the issued cheque immediately, the bank will debit the firm's account only when the receiving party actually presents the cheque for payment.",
+    "ncert_page": 163,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q11",
+    "chapter_id": "c5",
+    "question": "When a firm receives cheques from its debtors and pays them into the bank, where are they immediately entered in the Cash Book?",
+    "options": [
+      "The credit side under payments",
+      "The debit side under receipts",
+      "As a footnote attachment",
+      "In the Journal Proper directly"
+    ],
+    "correct_index": 1,
+    "explanation": "When the firm receives cheques from its customers, they are immediately recorded on the debit (receipts) side of the cash book, increasing the cash book bank balance.",
+    "ncert_page": 163,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q12",
+    "chapter_id": "c5",
+    "question": "When cheques are deposited into the bank but not yet collected, how do the two balances compare prior to reconciliation?",
+    "options": [
+      "The cash book balance is less than the passbook balance.",
+      "The cash book balance is greater than the passbook balance.",
+      "Both balances remain perfectly equal.",
+      "The passbook balance drops to zero automatically."
+    ],
+    "correct_index": 1,
+    "explanation": "Depositing a cheque increases the cash book balance immediately. Since the bank only credits the passbook after actual collection, the cash book balance is higher than the passbook balance during this time lag.",
+    "ncert_page": 163,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q13",
+    "chapter_id": "c5",
+    "question": "What is the immediate effect on a firm's bank balance when a customer directly deposits an amount into the firm's bank account?",
+    "options": [
+      "The cash book balance increases immediately.",
+      "The bank records the receipt, making the passbook balance higher than the cash book balance.",
+      "Both cash book and passbook balances drop simultaneously.",
+      "The commercial bank freezes the asset account."
+    ],
+    "correct_index": 1,
+    "explanation": "A direct deposit is credited by the bank instantly, increasing the passbook balance. Since the firm is unaware of it until it receives the bank statement, the cash book balance remains lower.",
+    "ncert_page": 164,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q14",
+    "chapter_id": "c5",
+    "question": "When a bank collects interest and dividends on behalf of a business enterprise, how does it process that transaction initially?",
+    "options": [
+      "It debits the customer's account immediately.",
+      "It credits the customer's account immediately.",
+      "It records it in a non-cash transfer daybook.",
+      "It holds the funds in a suspense account folder."
+    ],
+    "correct_index": 1,
+    "explanation": "Interest and dividends collected by the bank are immediately credited to the customer's account. The firm records them in the cash book only after reviewing the bank statement.",
+    "ncert_page": 164,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q15",
+    "chapter_id": "c5",
+    "question": "What are 'standing instructions' given by a customer to a commercial bank primarily used for?",
+    "options": [
+      "Auditing credit sales invoice vouchers",
+      "Direct payments made by the bank regularly on stated days to third parties (e.g., insurance premiums, rent)",
+      "Changing the legal identity naming structure of the firm",
+      "Undertaking forensic hacking investigations"
+    ],
+    "correct_index": 1,
+    "explanation": "Standing instructions allow the bank to make regular automatic payments (like telephone bills, taxes, insurance premiums) directly on behalf of the customer, debiting their account.",
+    "ncert_page": 164,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q16",
+    "chapter_id": "c5",
+    "question": "How do direct payments made by the bank on behalf of a customer affect the two balances before they are entered into the cash book?",
+    "options": [
+      "The cash book balance becomes lower than the passbook balance.",
+      "The bank passbook balance becomes less than the cash book balance.",
+      "Total assets expand across both books equally.",
+      "They create an automatic cash discount provision."
+    ],
+    "correct_index": 1,
+    "explanation": "Because the bank directly pays and debits the account, the passbook balance decreases. Until the firm records it from the bank statement, the passbook balance will be lower than the cash book balance.",
+    "ncert_page": 164,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q17",
+    "chapter_id": "c5",
+    "question": "When a cheque previously deposited by a firm is dishonoured, what action does the bank take inside the passbook?",
+    "options": [
+      "It increases the credit balance row.",
+      "It reverses the entry by debiting the customer's account.",
+      "It deletes the customer's historical ledger page.",
+      "It issues a new debit note memo."
+    ],
+    "correct_index": 1,
+    "explanation": "Upon dishonour of a deposited cheque, the bank debits the customer's account to reverse the credit given earlier. This makes the passbook balance smaller than the cash book balance until adjusted.",
+    "ncert_page": 164,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q18",
+    "chapter_id": "c5",
+    "question": "Which of the following is an example of an error committed strictly by the business firm, rather than a timing difference?",
+    "options": [
+      "Cheques issued to vendors but not presented to the bank",
+      "Recording an issued cheque of 5,000 as 500 in the cash book",
+      "Dividends directly collected and kept by the banker",
+      "A customer transferring cash directly into our current account"
+    ],
+    "correct_index": 1,
+    "explanation": "Recording a 5,000 cheque as 500 is an error made by the business firm's staff in the cash book, whereas presentation delays or direct bank collections are timing gaps.",
+    "ncert_page": 165,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q19",
+    "chapter_id": "c5",
+    "question": "Which of the following describes an error committed explicitly by the bank?",
+    "options": [
+      "Undercasting the receipts column of the cash book by the accountant",
+      "Wrongly debiting or crediting another firm's cheque to our account inside the bank's ledger records",
+      "Forgetting to enter bank charges into the cash book daybook",
+      "Delaying the presentation of an order cheque leaf"
+    ],
+    "correct_index": 1,
+    "explanation": "Wrongly debits or credits to a customer's account due to misidentifying cheques is an internal operational error committed by the bank.",
+    "ncert_page": 165,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q20",
+    "chapter_id": "c11ac_ch02",
+    "question": "If the bank balance as per the Cash Book is taken as the starting point for BRS, how are items handled that make the cash book balance smaller than the passbook?",
+    "options": [
+      "They must be subtracted from the cash book starting point.",
+      "They must be added to the cash book starting point.",
+      "They are left completely unchanged.",
+      "They are multiplied by a proxy ratio filter."
+    ],
+    "correct_index": 1,
+    "explanation": "If an item makes the cash book smaller than the passbook (e.g., a direct deposit), it must be added to the cash book balance to match the passbook balance.",
+    "ncert_page": 166,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q21",
+    "chapter_id": "c5",
+    "question": "When starting with a favorable Cash Book balance, what adjustment is required for 'Cheques issued but not yet presented for payment'?",
+    "options": [
+      "Subtracted from the starting balance",
+      "Added to the starting balance",
+      "Ignored because it constitutes a clear time gap",
+      "Moved to an adjusted asset matrix column"
+    ],
+    "correct_index": 1,
+    "explanation": "Cheques issued reduce the cash book immediately, but haven't reduced the passbook yet. To reconcile from the cash book to the higher passbook balance, this amount must be added.",
+    "ncert_page": 161,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q22",
+    "chapter_id": "c5",
+    "question": "When starting with a favorable Cash Book balance, how are 'Cheques deposited into the bank but not yet collected' handled?",
+    "options": [
+      "Added to the cash book balance",
+      "Subtracted from the cash book balance",
+      "Recorded as a permanent capital gain",
+      "Treated as an adjusted bank overdraft"
+    ],
+    "correct_index": 1,
+    "explanation": "Cheques deposited increase the cash book balance immediately, but the passbook remains lower until collection. To reconcile from the cash book to the lower passbook, the amount must be subtracted.",
+    "ncert_page": 161,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q23",
+    "chapter_id": "c5",
+    "question": "If you start a BRS with a favorable Cash Book balance, how are bank charges debited by the bank handled?",
+    "options": [
+      "Added to the balance",
+      "Subtracted from the balance",
+      "Omitted because the amount is too small",
+      "Debited to the capital account directly"
+    ],
+    "correct_index": 1,
+    "explanation": "Bank charges reduce the passbook balance. To match the passbook balance when starting from the unadjusted (higher) cash book balance, bank charges must be subtracted.",
+    "ncert_page": 161,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q24",
+    "chapter_id": "c5",
+    "question": "When the favorable balance as per Passbook is taken as the starting point, how are 'Cheques issued but not presented' treated to find the cash book balance?",
+    "options": [
+      "Added to the passbook balance",
+      "Subtracted from the passbook balance",
+      "Ignored completely under accounting principles",
+      "Amortized over the next financial year"
+    ],
+    "correct_index": 1,
+    "explanation": "Starting with a favorable passbook balance, which is higher because issued cheques haven't cleared yet, you must subtract those cheques to arrive at the lower cash book balance.",
+    "ncert_page": 166,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q25",
+    "chapter_id": "c5",
+    "question": "If the starting point of a BRS is the favorable balance as per Passbook, what adjustment is made for 'Cheques deposited but not collected'?",
+    "options": [
+      "Subtracted from the passbook balance",
+      "Added to the passbook balance",
+      "Adjusted via an opening journal entry",
+      "Transferred to a current liability view"
+    ],
+    "correct_index": 1,
+    "explanation": "The passbook balance is lower because it lacks the uncollected cheques that were already added to the cash book. To match the higher cash book balance, these cheques must be added.",
+    "ncert_page": 166,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q26",
+    "chapter_id": "c5",
+    "question": "When the bank columns are prepared using a two-column format (+ and - columns), where is a 'Debit balance as per Cash Book' initially placed?",
+    "options": [
+      "In the minus (–) column",
+      "In the plus (+) column",
+      "As a text notation in particulars",
+      "Split equally between both columns"
+    ],
+    "correct_index": 1,
+    "explanation": "A debit balance in the cash book is a favorable asset balance and is placed in the positive or plus (+) column of the BRS statement.",
+    "ncert_page": 161,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q27",
+    "chapter_id": "c5",
+    "question": "Where is an 'Overdraft as per Cash Book' placed in a two-column (+ and -) BRS statement?",
+    "options": [
+      "In the plus (+) column",
+      "In the minus (–) column",
+      "In the particulars section entirely",
+      "In a separate non-current liability sheet"
+    ],
+    "correct_index": 1,
+    "explanation": "An overdraft as per the cash book is an unfavorable credit balance, meaning it represents a negative value and is placed in the minus (–) column.",
+    "ncert_page": 167,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q28",
+    "chapter_id": "c5",
+    "question": "Where is a 'Credit balance as per Passbook' placed in a two-column (+ and -) BRS layout?",
+    "options": [
+      "In the minus (–) column",
+      "In the plus (+) column",
+      "Below the bank charges row",
+      "As a footnote attachment"
+    ],
+    "correct_index": 1,
+    "explanation": "A credit balance in the passbook indicates a favorable deposit balance, so it is entered in the positive or plus (+) column.",
+    "ncert_page": 167,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q29",
+    "chapter_id": "c5",
+    "question": "Where is a 'Debit balance as per Passbook' entered in a two-column BRS statement?",
+    "options": [
+      "In the plus (+) column",
+      "In the minus (–) column",
+      "Under the interest received section",
+      "Inside the adjusted ledger book index"
+    ],
+    "correct_index": 1,
+    "explanation": "A debit balance in the passbook represents a bank overdraft (unfavorable position), so it is placed in the minus (–) column.",
+    "ncert_page": 167,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q30",
+    "chapter_id": "c5",
+    "question": "If you start with an 'Overdraft as per Cash Book', how are 'Cheques issued but not presented' adjusted under the plus/minus approach?",
+    "options": [
+      "Placed in the minus (–) column",
+      "Placed in the plus (+) column",
+      "Omitted from both columns",
+      "Subtracted from the overdraft value directly"
+    ],
+    "correct_index": 1,
+    "explanation": "Cheques issued but not presented always have an adding effect when reconciling from a cash book perspective to a passbook perspective, so they are placed in the plus (+) column.",
+    "ncert_page": 167,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q31",
+    "chapter_id": "c5",
+    "question": "If you start a BRS with an 'Overdraft as per Cash Book', where are 'Cheques deposited but not collected' placed?",
+    "options": [
+      "In the plus (+) column",
+      "In the minus (–) column",
+      "In a separate adjusted ledger index row",
+      "As a footnote reference text"
+    ],
+    "correct_index": 1,
+    "explanation": "Cheques deposited but not collected have a reducing or subtracting effect from a cash book perspective to a passbook perspective, so they are placed in the minus (–) column.",
+    "ncert_page": 167,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q32",
+    "chapter_id": "c5",
+    "question": "What happens if a banker accidentally collects a bill and credits our account twice? How is this error categorized?",
+    "options": [
+      "A timing difference based on time lag",
+      "An error committed by the bank",
+      "An error committed by the business firm",
+      "An adjusted accounting concept"
+    ],
+    "correct_index": 1,
+    "explanation": "Any miscalculation or double entry posted by bank staff inside the passbook falls under errors committed by the bank.",
+    "ncert_page": 165,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q33",
+    "chapter_id": "c5",
+    "question": "When the total of the plus (+) column is greater than the total of the minus (–) column in a BRS starting with a Cash Book balance, what is the final net result?",
+    "options": [
+      "An overdraft as per passbook",
+      "A credit (favorable) balance as per passbook",
+      "A debit balance as per cash book",
+      "A legal dispute with the commercial bank"
+    ],
+    "correct_index": 1,
+    "explanation": "If the positive column outpaces the negative column, the resulting net balancing figure is a favorable credit balance as per the passbook.",
+    "ncert_page": 167,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q34",
+    "chapter_id": "c5",
+    "question": "If the total of the minus (–) column is greater than the total of the plus (+) column when starting with a Cash Book balance, what does the net balance represent?",
+    "options": [
+      "A favorable balance as per passbook",
+      "A debit balance (overdraft) as per passbook",
+      "A credit balance as per cash book",
+      "An accounting adjustment voucher error"
+    ],
+    "correct_index": 1,
+    "explanation": "When the negative column exceeds the positive column under a cash book starting trajectory, it reflects an unfavorable position: a debit balance (overdraft) as per the passbook.",
+    "ncert_page": 167,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q35",
+    "chapter_id": "c5",
+    "question": "What is the purpose of preparing an 'Amended Cash Book' (or Adjusted Cash Book) before formatting a BRS?",
+    "options": [
+      "To eliminate the need for any subsequent BRS statements",
+      "To update the cash book with correct and known transactions that were recorded only in the passbook (e.g., bank charges, direct deposits) before identifying remaining discrepancies",
+      "To change the valuation method of non-current fixed assets",
+      "To check for typographical errors inside source vouchers bills"
+    ],
+    "correct_index": 1,
+    "explanation": "An amended cash book is prepared to adjust the cash book for omissions and errors made by the firm, such as unrecorded bank charges, interest, or direct collections, before finalizing the reconciliation.",
+    "ncert_page": 172,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q36",
+    "chapter_id": "c5",
+    "question": "Which of the following items should be entered into the Adjusted Cash Book?",
+    "options": [
+      "Cheques issued to suppliers but not yet presented for payment",
+      "Cheques deposited into the bank but not yet collected",
+      "Bank charges and interest debited or credited by the bank but not yet entered in the cash book",
+      "Wrong debits entered by the bank staff in the passbook"
+    ],
+    "correct_index": 2,
+    "explanation": "Omissions like bank charges, interest, direct deposits, and dishonoured cheques must be entered in the adjusted cash book. Pure timing differences (unpresented or uncollected cheques) and bank errors are excluded.",
+    "ncert_page": 172,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q37",
+    "chapter_id": "c5",
+    "question": "Why are 'Cheques issued but not presented' NOT entered into an Amended Cash Book?",
+    "options": [
+      "Because they represent an illegal transaction path.",
+      "Because they are already correctly recorded in the cash book; the difference is purely a timing issue on the bank's side.",
+      "Because they must be processed via a debit note first.",
+      "Because they always carry a negative index value."
+    ],
+    "correct_index": 1,
+    "explanation": "Since unpresented cheques have already been recorded accurately in the cash book by the firm, no error or omission exists in the cash book. They will only be handled in the final BRS statement.",
+    "ncert_page": 172,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q38",
+    "chapter_id": "c5",
+    "question": "If you start a BRS with an 'Overdraft as per Passbook', how are 'Cheques issued but not presented' adjusted under the plus/minus approach?",
+    "options": [
+      "Placed in the plus (+) column",
+      "Placed in the minus (–) column",
+      "Omitted entirely from both columns",
+      "Added to the bank charges row"
+    ],
+    "correct_index": 1,
+    "explanation": "When starting with an overdraft as per the passbook (placed in the minus column), cheques issued but not presented are entered in the minus (–) column to reconcile towards the cash book balance.",
+    "ncert_page": 166,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q39",
+    "chapter_id": "c5",
+    "question": "When a bank statement lists a transaction as 'BY CLG', what does it typically represent?",
+    "options": [
+      "A cash withdrawal by self over the counter",
+      "A clearing house entry representing a cheque collection deposit",
+      "An incidental service charge debit",
+      "A closing ledger balance filter"
+    ],
+    "correct_index": 1,
+    "explanation": "The abbreviation 'CLG' inside a standard bank statement or passbook ledger column denotes Clearing, indicating an inbound cheque collection.",
+    "ncert_page": 162,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q40",
+    "chapter_id": "c5",
+    "question": "What section of Chapter 5 provides the formal structural layout format for the BRS proforma?",
+    "options": [
+      "Section 5.1",
+      "Section 5.2",
+      "Section 5.5",
+      "Summary Appendix guidelines"
+    ],
+    "correct_index": 1,
+    "explanation": "Section 5.2 focuses explicitly on the Preparation of the Bank Reconciliation Statement, providing proforma guidelines and examples.",
+    "ncert_page": 166,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q41",
+    "chapter_id": "c5",
+    "question": "If an accountant records a cash receipt column undercast in the cash book, what type of cause is this?",
+    "options": [
+      "A time gap difference",
+      "An error made by the business firm",
+      "An error made by the commercial bank",
+      "A standard accounting standard mandate"
+    ],
+    "correct_index": 1,
+    "explanation": "Wrong totals or undercasting/overcasting errors inside the firm's own cash book fall under errors committed by the business firm.",
+    "ncert_page": 165,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q42",
+    "chapter_id": "c5",
+    "question": "What qualitative benefit does preparing a BRS provide to the corporate internal control team?",
+    "options": [
+      "It completely avoids corporate tax obligations.",
+      "It helps detect any undue delays in cheque collections or fraud and keeps records precise and reliable.",
+      "It automates the physical sorting of inventory items.",
+      "It replaces double-entry journals completely."
+    ],
+    "correct_index": 1,
+    "explanation": "BRS provides vital safety and accuracy benefits, helping identify fraud, tracking collection blockages, and ensuring financial records remain reliable.",
+    "ncert_page": 161,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q43",
+    "chapter_id": "c5",
+    "question": "If a corporate firm has an overdraft balance as per its cash book, it means the firm has a position of what?",
+    "options": [
+      "Vast monetary assets deposited safely",
+      "A net liability or debt owed to the bank due to excess withdrawals",
+      "A high accumulation of unearned revenue",
+      "An error free balancing equation ledger"
+    ],
+    "correct_index": 1,
+    "explanation": "A bank overdraft means a negative cash balance at the bank, creating an obligation or temporary loan liability owed back to the financial institution.",
+    "ncert_page": 166,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q44",
+    "chapter_id": "c5",
+    "question": "What is the entry value of a cheque received but completely omitted from being entered in the cash book before preparing a BRS?",
+    "options": [
+      "An error made by the bank",
+      "An omission error made by the business firm",
+      "A standard time gap transaction",
+      "An intangible asset promotional line"
+    ],
+    "correct_index": 1,
+    "explanation": "Forgetting to record an active cheque entry in the firm's own records constitutes an omission error by the business enterprise.",
+    "ncert_page": 165,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q45",
+    "chapter_id": "c5",
+    "question": "When a customer's check is dishonoured, who informs the firm about this event?",
+    "options": [
+      "The income tax authorities",
+      "The bank, via a debit advice or statement notification",
+      "The supplier of raw materials",
+      "The firm's own accounting script algorithms"
+    ],
+    "correct_index": 1,
+    "explanation": "The bank reverses the credit entry upon dishonour and informs the customer via a statement notification or debit advice.",
+    "ncert_page": 164,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q46",
+    "chapter_id": "c5",
+    "question": "If you start a BRS with a favorable Cash Book balance and find that a check for 350 was debited twice by the bank in error, how do you adjust this?",
+    "options": [
+      "Add 350 to the cash book balance",
+      "Subtract 350 from the cash book balance",
+      "Ignore it since it is an error by the bank",
+      "Debit it to the capital account directly"
+    ],
+    "correct_index": 1,
+    "explanation": "Since the bank debited your account twice in error, your passbook balance is lower by 350. To reconcile from the cash book to this lower passbook balance, you must subtract 350.",
+    "ncert_page": 165,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q47",
+    "chapter_id": "c5",
+    "question": "Under the timing difference classification, what happens to the passbook balance when a bill discounted is dishonoured at maturity?",
+    "options": [
+      "It remains higher than the cash book balance.",
+      "The bank debits our account, making the passbook balance smaller than the cash book balance.",
+      "It increases by the interest margin amount.",
+      "It shifts to an adjusted asset copy folder."
+    ],
+    "correct_index": 1,
+    "explanation": "When a discounted bill is dishonoured, the bank recovers the money by debiting the firm's account, reducing the passbook balance below the unadjusted cash book balance.",
+    "ncert_page": 164,
+    "difficulty": "hard",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q48",
+    "chapter_id": "c5",
+    "question": "What is the primary document required by an accountant to verify and update the cash book with omitted entries?",
+    "options": [
+      "An inbound sales invoice bill",
+      "A recent bank statement or passbook obtained from the bank",
+      "A credit note issued to an outside client",
+      "An internal corporate budget estimation chart"
+    ],
+    "correct_index": 1,
+    "explanation": "A current bank statement or passbook provides the necessary authoritative verification records to identify omitted interest, charges, or direct deposits.",
+    "ncert_page": 160,
+    "difficulty": "easy",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q49",
+    "chapter_id": "c5",
+    "question": "Why does a BRS statement not form a permanent part of the formal double-entry books of account?",
+    "options": [
+      "Because it contains no numerical figures values.",
+      "Because it is merely a memorandum statement prepared periodically for reconciliation purposes, without debiting or crediting accounts permanently.",
+      "Because it is prepared exclusively by the commercial bank.",
+      "Because it violates the money measurement concept."
+    ],
+    "correct_index": 1,
+    "explanation": "A BRS is a separate memorandum statement used to track and explain differences between the cash book and the bank statement, and does not alter ledger accounts directly.",
+    "ncert_page": 161,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  },
+  {
+    "mcq_id": "c5_q50",
+    "chapter_id": "c5",
+    "question": "What does a balanced, fully reconciled BRS prove to the financial reporting team?",
+    "options": [
+      "The business has achieved maximum possible profit margins.",
+      "The differences between the firm's records and bank records have been accounted for, proving mathematical consistency.",
+      "The corporate firm is fully exempt from taxation tracking.",
+      "All debtors have settled their outstanding balances in cash."
+    ],
+    "correct_index": 1,
+    "explanation": "A fully reconciled BRS confirms that all differences between the cash book and passbook are identified and validated, ensuring mathematical accuracy and control over cash assets.",
+    "ncert_page": 163,
+    "difficulty": "medium",
+    "subject": "Accountancy"
+  }
+]

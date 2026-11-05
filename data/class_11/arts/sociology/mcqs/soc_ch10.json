@@ -1,0 +1,582 @@
+[
+  {
+    "mcq_id": "soc_is_q01",
+    "chapter_id": "c5",
+    "question": "In which year did formal university teaching of sociology begin in India at the University of Bombay?",
+    "options": ["1911", "1919", "1921", "1930"],
+    "correct_index": 1,
+    "explanation": "Formal university teaching of sociology only began in 1919 at the University of Bombay.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q02",
+    "chapter_id": "c5",
+    "question": "Which two other universities besides Bombay began sociology programs in the 1920s?",
+    "options": ["Delhi and Madras", "Calcutta and Lucknow", "Mysore and Patna", "Banaras and Aligarh"],
+    "correct_index": 1,
+    "explanation": "In the 1920s, two other universities — those at Calcutta and Lucknow — also began programmes of teaching and research.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q03",
+    "chapter_id": "c5",
+    "question": "Who is often referred to as the 'founder' of institutional sociology in India and headed the Bombay department?",
+    "options": ["M.N. Srinivas", "G.S. Ghurye", "D.P. Mukerji", "A.R. Desai"],
+    "correct_index": 1,
+    "explanation": "G.S. Ghurye established the Indian Sociological Society and was a key figure in the institutionalization of the discipline.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q04",
+    "chapter_id": "c5",
+    "question": "The journal founded by G.S. Ghurye is named:",
+    "options": ["Indian Journal of Sociology", "Sociological Bulletin", "The Indian Sociologist", "Society and Culture"],
+    "correct_index": 1,
+    "explanation": "Ghurye founded the journal 'Sociological Bulletin'.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q05",
+    "chapter_id": "c5",
+    "question": "What was L.K. Ananthakrishna Iyer's original profession before becoming an anthropologist?",
+    "options": ["Doctor", "Clerk and School Teacher", "Lawyer", "Priest"],
+    "correct_index": 1,
+    "explanation": "L.K. Ananthakrishna Iyer began his career as a clerk and then became a school teacher.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q06",
+    "chapter_id": "c5",
+    "question": "Which Maharaja asked L.K. Ananthakrishna Iyer to assist with an ethnographic survey of his state?",
+    "options": ["Maharaja of Mysore", "Maharaja of Cochin", "Maharaja of Travancore", "Nizam of Hyderabad"],
+    "correct_index": 1,
+    "explanation": "The Maharaja of Cochin asked him to assist with an ethnographic survey.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q07",
+    "chapter_id": "c5",
+    "question": "Sarat Chandra Roy was a lawyer who became a famous anthropologist while working in:",
+    "options": ["Bombay", "Ranchi", "Madras", "Assam"],
+    "correct_index": 1,
+    "explanation": "S.C. Roy practiced law in Ranchi and became an authority on the tribal cultures of Chhotanagpur.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q08",
+    "chapter_id": "c5",
+    "question": "The journal founded by S.C. Roy in 1921 is titled:",
+    "options": ["Tribal India", "Man in India", "The Anthropologist", "Ranchi Gazette"],
+    "correct_index": 1,
+    "explanation": "S.C. Roy founded the journal 'Man in India' in 1921.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q09",
+    "chapter_id": "c5",
+    "question": "According to G.S. Ghurye, 'Caste' is a system that divides society into ________ segments.",
+    "options": ["Hierarchical", "Random", "Functional", "Geographical"],
+    "correct_index": 0,
+    "explanation": "Ghurye defined caste as involves segmental division of society and hierarchy.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q10",
+    "chapter_id": "c5",
+    "question": "What is 'Endogamy' as defined in Ghurye's analysis of caste?",
+    "options": ["Marriage outside the group", "Marriage within one's own caste", "Marriage between different tribes", "No marriage at all"],
+    "correct_index": 1,
+    "explanation": "Ghurye identified endogamy (restriction on marriage) as a core feature of the caste system.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q11",
+    "chapter_id": "c5",
+    "question": "During the 1940s, G.S. Ghurye was involved in a famous debate with Verrier Elwin regarding:",
+    "options": ["Caste origins", "The status of 'Tribes'", "Urbanization", "Economic reforms"],
+    "correct_index": 1,
+    "explanation": "The debate was about the place of tribal societies in India—whether they were separate or 'backward Hindus'.",
+    "ncert_page": 6,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q12",
+    "chapter_id": "c5",
+    "question": "Ghurye argued that tribes were not separate from Hindu society but were:",
+    "options": ["Backward Hindus", "Complete outsiders", "Superior Aryans", "Foreign invaders"],
+    "correct_index": 0,
+    "explanation": "Ghurye argued that tribes should be considered 'backward Hindus' rather than a separate category.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q13",
+    "chapter_id": "c5",
+    "question": "Which city is associated with the 'Lucknow School' of sociology?",
+    "options": ["Bombay", "Lucknow", "Calcutta", "Delhi"],
+    "correct_index": 1,
+    "explanation": "D.P. Mukerji and Radhakamal Mukerjee were leading figures of the Lucknow School.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q14",
+    "chapter_id": "c5",
+    "question": "D.P. Mukerji believed that the study of Indian society must focus on its ________.",
+    "options": ["Economy only", "Traditions", "Modern technology only", "Military history"],
+    "correct_index": 1,
+    "explanation": "D.P. Mukerji emphasized that sociologists in India must understand social traditions.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q15",
+    "chapter_id": "c5",
+    "question": "According to D.P. Mukerji, Indian culture is more ________ and less 'individualistic' than Western culture.",
+    "options": ["Chaotic", "Group-oriented", "Religious", "Secular"],
+    "correct_index": 1,
+    "explanation": "He argued that Indian social system is oriented towards group/sect rather than the individual.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q16",
+    "chapter_id": "c5",
+    "question": "The 'Dialectics' of tradition, according to D.P. Mukerji, involves the conflict between:",
+    "options": ["Tradition and Modernity", "North and South", "Old and New Tradition", "Caste and Class"],
+    "correct_index": 2,
+    "explanation": "D.P. argued that change occurs through the dialectical struggle between the old tradition and new challenges.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q17",
+    "chapter_id": "c5",
+    "question": "A.R. Desai is primarily known for his application of which perspective to Indian society?",
+    "options": ["Functionalist", "Marxist", "Feminist", "Idealist"],
+    "correct_index": 1,
+    "explanation": "A.R. Desai was a prominent sociologist who used the Marxist method of historical-materialism.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q18",
+    "chapter_id": "c5",
+    "question": "Desai's famous book 'The Social Background of Indian Nationalism' analyzes nationalism through ________.",
+    "options": ["Religion", "Class struggle and economic factors", "Pure politics", "Art history"],
+    "correct_index": 1,
+    "explanation": "His book is one of the best-known Marxist analyses of the rise of Indian nationalism.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q19",
+    "chapter_id": "c5",
+    "question": "Desai criticized the 'Modernization' theory for being a ________.",
+    "options": ["Myth", "Scientific fact", "Rule of law", "Ideology to justify the status quo"],
+    "correct_index": 3,
+    "explanation": "He viewed modernization theories as ideological covers for capitalist interests.",
+    "ncert_page": 12,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q20",
+    "chapter_id": "c5",
+    "question": "What is the 'Welfare State' according to Desai's critical analysis?",
+    "options": [
+      "A state that gives free food",
+      "A myth used by capitalist states to seem benevolent",
+      "The goal of all democracy",
+      "A religious concept"
+    ],
+    "correct_index": 1,
+    "explanation": "Desai provided a critical analysis of the welfare state, pointing out its contradictions in capitalist societies.",
+    "ncert_page": 12,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q21",
+    "chapter_id": "c5",
+    "question": "Who was the 'student' of G.S. Ghurye and became arguably the most famous Indian sociologist post-independence?",
+    "options": ["D.P. Mukerji", "M.N. Srinivas", "A.R. Desai", "Irawati Karve"],
+    "correct_index": 1,
+    "explanation": "M.N. Srinivas was a student of Ghurye at Bombay before going to Oxford.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q22",
+    "chapter_id": "c5",
+    "question": "M.N. Srinivas is famous for his 'Fieldwork' in which village?",
+    "options": ["Mohana", "Rampura", "Kishan Garhi", "Sripuram"],
+    "correct_index": 1,
+    "explanation": "Srinivas conducted famous intensive fieldwork in the village of Rampura.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q23",
+    "chapter_id": "c5",
+    "question": "Which term did Srinivas use to describe a caste that owned land and had political/economic power in a village?",
+    "options": ["Upper Caste", "Dominant Caste", "Kshatriya Caste", "Ruling Caste"],
+    "correct_index": 1,
+    "explanation": "The term 'Dominant Caste' was used by Srinivas to describe castes with decisive power in rural areas.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q24",
+    "chapter_id": "c5",
+    "question": "Srinivas's work helped move Indian sociology from a 'book view' to a ________ view.",
+    "options": ["Scriptural", "Field view", "Theoretical", "Imaginary"],
+    "correct_index": 1,
+    "explanation": "Srinivas emphasized the 'field view' based on actual observation rather than just reading ancient texts.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q25",
+    "chapter_id": "c5",
+    "question": "Who was the student of G.S. Ghurye and wrote 'Kinship Organisation in India'?",
+    "options": ["Irawati Karve", "M.N. Srinivas", "A.R. Desai", "P.H. Prabhu"],
+    "correct_index": 0,
+    "explanation": "Irawati Karve was a pioneering woman sociologist/anthropologist and a student of Ghurye.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q26",
+    "chapter_id": "c5",
+    "question": "G.S. Ghurye's PhD was from which university?",
+    "options": ["Oxford", "Cambridge", "London", "Bombay"],
+    "correct_index": 1,
+    "explanation": "Ghurye completed his PhD at Cambridge under W.H.R. Rivers.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q27",
+    "chapter_id": "c5",
+    "question": "The 'segmental division of society' in Ghurye's caste features refers to:",
+    "options": [
+      "Society being one whole",
+      "Society being divided into compartmentalized groups",
+      "Division by language",
+      "Division by age"
+    ],
+    "correct_index": 1,
+    "explanation": "Ghurye defined caste as a system where society is divided into distinct, closed groups.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q28",
+    "chapter_id": "c5",
+    "question": "Verrier Elwin advocated for the ________ of tribal populations.",
+    "options": ["Assimilation", "Isolation/Protection", "Elimination", "Urbanization"],
+    "correct_index": 1,
+    "explanation": "Elwin argued that tribes should be protected from the corrupting influence of the plains-people (isolationist view).",
+    "ncert_page": 7,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q29",
+    "chapter_id": "c5",
+    "question": "D.P. Mukerji popularly called himself a '________' rather than a sociologist.",
+    "options": ["Marxologist", "Historian", "Economist", "Philosopher"],
+    "correct_index": 0,
+    "explanation": "D.P. Mukerji coined the term 'Marxologist' to describe his use of Marxist methods without being a dogmatic party member.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q30",
+    "chapter_id": "c5",
+    "question": "M.N. Srinivas's book 'Remembered Village' was written from memory because:",
+    "options": ["He was blind", "His field notes were burnt in an arson attack at Stanford", "He lost his books", "He wanted to test his brain"],
+    "correct_index": 1,
+    "explanation": "His field notes were destroyed in a fire during an arson attack at Stanford University.",
+    "ncert_page": 13,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q31",
+    "chapter_id": "c5",
+    "question": "The 'Bombay School' was dominated by ________ while the 'Lucknow School' was dominated by ________.",
+    "options": [
+      "Theory; Fieldwork",
+      "Empirical research; Theoretical/Philosophical approach",
+      "Politics; Economy",
+      "Religion; Science"
+    ],
+    "correct_index": 1,
+    "explanation": "The Bombay school emphasized empirical research/surveys, while Lucknow emphasized synthesis and theory.",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q32",
+    "chapter_id": "c5",
+    "question": "L.K. Ananthakrishna Iyer was unusual because he lacked:",
+    "options": ["A house", "Formal university training in sociology", "Interest in tribes", "A job"],
+    "correct_index": 1,
+    "explanation": "He was self-taught and had no formal degree in the subject he pioneered.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q33",
+    "chapter_id": "c5",
+    "question": "Who was the first person to teach anthropology in India at the University of Calcutta?",
+    "options": ["G.S. Ghurye", "L.K. Ananthakrishna Iyer", "M.N. Srinivas", "A.R. Desai"],
+    "correct_index": 1,
+    "explanation": "Iyer was invited to help set up the first anthropology department at Calcutta University.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q34",
+    "chapter_id": "c5",
+    "question": "G.S. Ghurye's PhD thesis was on which topic?",
+    "options": ["Urbanization", "Caste and Race in India", "Tribal marriage", "Village life"],
+    "correct_index": 1,
+    "explanation": "His thesis was titled 'Caste and Race in India'.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q35",
+    "chapter_id": "c5",
+    "question": "The 'Pollution-Purity' concept is a central part of which social system?",
+    "options": ["Class", "Caste", "Bureaucracy", "Modernity"],
+    "correct_index": 1,
+    "explanation": "Hierarchy in the caste system is based on ideas of ritual purity and pollution.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q36",
+    "chapter_id": "c5",
+    "question": "Which scholar argued that sociologists should have 'resilience' and 'active adaptability'?",
+    "options": ["G.S. Ghurye", "D.P. Mukerji", "M.N. Srinivas", "A.R. Desai"],
+    "correct_index": 1,
+    "explanation": "D.P. Mukerji stressed the importance of these traits in understanding social change.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q37",
+    "chapter_id": "c5",
+    "question": "Desai's political context view of religion focused on it as a ________ aspect of society.",
+    "options": ["Spiritual", "Secular and political", "Irrelevant", "Scientific"],
+    "correct_index": 1,
+    "explanation": "He studied religion through a secular, sociological lens, often seeing its political and economic links.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q38",
+    "chapter_id": "c5",
+    "question": "M.N. Srinivas's doctoral thesis at Oxford focused on the religion of the ________.",
+    "options": ["Hindus", "Coorgs", "Tribals", "Parsis"],
+    "correct_index": 1,
+    "explanation": "His D.Phil thesis at Oxford was on the Coorgs of South India.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q39",
+    "chapter_id": "c5",
+    "question": "The 'Village' was seen by Srinivas as a key site for ________.",
+    "options": ["Industrialization", "Field research and understanding Indian society", "Tourism", "Mining"],
+    "correct_index": 1,
+    "explanation": "Srinivas viewed the village as the microcosm of Indian society.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q40",
+    "chapter_id": "c5",
+    "question": "Why did Srinivas criticize the 'Dominant Caste' concept later in life?",
+    "options": [
+      "He thought it was wrong",
+      "It was being misused by politicians",
+      "It ignored the poor too much",
+      "He found a better word"
+    ],
+    "correct_index": 1,
+    "explanation": "The text notes that the term became so popular it was used in ways he didn't intend.",
+    "ncert_page": 15,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q41",
+    "chapter_id": "c5",
+    "question": "The 'Indological' approach involves studying society through:",
+    "options": ["Fieldwork", "Ancient texts and scriptures", "Satellite maps", "Experiments"],
+    "correct_index": 1,
+    "explanation": "The Indological perspective relies on the analysis of Indian texts and culture.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q42",
+    "chapter_id": "c5",
+    "question": "Irawati Karve was the daughter-in-law of which famous social reformer?",
+    "options": ["Jyotiba Phule", "Maharishi Karve", "B.R. Ambedkar", "Raja Ram Mohan Roy"],
+    "correct_index": 1,
+    "explanation": "She was the daughter-in-law of the famous social reformer, Maharishi Dhondo Keshav Karve.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q43",
+    "chapter_id": "c5",
+    "question": "Which Indian sociologist is known for his work on 'Social Ecology' and the 'Lucknow school'?",
+    "options": ["A.R. Desai", "Radhakamal Mukerjee", "G.S. Ghurye", "M.N. Srinivas"],
+    "correct_index": 1,
+    "explanation": "Radhakamal Mukerjee was the other famous pillar of the Lucknow School.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q44",
+    "chapter_id": "c5",
+    "question": "According to the text, a 'pure' sociologist is one who ________.",
+    "options": [
+      "Never goes outside",
+      "Studies traditions and social roots",
+      "Is always unbiased",
+      "Is from the Lucknow School only"
+    ],
+    "correct_index": 1,
+    "explanation": "The chapter discusses how founding figures believed a sociologist must be rooted in their culture's tradition.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q45",
+    "chapter_id": "c5",
+    "question": "The term 'Subaltern' in history and sociology refers to:",
+    "options": ["The elites", "The marginalized and oppressed groups", "The middle class", "The army"],
+    "correct_index": 1,
+    "explanation": "Desai's work often focused on subaltern movements and the oppressed.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q46",
+    "chapter_id": "c5",
+    "question": "Which of these is a feature of 'Dominant Caste'?",
+    "options": [
+      "Large numbers in the village population",
+      "Ownership of land",
+      "Political power",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "Srinivas listed numerical strength, economic power (land), and political power as key attributes.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q47",
+    "chapter_id": "c5",
+    "question": "G.S. Ghurye is often criticized for having a '________' bias in his caste analysis.",
+    "options": ["Tribal", "Brahminical", "Marxist", "Western"],
+    "correct_index": 1,
+    "explanation": "Critics point out that his focus on scriptures often reflected an upper-caste perspective.",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q48",
+    "chapter_id": "c5",
+    "question": "The early ethnographic surveys by Iyer and Roy were funded by:",
+    "options": ["British Universities", "Local Princely States and British Government", "Individual donations", "UNESCO"],
+    "correct_index": 1,
+    "explanation": "The Maharaja of Cochin and the Bihar government funded these early works.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q49",
+    "chapter_id": "c5",
+    "question": "A.R. Desai's political affiliation was with:",
+    "options": ["The Congress Party", "Communist and socialist ideologies", "The BJP", "He had no affiliation"],
+    "correct_index": 1,
+    "explanation": "Desai was deeply involved with Marxist and socialist movements.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_is_q50",
+    "chapter_id": "c5",
+    "question": "Indian sociology has successfully '________' the discipline from its Western roots.",
+    "options": ["Separated", "Indigenised", "Abolished", "Ignored"],
+    "correct_index": 1,
+    "explanation": "The pioneers adapted the discipline to the specific Indian historical and social context.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "subject": "business_studies",
+  "classNumber": 11,
+  "bookId": 1123,
+  "chapters": [
+    { "chapterNumber": 1, "chapterId": "bs_ch1", "title": "Nature and Purpose of Business", "fileName": "bs_ch1.json", "questionCount": 50 },
+    { "chapterNumber": 2, "chapterId": "bs_ch2", "title": "Forms of Business Organisation", "fileName": "bs_ch2.json", "questionCount": 50 },
+    { "chapterNumber": 3, "chapterId": "bs_ch3", "title": "Private, Public and Global Enterprises", "fileName": "bs_ch3.json", "questionCount": 50 },
+    { "chapterNumber": 4, "chapterId": "bs_ch4", "title": "Business Services", "fileName": "bs_ch4.json", "questionCount": 50 },
+    { "chapterNumber": 5, "chapterId": "bs_ch5", "title": "Emerging Modes of Business", "fileName": "bs_ch5.json", "questionCount": 50 },
+    { "chapterNumber": 6, "chapterId": "bs_ch6", "title": "Social Responsibilities of Business and Business Ethics", "fileName": "bs_ch6.json", "questionCount": 50 },
+    { "chapterNumber": 7, "chapterId": "bs_ch7", "title": "Formation of a Company", "fileName": "bs_ch7.json", "questionCount": 30 },
+    { "chapterNumber": 8, "chapterId": "bs_ch8", "title": "Sources of Business Finance", "fileName": "bs_ch8.json", "questionCount": 50 },
+    { "chapterNumber": 9, "chapterId": "bs_ch9", "title": "Small Business", "fileName": "bs_ch9.json", "questionCount": 50 },
+    { "chapterNumber": 10, "chapterId": "bs_ch10", "title": "Internal Trade", "fileName": "bs_ch10.json", "questionCount": 50 },
+    { "chapterNumber": 11, "chapterId": "bs_ch11", "title": "International Business", "fileName": "bs_ch11.json", "questionCount": 50 }
+  ],
+  "totalChapters": 11,
+  "totalQuestions": 530
+}

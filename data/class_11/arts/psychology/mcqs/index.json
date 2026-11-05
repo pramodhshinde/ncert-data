@@ -1,0 +1,10 @@
+{"subject":"psychology","classNumber":11,"chapters":[
+{"chapterNumber":1,"title":"What is Psychology?","fileName":"psy_ch1.json","questionCount":5},
+{"chapterNumber":2,"title":"Methods of Enquiry in Psychology","fileName":"psy_ch2.json","questionCount":1},
+{"chapterNumber":3,"title":"Human Development","fileName":"psy_ch3.json","questionCount":1},
+{"chapterNumber":4,"title":"Sensory, Attentional and Perceptual Processes","fileName":"psy_ch4.json","questionCount":1},
+{"chapterNumber":5,"title":"Learning","fileName":"psy_ch5.json","questionCount":1},
+{"chapterNumber":6,"title":"Human Memory","fileName":"psy_ch6.json","questionCount":1},
+{"chapterNumber":7,"title":"Thinking","fileName":"psy_ch7.json","questionCount":1},
+{"chapterNumber":8,"title":"Motivation and Emotion","fileName":"psy_ch8.json","questionCount":1}
+],"totalChapters":8}

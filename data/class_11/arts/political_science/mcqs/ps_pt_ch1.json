@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "pol_th_q01",
+    "chapter_id": "c1",
+    "question": "According to the text, what are the two unique respects in which human beings differ from other species?",
+    "options": [
+      "Physical strength and speed",
+      "Reason and the ability to reflect on actions",
+      "Survival instincts and hunting skills",
+      "Biological diversity and adaptation"
+    ],
+    "correct_index": 1,
+    "explanation": "Human beings are unique because they possess reason and the ability to reflect on their actions, as well as the capacity to use language.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q02",
+    "chapter_id": "c1",
+    "question": "Which of the following is a core value that Political Theory systematically thinks about?",
+    "options": [
+      "Market fluctuations",
+      "Freedom, equality, and justice",
+      "Physical geography",
+      "Chemical compositions"
+    ],
+    "correct_index": 1,
+    "explanation": "Political theory systematically thinks about values that inform political life, such as freedom, equality, and justice.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q03",
+    "chapter_id": "c1",
+    "question": "What does Political Theory clarify by focusing on some major political thinkers of the past and present?",
+    "options": [
+      "Economic growth rates",
+      "The meaning of existing definitions of concepts",
+      "The population density of states",
+      "Technological advancements"
+    ],
+    "correct_index": 1,
+    "explanation": "It clarifies the existing definitions of concepts like freedom and equality by focusing on major political thinkers.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q04",
+    "chapter_id": "c1",
+    "question": "What is the primary concern of Political Theory regarding the state and citizens?",
+    "options": [
+      "How to collect the most taxes",
+      "What the state owes its citizens and what citizens owe each other",
+      "The best way to build infrastructure",
+      "Predicting weather patterns for the state"
+    ],
+    "correct_index": 1,
+    "explanation": "It analyses questions like what the state owes its citizens and what we owe each other as citizens.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q05",
+    "chapter_id": "c1",
+    "question": "What is the common negative perception of politics mentioned in the text?",
+    "options": [
+      "Politics is a way to serve the people",
+      "Politics is associated with manipulation and pursuit of selfish interests",
+      "Politics is purely a scientific endeavor",
+      "Politics is synonymous with global peace"
+    ],
+    "correct_index": 1,
+    "explanation": "Ordinary people often link politics with the 'dirty game' of manipulation, scamming, and fulfilling selfish interests.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q06",
+    "chapter_id": "c1",
+    "question": "Why is 'politics' an inseparable part of any society according to the text?",
+    "options": [
+      "Because everyone wants to be a leader",
+      "Because no society can exist without some form of political organisation and collective decision-making",
+      "Because of the legal requirement of the UN",
+      "Because humans enjoy conflict"
+    ],
+    "correct_index": 1,
+    "explanation": "Politics is inseparable because societies need organisations and collective decision-making to sustain themselves.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q07",
+    "chapter_id": "c1",
+    "question": "What level of 'Politics' involves governments and their policies?",
+    "options": [
+      "Individual politics",
+      "Formal politics (Government and institutions)",
+      "Student union politics only",
+      "Commercial marketing"
+    ],
+    "correct_index": 1,
+    "explanation": "Politics involves how governments are formed and how they function, affecting the lives of people through various policies.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q08",
+    "chapter_id": "c1",
+    "question": "How do common people involve themselves in politics according to the text?",
+    "options": [
+      "By ignoring all laws",
+      "By forming associations, holding demonstrations, and voting",
+      "By only watching news",
+      "By moving to another country"
+    ],
+    "correct_index": 1,
+    "explanation": "People engage in politics by negotiating with others, participating in demonstrations, and voting to express their support or lack of it for policies.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q09",
+    "chapter_id": "c1",
+    "question": "Political theory deals with the ________ of political life.",
+    "options": [
+      "Biological foundations",
+      "Ideas and principles",
+      "Architectural designs",
+      "Mathematical proof"
+    ],
+    "correct_index": 1,
+    "explanation": "Political theory deals with the ideas and principles that shape Constitutions, governments, and social life.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q10",
+    "chapter_id": "c1",
+    "question": "Which ancient philosopher argued that 'justice' is not just the interest of the stronger?",
+    "options": [
+      "Socrates",
+      "Kautilya",
+      "Marx",
+      "Machiavelli"
+    ],
+    "correct_index": 0,
+    "explanation": "Socrates, through dialogues with Cephalus and Polemarchus, questioned the view that justice is merely doing good to friends and harm to enemies or the interest of the stronger.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q11",
+    "chapter_id": "c1",
+    "question": "According to Rousseau, ________ is a fundamental right of humankind.",
+    "options": [
+      "Wealth",
+      "Freedom",
+      "Education",
+      "Employment"
+    ],
+    "correct_index": 1,
+    "explanation": "Rousseau first argued for freedom as a fundamental right of humankind.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q12",
+    "chapter_id": "c1",
+    "question": "Which thinker argued that equality was as crucial as freedom?",
+    "options": [
+      "John Locke",
+      "Karl Marx",
+      "Adam Smith",
+      "Socrates"
+    ],
+    "correct_index": 1,
+    "explanation": "Karl Marx argued that equality was as crucial as freedom.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q13",
+    "chapter_id": "c1",
+    "question": "In the Indian context, who argued that 'Swaraj' (Self-rule) is the birthright of every person?",
+    "options": [
+      "Mahatma Gandhi",
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Subhash Chandra Bose"
+    ],
+    "correct_index": 0,
+    "explanation": "Mahatma Gandhi explored the meaning of genuine freedom or swaraj in his book Hind Swaraj.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q14",
+    "chapter_id": "c1",
+    "question": "Who emphasized that the scheduled castes must be considered a minority and receive special protection?",
+    "options": [
+      "Mahatma Gandhi",
+      "Dr. B.R. Ambedkar",
+      "Sardar Patel",
+      "Rajendra Prasad"
+    ],
+    "correct_index": 1,
+    "explanation": "Dr. B.R. Ambedkar vigorously argued that the scheduled castes must be considered a minority.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q15",
+    "chapter_id": "c1",
+    "question": "Does the Preamble of the Indian Constitution include the word 'Equality'?",
+    "options": [
+      "No, only Liberty",
+      "Yes",
+      "It only mentions fraternity",
+      "It is an unwritten concept in India"
+    ],
+    "correct_index": 1,
+    "explanation": "The Preamble of the Indian Constitution enshrines Liberty and Equality.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q16",
+    "chapter_id": "c1",
+    "question": "Why do we need to re-examine political concepts even if they are in the Constitution?",
+    "options": [
+      "Because the Constitution is invalid",
+      "Because new interpretations and challenges (like global communications) arise over time",
+      "Because the text is too old",
+      "Because of spelling errors"
+    ],
+    "correct_index": 1,
+    "explanation": "Concepts like freedom need to be interpreted in light of new circumstances, such as the impact of the Internet on communication.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q17",
+    "chapter_id": "c1",
+    "question": "The text compares defining concepts like 'Equality' to the way a ________ is described.",
+    "options": [
+      "Scientific formula",
+      "Triangle or square",
+      "Chemical reaction",
+      "Historical event"
+    ],
+    "correct_index": 1,
+    "explanation": "While we have one definition of a triangle or square, we encounter many definitions of equality because our experience with it varies in different contexts.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q18",
+    "chapter_id": "c1",
+    "question": "Which of the following is NOT a reason to study Political Theory listed in the text?",
+    "options": [
+      "To become a 'vigilant' citizen",
+      "To help us develop a basic set of principles for society",
+      "To learn how to calculate the GDP of a nation",
+      "To learn the skill of debating rationally"
+    ],
+    "correct_index": 2,
+    "explanation": "Calculating GDP is a subject of Economics, not a stated goal of Political Theory in this text.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q19",
+    "chapter_id": "c1",
+    "question": "According to the text, what is the role of a 'vigilant' citizen?",
+    "options": [
+      "To follow every government order without question",
+      "To act like a watchdog and ensure the successful working of democracy",
+      "To strictly join a political party",
+      "To stay away from political discussions"
+    ],
+    "correct_index": 1,
+    "explanation": "Vigilant citizens are like watchdogs that make democracy more meaningful.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q20",
+    "chapter_id": "c1",
+    "question": "What does Political Theory help us do regarding our opinions?",
+    "options": [
+      "Force our opinions on others",
+      "Defend them using reasons and systematic thinking",
+      "Abandon all opinions",
+      "Keep our opinions private"
+    ],
+    "correct_index": 1,
+    "explanation": "Political theory exposes us to systematic thinking so that we can polish our opinions and argue in an informed manner.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q21",
+    "chapter_id": "c1",
+    "question": "Which of the following describes the 'Global Informational Order' related skills in Political Theory?",
+    "options": [
+      "Coding and software development",
+      "Debating rationally and communicating effectively",
+      "Data entry speed",
+      "Manufacturing hardware"
+    ],
+    "correct_index": 1,
+    "explanation": "Skills like debating rationally and communicating effectively are described as great assets in the global informational order.",
+    "ncert_page": 15,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "pol_th_q22": "math_c4_q22",
+    "chapter_id": "c1",
+    "question": "Political theory is for ________.",
+    "options": [
+      "Only politicians",
+      "Only bureaucrats",
+      "All groups including students and citizens",
+      "Only elderly people"
+    ],
+    "correct_index": 2,
+    "explanation": "Political theory is relevant for all, including students who will go on to be citizens or professionals.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q23",
+    "chapter_id": "c1",
+    "question": "Which issue is mentioned as a 'new dimension' of freedom in the digital age?",
+    "options": [
+      "Right to bear arms",
+      "Internet privacy and surveillance",
+      "Freedom to travel by air",
+      "Industrial safety"
+    ],
+    "correct_index": 1,
+    "explanation": "The text discusses how the Internet has created a new area of 'cyber-citizens' where privacy and government control are major concerns.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q24",
+    "chapter_id": "c1",
+    "question": "In the dialogue between Socrates and Cephalus, what was Cephalus's view on justice?",
+    "options": [
+      "Justice is speaking the truth and paying your debts",
+      "Justice is the interest of the stronger",
+      "Justice is whatever the king says",
+      "Justice is doing harm to enemies"
+    ],
+    "correct_index": 0,
+    "explanation": "Cephalus initially defines justice as speaking the truth and paying back what is owed.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q25",
+    "chapter_id": "c1",
+    "question": "How does Socrates counter the definition of justice as 'paying back what is owed'?",
+    "options": [
+      "By saying it is too expensive",
+      "By using the example of returning a weapon to a friend who has gone mad",
+      "By saying debts should never be paid",
+      "By arguing that truth does not exist"
+    ],
+    "correct_index": 1,
+    "explanation": "Socrates argues that if a friend goes mad, it would not be right (just) to return his weapons.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q26",
+    "chapter_id": "c1",
+    "question": "Political science is to political theory what ________ is to ________.",
+    "options": [
+      "Physics is to Mathematics",
+      "Mathematics is to Geometry",
+      "Action is to Principle",
+      "Opinion is to Fact"
+    ],
+    "correct_index": 1,
+    "explanation": "The text implies that Political theory provides the underlying principles for political science, similar to how geometry relates to math.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q27",
+    "chapter_id": "c1",
+    "question": "What is 'Netizen'?",
+    "options": [
+      "A person who catches fish with nets",
+      "An active participant in the online community",
+      "A government agent monitoring the web",
+      "A computer programmer"
+    ],
+    "correct_index": 1,
+    "explanation": "The text refers to Internet users as netizens (cyber-citizens).",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q28",
+    "chapter_id": "c1",
+    "question": "According to the text, politics arises from the fact that we have ________ visions of what is just.",
+    "options": [
+      "The same",
+      "Competing/Different",
+      "No",
+      "Secret"
+    ],
+    "correct_index": 1,
+    "explanation": "Politics arises from our differing visions of what is a just and desirable society.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q29",
+    "chapter_id": "c1",
+    "question": "Does political theory predict the performance of political parties?",
+    "options": [
+      "Yes",
+      "No, it discusses ideas and concepts",
+      "Only during elections",
+      "Only in India"
+    ],
+    "correct_index": 1,
+    "explanation": "Political theory discusses principles like freedom and equality; it doesn't predict party performance.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q30",
+    "chapter_id": "c1",
+    "question": "Which word is derived from the Greek word 'polis'?",
+    "options": [
+      "Police",
+      "Politics",
+      "Policy",
+      "Polite"
+    ],
+    "correct_index": 1,
+    "explanation": "The term 'politics' relates to the city-state or 'polis' in ancient Greece.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q31",
+    "chapter_id": "c1",
+    "question": "The text mentions that we enjoy 'Equality' in ________ but not necessarily in ________.",
+    "options": [
+      "Political rights; Economic or Social areas",
+      "Movies; Real life",
+      "Sports; Schools",
+      "Hospitals; Airports"
+    ],
+    "correct_index": 0,
+    "explanation": "We may have equal voting rights (political) but faces inequalities in slums or work (social/economic).",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q32",
+    "chapter_id": "c1",
+    "question": "Socrates was put to death by the city of ________.",
+    "options": [
+      "Rome",
+      "Athens",
+      "Sparta",
+      "Thebes"
+    ],
+    "correct_index": 1,
+    "explanation": "The box on page 8 mentions Socrates in Athens.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q33",
+    "chapter_id": "c1",
+    "question": "What does Political Theory aim to do with the 'values' that inform political life?",
+    "options": [
+      "Ignore them",
+      "Systematically think about them",
+      "Turn them into mathematical equations",
+      "Enforce them through violence"
+    ],
+    "correct_index": 1,
+    "explanation": "Political theory examines values like freedom and equality systematically.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q34",
+    "chapter_id": "c1",
+    "question": "Which of these is NOT considered a part of the 'politics' studied in the chapter?",
+    "options": [
+      "Decisions made by the government",
+      "Negotiations between citizens",
+      "Personal spiritual beliefs that don't affect society",
+      "Protests against unjust policies"
+    ],
+    "correct_index": 2,
+    "explanation": "Politics involves collective decision-making and public policy, not purely private spiritual beliefs.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q35",
+    "chapter_id": "c1",
+    "question": "When we find that 'Freedom' is not just a static idea but something that changes, we say it is ________.",
+    "options": [
+      "A lie",
+      "Evolving and gaining new meanings",
+      "Irrelevant",
+      "Only for the rich"
+    ],
+    "correct_index": 1,
+    "explanation": "The text explains that concepts like freedom expand as we find new areas (like the internet) where they apply.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q36",
+    "chapter_id": "c1",
+    "question": "What is the consequence of not being a vigilant citizen in a democracy?",
+    "options": [
+      "Nothing happens",
+      "Democracy may become meaningless or corrupt",
+      "The country becomes richer",
+      "Laws become easier to follow"
+    ],
+    "correct_index": 1,
+    "explanation": "Democracy works best when citizens are informed and active.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q37",
+    "chapter_id": "c1",
+    "question": "Political theory focuses on the ________ of political institutions.",
+    "options": [
+      "Physical location",
+      "Origins, meaning, and significance",
+      "Color of the building",
+      "Name of the staff"
+    ],
+    "correct_index": 1,
+    "explanation": "It discusses ideas that form the basis of political institutions and their significance.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q38",
+    "chapter_id": "c1",
+    "question": "The study of political theory is compared to being an ________ in the world of politics.",
+    "options": [
+      "Enemy",
+      "Informed participant or critic",
+      "Occasional visitor",
+      "Indifferent bystander"
+    ],
+    "correct_index": 1,
+    "explanation": "It helps us polish our opinions to argue in an informed manner.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q39",
+    "chapter_id": "c1",
+    "question": "Who stated that 'Swaraj is my birthright and I shall have it'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Tilak (Bal Gangadhar Tilak)",
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru"
+    ],
+    "correct_index": 1,
+    "explanation": "Though the text specifically discusses Gandhi's Hind Swaraj, it references the widely known Indian demand for swaraj as a birthright.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q40",
+    "chapter_id": "c1",
+    "question": "One of the exercises asks whether Political Theory is like ________.",
+    "options": [
+      "History",
+      "Mathematics",
+      "Biology",
+      "Chemistry"
+    ],
+    "correct_index": 1,
+    "explanation": "The text contrasts political theory with mathematics regarding definitions.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q41",
+    "chapter_id": "c1",
+    "question": "Political theory exposes us to ________ thinking.",
+    "options": [
+      "Random",
+      "Systematic",
+      "Emotional",
+      "Bias-heavy"
+    ],
+    "correct_index": 1,
+    "explanation": "It exposes us to systematic thinking on justice or equality.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q42",
+    "chapter_id": "c1",
+    "question": "What determines if our opinions are reasonable or not?",
+    "options": [
+      "How many people agree with us",
+      "Systematic argumentation and reasons",
+      "The loudness of our voice",
+      "Our social status"
+    ],
+    "correct_index": 1,
+    "explanation": "Only when we argue with others do we realize the need to defend opinions with reasons.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q43",
+    "chapter_id": "c1",
+    "question": "Government policies can affect our ________.",
+    "options": [
+      "Standard of living",
+      "Economic security",
+      "Social life",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "Government policies affect our lives in many ways, including education, economic security, and social interactions.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q44",
+    "chapter_id": "c1",
+    "question": "Is Political Theory only about memorising books?",
+    "options": [
+      "Yes",
+      "No, it's about concepts that concern us",
+      "Only for exam purposes",
+      "Only for history buffs"
+    ],
+    "correct_index": 1,
+    "explanation": "The dialogue in the introduction suggests it's about talking about things that concern us.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q45",
+    "chapter_id": "c1",
+    "question": "The Internet is described as the 'new ________ world'.",
+    "options": [
+      "Cyber",
+      "Virtual",
+      "Digital",
+      "Electronic"
+    ],
+    "correct_index": 0,
+    "explanation": "The text refers to the 'cyber world'.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q46",
+    "chapter_id": "c1",
+    "question": "Who wrote 'Hind Swaraj'?",
+    "options": [
+      "Tilak",
+      "B.R. Ambedkar",
+      "Mahatma Gandhi",
+      "Nehru"
+    ],
+    "correct_index": 2,
+    "explanation": "Mahatma Gandhi's book Hind Swaraj is mentioned.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q47",
+    "chapter_id": "c1",
+    "question": "Political theory helps to ________ our opinions.",
+    "options": [
+      "Stagnate",
+      "Polish",
+      "Suppress",
+      "Exaggerate"
+    ],
+    "correct_index": 1,
+    "explanation": "It helps us polish our opinions.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q48",
+    "chapter_id": "c1",
+    "question": "Dialogue is a tool used by ________ to find truth.",
+    "options": [
+      "Marx",
+      "Socrates",
+      "Rousseau",
+      "Machiavelli"
+    ],
+    "correct_index": 1,
+    "explanation": "The box on Socrates highlights his use of dialogue to find inconsistencies.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q49",
+    "chapter_id": "c1",
+    "question": "Does Political Theory explain the relationship between different religions?",
+    "options": [
+      "Yes",
+      "No",
+      "Only in India",
+      "Only in the past"
+    ],
+    "correct_index": 1,
+    "explanation": "According to the exercises, this is listed as false; political theory focuses on political ideas and institutions.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_th_q50",
+    "chapter_id": "c1",
+    "question": "The text states that humans can share their ideas and discuss what is ________.",
+    "options": [
+      "Profitable",
+      "Good and desirable",
+      "Cheap",
+      "Expensive"
+    ],
+    "correct_index": 1,
+    "explanation": "Humans can share their ideas and discuss what they consider to be good and desirable.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  }
+]

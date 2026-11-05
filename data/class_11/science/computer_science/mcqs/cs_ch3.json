@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c3_q01",
+    "chapter_id": "c3",
+    "question": "Which of the following best defines 'Emerging Trends' in computer science?",
+    "options": [
+      "Obsolete technologies that are no longer used",
+      "State-of-the-art technologies that gain popularity and set new trends among users",
+      "Traditional programming paradigms from the 1970s",
+      "Hardware components that have remained unchanged for decades"
+    ],
+    "correct_index": 1,
+    "explanation": "Emerging trends are the state-of-the-art technologies, which gain popularity and set a new trend among users.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q02",
+    "chapter_id": "c3",
+    "question": "The famous quote 'Computer science is no more about computers than astronomy is about telescopes' is attributed to which computer scientist?",
+    "options": [
+      "Alan Turing",
+      "Edsger Dijkstra",
+      "Tim Berners-Lee",
+      "Charles Babbage"
+    ],
+    "correct_index": 1,
+    "explanation": "The quote at the beginning of the chapter introduction is by Edsger Dijkstra.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q03",
+    "chapter_id": "c3",
+    "question": "Which technology powers intelligent digital personal assistants like Siri, Google Now, Cortana, and Alexa?",
+    "options": [
+      "Blockchain",
+      "Artificial Intelligence (AI)",
+      "Grid Computing",
+      "Database Management Systems"
+    ],
+    "correct_index": 1,
+    "explanation": "The intelligent digital personal assistants like Siri, Google Now, Cortana, Alexa are all powered by AI.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q04",
+    "chapter_id": "c3",
+    "question": "What is the primary objective of Artificial Intelligence (AI)?",
+    "options": [
+      "To increase the physical weight of a computer server",
+      "To simulate human ownership of machinery",
+      "To create a guided machine that can mimic human intelligence and behavior",
+      "To replace electrical wiring with wireless connections entirely"
+    ],
+    "correct_index": 2,
+    "explanation": "Artificial Intelligence endeavors to simulate human intelligence in machines, making a guided machine that can mimic human intelligence and behavior.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q05",
+    "chapter_id": "c3",
+    "question": "A subfield of AI that enables a system to learn from data and improve from experience without being explicitly programmed is called:",
+    "options": [
+      "Natural Language Processing",
+      "Immersive Reality",
+      "Machine Learning (ML)",
+      "Grid Computing"
+    ],
+    "correct_index": 2,
+    "explanation": "Machine Learning is a term coined in 1959. It is a subsystem of AI that enables a system to learn from data and improve from experience without being explicitly programmed.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q06",
+    "chapter_id": "c3",
+    "question": "Which AI subsystem is specifically concerned with giving computers the ability to understand text and spoken words in much the same way human beings can?",
+    "options": [
+      "Computer Vision",
+      "Natural Language Processing (NLP)",
+      "Robotics",
+      "Big Data Analytics"
+    ],
+    "correct_index": 1,
+    "explanation": "Natural Language Processing (NLP) deals with giving computers the ability to understand text and spoken words in much the same way human beings can.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q07",
+    "chapter_id": "c3",
+    "question": "A system that automatically recognizes your friends when you upload a photo to a social networking site uses which field of AI?",
+    "options": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Grid Computing",
+      "Blockchain"
+    ],
+    "correct_index": 1,
+    "explanation": "Computer Vision is a field of AI that deals with how computers can be made to gain high-level understanding from digital images or videos, such as recognizing faces in photos.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q08",
+    "chapter_id": "c3",
+    "question": "A simulator that generates realistic images, sounds, and other sensations to replicate a real environment and isolate the user from the physical world is called:",
+    "options": [
+      "Augmented Reality (AR)",
+      "Virtual Reality (VR)",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "correct_index": 1,
+    "explanation": "Virtual Reality (VR) is a three-dimensional, computer-generated simulation of a realistic environment that shuts out the physical world.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q09",
+    "chapter_id": "c3",
+    "question": "Which technology overlays computer-generated graphics and information on top of our real-world view view, rather than shutting it out?",
+    "options": [
+      "Virtual Reality (VR)",
+      "Augmented Reality (AR)",
+      "Natural Language Processing",
+      "Grid Computing"
+    ],
+    "correct_index": 1,
+    "explanation": "Augmented Reality (AR) is a technology that overlays computer-generated enhancements on top of an existing reality or real-world view.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q10",
+    "chapter_id": "c3",
+    "question": "The combination of both Virtual Reality and Augmented Reality elements to create interactive environments is broadly known as:",
+    "options": [
+      "Extended or Immersive Reality",
+      "Artificial Reality",
+      "Simulated Engineering",
+      "Enhanced Automation"
+    ],
+    "correct_index": 0,
+    "explanation": "The term Immersive Reality or Extended Reality covers Virtual Reality, Augmented Reality, and everything in between.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q11",
+    "chapter_id": "c3",
+    "question": "A network of physical devices embedded with electronics, software, and sensors that enables them to collect and exchange data is called:",
+    "options": [
+      "Grid Computing",
+      "Internet of Things (IoT)",
+      "Cloud Computing",
+      "Blockchain Network"
+    ],
+    "correct_index": 1,
+    "explanation": "The Internet of Things (IoT) is a network of physical devices embedded with electronics, software, sensors, and network connectivity that enables these objects to collect and exchange data.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q12",
+    "chapter_id": "c3",
+    "question": "What extension of IoT allows web services to connect with physical objects directly using existing standard web protocols?",
+    "options": [
+      "Cloud Web (CW)",
+      "Web of Things (WoT)",
+      "Grid Web (GW)",
+      "Blockchain Web (BW)"
+    ],
+    "correct_index": 1,
+    "explanation": "Web of Things (WoT) allows the use of web services to connect anything in the physical world, extending IoT by using existing web standards.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q13",
+    "chapter_id": "c3",
+    "question": "Data that is so large in volume, complex, and fast-velocity that traditional data processing applications are inadequate to handle it is called:",
+    "options": [
+      "Meta Data",
+      "Micro Data",
+      "Big Data",
+      "Hyper Data"
+    ],
+    "correct_index": 2,
+    "explanation": "Big Data refers to datasets that are huge in size, complex, and generated at a high velocity, making traditional processing applications insufficient.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q14",
+    "chapter_id": "c3",
+    "question": "Which of the following represents the core characteristics ('5 V's') of Big Data?",
+    "options": [
+      "Volume, Variety, Velocity, Veracity, Value",
+      "Vector, Voltage, Volume, Variance, Visibility",
+      "Validation, Verification, Volume, Velocity, Variety",
+      "Value, Virtual, Vector, Volume, Veracity"
+    ],
+    "correct_index": 0,
+    "explanation": "Big Data is characterized by 5 V's: Volume (size), Variety (types), Velocity (speed of generation), Veracity (trustworthiness/accuracy), and Value (usefulness).",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q15",
+    "chapter_id": "c3",
+    "question": "The delivery of on-demand computing services over the internet, including storage, databases, servers, and software on a pay-as-you-go basis is called:",
+    "options": [
+      "Grid Computing",
+      "Cloud Computing",
+      "Edge Computing",
+      "Distributed Coding"
+    ],
+    "correct_index": 1,
+    "explanation": "Cloud Computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q16",
+    "chapter_id": "c3",
+    "question": "Which type of cloud deployment model is owned and operated by a single business or organization exclusively?",
+    "options": [
+      "Public Cloud",
+      "Private Cloud",
+      "Hybrid Cloud",
+      "Community Cloud"
+    ],
+    "correct_index": 1,
+    "explanation": "A private cloud consists of computing resources used exclusively by one business or organization.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q17",
+    "chapter_id": "c3",
+    "question": "A cloud infrastructure that is available to the general public or a large industry group and is owned by a third-party cloud provider is a:",
+    "options": [
+      "Private Cloud",
+      "Community Cloud",
+      "Public Cloud",
+      "Internal Cloud"
+    ],
+    "correct_index": 2,
+    "explanation": "A public cloud is owned and operated by a third-party cloud service provider, delivering computing resources over the internet to multiple customers.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q18",
+    "chapter_id": "c3",
+    "question": "A cloud deployment model that combines elements of both private and public clouds, allowing data and applications to be shared between them is a:",
+    "options": [
+      "Distributed Cloud",
+      "Hybrid Cloud",
+      "Multi-tenant Cloud",
+      "Shared Cloud"
+    ],
+    "correct_index": 1,
+    "explanation": "A hybrid cloud combines public and private clouds, bound together by technology that allows data and applications to be shared between them.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q19",
+    "chapter_id": "c3",
+    "question": "Under which cloud service model does a user rent access to an application or software over the internet without managing any infrastructure (e.g., Gmail, Office 365)?",
+    "options": [
+      "Infrastructure as a Service (IaaS)",
+      "Platform as a Service (PaaS)",
+      "Software as a Service (SaaS)",
+      "Database as a Service (DBaaS)"
+    ],
+    "correct_index": 2,
+    "explanation": "Software as a Service (SaaS) provides complete, ready-to-use software applications over the internet on a subscription basis.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q20",
+    "chapter_id": "c3",
+    "question": "Which cloud service model provides a hardware-like computing environment over the internet, including raw virtual servers, storage space, and network connections?",
+    "options": [
+      "Software as a Service (SaaS)",
+      "Platform as a Service (PaaS)",
+      "Infrastructure as a Service (IaaS)",
+      "Application as a Service (AaaS)"
+    ],
+    "correct_index": 2,
+    "explanation": "Infrastructure as a Service (IaaS) provides fundamental computing resources like physical or virtual machines, storage, and networks over the internet.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q21",
+    "chapter_id": "c3",
+    "question": "A cloud service model that provides an environment with tools, libraries, and deployment configurations for developers to build apps without worrying about managing the underlying operating system or server hardware is:",
+    "options": [
+      "Infrastructure as a Service (IaaS)",
+      "Platform as a Service (PaaS)",
+      "Software as a Service (SaaS)",
+      "Network as a Service (NaaS)"
+    ],
+    "correct_index": 1,
+    "explanation": "Platform as a Service (PaaS) provides a framework or platform over the internet where developers can create customized applications without handling hardware or OS layers.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q22",
+    "chapter_id": "c3",
+    "question": "A system architecture consisting of a large pool of networked, geographically dispersed computers that work together to solve a massive scientific or complex computing problem is known as:",
+    "options": [
+      "Centralized Computing",
+      "Grid Computing",
+      "Edge Computing",
+      "Local Area Networking"
+    ],
+    "correct_index": 1,
+    "explanation": "A grid computing system is a processor architecture that combines computer resources from various domains to reach a main objective, acting as a distributed system with non-interactive workloads.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q23",
+    "chapter_id": "c3",
+    "question": "In Grid Computing, what type of grid is formed by combining multiple independent computer processors to execute calculations simultaneously?",
+    "options": [
+      "Data Grid",
+      "Network Grid",
+      "Computational Grid",
+      "Storage Grid"
+    ],
+    "correct_index": 2,
+    "explanation": "A computational grid is a hardware architecture made up of multiple processors working in parallel to run complex calculations.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q24",
+    "chapter_id": "c3",
+    "question": "A grid system that aggregates multiple storage devices across distinct network locations to act as a single massive unified data volume is a:",
+    "options": [
+      "Processor Grid",
+      "Computational Grid",
+      "Data Grid",
+      "Memory Grid"
+    ],
+    "correct_index": 2,
+    "explanation": "A data grid is an architecture that links multiple storage facilities to handle big data sets globally.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q25",
+    "chapter_id": "c3",
+    "question": "A continuously growing decentralized ledger of blocks that stores transactions securely and permanently across a peer-to-peer network using cryptographic hashing is called:",
+    "options": [
+      "Big Data Warehouse",
+      "Cloud Database",
+      "Blockchain",
+      "Grid Repository"
+    ],
+    "correct_index": 2,
+    "explanation": "Blockchain is a decentralized distributed ledger technology that stores transactions across a network of computers securely using cryptographic verification.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q26",
+    "chapter_id": "c3",
+    "question": "In a Blockchain, each block typically contains data transactions, its own unique cryptographic hash value, and:",
+    "options": [
+      "The IP address of the user only",
+      "The cryptographic hash of the previous block",
+      "A complete copy of the internet history",
+      "The cloud service license keys"
+    ],
+    "correct_index": 1,
+    "explanation": "Each block in a blockchain contains data, its own hash, and the hash of the previous block, creating a secure chain.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q27",
+    "chapter_id": "c3",
+    "question": "Why is data stored in a Blockchain considered highly immutable (tamper-proof)?",
+    "options": [
+      "Because it is kept on a private floppy disk",
+      "Because altering a block invalidates its hash and all subsequent blocks, which would be rejected by the network's consensus mechanism",
+      "Because the government owns all blockchains",
+      "Because it does not use any encryption"
+    ],
+    "correct_index": 1,
+    "explanation": "Altering any block changes its hash, which breaks the chain since the next block won't match. The network consensus verifies and rejects unauthorized alterations.",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q28",
+    "chapter_id": "c3",
+    "question": "What is the primary benefit of deploying a Blockchain system for public records or transactions?",
+    "options": [
+      "It makes processing data completely instantaneous without any time delay",
+      "It ensures transparency, accountability, security, and eliminates the need for an expensive central intermediary trust authority",
+      "It uses less electricity than traditional databases",
+      "It fits easily into analog filing systems"
+    ],
+    "correct_index": 1,
+    "explanation": "Blockchain provides tamper-evident recording of transactions without relying on a single centralized trusted authority, increasing transparency and trust.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q29",
+    "chapter_id": "c3",
+    "question": "A smart thermostat that adjusts temperature settings automatically by detecting patterns in user preferences utilizes which underlying trend?",
+    "options": [
+      "Grid Computing",
+      "IoT coupled with Machine Learning / AI",
+      "Simple Blockchain tracking",
+      "Raw Infrastructure as a Service"
+    ],
+    "correct_index": 1,
+    "explanation": "An automated system embedded with sensors (IoT) that adjusts based on learning patterns uses a combination of IoT and AI/ML.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q30",
+    "chapter_id": "c3",
+    "question": "What does 'Veracity' imply within the 5 V's of Big Data framework?",
+    "options": [
+      "The physical speed of processing files",
+      "The different file extensions present",
+      "The trustworthiness, reliability, quality, and accuracy of the captured data",
+      "The cost value of data storage units"
+    ],
+    "correct_index": 2,
+    "explanation": "Veracity refers to the quality, data integrity, and trustworthiness of the collected big data.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q31",
+    "chapter_id": "c3",
+    "question": "If you are using an online document editor like Google Docs or Microsoft 365 directly inside your browser window, you are taking advantage of:",
+    "options": [
+      "Infrastructure as a Service (IaaS)",
+      "Platform as a Service (PaaS)",
+      "Software as a Service (SaaS)",
+      "Grid Processing"
+    ],
+    "correct_index": 2,
+    "explanation": "Accessing software applications over a web browser directly without installing them locally is typical of SaaS.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q32",
+    "chapter_id": "c3",
+    "question": "When a cloud platform provides developers with an pre-configured environment containing a Python interpreter, a SQL database engine, and runtime tools, it falls under:",
+    "options": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "Hardware delivery"
+    ],
+    "correct_index": 1,
+    "explanation": "Providing pre-configured development tool stacks and environments falls under Platform as a Service (PaaS).",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q33",
+    "chapter_id": "c3",
+    "question": "Big Data involves 'Variety'. This means the data can be structured, unstructured, or:",
+    "options": [
+      "Analog only",
+      "Semi-structured",
+      "Encrypted manually only",
+      "Volatile"
+    ],
+    "correct_index": 1,
+    "explanation": "Variety implies that data can come in various formats, which are classified as structured, semi-structured, or unstructured.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q34",
+    "chapter_id": "c3",
+    "question": "In the context of IoT, what is the role of a 'sensor'?",
+    "options": [
+      "To display output information to the user",
+      "To detect changes in the physical environment and convert them into digital signals",
+      "To store backup files in a cloud network",
+      "To execute complex machine learning algorithms"
+    ],
+    "correct_index": 1,
+    "explanation": "Sensors in IoT sense or measure parameters from the physical world (like temperature, movement) and produce corresponding signals.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q35",
+    "chapter_id": "c3",
+    "question": "Which component in an IoT system acts as the 'brain' that collects data from sensors and coordinates communication?",
+    "options": [
+      "The storage volume",
+      "The microcontroller or processor unit",
+      "The public cloud deployment layer",
+      "The blockchain node ledger"
+    ],
+    "correct_index": 1,
+    "explanation": "A microcontroller or processor receives data from sensors, processes it, and manages connectivity within an IoT network.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q36",
+    "chapter_id": "c3",
+    "question": "A text translation tool that dynamically translates an input paragraph from English to Hindi in real-time is an example of:",
+    "options": [
+      "Computer Vision",
+      "Natural Language Processing (NLP)",
+      "Grid Data distribution",
+      "Augmented Engineering"
+    ],
+    "correct_index": 1,
+    "explanation": "Language translation is a prominent application of Natural Language Processing (NLP) in AI.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q37",
+    "chapter_id": "c3",
+    "question": "Which of the following is a key component required to enable an Immersive Reality experience?",
+    "options": [
+      "A fast mechanical dial printer",
+      "Head-mounted displays (HMDs) or wearable smart tracking devices",
+      "A multi-node computational grid setup",
+      "An offline file compressor tool"
+    ],
+    "correct_index": 1,
+    "explanation": "Immersive reality uses high-tech components like head-mounted gear, glasses, or sensors to merge real and digital tracking.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q38",
+    "chapter_id": "c3",
+    "question": "What happens if you try to change the transaction details stored inside a block that was created months ago in a secure Blockchain?",
+    "options": [
+      "The block updates automatically across all computers without any issue",
+      "Its cryptographic hash changes, breaking its link to subsequent blocks and making it invalid to the network",
+      "The data gets deleted permanently by default",
+      "The server hardware catches fire"
+    ],
+    "correct_index": 1,
+    "explanation": "Changing data in a block alters its hash, which invalidates the subsequent blocks because their 'previous hash' pointers become broken.",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q39",
+    "chapter_id": "c3",
+    "question": "The concept where multiple clients or companies securely share the same physical server hardware resources provided by a public cloud vendor is known as:",
+    "options": [
+      "Private clustering",
+      "Multi-tenancy",
+      "Single-tenant computing",
+      "Isolated deployment"
+    ],
+    "correct_index": 1,
+    "explanation": "Public clouds operate on a multi-tenant model where multiple users share space on the same physical infrastructure framework securely.",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q40",
+    "chapter_id": "c3",
+    "question": "A company requires full, root-level administrative access to configure custom operating system kernels and install raw networking storage protocols on virtual cloud servers. Which service model fits best?",
+    "options": [
+      "SaaS",
+      "PaaS",
+      "IaaS",
+      "AaaS"
+    ],
+    "correct_index": 2,
+    "explanation": "Infrastructure as a Service (IaaS) gives the user direct configuration access over virtualized infrastructure layers, OS configurations, and storage setups.",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q41",
+    "chapter_id": "c3",
+    "question": "Which of the following is considered a major challenge or bottleneck associated with analyzing Big Data?",
+    "options": [
+      "The datasets are too small to run tests on",
+      "Data storage, searching, sharing, analysis, and ensuring data privacy/security from massive sources",
+      "It completely avoids using computer programming languages",
+      "It requires matching everything with Roman numeral standards"
+    ],
+    "correct_index": 1,
+    "explanation": "The massive volume, speed, and structural variation of big data create complex issues regarding secure storage, processing infrastructure, and analysis.",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q42",
+    "chapter_id": "c3",
+    "question": "An autonomous self-driving car that navigates city streets safely by constantly tracking lane markings, signs, and traffic conditions utilizes which AI technique?",
+    "options": [
+      "Natural Language Processing only",
+      "Computer Vision coupled with Machine Learning models",
+      "Simple spreadsheet tracking systems",
+      "Basic computational grids without sensors"
+    ],
+    "correct_index": 1,
+    "explanation": "Self-driving cars use computer vision to analyze visual video streams from cameras in real-time alongside machine learning to make driving choices.",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q43",
+    "chapter_id": "c3",
+    "question": "When you open an interactive digital map app on your phone and hold your camera up to see business names floating right over the actual shop doors down the street, you are using:",
+    "options": [
+      "Virtual Reality",
+      "Augmented Reality",
+      "Grid processing ledger lines",
+      "Decentralized cloud encoding"
+    ],
+    "correct_index": 1,
+    "explanation": "Overlaying real-time digital labels or visual graphical elements over a live feed view of the physical world is the definition of Augmented Reality (AR).",
+    "ncert_page": 1,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q44",
+    "chapter_id": "c3",
+    "question": "A university department forms an ad-hoc processing pool combining 500 lab desktop computers across campus during midnight hours to process deep space telescope photos. This represents:",
+    "options": [
+      "Private cloud storage exclusively",
+      "Grid Computing architecture",
+      "Software as a Service setup",
+      "Augmented automation frameworks"
+    ],
+    "correct_index": 1,
+    "explanation": "Aggregating the distributed processing power of distinct, separate computer workstations to accomplish a unified heavy computing task is typical of Grid Computing.",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q45",
+    "chapter_id": "c3",
+    "question": "Which of the following is a classic example of an IoT-enabled device in a smart city application?",
+    "options": [
+      "An offline mechanical key calculator",
+      "A smart street light system that reports burnt-out bulbs and monitors localized traffic density automatically using network sensors",
+      "A traditional printed newspaper stand",
+      "A standalone desktop word processing application"
+    ],
+    "correct_index": 1,
+    "explanation": "Smart devices embedded with sensors that track environmental parameters and transmit data over an active network form part of the Internet of Things ecosystem.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q46",
+    "chapter_id": "c3",
+    "question": "The property of Big Data that refers to the sheer physical data capacity scale being generated constantly in terms of Terabytes or Zettabytes is:",
+    "options": [
+      "Velocity",
+      "Volume",
+      "Variety",
+      "Veracity"
+    ],
+    "correct_index": 1,
+    "explanation": "Volume defines the massive physical data size scale of the datasets involved in Big Data.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q47",
+    "chapter_id": "c3",
+    "question": "The speed at which new data streams are created, received, and written to disks continuously in real-time represents which characteristic of Big Data?",
+    "options": [
+      "Volume",
+      "Velocity",
+      "Variety",
+      "Veracity"
+    ],
+    "correct_index": 1,
+    "explanation": "Velocity measures the high rate of speed at which data arrives and gets generated continuously over time.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q48",
+    "chapter_id": "c3",
+    "question": "A medical research organization uses an AI chat tool that reads through raw handwritten doctor prescription notes to compile a database of symptoms. This tool heavily relies on:",
+    "options": [
+      "Computer Vision and Natural Language Processing",
+      "Grid storage networks exclusively",
+      "Public cloud orchestration without code",
+      "Blockchain transactions"
+    ],
+    "correct_index": 0,
+    "explanation": "Reading textual structure from images/handwriting uses computer vision components, and interpreting context meaning relies on Natural Language Processing (NLP).",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q49",
+    "chapter_id": "c3",
+    "question": "What kind of infrastructure model is best for a small startup team that has a very small hardware budget but needs immediate access to virtual machines and database storage servers quickly?",
+    "options": [
+      "Building their own private mainframe data room local setup",
+      "Leveraging on-demand Cloud Computing services",
+      "Relying solely on local peer-to-peer file sharing links",
+      "Using non-positional computing hardware devices"
+    ],
+    "correct_index": 1,
+    "explanation": "Cloud computing allows organizations to avoid high upfront hardware investments by accessing virtual servers and storage configurations on a flexible pay-per-use plan.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c3_q50",
+    "chapter_id": "c3",
+    "question": "In a Blockchain network, what is the purpose of the consensus mechanism?",
+    "options": [
+      "To convert file systems into variable byte formats",
+      "To ensure all distributed nodes across the peer network agree on the validity of transactions before updating the ledger",
+      "To measure the physical velocity of incoming big data packages",
+      "To configure the layout of head-mounted displays"
+    ],
+    "correct_index": 1,
+    "explanation": "The consensus protocol allows decentralized nodes across a distributed blockchain network to agree on a single shared state of validated ledger data without requiring a central regulator.",
+    "ncert_page": 1,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  }
+]

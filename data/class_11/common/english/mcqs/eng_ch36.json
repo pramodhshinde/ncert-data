@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "on_q01",
+    "chapter_id": "c19",
+    "question": "Who is the poet of 'Ode to a Nightingale'?",
+    "options": ["William Wordsworth", "John Keats", "Percy Bysshe Shelley", "Lord Byron"],
+    "correct_index": 1,
+    "explanation": "John Keats is the author of this famous Romantic ode.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q02",
+    "chapter_id": "c19",
+    "question": "In the opening lines, the poet feels a 'drowsy numbness' as though he had drunk ________.",
+    "options": ["Wine", "Lethe water", "Hemlock", "Hippocrene"],
+    "correct_index": 2,
+    "explanation": "The poet says his sense pains 'as though of hemlock I had drunk'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q03",
+    "chapter_id": "c19",
+    "question": "According to Greek mythology mentioned in the poem, what is 'Lethe'?",
+    "options": ["A mountain of the gods", "A river of forgetfulness in the underworld", "The goddess of flowers", "A fountain of inspiration"],
+    "correct_index": 1,
+    "explanation": "Lethe is an imaginary river whose water makes the dead forget their life on Earth.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q04",
+    "chapter_id": "c19",
+    "question": "The poet addresses the nightingale as a 'light-winged ________ of the trees'.",
+    "options": ["Angel", "Dryad", "Spirit", "Ghost"],
+    "correct_index": 1,
+    "explanation": "A Dryad is a female spirit that lives in a tree.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q05",
+    "chapter_id": "c19",
+    "question": "The nightingale is described as singing of summer in 'full-throated ________'.",
+    "options": ["Pain", "Ease", "Melody", "Anger"],
+    "correct_index": 1,
+    "explanation": "The bird sings with 'full-throated ease'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q06",
+    "chapter_id": "c19",
+    "question": "The poet expresses a desire for a 'draught of ________' that has been cooled a long age in the earth.",
+    "options": ["Water", "Vintage (Wine)", "Milk", "Hemlock"],
+    "correct_index": 1,
+    "explanation": "He asks for a 'draught of vintage' to help him leave the world.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q07",
+    "chapter_id": "c19",
+    "question": "In the poem, 'Flora' refers to the goddess of:",
+    "options": ["The Moon", "Flowers and the Spring", "The Sea", "Wisdom"],
+    "correct_index": 1,
+    "explanation": "Flora is the Roman goddess of flowers.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q08",
+    "chapter_id": "c19",
+    "question": "What are the 'beaded bubbles winking at the brim' referring to?",
+    "options": ["Raindrops", "Bubbles in a wine cup", "Eyes of the bird", "Stars in the sky"],
+    "correct_index": 1,
+    "explanation": "The poet describes the bubbles in a 'beaker full of the warm South'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q09",
+    "chapter_id": "c19",
+    "question": "What does the poet wish to 'quite forget' that the bird has never known?",
+    "options": ["The beauty of nature", "The weariness, the fever, and the fret of human life", "Ancient myths", "His own name"],
+    "correct_index": 1,
+    "explanation": "The poet wants to forget the struggles of the human condition.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q10",
+    "chapter_id": "c19",
+    "question": "In the human world described by Keats, 'youth grows pale, and spectre-thin, and ________'.",
+    "options": ["Dies", "Cries", "Flies", "Stays"],
+    "correct_index": 0,
+    "explanation": "The line is 'Where youth grows pale, and spectre-thin, and dies'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q11",
+    "chapter_id": "c19",
+    "question": "The poet says that in this world, to 'think' is to be full of ________.",
+    "options": ["Joy", "Sorrow and leaden-eyed despairs", "Knowledge", "Ambition"],
+    "correct_index": 1,
+    "explanation": "Thinking brings awareness of suffering: 'Where but to think is to be full of sorrow'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q12",
+    "chapter_id": "c19",
+    "question": "The poet decides to fly to the nightingale not by 'Bacchus and his pards' but on the 'viewless wings of ________'.",
+    "options": ["Science", "Poesy (Poetry)", "Time", "Birds"],
+    "correct_index": 1,
+    "explanation": "Keats uses imagination and poetry to escape, rather than wine (Bacchus).",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q13",
+    "chapter_id": "c19",
+    "question": "Who is 'Bacchus' in Greek mythology?",
+    "options": ["God of War", "God of Wine", "God of the Sun", "God of the Sea"],
+    "correct_index": 1,
+    "explanation": "Bacchus is the god of wine.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q14",
+    "chapter_id": "c19",
+    "question": "The poet describes the forest as a place where there is 'no ________' except what the breezes blow through the trees.",
+    "options": ["Sound", "Light", "Heat", "Water"],
+    "correct_index": 1,
+    "explanation": "The poet mentions 'there is no light' in the dark forest gloom.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q15",
+    "chapter_id": "c19",
+    "question": "Being in the dark, the poet says he cannot see what ________ are at his feet.",
+    "options": ["Animals", "Flowers", "Stones", "Insects"],
+    "correct_index": 1,
+    "explanation": "He says 'I cannot see what flowers are at my feet'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q16",
+    "chapter_id": "c19",
+    "question": "Which flower is described as the 'coming musk-rose'?",
+    "options": ["The mid-May eldest child", "The winter rose", "The autumn leaf", "The desert bloom"],
+    "correct_index": 0,
+    "explanation": "The poet refers to the musk-rose as the 'mid-May eldest child'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q17",
+    "chapter_id": "c19",
+    "question": "The poet confesses he has been 'half in love with easeful ________'.",
+    "options": ["Life", "Death", "Sleep", "Love"],
+    "correct_index": 1,
+    "explanation": "The poet often contemplated death as a peaceful release.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q18",
+    "chapter_id": "c19",
+    "question": "Keats calls the nightingale an 'immortal ________'.",
+    "options": ["Spirit", "Bird", "Singer", "Soul"],
+    "correct_index": 1,
+    "explanation": "The line reads: 'Thou wast not born for death, immortal Bird!'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q19",
+    "chapter_id": "c19",
+    "question": "The song of the nightingale was heard in ancient times by 'emperor and ________'.",
+    "options": ["Slave", "Clown", "Peasant", "Priest"],
+    "correct_index": 1,
+    "explanation": "The poet notes the song found a path through the heart of both high and low status people.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q20",
+    "chapter_id": "c19",
+    "question": "Which biblical figure is mentioned as standing in tears amid the 'alien corn' while listening to the bird?",
+    "options": ["Mary", "Ruth", "Esther", "Sarah"],
+    "correct_index": 1,
+    "explanation": "The poet imagines Ruth listening to the same song in a foreign land.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q21",
+    "chapter_id": "c19",
+    "question": "What word acts like a 'bell' to toll the poet back from his fancy to his 'sole self'?",
+    "options": ["Forever", "Forlorn", "Forgotten", "Farewell"],
+    "correct_index": 1,
+    "explanation": "The word 'Forlorn!' pulls the poet out of his imaginative trance.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q22",
+    "chapter_id": "c19",
+    "question": "At the end of the poem, the poet asks: 'Was it a vision, or a ________?'",
+    "options": ["Lie", "Waking dream", "Nightmare", "Hallucination"],
+    "correct_index": 1,
+    "explanation": "The poet questions the reality of his intense experience.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q23",
+    "chapter_id": "c19",
+    "question": "The final line of the poem is: 'Fled is that music:—Do I ________ or sleep?'",
+    "options": ["Dream", "Wake", "Die", "Cry"],
+    "correct_index": 1,
+    "explanation": "The poem ends with the poet wondering if he is currently awake.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q24",
+    "chapter_id": "c19",
+    "question": "Keats belongs to which literary movement?",
+    "options": ["Modernism", "Realism", "Romanticism", "Neoclassicism"],
+    "correct_index": 2,
+    "explanation": "Keats is one of the main figures of the second generation of Romantic poets.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q25",
+    "chapter_id": "c19",
+    "question": "In the phrase 'Plaintive anthem', what does 'plaintive' mean?",
+    "options": ["Joyful", "Sad or mournful", "Loud", "Short"],
+    "correct_index": 1,
+    "explanation": "The song becomes mournful as it fades away.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q26",
+    "chapter_id": "c19",
+    "question": "The poet calls imagination a 'deceiving ________'.",
+    "options": ["Spirit", "Elf", "Ghost", "Mirror"],
+    "correct_index": 1,
+    "explanation": "The line is 'the fancy cannot cheat so well / As she is fam'd to do, deceiving elf.'",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q27",
+    "chapter_id": "c19",
+    "question": "Where is 'Hippocrene' found according to the poem?",
+    "options": ["In a bottle", "On a mountain associated with the Muses", "In the ocean", "In the garden"],
+    "correct_index": 1,
+    "explanation": "Hippocrene is a fountain on Mt. Helicon, sacred to the Muses.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q28",
+    "chapter_id": "c19",
+    "question": "The 'hungry generations' do not tread down the bird. This symbolizes:",
+    "options": ["The bird is too fast", "The immortality of art/nature compared to humans", "The bird has no enemies", "The bird lives in the sky"],
+    "correct_index": 1,
+    "explanation": "The nightingale's song persists through history while individual humans perish.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q29",
+    "chapter_id": "c19",
+    "question": "The 'pards' that draw Bacchus's chariot are ________.",
+    "options": ["Horses", "Leopards", "Lions", "Dolphins"],
+    "correct_index": 1,
+    "explanation": "In mythology, Bacchus's chariot was drawn by leopards (pards).",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q30",
+    "chapter_id": "c19",
+    "question": "What time of day is most of the poem set in?",
+    "options": ["Bright noon", "Early morning", "Night/Darkness", "Dusk"],
+    "correct_index": 2,
+    "explanation": "The poet describes a dark, lightless forest.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q31",
+    "chapter_id": "c19",
+    "question": "The nightingale sings in a 'melodious plot of ________ green'.",
+    "options": ["Oak", "Beechen", "Pine", "Maple"],
+    "correct_index": 1,
+    "explanation": "The poet mentions the 'beechen green'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q32",
+    "chapter_id": "c19",
+    "question": "What does 'opiate' mean in the second line?",
+    "options": ["A type of juice", "A drug that produces sleep or dulls pain", "A poison", "A type of tea"],
+    "correct_index": 1,
+    "explanation": "Opiates cause the 'drowsy numbness' the poet describes.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q33",
+    "chapter_id": "c19",
+    "question": "The poet wants to 'fade away into the forest ________'.",
+    "options": ["Bright", "Green", "Dim", "Deep"],
+    "correct_index": 2,
+    "explanation": "He wishes to join the bird in the 'forest dim'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q34",
+    "chapter_id": "c19",
+    "question": "Keats uses sets of opposites like 'waking dream'. This figure of speech is an:",
+    "options": ["Simile", "Metaphor", "Oxymoron", "Alliteration"],
+    "correct_index": 2,
+    "explanation": "Waking dream combines two contradictory concepts.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q35",
+    "chapter_id": "c19",
+    "question": "In line 26, 'leaden-eyed despairs' suggests that despair makes one feel:",
+    "options": ["Light", "Heavy and dull", "Angry", "Fast"],
+    "correct_index": 1,
+    "explanation": "Leaden implies weight and lack of life/brightness.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q36",
+    "chapter_id": "c19",
+    "question": "The poet mentions 'the sod' at the end of stanza 6. What is a 'sod'?",
+    "options": ["A bird's nest", "A piece of turf/earth", "A musical note", "A tree branch"],
+    "correct_index": 1,
+    "explanation": "To become a 'sod' means to be buried and become part of the earth.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q37",
+    "chapter_id": "c19",
+    "question": "The 'magic casements' mentioned toward the end open on the foam of '________ seas'.",
+    "options": ["Quiet", "Perilous", "Blue", "Calm"],
+    "correct_index": 1,
+    "explanation": "The line is 'Charmed magic casements, opening on the foam / Of perilous seas'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q38",
+    "chapter_id": "c19",
+    "question": "What is the 'requiem' mentioned in stanza 6?",
+    "options": ["A morning song", "A song for the dead", "A wedding song", "A battle cry"],
+    "correct_index": 1,
+    "explanation": "A requiem is a mass or song for the repose of the souls of the dead.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q39",
+    "chapter_id": "c19",
+    "question": "The bird's song is heard 'fading' over the '________ stream'.",
+    "options": ["Fast", "Meadow", "Mountain", "Forest"],
+    "correct_index": 1,
+    "explanation": "The song fades 'past the near meadows, over the still stream'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q40",
+    "chapter_id": "c19",
+    "question": "John Keats died at a very young age. This poem reflects his preoccupation with:",
+    "options": ["Politics", "Mortality and the transience of life", "Scientific discovery", "Travel"],
+    "correct_index": 1,
+    "explanation": "Keats's awareness of death and illness deeply influenced his poetry.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q41",
+    "chapter_id": "c19",
+    "question": "The word 'Provencal' in 'Provencal song' refers to a region in:",
+    "options": ["Italy", "France", "Spain", "Greece"],
+    "correct_index": 1,
+    "explanation": "Provence is a region in southern France.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q42",
+    "chapter_id": "c19",
+    "question": "The poet says 'thou, light-winged Dryad of the trees'. To whom is he referring?",
+    "options": ["The wind", "The nightingale", "The moon", "A ghost"],
+    "correct_index": 1,
+    "explanation": "He personifies the bird as a tree spirit.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q43",
+    "chapter_id": "c19",
+    "question": "The 'dull opiate' in line 3 was emptied to the ________.",
+    "options": ["Sea", "Drains", "Ground", "River"],
+    "correct_index": 1,
+    "explanation": "The poet says 'Or emptied some dull opiate to the drains'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q44",
+    "chapter_id": "c19",
+    "question": "What color is the wine described as being in 'purple-stained mouth'?",
+    "options": ["Red", "Purple", "White", "Pink"],
+    "correct_index": 1,
+    "explanation": "The stains from the wine are purple.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q45",
+    "chapter_id": "c19",
+    "question": "In line 31, the poet says he will fly to the bird 'Not charioted by ________'.",
+    "options": ["Horses", "Bacchus", "Apollo", "Zeus"],
+    "correct_index": 1,
+    "explanation": "The line is 'Not charioted by Bacchus and his pards'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q46",
+    "chapter_id": "c19",
+    "question": "The forest floor is described as 'embalmed ________'.",
+    "options": ["Light", "Darkness", "Water", "Silence"],
+    "correct_index": 1,
+    "explanation": "The line is 'I cannot see... what soft incense hangs upon the boughs / But, in embalmed darkness...'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q47",
+    "chapter_id": "c19",
+    "question": "The 'fast fading violets' are covered with ________.",
+    "options": ["Snow", "Leaves", "Dew", "Dust"],
+    "correct_index": 1,
+    "explanation": "The line is 'Fast fading violets cover'd up in leaves'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q48",
+    "chapter_id": "c19",
+    "question": "Which month is mentioned in the description of the flowers?",
+    "options": ["April", "May", "June", "July"],
+    "correct_index": 1,
+    "explanation": "The poet refers to 'The mid-May eldest child'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q49",
+    "chapter_id": "c19",
+    "question": "The poet says 'to die' would be 'rich' while the bird is pouring forth its ________.",
+    "options": ["Heart", "Soul", "Song", "Blood"],
+    "correct_index": 1,
+    "explanation": "The line is 'To cease upon the midnight with no pain / While thou art pouring forth thy soul abroad'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "on_q50",
+    "chapter_id": "c19",
+    "question": "The nightingale’s song is called a 'high ________' in stanza 6.",
+    "options": ["Call", "Anthem", "Requiem", "Melody"],
+    "correct_index": 2,
+    "explanation": "The line is 'Still wouldst thou sing, and I have ears in vain— / To thy high requiem become a sod.'",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  }
+]

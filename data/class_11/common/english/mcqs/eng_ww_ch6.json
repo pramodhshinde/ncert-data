@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "c6_tfc_q01",
+    "chapter_id": "c6",
+    "question": "Who is the author of 'The Third and Final Continent'?",
+    "options": ["Anita Desai", "Jhumpa Lahiri", "Arundhati Roy", "Kiran Desai"],
+    "correct_index": 1,
+    "explanation": "The story is written by Jhumpa Lahiri, known for her works on the Indian diaspora.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q02",
+    "chapter_id": "c6",
+    "question": "In which year did the narrator leave India?",
+    "options": ["1947", "1964", "1969", "1975"],
+    "correct_index": 1,
+    "explanation": "The narrator states, 'I left India in 1964 with a certificate in commerce.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q03",
+    "chapter_id": "c6",
+    "question": "What was the narrator's first 'continent' in his journey of migration?",
+    "options": ["North America", "Europe (England)", "Asia (India)", "Africa"],
+    "correct_index": 2,
+    "explanation": "His journey begins in India (Asia), moves to London (Europe), and finally to America.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q04",
+    "chapter_id": "c6",
+    "question": "The narrator lived in which part of London?",
+    "options": ["South Kensington", "Finsbury Park", "Greenwich", "Wembley"],
+    "correct_index": 1,
+    "explanation": "He lived in north London, specifically in Finsbury Park, in a house of Bengali bachelors.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q05",
+    "chapter_id": "c6",
+    "question": "Which university did the narrator attend in London?",
+    "options": ["Oxford", "Cambridge", "LSE (London School of Economics)", "UCL"],
+    "correct_index": 2,
+    "explanation": "He attended lectures at the LSE and worked at the university library.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q06",
+    "chapter_id": "c6",
+    "question": "In 1969, the narrator moved to America for a job at:",
+    "options": ["Harvard University", "MIT", "Columbia University", "NASA"],
+    "correct_index": 1,
+    "explanation": "He was offered a job in the processing department of the library at MIT.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q07",
+    "chapter_id": "c6",
+    "question": "What significant event happened on the morning the narrator arrived in America?",
+    "options": ["A war ended", "The Moon Landing (Apollo 11)", "A presidential election", "The World Cup final"],
+    "correct_index": 1,
+    "explanation": "He arrived as American astronauts walked on the moon for the first time.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q08",
+    "chapter_id": "c6",
+    "question": "Who is Mrs. Croft in the story?",
+    "options": ["The narrator's wife", "The narrator's first landlady in America", "A professor at MIT", "A neighbor in London"],
+    "correct_index": 1,
+    "explanation": "Mrs. Croft is the elderly woman who rents a room to the narrator in Cambridge, Massachusetts.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q09",
+    "chapter_id": "c6",
+    "question": "How old is Mrs. Croft when the narrator first meets her?",
+    "options": ["80", "90", "103", "110"],
+    "correct_index": 2,
+    "explanation": "Mrs. Croft tells the narrator she is one hundred and three years old.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q10",
+    "chapter_id": "c6",
+    "question": "What is the specific requirement Mrs. Croft has for her tenants?",
+    "options": ["They must be rich", "They must be Harvard or MIT men", "They must be American", "They must be musicians"],
+    "correct_index": 1,
+    "explanation": "She only rents to 'Harvard or MIT men'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q11",
+    "chapter_id": "c6",
+    "question": "What does Mrs. Croft expect the narrator to say after she declares 'A flag on the moon, boy!'?",
+    "options": ["'That's great!'", "'Splendid!'", "'Unbelievable!'", "'God bless America!'"],
+    "correct_index": 1,
+    "explanation": "The narrator is required to reply 'Splendid!' to her excitement about the moon landing.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q12",
+    "chapter_id": "c6",
+    "question": "What is the name of the narrator's wife?",
+    "options": ["Mary", "Mala", "Meera", "Maya"],
+    "correct_index": 1,
+    "explanation": "His wife's name is Mala, whom he married through an arranged marriage in India.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q13",
+    "chapter_id": "c6",
+    "question": "What was Mala's father's profession?",
+    "options": ["Doctor", "School teacher", "Clerk", "Businessman"],
+    "correct_index": 1,
+    "explanation": "Mala's father was a school teacher in a town twenty miles from Calcutta.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q14",
+    "chapter_id": "c6",
+    "question": "The narrator's mother suffered from which condition toward the end of her life?",
+    "options": ["Blindness", "Mental illness/Despair following her husband's death", "Heart disease", "Paralysis"],
+    "correct_index": 1,
+    "explanation": "The narrator describes how his mother 'sank into a state of depression' and lost her grip on reality after his father died.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q15",
+    "chapter_id": "c6",
+    "question": "Who is Helen in the story?",
+    "options": ["The narrator's sister", "Mrs. Croft's daughter", "A librarian", "The SS Roma captain"],
+    "correct_index": 1,
+    "explanation": "Helen is Mrs. Croft's daughter who visits her and brings groceries.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q16",
+    "chapter_id": "c6",
+    "question": "What is the weekly rent the narrator pays to Mrs. Croft?",
+    "options": ["$5", "$8", "$10", "$15"],
+    "correct_index": 1,
+    "explanation": "The rent for the room is eight dollars a week.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q17",
+    "chapter_id": "c6",
+    "question": "Where does the narrator eat his dinner while staying at Mrs. Croft’s?",
+    "options": ["At the university", "Sitting on the stairs of her house", "In his room", "At a local restaurant"],
+    "correct_index": 1,
+    "explanation": "He eats his cornflakes and bananas on the bench or stairs to keep Mrs. Croft company.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q18",
+    "chapter_id": "c6",
+    "question": "What is 'The Tube' mentioned in the London section of the story?",
+    "options": ["A television", "A musical instrument", "The London Underground (Subway)", "A laboratory tool"],
+    "correct_index": 2,
+    "explanation": "The Tube is the common name for the London Underground railway system.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q19",
+    "chapter_id": "c6",
+    "question": "What color was the 'Plymouth' car mentioned in the context of American life?",
+    "options": ["Red", "Black", "Sky-blue", "Green"],
+    "correct_index": 2,
+    "explanation": "The text refers to the family's sky-blue Plymouth.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q20",
+    "chapter_id": "c6",
+    "question": "How did the narrator and his friends in London usually eat their egg curry?",
+    "options": ["With spoons", "On fine china", "With their hands on a table covered with newspapers", "In a restaurant"],
+    "correct_index": 2,
+    "explanation": "They ate with their hands on a newspaper-covered table to save money and maintain habit.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q21",
+    "chapter_id": "c6",
+    "question": "What was the 'third and final continent' for the narrator?",
+    "options": ["Asia", "Europe", "North America", "Australia"],
+    "correct_index": 2,
+    "explanation": "North America (The United States) is where he finally settles down.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q22",
+    "chapter_id": "c6",
+    "question": "Mala's arrival in America makes the narrator feel:",
+    "options": ["Excited", "Nervous and responsible for a stranger", "Angry", "Indifferent"],
+    "correct_index": 1,
+    "explanation": "He feels the weight of responsibility for a woman he barely knows, effectively a stranger.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q23",
+    "chapter_id": "c6",
+    "question": "What does Mrs. Croft call Mala when the narrator brings her to visit?",
+    "options": ["A foreigner", "A perfect lady", "A beautiful girl", "A stranger"],
+    "correct_index": 1,
+    "explanation": "Mrs. Croft looks at Mala and declares, 'She is a perfect lady!'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q24",
+    "chapter_id": "c6",
+    "question": "What was Mala's particular skill mentioned in the marriage negotiation?",
+    "options": ["Cooking", "Knitting and sewing", "Singing", "Teaching"],
+    "correct_index": 1,
+    "explanation": "Mala was known for her ability to knit and embroider.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q25",
+    "chapter_id": "c6",
+    "question": "The narrator's son eventually attends which university?",
+    "options": ["MIT", "Harvard", "Yale", "Stanford"],
+    "correct_index": 1,
+    "explanation": "The story mentions their son is a student at Harvard.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q26",
+    "chapter_id": "c6",
+    "question": "Mrs. Croft's death was the first death the narrator 'mourned in America' because:",
+    "options": ["She was his mother", "She was the first person he truly admired there", "She left him money", "He had no other friends"],
+    "correct_index": 1,
+    "explanation": "He admired her resilience and her 103 years of life, which made him feel a bond.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q27",
+    "chapter_id": "c6",
+    "question": "What is the name of the Italian cargo vessel the narrator sailed on to England?",
+    "options": ["SS Roma", "SS Victoria", "Titanic", "SS London"],
+    "correct_index": 0,
+    "explanation": "The vessel was the SS Roma.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q28",
+    "chapter_id": "c6",
+    "question": "What is a 'Grundig reel-to-reel'?",
+    "options": ["A camera", "A type of car", "A tape recorder", "A kitchen appliance"],
+    "correct_index": 2,
+    "explanation": "It is an old-fashioned tape recorder mentioned in the vocabulary and text.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q29",
+    "chapter_id": "c6",
+    "question": "The phrase 'Don't expect an English cup of tea' refers to the difference in ________ attitudes.",
+    "options": ["Political", "American and English", "Indian and British", "Religious"],
+    "correct_index": 1,
+    "explanation": "It highlights the cultural shift the narrator experiences moving from London to America.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q30",
+    "chapter_id": "c6",
+    "question": "The narrator’s wedding night was spent in a house in:",
+    "options": ["Calcutta", "London", "Cambridge", "A village"],
+    "correct_index": 0,
+    "explanation": "The wedding took place in Calcutta before he returned to the West.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q31",
+    "chapter_id": "c6",
+    "question": "Why did Mrs. Croft stop playing the piano?",
+    "options": ["She hated music", "Her hands became too weak/arthritic", "She sold the piano", "She forgot how to play"],
+    "correct_index": 1,
+    "explanation": "Her daughter Helen mentions that her mother's hands are no longer capable of playing.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q32",
+    "chapter_id": "c6",
+    "question": "The narrator describes his life as 'ordinary', yet he is 'astonished' by:",
+    "options": ["Winning the lottery", "The distance he has traveled and the life he has built", "His son's intelligence", "American food"],
+    "correct_index": 1,
+    "explanation": "The story ends with a reflection on the survival and success of an immigrant against all odds.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q33",
+    "chapter_id": "c6",
+    "question": "What does 'mortified' mean in the context of the story?",
+    "options": ["Dead", "Extremely embarrassed", "Happy", "Excited"],
+    "correct_index": 1,
+    "explanation": "It refers to feeling deeply shamed or embarrassed.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q34",
+    "chapter_id": "c6",
+    "question": "How did the narrator's mother die?",
+    "options": ["In an accident", "Old age/Peacefully", "She set herself on fire/accident with a stove", "The text doesn't say"],
+    "correct_index": 2,
+    "explanation": "The narrator recalls the tragic scene where his mother's sari caught fire.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q35",
+    "chapter_id": "c6",
+    "question": "In London, the bachelors smoked which brand of cigarettes?",
+    "options": ["Marlboro", "Rothmans", "Gold Flake", "Camel"],
+    "correct_index": 1,
+    "explanation": "The text mentions them smoking Rothmans.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q36",
+    "chapter_id": "c6",
+    "question": "What was the narrator's salary at the MIT library?",
+    "options": ["$3,000 a year", "$6,800 a year", "$10,000 a year", "$500 a month"],
+    "correct_index": 1,
+    "explanation": "His starting salary was six thousand eight hundred dollars a year.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q37",
+    "chapter_id": "c6",
+    "question": "Mrs. Croft was born in which year?",
+    "options": ["1866", "1900", "1895", "1850"],
+    "correct_index": 0,
+    "explanation": "Since she was 103 in 1969, she was born in 1866.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q38",
+    "chapter_id": "c6",
+    "question": "What is 'stucco'?",
+    "options": ["A type of food", "Plaster used for coating walls", "A musical term", "A type of plant"],
+    "correct_index": 1,
+    "explanation": "Stucco is a fine plaster used for wall decorations or surfaces.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q39",
+    "chapter_id": "c6",
+    "question": "The narrator’s relationship with Mala changes from awkwardness to ________.",
+    "options": ["Hatred", "Mutual love and understanding", "Separation", "Indifference"],
+    "correct_index": 1,
+    "explanation": "Over time, they build a deep and shared life in America.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q40",
+    "chapter_id": "c6",
+    "question": "How many dollars did the narrator have when he left India?",
+    "options": ["One hundred", "Ten", "Fifty", "Zero"],
+    "correct_index": 1,
+    "explanation": "He left with 'the equivalent... of ten dollars'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q41",
+    "chapter_id": "c6",
+    "question": "The bachelors in London played which singer's records?",
+    "options": ["Mukesh", "Lata Mangeshkar", "Kishore Kumar", "Rafi"],
+    "correct_index": 0,
+    "explanation": "They played Mukesh on a Grundig reel-to-reel.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q42",
+    "chapter_id": "c6",
+    "question": "What is 'forsythia'?",
+    "options": ["A city", "A spring-flowering shrub with yellow flowers", "A type of tea", "A religious ceremony"],
+    "correct_index": 1,
+    "explanation": "It is a bush mentioned in the narrator's description of his neighborhood.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q43",
+    "chapter_id": "c6",
+    "question": "What did Mala do while waiting for her visa?",
+    "options": ["She went to school", "She lived with her in-laws in Calcutta", "She worked as a teacher", "She traveled to Europe"],
+    "correct_index": 1,
+    "explanation": "She remained in Calcutta with the narrator's brother and his wife.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q44",
+    "chapter_id": "c6",
+    "question": "Mrs. Croft's death was the first death the narrator 'mourned in America' because:",
+    "options": ["She was his mother", "She was the first person he truly admired there", "She left him money", "He had no other friends"],
+    "correct_index": 1,
+    "explanation": "He admired her resilience and her 103 years of life, which made him feel a bond.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q45",
+    "chapter_id": "c6",
+    "question": "The narrator's first meal in America was:",
+    "options": ["Hamburger", "Cornflakes and milk", "Pizza", "Hot dog"],
+    "correct_index": 1,
+    "explanation": "He bought a box of cornflakes and a carton of milk as his first sustenance.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q46",
+    "chapter_id": "c6",
+    "question": "What was the name of the house where Mrs. Croft lived?",
+    "options": ["The text doesn't give a name, just the location on Central Square", "Croft House", "Harvard Villa", "Beacon Hill"],
+    "correct_index": 0,
+    "explanation": "The location is near Central Square in Cambridge.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q47",
+    "chapter_id": "c6",
+    "question": "How did the narrator learn about Mrs. Croft's room?",
+    "options": ["Newspaper ad", "A flyer at MIT", "Word of mouth", "A sign in the window"],
+    "correct_index": 0,
+    "explanation": "He found it through an advertisement.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q48",
+    "chapter_id": "c6",
+    "question": "What is a 'foyer'?",
+    "options": ["A kitchen", "An entrance hall or open area in a building", "A balcony", "A basement"],
+    "correct_index": 1,
+    "explanation": "A foyer is an entrance hall, as defined in the language work.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q49",
+    "chapter_id": "c6",
+    "question": "What 'bond' is created between the narrator and Mala toward the end?",
+    "options": ["They both become American citizens", "They share a laugh over Mrs. Croft's eccentricities", "They become rich", "They move back to India"],
+    "correct_index": 1,
+    "explanation": "The visit to Mrs. Croft is a turning point where they first truly connect as a couple.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "c6_tfc_q50",
+    "chapter_id": "c6",
+    "question": "The story ends with the narrator noting that he is ________ by his own journey.",
+    "options": ["Tired", "Astonished", "Saddened", "Confused"],
+    "correct_index": 1,
+    "explanation": "The final lines express his wonder at his own survival and adaptation.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  }
+]

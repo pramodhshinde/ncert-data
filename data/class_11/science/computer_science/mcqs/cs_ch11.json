@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c11_q01",
+    "chapter_id": "c11",
+    "question": "What primary agent has caused dramatic impacts on our lives in recent years by making electronic communications instantaneous?",
+    "options": [
+      "Analog machinery",
+      "Digital Technologies",
+      "Mechanical assembly lines",
+      "Static printing presses"
+    ],
+    "correct_index": 1,
+    "explanation": "In recent years, the world around us has seen a lot of changes due to the use of 'Digital Technologies'. The instantaneous nature of electronic communications has made us more efficient and productive.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q02",
+    "chapter_id": "c11",
+    "question": "Which combination of hardware and networks brought digital technologies to the common man?",
+    "options": [
+      "Mainframes and local radio signals",
+      "Personal computers (PCs), Internet, and smartphones",
+      "Telegraphs and copper landlines",
+      "Television broadcasts and satellite dishes"
+    ],
+    "correct_index": 1,
+    "explanation": "The introduction of personal computers (PCs) and Internet followed by smartphones has brought these technologies to the common man.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q03",
+    "chapter_id": "c11",
+    "question": "What is the collective term for the trail of data a user leaves behind while cruising on the Internet?",
+    "options": [
+      "Digital footprint",
+      "Browser cache",
+      "Online identity bookmark",
+      "Network history log"
+    ],
+    "correct_index": 0,
+    "explanation": "The trail of data we leave behind while cruising on the Internet is called our digital footprint.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q04",
+    "chapter_id": "c11",
+    "question": "Which type of digital footprint includes data that we intentionally submitt or share online?",
+    "options": [
+      "Passive digital footprint",
+      "Active digital footprint",
+      "Structural digital footprint",
+      "Anonymous digital footprint"
+    ],
+    "correct_index": 1,
+    "explanation": "An active digital footprint includes data that we intentionally submit online. Examples include sending an email, publishing a blog, or posting on social media.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q05",
+    "chapter_id": "c11",
+    "question": "What type of digital footprint is formed when data is collected without our explicit knowledge or active contribution?",
+    "options": [
+      "Active digital footprint",
+      "Passive digital footprint",
+      "Forced digital footprint",
+      "Direct digital footprint"
+    ],
+    "correct_index": 1,
+    "explanation": "A passive digital footprint is formed when data is collected without our knowledge or active contribution. Examples include web servers logs recording our IP address, location, and search history.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q06",
+    "chapter_id": "c11",
+    "question": "Why is it important to be careful about what we post or leave behind as a digital footprint?",
+    "options": [
+      "It can be erased completely by clearing the browser cache.",
+      "It is mostly permanent and can be used by marketing firms or potential employers.",
+      "It only remains online for 24 hours.",
+      "It increases our device processing speed."
+    ],
+    "correct_index": 1,
+    "explanation": "Digital footprints are mostly permanent because once something is online, it is very difficult to ensure its complete removal. This data can be analyzed by third parties like advertisers or future employers.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q07",
+    "chapter_id": "c11",
+    "question": "What encompasses the proper manners, behavior, and etiquettes required while communicating in the digital world?",
+    "options": [
+      "Netiguette (or Netiquette)",
+      "Cyber Law",
+      "Digital Footprint",
+      "Information Privacy"
+    ],
+    "correct_index": 0,
+    "explanation": "Netiguette (Netiquette) is a combination of 'net' and 'etiquette'. It refers to the set of rules or manners one should follow while communicating online.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q08",
+    "chapter_id": "c11",
+    "question": "Which of the following is considered a core ethical practice under Netiquette guidelines?",
+    "options": [
+      "Using caps-lock to emphasize points in an email",
+      "Respecting privacy and diversity while online",
+      "Forwarding unverified rumors on social media groups",
+      "Using other people's text without their permission"
+    ],
+    "correct_index": 1,
+    "explanation": "Netiquette includes showing respect for others' privacy, respecting diversity, being ethical, and avoiding cyberbullying.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q09",
+    "chapter_id": "c11",
+    "question": "In online communication, writing a message entirely in CAPITAL LETTERS is generally interpreted as what behavior?",
+    "options": [
+      "A sign of formal greeting",
+      "Shouting or being rude",
+      "A highly encrypted message format",
+      "A way to pass spam filters"
+    ],
+    "correct_index": 1,
+    "explanation": "Writing in all capital letters is considered the digital equivalent of shouting and is viewed as rude netiquette.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q10",
+    "chapter_id": "c11",
+    "question": "What is data privacy primarily concerned with in the digital landscape?",
+    "options": [
+      "Optimizing the hard disk storage capacity",
+      "The rights of individuals to control how their personal information is collected and used",
+      "The translation speed of language compilers",
+      "The number of characters allowed in user IDs"
+    ],
+    "correct_index": 1,
+    "explanation": "Data privacy is about rights of individuals to have control over how their personal data is collected, stored, and shared.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q11",
+    "chapter_id": "c11",
+    "question": "Which type of software is explicitly designed to track user behavior and gather personal data without their consent?",
+    "options": [
+      "Open-source applications",
+      "Spyware",
+      "System translators",
+      "Text editors"
+    ],
+    "correct_index": 1,
+    "explanation": "Spyware is a type of malicious software designed to track user behavior and collect personal information without the user's consent.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q12",
+    "chapter_id": "c11",
+    "question": "What are small text files deposited by websites on a user's computer to track preferences and session states called?",
+    "options": [
+      "Caches",
+      "Cookies",
+      "Footprints",
+      "Tokens"
+    ],
+    "correct_index": 1,
+    "explanation": "Cookies are small text files that websites place on a user's computer to store information about the user's preferences and activities.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q13",
+    "chapter_id": "c11",
+    "question": "What type of cookie is created by websites other than the one currently being viewed, often used for cross-site tracking and targeted ads?",
+    "options": [
+      "First-party cookies",
+      "Third-party cookies",
+      "Session cookies",
+      "Secure cookies"
+    ],
+    "correct_index": 1,
+    "explanation": "Third-party cookies are set by websites other than the one you are currently visiting, typically by advertising and tracking networks.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q14",
+    "chapter_id": "c11",
+    "question": "What concept refers to the unique legally recognized ownership rights over creations of the mind, such as inventions, literary works, and artistic designs?",
+    "options": [
+      "Digital Right Management",
+      "Intellectual Property Rights (IPR)",
+      "Public Domain Licensing",
+      "Open Access Credentials"
+    ],
+    "correct_index": 1,
+    "explanation": "Intellectual Property Rights (IPR) represent the legal rights given to creators to protect their inventions, literary works, and artistic designs.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q15",
+    "chapter_id": "c11",
+    "question": "What is the act of taking someone else's work, ideas, or expressions and passing them off as one's own without proper acknowledgement?",
+    "options": [
+      "Copyright infringement",
+      "Plagiarism",
+      "Trademark dilution",
+      "Phishing"
+    ],
+    "correct_index": 1,
+    "explanation": "Plagiarism is presenting someone else's work, ideas, or expressions as your own without giving them proper credit.",
+    "ncert_page": 5,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q16",
+    "chapter_id": "c11",
+    "question": "How can a writer or researcher effectively avoid the charge of plagiarism when utilizing external sources?",
+    "options": [
+      "By changing a few words in every sentence",
+      "By properly citing sources and giving credit to the original author",
+      "By translating the text into another language",
+      "By publishing the report anonymously"
+    ],
+    "correct_index": 1,
+    "explanation": "To avoid plagiarism, one must always acknowledge the source, use citations, and give due credit to the original creators.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q17",
+    "chapter_id": "c11",
+    "question": "What specific legal protection is granted to the creators of original literary, dramatic, musical, and artistic works?",
+    "options": [
+      "Patent",
+      "Copyright",
+      "Trademark",
+      "Trade Secret"
+    ],
+    "correct_index": 1,
+    "explanation": "Copyright is a legal right that protects original works of authorship, such as literature, music, drama, and artwork.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q18",
+    "chapter_id": "c11",
+    "question": "What occurs when someone uses, copies, or distributes a copyrighted work without obtaining explicit permission or legal authority from the owner?",
+    "options": [
+      "Copyright infringement",
+      "Fair use compliance",
+      "Open-source publishing",
+      "Patent protection"
+    ],
+    "correct_index": 0,
+    "explanation": "Copyright infringement is the unauthorized use, copying, or distribution of copyrighted material without permission from the copyright owner.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q19",
+    "chapter_id": "c11",
+    "question": "Which legal doctrine permits the limited use of copyrighted material without permission for purposes such as criticism, news reporting, teaching, or research?",
+    "options": [
+      "Digital rights clause",
+      "Fair Use",
+      "Public Domain allowance",
+      "Copyleft framework"
+    ],
+    "correct_index": 1,
+    "explanation": "Fair Use is a legal doctrine that allows limited use of copyrighted material without permission for educational, research, news reporting, or commentary purposes.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q20",
+    "chapter_id": "c11",
+    "question": "What type of software allows anyone to access, modify, and redistribute its source code freely?",
+    "options": [
+      "Proprietary software",
+      "Open-Source Software (OSS)",
+      "Freeware",
+      "Shareware"
+    ],
+    "correct_index": 1,
+    "explanation": "Open-Source Software (OSS) is software whose source code is made available to the public to use, modify, and distribute freely.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q21",
+    "chapter_id": "c11",
+    "question": "Which of the following is a prominent example of open-source software?",
+    "options": [
+      "Microsoft Windows",
+      "Linux Operating System",
+      "Adobe Photoshop",
+      "Mac OS"
+    ],
+    "correct_index": 1,
+    "explanation": "Linux is a well-known example of an open-source operating system, unlike commercial proprietary products like Windows or macOS.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q22",
+    "chapter_id": "c11",
+    "question": "What is software that can be downloaded and used free of cost, but its underlying source code cannot be modified or accessed called?",
+    "options": [
+      "Open-source software",
+      "Freeware",
+      "Proprietary software",
+      "Shareware"
+    ],
+    "correct_index": 1,
+    "explanation": "Freeware is software available free of cost for use, but its source code is not accessible or changeable.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q23",
+    "chapter_id": "c11",
+    "question": "What type of software is strictly owned by a creator or company, requires a paid license fee, and keeps its source code fully hidden?",
+    "options": [
+      "Free and open-source software",
+      "Proprietary software",
+      "Public domain utilities",
+      "Copyleft software"
+    ],
+    "correct_index": 1,
+    "explanation": "Proprietary software is commercial software owned by an individual or company, where the source code is kept secret and users must purchase a license.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q24",
+    "chapter_id": "c11",
+    "question": "What non-profit organization provides free standard public licenses that creators can use to give the public permission to share and use their creative work?",
+    "options": [
+      "Creative Commons (CC)",
+      "World Intellectual Property Organization",
+      "Digital Rights Movement",
+      "Cyber Law Authority"
+    ],
+    "correct_index": 0,
+    "explanation": "Creative Commons (CC) is a non-profit organization that provides free licenses allowing creators to grant permissions for public use of their work.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q25",
+    "chapter_id": "c11",
+    "question": "What term defines any illegal activity carried out using computers, digital networks, or the Internet?",
+    "options": [
+      "Netiquette violation",
+      "Cybercrime",
+      "Plagiarism infraction",
+      "Software bug"
+    ],
+    "correct_index": 1,
+    "explanation": "Cybercrime refers to criminal activities carried out using computers or the internet as a tool or target.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q26",
+    "chapter_id": "c11",
+    "question": "What type of cybercrime involves sending offensive, intimidating, or malicious messages to someone online repeatedly?",
+    "options": [
+      "Phishing",
+      "Cyberbullying",
+      "Plagiarism",
+      "Identity theft"
+    ],
+    "correct_index": 1,
+    "explanation": "Cyberbullying is the act of harassing, threatening, or intimidating individuals using digital communication channels.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q27",
+    "chapter_id": "c11",
+    "question": "What is the form of harassment where an individual uses the Internet to stalk or monitor a victim covertly and persistently?",
+    "options": [
+      "Phishing",
+      "Cyberstalking",
+      "Hacking",
+      "Identity theft"
+    ],
+    "correct_index": 1,
+    "explanation": "Cyberstalking is an online form of harassment where the criminal monitors or stalks a victim using the internet and digital tracking methods.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q28",
+    "chapter_id": "c11",
+    "question": "What crime is committed when someone steals another person's personal data (like usernames, passwords, or banking details) to pose as them for financial fraud?",
+    "options": [
+      "Copyright piracy",
+      "Identity theft",
+      "Cyberstalking",
+      "Plagiarism"
+    ],
+    "correct_index": 1,
+    "explanation": "Identity theft occurs when a criminal accesses personal information of a victim to impersonate them for financial gain or malicious activities.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q29",
+    "chapter_id": "c11",
+    "question": "What fraudulent process trick users into revealing sensitive details by sending spoofed emails that mimic legitimate organizations like banks?",
+    "options": [
+      "Phishing",
+      "Hacking",
+      "Slicing",
+      "Typo-squatting"
+    ],
+    "correct_index": 0,
+    "explanation": "Phishing is an online fraud method where scammers use fake emails or websites to trick users into revealing confidential passwords or credit card numbers.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q30",
+    "chapter_id": "c11",
+    "question": "What is the digital manipulation tactic where text or visuals are altered dynamically to hide a financial scam called?",
+    "options": [
+      "Phishing",
+      "Online fraud",
+      "Identity masking",
+      "Data promotion"
+    ],
+    "correct_index": 1,
+    "explanation": "Online fraud involves tricking or deceptive schemes executed on the internet to gain money or illegal trade entries from a victim.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q31",
+    "chapter_id": "c11",
+    "question": "What type of malware self-replicates and attaches itself to clean files to spread across systems, corrupting data?",
+    "options": [
+      "Computer Virus",
+      "Spyware",
+      "Adware",
+      "Cookie text"
+    ],
+    "correct_index": 0,
+    "explanation": "A computer virus is a type of malicious software that can replicate itself and spread to other programs, causing harm or altering data operations.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q32",
+    "chapter_id": "c11",
+    "question": "Unlike a standard virus, how does a computer Worm spread across computer networks?",
+    "options": [
+      "It requires a user to copy-paste it explicitly into an array.",
+      "It replicates itself automatically across a network without needing any human interaction or file attachment.",
+      "It transforms files into float formats.",
+      "It remains hidden inside printer drivers exclusively."
+    ],
+    "correct_index": 1,
+    "explanation": "A worm is a standalone malware program that replicates itself independently and spreads over networks without requiring any human action to execute.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q33",
+    "chapter_id": "c11",
+    "question": "What is the primary piece of legislation in India that deals directly with cybercrimes, e-commerce, and digital signatures?",
+    "options": [
+      "The Indian Penal Code of 1860",
+      "The Information Technology (IT) Act, 2000",
+      "The Consumer Protection Framework",
+      "The Digital Contract Regulation Act"
+    ],
+    "correct_index": 1,
+    "explanation": "The Information Technology (IT) Act, 2000 is India's primary legal framework explicitly addressing cybercrimes, digital signatures, and electronic governance.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q34",
+    "chapter_id": "c11",
+    "question": "What year was the primary Indian Information Technology Act amended significantly to include provisions against cyber terrorism and data leaks?",
+    "options": [
+      "2002",
+      "2005",
+      "2008",
+      "2012"
+    ],
+    "correct_index": 2,
+    "explanation": "The IT Act, 2000 was majorly amended in the year 2008 to introduce stricter clauses covering online frauds and data protection loopholes.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q35",
+    "chapter_id": "c11",
+    "question": "What major socio-economic gap exists between populations that have access to modern digital technologies and those who do not?",
+    "options": [
+      "Digital footprint discrepancy",
+      "Digital Divide",
+      "Technological Divide",
+      "Network separation barrier"
+    ],
+    "correct_index": 1,
+    "explanation": "The Digital Divide refers to the economic and social inequality regarding access to, use of, or impact of information and communication technologies.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q36",
+    "chapter_id": "c11",
+    "question": "Which factor is NOT listed as a major reason causing a distinct digital divide between global regions?",
+    "options": [
+      "Lack of digital infrastructure and connectivity",
+      "Affordability of smart computing hardware",
+      "Lack of digital literacy and training",
+      "The alphabetical naming convention variations of software products"
+    ],
+    "correct_index": 3,
+    "explanation": "The digital divide is driven by factors like infrastructure deficits, financial affordability, and education gaps, not software text variations.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q37",
+    "chapter_id": "c11",
+    "question": "What is electronic waste (e-waste) formally defined as?",
+    "options": [
+      "Spam emails accumulated over time",
+      "Discarded electronic devices and electrical components",
+      "Unused computer variables left inside memory",
+      "Temporary cookie cache files"
+    ],
+    "correct_index": 1,
+    "explanation": "E-waste stands for electronic waste, which comprises discarded electrical or electronic devices like broken computers, mobile phones, and chargers.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q38",
+    "chapter_id": "c11",
+    "question": "Which highly toxic element commonly found inside electronic circuit boards poses severe health hazards if disposed of improperly?",
+    "options": [
+      "Lead",
+      "Silicon",
+      "Gold",
+      "Carbon"
+    ],
+    "correct_index": 0,
+    "explanation": "E-waste contains dangerous heavy metals like lead, cadmium, and mercury, which can seep into ecosystems and cause severe toxic pollution.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q39",
+    "chapter_id": "c11",
+    "question": "What is considered the most sustainable and eco-friendly strategy to manage the global generation of e-waste?",
+    "options": [
+      "Burning old electronics in closed furnaces",
+      "Dumping discarded electronics into local landfills",
+      "The 3Rs strategy: Reduce, Reuse, and Recycle",
+      "Storing old computing gear indefinitely in household cabinets"
+    ],
+    "correct_index": 2,
+    "explanation": "To sustainably manage e-waste, we should implement the 3Rs strategy: Reduce electronic usage, Reuse functioning pieces, and Recycle materials through licensed handlers.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q40",
+    "chapter_id": "c11",
+    "question": "What is a common physical health hazard linked to poor posture and wrong chair heights during long computer working sessions?",
+    "options": [
+      "Repetitive Strain Injury (RSI) and neck pain",
+      "Insulin resistance fluctuations",
+      "Loss of fine motor hearing levels",
+      "Sudden respiratory block loops"
+    ],
+    "correct_index": 0,
+    "explanation": "Inappropriate posture during extensive computer usage leads to health concerns like ergonomics muscle fatigue, neck pain, and Repetitive Strain Injury (RSI).",
+    "ncert_page": 17,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q41",
+    "chapter_id": "c11",
+    "question": "What visual discomfort can occur from staring continuously at high-brightness computer monitors for hours without blinking?",
+    "options": [
+      "Glaucoma formation",
+      "Computer Vision Syndrome (CVS)",
+      "Color blindness transformation",
+      "Permanent structural index decay"
+    ],
+    "correct_index": 1,
+    "explanation": "Staring continuously at display terminals cause eye strains and blurred vision, collectively known as Computer Vision Syndrome (CVS).",
+    "ncert_page": 17,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q42",
+    "chapter_id": "c11",
+    "question": "Which psychological condition is often associated with compulsive checking of social feeds and extreme separation anxiety when disconnected from the Internet?",
+    "options": [
+      "Dementia loops",
+      "Internet Addiction and digital dependency",
+      "Plagiarism paranoia",
+      "Netiquette amnesia"
+    ],
+    "correct_index": 1,
+    "explanation": "Excessive and uncontrolled digital connectivity can lead to behavioral issues, psychological isolation, and severe internet addiction dependencies.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q43",
+    "chapter_id": "c11",
+    "question": "What simple posture adjustment helps lower the risk of eye strains when setting up a computer on a workstation table?",
+    "options": [
+      "Keep the screen completely tilted flat to match table surfaces.",
+      "Position the top of the monitor slightly below eye level at a comfortable viewing distance.",
+      "Place the display within 5 centimeters from your face.",
+      "Keep your chair at the lowest coordinate step possible."
+    ],
+    "correct_index": 1,
+    "explanation": "Good ergonomic setups require placing the monitor at a comfortable distance with its upper margin sitting slightly lower than horizontal eye levels.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q44",
+    "chapter_id": "c11",
+    "question": "What data-handling step describes the process of systematically sorting and taking apart discarded hardware elements to recover copper or gold safely?",
+    "options": [
+      "E-waste recycling and material processing",
+      "Data promotion conversions",
+      "Structural file slicing extraction",
+      "System software translation"
+    ],
+    "correct_index": 0,
+    "explanation": "E-waste recycling operations manually dismantle discarded computing items to extract valuable metals like copper and aluminum safely.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q45",
+    "chapter_id": "c11",
+    "question": "Under what circumstance does copying an entire text block from a website and dropping it inside a student project become legal and ethical?",
+    "options": [
+      "If the student changes the font style and alignment structures.",
+      "If the work is cited correctly and complies with fair use criteria limits.",
+      "If the assignment is uploaded via a proxy network router.",
+      "If the text block contains less than a thousand characters."
+    ],
+    "correct_index": 1,
+    "explanation": "To keep usage lawful, appropriate references must accompany the text quote to respect intellectual property limits under Fair Use.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q46",
+    "chapter_id": "c11",
+    "question": "What license model allows software tools to remain free for academic usage but restricts structural commercial distribution entirely?",
+    "options": [
+      "Proprietary license options",
+      "Restricted or custom proprietary freeware models",
+      "Creative Commons zero frameworks",
+      "Open-source copyleft models"
+    ],
+    "correct_index": 1,
+    "explanation": "Commercial firms provide restricted freeware alternatives that allow zero-fee use in learning environments but block profitable secondary distribution.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q47",
+    "chapter_id": "c11",
+    "question": "Which of the following describes the correct behavior when you receive an email from an unknown address offering a large cash prize in exchange for your password details?",
+    "options": [
+      "Reply immediately with a question about the prize currency.",
+      "Mark it as spam, ignore the request, and do not click any links.",
+      "Forward the email link to your friends.",
+      "Change your username to match the prize format."
+    ],
+    "correct_index": 1,
+    "explanation": "This is a phishing attempt. To protect data privacy, unverified messages asking for credentials should be ignored or deleted.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q48",
+    "chapter_id": "c11",
+    "question": "What form of digital footprint is generated by online search tracking engines recording the keyword phrases you type into a prompt query?",
+    "options": [
+      "Active digital footprint",
+      "Passive digital footprint",
+      "Forced configuration vector",
+      "Explicit user declaration"
+    ],
+    "correct_index": 1,
+    "explanation": "Since search engines record background queries implicitly without the user intentionally building a shared report file, it forms a passive digital footprint.",
+    "ncert_page": 2,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q49",
+    "chapter_id": "c11",
+    "question": "What is an individual who explores digital vulnerabilities or bypasses structural network permissions called?",
+    "options": [
+      "Hacker or cybercriminal",
+      "System compiler software",
+      "Data promoter operator",
+      "Structural logic loop tool"
+    ],
+    "correct_index": 0,
+    "explanation": "Individuals breaching digital barriers unauthorized to alter records or disrupt network entries fall under cybercriminals or malicious hackers.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c11_q50",
+    "chapter_id": "c11",
+    "question": "What is the primary objective of implementing digital etiquettes (Netiquette) in a classroom discussion group?",
+    "options": [
+      "To maximize processing cycles on the local hardware devices.",
+      "To foster a respectful, constructive, and safe online communication environment.",
+      "To bypass copyright legal obligations automatically.",
+      "To convert file structures into a flat format copy text."
+    ],
+    "correct_index": 1,
+    "explanation": "Following netiquette keeps group iterations healthy, respects participant diversity, and shields students from cyberbullying pitfalls.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  }
+]

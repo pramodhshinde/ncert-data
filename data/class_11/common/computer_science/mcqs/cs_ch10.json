@@ -1,0 +1,802 @@
+[
+  {
+    "mcq_id": "c10_q01",
+    "chapter_id": "c10",
+    "question": "Which of the following correctly describes the fundamental characteristics of a tuple in Python?",
+    "options": [
+      "An unordered sequence of elements that is mutable",
+      "An ordered sequence of elements that is immutable",
+      "An unordered mapping of key-value pairs",
+      "A mutable sequence that allows only uniform data types"
+    ],
+    "correct_index": 1,
+    "explanation": "A tuple is an ordered sequence of elements of different data types, such as integer, float, string, list or even a tuple. Unlike lists, tuples are immutable.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q02",
+    "chapter_id": "c10",
+    "question": "What standard characters are used to enclose the elements of a tuple in Python?",
+    "options": [
+      "Square brackets `[]`",
+      "Curly braces `{}`",
+      "Parenthesis or round brackets `()`",
+      "Angle brackets `<>`"
+    ],
+    "correct_index": 2,
+    "explanation": "Elements of a tuple are enclosed in parenthesis (round brackets) and are separated by commas.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q03",
+    "chapter_id": "c10",
+    "question": "What is the initial index value used to access the first element of a tuple from the left?",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "Any user-defined integer"
+    ],
+    "correct_index": 1,
+    "explanation": "Like lists and strings, elements of a tuple can be accessed using index values starting from 0.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q04",
+    "chapter_id": "c10",
+    "question": "If you want to create a tuple containing only a single element, say integer 10, how must it be declared?",
+    "options": [
+      "`tup = (10)`",
+      "`tup = tuple(10)`",
+      "`tup = (10,)`",
+      "`tup = [10]`"
+    ],
+    "correct_index": 2,
+    "explanation": "To create a tuple with a single element, you must add a trailing comma after the element, such as `(10,)`. Otherwise, Python treats it as a regular integer wrapped in parentheses.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q05",
+    "chapter_id": "c10",
+    "question": "What data type is generated if you execute the statement `type((5))` in the Python shell?",
+    "options": [
+      "<class 'tuple'>",
+      "<class 'int'>",
+      "<class 'list'>",
+      "<class 'parenthesis'>"
+    ],
+    "correct_index": 1,
+    "explanation": "Enclosing a single primitive value in parentheses without a trailing comma is interpreted simply as that value type. Thus, `type((5))` returns `<class 'int'>`.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q06",
+    "chapter_id": "c10",
+    "question": "What type of error is thrown if you try to change or update an element of a tuple directly using an item assignment like `tuple1[0] = 15`?",
+    "options": [
+      "IndexError",
+      "ValueError",
+      "TypeError",
+      "AttributeError"
+    ],
+    "correct_index": 2,
+    "explanation": "Tuples are immutable; therefore, item assignment is not supported and triggers a `TypeError: 'tuple' object does not support item assignment`.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q07",
+    "chapter_id": "c10",
+    "question": "If a tuple contains a mutable object as an element, such as a list inside `tuple1 = (1, 2, [3, 4])`, can the elements of that internal list be modified?",
+    "options": [
+      "No, because the entire tuple structure is strictly immutable.",
+      "Yes, the elements of the nested list can be modified in place.",
+      "Yes, but it requires explicit conversion functions.",
+      "No, doing so triggers a mandatory NameError."
+    ],
+    "correct_index": 1,
+    "explanation": "Although a tuple itself is immutable, if it contains a mutable element like a list, that internal list's elements can be safely modified.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q08",
+    "chapter_id": "c10",
+    "question": "What operation is performed when using the `+` operator between two distinct tuples?",
+    "options": [
+      "Mathematical element-wise addition",
+      "Concatenation to join the tuples into a new tuple",
+      "Conversion into a flat nested list",
+      "Intersection filtering of shared keys"
+    ],
+    "correct_index": 1,
+    "explanation": "Python allows us to join two or more tuples using the concatenation operator denoted by `+`.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q09",
+    "chapter_id": "c10",
+    "question": "What is the result of executing the statement `('Go',) * 3` in Python?",
+    "options": [
+      "`('GoGoGo',)`",
+      "`('Go', 'Go', 'Go')`",
+      "`(['Go'], ['Go'], ['Go'])`",
+      "A script runtime crash error"
+    ],
+    "correct_index": 1,
+    "explanation": "The repetition operator `*` duplicates the components of a tuple a specified number of times, generating `('Go', 'Go', 'Go')`.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q10",
+    "chapter_id": "c10",
+    "question": "Which operators are used to check if an element is present or absent within a tuple sequence?",
+    "options": [
+      "`is` and `is not`",
+      "`in` and `not in`",
+      "`==` and `!=`",
+      "`find` and `search`"
+    ],
+    "correct_index": 0,
+    "explanation": "The membership operators `in` and `not in` can be used with tuples to verify whether an item exists inside the tuple.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q11",
+    "chapter_id": "c10",
+    "question": "What segment-isolation practice allows capturing a subset range of tuple entries using a `tuple[start:stop]` statement?",
+    "options": [
+      "Indexing",
+      "Slicing",
+      "Splitting",
+      "Aliasing"
+    ],
+    "correct_index": 1,
+    "explanation": "Like strings and lists, tuple slicing enables accessing a specific subpart of a tuple sequence range.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q12",
+    "chapter_id": "c10",
+    "question": "If `tup = (10, 20, 30, 40, 50)`, what is the output of evaluating the slice expression `tup[1:4]`?",
+    "options": [
+      "`(10, 20, 30)`",
+      "`(20, 30, 40)`",
+      "`(20, 30, 40, 50)`",
+      "`(30, 40)`"
+    ],
+    "correct_index": 1,
+    "explanation": "Slicing extraction is inclusive of the `start` index (1 -> 20) and exclusive of the `stop` index (4 -> 50 is omitted), giving `(20, 30, 40)`.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q13",
+    "chapter_id": "c10",
+    "question": "What is the outcome of using a negative step increment slice expression like `tuple1[::-1]`?",
+    "options": [
+      "Returns an identical tuple object unchanged",
+      "Returns an empty tuple sequence bracket",
+      "Returns a copy of the entire tuple in reverse order",
+      "Triggers an immediate IndexError warning"
+    ],
+    "correct_index": 2,
+    "explanation": "A negative step size parameter reverses the trajectory sequence, returning the tuple items in reverse order.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q14",
+    "chapter_id": "c10",
+    "question": "Which statement is true regarding tuple assignment operations like `(a, b, c) = (10, 20, 30)`?",
+    "options": [
+      "It binds all three variables to a single nested collection vector.",
+      "It assigns individual values to multiple variable components in a single line.",
+      "It requires a loop construct to parse individual entries.",
+      "It updates the values into a global mapping format instead."
+    ],
+    "correct_index": 1,
+    "explanation": "Tuple assignment allows variables on the left to be assigned individual matching elements from a tuple on the right concurrently.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q15",
+    "chapter_id": "c10",
+    "question": "What is the elegant way to swap values between two variables `a` and `b` in Python using tuple features?",
+    "options": [
+      "`a = b; b = a`",
+      "`a, b = b, a`",
+      "`swap(a, b)`",
+      "`del a, b`"
+    ],
+    "correct_index": 1,
+    "explanation": "Tuple assignment provides an elegant shortcut to clear expression swapping without temporary variables via `a, b = b, a`.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q16",
+    "chapter_id": "c10",
+    "question": "What function allows turning an arbitrary iterable structure, like a string or list, explicitly into a Python tuple?",
+    "options": [
+      "`cast()`",
+      "`to_tuple()`",
+      "`tuple()`",
+      "`parenthesis()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The built-in `tuple()` constructor function takes an iterable object as an argument and builds a tuple container out of it.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q17",
+    "chapter_id": "c10",
+    "question": "Which built-in function yields the total count of elements inside a tuple structure?",
+    "options": [
+      "`count()`",
+      "`size()`",
+      "`len()`",
+      "`length()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The built-in function `len()` returns the total number of elements contained in the target tuple.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q18",
+    "chapter_id": "c10",
+    "question": "What is the distinct difference between the `len()` function and the tuple method `count()`?",
+    "options": [
+      "`len()` counts overall records; `count()` tallies occurrences of a specific element.",
+      "`count()` maps line variables; `len()` acts as an exception filter.",
+      "They are identical synonyms used interchangeably.",
+      "`len()` processes strings while `count()` functions only on floats."
+    ],
+    "correct_index": 0,
+    "explanation": "While `len()` delivers the total length count, the tuple method `count(x)` searches and counts the occurrences of a specified item `x`.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q19",
+    "chapter_id": "c10",
+    "question": "Which tuple method returns the first index location of a matching element value parameter?",
+    "options": [
+      "`find()`",
+      "`index()`",
+      "`search()`",
+      "`location()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The `index()` method returns the index of the first occurrence of a specified element inside a tuple.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q20",
+    "chapter_id": "c10",
+    "question": "What does the built-in function `sorted()` do when provided with a tuple as an argument?",
+    "options": [
+      "Sorts the tuple elements in place permanently.",
+      "Returns a new sorted list containing the tuple elements.",
+      "Converts the elements into sorted string dictionary mappings.",
+      "Throws a error because immutable sequences cannot be organized."
+    ],
+    "correct_index": 1,
+    "explanation": "The `sorted()` function returns a fresh sorted **list** containing elements of the input tuple. It does not alter the original tuple.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q21",
+    "chapter_id": "c10",
+    "question": "What happens if you pack multiple variable returns from a user-defined function without wrapping them in brackets explicitly?",
+    "options": [
+      "The program generates a syntax structural error.",
+      "Python automatically bundles the values together into a single tuple return.",
+      "Only the first variable gets sent back to the caller.",
+      "The objects get forced into integer promotions automatically."
+    ],
+    "correct_index": 1,
+    "explanation": "When a function returns multiple values separated by commas, Python implicitly packs them and returns them as a single tuple.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q22",
+    "chapter_id": "c10",
+    "question": "Which core categorization grouping does the 'Dictionary' data type fall under in Python?",
+    "options": [
+      "Sequence structures",
+      "Mapping structures",
+      "Sets arrays",
+      "NoneType vectors"
+    ],
+    "correct_index": 1,
+    "explanation": "A dictionary falls under the category of mapping structures. It is a mutable, unordered collection of items stored as key-value pairs.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q23",
+    "chapter_id": "c10",
+    "question": "How are key-value entries mapped and structured syntactically inside a Python dictionary?",
+    "options": [
+      "Keys and values are separated by hyphens inside square brackets.",
+      "Keys and values are separated by a colon `:`, with pairs enclosed in curly braces `{}`.",
+      "Keys and values are bound by equals signs inside round parentheses.",
+      "Keys and values are linked by arrows inside angle delimiters."
+    ],
+    "correct_index": 2,
+    "explanation": "Each key is separated from its value by a colon (`:`). The items are separated by commas, and the whole collection is enclosed in curly braces `{}`.",
+    "ncert_page": 9,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q24",
+    "chapter_id": "c10",
+    "question": "What is a strict constraint requirement regarding dictionary keys in Python?",
+    "options": [
+      "Keys must be mutable object types like lists.",
+      "Each key must be unique and belong to an immutable data type.",
+      "Keys must be uniform integer digits strictly.",
+      "Keys cannot be longer than a single string text character."
+    ],
+    "correct_index": 1,
+    "explanation": "Keys of a dictionary must be unique and must belong to an immutable data type, such as a string, integer, or tuple.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q25",
+    "chapter_id": "c10",
+    "question": "What happens if you insert a duplicate key entry with a new value inside a dictionary?",
+    "options": [
+      "The interpreter throws a duplicate allocation syntax exception.",
+      "The new value overwrites the old value associated with that key.",
+      "The entry is completely ignored by the interpreter shell.",
+      "A nested sub-dictionary is built automatically."
+    ],
+    "correct_index": 1,
+    "explanation": "Dictionary keys must be unique. If an existing key is assigned a new value, the old value is overridden.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q26",
+    "chapter_id": "c10",
+    "question": "Which of the following data types is NOT allowed to be used as a dictionary key?",
+    "options": [
+      "String",
+      "Integer",
+      "List",
+      "Tuple"
+    ],
+    "correct_index": 2,
+    "explanation": "Since lists are mutable data types, they cannot be hashed or used as dictionary keys. Keys must be immutable.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q27",
+    "chapter_id": "c10",
+    "question": "How do you declare a completely empty dictionary structure in a Python script?",
+    "options": [
+      "`dict1 = []`",
+      "`dict1 = {}`",
+      "`dict1 = ()`",
+      "`dict1 = empty()`"
+    ],
+    "correct_index": 1,
+    "explanation": "An empty pair of curly braces `{}` initializes a dictionary containing no key-value pairs.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q28",
+    "chapter_id": "c10",
+    "question": "How can you look up or access a value associated with a key inside a dictionary?",
+    "options": [
+      "By passing the key as an integer coordinate index.",
+      "By placing the key inside square brackets right after the dictionary name.",
+      "By calling an explicit positioning algorithm method.",
+      "By typing the key value onto a special verification shell."
+    ],
+    "correct_index": 1,
+    "explanation": "To access values in a dictionary, square brackets are used along with the specific key name, such as `dict1['key']`.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q29",
+    "chapter_id": "c10",
+    "question": "What type of error occurs if you try to look up a key that does not exist in the dictionary using the bracket notation?",
+    "options": [
+      "IndexError",
+      "KeyError",
+      "ValueError",
+      "TypeError"
+    ],
+    "correct_index": 1,
+    "explanation": "Trying to access a non-existent key using bracket lookup notation triggers a `KeyError` exception.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q30",
+    "chapter_id": "c10",
+    "question": "How can you check if a specific key exists within a dictionary without risking a runtime error?",
+    "options": [
+      "Use the membership operators `in` or `not in`.",
+      "Run an index location loop lookup scan.",
+      "Compare the key against dictionary lengths values.",
+      "Verify via a structural type casting calculation."
+    ],
+    "correct_index": 0,
+    "explanation": "The membership operators `in` and `not in` check for key presence in a dictionary and safely return `True` or `False`.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q31",
+    "chapter_id": "c10",
+    "question": "Because dictionaries are mutable, what happens when you write a statement like `dict1['new_key'] = 'value'` for a key that does not currently exist?",
+    "options": [
+      "It raises a KeyError.",
+      "It appends a completely new key-value pair to the dictionary seamlessly.",
+      "It inserts the value into index zero automatically.",
+      "It locks up the dictionary structure into a read-only matrix format."
+    ],
+    "correct_index": 1,
+    "explanation": "Assigning a value to a non-existent key adds that key-value pair to the dictionary.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q32",
+    "chapter_id": "c10",
+    "question": "Which statement can be used to remove a specific key-value pair from a dictionary using its key?",
+    "options": [
+      "`remove`",
+      "`del` statement",
+      "`pop_back`",
+      "`clear`"
+    ],
+    "correct_index": 1,
+    "explanation": "The `del` statement followed by the dictionary key expression, like `del dict1['key']`, deletes that item pair.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q33",
+    "chapter_id": "c10",
+    "question": "What happens if you loop through a dictionary directly using a standard `for key in dict1:` structure?",
+    "options": [
+      "The loop iterates over the individual values only.",
+      "The loop iterates over each key sequentially.",
+      "The loop returns a combined packed tuple layout pair rows.",
+      "The loop alters the indentation formatting variables rules."
+    ],
+    "correct_index": 1,
+    "explanation": "When iterating over a dictionary directly with a `for` loop, the control variable yields the dictionary keys one by one.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q34",
+    "chapter_id": "c10",
+    "question": "Which function calculates and returns the total item count (length) of key-value pairs inside a dictionary?",
+    "options": [
+      "`dict_size()`",
+      "`len()`",
+      "`count()`",
+      "`items()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The built-in function `len()` returns the total number of items or pairs stored in the dictionary.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q35",
+    "chapter_id": "c10",
+    "question": "What function initializes and creates an explicit dictionary directly from an external sequence list of key-value tuple pairs?",
+    "options": [
+      "`make_dict()`",
+      "`dict()`",
+      "`map()`",
+      "`json()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The built-in `dict()` constructor creates a dictionary structure when supplied with appropriate structures like paired sequences.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q36",
+    "chapter_id": "c10",
+    "question": "Which dictionary method returns a dynamic view containing all the distinct keys of that dictionary?",
+    "options": [
+      "`show_keys()`",
+      "`keys()`",
+      "`values()`",
+      "`items()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The dictionary method `keys()` returns a view object that displays a list of all the keys present in the dictionary.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q37",
+    "chapter_id": "c10",
+    "question": "Which dictionary method extracts and returns all the associated values contained in the mapping, omitting their corresponding keys?",
+    "options": [
+      "`keys()`",
+      "`values()`",
+      "`items()`",
+      "`get()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The dictionary method `values()` extracts a view containing only the values present across the dictionary entries.",
+    "ncert_page": 14,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q38",
+    "chapter_id": "c10",
+    "question": "What format type is returned by invoking the dictionary method `dict1.items()`?",
+    "options": [
+      "A single flattened string chain sequence.",
+      "A view object containing a list of key-value pairs as tuples.",
+      "An array of float markers mappings pointers.",
+      "A nested group of empty dictionary branches tables."
+    ],
+    "correct_index": 1,
+    "explanation": "The `items()` method returns a view object displaying structured list iterations of key-value pairs packaged as tuples, e.g., `(key, value)`.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q39",
+    "chapter_id": "c10",
+    "question": "How does the dictionary method `get(key, default)` provide a safer alternative to regular bracket indexing lookups?",
+    "options": [
+      "It converts float entries into integer calculations implicitly.",
+      "It returns a chosen fallback default value instead of throwing a KeyError if the key is missing.",
+      "It forces matching items to sort automatically in ascending pathways.",
+      "It seals the record from being deleted by subsequent script blocks."
+    ],
+    "correct_index": 1,
+    "explanation": "The `get()` method looks up a key, and if that key does not exist, it safely returns a second fallback parameter value instead of crashing with a KeyError.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q40",
+    "chapter_id": "c10",
+    "question": "If you look up a missing key via `dict1.get('missing_key')` without specifying an explicit secondary default parameter argument, what does it return?",
+    "options": [
+      "Zero ($0$)",
+      "False",
+      "None",
+      "An empty string (`\"\"`)"
+    ],
+    "correct_index": 2,
+    "explanation": "By default, if the key is not found and no custom fallback parameter is declared, the `get()` method returns `None`.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q41",
+    "chapter_id": "c10",
+    "question": "Which method appends or updates key-value pairs from an external dictionary data source directly into the current dictionary object?",
+    "options": [
+      "`append()`",
+      "`extend()`",
+      "`update()`",
+      "`merge()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The `update()` method inserts or merges key-value pairs from another dictionary structure, overriding overlapping keys in place.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q42",
+    "chapter_id": "c10",
+    "question": "Which dictionary method empties out the database records completely, resetting it to zero entry structures?",
+    "options": [
+      "`pop()`",
+      "`del`",
+      "`clear()`",
+      "`reset()`"
+    ],
+    "correct_index": 2,
+    "explanation": "The `clear()` method sweeps and deletes all components from a dictionary, leaving it empty.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q43",
+    "chapter_id": "c10",
+    "question": "What is the specialized function of the method statement `dict1.pop(key)`?",
+    "options": [
+      "Removes the last item added to the dictionary format context.",
+      "Removes and returns the value of the specified key from the dictionary.",
+      "Clears all comments symbols rows underneath the line sequence.",
+      "Typecasts the first key value into a localized tuple scope list."
+    ],
+    "correct_index": 1,
+    "explanation": "The `pop()` method removes a specified key from the dictionary and returns its corresponding value.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q44",
+    "chapter_id": "c10",
+    "question": "What happens if you try to clear or pop a missing key via `dict1.pop('unknown')` without adding a secondary parameter condition?",
+    "options": [
+      "It returns a default None value silently.",
+      "It raises a KeyError.",
+      "It clears the whole dictionary object automatically.",
+      "It shifts control back to an interactive prompt format loop."
+    ],
+    "correct_index": 1,
+    "explanation": "If the key is not found in the dictionary, `pop()` raises a `KeyError` unless a secondary fallback argument was explicitly passed.",
+    "ncert_page": 16,
+    "difficulty": "hard",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q45",
+    "chapter_id": "c10",
+    "question": "What function takes a sequence list of numbers or characters and returns a list containing all entries organized sorted by key values?",
+    "options": [
+      "`sort()`",
+      "`sorted()`",
+      "`arrange()`",
+      "`dict_sort()`"
+    ],
+    "correct_index": 1,
+    "explanation": "The built-in function `sorted()` takes dictionary items and extracts a new sorted list sorted based on keys values by default.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q46",
+    "chapter_id": "c10",
+    "question": "Which of the following describes a nested dictionary structure in Python?",
+    "options": [
+      "A dictionary that contains only tuple elements.",
+      "A dictionary where one or more values are themselves other dictionaries.",
+      "A dictionary that can be accessed only inside an if statement.",
+      "A dictionary that shares variable scopes via explicit global flags."
+    ],
+    "correct_index": 1,
+    "explanation": "A dictionary inside another dictionary is called a nested dictionary. This occurs when a key maps to another dictionary structure.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q47",
+    "chapter_id": "c10",
+    "question": "In the Case Study code example, what specific dictionary structure is chosen to bundle employee entries containing names, salaries, and departments logically?",
+    "options": [
+      "A simple linear list sequence matrix",
+      "A nested dictionary using Employee IDs as outer keys",
+      "An array of string tokens values text",
+      "A single flat immutable tuple block line"
+    ],
+    "correct_index": 1,
+    "explanation": "The text implements an SMIS architecture where dictionary data structures handle key-value metrics elegantly using IDs as outer lookup parameters.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q48",
+    "chapter_id": "c10",
+    "question": "What is the value of `tup1` after evaluating the statement `tup1 = (1, 2) + (3, 4)`?",
+    "options": [
+      "`(4, 6)`",
+      "`(1, 2, 3, 4)`",
+      "`((1, 2), (3, 4))`",
+      "TypeError: cannot add tuples"
+    ],
+    "correct_index": 1,
+    "explanation": "The `+` operator concatenates the elements of both tuples sequentially, returning a single combined tuple: `(1, 2, 3, 4)`.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q49",
+    "chapter_id": "c10",
+    "question": "Given `dict1 = {'a': 10, 'b': 20}`, what happens if you execute the statement `dict1['a'] = 100`?",
+    "options": [
+      "It adds a new pair `{'a': 100}` to the dictionary.",
+      "It updates the value of the existing key 'a' to 100.",
+      "It triggers a duplicate key syntax exception.",
+      "It removes the key 'a' from the dictionary completely."
+    ],
+    "correct_index": 1,
+    "explanation": "Since keys are unique, assigning a new value to an existing key updates its value in place without duplicating the key entry.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Computer Science"
+  },
+  {
+    "mcq_id": "c10_q50",
+    "chapter_id": "c10",
+    "question": "What is the expected outcome of running `list((1, 2, 3))` in the Python shell?",
+    "options": [
+      "`(1, 2, 3)`",
+      "`[1, 2, 3]`",
+      "`[[1], [2], [3]]`",
+      "TypeError: tuples are unchangeable"
+    ],
+    "correct_index": 1,
+    "explanation": "The built-in `list()` constructor takes the elements of an iterable sequence like a tuple and converts them into a mutable list array container.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Computer Science"
+  }
+]

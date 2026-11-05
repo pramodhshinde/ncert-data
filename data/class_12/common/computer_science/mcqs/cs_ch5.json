@@ -1,0 +1,802 @@
+[
+    {
+        "question": "What is the process of arranging a given collection of elements in a particular order called?",
+        "options": [
+            "Searching",
+            "Sorting",
+            "Hashing",
+            "Filtering"
+        ],
+        "explanation": "Sorting is the process of ordering or arranging a given collection of elements in some particular order.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q1",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 67
+    },
+    {
+        "question": "Arranging a collection of numbers from the lowest value to the highest value is known as:",
+        "options": [
+            "Descending order",
+            "Random order",
+            "Ascending order",
+            "Alphabetical order"
+        ],
+        "explanation": "We can sort a collection of numbers in ascending (increasing) or descending (decreasing) order.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q2",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 67
+    },
+    {
+        "question": "Why are words in a dictionary arranged in alphabetical order?",
+        "options": [
+            "To save printing ink",
+            "To ease the process of searching",
+            "To satisfy mathematical rules",
+            "To make it look visually appealing"
+        ],
+        "explanation": "Imagine finding the meaning of a word from a dictionary that is not ordered... That is why dictionaries have the words in alphabetical order and it ease the process of searching.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q3",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 67
+    },
+    {
+        "question": "What is the extra time taken by a sorting algorithm to arrange items called?",
+        "options": [
+            "Execution limit",
+            "Runtime delay",
+            "Overhead",
+            "Latency"
+        ],
+        "explanation": "Sorting a large number of items can take a substantial amount of time. However, this extra time (called overhead) is worth when compared to the amount of time needed to find an element from an unsorted list.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q4",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 68
+    },
+    {
+        "question": "Which sorting technique repeatedly compares adjacent elements and swaps them if they are unordered?",
+        "options": [
+            "Selection sort",
+            "Insertion sort",
+            "Bubble sort",
+            "Merge sort"
+        ],
+        "explanation": "Bubble sort sorts a given list of elements by repeatedly comparing the adjacent elements and swapping them if they are unordered.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q5",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 68
+    },
+    {
+        "question": "In sorting algorithms, what does the term 'swapping' mean?",
+        "options": [
+            "Removing an element from the list",
+            "Changing the positions of two elements with each other",
+            "Copying an element to another list",
+            "Comparing two elements"
+        ],
+        "explanation": "Swapping two elements means changing their positions with each other.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q6",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 68
+    },
+    {
+        "question": "What is every iteration through each element of a list in a sorting algorithm called?",
+        "options": [
+            "A loop",
+            "A cycle",
+            "A pass",
+            "A step"
+        ],
+        "explanation": "In algorithm, every iteration through each element of a list is called a pass.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q7",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 68
+    },
+    {
+        "question": "For a list with 'n' elements, what is the maximum number of passes Bubble sort makes to sort the list?",
+        "options": [
+            "n",
+            "n + 1",
+            "n / 2",
+            "n - 1"
+        ],
+        "explanation": "For a list with n elements, the bubble sort makes a total of n - 1 passes to sort the list.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q8",
+        "chapter_id": "cs_ch5",
+        "correct_index": 3,
+        "ncert_page": 68
+    },
+    {
+        "question": "In Bubble sort (ascending order), what happens to the largest element after the first pass?",
+        "options": [
+            "It is placed at the beginning of the list",
+            "It is removed from the list",
+            "It reaches the end of the list",
+            "It stays in the middle of the list"
+        ],
+        "explanation": "After the first pass, the largest element will reach the end of the list as shown in Figure 5.1.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q9",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 68
+    },
+    {
+        "question": "Why is the Bubble sort algorithm named so?",
+        "options": [
+            "Because it creates bubbles in the memory",
+            "Because the largest element is considered as being 'bubbled up' to the correct position",
+            "Because it is the fastest sorting technique",
+            "Because it uses circular arrays"
+        ],
+        "explanation": "This can be considered as the largest element being 'bubbled up'. Hence the name Bubble sort.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q10",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 68
+    },
+    {
+        "question": "In the Bubble sort algorithm, why does the inner loop limit decrease with each pass?",
+        "options": [
+            "To increase the time complexity",
+            "Because the elements at the end are already sorted in previous passes",
+            "Because the list size physically shrinks",
+            "To avoid memory overflow"
+        ],
+        "explanation": "In Program 5-1, the inner loop runs for `j in range(0, n-i-1)` because the last `i` elements are already sorted in previous passes.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q11",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 70
+    },
+    {
+        "question": "If there is no swapping in any pass of a Bubble sort, what does it indicate?",
+        "options": [
+            "The algorithm has failed",
+            "The list is already sorted",
+            "The list is empty",
+            "The elements are all negative"
+        ],
+        "explanation": "Think and Reflect: If there is no swapping in any pass, it means the list is already sorted, hence the sorting operation needs to be stopped.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q12",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 68
+    },
+    {
+        "question": "Which two elements are compared in the first step of the first pass in Bubble sort?",
+        "options": [
+            "Element at index 0 and the last element",
+            "Element at index 0 and element at index 1",
+            "The middle element and the first element",
+            "Element at index 1 and element at index 2"
+        ],
+        "explanation": "To begin sorting, the element at index 0 is compared with the element at index 1. If the first element is bigger, it is swapped with the second.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q13",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 68
+    },
+    {
+        "question": "What is the condition used in Python to swap two elements `list1[j]` and `list1[j+1]` in an ascending Bubble sort?",
+        "options": [
+            "if list1[j] < list1[j+1]:",
+            "if list1[j] == list1[j+1]:",
+            "if list1[j] > list1[j+1]:",
+            "if list1[j] != list1[j+1]:"
+        ],
+        "explanation": "In Program 5-1: `if list1[j] > list1[j+1]:` then the elements are swapped to push the larger element towards the right.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q14",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 70
+    },
+    {
+        "question": "How does Selection sort logically divide the list during its execution?",
+        "options": [
+            "Into a sorted left list and an unsorted right list",
+            "Into positive numbers and negative numbers",
+            "Into even indices and odd indices",
+            "Into two halves of exactly equal size"
+        ],
+        "explanation": "The list is considered to be divided into two lists – the left list containing the sorted elements, and the right list containing the unsorted elements.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q15",
+        "chapter_id": "cs_ch5",
+        "correct_index": 0,
+        "ncert_page": 71
+    },
+    {
+        "question": "In Selection sort, initially, what is the state of the left (sorted) list?",
+        "options": [
+            "It contains the first element",
+            "It contains the smallest element",
+            "It is empty",
+            "It contains the largest element"
+        ],
+        "explanation": "Initially, the left list is empty, and the right list contains all the elements.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q16",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 71
+    },
+    {
+        "question": "What action is performed in the first pass of an ascending Selection sort?",
+        "options": [
+            "The largest element is swapped with the rightmost element",
+            "The smallest element is found and swapped with the leftmost element of the unsorted list",
+            "Adjacent elements are swapped iteratively",
+            "The list is reversed"
+        ],
+        "explanation": "For arranging elements in ascending order, in the first pass, all the elements in the unsorted list are traversed to find the smallest element. The smallest element is then swapped with the leftmost element of the unsorted list.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q17",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 71
+    },
+    {
+        "question": "How many passes does Selection sort make to sort a list of 'n' elements?",
+        "options": [
+            "n",
+            "n + 1",
+            "n / 2",
+            "n - 1"
+        ],
+        "explanation": "To sort a list having n elements, the selection sort makes (n-1) number of passes through the list.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q18",
+        "chapter_id": "cs_ch5",
+        "correct_index": 3,
+        "ncert_page": 71
+    },
+    {
+        "question": "In Selection sort, why does the unsorted list reduce by one element after each pass?",
+        "options": [
+            "Because the element is deleted",
+            "Because the smallest found element occupies its correct position in the sorted list and is not considered further",
+            "Because elements are combined together",
+            "Because the algorithm skips elements randomly"
+        ],
+        "explanation": "This element occupies the first position in the sorted list, and it is not considered in further passes. ...the unsorted list reduces by one element for the third pass.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q19",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 71
+    },
+    {
+        "question": "In the Python implementation of Selection sort (Program 5-2), what is the purpose of the `min` variable?",
+        "options": [
+            "To store the value of the smallest element",
+            "To store the index of the current smallest element found in the unsorted portion",
+            "To count the number of swaps",
+            "To store the maximum value possible"
+        ],
+        "explanation": "In Program 5-2, `min = i` initially, and if `list2[j] < list2[min]`, `min = j` is executed. Thus, it stores the index of the smallest element.",
+        "difficulty": "hard",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q20",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 74
+    },
+    {
+        "question": "What is the role of the `flag` variable in the Python code for Selection sort (Program 5-2)?",
+        "options": [
+            "To count total iterations",
+            "To decide whether a swap is necessary (i.e., a smaller element was found)",
+            "To terminate the program",
+            "To indicate if the list contains negative numbers"
+        ],
+        "explanation": "The comment in Program 5-2 says `#to decide when to swap`. `flag = 1` is set if a next smallest element is found.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q21",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 74
+    },
+    {
+        "question": "If a list has 6 elements, what happens to the 6th (last) element in Selection sort?",
+        "options": [
+            "It is swapped with the first element",
+            "It requires a special 6th pass to sort",
+            "It is already in place after n-1 (5) passes",
+            "It is ignored by the algorithm"
+        ],
+        "explanation": "This process continues until n-1 smallest elements are found and moved to their respective places. The nth element is the last, and it is already in place.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q22",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 71
+    },
+    {
+        "question": "Which sorting algorithm works similarly to placing playing cards in their correct position in your hand?",
+        "options": [
+            "Bubble Sort",
+            "Selection Sort",
+            "Insertion Sort",
+            "Merge Sort"
+        ],
+        "explanation": "Summary: Insertion Sort places the element of a list at its suitable place in each pass. It is similar to the placing of cards at its right position while playing cards.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q23",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 79
+    },
+    {
+        "question": "Like Selection sort, Insertion sort also divides the list into:",
+        "options": [
+            "A sorted part and an unsorted part",
+            "Odd and even parts",
+            "Positive and negative parts",
+            "Upper and lower halves"
+        ],
+        "explanation": "Like Selection sort, in Insertion sort also, the list is divided into two parts – one of sorted elements and another of unsorted elements.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q24",
+        "chapter_id": "cs_ch5",
+        "correct_index": 0,
+        "ncert_page": 74
+    },
+    {
+        "question": "In Insertion sort, how is the sorted list traversed to find the correct position for the unsorted element?",
+        "options": [
+            "From the forward direction",
+            "From the backward direction",
+            "From the middle to the ends",
+            "Randomly"
+        ],
+        "explanation": "In each pass, the sorted list is traversed from the backward direction to find the position where the unsorted element could be inserted.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q25",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 74
+    },
+    {
+        "question": "In the very first pass of Insertion sort, what is the size of the sorted list?",
+        "options": [
+            "0 elements",
+            "1 element",
+            "2 elements",
+            "n/2 elements"
+        ],
+        "explanation": "In pass 1, the unsorted list has n-1 elements and the sorted list has a single element.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q26",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 74
+    },
+    {
+        "question": "In Insertion sort, if an unsorted element is smaller than an element in the sorted list, what action is taken on the sorted element?",
+        "options": [
+            "It is deleted",
+            "It is shifted to the left",
+            "It is shifted to the right making space for insertion",
+            "It is multiplied by 2"
+        ],
+        "explanation": "If element e is smaller than element s, then element s is shifted to the right making space for inserting element e.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q27",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 74
+    },
+    {
+        "question": "In the Python code for Insertion sort (Program 5-3), what is the initial value of the `temp` variable in the loop?",
+        "options": [
+            "list3[0]",
+            "list3[i]",
+            "list3[n-1]",
+            "0"
+        ],
+        "explanation": "In Program 5-3, `temp = list3[i]` is used to temporarily hold the value of the current element being evaluated for insertion.",
+        "difficulty": "hard",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q28",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 77
+    },
+    {
+        "question": "In the Insertion sort algorithm loop, the condition `while j >= 0 and temp < list3[j]` ensures that:",
+        "options": [
+            "The list is traversed forwards until a smaller element is found",
+            "The list is traversed backwards until a smaller or equal element is found, shifting larger elements to the right",
+            "The smallest element is swapped immediately",
+            "The variable 'temp' is always 0"
+        ],
+        "explanation": "The condition checks from right to left (backwards) in the sorted portion. As long as the sorted element `list3[j]` is greater than `temp`, it shifts the element to the right (`list3[j+1] = list3[j]`).",
+        "difficulty": "hard",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q29",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 77
+    },
+    {
+        "question": "After the inner `while` loop finishes in Insertion sort, where is the `temp` element placed?",
+        "options": [
+            "At list3[j]",
+            "At list3[i]",
+            "At list3[j+1]",
+            "At list3[n]"
+        ],
+        "explanation": "After the inner loop, `list3[j+1] = temp` is executed to insert the element at the correct, newly-freed position.",
+        "difficulty": "hard",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q30",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 77
+    },
+    {
+        "question": "For a list `[8, 7, 13, 1, -9, 4]`, what is the result after Pass 1 of Insertion sort?",
+        "options": [
+            "[-9, 7, 13, 1, 8, 4]",
+            "[7, 8, 13, 1, -9, 4]",
+            "[8, 7, 13, 1, -9, 4]",
+            "[1, -9, 4, 7, 8, 13]"
+        ],
+        "explanation": "In Pass 1, 7 is compared with 8. Since 7 < 8, they are swapped/shifted. The list becomes `[7, 8, 13, 1, -9, 4]`.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q31",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 75
+    },
+    {
+        "question": "What is the amount of time an algorithm takes to process a given data called?",
+        "options": [
+            "Data load",
+            "Memory usage",
+            "Time complexity",
+            "Processing lag"
+        ],
+        "explanation": "The amount of time an algorithm takes to process a given data can be called its time complexity.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q32",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 77
+    },
+    {
+        "question": "Why is calculating the time complexity of an algorithm important in the real world?",
+        "options": [
+            "Because computers have very limited memory",
+            "Because sorting algorithms are required to work on huge amounts of data",
+            "Because all algorithms take exactly the same time",
+            "To make the source code look professional"
+        ],
+        "explanation": "However, in the real world, sorting algorithms are required to work on huge amounts of data. In such cases, the total time utilisation becomes significant...",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q33",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 77
+    },
+    {
+        "question": "An algorithm that does not have any loop will have a time complexity of:",
+        "options": [
+            "n",
+            "1 (Constant time)",
+            "n^2",
+            "Infinite"
+        ],
+        "explanation": "Any algorithm that does not have any loop will have time complexity as 1 since the number of instructions to be executed will be constant... known as Constant time algorithms.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q34",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 78
+    },
+    {
+        "question": "An algorithm that has a single loop executing 'n' times is known as a:",
+        "options": [
+            "Constant time algorithm",
+            "Quadratic time algorithm",
+            "Linear time algorithm",
+            "Exponential time algorithm"
+        ],
+        "explanation": "Any algorithm that has a loop (usually 1 to n) will have the time complexity as n... Such algorithms are known as Linear time algorithms.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q35",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 78
+    },
+    {
+        "question": "A loop within a loop (nested loop) will generally have a time complexity of:",
+        "options": [
+            "n",
+            "1",
+            "n^3",
+            "n^2"
+        ],
+        "explanation": "A loop within a loop (nested loop) will have the time complexity as n^2. Such algorithms are known as Quadratic time algorithms.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q36",
+        "chapter_id": "cs_ch5",
+        "correct_index": 3,
+        "ncert_page": 78
+    },
+    {
+        "question": "What is the time complexity of the Bubble Sort algorithm as discussed in the text?",
+        "options": [
+            "1",
+            "n",
+            "n^2",
+            "log n"
+        ],
+        "explanation": "...all the sorting algorithms namely, bubble sort, selection sort and insertion sort have a time complexity of n^2.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q37",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 78
+    },
+    {
+        "question": "What is the time complexity of the Selection Sort algorithm?",
+        "options": [
+            "n",
+            "n^2",
+            "n^3",
+            "1"
+        ],
+        "explanation": "...all the sorting algorithms namely, bubble sort, selection sort and insertion sort have a time complexity of n^2.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q38",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 78
+    },
+    {
+        "question": "What is the time complexity of the Insertion Sort algorithm?",
+        "options": [
+            "n^2",
+            "n",
+            "1",
+            "n log n"
+        ],
+        "explanation": "...all the sorting algorithms namely, bubble sort, selection sort and insertion sort have a time complexity of n^2.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q39",
+        "chapter_id": "cs_ch5",
+        "correct_index": 0,
+        "ncert_page": 78
+    },
+    {
+        "question": "If an algorithm has both a nested loop and a separate single loop, how is its overall time complexity estimated?",
+        "options": [
+            "By adding both complexities (n^2 + n)",
+            "On the basis of the single loop only",
+            "On the basis of the nested loop only (n^2)",
+            "By multiplying the loop counts"
+        ],
+        "explanation": "If there is a nested loop and also a single loop, the time complexity will be estimated on the basis of the nested loop only.",
+        "difficulty": "hard",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q40",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 78
+    },
+    {
+        "question": "Which of the following sorting algorithms places the smallest element from the unsorted array into the sorted array in each pass?",
+        "options": [
+            "Bubble Sort",
+            "Selection Sort",
+            "Insertion Sort",
+            "Quick Sort"
+        ],
+        "explanation": "Summary: In Selection Sort, the smallest element is selected from the unsorted array and swapped with the leftmost element, and that element becomes a part of the sorted array.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q41",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 78
+    },
+    {
+        "question": "According to the textbook exercises, how can you find the median of a list of numbers?",
+        "options": [
+            "Find the largest and smallest numbers and divide by 2",
+            "Use bubble sort to sort the list, then select the center term(s)",
+            "Calculate the average of all numbers in the list",
+            "Pick the first element after one pass of insertion sort"
+        ],
+        "explanation": "Exercise Hint: Use bubble sort to sort the accepted list. If there are odd number of terms, the median is the center term. If there are even number of terms, add the two middle terms and divide by 2 get median.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q42",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 79
+    },
+    {
+        "question": "What is a 'percentile' as defined in the textbook's exercise?",
+        "options": [
+            "The absolute percentage of marks a student got",
+            "A measure of relative performance based on a candidate's performance with respect to others",
+            "The total number of students who passed",
+            "The average score of the top 10 students"
+        ],
+        "explanation": "Note: Percentile is a measure of relative performance ie. It is calculated based on a candidate's performance with respect to others.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q43",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 80
+    },
+    {
+        "question": "In the exercise on calculating the Xth percentile, what is the first step required?",
+        "options": [
+            "Multiply X by n",
+            "Display the value at the index",
+            "Order all the values in the data set from smallest to largest",
+            "Calculate the mean of the dataset"
+        ],
+        "explanation": "Step I: Order all the values in the data set from smallest to largest using Selection Sort. In general any of the sorting methods can be used.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q44",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 80
+    },
+    {
+        "question": "If you are inserting names into a list one by one and ensuring the list remains in ascending order during each insertion, which sorting technique are you implicitly using?",
+        "options": [
+            "Bubble Sort",
+            "Selection Sort",
+            "Insertion Sort",
+            "Heap Sort"
+        ],
+        "explanation": "Exercise 6 describes: 'names of the students are inserted in ascending order. Thus, performing the sorting operation at the time of inserting elements'. This perfectly describes the Insertion Sort mechanism.",
+        "difficulty": "hard",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q45",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 80
+    },
+    {
+        "question": "Which two algorithms divide the list into 'sorted' and 'unsorted' sub-lists during their execution?",
+        "options": [
+            "Bubble Sort and Selection Sort",
+            "Selection Sort and Insertion Sort",
+            "Bubble Sort and Insertion Sort",
+            "Only Insertion Sort"
+        ],
+        "explanation": "Both Selection Sort and Insertion Sort divide the list into a sorted part and an unsorted part. Selection sort finds the minimum in the unsorted part to append to the sorted part, while insertion sort takes the first element of the unsorted part and inserts it into the correct place in the sorted part.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q46",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 74
+    },
+    {
+        "question": "In Selection Sort, what is swapped with the smallest element found in the unsorted list?",
+        "options": [
+            "The rightmost element of the sorted list",
+            "The leftmost element of the unsorted list",
+            "The largest element in the unsorted list",
+            "The first element of the entire list always"
+        ],
+        "explanation": "The smallest element is then swapped with the leftmost element of the unsorted list.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q47",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 71
+    },
+    {
+        "question": "In the algorithm for Selection sort (Algorithm 5.2), what does `min = j` represent?",
+        "options": [
+            "The value of the minimum element",
+            "The index of the newly found smaller element",
+            "The total number of passes",
+            "The flag to stop the loop"
+        ],
+        "explanation": "Step 6: IF numList[j] < numList[min] THEN Step 7: min = j. Here `min` stores the index of the newly found smaller element.",
+        "difficulty": "hard",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q48",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 73
+    },
+    {
+        "question": "If `numList = [8, 7, 13, 1, -9, 4]`, which element 'bubbles up' to the end of the list after the very first pass of Bubble Sort?",
+        "options": [
+            "8",
+            "13",
+            "-9",
+            "4"
+        ],
+        "explanation": "13 is the largest element in the list. During the first pass, adjacent comparisons will constantly swap 13 to the right until it reaches the end.",
+        "difficulty": "medium",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q49",
+        "chapter_id": "cs_ch5",
+        "correct_index": 1,
+        "ncert_page": 69
+    },
+    {
+        "question": "If a sorting algorithm's inner loop executes `n` times, and its outer loop executes `n` times, what is its theoretical time complexity?",
+        "options": [
+            "Linear Time",
+            "Constant Time",
+            "Quadratic Time",
+            "Logarithmic Time"
+        ],
+        "explanation": "A loop within a loop (nested loop) will have the time complexity as $n^2$. Such algorithms are known as Quadratic time algorithms.",
+        "difficulty": "easy",
+        "subject": "Computer Science",
+        "mcq_id": "12_cs_ch5_q50",
+        "chapter_id": "cs_ch5",
+        "correct_index": 2,
+        "ncert_page": 78
+    }
+]

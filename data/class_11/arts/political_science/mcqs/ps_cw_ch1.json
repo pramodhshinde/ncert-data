@@ -1,0 +1,682 @@
+[
+  {
+    "mcq_id": "pol_c1_q01",
+    "chapter_id": "c1",
+    "question": "What is the primary function of a constitution regarding the rules of a society?",
+    "options": [
+      "To provide a set of basic rules that allow for minimal coordination amongst members",
+      "To list all the possible punishments for every crime",
+      "To ensure that only the majority can make decisions",
+      "To provide rules that are kept secret from the public"
+    ],
+    "correct_index": 0,
+    "explanation": "The first function of a constitution is to provide a set of basic rules that allow for minimal coordination amongst members of a society.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q02",
+    "chapter_id": "c1",
+    "question": "Who has the authority to decide how the government will be constituted according to the Indian Constitution?",
+    "options": ["The President", "The Prime Minister", "The Constitution", "The Supreme Court"],
+    "correct_index": 2,
+    "explanation": "The second function of a constitution is to specify who has the power to make decisions in a society. It decides how the government will be constituted.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q03",
+    "chapter_id": "c1",
+    "question": "What does the 'Third Function' of a constitution entail?",
+    "options": [
+      "Giving the government absolute power",
+      "Setting some limits on what a government can impose on its citizens",
+      "Abolishing the judiciary",
+      "Ensuring taxes are never raised"
+    ],
+    "correct_index": 1,
+    "explanation": "The third function is to set some limits on what a government can impose on its citizens. These limits are fundamental in the sense that government may never trespass them.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q04",
+    "chapter_id": "c1",
+    "question": "The 'Fourth Function' of a constitution is to enable the government to:",
+    "options": [
+      "Declare war on neighbors",
+      "Fulfill the aspirations of a society and create conditions for a just society",
+      "Print unlimited currency",
+      "Control the personal lives of citizens"
+    ],
+    "correct_index": 1,
+    "explanation": "The fourth function is to enable the government to fulfill the aspirations of a society and create conditions for a just society.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q05",
+    "chapter_id": "c1",
+    "question": "In the Indian Constitution, which section enables the government to take positive welfare measures?",
+    "options": ["Fundamental Duties", "Preamble only", "Directive Principles of State Policy", "Emergency Provisions"],
+    "correct_index": 2,
+    "explanation": "The Directive Principles of State Policy enjoin the government to fulfill certain aspirations of the people.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q06",
+    "chapter_id": "c1",
+    "question": "What is meant by the 'National Identity' provided by a constitution?",
+    "options": [
+      "Defining who belongs to the dominant religion",
+      "Expressing the fundamental identity of a people as a collective entity",
+      "Mandating a single language for all",
+      "Issuing passports"
+    ],
+    "correct_index": 1,
+    "explanation": "Finally, a constitution expresses the fundamental identity of a people. This means the people as a collective entity come into being only through the basic constitution.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q07",
+    "chapter_id": "c1",
+    "question": "Which of the following countries has an 'unwritten' constitution based on a series of documents and decisions?",
+    "options": ["India", "USA", "United Kingdom", "South Africa"],
+    "correct_index": 2,
+    "explanation": "The United Kingdom... has a series of documents and decisions that, taken collectively, are referred to as the Constitution.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q08",
+    "chapter_id": "c1",
+    "question": "The authority of a constitution depends on the 'mode of promulgation', which refers to:",
+    "options": [
+      "The language it is written in",
+      "How the constitution came into being and who crafted it",
+      "The number of pages in the document",
+      "The date it was signed"
+    ],
+    "correct_index": 1,
+    "explanation": "This refers to how a constitution came into being. Many constitutions remain defunct because they are crafted by military leaders or leaders who are not popular.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q09",
+    "chapter_id": "c1",
+    "question": "Why did the Indian Constitution succeed where many others failed?",
+    "options": [
+      "It was imposed by the British",
+      "It was drawn up by people who enjoyed immense public credibility",
+      "It was very short and simple",
+      "It did not allow for any amendments"
+    ],
+    "correct_index": 1,
+    "explanation": "The Indian Constitution was drawn up by people who had the capacity to negotiate and command the respect of a wide cross-section of society.",
+    "ncert_page": 11,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q10",
+    "chapter_id": "c1",
+    "question": "The hallmark of a successful constitution is that it gives everyone in society some reason to:",
+    "options": ["Revolt against it", "Go along with its provisions", "Ignore it", "Criticize it"],
+    "correct_index": 1,
+    "explanation": "A successful constitution gives everyone in society some reason to go along with its provisions.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q11",
+    "chapter_id": "c1",
+    "question": "What is the danger of a constitution that allows small groups to dominate?",
+    "options": [
+      "It becomes too stable",
+      "The excluded groups will have no reason to abide by the constitution",
+      "It leads to too much equality",
+      "It makes the government more efficient"
+    ],
+    "correct_index": 1,
+    "explanation": "If any group feels their identity is being stifled or they have no reason to go along, they will not abide by the constitution.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q12",
+    "chapter_id": "c1",
+    "question": "A balanced institutional design in a constitution ensures that:",
+    "options": [
+      "One institution has all the power",
+      "No single institution can acquire a monopoly of power",
+      "The army is the supreme authority",
+      "The Prime Minister is above the law"
+    ],
+    "correct_index": 1,
+    "explanation": "Well-crafted constitutions fragment power in society intelligently so that no single group can subvert the constitution.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q13",
+    "chapter_id": "c1",
+    "question": "The Indian Constitution is often described as a 'living document' because it is a balance between:",
+    "options": [
+      "Right and Left wing",
+      "Rigidity and flexibility",
+      "North and South India",
+      "Rich and Poor"
+    ],
+    "correct_index": 1,
+    "explanation": "A constitution that is too rigid is likely to break; one that is too flexible provides no security. A successful one strikes a balance.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q14",
+    "chapter_id": "c1",
+    "question": "The first meeting of the Constituent Assembly was held on:",
+    "options": ["15 August 1947", "26 January 1950", "9 December 1946", "14 August 1947"],
+    "correct_index": 2,
+    "explanation": "Its first sitting was on 9 December 1946 and it reassembled as Constituent Assembly for divided India on 14 August 1947.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q15",
+    "chapter_id": "c1",
+    "question": "The members of the Constituent Assembly were chosen by:",
+    "options": [
+      "Direct universal suffrage",
+      "Indirect election by the members of the Provincial Legislative Assemblies",
+      "Nomination by the British King",
+      "Lottery system"
+    ],
+    "correct_index": 1,
+    "explanation": "Members were chosen by indirect election by the members of the Provincial Legislative Assemblies that had been established under the Government of India Act, 1935.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q16",
+    "chapter_id": "c1",
+    "question": "According to the Cabinet Mission plan, seats were allotted to each Province and Princely State in proportion to their:",
+    "options": ["Area", "Wealth", "Population", "Education level"],
+    "correct_index": 2,
+    "explanation": "Each Province and each Princely State or group of States were allotted seats proportional to their respective population roughly in the ratio of 1:10,00,000.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q17",
+    "chapter_id": "c1",
+    "question": "Which three communities were recognized for representation in the Provinces under the Cabinet Mission plan?",
+    "options": [
+      "Hindus, Muslims, Christians",
+      "Muslims, Sikhs, and General",
+      "Brahmins, Dalits, Tribal",
+      "Rich, Middle Class, Poor"
+    ],
+    "correct_index": 1,
+    "explanation": "The seats in each Province were distributed among the three main communities, Muslims, Sikhs and General, in proportion to their respective populations.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q18",
+    "chapter_id": "c1",
+    "question": "What was the total number of members in the Constituent Assembly after the partition of India?",
+    "options": ["389", "299", "284", "545"],
+    "correct_index": 1,
+    "explanation": "The numbers in the Assembly were reduced to 299.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q19",
+    "chapter_id": "c1",
+    "question": "On 26 November 1949, how many members were actually present to sign the Constitution?",
+    "options": ["299", "389", "284", "250"],
+    "correct_index": 2,
+    "explanation": "On that day 284 members were actually present and they appended their signature to the Constitution as finally passed.",
+    "ncert_page": 15,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q20",
+    "chapter_id": "c1",
+    "question": "Which provision was passed in the Constituent Assembly with virtually no debate?",
+    "options": [
+      "The right to property",
+      "The introduction of universal suffrage",
+      "The powers of the President",
+      "The structure of Federalism"
+    ],
+    "correct_index": 1,
+    "explanation": "The only provision of the Constitution which was passed without virtually any debate was the introduction of universal suffrage.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q21",
+    "chapter_id": "c1",
+    "question": "The 'Objectives Resolution' was moved by:",
+    "options": ["Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel", "Rajendra Prasad"],
+    "correct_index": 1,
+    "explanation": "The Objectives Resolution was moved by Nehru in 1946.",
+    "ncert_page": 17,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q22",
+    "chapter_id": "c1",
+    "question": "The 'Objectives Resolution' defined India as an:",
+    "options": [
+      "Independent Sovereign Republic",
+      "Islamic State",
+      "Monarchy",
+      "Colony of Britain"
+    ],
+    "correct_index": 0,
+    "explanation": "The resolution defined India as an Independent Sovereign Republic.",
+    "ncert_page": 18,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q23",
+    "chapter_id": "c1",
+    "question": "Which committee of the Constituent Assembly was chaired by Dr. B.R. Ambedkar?",
+    "options": ["Union Powers Committee", "Advisory Committee", "Drafting Committee", "Provincial Constitution Committee"],
+    "correct_index": 2,
+    "explanation": "Usually, Nehru, Rajendra Prasad, Sardar Patel or B.R. Ambedkar chaired these Committees... Ambedkar was the chair of the Drafting Committee.",
+    "ncert_page": 17,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q24",
+    "chapter_id": "c1",
+    "question": "The Indian Constitution is often called a 'borrowed' document. What does this mean in a positive sense?",
+    "options": [
+      "It was copied blindly from others",
+      "It was an act of innovative borrowing and adaptation to Indian problems",
+      "It was written by foreigners",
+      "It has no original ideas"
+    ],
+    "correct_index": 1,
+    "explanation": "Each provision had to be defended on grounds that it was appropriate to Indian conditions.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q25",
+    "chapter_id": "c1",
+    "question": "Which feature was borrowed from the British Constitution?",
+    "options": [
+      "Directive Principles of State Policy",
+      "First Past the Post system",
+      "Fundamental Rights",
+      "Idea of Liberty, Equality and Fraternity"
+    ],
+    "correct_index": 1,
+    "explanation": "The British Constitution contributed the First Past the Post system and Parliamentary form of government.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q26",
+    "chapter_id": "c1",
+    "question": "Fundamental Rights and Judicial Review were inspired by the constitution of which country?",
+    "options": ["Canada", "Ireland", "United States", "France"],
+    "correct_index": 2,
+    "explanation": "The United States Constitution contributed the Charter of Fundamental Rights and the Power of Judicial Review.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q27",
+    "chapter_id": "c1",
+    "question": "The Directive Principles of State Policy were borrowed from:",
+    "options": ["The Irish Constitution", "The Canadian Constitution", "The French Constitution", "The British Constitution"],
+    "correct_index": 0,
+    "explanation": "The Irish Constitution provided the Directive Principles of State Policy.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q28",
+    "chapter_id": "c1",
+    "question": "The idea of a 'Quasi-federal' form of government was borrowed from:",
+    "options": ["USA", "Canada", "France", "United Kingdom"],
+    "correct_index": 1,
+    "explanation": "The Canadian Constitution contributed the idea of a quasi-federal form of government.",
+    "ncert_page": 20,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q29",
+    "chapter_id": "c1",
+    "question": "The principles of Liberty, Equality, and Fraternity were borrowed from the:",
+    "options": ["American Revolution", "French Constitution", "Irish Constitution", "Russian Revolution"],
+    "correct_index": 1,
+    "explanation": "The French Constitution contributed the principles of Liberty, Equality and Fraternity.",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q30",
+    "chapter_id": "c1",
+    "question": "How long did it take for the Constituent Assembly to complete the Constitution?",
+    "options": ["6 months", "1 year", "2 years and 11 months", "5 years"],
+    "correct_index": 2,
+    "explanation": "The Assembly met for one hundred and sixty six days, spread over two years and eleven months.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q31",
+    "chapter_id": "c1",
+    "question": "What does 'Universal Suffrage' mean?",
+    "options": [
+      "Only the educated can vote",
+      "Only property owners can vote",
+      "All adult citizens have the right to vote",
+      "Voting is mandatory for everyone"
+    ],
+    "correct_index": 2,
+    "explanation": "Universal suffrage means all adult citizens, regardless of wealth, education, gender or religion, have the right to vote.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q32",
+    "chapter_id": "c1",
+    "question": "Which of the following describes a 'Defunct' constitution?",
+    "options": [
+      "A constitution that is being updated",
+      "A constitution that exists only on paper and is not practiced",
+      "A constitution that is very popular",
+      "A constitution that is written in many languages"
+    ],
+    "correct_index": 1,
+    "explanation": "Many constitutions remain defunct... because they do not reflect the aspirations of the people or are imposed.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q33",
+    "chapter_id": "c1",
+    "question": "The Indian Constitution recognizes which kind of identity besides political identity?",
+    "options": ["A purely religious identity", "A moral identity", "A secret identity", "No other identity"],
+    "correct_index": 1,
+    "explanation": "Constitutional norms are the overarching framework within which one pursues individual aspirations... The constitution also gives us a moral identity.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q34",
+    "chapter_id": "c1",
+    "question": "What were the 'Provincial Legislative Assemblies'?",
+    "options": [
+      "Assemblies in the Princely States",
+      "Legislatures in the provinces of British India",
+      "Religious councils",
+      "Military units"
+    ],
+    "correct_index": 1,
+    "explanation": "Members of the Constituent Assembly were chosen by indirect election by the members of the Provincial Legislative Assemblies.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q35",
+    "chapter_id": "c1",
+    "question": "The Constitution of India was officially adopted on:",
+    "options": ["15 August 1947", "26 November 1949", "26 January 1950", "9 December 1946"],
+    "correct_index": 1,
+    "explanation": "On 26 November 1949, the signatures were appended to the Constitution as finally passed.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q36",
+    "chapter_id": "c1",
+    "question": "A constitution acts as a 'Limit' on government power primarily through:",
+    "options": ["Fundamental Rights", "Taxes", "Police", "Political Parties"],
+    "correct_index": 0,
+    "explanation": "The most common way of limiting the power of government is to specify certain fundamental rights that all of us possess as citizens.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q37",
+    "chapter_id": "c1",
+    "question": "What is the ratio of seats to population in the Constituent Assembly?",
+    "options": ["1 seat per 1,00,000", "1 seat per 10,00,000", "1 seat per 1 crore", "1 seat per village"],
+    "correct_index": 1,
+    "explanation": "Seats were allotted roughly in the ratio of 1:10,00,000.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q38",
+    "chapter_id": "c1",
+    "question": "Which of these is a 'Substantive Provision' of a successful constitution?",
+    "options": [
+      "The color of the ink used",
+      "The fact that it gives every citizen a reason to abide by it",
+      "The weight of the paper",
+      "The name of the printer"
+    ],
+    "correct_index": 1,
+    "explanation": "Substantive provisions refer to the content that makes the constitution acceptable to all members of society.",
+    "ncert_page": 12,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q39",
+    "chapter_id": "c1",
+    "question": "The 'Princely States' were allotted how many total seats initially?",
+    "options": ["292", "93", "4", "389"],
+    "correct_index": 1,
+    "explanation": "Princely States were allotted a minimum of 93 seats.",
+    "ncert_page": 14,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q40",
+    "chapter_id": "c1",
+    "question": "What was the role of 'Public Reason' in the Constituent Assembly?",
+    "options": [
+      "Voting based only on party lines",
+      "Defending every provision based on general principles and interests of all",
+      "Keeping the public out of the discussion",
+      "Using religious reasons for all laws"
+    ],
+    "correct_index": 1,
+    "explanation": "The members of the Assembly placed a great emphasis on 'public reason' where provisions were debated for the benefit of the whole nation.",
+    "ncert_page": 16,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q41",
+    "chapter_id": "c1",
+    "question": "Which value did the Indian Constitution borrow from the Government of India Act, 1935?",
+    "options": ["Fundamental Rights", "Administrative details", "Liberty", "Preamble"],
+    "correct_index": 1,
+    "explanation": "Many administrative details were taken from the Government of India Act, 1935.",
+    "ncert_page": 19,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q42",
+    "chapter_id": "c1",
+    "question": "What is the primary objective of 'Horizontal fragmentation of power'?",
+    "options": [
+      "To give all power to the military",
+      "To distribute power among different branches like Legislature, Executive, and Judiciary",
+      "To divide power between the Center and the States",
+      "To give power to only one person"
+    ],
+    "correct_index": 1,
+    "explanation": "Horizontal fragmentation of power among different institutions like the Legislature, Executive and the Judiciary... ensures stability.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q43",
+    "chapter_id": "c1",
+    "question": "According to the text, what happened to constitutions in countries like Iraq?",
+    "options": [
+      "They became very successful",
+      "They were made under the guidance of one leader with no credibility",
+      "They were never written down",
+      "They were identical to India's"
+    ],
+    "correct_index": 1,
+    "explanation": "The text discusses constitutions that failed because they were made by leaders who lacked credibility. (Context of Iraq mentioned in exercise/snippet).",
+    "ncert_page": 25,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q44",
+    "chapter_id": "c1",
+    "question": "The 'Rule of Law' was primarily influenced by which constitution?",
+    "options": ["British", "American", "French", "Canadian"],
+    "correct_index": 0,
+    "explanation": "The Rule of Law and the Parliamentary form of government were taken from the British Constitution.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q45",
+    "chapter_id": "c1",
+    "question": "The Indian Constituent Assembly was a 'microcosm' of India because:",
+    "options": [
+      "It had members from all religions and social groups",
+      "It was very small",
+      "It was held in a small room",
+      "It only represented the Congress party"
+    ],
+    "correct_index": 0,
+    "explanation": "The Assembly had representation from all religions as well as sections of society.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q46",
+    "chapter_id": "c1",
+    "question": "What is the relationship between the Constitution and daily existence?",
+    "options": [
+      "It has no relation",
+      "It provides the basic framework of coordination and rules for living together",
+      "It only applies during elections",
+      "It is only for lawyers"
+    ],
+    "correct_index": 1,
+    "explanation": "The constitution relates to our daily existence by providing the basic rules and coordination needed for a diverse group to live together safely.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q47",
+    "chapter_id": "c1",
+    "question": "A constitution is often defined as a 'Compact' because it is a:",
+    "options": ["Small book", "Agreement between the people and the state", "Military order", "Secret code"],
+    "correct_index": 1,
+    "explanation": "A constitution is a compact that people make about how they will be governed.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q48",
+    "chapter_id": "c1",
+    "question": "Who chaired the Union Powers Committee of the Constituent Assembly?",
+    "options": ["Jawaharlal Nehru", "Sardar Patel", "Rajendra Prasad", "Maulana Azad"],
+    "correct_index": 0,
+    "explanation": "Nehru chaired the Union Powers Committee.",
+    "ncert_page": 17,
+    "difficulty": "hard",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q49",
+    "chapter_id": "c1",
+    "question": "What was the significance of the 14th August 1947 reassembly?",
+    "options": [
+      "It was the first day of the assembly",
+      "It was the day India was divided and the assembly reassembled for India alone",
+      "It was the day the constitution was finished",
+      "It was the day of the first election"
+    ],
+    "correct_index": 1,
+    "explanation": "The Assembly reassembled as Constituent Assembly for divided India on 14 August 1947.",
+    "ncert_page": 14,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  },
+  {
+    "mcq_id": "pol_c1_q50",
+    "chapter_id": "c1",
+    "question": "The 'Power of the People' in a constitution is ultimate because:",
+    "options": [
+      "They have guns",
+      "They are the source of the constitution's legitimacy and authority",
+      "They can ignore the law",
+      "They are always right"
+    ],
+    "correct_index": 1,
+    "explanation": "Constitutions that were drawn up by popular national movements are successful because they represent the will and authority of the people.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Political Science"
+  }
+]

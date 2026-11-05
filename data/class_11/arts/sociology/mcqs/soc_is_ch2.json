@@ -1,0 +1,622 @@
+[
+  {
+    "mcq_id": "soc_c2_q01",
+    "chapter_id": "c2",
+    "question": "Which of the following is a key feature of a 'Social Group' as defined in the text?",
+    "options": [
+      "A collection of people in a cinema hall",
+      "Persistent interaction and a sense of belonging",
+      "People waiting at a bus stop",
+      "A group of people with the same height"
+    ],
+    "correct_index": 1,
+    "explanation": "A social group involves persistent interaction, a sense of belonging, and shared interest/values, distinguishing it from a mere aggregate.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q02",
+    "chapter_id": "c2",
+    "question": "What term is used for a collection of people who are in the same place at the same time but share no definite connection?",
+    "options": ["Social Group", "Peer Group", "Social Aggregate", "In-group"],
+    "correct_index": 2,
+    "explanation": "Aggregates are collections of people who are in the same place at the same time but share no definite connection with one another, such as passengers in a train.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q03",
+    "chapter_id": "c2",
+    "question": "Which sociologist distinguished between 'Primary' and 'Secondary' groups?",
+    "options": ["Karl Marx", "C.H. Cooley", "Max Weber", "Emile Durkheim"],
+    "correct_index": 1,
+    "explanation": "Charles Horton Cooley distinguished between primary and secondary groups based on the nature of interaction.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q04",
+    "chapter_id": "c2",
+    "question": "Characteristics of a 'Primary Group' include:",
+    "options": [
+      "Large size and formal relations",
+      "Small size and face-to-face interaction",
+      "Contractual relationships",
+      "Goal-oriented interaction only"
+    ],
+    "correct_index": 1,
+    "explanation": "Primary groups are small, characterized by face-to-face interaction and emotional bonds, like family and friends.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q05",
+    "chapter_id": "c2",
+    "question": "A group to which a person belongs and feels a sense of loyalty to is called a/an:",
+    "options": ["Out-group", "Reference Group", "In-group", "Secondary Group"],
+    "correct_index": 2,
+    "explanation": "An in-group is one to which 'we' belong and feel loyalty toward.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q06",
+    "chapter_id": "c2",
+    "question": "What is a 'Reference Group'?",
+    "options": [
+      "A group that provides information about books",
+      "A group whose lifestyle people emulate or aspire to belong to",
+      "A group of people at a library",
+      "A group that a person has left"
+    ],
+    "correct_index": 1,
+    "explanation": "Reference groups are those that individuals look up to as models for behavior or lifestyle.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q07",
+    "chapter_id": "c2",
+    "question": "Social Stratification refers to:",
+    "options": [
+      "The study of stars",
+      "The structural inequalities between different groups of people",
+      "The process of making friends",
+      "Individual biological differences"
+    ],
+    "correct_index": 1,
+    "explanation": "Social stratification refers to the existence of structured inequalities between groups in society, often compared to the layers in the Earth's crust.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q08",
+    "chapter_id": "c2",
+    "question": "Which of the following is an example of an 'Ascribed Status'?",
+    "options": ["Doctor", "Caste", "Teacher", "Athlete"],
+    "correct_index": 1,
+    "explanation": "Ascribed status is social position assigned at birth, such as caste, race, or age.",
+    "ncert_page": 16,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q09",
+    "chapter_id": "c2",
+    "question": "What is 'Achieved Status'?",
+    "options": [
+      "Status given by the family",
+      "Status attained through personal effort and choice",
+      "Status based on religion",
+      "Status that never changes"
+    ],
+    "correct_index": 1,
+    "explanation": "Achieved status is a social position that a person acquires on the basis of merit, effort, or choice.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q10",
+    "chapter_id": "c2",
+    "question": "The behavioral aspect of a social status is called a:",
+    "options": ["Social Role", "Social Class", "Social Group", "Social Stratification"],
+    "correct_index": 0,
+    "explanation": "A role is the behavioral aspect of status. People occupy a status but play a role.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q11",
+    "chapter_id": "c2",
+    "question": "Which system of stratification is characterized by being 'closed' and strictly based on birth?",
+    "options": ["Class system", "Caste system", "Slavery", "Estates"],
+    "correct_index": 1,
+    "explanation": "In a caste system, an individual's position is fixed at birth and there is almost no mobility.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q12",
+    "chapter_id": "c2",
+    "question": "According to Karl Marx, the main basis of social class is:",
+    "options": [
+      "Religious beliefs",
+      "Relationship to the means of production",
+      "Level of education",
+      "Place of residence"
+    ],
+    "correct_index": 1,
+    "explanation": "For Marx, class is determined by an individual's relationship to the means of production (ownership vs. labor).",
+    "ncert_page": 12,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q13",
+    "chapter_id": "c2",
+    "question": "Max Weber’s three-fold approach to stratification includes Class, Status, and ________.",
+    "options": ["Caste", "Power/Party", "Religion", "Education"],
+    "correct_index": 1,
+    "explanation": "Weber argued that stratification is based on class (economics), status (social honor), and power (political party).",
+    "ncert_page": 12,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q14",
+    "chapter_id": "c2",
+    "question": "Social control is the process by which society:",
+    "options": [
+      "Frees individuals from all rules",
+      "Ensures conformity to social norms",
+      "Encourages everyone to be different",
+      "Abolishes all laws"
+    ],
+    "correct_index": 1,
+    "explanation": "Social control refers to the various means used by a society to bring its recalcitrant members back into line.",
+    "ncert_page": 19,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q15",
+    "chapter_id": "c2",
+    "question": "Which of the following is an example of 'Formal Social Control'?",
+    "options": ["A dirty look from a neighbor", "Police and Law", "Laughter from friends", "Family scolding"],
+    "correct_index": 1,
+    "explanation": "Formal social control involves codified, systematic mechanisms like laws and state agencies (police).",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q16",
+    "chapter_id": "c2",
+    "question": "A 'Sanction' in sociology refers to:",
+    "options": [
+      "A reward for good behavior",
+      "A punishment for bad behavior",
+      "Both rewards and punishments",
+      "A government tax"
+    ],
+    "correct_index": 2,
+    "explanation": "A sanction is any reaction from others to the behavior of an individual or group meant to ensure conformity.",
+    "ncert_page": 20,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q17",
+    "chapter_id": "c2",
+    "question": "The concept of 'Role Conflict' occurs when:",
+    "options": [
+      "A person has no roles to play",
+      "A person faces incompatible expectations from two or more statuses",
+      "A person plays a role very well",
+      "Two people have the same role"
+    ],
+    "correct_index": 1,
+    "explanation": "Role conflict is the incompatibility among roles corresponding to two or more statuses (e.g., a working mother).",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q18",
+    "chapter_id": "c2",
+    "question": "Status is a/an ________ position in a group or society.",
+    "options": ["Individual", "Social", "Biological", "Geographical"],
+    "correct_index": 1,
+    "explanation": "Status refers to the position an individual occupies in a group or in society.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q19",
+    "chapter_id": "c2",
+    "question": "A set of statuses occupied by a single individual at a time is called a:",
+    "options": ["Status Set", "Role Set", "Group Set", "Class Set"],
+    "correct_index": 0,
+    "explanation": "A status set is the collection of social statuses that an individual holds.",
+    "ncert_page": 15,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q20",
+    "chapter_id": "c2",
+    "question": "Peer groups are a type of ________ group.",
+    "options": ["Secondary", "Primary", "Formal", "Large-scale"],
+    "correct_index": 1,
+    "explanation": "Peer groups are typically primary groups composed of individuals of similar age and social status.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q21",
+    "chapter_id": "c2",
+    "question": "Vertical social mobility refers to:",
+    "options": [
+      "Changing jobs within the same rank",
+      "Movement up or down the stratification hierarchy",
+      "Moving to a different city",
+      "Changing one's name"
+    ],
+    "correct_index": 1,
+    "explanation": "Vertical mobility involves movement from one social status to another of different rank (upward or downward).",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q22",
+    "chapter_id": "c2",
+    "question": "A 'Quasi-group' is characterized by:",
+    "options": [
+      "High degree of organization",
+      "Conscious sense of belonging",
+      "Lack of structure and awareness of common interest",
+      "Persistent interaction"
+    ],
+    "correct_index": 2,
+    "explanation": "A quasi-group is an aggregate or combination, which lacks structure or organization, and whose members may be unaware of the existence of the group.",
+    "ncert_page": 3,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q23",
+    "chapter_id": "c2",
+    "question": "The term 'Bureaucracy' is most closely associated with which type of group?",
+    "options": ["Primary", "Secondary", "Reference", "Peer"],
+    "correct_index": 1,
+    "explanation": "Secondary groups are often large and formal, governed by bureaucratic rules.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q24",
+    "chapter_id": "c2",
+    "question": "Who defines social control as 'the use of force to maintain order'?",
+    "options": ["Functionalists", "Conflict Theorists", "Emile Durkheim", "C.H. Cooley"],
+    "correct_index": 1,
+    "explanation": "Conflict theorists view social control as a means for dominant groups to impose their will and maintain order through force or ideology.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q25",
+    "chapter_id": "c2",
+    "question": "Which of the following is NOT a type of social stratification mentioned in the text?",
+    "options": ["Caste", "Class", "Gender", "Hobby-based groups"],
+    "correct_index": 3,
+    "explanation": "Caste, class, and gender are significant systems of stratification; hobbies do not represent structural inequality.",
+    "ncert_page": 8,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q26",
+    "chapter_id": "c2",
+    "question": "In the class system, status is primarily ________.",
+    "options": ["Ascribed", "Achieved", "Biological", "Religious"],
+    "correct_index": 1,
+    "explanation": "In class-based societies, position is at least in part achieved rather than being simply given at birth.",
+    "ncert_page": 13,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q27",
+    "chapter_id": "c2",
+    "question": "A 'Stereotype' regarding an out-group usually involves:",
+    "options": [
+      "Scientific facts",
+      "Fixed and inflexible characterizations",
+      "Positive feelings only",
+      "Complete ignorance"
+    ],
+    "correct_index": 1,
+    "explanation": "Out-groups are often subject to stereotypes—fixed and often negative characterizations.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q28",
+    "chapter_id": "c2",
+    "question": "Modern societies rely more on ________ social control.",
+    "options": ["Informal", "Formal", "Family-based", "Magical"],
+    "correct_index": 1,
+    "explanation": "In modern societies, due to their complexity, formal mechanisms like law and the state play a larger role.",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q29",
+    "chapter_id": "c2",
+    "question": "Role stereotyping often reinforces ________ inequality.",
+    "options": ["Geographical", "Gender", "Climate", "Technology"],
+    "correct_index": 1,
+    "explanation": "Stereotyping roles (e.g., women as homemakers) often limits opportunities and reinforces gender inequality.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q30",
+    "chapter_id": "c2",
+    "question": "Status and role are often described as ________ in sociological analysis.",
+    "options": ["Independent", "Interconnected/Two sides of a coin", "Opposites", "Irrelevant"],
+    "correct_index": 1,
+    "explanation": "Status is a position, and role is the behavior expected of that position; they are inseparable parts of social structure.",
+    "ncert_page": 17,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q31",
+    "chapter_id": "c2",
+    "question": "Social mobility is most common in which stratification system?",
+    "options": ["Caste", "Slavery", "Class", "Estates"],
+    "correct_index": 2,
+    "explanation": "The class system is 'open' compared to caste, allowing for movement between levels.",
+    "ncert_page": 13,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q32",
+    "chapter_id": "c2",
+    "question": "Functionalists view social control as a way to maintain ________.",
+    "options": ["Chaos", "Stability and order", "Inequality", "Dominance"],
+    "correct_index": 1,
+    "explanation": "From a functionalist perspective, social control is necessary to maintain the balance and stability of the social system.",
+    "ncert_page": 19,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q33",
+    "chapter_id": "c2",
+    "question": "A political party is an example of a:",
+    "options": ["Primary Group", "Secondary Group", "Aggregate", "Peer Group"],
+    "correct_index": 1,
+    "explanation": "A political party is a formal, secondary group with specific goals and impersonal relations.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q34",
+    "chapter_id": "c2",
+    "question": "The 'Prestige' associated with a social position refers to its:",
+    "options": ["Class", "Status", "Role", "Group"],
+    "correct_index": 1,
+    "explanation": "Status often carries with it a degree of social honor or prestige.",
+    "ncert_page": 15,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q35",
+    "chapter_id": "c2",
+    "question": "Deviance is behavior that ________ social norms.",
+    "options": ["Supports", "Violates", "Ignores", "Creates"],
+    "correct_index": 1,
+    "explanation": "Social control is applied when an individual's behavior deviates from accepted norms.",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q36",
+    "chapter_id": "c2",
+    "question": "A family is the most common example of a/an:",
+    "options": ["In-group", "Primary Group", "Both 1 and 2", "Secondary Group"],
+    "correct_index": 2,
+    "explanation": "The family is a primary group to which members feel high loyalty (in-group).",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q37",
+    "chapter_id": "c2",
+    "question": "Conflict between a person's role as a police officer and their role as a father is:",
+    "options": ["Role taking", "Role conflict", "Role strain", "Role set"],
+    "correct_index": 1,
+    "explanation": "When requirements of different roles clash, it is role conflict.",
+    "ncert_page": 18,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q38",
+    "chapter_id": "c2",
+    "question": "The Varna system divides society into ________ broad categories.",
+    "options": ["Two", "Three", "Four", "Hundreds"],
+    "correct_index": 2,
+    "explanation": "The traditional Varna system consists of Brahmins, Kshatriyas, Vaishyas, and Shudras.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q39",
+    "chapter_id": "c2",
+    "question": "A village or a small community is often described as having ________ relationships.",
+    "options": ["Contractual", "Primary", "Impersonal", "Temporary"],
+    "correct_index": 1,
+    "explanation": "Small communities usually have face-to-face, informal, and primary interactions.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q40",
+    "chapter_id": "c2",
+    "question": "Informal social control includes:",
+    "options": ["Smiles, gossip, and social pressure", "Court trials", "Parliamentary acts", "Police fines"],
+    "correct_index": 0,
+    "explanation": "Informal control operates through daily interactions and emotional reactions.",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q41",
+    "chapter_id": "c2",
+    "question": "Status that is assigned based on age is ________.",
+    "options": ["Achieved", "Ascribed", "Class-based", "Contractual"],
+    "correct_index": 1,
+    "explanation": "Age is a biological factor assigned at birth/nature, making it an ascribed status.",
+    "ncert_page": 16,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q42",
+    "chapter_id": "c2",
+    "question": "A person who moves from being a factory worker to a manager has experienced ________ mobility.",
+    "options": ["Horizontal", "Upward vertical", "Downward vertical", "Geographical"],
+    "correct_index": 1,
+    "explanation": "Rising in the rank/hierarchy is upward vertical mobility.",
+    "ncert_page": 15,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q43",
+    "chapter_id": "c2",
+    "question": "People who use the same public park every morning are a/an ________.",
+    "options": ["Social Group", "Quasi-group/Aggregate", "In-group", "Reference Group"],
+    "correct_index": 1,
+    "explanation": "They are in the same place but don't necessarily interact or share an identity.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q44",
+    "chapter_id": "c2",
+    "question": "Which of these is a 'Secondary' group characteristic?",
+    "options": ["Small size", "Personalized relationships", "Formal and impersonal relations", "Face-to-face interaction"],
+    "correct_index": 2,
+    "explanation": "Secondary groups are usually large, formal, and impersonal.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q45",
+    "chapter_id": "c2",
+    "question": "The 'Panchami' or 'Untouchables' were historically ________ the Varna system.",
+    "options": ["The top of", "Excluded from", "The middle of", "A part of the Kshatriya varna"],
+    "correct_index": 1,
+    "explanation": "The 'fifth' category was historically kept outside the four-fold varna structure.",
+    "ncert_page": 10,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q46",
+    "chapter_id": "c2",
+    "question": "A set of roles attached to a single status is called a:",
+    "options": ["Role Set", "Status Set", "Class Set", "Group Set"],
+    "correct_index": 0,
+    "explanation": "For example, a student (status) has different roles toward teachers, classmates, and parents.",
+    "ncert_page": 18,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q47",
+    "chapter_id": "c2",
+    "question": "Laws are the most powerful form of ________ social control.",
+    "options": ["Informal", "Formal", "Religious", "Peer"],
+    "correct_index": 1,
+    "explanation": "Laws are codified rules enforced by the state.",
+    "ncert_page": 20,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q48",
+    "chapter_id": "c2",
+    "question": "A person who is a 'role model' for others is usually part of their ________ group.",
+    "options": ["Out-group", "Primary Group", "Reference Group", "Aggregate"],
+    "correct_index": 2,
+    "explanation": "We use reference groups to model our behavior and evaluate ourselves.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q49",
+    "chapter_id": "c2",
+    "question": "Status inconsistency occurs when:",
+    "options": [
+      "A person has only one status",
+      "Positions in different stratification systems don't match (e.g., high caste but low income)",
+      "A person is happy with their status",
+      "Everyone has the same status"
+    ],
+    "correct_index": 1,
+    "explanation": "When an individual's rank in one hierarchy (caste) doesn't align with another (class), it is status inconsistency.",
+    "ncert_page": 15,
+    "difficulty": "hard",
+    "subject": "Sociology"
+  },
+  {
+    "mcq_id": "soc_c2_q50",
+    "chapter_id": "c2",
+    "question": "Sociological concepts like 'Status' and 'Role' help us see ________.",
+    "options": [
+      "Only the individual",
+      "The connection between the individual and the social structure",
+      "Only the laws of nature",
+      "Nothing new"
+    ],
+    "correct_index": 1,
+    "explanation": "These terms provide the bridge to understand how individuals are situated within society.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Sociology"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "mcq_id": "mtp_q01",
+    "chapter_id": "c22",
+    "question": "Who is the author of the essay 'My Three Passions'?",
+    "options": ["Mark Twain", "Bertrand Russell", "Martin Luther King", "Francis Bacon"],
+    "correct_index": 1,
+    "explanation": "The essay 'My Three Passions' is written by the philosopher and mathematician Bertrand Russell.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q02",
+    "chapter_id": "c22",
+    "question": "Which of the following is NOT one of the 'three passions' that governed Russell's life?",
+    "options": ["Longing for love", "Search for knowledge", "Desire for political power", "Unbearable pity for suffering"],
+    "correct_index": 2,
+    "explanation": "Russell identifies his three passions as love, knowledge, and pity for mankind.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q03",
+    "chapter_id": "c22",
+    "question": "Russell compares his three passions to:",
+    "options": ["Deep oceans", "Great winds", "Steamboats", "Mountain peaks"],
+    "correct_index": 1,
+    "explanation": "He writes, 'These passions, like great winds, have blown me hither and thither'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q04",
+    "chapter_id": "c22",
+    "question": "Russell says he sought love first because it brings:",
+    "options": ["Wealth", "Ecstasy", "Fame", "Security"],
+    "correct_index": 1,
+    "explanation": "The author states he sought love first because it brings ecstasy so great he would sacrifice life for it.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q05",
+    "chapter_id": "c22",
+    "question": "Metaphorically, Russell describes loneliness as looking over the rim of the world into a(n):",
+    "options": ["Ocean of joy", "Unfathomable lifeless abyss", "Garden of peace", "Cloudy sky"],
+    "correct_index": 1,
+    "explanation": "He describes loneliness as looking into a cold unfathomable lifeless abyss.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q06",
+    "chapter_id": "c22",
+    "question": "In the 'union of love', Russell claims to have seen a 'mystic miniature' of:",
+    "options": ["The future", "Heaven", "Creation", "The stars"],
+    "correct_index": 1,
+    "explanation": "He says in the union of love he saw the prefiguring vision of the heaven saints and poets imagined.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q07",
+    "chapter_id": "c22",
+    "question": "When seeking knowledge, Russell specifically mentions wishing to know why the ________ shine.",
+    "options": ["Sun", "Eyes", "Stars", "Moons"],
+    "correct_index": 2,
+    "explanation": "He writes: 'I have wished to know why the stars shine.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q08",
+    "chapter_id": "c22",
+    "question": "Russell mentions trying to apprehend the power of which Greek mathematician over the 'flux'?",
+    "options": ["Archimedes", "Pythagoras", "Euclid", "Socrates"],
+    "correct_index": 1,
+    "explanation": "He mentions trying to apprehend the 'Pythagorean power by which number holds sway over the flux'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q09",
+    "chapter_id": "c22",
+    "question": "What brings Russell back to earth from his search for love and knowledge?",
+    "options": ["Scientific failure", "Echoes of cries of pain (Pity)", "Old age", "Boredom"],
+    "correct_index": 1,
+    "explanation": "He writes that 'echoes of cries of pain reverberate in my heart' and bring him back to the reality of suffering.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q10",
+    "chapter_id": "c22",
+    "question": "Which of the following is NOT an example of suffering mentioned by Russell in his 'pity' section?",
+    "options": ["Children in famine", "Victims of torture", "Lack of high-speed internet", "Helpless old people"],
+    "correct_index": 2,
+    "explanation": "He mentions famine, torture, and the lonely aged, but not modern technology.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q11",
+    "chapter_id": "c22",
+    "question": "Russell concludes that his life has been:",
+    "options": ["A waste", "Worth living", "Very boring", "Only about himself"],
+    "correct_index": 1,
+    "explanation": "The final line of his section is: 'I have found it worth living, and would gladly live it again'.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q12",
+    "chapter_id": "c22",
+    "question": "What is the meaning of 'wayward course' in the essay?",
+    "options": ["A direct path", "An unpredictable or difficult to control direction", "A short walk", "A religious ceremony"],
+    "correct_index": 1,
+    "explanation": "The vocabulary context shows his passions moved him in an unpredictable, wandering way.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q13",
+    "chapter_id": "c22",
+    "question": "The term 'agape' discussed in the text means:",
+    "options": ["Romantic love", "Redemptive goodwill or overflowing love for all", "Selfish desire", "Fear of the unknown"],
+    "correct_index": 1,
+    "explanation": "Agape is defined as disinterested love, a redemptive goodwill for all men.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q14",
+    "chapter_id": "c22",
+    "question": "According to the text on Martin Luther King, agape is NOT ________.",
+    "options": ["Spiritual", "A weak or passive force", "Love for enemies", "A way to build community"],
+    "correct_index": 1,
+    "explanation": "King argued that agape is a powerful social force, not just emotional or weak.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q15",
+    "chapter_id": "c22",
+    "question": "King believed that 'he who works against community is working against ________'.",
+    "options": ["The government", "The whole of creation", "Himself only", "The school"],
+    "correct_index": 1,
+    "explanation": "The text states: 'He who works against community is working against the whole of creation.'",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q16",
+    "chapter_id": "c22",
+    "question": "The essay 'My Three Passions' is actually the prologue to Russell's:",
+    "options": ["Novel", "Autobiography", "Scientific journal", "History book"],
+    "correct_index": 1,
+    "explanation": "The text is the prologue to the 'Autobiography of Bertrand Russell'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q17",
+    "chapter_id": "c22",
+    "question": "What is an 'abyss' as used in the description of loneliness?",
+    "options": ["A high mountain", "A deep, seemingly bottomless pit", "A river", "A city"],
+    "correct_index": 1,
+    "explanation": "The vocabulary box mentions abyss in the context of the lifeless, deep hole of loneliness.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q18",
+    "chapter_id": "c22",
+    "question": "Russell writes that his search for knowledge was 'with equal ________' to his search for love.",
+    "options": ["Boredom", "Passion", "Failure", "Laziness"],
+    "correct_index": 1,
+    "explanation": "He introduces the second passion by saying 'With equal passion, I have sought knowledge.'",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q19",
+    "chapter_id": "c22",
+    "question": "Russell describes the 'cries of pain' as ________ in his heart.",
+    "options": ["Sleeping", "Reverberating", "Dying", "Laughing"],
+    "correct_index": 1,
+    "explanation": "He uses the word 'reverberate' to describe the echo of human suffering in his soul.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q20",
+    "chapter_id": "c22",
+    "question": "In King's philosophy, the 'cross' is the eternal expression of the length God will go to:",
+    "options": ["Punish sinners", "Restore broken community", "Destroy enemies", "End the world"],
+    "correct_index": 1,
+    "explanation": "The text says the cross is the length God will go to 'restore broken community'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q21",
+    "chapter_id": "c22",
+    "question": "Agape love 'seeks nothing in ________'.",
+    "options": ["Return", "Private", "The future", "Anger"],
+    "correct_index": 0,
+    "explanation": "Agape is described as 'disinterested love', seeking nothing back.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q22",
+    "chapter_id": "c22",
+    "question": "Russell mentions 'unbearable pity' for:",
+    "options": ["The stars", "The suffering of mankind", "Mathematics", "Himself"],
+    "correct_index": 1,
+    "explanation": "The third passion is pity for the suffering of mankind.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q23",
+    "chapter_id": "c22",
+    "question": "What is 'unfathomable' according to the essay's description of the abyss?",
+    "options": ["Clear", "Too deep to be measured/understood", "Bright", "Small"],
+    "correct_index": 1,
+    "explanation": "Unfathomable refers to the depth and complexity of the loneliness Russell felt.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q24",
+    "chapter_id": "c22",
+    "question": "Russell would 'gladly' do what, if given the chance?",
+    "options": ["Forget his life", "Live his life again", "Stay in the abyss", "Stop searching for knowledge"],
+    "correct_index": 1,
+    "explanation": "He ends by saying he would gladly live his life again if it were offered to him.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q25",
+    "chapter_id": "c22",
+    "question": "The 'Pythagorean power' refers to the influence of ________ over the flux.",
+    "options": ["Language", "Number", "Music", "War"],
+    "correct_index": 1,
+    "explanation": "Russell, a mathematician, refers to the power of 'number' holding sway over change (flux).",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q26",
+    "chapter_id": "c22",
+    "question": "Agape means we love others not because they are 'likable' but because ________ loves them.",
+    "options": ["Their family", "The government", "God", "The author"],
+    "correct_index": 2,
+    "explanation": "The text states one loves the person because God loves them.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q27",
+    "chapter_id": "c22",
+    "question": "The 'resurrection' is a symbol of God's ________ over forces that block community.",
+    "options": ["Defeat", "Triumph", "Indifference", "Anger"],
+    "correct_index": 1,
+    "explanation": "The text refers to the resurrection as a symbol of 'triumph'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q28",
+    "chapter_id": "c22",
+    "question": "Martin Luther King promoted ________ resistance.",
+    "options": ["Violent", "Nonviolent", "Silent", "Fast"],
+    "correct_index": 1,
+    "explanation": "King is famous for promoting nonviolent resistance against injustice.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q29",
+    "chapter_id": "c22",
+    "question": "Russell found that love 'might seem too ________ for human life'.",
+    "options": ["Bad", "Good", "Expensive", "Boring"],
+    "correct_index": 1,
+    "explanation": "He notes the extreme beauty/ecstasy of love.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q30",
+    "chapter_id": "c22",
+    "question": "To Russell, the search for knowledge was a way to understand the 'hearts of ________'.",
+    "options": ["Birds", "Men", "Machines", "Gods"],
+    "correct_index": 1,
+    "explanation": "He says: 'I have wished to understand the hearts of men.'",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q31",
+    "chapter_id": "c22",
+    "question": "What 'verge' did Russell's passions reach?",
+    "options": ["Verge of glory", "Verge of despair", "Verge of the sea", "Verge of the stars"],
+    "correct_index": 1,
+    "explanation": "The passions reaching 'the very verge of despair'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q32",
+    "chapter_id": "c22",
+    "question": "Agape 'makes no ________' between worthy and unworthy people.",
+    "options": ["Money", "Distinction", "Friends", "Plans"],
+    "correct_index": 1,
+    "explanation": "Agape love is given to all, regardless of status.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q33",
+    "chapter_id": "c22",
+    "question": "The 'Holy Spirit' is described as the continuing ________ creating reality.",
+    "options": ["War", "Community", "Science", "Silence"],
+    "correct_index": 1,
+    "explanation": "The text defines the Holy Spirit in relation to community.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q34",
+    "chapter_id": "c22",
+    "question": "Russell notes that 'poverty and ________' make a mockery of what human life should be.",
+    "options": ["Knowledge", "Pain", "Wealth", "Silence"],
+    "correct_index": 1,
+    "explanation": "He laments the existence of poverty and pain.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q35",
+    "chapter_id": "c22",
+    "question": "Russell identifies 'loneliness' as the 'shivering ________'.",
+    "options": ["Body", "Consciousness", "Soul", "Heart"],
+    "correct_index": 1,
+    "explanation": "He uses the phrase 'one shivering consciousness'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q36",
+    "chapter_id": "c22",
+    "question": "What did Russell 'at least' find, according to the text?",
+    "options": ["Love", "Total world peace", "Infinite knowledge", "Perfect wealth"],
+    "correct_index": 0,
+    "explanation": "He explicitly states that love is 'what at least I have found'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q37",
+    "chapter_id": "c22",
+    "question": "The 'Pythagorean' mention shows Russell's interest in which subject?",
+    "options": ["History", "Mathematics", "Biology", "Music"],
+    "correct_index": 1,
+    "explanation": "Pythagoras is a mathematician; Russell was also a logician and mathematician.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q38",
+    "chapter_id": "c22",
+    "question": "In King's view, one must respond to hate with ________ to avoid being depersonalised.",
+    "options": ["Anger", "Love", "Violence", "Indifference"],
+    "correct_index": 1,
+    "explanation": "The text states one must respond to hate with love.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q39",
+    "chapter_id": "c22",
+    "question": "Russell describes the 'ocean of ________' his passions blew him over.",
+    "options": ["Hope", "Anguish", "Water", "Stars"],
+    "correct_index": 1,
+    "explanation": "The line refers to an 'ocean of anguish'.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q40",
+    "chapter_id": "c22",
+    "question": "Which word means 'to understand' in the vocabulary list?",
+    "options": ["Abyss", "Apprehend", "Flux", "Miniature"],
+    "correct_index": 1,
+    "explanation": "Apprehend is used in the sense of understanding or grasping a concept.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q41",
+    "chapter_id": "c22",
+    "question": "Russell found 'a little' of which passion?",
+    "options": ["Pity", "Knowledge", "Love", "Despair"],
+    "correct_index": 1,
+    "explanation": "He says: 'A little of this, but not much, I have achieved' regarding knowledge.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q42",
+    "chapter_id": "c22",
+    "question": "The 'mystic miniature' refers to the union of ________.",
+    "options": ["Numbers", "Love", "Stars", "Suffering"],
+    "correct_index": 1,
+    "explanation": "It refers to the prefiguring vision found in the union of love.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q43",
+    "chapter_id": "c22",
+    "question": "King believed agape was a willingness to forgive ________ times.",
+    "options": ["Seven", "Seventy", "Zero", "One"],
+    "correct_index": 1,
+    "explanation": "He refers to the biblical 'seventy times' to restore community.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q44",
+    "chapter_id": "c22",
+    "question": "Hateful responses, according to King, promote a ________ community.",
+    "options": ["Perfect", "Broken", "Rich", "Large"],
+    "correct_index": 1,
+    "explanation": "The text says hateful responses promote a broken community.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q45",
+    "chapter_id": "c22",
+    "question": "Russell says he longed to 'alleviate the ________'.",
+    "options": ["Stars", "Evil", "Knowledge", "Loneliness"],
+    "correct_index": 1,
+    "explanation": "He writes: 'I long to alleviate the evil, but I cannot'.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q46",
+    "chapter_id": "c22",
+    "question": "Agape love is 'overflowing love which is purely ________'.",
+    "options": ["Selfish", "Spontaneous", "Planned", "Paid"],
+    "correct_index": 1,
+    "explanation": "The text describes it as purely spontaneous and unmotivated.",
+    "difficulty": "hard",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q47",
+    "chapter_id": "c22",
+    "question": "Russell felt he was a member of 'one ________' consciousness in loneliness.",
+    "options": ["Happy", "Shivering", "Large", "Dead"],
+    "correct_index": 1,
+    "explanation": "He uses the adjective 'shivering' to show the vulnerability of the individual.",
+    "difficulty": "medium",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q48",
+    "chapter_id": "c22",
+    "question": "Which of these is a work by Bertrand Russell suggested at the end?",
+    "options": ["Huckleberry Finn", "Ideas that have Helped Mankind", "Refugee Blues", "Coming"],
+    "correct_index": 1,
+    "explanation": "This is listed in the 'Suggested Reading' section.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q49",
+    "chapter_id": "c22",
+    "question": "By harming another, human beings ________.",
+    "options": ["Help themselves", "Harm themselves", "Win", "Gain knowledge"],
+    "correct_index": 1,
+    "explanation": "The text notes that all humans are related and harming others is self-harm.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  },
+  {
+    "mcq_id": "mtp_q50",
+    "chapter_id": "c22",
+    "question": "The three passions were described as 'simple but overwhelmingly ________'.",
+    "options": ["Weak", "Strong", "Complex", "False"],
+    "correct_index": 1,
+    "explanation": "He opens with this description of his governing passions.",
+    "difficulty": "easy",
+    "subject": "English Literature"
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "mcq_id": "eco_cd_q01",
+    "chapter_id": "c2",
+    "question": "What is the primary purpose of collecting data in economics?",
+    "options": [
+      "To increase the volume of books",
+      "To show evidence for reaching a sound and clear solution to a problem",
+      "To memorize historical dates",
+      "To replace the need for decision making"
+    ],
+    "correct_index": 1,
+    "explanation": "The purpose of collection of data is to show evidence for reaching a sound and clear solution to a problem.",
+    "ncert_page": 1,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q02",
+    "chapter_id": "c2",
+    "question": "Data collected by the investigator for the first time from its source of origin is called:",
+    "options": ["Secondary Data", "Primary Data", "Published Data", "Internal Data"],
+    "correct_index": 1,
+    "explanation": "Primary data are those which are collected for the first time from the source of origin by the investigator.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q03",
+    "chapter_id": "c2",
+    "question": "If you use data that has been collected and processed by some other agency, it is known as:",
+    "options": ["Primary Source", "Original Source", "Secondary Source", "Direct Source"],
+    "correct_index": 2,
+    "explanation": "If the data have been collected and processed by some other agency, they are called secondary data.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q04",
+    "chapter_id": "c2",
+    "question": "Which of the following is a method used for collecting primary data?",
+    "options": ["Using a government report", "Personal Interview", "Referring to an Encyclopedia", "Reading a Newspaper"],
+    "correct_index": 1,
+    "explanation": "Methods of collecting primary data include personal interviews, mailing questionnaires, and telephone interviews.",
+    "ncert_page": 2,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q05",
+    "chapter_id": "c2",
+    "question": "The person from whom the information is collected is called the:",
+    "options": ["Investigator", "Enumerator", "Respondent", "Policy Maker"],
+    "correct_index": 2,
+    "explanation": "The respondent is the person who answers the questions or provides the information.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q06",
+    "chapter_id": "c2",
+    "question": "Which method of data collection allows the researcher to assist the respondent by clarifying questions?",
+    "options": ["Mailing Questionnaire", "Telephone Interview", "Personal Interview", "Indirect Oral Investigation"],
+    "correct_index": 2,
+    "explanation": "In personal interviews, the investigator can explain the questions and clarify doubts of the respondent.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q07",
+    "chapter_id": "c2",
+    "question": "The main advantage of 'Mailing Questionnaire' is:",
+    "options": [
+      "Highest response rate",
+      "Ability to clarify doubts",
+      "It is less expensive and covers a wide area",
+      "Useful for illiterate people"
+    ],
+    "correct_index": 2,
+    "explanation": "Mailing a questionnaire is less expensive and allows researchers to reach people in remote areas.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q08",
+    "chapter_id": "c2",
+    "question": "A 'Pilot Survey' is also known as:",
+    "options": ["Census", "Final Survey", "Pre-testing of the questionnaire", "Sample Design"],
+    "correct_index": 2,
+    "explanation": "Pre-testing of the questionnaire is known as a Pilot Survey.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q09",
+    "chapter_id": "c2",
+    "question": "What is the primary benefit of conducting a Pilot Survey?",
+    "options": [
+      "To reach the final conclusion",
+      "To help in assessing the shortcomings of the questionnaire",
+      "To replace the main survey",
+      "To collect secondary data"
+    ],
+    "correct_index": 1,
+    "explanation": "The pilot survey helps to assess the suitability of questions, clarity of instructions, and performance of enumerators.",
+    "ncert_page": 5,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q10",
+    "chapter_id": "c2",
+    "question": "A survey that includes every element of the population is called a:",
+    "options": ["Sample Survey", "Pilot Survey", "Census Survey", "Control Survey"],
+    "correct_index": 2,
+    "explanation": "A survey, which includes every element of the population, is known as Census or the Method of Complete Enumeration.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q11",
+    "chapter_id": "c2",
+    "question": "In statistics, 'Population' or 'Universe' refers to:",
+    "options": [
+      "Only the human population of a country",
+      "The aggregate of all items having some common characteristic",
+      "The stars in the galaxy",
+      "The number of respondents who answered"
+    ],
+    "correct_index": 1,
+    "explanation": "Population or the Universe in statistics means the totality of the items under study.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q12",
+    "chapter_id": "c2",
+    "question": "A group or section of the population from which information is actually obtained is called a:",
+    "options": ["Census", "Variable", "Sample", "Aggregate"],
+    "correct_index": 2,
+    "explanation": "A sample refers to a group or section of the population from which information is to be obtained.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q13",
+    "chapter_id": "c2",
+    "question": "Which organization conducts the population census in India every ten years?",
+    "options": ["NSSO", "Registrar General of India", "RBI", "World Bank"],
+    "correct_index": 1,
+    "explanation": "The Census of India is conducted by the Office of the Registrar General and Census Commissioner, India.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q14",
+    "chapter_id": "c2",
+    "question": "Which of the following is a drawback of the Census method?",
+    "options": [
+      "Not useful for specific study",
+      "It is very expensive and time-consuming",
+      "It doesn't cover all units",
+      "It has high sampling errors"
+    ],
+    "correct_index": 1,
+    "explanation": "A census is a very expensive and time-consuming process.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q15",
+    "chapter_id": "c2",
+    "question": "A good sample is one which is ________ of the population.",
+    "options": ["Opposite", "Independent", "Representative", "Smaller"],
+    "correct_index": 2,
+    "explanation": "A good sample is generally smaller than the population and is capable of providing reasonably accurate information about the population at much lower cost and shorter time.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q16",
+    "chapter_id": "c2",
+    "question": "Sampling where every individual in the population has an equal chance of being selected is:",
+    "options": ["Non-Random Sampling", "Random Sampling", "Quota Sampling", "Purposive Sampling"],
+    "correct_index": 1,
+    "explanation": "Random sampling is one where the individual units from the population are selected at random. Every individual has an equal chance.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q17",
+    "chapter_id": "c2",
+    "question": "The 'Lottery Method' is an example of:",
+    "options": ["Non-Random Sampling", "Secondary Data collection", "Random Sampling", "Census"],
+    "correct_index": 2,
+    "explanation": "In the lottery method, names are written on slips and mixed; then slips are drawn. This is a form of random sampling.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q18",
+    "chapter_id": "c2",
+    "question": "Sampling where the investigator chooses units based on their own judgment is:",
+    "options": ["Random Sampling", "Non-random Sampling", "Systematic Sampling", "Census"],
+    "correct_index": 1,
+    "explanation": "In a non-random sampling method, all the units of the population do not have an equal chance of being selected and selection depends on judgment.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q19",
+    "chapter_id": "c2",
+    "question": "Which type of error occurs due to the difference between the sample estimate and the actual population value?",
+    "options": ["Non-sampling error", "Sampling error", "Measurement error", "Data entry error"],
+    "correct_index": 1,
+    "explanation": "Sampling error refers to the difference between the sample estimate and the corresponding population parameter.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q20",
+    "chapter_id": "c2",
+    "question": "Sampling error can be minimized by:",
+    "options": [
+      "Decreasing the sample size",
+      "Increasing the sample size",
+      "Using non-random sampling",
+      "Ignoring the population"
+    ],
+    "correct_index": 1,
+    "explanation": "The sampling error can be reduced by taking a larger sample.",
+    "ncert_page": 8,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q21",
+    "chapter_id": "c2",
+    "question": "Which of the following is a 'Non-sampling error'?",
+    "options": [
+      "Difference due to sample size",
+      "Data acquisition error",
+      "Random selection difference",
+      "None of the above"
+    ],
+    "correct_index": 1,
+    "explanation": "Non-sampling errors are more serious than sampling errors and include errors in data acquisition and non-response errors.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q22",
+    "chapter_id": "c2",
+    "question": "Which error is considered more serious because it cannot be minimized by increasing the sample size?",
+    "options": ["Sampling Error", "Non-sampling Error", "Random Error", "Formula Error"],
+    "correct_index": 1,
+    "explanation": "Non-sampling errors are more serious because a sampling error can be minimised by taking a larger sample.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q23",
+    "chapter_id": "c2",
+    "question": "NSSO stands for:",
+    "options": [
+      "National Saving Survey Office",
+      "National Sample Survey Organisation",
+      "New Statistical Survey Office",
+      "National Social Security Organisation"
+    ],
+    "correct_index": 1,
+    "explanation": "NSSO stands for National Sample Survey Organisation.",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q24",
+    "chapter_id": "c2",
+    "question": "Which organization in India provides estimates on literacy, school enrollment, and public distribution system usage?",
+    "options": ["Census of India", "RBI", "NSSO", "Ministry of Finance"],
+    "correct_index": 2,
+    "explanation": "NSSO provides periodic estimates on literacy, school enrolment, utilization of educational services, and PDS.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q25",
+    "chapter_id": "c2",
+    "question": "A questionnaire should preferably NOT contain ________ questions.",
+    "options": ["Multiple choice", "Open-ended", "Leading", "Logical"],
+    "correct_index": 2,
+    "explanation": "A questionnaire should not be a leading question, which gives a clue about how the respondent should answer.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q26",
+    "chapter_id": "c2",
+    "question": "Which method of survey is most suitable when the respondent is illiterate?",
+    "options": ["Mailing questionnaire", "Personal Interview", "Online Survey", "Self-enumeration"],
+    "correct_index": 1,
+    "explanation": "In personal interviews, the investigator can read the questions and record answers for people who cannot read or write.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q27",
+    "chapter_id": "c2",
+    "question": "The summary of the chapter states that Statistics is a tool which ________.",
+    "options": [
+      "Should be used without caution",
+      "Replaces common sense",
+      "Must be used with caution as it can be misused",
+      "Is only for mathematicians"
+    ],
+    "correct_index": 2,
+    "explanation": "Statistics is a tool that should be used with caution... data can be used to mislead people.",
+    "ncert_page": 11,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q28",
+    "chapter_id": "c2",
+    "question": "What is 'Non-response error'?",
+    "options": [
+      "When a respondent gives the wrong answer",
+      "When the investigator fails to list all units",
+      "When a respondent refuses to answer or the investigator cannot contact them",
+      "When the printer makes a mistake"
+    ],
+    "correct_index": 2,
+    "explanation": "Non-response error occurs if an interviewer is unable to contact a person listed in the sample or if a person from the sample refuses to respond.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q29",
+    "chapter_id": "c2",
+    "question": "The last census in India was held in:",
+    "options": ["1991", "2001", "2011", "2021"],
+    "correct_index": 2,
+    "explanation": "The text refers to the 2011 census as a major data point (though 2021 was delayed).",
+    "ncert_page": 10,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q30",
+    "chapter_id": "c2",
+    "question": "Which method of data collection is most likely to have the highest 'Non-response'?",
+    "options": ["Personal Interview", "Mailing Questionnaire", "Telephone Interview", "Census"],
+    "correct_index": 1,
+    "explanation": "Mailing questionnaires generally have a high rate of non-response because people often ignore them.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q31",
+    "chapter_id": "c2",
+    "question": "A question like 'Are you a student?' which has only two possible answers (Yes/No) is a:",
+    "options": ["Multiple choice question", "Structured question", "Dichotomous question", "Open-ended question"],
+    "correct_index": 2,
+    "explanation": "Dichotomous questions have only two choices, like Yes/No.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q32",
+    "chapter_id": "c2",
+    "question": "If a study is conducted on 'cropping patterns' in a village of 200 farms by looking at 50 farms, 200 is the:",
+    "options": ["Sample size", "Universe/Population", "Variable", "Pilot study"],
+    "correct_index": 1,
+    "explanation": "The total number of farms (200) is the population.",
+    "ncert_page": 12,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q33",
+    "chapter_id": "c2",
+    "question": "Which of these is an example of an 'Open-ended' question?",
+    "options": [
+      "What is your age?",
+      "Do you like ice cream?",
+      "How can poverty be reduced in India?",
+      "Choose your favorite color: Red, Blue, Green."
+    ],
+    "correct_index": 2,
+    "explanation": "Open-ended questions allow for individualised responses.",
+    "ncert_page": 4,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q34",
+    "chapter_id": "c2",
+    "question": "Errors that occur during recording or coding of data are called:",
+    "options": ["Sampling errors", "Data acquisition errors", "Random selection errors", "Census errors"],
+    "correct_index": 1,
+    "explanation": "Data acquisition errors arise from recording of incorrect responses.",
+    "ncert_page": 9,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q35",
+    "chapter_id": "c2",
+    "question": "The 'Sarvekshana' is a quarterly journal published by:",
+    "options": ["RBI", "Registrar General", "NSSO", "Ministry of Labour"],
+    "correct_index": 2,
+    "explanation": "The results of NSSO surveys are published in their quarterly journal 'Sarvekshana'.",
+    "ncert_page": 11,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q36",
+    "chapter_id": "c2",
+    "question": "Secondary data is ________ as compared to primary data.",
+    "options": [
+      "More reliable for first-hand research",
+      "Less expensive and less time-consuming to obtain",
+      "More expensive",
+      "Always more accurate"
+    ],
+    "correct_index": 1,
+    "explanation": "Secondary data is already collected and thus saves time and money for the researcher.",
+    "ncert_page": 2,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q37",
+    "chapter_id": "c2",
+    "question": "Which method should be used when the area of investigation is very small and requires high accuracy?",
+    "options": ["Sample Survey", "Census Survey", "Mailing Questionnaire", "Telephone Interview"],
+    "correct_index": 1,
+    "explanation": "Census is used when the area is limited and every unit must be examined for accuracy.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q38",
+    "chapter_id": "c2",
+    "question": "Exit polls during elections are based on which method?",
+    "options": ["Census", "Sample Survey", "Pilot Survey", "Published Data"],
+    "correct_index": 1,
+    "explanation": "Exit polls involve interviewing a small group of voters to represent the whole, which is a sample survey.",
+    "ncert_page": 6,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q39",
+    "chapter_id": "c2",
+    "question": "The questionnaire should move from ________ to ________ questions.",
+    "options": ["Complex; Simple", "Specific; General", "General; Specific", "Personal; Logical"],
+    "correct_index": 2,
+    "explanation": "The questionnaire should start from general questions and proceed to more specific ones.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q40",
+    "chapter_id": "c2",
+    "question": "Statistical units can be selected using 'Random Number Tables'.",
+    "options": ["True", "False", "Only for Census", "Only for secondary data"],
+    "correct_index": 0,
+    "explanation": "Random number tables are a tool used to select a random sample.",
+    "ncert_page": 7,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q41",
+    "chapter_id": "c2",
+    "question": "A sample estimate that is systematically different from the population value due to interviewer influence is:",
+    "options": ["Sampling Bias", "Non-sampling Bias", "Standard Error", "Margin of error"],
+    "correct_index": 1,
+    "explanation": "Influence of the interviewer or errors in data acquisition are non-sampling errors/biases.",
+    "ncert_page": 9,
+    "difficulty": "hard",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q42",
+    "chapter_id": "c2",
+    "question": "Which method is most useful for asking questions that are sensitive or personal?",
+    "options": ["Personal Interview", "Telephone Interview", "Mailing Questionnaire", "Public Survey"],
+    "correct_index": 2,
+    "explanation": "Mailing a questionnaire provides anonymity and is better for sensitive questions.",
+    "ncert_page": 3,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q43",
+    "chapter_id": "c2",
+    "question": "In a village study, if we analyze 50 farms out of 200, 50 is the:",
+    "options": ["Universe", "Sample size", "Pilot size", "Parameter"],
+    "correct_index": 1,
+    "explanation": "The number of units selected for the study (50) is the sample size.",
+    "ncert_page": 12,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q44",
+    "chapter_id": "c2",
+    "question": "What happens as the sample size increases?",
+    "options": [
+      "Sampling error increases",
+      "Sampling error decreases",
+      "Non-sampling error decreases",
+      "No change in errors"
+    ],
+    "correct_index": 1,
+    "explanation": "Increasing the sample size reduces the sampling error.",
+    "ncert_page": 8,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q45",
+    "chapter_id": "c2",
+    "question": "Personal interviews have a ________ response rate compared to mailing questionnaires.",
+    "options": ["Lower", "Higher", "Similar", "Zero"],
+    "correct_index": 1,
+    "explanation": "Personal interviews generally have a higher response rate because the investigator is present.",
+    "ncert_page": 3,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q46",
+    "chapter_id": "c2",
+    "question": "Before using secondary data, an investigator must check for ________.",
+    "options": ["Color of the paper", "Reliability and suitability", "Only the price", "Length of the report"],
+    "correct_index": 1,
+    "explanation": "One must be careful while using secondary data and ensure it is reliable and suitable for the current study.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q47",
+    "chapter_id": "c2",
+    "question": "Which method of sampling is used when names are picked from a hat?",
+    "options": ["Non-random", "Random", "Purposive", "Systematic"],
+    "correct_index": 1,
+    "explanation": "Picking names from a hat (lottery) is a classic random sampling technique.",
+    "ncert_page": 7,
+    "difficulty": "easy",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q48",
+    "chapter_id": "c2",
+    "question": "What is the primary mode of collection for the 'Census of India'?",
+    "options": ["Mailing", "Telephone", "Personal enumeration/Interview", "Online forms"],
+    "correct_index": 2,
+    "explanation": "The Census involves enumerators visiting houses, which is a form of personal investigation/interview.",
+    "ncert_page": 10,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q49",
+    "chapter_id": "c2",
+    "question": "Sampling is preferred over Census when ________.",
+    "options": [
+      "The population is very small",
+      "Resources like time and money are limited",
+      "Total accuracy is required",
+      "Destroying units during testing is not allowed"
+    ],
+    "correct_index": 1,
+    "explanation": "Sampling is faster and cheaper, making it preferable for large populations or limited budgets.",
+    "ncert_page": 6,
+    "difficulty": "medium",
+    "subject": "Economics"
+  },
+  {
+    "mcq_id": "eco_cd_q50",
+    "chapter_id": "c2",
+    "question": "A question like 'How much do you earn?' is best placed ________ in a questionnaire.",
+    "options": [
+      "At the very beginning",
+      "In the middle",
+      "Toward the end",
+      "It shouldn't be asked"
+    ],
+    "correct_index": 2,
+    "explanation": "Sensitive questions should be placed at the end once the respondent is comfortable.",
+    "ncert_page": 4,
+    "difficulty": "medium",
+    "subject": "Economics"
+  }
+]

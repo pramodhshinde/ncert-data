@@ -1,0 +1,25 @@
+{
+  "subject": "economics",
+  "classNumber": 11,
+  "chapters": [
+    { "chapterNumber": 1, "title": "Introduction (Statistics)", "fileName": "eco_ch1.json", "questionCount": 45 },
+    { "chapterNumber": 2, "title": "Collection of Data", "fileName": "eco_ch2.json", "questionCount": 0 },
+    { "chapterNumber": 3, "title": "Organisation of Data", "fileName": "eco_ch3.json", "questionCount": 0 },
+    { "chapterNumber": 4, "title": "Presentation of Data", "fileName": "eco_ch4.json", "questionCount": 0 },
+    { "chapterNumber": 5, "title": "Measures of Central Tendency", "fileName": "eco_ch5.json", "questionCount": 0 },
+    { "chapterNumber": 6, "title": "Correlation", "fileName": "eco_ch6.json", "questionCount": 0 },
+    { "chapterNumber": 7, "title": "Index Numbers", "fileName": "eco_ch7.json", "questionCount": 0 },
+    { "chapterNumber": 8, "title": "Introduction to Statistics", "fileName": "eco_ch8.json", "questionCount": 0 },
+    { "chapterNumber": 9, "title": "Indian Economy on the Eve of Independence", "fileName": "eco_ch9.json", "questionCount": 0 },
+    { "chapterNumber": 10, "title": "Indian Economy 1950–1990", "fileName": "eco_ch10.json", "questionCount": 0 },
+    { "chapterNumber": 11, "title": "Liberalisation, Privatisation and Globalisation", "fileName": "eco_ch11.json", "questionCount": 0 },
+    { "chapterNumber": 12, "title": "Poverty", "fileName": "eco_ch12.json", "questionCount": 0 },
+    { "chapterNumber": 13, "title": "Human Capital Formation in India", "fileName": "eco_ch13.json", "questionCount": 0 },
+    { "chapterNumber": 14, "title": "Rural Development", "fileName": "eco_ch14.json", "questionCount": 0 },
+    { "chapterNumber": 15, "title": "Employment: Growth, Informalisation and Other Issues", "fileName": "eco_ch15.json", "questionCount": 0 },
+    { "chapterNumber": 16, "title": "Infrastructure", "fileName": "eco_ch16.json", "questionCount": 0 },
+    { "chapterNumber": 17, "title": "Environment and Sustainable Development", "fileName": "eco_ch17.json", "questionCount": 0 },
+    { "chapterNumber": 18, "title": "Comparative Development Experiences of India and its Neighbours", "fileName": "eco_ch18.json", "questionCount": 0 }
+  ],
+  "totalChapters": 18
+}
