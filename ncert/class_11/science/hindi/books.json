@@ -104,6 +104,24 @@
         "english",
         "hindi"
       ]
+    },
+    {
+      "id": 1116,
+      "title": "Ganit",
+      "subtitle": "Class 11 NCERT Textbook (Hindi)",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 14,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_11/science/mathematics",
+      "streams": [
+        "science"
+      ],
+      "mediums": [
+        "hindi"
+      ]
     }
   ]
 }

@@ -54,7 +54,7 @@
       "subject": "Biology",
       "chapterCount": 19,
       "parts": 1
-    },  
+    },
     {
       "id": 1108,
       "title": "Biotechnology",
@@ -65,6 +65,17 @@
       "subject": "Biotechnology",
       "chapterCount": 12,
       "parts": 1
+    },
+    {
+      "id": 1116,
+      "title": "Ganit",
+      "subtitle": "Class 11 NCERT Textbook (Hindi)",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 14,
+      "parts": 1,
+      "coverUrl": ""
     }
   ]
 }

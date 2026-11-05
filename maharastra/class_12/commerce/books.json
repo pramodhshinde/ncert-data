@@ -1,48 +1,103 @@
 {
   "books": [
     {
-      "id": 1221,
-      "title": "Accountancy Part I",
+      "id": 1314,
+      "title": "Book-keeping and Accountancy",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1nKSUOvj9Pr4iXHhFDNHdDwjUVWYlAAx4/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Accountancy",
-      "chapterCount": 4,
-      "parts": 2
+      "subject": "Book-keeping and Accountancy",
+      "chapterCount": 10,
+      "parts": 1,
+      "coverUrl": ""
     },
     {
-      "id": 1222,
-      "title": "Accountancy Part II",
-      "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1Ids_QuxfIR9skmQX_zXJgXPSnymR28rH/view?usp=drivesdk",
-      "language": "english",
+      "id": 1315,
+      "title": "Book-keeping and Accountancy",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
       "classNumber": "Class 12",
-      "subject": "Accountancy",
-      "chapterCount": 5,
-      "parts": 2
+      "subject": "Book-keeping and Accountancy",
+      "chapterCount": 10,
+      "parts": 1,
+      "coverUrl": ""
     },
     {
-      "id": 1223,
-      "title": "Business Studies Part I",
+      "id": 1316,
+      "title": "Co-operation",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1W627iWfrMtanL7REGmqBn7HG_2S9YAnw/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Business Studies",
+      "subject": "Co-operation",
+      "chapterCount": 10,
+      "parts": 1,
+      "coverUrl": ""
+    },
+    {
+      "id": 1317,
+      "title": "Mathematics and Statistics Part 1",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Mathematics and Statistics",
       "chapterCount": 8,
-      "parts": 2
+      "parts": 2,
+      "coverUrl": ""
     },
     {
-      "id": 1227,
-      "title": "Business Studies Part II",
+      "id": 1318,
+      "title": "Mathematics and Statistics Part 2",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1BO-DQI1zR_DYDUzT9y7t3LbkHvKR7Hp_/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Business Studies",
-      "chapterCount": 3,
-      "parts": 2
+      "subject": "Mathematics and Statistics",
+      "chapterCount": 8,
+      "parts": 2,
+      "coverUrl": ""
+    },
+    {
+      "id": 1319,
+      "title": "Organisation of Commerce and Management",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Organisation of Commerce and Management",
+      "chapterCount": 8,
+      "parts": 1,
+      "coverUrl": ""
+    },
+    {
+      "id": 1320,
+      "title": "Organisation of Commerce and Management",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Organisation of Commerce and Management",
+      "chapterCount": 8,
+      "parts": 1,
+      "coverUrl": ""
+    },
+    {
+      "id": 1321,
+      "title": "Secretarial Practice",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Secretarial Practice",
+      "chapterCount": 12,
+      "parts": 1,
+      "coverUrl": ""
+    },
+    {
+      "id": 1322,
+      "title": "Secretarial Practice",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Secretarial Practice",
+      "chapterCount": 12,
+      "parts": 1,
+      "coverUrl": ""
     }
   ]
 }

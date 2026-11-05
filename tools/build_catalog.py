@@ -35,6 +35,23 @@ def norm(s):
     return re.sub(r'[^a-z0-9]+', '_', s.lower()).strip('_')
 
 
+def book_folders(board, cls):
+    """bookId -> content folder, read from where the book's chapters actually live."""
+    m = {}
+    base = os.path.join(ROOT, board, cls)
+    for st in sorted(os.listdir(base)):
+        sd = os.path.join(base, st)
+        if not os.path.isdir(sd):
+            continue
+        for sub in sorted(os.listdir(sd)):
+            cf = os.path.join(sd, sub, 'chapters.json')
+            if os.path.exists(cf):
+                d = load(cf, {})
+                for c in (d.get('chapters') if isinstance(d, dict) else d) or []:
+                    m.setdefault(c.get('bookId'), f'{cls}/{st}/{sub}')
+    return m
+
+
 def find_folder(board, cls, folders, subject):
     """subject -> content folder (first of the given stream folders that has it)."""
     want = norm(subject)
@@ -59,6 +76,7 @@ def main():
                        and os.path.exists(os.path.join(ROOT, board, cls, d, 'books.json'))]
             if not streams:
                 streams = ['common']
+            bmap = book_folders(board, cls)
             all_books = {}
             for folder in streams + (['common'] if 'common' not in streams else []):
                 for b in load(os.path.join(ROOT, board, cls, folder, 'books.json'), {'books': []})['books']:
@@ -84,7 +102,7 @@ def main():
                             continue
                         e = {k: v for k, v in b.items() if k != '_home'}
                         folders = [home] + [s for s in streams + ['common'] if s != home]
-                        e['contentPath'] = find_folder(board, cls, folders, b['subject'])
+                        e['contentPath'] = bmap.get(b['id']) or find_folder(board, cls, folders, b['subject'])
                         if not e['contentPath']:
                             problems.append(f'{board}/{cls} book {b["id"]} {b["title"]}: no content folder for "{b["subject"]}"')
                         e['streams'] = [s for s in streams if (s in b['streams'] if 'streams' in b else (home == s or home == 'common'))]

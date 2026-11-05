@@ -82,7 +82,7 @@
       "subject": "Computer Science",
       "chapterCount": 11,
       "parts": 1,
-      "contentPath": "class_11/common/computer_science",
+      "contentPath": "class_11/commerce/computer_science",
       "streams": [
         "arts",
         "commerce",
@@ -165,7 +165,7 @@
       "subject": "Geography",
       "chapterCount": 14,
       "parts": 2,
-      "contentPath": "class_11/common/geography",
+      "contentPath": "class_11/commerce/geography",
       "streams": [
         "arts",
         "commerce",
@@ -185,7 +185,7 @@
       "subject": "Geography",
       "chapterCount": 6,
       "parts": 2,
-      "contentPath": "class_11/common/geography",
+      "contentPath": "class_11/commerce/geography",
       "streams": [
         "arts",
         "commerce",
@@ -287,7 +287,7 @@
       "subject": "Physical Education",
       "chapterCount": 11,
       "parts": 1,
-      "contentPath": "class_11/common/physical_education",
+      "contentPath": "class_11/arts/physical_education",
       "streams": [
         "arts",
         "commerce",
@@ -343,7 +343,7 @@
       "subject": "Psychology",
       "chapterCount": 8,
       "parts": 1,
-      "contentPath": "class_11/common/psychology",
+      "contentPath": "class_11/arts/psychology",
       "streams": [
         "arts",
         "commerce",

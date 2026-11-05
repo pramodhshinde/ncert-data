@@ -1,15 +1,15 @@
 {
   "books": [
     {
-      "id": 1221,
-      "title": "Accountancy Part I",
+      "id": 1314,
+      "title": "Book-keeping and Accountancy",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1nKSUOvj9Pr4iXHhFDNHdDwjUVWYlAAx4/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Accountancy",
-      "chapterCount": 4,
-      "parts": 2,
+      "subject": "Book-keeping and Accountancy",
+      "chapterCount": 10,
+      "parts": 1,
+      "coverUrl": "",
       "contentPath": "class_12/commerce/accountancy",
       "streams": [
         "commerce"
@@ -19,16 +19,16 @@
       ]
     },
     {
-      "id": 1222,
-      "title": "Accountancy Part II",
+      "id": 1316,
+      "title": "Co-operation",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1Ids_QuxfIR9skmQX_zXJgXPSnymR28rH/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Accountancy",
-      "chapterCount": 5,
-      "parts": 2,
-      "contentPath": "class_12/commerce/accountancy",
+      "subject": "Co-operation",
+      "chapterCount": 10,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/commerce/co_operation",
       "streams": [
         "commerce"
       ],
@@ -37,34 +37,141 @@
       ]
     },
     {
-      "id": 1223,
-      "title": "Business Studies Part I",
+      "id": 1323,
+      "title": "Economics",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1W627iWfrMtanL7REGmqBn7HG_2S9YAnw/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Business Studies",
-      "chapterCount": 8,
-      "parts": 2,
-      "contentPath": "class_12/commerce/business_studies",
+      "subject": "Economics",
+      "chapterCount": 11,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/economics",
       "streams": [
-        "commerce"
+        "arts",
+        "commerce",
+        "science"
       ],
       "mediums": [
         "english"
       ]
     },
     {
-      "id": 1227,
-      "title": "Business Studies Part II",
+      "id": 1325,
+      "title": "English",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1BO-DQI1zR_DYDUzT9y7t3LbkHvKR7Hp_/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Business Studies",
+      "subject": "English",
+      "chapterCount": 26,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/english",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1233,
+      "title": "Aroh Part II",
+      "subtitle": "Class 12 Maharashtra State Board Hindi Textbook",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 15,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1326,
+      "title": "Hindi",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 19,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1234,
+      "title": "Vitan Part II",
+      "subtitle": "Class 12 Maharashtra State Board Hindi Supplementary",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
       "chapterCount": 3,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1327,
+      "title": "Marathi",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Marathi",
+      "chapterCount": 23,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/marathi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1317,
+      "title": "Mathematics and Statistics Part 1",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Mathematics and Statistics",
+      "chapterCount": 8,
       "parts": 2,
-      "contentPath": "class_12/commerce/business_studies",
+      "coverUrl": "",
+      "contentPath": "class_12/commerce/mathematics",
       "streams": [
         "commerce"
       ],
@@ -73,36 +180,16 @@
       ]
     },
     {
-      "id": 1209,
-      "title": "Computer Science",
+      "id": 1328,
+      "title": "Mathematics and Statistics Part 1",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1By0qKpE6DzZOwtv-t2NkhCyRemAC45b-/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Computer Science",
-      "chapterCount": 13,
-      "parts": 1,
-      "contentPath": "class_12/common/computer_science",
-      "streams": [
-        "arts",
-        "commerce",
-        "science"
-      ],
-      "mediums": [
-        "english"
-      ]
-    },
-    {
-      "id": 1224,
-      "title": "Introductory Macroeconomics",
-      "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/19UWYPtUdqLPz0ESNCkKgRPLzcO-TpdxV/view?usp=drivesdk",
-      "language": "english",
-      "classNumber": "Class 12",
-      "subject": "Economics",
-      "chapterCount": 6,
+      "subject": "Mathematics and Statistics",
+      "chapterCount": 7,
       "parts": 2,
-      "contentPath": "class_12/common/economics",
+      "coverUrl": "",
+      "contentPath": "class_12/common/mathematics",
       "streams": [
         "arts",
         "commerce",
@@ -113,157 +200,33 @@
       ]
     },
     {
-      "id": 1225,
-      "title": "Introductory Microeconomics",
+      "id": 1318,
+      "title": "Mathematics and Statistics Part 2",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1t1VTiAZbnBlwIMxdTdsTWoycbowen64R/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Economics",
-      "chapterCount": 5,
-      "parts": 2,
-      "contentPath": "class_12/common/economics",
-      "streams": [
-        "arts",
-        "commerce",
-        "science"
-      ],
-      "mediums": [
-        "english"
-      ]
-    },
-    {
-      "id": 1232,
-      "title": "Flamingo",
-      "subtitle": "Class 12 Maharashtra State Board English Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1RfbL7HYH7bQ_fZfBIMAF-Z_r5AbQ2KSW/view?usp=drivesdk",
-      "language": "english",
-      "classNumber": "Class 12",
-      "subject": "English",
-      "chapterCount": 13,
-      "parts": 1,
-      "contentPath": "class_12/common/english",
-      "streams": [
-        "arts",
-        "commerce",
-        "science"
-      ],
-      "mediums": [
-        "english",
-        "marathi"
-      ]
-    },
-    {
-      "id": 1231,
-      "title": "Vistas",
-      "subtitle": "Class 12 Maharashtra State Board English Supplementary",
-      "coverUrl": "https://drive.google.com/file/d/18T4hTuGLS6fKVEIxPceJvhO_LbjT5GzQ/view?usp=drivesdk",
-      "language": "english",
-      "classNumber": "Class 12",
-      "subject": "English",
-      "chapterCount": 6,
-      "parts": 1,
-      "contentPath": "class_12/common/english",
-      "streams": [
-        "arts",
-        "commerce",
-        "science"
-      ],
-      "mediums": [
-        "english",
-        "marathi"
-      ]
-    },
-    {
-      "id": 1251,
-      "title": "Fundamental of Human Geography",
-      "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1VXQO4EhnIQLALFJYiC2XCfSEc5OazSVF/view?usp=drivesdk",
-      "language": "english",
-      "classNumber": "Class 12",
-      "subject": "Geography",
+      "subject": "Mathematics and Statistics",
       "chapterCount": 8,
-      "parts": 3,
-      "contentPath": "class_12/common/geography",
-      "streams": [
-        "arts",
-        "commerce",
-        "science"
-      ],
-      "mediums": [
-        "english"
-      ]
-    },
-    {
-      "id": 1252,
-      "title": "India - People & Economy",
-      "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1PuosaeU4Eg_Ul7ptu0TJjOm5mwBw-58n/view?usp=drivesdk",
-      "language": "english",
-      "classNumber": "Class 12",
-      "subject": "Geography",
-      "chapterCount": 9,
-      "parts": 3,
-      "contentPath": "class_12/common/geography",
-      "streams": [
-        "arts",
-        "commerce",
-        "science"
-      ],
-      "mediums": [
-        "english"
-      ]
-    },
-    {
-      "id": 1253,
-      "title": "Practical Work in Geography Part II",
-      "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1eWgKK3GSX6vBmIyGj486UTvv76iplSD_/view?usp=drivesdk",
-      "language": "english",
-      "classNumber": "Class 12",
-      "subject": "Geography",
-      "chapterCount": 4,
-      "parts": 3,
-      "contentPath": "class_12/common/geography",
-      "streams": [
-        "arts",
-        "commerce",
-        "science"
-      ],
-      "mediums": [
-        "english"
-      ]
-    },
-    {
-      "id": 1210,
-      "title": "Informatics Practices",
-      "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/19QaMab3pSMoR1LOWFaVL__Kh3GhlhWN7/view?usp=drivesdk",
-      "language": "english",
-      "classNumber": "Class 12",
-      "subject": "Informatics Practices",
-      "chapterCount": 7,
-      "parts": 1,
-      "contentPath": "class_12/common/informatics_practices",
-      "streams": [
-        "arts",
-        "commerce",
-        "science"
-      ],
-      "mediums": [
-        "english"
-      ]
-    },
-    {
-      "id": 1206,
-      "title": "Mathematics Part I",
-      "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1MF0XXvCWVzDKBmr0UEVYRxaacHvfmgqi/view?usp=drivesdk",
-      "language": "english",
-      "classNumber": "Class 12",
-      "subject": "Mathematics",
-      "chapterCount": 6,
       "parts": 2,
+      "coverUrl": "",
+      "contentPath": "class_12/commerce/mathematics",
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "english"
+      ]
+    },
+    {
+      "id": 1329,
+      "title": "Mathematics and Statistics Part 2",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
+      "language": "english",
+      "classNumber": "Class 12",
+      "subject": "Mathematics and Statistics",
+      "chapterCount": 8,
+      "parts": 2,
+      "coverUrl": "",
       "contentPath": "class_12/common/mathematics",
       "streams": [
         "arts",
@@ -275,40 +238,36 @@
       ]
     },
     {
-      "id": 1207,
-      "title": "Mathematics Part II",
+      "id": 1319,
+      "title": "Organisation of Commerce and Management",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1JcCdTvLo9_CTypGBlgb7zKvuqFv652Je/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Mathematics",
-      "chapterCount": 7,
-      "parts": 2,
-      "contentPath": "class_12/common/mathematics",
+      "subject": "Organisation of Commerce and Management",
+      "chapterCount": 8,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/commerce/organisation_of_commerce_management",
       "streams": [
-        "arts",
-        "commerce",
-        "science"
+        "commerce"
       ],
       "mediums": [
         "english"
       ]
     },
     {
-      "id": 1248,
-      "title": "Psychology",
+      "id": 1321,
+      "title": "Secretarial Practice",
       "subtitle": "Class 12 Maharashtra State Board Textbook",
-      "coverUrl": "https://drive.google.com/file/d/17WsslIx6mLDY2b9tYJ2ULw4ZZ-QMPIor/view?usp=drivesdk",
       "language": "english",
       "classNumber": "Class 12",
-      "subject": "Psychology",
-      "chapterCount": 7,
+      "subject": "Secretarial Practice",
+      "chapterCount": 12,
       "parts": 1,
-      "contentPath": "class_12/common/psychology",
+      "coverUrl": "",
+      "contentPath": "class_12/commerce/secretarial_practice",
       "streams": [
-        "arts",
-        "commerce",
-        "science"
+        "commerce"
       ],
       "mediums": [
         "english"

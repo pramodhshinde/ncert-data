@@ -1,15 +1,35 @@
 {
   "books": [
     {
-      "id": 1232,
-      "title": "Flamingo",
-      "subtitle": "Class 12 Maharashtra State Board English Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1RfbL7HYH7bQ_fZfBIMAF-Z_r5AbQ2KSW/view?usp=drivesdk",
+      "id": 1324,
+      "title": "Economics",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Economics",
+      "chapterCount": 11,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/economics",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1325,
+      "title": "English",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
       "language": "english",
       "classNumber": "Class 12",
       "subject": "English",
-      "chapterCount": 13,
+      "chapterCount": 26,
       "parts": 1,
+      "coverUrl": "",
       "contentPath": "class_12/common/english",
       "streams": [
         "arts",
@@ -22,16 +42,34 @@
       ]
     },
     {
-      "id": 1231,
-      "title": "Vistas",
-      "subtitle": "Class 12 Maharashtra State Board English Supplementary",
-      "coverUrl": "https://drive.google.com/file/d/18T4hTuGLS6fKVEIxPceJvhO_LbjT5GzQ/view?usp=drivesdk",
-      "language": "english",
+      "id": 1302,
+      "title": "Geography",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
       "classNumber": "Class 12",
-      "subject": "English",
-      "chapterCount": 6,
+      "subject": "Geography",
+      "chapterCount": 8,
       "parts": 1,
-      "contentPath": "class_12/common/english",
+      "coverUrl": "",
+      "contentPath": "class_12/arts/geography",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1233,
+      "title": "Aroh Part II",
+      "subtitle": "Class 12 Maharashtra State Board Hindi Textbook",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 15,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
       "streams": [
         "arts",
         "commerce",
@@ -39,6 +77,159 @@
       ],
       "mediums": [
         "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1326,
+      "title": "Hindi",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 19,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1234,
+      "title": "Vitan Part II",
+      "subtitle": "Class 12 Maharashtra State Board Hindi Supplementary",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 3,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1304,
+      "title": "History",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "History",
+      "chapterCount": 12,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/arts/history",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1327,
+      "title": "Marathi",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Marathi",
+      "chapterCount": 23,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/marathi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1307,
+      "title": "Philosophy",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Philosophy",
+      "chapterCount": 7,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/arts/philosophy",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1309,
+      "title": "Political Science",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Political Science",
+      "chapterCount": 6,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/arts/political_science",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1311,
+      "title": "Psychology",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Psychology",
+      "chapterCount": 8,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/arts/psychology",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1313,
+      "title": "Sociology",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Sociology",
+      "chapterCount": 6,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/arts/sociology",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
         "marathi"
       ]
     }

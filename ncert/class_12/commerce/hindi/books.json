@@ -41,6 +41,48 @@
         "english",
         "hindi"
       ]
+    },
+    {
+      "id": 1233,
+      "title": "Aroh Part II",
+      "subtitle": "Class 12 NCERT Hindi Textbook",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 15,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "hindi"
+      ]
+    },
+    {
+      "id": 1234,
+      "title": "Vitan Part II",
+      "subtitle": "Class 12 NCERT Hindi Supplementary",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 3,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "hindi"
+      ]
     }
   ]
 }

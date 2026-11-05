@@ -1,15 +1,53 @@
 {
   "books": [
     {
-      "id": 1232,
-      "title": "Flamingo",
-      "subtitle": "Class 12 Maharashtra State Board English Textbook",
-      "coverUrl": "https://drive.google.com/file/d/1RfbL7HYH7bQ_fZfBIMAF-Z_r5AbQ2KSW/view?usp=drivesdk",
+      "id": 1315,
+      "title": "Book-keeping and Accountancy",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Book-keeping and Accountancy",
+      "chapterCount": 10,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/commerce/accountancy",
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1324,
+      "title": "Economics",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Economics",
+      "chapterCount": 11,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/economics",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1325,
+      "title": "English",
+      "subtitle": "Class 12 Maharashtra State Board Textbook",
       "language": "english",
       "classNumber": "Class 12",
       "subject": "English",
-      "chapterCount": 13,
+      "chapterCount": 26,
       "parts": 1,
+      "coverUrl": "",
       "contentPath": "class_12/common/english",
       "streams": [
         "arts",
@@ -22,16 +60,16 @@
       ]
     },
     {
-      "id": 1231,
-      "title": "Vistas",
-      "subtitle": "Class 12 Maharashtra State Board English Supplementary",
-      "coverUrl": "https://drive.google.com/file/d/18T4hTuGLS6fKVEIxPceJvhO_LbjT5GzQ/view?usp=drivesdk",
-      "language": "english",
+      "id": 1233,
+      "title": "Aroh Part II",
+      "subtitle": "Class 12 Maharashtra State Board Hindi Textbook",
+      "language": "hindi",
       "classNumber": "Class 12",
-      "subject": "English",
-      "chapterCount": 6,
+      "subject": "Hindi",
+      "chapterCount": 15,
       "parts": 1,
-      "contentPath": "class_12/common/english",
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
       "streams": [
         "arts",
         "commerce",
@@ -39,6 +77,105 @@
       ],
       "mediums": [
         "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1326,
+      "title": "Hindi",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 19,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1234,
+      "title": "Vitan Part II",
+      "subtitle": "Class 12 Maharashtra State Board Hindi Supplementary",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 3,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1327,
+      "title": "Marathi",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Marathi",
+      "chapterCount": 23,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/common/marathi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "marathi"
+      ]
+    },
+    {
+      "id": 1320,
+      "title": "Organisation of Commerce and Management",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Organisation of Commerce and Management",
+      "chapterCount": 8,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/commerce/organisation_of_commerce_management",
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
+        "marathi"
+      ]
+    },
+    {
+      "id": 1322,
+      "title": "Secretarial Practice",
+      "subtitle": "Class 12 Maharashtra State Board Textbook (Marathi Medium)",
+      "language": "marathi",
+      "classNumber": "Class 12",
+      "subject": "Secretarial Practice",
+      "chapterCount": 12,
+      "parts": 1,
+      "coverUrl": "",
+      "contentPath": "class_12/commerce/secretarial_practice",
+      "streams": [
+        "commerce"
+      ],
+      "mediums": [
         "marathi"
       ]
     }

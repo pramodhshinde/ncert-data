@@ -22,16 +22,16 @@
     },
     "class_12": {
       "arts": {
-        "english": 20,
-        "marathi": 2
+        "english": 15,
+        "marathi": 12
       },
       "commerce": {
-        "english": 16,
-        "marathi": 2
+        "english": 14,
+        "marathi": 9
       },
       "science": {
-        "english": 17,
-        "marathi": 2
+        "english": 12,
+        "marathi": 6
       }
     }
   }

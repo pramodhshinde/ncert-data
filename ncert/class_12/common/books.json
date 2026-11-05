@@ -131,6 +131,28 @@
       "subject": "Psychology",
       "chapterCount": 7,
       "parts": 1
+    },
+    {
+      "id": 1233,
+      "title": "Aroh Part II",
+      "subtitle": "Class 12 NCERT Hindi Textbook",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 15,
+      "parts": 1,
+      "coverUrl": ""
+    },
+    {
+      "id": 1234,
+      "title": "Vitan Part II",
+      "subtitle": "Class 12 NCERT Hindi Supplementary",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 3,
+      "parts": 1,
+      "coverUrl": ""
     }
   ]
 }

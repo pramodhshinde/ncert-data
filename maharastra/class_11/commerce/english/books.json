@@ -85,7 +85,7 @@
       "subject": "Geography",
       "chapterCount": 9,
       "parts": 1,
-      "contentPath": "class_11/common/geography",
+      "contentPath": "class_11/commerce/geography",
       "streams": [
         "arts",
         "commerce",
@@ -205,7 +205,7 @@
       "subject": "Mathematics and Statistics",
       "chapterCount": 9,
       "parts": 2,
-      "contentPath": null,
+      "contentPath": "class_11/commerce/mathematics",
       "streams": [
         "commerce"
       ],
@@ -223,7 +223,7 @@
       "subject": "Mathematics and Statistics",
       "chapterCount": 9,
       "parts": 2,
-      "contentPath": null,
+      "contentPath": "class_11/commerce/mathematics",
       "streams": [
         "commerce"
       ],
@@ -241,7 +241,7 @@
       "subject": "Organisation of Commerce and Management",
       "chapterCount": 8,
       "parts": 1,
-      "contentPath": null,
+      "contentPath": "class_11/commerce/organisation_of_commerce_management",
       "streams": [
         "commerce"
       ],
@@ -259,7 +259,7 @@
       "subject": "Physical Education",
       "chapterCount": 10,
       "parts": 1,
-      "contentPath": "class_11/common/physical_education",
+      "contentPath": "class_11/arts/physical_education",
       "streams": [
         "arts",
         "commerce",
@@ -279,7 +279,7 @@
       "subject": "Psychology",
       "chapterCount": 8,
       "parts": 1,
-      "contentPath": "class_11/common/psychology",
+      "contentPath": "class_11/arts/psychology",
       "streams": [
         "arts",
         "commerce",
