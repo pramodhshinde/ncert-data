@@ -22,3 +22,7 @@ chapters/mcqs), `streams` and `mediums`.
 ## Editing
 Edit the source `books.json` files (stream/common), then run `python tools/build_catalog.py`.
 Never hand-edit `<stream>/<medium>/*.json` — they are regenerated.
+
+## De-duplication (board fallback)
+Files that were byte-identical copies of NCERT in `maharastra/` (791 MCQ files) were removed. The app reads
+`maharastra/...` first and falls back to the same path under `ncert/` (`FALLBACK_BOARD_ROOT`, default `ncert` for the Maharashtra board).
