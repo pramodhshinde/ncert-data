@@ -26,3 +26,7 @@ Never hand-edit `<stream>/<medium>/*.json` — they are regenerated.
 ## De-duplication (board fallback)
 Files that were byte-identical copies of NCERT in `maharastra/` (791 MCQ files) were removed. The app reads
 `maharastra/...` first and falls back to the same path under `ncert/` (`FALLBACK_BOARD_ROOT`, default `ncert` for the Maharashtra board).
+
+## Importing manifests
+`tools/import_ncert_hindi.py "<folder>" --apply` turns Book/Notes/Solution `{name,url}` manifests of the NCERT Hindi medium into
+`language=hindi` books + chapters (211 chapters class 11, 189 class 12). Run without `--apply` to preview. Afterwards run `tools/build_catalog.py`.

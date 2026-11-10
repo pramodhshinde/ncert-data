@@ -8,30 +8,30 @@
   "classes": {
     "class_11": {
       "arts": {
-        "english": 18,
-        "hindi": 5
+        "english": 20,
+        "hindi": 19
       },
       "commerce": {
-        "english": 18,
-        "hindi": 5
+        "english": 20,
+        "hindi": 19
       },
       "science": {
-        "english": 18,
-        "hindi": 6
+        "english": 20,
+        "hindi": 19
       }
     },
     "class_12": {
       "arts": {
-        "english": 22,
-        "hindi": 4
+        "english": 24,
+        "hindi": 21
       },
       "commerce": {
-        "english": 18,
-        "hindi": 4
+        "english": 20,
+        "hindi": 18
       },
       "science": {
-        "english": 19,
-        "hindi": 4
+        "english": 21,
+        "hindi": 19
       }
     }
   }

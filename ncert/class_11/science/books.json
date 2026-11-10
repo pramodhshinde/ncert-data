@@ -67,15 +67,59 @@
       "parts": 1
     },
     {
-      "id": 1116,
-      "title": "Ganit",
-      "subtitle": "Class 11 NCERT Textbook (Hindi)",
+      "id": 1167,
+      "title": "जीव विज्ञान",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1bNxaC7JDdSXrKYsa07v0yBiSmyXz7jff",
       "language": "hindi",
       "classNumber": "Class 11",
-      "subject": "Mathematics",
-      "chapterCount": 14,
-      "parts": 1,
-      "coverUrl": ""
+      "subject": "Biology",
+      "chapterCount": 19,
+      "parts": 1
+    },
+    {
+      "id": 1173,
+      "title": "भौतिकी भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1By-oZ-MTfasbiRI2VdozBLoulAto9Ssb",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Physics",
+      "chapterCount": 7,
+      "parts": 1
+    },
+    {
+      "id": 1174,
+      "title": "भौतिकी भाग 2",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1L6VbWBcW3GzBWmfw0ReNQobhQhF2VVoT",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Physics",
+      "chapterCount": 7,
+      "parts": 1
+    },
+    {
+      "id": 1178,
+      "title": "रसायन विज्ञान भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1gmzOH0tD0qHCrPPsvVwn-vjzS8OOkuZR",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Chemistry",
+      "chapterCount": 6,
+      "parts": 1
+    },
+    {
+      "id": 1179,
+      "title": "रसायन विज्ञान भाग 2",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=12CDh0C1LGbwlCk5W2f4t8xgOYxVZOuYK",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Chemistry",
+      "chapterCount": 3,
+      "parts": 1
     }
   ]
 }

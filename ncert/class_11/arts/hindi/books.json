@@ -64,14 +64,74 @@
       ]
     },
     {
-      "id": 1133,
-      "title": "Aroh",
-      "subtitle": "Class 11 NCERT Hindi Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehr1.jpg",
+      "id": 1169,
+      "title": "भारत भौतिक पर्यावरण",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 6,
+      "parts": 1,
+      "contentPath": "class_11/common/geography",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1171,
+      "title": "भुगोल में प्रयोगात्मक कार्य",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=19wz-8aSpp2O6ecZIPtI5FGM8rQcikFI3",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 6,
+      "parts": 1,
+      "contentPath": "class_11/common/geography",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1172,
+      "title": "भौतिक भुगोल के मूल सिद्धांत",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1j1e0sb1u6hXY6zBYfn53A79oeaMJ9mDd",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Geography",
+      "chapterCount": 14,
+      "parts": 1,
+      "contentPath": "class_11/common/geography",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1161,
+      "title": "अंतरा भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
       "language": "hindi",
       "classNumber": "Class 11",
       "subject": "Hindi",
-      "chapterCount": 20,
+      "chapterCount": 16,
       "parts": 1,
       "contentPath": "class_11/common/hindi",
       "streams": [
@@ -85,14 +145,14 @@
       ]
     },
     {
-      "id": 1134,
-      "title": "Vitan",
-      "subtitle": "Class 11 NCERT Hindi Supplementary",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehv1.jpg",
+      "id": 1162,
+      "title": "अंतराल भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
       "language": "hindi",
       "classNumber": "Class 11",
       "subject": "Hindi",
-      "chapterCount": 4,
+      "chapterCount": 2,
       "parts": 1,
       "contentPath": "class_11/common/hindi",
       "streams": [
@@ -102,6 +162,218 @@
       ],
       "mediums": [
         "english",
+        "hindi"
+      ]
+    },
+    {
+      "id": 1163,
+      "title": "आरोह भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 16,
+      "parts": 1,
+      "contentPath": "class_11/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "hindi"
+      ]
+    },
+    {
+      "id": 1164,
+      "title": "वितान भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 5,
+      "parts": 1,
+      "contentPath": "class_11/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "hindi"
+      ]
+    },
+    {
+      "id": 1183,
+      "title": "विश्व इतिहास के कुछ विषय",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1ht7vEGsNaZV5d5xHYTm6bmxwFPikyTrs",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "History",
+      "chapterCount": 7,
+      "parts": 1,
+      "contentPath": "class_11/arts/history",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1176,
+      "title": "मानव पारिस्थितिकी एवं परिवार विज्ञान भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Home Science",
+      "chapterCount": 6,
+      "parts": 1,
+      "contentPath": "class_11/common/home_science",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1177,
+      "title": "मानव पारिस्थितिकी एवं परिवार विज्ञान भाग 2",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Home Science",
+      "chapterCount": 5,
+      "parts": 1,
+      "contentPath": "class_11/common/home_science",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1166,
+      "title": "गणित",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1Qsf409xhhWRUpg6bfu56Bo3opmy8dt4G",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Mathematics",
+      "chapterCount": 14,
+      "parts": 1,
+      "contentPath": "class_11/common/mathematics",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1168,
+      "title": "भारत का संविधान सिद्धांत और व्यवहार",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1e_QG8uW3yLD9gazg93j-lZNHenLnRUE4",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Political Science",
+      "chapterCount": 10,
+      "parts": 1,
+      "contentPath": "class_11/arts/political_science",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1180,
+      "title": "राजनीतिक सिद्धांत",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1GcgKPBfvZS7RQ9pC-Bbodl_1BTkaqOgN",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Political Science",
+      "chapterCount": 8,
+      "parts": 1,
+      "contentPath": "class_11/arts/political_science",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1175,
+      "title": "मनोविज्ञान",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1Zi4RmpIYh43LL0X9vNoGdOgpDi1M6EKh",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Psychology",
+      "chapterCount": 8,
+      "parts": 1,
+      "contentPath": "class_11/common/psychology",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1185,
+      "title": "समाज का बोध",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=1mtsiLOzZOoRQtE1mq_r1p7XF27kZSTIf",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Sociology",
+      "chapterCount": 5,
+      "parts": 1,
+      "contentPath": "class_11/arts/sociology",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
+        "hindi"
+      ]
+    },
+    {
+      "id": 1186,
+      "title": "समाजशास्त्र परिचय",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/uc?export=download&id=183UYgfZp-51_O9figetNkxVEmGoL4N0O",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Sociology",
+      "chapterCount": 5,
+      "parts": 1,
+      "contentPath": "class_11/arts/sociology",
+      "streams": [
+        "arts"
+      ],
+      "mediums": [
         "hindi"
       ]
     }

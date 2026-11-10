@@ -232,14 +232,14 @@
       ]
     },
     {
-      "id": 1133,
-      "title": "Aroh",
-      "subtitle": "Class 11 NCERT Hindi Textbook",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehr1.jpg",
+      "id": 1161,
+      "title": "अंतरा भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
       "language": "hindi",
       "classNumber": "Class 11",
       "subject": "Hindi",
-      "chapterCount": 20,
+      "chapterCount": 16,
       "parts": 1,
       "contentPath": "class_11/common/hindi",
       "streams": [
@@ -253,14 +253,56 @@
       ]
     },
     {
-      "id": 1134,
-      "title": "Vitan",
-      "subtitle": "Class 11 NCERT Hindi Supplementary",
-      "coverUrl": "https://ncert.nic.in/textbook/pdf/cover/kehv1.jpg",
+      "id": 1162,
+      "title": "अंतराल भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
       "language": "hindi",
       "classNumber": "Class 11",
       "subject": "Hindi",
-      "chapterCount": 4,
+      "chapterCount": 2,
+      "parts": 1,
+      "contentPath": "class_11/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "hindi"
+      ]
+    },
+    {
+      "id": 1163,
+      "title": "आरोह भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 16,
+      "parts": 1,
+      "contentPath": "class_11/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "hindi"
+      ]
+    },
+    {
+      "id": 1164,
+      "title": "वितान भाग 1",
+      "subtitle": "Class 11 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 11",
+      "subject": "Hindi",
+      "chapterCount": 5,
       "parts": 1,
       "contentPath": "class_11/common/hindi",
       "streams": [

@@ -235,15 +235,15 @@
       ]
     },
     {
-      "id": 1233,
-      "title": "Aroh Part II",
-      "subtitle": "Class 12 NCERT Hindi Textbook",
+      "id": 1261,
+      "title": "अंतरा 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
       "language": "hindi",
       "classNumber": "Class 12",
       "subject": "Hindi",
-      "chapterCount": 15,
+      "chapterCount": 17,
       "parts": 1,
-      "coverUrl": "",
       "contentPath": "class_12/common/hindi",
       "streams": [
         "arts",
@@ -256,15 +256,57 @@
       ]
     },
     {
-      "id": 1234,
-      "title": "Vitan Part II",
-      "subtitle": "Class 12 NCERT Hindi Supplementary",
+      "id": 1262,
+      "title": "अंतराल 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
       "language": "hindi",
       "classNumber": "Class 12",
       "subject": "Hindi",
       "chapterCount": 3,
       "parts": 1,
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "hindi"
+      ]
+    },
+    {
+      "id": 1263,
+      "title": "आरोह 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
       "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 15,
+      "parts": 1,
+      "contentPath": "class_12/common/hindi",
+      "streams": [
+        "arts",
+        "commerce",
+        "science"
+      ],
+      "mediums": [
+        "english",
+        "hindi"
+      ]
+    },
+    {
+      "id": 1264,
+      "title": "वितान 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 3,
+      "parts": 1,
       "contentPath": "class_12/common/hindi",
       "streams": [
         "arts",

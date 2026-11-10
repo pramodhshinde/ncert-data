@@ -133,26 +133,136 @@
       "parts": 1
     },
     {
-      "id": 1233,
-      "title": "Aroh Part II",
-      "subtitle": "Class 12 NCERT Hindi Textbook",
+      "id": 1261,
+      "title": "अंतरा 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
       "language": "hindi",
       "classNumber": "Class 12",
       "subject": "Hindi",
-      "chapterCount": 15,
-      "parts": 1,
-      "coverUrl": ""
+      "chapterCount": 17,
+      "parts": 1
     },
     {
-      "id": 1234,
-      "title": "Vitan Part II",
-      "subtitle": "Class 12 NCERT Hindi Supplementary",
+      "id": 1262,
+      "title": "अंतराल 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
       "language": "hindi",
       "classNumber": "Class 12",
       "subject": "Hindi",
       "chapterCount": 3,
-      "parts": 1,
-      "coverUrl": ""
+      "parts": 1
+    },
+    {
+      "id": 1263,
+      "title": "आरोह 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 15,
+      "parts": 1
+    },
+    {
+      "id": 1264,
+      "title": "वितान 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Hindi",
+      "chapterCount": 3,
+      "parts": 1
+    },
+    {
+      "id": 1265,
+      "title": "गणित 1",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1MF0XXvCWVzDKBmr0UEVYRxaacHvfmgqi/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Mathematics",
+      "chapterCount": 6,
+      "parts": 1
+    },
+    {
+      "id": 1266,
+      "title": "गणित 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1JcCdTvLo9_CTypGBlgb7zKvuqFv652Je/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Mathematics",
+      "chapterCount": 7,
+      "parts": 1
+    },
+    {
+      "id": 1269,
+      "title": "भारत लोग और अर्थव्यवस्था",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1PuosaeU4Eg_Ul7ptu0TJjOm5mwBw-58n/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Geography",
+      "chapterCount": 9,
+      "parts": 1
+    },
+    {
+      "id": 1274,
+      "title": "भूगोल मे प्रयोगात्मक कार्य 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1eWgKK3GSX6vBmIyGj486UTvv76iplSD_/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Geography",
+      "chapterCount": 4,
+      "parts": 1
+    },
+    {
+      "id": 1277,
+      "title": "मनोविज्ञान",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/17WsslIx6mLDY2b9tYJ2ULw4ZZ-QMPIor/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Psychology",
+      "chapterCount": 7,
+      "parts": 1
+    },
+    {
+      "id": 1278,
+      "title": "मानव भूगोल के मूल सिद्धांत",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1VXQO4EhnIQLALFJYiC2XCfSEc5OazSVF/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Geography",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1285,
+      "title": "व्यष्टी अर्थशास्त्र एक परिचय",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1t1VTiAZbnBlwIMxdTdsTWoycbowen64R/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Economics",
+      "chapterCount": 5,
+      "parts": 1
+    },
+    {
+      "id": 1287,
+      "title": "समष्टी अर्थशास्त्र एक परिचय",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/19UWYPtUdqLPz0ESNCkKgRPLzcO-TpdxV/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Economics",
+      "chapterCount": 6,
+      "parts": 1
     }
   ]
 }

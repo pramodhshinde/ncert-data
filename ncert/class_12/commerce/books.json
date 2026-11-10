@@ -43,6 +43,50 @@
       "subject": "Business Studies",
       "chapterCount": 3,
       "parts": 2
+    },
+    {
+      "id": 1281,
+      "title": "लेखाशास्त्र 1",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1nKSUOvj9Pr4iXHhFDNHdDwjUVWYlAAx4/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Accountancy",
+      "chapterCount": 4,
+      "parts": 1
+    },
+    {
+      "id": 1282,
+      "title": "लेखाशास्त्र 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1Ids_QuxfIR9skmQX_zXJgXPSnymR28rH/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Accountancy",
+      "chapterCount": 5,
+      "parts": 1
+    },
+    {
+      "id": 1283,
+      "title": "व्यवसाय अध्ययन 1",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1W627iWfrMtanL7REGmqBn7HG_2S9YAnw/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Business Studies",
+      "chapterCount": 8,
+      "parts": 1
+    },
+    {
+      "id": 1284,
+      "title": "व्यवसाय अध्ययन 2",
+      "subtitle": "Class 12 NCERT Hindi Medium Textbook",
+      "coverUrl": "https://drive.google.com/file/d/1BO-DQI1zR_DYDUzT9y7t3LbkHvKR7Hp_/view?usp=drivesdk",
+      "language": "hindi",
+      "classNumber": "Class 12",
+      "subject": "Business Studies",
+      "chapterCount": 3,
+      "parts": 1
     }
   ]
 }
