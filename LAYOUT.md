@@ -30,3 +30,8 @@ Files that were byte-identical copies of NCERT in `maharastra/` (791 MCQ files) 
 ## Importing manifests
 `tools/import_ncert_hindi.py "<folder>" --apply` turns Book/Notes/Solution `{name,url}` manifests of the NCERT Hindi medium into
 `language=hindi` books + chapters (211 chapters class 11, 189 class 12). Run without `--apply` to preview. Afterwards run `tools/build_catalog.py`.
+
+## Covers
+`covers/<board>/class_N/<bookId>.jpg` are the supplied real covers (Balbharati HSC + NCERT Hindi), linked from `coverUrl`.
+`tools/import_covers.py "<folder>"` copies them in (file name -> book id is listed in the script); `tools/make_covers.py` draws a plain
+cover for any book that still has none. NCERT English books keep their existing Drive covers.
